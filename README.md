@@ -136,3 +136,24 @@ Congress.gov CRS API      Think tank RSS/XML feeds
 ## Production Notes
 
 For production, verify each configured feed URL in `sources_config.json`, store `CONGRESS_API_KEY` as a secret, and let GitHub Actions or another scheduler run `update_sources.py` hourly. If a source does not expose a stable RSS feed, leave its entry in `sources_config.json` and add the approved feed or API URL later.
+
+## Source Status
+
+Production-ready sources currently configured with working feeds:
+
+- RAND Corporation
+- Council on Foreign Relations
+- Heritage Foundation
+- Hudson Institute
+- Hoover Institution
+
+CRS is production-ready through the official Congress.gov API when `CONGRESS_API_KEY` is configured.
+
+Disabled or unstable sources:
+
+- Brookings Institution: advertised feed returns HTML in this environment instead of RSS/Atom XML.
+- CSIS: disabled as unsupported/unstable. RSS discovery failed for current publications, sitemap discovery did not yield a stable publication feed, and HTML analysis page parsing did not produce a reliable extraction path.
+- Carnegie Endowment for International Peace: tested feed URL returns HTML instead of RSS/Atom XML.
+- American Enterprise Institute: tested feed URL returns HTTP 403.
+
+To support CSIS in the future, use an official current-publications RSS/Atom feed, a documented public API, or a stable export endpoint from CSIS. Avoid maintaining dashboard-specific HTML selectors unless CSIS provides a stable contract for that markup.

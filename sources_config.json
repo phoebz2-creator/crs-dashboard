@@ -13,9 +13,9 @@
         },
         {
             "name": "CSIS",
-            "type": "rss",
+            "type": "unsupported",
             "feed_url": "",
-            "notes": "The tested public RSS endpoint returned stale 2016 event entries, so it is disabled until a current publications feed is identified."
+            "notes": "Disabled. RSS discovery failed, sitemap discovery did not yield a stable publication feed, and HTML listing parsing was not reliable. Requires an official current publications feed or API before re-enabling."
         },
         {
             "name": "RAND Corporation",
