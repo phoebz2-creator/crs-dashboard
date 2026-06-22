@@ -93,6 +93,28 @@ Add:
 0 7 * * * cd /Users/phoeeebesmacbook/Desktop/Codex && CONGRESS_API_KEY="your_api_key_here" /usr/bin/python3 update_reports.py >> update.log 2>&1
 ```
 
+## GitHub Actions Updates
+
+This repository includes `.github/workflows/update-reports.yml`, which runs `update_reports.py` every hour and can also be started manually from the GitHub Actions tab. If `reports.json` changes, the workflow commits and pushes the updated file back to the `main` branch.
+
+Add the API key as a GitHub repository secret:
+
+1. Open the GitHub repository in your browser.
+2. Go to `Settings`.
+3. Go to `Secrets and variables`.
+4. Select `Actions`.
+5. Click `New repository secret`.
+6. Set the secret name to:
+
+```text
+CONGRESS_API_KEY
+```
+
+7. Paste your Congress.gov API key as the secret value.
+8. Click `Add secret`.
+
+Do not commit the API key to the repository. The workflow reads it securely through `${{ secrets.CONGRESS_API_KEY }}`.
+
 ## Architecture
 
 ```text
