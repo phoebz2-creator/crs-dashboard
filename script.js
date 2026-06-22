@@ -6,6 +6,7 @@ const resultsSummary = document.getElementById("resultsSummary");
 const activeSourceLabel = document.getElementById("activeSource");
 const emptyState = document.getElementById("emptyState");
 const reportCount = document.getElementById("reportCount");
+const lastUpdated = document.getElementById("lastUpdated");
 
 let activeSource = "All";
 let publications = [];
@@ -34,6 +35,24 @@ function formatDate(dateString) {
         day: "numeric",
         year: "numeric"
     }).format(date);
+}
+
+function updateLastUpdated() {
+    const latestDate = publications
+        .map((report) => new Date(`${report.publicationDate}T00:00:00`))
+        .filter((date) => !Number.isNaN(date.getTime()))
+        .sort((first, second) => second - first)[0];
+
+    if (!latestDate) {
+        lastUpdated.textContent = "Last Updated: Date unavailable";
+        return;
+    }
+
+    lastUpdated.textContent = `Last Updated: ${new Intl.DateTimeFormat("en-US", {
+        month: "long",
+        day: "numeric",
+        year: "numeric"
+    }).format(latestDate)}`;
 }
 
 function getFilteredReports() {
@@ -143,11 +162,13 @@ async function loadReports() {
         }
 
         publications = await response.json();
+        updateLastUpdated();
         renderSourceFilters();
         renderReports();
     } catch (error) {
         publications = [];
         reportCount.textContent = "0";
+        lastUpdated.textContent = "Last Updated: Date unavailable";
         resultsSummary.textContent = "Unable to load sources.json. Start a local server and refresh the page.";
         emptyState.hidden = false;
         reportsGrid.hidden = true;

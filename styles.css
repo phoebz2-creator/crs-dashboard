@@ -70,9 +70,16 @@ h1 {
 
 .header-summary {
     max-width: 680px;
-    margin-bottom: 0;
+    margin-bottom: 10px;
     color: #d8e4e7;
     font-size: 1.05rem;
+}
+
+.last-updated {
+    margin-bottom: 0;
+    color: #b9d7d9;
+    font-size: 0.92rem;
+    font-weight: 700;
 }
 
 .header-stat {
