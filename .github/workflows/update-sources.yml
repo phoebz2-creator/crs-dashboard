@@ -1,4 +1,4 @@
-name: Update CRS Reports
+name: Update Policy Research Sources
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update-reports:
+  update-sources:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,20 +23,20 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Update CRS report data
+      - name: Update policy research data
         env:
           CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
-        run: python update_reports.py
+        run: python update_sources.py
 
-      - name: Commit updated reports.json
+      - name: Commit updated sources.json
         run: |
-          if git diff --quiet -- reports.json; then
-            echo "reports.json did not change."
+          if git diff --quiet -- sources.json; then
+            echo "sources.json did not change."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports.json
-          git commit -m "Update CRS reports data"
+          git add sources.json
+          git commit -m "Update policy research sources"
           git push origin HEAD:main

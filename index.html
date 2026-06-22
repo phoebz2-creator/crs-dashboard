@@ -3,17 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CRS Daily Reports</title>
+    <title>U.S. Policy Research Dashboard</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header class="site-header">
         <div class="header-content">
             <div>
-                <p class="eyebrow">Congressional Research Service Dashboard</p>
-                <h1>CRS Daily Reports</h1>
+                <p class="eyebrow">Think Tank and CRS Publications</p>
+                <h1>U.S. Policy Research Dashboard</h1>
                 <p class="header-summary">
-                    Track recent CRS publications across policy areas with searchable summaries and direct source links.
+                    Track the latest research and analysis from major U.S. policy institutions in one searchable interface.
                 </p>
             </div>
             <div class="header-stat" aria-label="Report count">
@@ -24,41 +24,36 @@
     </header>
 
     <main class="dashboard">
-        <section class="toolbar" aria-label="Report search and filters">
-            <label class="search-label" for="searchInput">Search reports</label>
+        <section class="toolbar" aria-label="Publication search and filters">
+            <label class="search-label" for="searchInput">Search publications</label>
             <div class="search-row">
                 <input
                     id="searchInput"
                     type="search"
-                    placeholder="Search by title, topic, or summary"
+                    placeholder="Search by source, title, topic, or summary"
                     autocomplete="off"
                 >
                 <button id="clearSearch" type="button">Clear</button>
             </div>
 
-            <div class="filter-group" aria-label="Category filters">
-                <button class="filter-button active" type="button" data-category="All">All</button>
-                <button class="filter-button" type="button" data-category="Foreign Policy">Foreign Policy</button>
-                <button class="filter-button" type="button" data-category="Defense">Defense</button>
-                <button class="filter-button" type="button" data-category="Economy">Economy</button>
-                <button class="filter-button" type="button" data-category="Healthcare">Healthcare</button>
-                <button class="filter-button" type="button" data-category="Technology">Technology</button>
+            <div id="sourceFilters" class="filter-group" aria-label="Source filters">
+                <button class="filter-button active" type="button" data-source="All">All Sources</button>
             </div>
         </section>
 
         <section class="results-header" aria-live="polite">
             <div>
-                <h2>Report Library</h2>
-                <p id="resultsSummary">Loading CRS reports.</p>
+                <h2>Latest Publications</h2>
+                <p id="resultsSummary">Loading policy research.</p>
             </div>
-            <span id="activeCategory" class="active-category">All categories</span>
+            <span id="activeSource" class="active-category">All sources</span>
         </section>
 
-        <section id="reportsGrid" class="reports-grid" aria-label="CRS reports"></section>
+        <section id="reportsGrid" class="reports-grid" aria-label="Policy research publications"></section>
 
         <section id="emptyState" class="empty-state" hidden>
             <h2>No reports found</h2>
-            <p>Adjust the search term or choose another category filter.</p>
+            <p>Adjust the search term or choose another source filter.</p>
         </section>
     </main>
 

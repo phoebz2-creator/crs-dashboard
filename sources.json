@@ -1,0 +1,102 @@
+[
+    {
+        "id": "sample-crs",
+        "source": "Congressional Research Service",
+        "title": "Sample CRS Report",
+        "publicationDate": "2026-06-22",
+        "category": "Other",
+        "summary": "Placeholder item. Run update_sources.py with CONGRESS_API_KEY to replace this file with live Congress.gov API and RSS feed data.",
+        "url": "https://api.congress.gov/",
+        "placeholder": true
+    },
+    {
+        "id": "sample-brookings",
+        "source": "Brookings Institution",
+        "title": "Sample Brookings Publication",
+        "publicationDate": "2026-06-22",
+        "category": "Other",
+        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
+        "url": "https://www.brookings.edu/",
+        "placeholder": true
+    },
+    {
+        "id": "sample-csis",
+        "source": "CSIS",
+        "title": "Sample CSIS Analysis",
+        "publicationDate": "2026-06-22",
+        "category": "Defense",
+        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
+        "url": "https://www.csis.org/",
+        "placeholder": true
+    },
+    {
+        "id": "sample-rand",
+        "source": "RAND Corporation",
+        "title": "Sample RAND Research",
+        "publicationDate": "2026-06-22",
+        "category": "Other",
+        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
+        "url": "https://www.rand.org/",
+        "placeholder": true
+    },
+    {
+        "id": "sample-cfr",
+        "source": "Council on Foreign Relations",
+        "title": "Sample CFR Analysis",
+        "publicationDate": "2026-06-22",
+        "category": "Foreign Policy",
+        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
+        "url": "https://www.cfr.org/",
+        "placeholder": true
+    },
+    {
+        "id": "sample-carnegie",
+        "source": "Carnegie Endowment for International Peace",
+        "title": "Sample Carnegie Publication",
+        "publicationDate": "2026-06-22",
+        "category": "Foreign Policy",
+        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
+        "url": "https://carnegieendowment.org/",
+        "placeholder": true
+    },
+    {
+        "id": "sample-aei",
+        "source": "American Enterprise Institute",
+        "title": "Sample AEI Publication",
+        "publicationDate": "2026-06-22",
+        "category": "Economy",
+        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
+        "url": "https://www.aei.org/",
+        "placeholder": true
+    },
+    {
+        "id": "sample-heritage",
+        "source": "Heritage Foundation",
+        "title": "Sample Heritage Research",
+        "publicationDate": "2026-06-22",
+        "category": "Other",
+        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
+        "url": "https://www.heritage.org/",
+        "placeholder": true
+    },
+    {
+        "id": "sample-hudson",
+        "source": "Hudson Institute",
+        "title": "Sample Hudson Institute Analysis",
+        "publicationDate": "2026-06-22",
+        "category": "Foreign Policy",
+        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
+        "url": "https://www.hudson.org/",
+        "placeholder": true
+    },
+    {
+        "id": "sample-hoover",
+        "source": "Hoover Institution",
+        "title": "Sample Hoover Institution Publication",
+        "publicationDate": "2026-06-22",
+        "category": "Other",
+        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
+        "url": "https://www.hoover.org/",
+        "placeholder": true
+    }
+]

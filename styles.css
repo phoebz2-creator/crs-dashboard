@@ -231,6 +231,7 @@ button:hover {
     margin-bottom: 14px;
 }
 
+.source-badge,
 .category-badge,
 .date-badge {
     display: inline-flex;
@@ -240,6 +241,11 @@ button:hover {
     border-radius: 5px;
     font-size: 0.78rem;
     font-weight: 700;
+}
+
+.source-badge {
+    background: #e8edf2;
+    color: #2c3f4b;
 }
 
 .category-badge {

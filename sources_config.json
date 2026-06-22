@@ -1,0 +1,63 @@
+{
+    "sources": [
+        {
+            "name": "Congressional Research Service",
+            "type": "congress_api",
+            "notes": "Uses the official Congress.gov CRS Reports API and requires CONGRESS_API_KEY."
+        },
+        {
+            "name": "Brookings Institution",
+            "type": "rss",
+            "feed_url": "https://www.brookings.edu/feed/",
+            "notes": "Standard public site feed; adjust here if Brookings changes feed structure."
+        },
+        {
+            "name": "CSIS",
+            "type": "rss",
+            "feed_url": "https://www.csis.org/rss.xml",
+            "notes": "Public feed URL candidate. Replace if CSIS publishes a more specific publications feed."
+        },
+        {
+            "name": "RAND Corporation",
+            "type": "rss",
+            "feed_url": "https://www.rand.org/pubs.xml",
+            "notes": "Public RAND publications feed."
+        },
+        {
+            "name": "Council on Foreign Relations",
+            "type": "rss",
+            "feed_url": "https://www.cfr.org/rss.xml",
+            "notes": "Public feed URL candidate. Replace if CFR publishes a more specific analysis/publications feed."
+        },
+        {
+            "name": "Carnegie Endowment for International Peace",
+            "type": "rss",
+            "feed_url": "https://carnegieendowment.org/rss",
+            "notes": "Public feed URL candidate. Replace if Carnegie changes feed structure."
+        },
+        {
+            "name": "American Enterprise Institute",
+            "type": "rss",
+            "feed_url": "https://www.aei.org/feed/",
+            "notes": "Standard public site feed."
+        },
+        {
+            "name": "Heritage Foundation",
+            "type": "rss",
+            "feed_url": "https://www.heritage.org/rss.xml",
+            "notes": "Public feed URL candidate. Replace if Heritage publishes a more specific research feed."
+        },
+        {
+            "name": "Hudson Institute",
+            "type": "rss",
+            "feed_url": "https://www.hudson.org/rss.xml",
+            "notes": "Public feed URL candidate. Replace if Hudson changes feed structure."
+        },
+        {
+            "name": "Hoover Institution",
+            "type": "rss",
+            "feed_url": "https://www.hoover.org/rss.xml",
+            "notes": "Public feed URL candidate. Replace if Hoover publishes a more specific publications feed."
+        }
+    ]
+}

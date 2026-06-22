@@ -1,14 +1,14 @@
 const reportsGrid = document.getElementById("reportsGrid");
 const searchInput = document.getElementById("searchInput");
 const clearSearchButton = document.getElementById("clearSearch");
-const filterButtons = document.querySelectorAll(".filter-button");
+const sourceFilters = document.getElementById("sourceFilters");
 const resultsSummary = document.getElementById("resultsSummary");
-const activeCategoryLabel = document.getElementById("activeCategory");
+const activeSourceLabel = document.getElementById("activeSource");
 const emptyState = document.getElementById("emptyState");
 const reportCount = document.getElementById("reportCount");
 
-let activeCategory = "All";
-let reports = [];
+let activeSource = "All";
+let publications = [];
 
 function escapeHtml(value) {
     return String(value ?? "")
@@ -39,16 +39,17 @@ function formatDate(dateString) {
 function getFilteredReports() {
     const query = searchInput.value.trim().toLowerCase();
 
-    return reports.filter((report) => {
-        const matchesCategory = activeCategory === "All" || report.category === activeCategory;
+    return publications.filter((report) => {
+        const matchesSource = activeSource === "All" || report.source === activeSource;
         const searchableText = [
+            report.source,
             report.title,
             report.category,
             report.summary,
             report.id
         ].join(" ").toLowerCase();
 
-        return matchesCategory && searchableText.includes(query);
+        return matchesSource && searchableText.includes(query);
     });
 }
 
@@ -58,13 +59,14 @@ function createReportCard(report) {
 
     article.innerHTML = `
         <div class="report-meta">
+            <span class="source-badge">${escapeHtml(report.source || "Unknown Source")}</span>
             <span class="category-badge">${escapeHtml(report.category || "Other")}</span>
             <span class="date-badge">${formatDate(report.publicationDate)}</span>
         </div>
-        <h3>${escapeHtml(report.title || "Untitled CRS Report")}</h3>
+        <h3>${escapeHtml(report.title || "Untitled Publication")}</h3>
         <p>${escapeHtml(report.summary || "Summary not available.")}</p>
         <a class="report-link" href="${escapeHtml(report.url || "#")}" target="_blank" rel="noopener noreferrer">
-            View CRS Report
+            View Original
         </a>
     `;
 
@@ -73,16 +75,16 @@ function createReportCard(report) {
 
 function updateSummary(visibleCount) {
     const query = searchInput.value.trim();
-    const categoryText = activeCategory === "All" ? "all categories" : activeCategory;
-    const reportWord = visibleCount === 1 ? "report" : "reports";
+    const sourceText = activeSource === "All" ? "all sources" : activeSource;
+    const reportWord = visibleCount === 1 ? "item" : "items";
 
     if (query) {
-        resultsSummary.textContent = `Showing ${visibleCount} ${reportWord} matching "${query}" in ${categoryText}.`;
+        resultsSummary.textContent = `Showing ${visibleCount} ${reportWord} matching "${query}" from ${sourceText}.`;
     } else {
-        resultsSummary.textContent = `Showing ${visibleCount} ${reportWord} in ${categoryText}.`;
+        resultsSummary.textContent = `Showing ${visibleCount} ${reportWord} from ${sourceText}.`;
     }
 
-    activeCategoryLabel.textContent = activeCategory === "All" ? "All categories" : activeCategory;
+    activeSourceLabel.textContent = activeSource === "All" ? "All sources" : activeSource;
 }
 
 function renderReports() {
@@ -95,20 +97,34 @@ function renderReports() {
 
     emptyState.hidden = filteredReports.length > 0;
     reportsGrid.hidden = filteredReports.length === 0;
-    reportCount.textContent = reports.length;
+    reportCount.textContent = publications.length;
     updateSummary(filteredReports.length);
 }
 
-filterButtons.forEach((button) => {
-    button.addEventListener("click", () => {
-        activeCategory = button.dataset.category;
+function renderSourceFilters() {
+    const sources = [...new Set(publications.map((report) => report.source).filter(Boolean))].sort();
 
-        filterButtons.forEach((filterButton) => {
-            filterButton.classList.toggle("active", filterButton === button);
-        });
-
-        renderReports();
+    sourceFilters.innerHTML = "";
+    ["All", ...sources].forEach((source) => {
+        const button = document.createElement("button");
+        button.className = "filter-button";
+        button.type = "button";
+        button.dataset.source = source;
+        button.textContent = source === "All" ? "All Sources" : source;
+        button.classList.toggle("active", source === activeSource);
+        sourceFilters.appendChild(button);
     });
+}
+
+sourceFilters.addEventListener("click", (event) => {
+    const button = event.target.closest(".filter-button");
+    if (!button) {
+        return;
+    }
+
+    activeSource = button.dataset.source;
+    renderSourceFilters();
+    renderReports();
 });
 
 searchInput.addEventListener("input", renderReports);
@@ -121,17 +137,18 @@ clearSearchButton.addEventListener("click", () => {
 
 async function loadReports() {
     try {
-        const response = await fetch("reports.json", { cache: "no-store" });
+        const response = await fetch("sources.json", { cache: "no-store" });
         if (!response.ok) {
-            throw new Error(`reports.json returned ${response.status}`);
+            throw new Error(`sources.json returned ${response.status}`);
         }
 
-        reports = await response.json();
+        publications = await response.json();
+        renderSourceFilters();
         renderReports();
     } catch (error) {
-        reports = [];
+        publications = [];
         reportCount.textContent = "0";
-        resultsSummary.textContent = "Unable to load reports.json. Start a local server and refresh the page.";
+        resultsSummary.textContent = "Unable to load sources.json. Start a local server and refresh the page.";
         emptyState.hidden = false;
         reportsGrid.hidden = true;
         console.error(error);
