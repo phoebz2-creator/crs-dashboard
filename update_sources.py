@@ -56,7 +56,6 @@ class SourceItem:
     category: str
     summary: str
     url: str
-    placeholder: bool = False
 
 
 def api_get(path: str, api_key: str, params: dict[str, str | int] | None = None) -> dict[str, Any]:
@@ -76,8 +75,8 @@ def fetch_url(url: str) -> bytes:
     request = Request(
         url,
         headers={
-            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml",
-            "User-Agent": "US-Policy-Research-Dashboard/1.0",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+            "User-Agent": "Mozilla/5.0 (compatible; US-Policy-Research-Dashboard/1.0)",
         },
     )
     with urlopen(request, timeout=REQUEST_TIMEOUT) as response:
@@ -125,6 +124,7 @@ def normalize_date(value: Any) -> str:
         "%Y-%m-%dT%H:%M:%S%z",
         "%a, %d %b %Y %H:%M:%S %z",
         "%a, %d %b %Y %H:%M:%S %Z",
+        "%B %d, %Y",
         "%m/%d/%Y",
     ):
         try:
@@ -156,6 +156,24 @@ def normalize_category(topics: Any, title: str, summary: str) -> str:
         if any(keyword in haystack for keyword in keywords):
             return category
     return topic_text.split(",")[0].strip() if topic_text else "Other"
+
+
+def parse_xml_feed(content: bytes) -> ET.Element:
+    text = content.decode("utf-8", errors="replace")
+    text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", text)
+    if re.search(r"<html[\s>]", text[:1000], flags=re.IGNORECASE):
+        raise ValueError("feed URL returned HTML instead of RSS/Atom XML")
+
+    def replace_named_entity(match: re.Match[str]) -> str:
+        name = match.group(1)
+        if name in {"amp", "lt", "gt", "quot", "apos"}:
+            return match.group(0)
+        replacement = unescape(match.group(0))
+        return replacement if replacement != match.group(0) else ""
+
+    text = re.sub(r"&([A-Za-z][A-Za-z0-9]+);", replace_named_entity, text)
+    text = re.sub(r"&(?!amp;|lt;|gt;|quot;|apos;|#[0-9]+;|#x[0-9A-Fa-f]+;)", "&amp;", text)
+    return ET.fromstring(text.encode("utf-8"))
 
 
 def extract_reports_list(payload: dict[str, Any]) -> list[dict[str, Any]]:
@@ -235,12 +253,15 @@ def xml_text(element: ET.Element, names: tuple[str, ...]) -> str:
     wanted = {name.split("}")[-1] for name in names}
     for name in names:
         child = element.find(name)
-        if child is not None and child.text:
-            return clean_text(child.text)
+        if child is not None:
+            value = clean_text(" ".join(child.itertext()))
+            if value:
+                return value
     for child in list(element):
         if child.tag.split("}")[-1] in wanted:
-            if child.text:
-                return clean_text(child.text)
+            value = clean_text(" ".join(child.itertext()))
+            if value:
+                return value
             if "term" in child.attrib:
                 return clean_text(child.attrib["term"])
     return ""
@@ -263,11 +284,11 @@ def xml_link(element: ET.Element) -> str:
 
 
 def parse_feed(source_name: str, feed_url: str, limit: int) -> list[SourceItem]:
-    root = ET.fromstring(fetch_url(feed_url))
+    root = parse_xml_feed(fetch_url(feed_url))
     entries = root.findall("./channel/item") or root.findall("{http://www.w3.org/2005/Atom}entry")
     items: list[SourceItem] = []
 
-    for entry in entries[:limit]:
+    for entry in entries:
         title = xml_text(entry, ("title", "{http://www.w3.org/2005/Atom}title"))
         summary = xml_text(
             entry,
@@ -292,18 +313,24 @@ def parse_feed(source_name: str, feed_url: str, limit: int) -> list[SourceItem]:
                 "{http://purl.org/dc/elements/1.1/}date",
             ),
         )
+        url = url or feed_url
+        summary = summary or "Description not available from the source feed."
+        if not title or not url:
+            continue
 
         items.append(
             SourceItem(
                 id=url or f"{source_name}:{title}",
                 source=source_name,
-                title=title or "Untitled Publication",
+                title=title,
                 publication_date=normalize_date(published),
                 category=normalize_category(category, title, summary),
-                summary=shorten(summary or "Description not available from the source feed."),
-                url=url or feed_url,
+                summary=shorten(summary),
+                url=url,
             )
         )
+        if len(items) >= limit:
+            break
 
     return items
 
@@ -327,7 +354,12 @@ def fetch_feed_items(config: dict[str, Any], per_source_limit: int) -> list[Sour
             continue
 
         try:
-            results.extend(parse_feed(name, feed_url, per_source_limit))
+            items = parse_feed(name, feed_url, per_source_limit)
+            if not items:
+                print(f"Warning: {name} feed returned no usable entries: {feed_url}", file=sys.stderr)
+                continue
+            print(f"Fetched {len(items)} items from {name}.", file=sys.stderr)
+            results.extend(items)
         except (ET.ParseError, HTTPError, URLError, TimeoutError, ValueError) as error:
             print(f"Warning: failed to read {name} feed {feed_url}: {error}", file=sys.stderr)
 
@@ -360,7 +392,6 @@ def write_sources_json(items: list[SourceItem]) -> None:
             "category": item.category,
             "summary": item.summary,
             "url": item.url,
-            "placeholder": item.placeholder,
         }
         for item in items
     ]
@@ -369,8 +400,8 @@ def write_sources_json(items: list[SourceItem]) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Update sources.json from CRS and configured policy feeds.")
-    parser.add_argument("--crs-limit", type=int, default=25, help="maximum CRS reports to fetch")
-    parser.add_argument("--feed-limit", type=int, default=10, help="maximum feed entries per source")
+    parser.add_argument("--crs-limit", type=int, default=5, help="maximum CRS reports to fetch")
+    parser.add_argument("--feed-limit", type=int, default=5, help="maximum feed entries per source")
     parser.add_argument("--days", type=int, default=14, help="CRS API lookback window in days")
     parser.add_argument("--api-key", help=f"Congress.gov API key; defaults to ${API_KEY_ENV}")
     args = parser.parse_args()
@@ -378,7 +409,15 @@ def main() -> int:
     try:
         config = load_config()
         api_key = args.api_key or os.getenv(API_KEY_ENV)
-        items = fetch_crs_items(api_key, max(1, args.crs_limit), args.days)
+        items: list[SourceItem] = []
+        try:
+            crs_items = fetch_crs_items(api_key, max(1, args.crs_limit), args.days)
+            if crs_items:
+                print(f"Fetched {len(crs_items)} items from Congressional Research Service.", file=sys.stderr)
+            items.extend(crs_items)
+        except (HTTPError, URLError, TimeoutError, json.JSONDecodeError, RuntimeError) as error:
+            print(f"Warning: failed to read Congressional Research Service API: {error}", file=sys.stderr)
+
         items.extend(fetch_feed_items(config, max(1, args.feed_limit)))
         items = sort_items(dedupe_items(items))
         if not items:

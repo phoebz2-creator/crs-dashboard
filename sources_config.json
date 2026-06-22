@@ -14,20 +14,20 @@
         {
             "name": "CSIS",
             "type": "rss",
-            "feed_url": "https://www.csis.org/rss.xml",
-            "notes": "Public feed URL candidate. Replace if CSIS publishes a more specific publications feed."
+            "feed_url": "",
+            "notes": "The tested public RSS endpoint returned stale 2016 event entries, so it is disabled until a current publications feed is identified."
         },
         {
             "name": "RAND Corporation",
             "type": "rss",
-            "feed_url": "https://www.rand.org/pubs.xml",
-            "notes": "Public RAND publications feed."
+            "feed_url": "https://www.rand.org/pubs/research_reports.xml",
+            "notes": "Verified public RAND research reports RSS feed."
         },
         {
             "name": "Council on Foreign Relations",
             "type": "rss",
-            "feed_url": "https://www.cfr.org/rss.xml",
-            "notes": "Public feed URL candidate. Replace if CFR publishes a more specific analysis/publications feed."
+            "feed_url": "https://www.cfr.org/feed",
+            "notes": "Verified public CFR feed."
         },
         {
             "name": "Carnegie Endowment for International Peace",
@@ -44,8 +44,8 @@
         {
             "name": "Heritage Foundation",
             "type": "rss",
-            "feed_url": "https://www.heritage.org/rss.xml",
-            "notes": "Public feed URL candidate. Replace if Heritage publishes a more specific research feed."
+            "feed_url": "https://www.heritage.org/rss",
+            "notes": "Verified public Heritage feed."
         },
         {
             "name": "Hudson Institute",
@@ -57,7 +57,7 @@
             "name": "Hoover Institution",
             "type": "rss",
             "feed_url": "https://www.hoover.org/rss.xml",
-            "notes": "Public feed URL candidate. Replace if Hoover publishes a more specific publications feed."
+            "notes": "Verified public Hoover feed."
         }
     ]
 }

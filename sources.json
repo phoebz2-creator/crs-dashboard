@@ -1,102 +1,227 @@
 [
     {
-        "id": "sample-crs",
-        "source": "Congressional Research Service",
-        "title": "Sample CRS Report",
-        "publicationDate": "2026-06-22",
-        "category": "Other",
-        "summary": "Placeholder item. Run update_sources.py with CONGRESS_API_KEY to replace this file with live Congress.gov API and RSS feed data.",
-        "url": "https://api.congress.gov/",
-        "placeholder": true
-    },
-    {
-        "id": "sample-brookings",
-        "source": "Brookings Institution",
-        "title": "Sample Brookings Publication",
-        "publicationDate": "2026-06-22",
-        "category": "Other",
-        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
-        "url": "https://www.brookings.edu/",
-        "placeholder": true
-    },
-    {
-        "id": "sample-csis",
-        "source": "CSIS",
-        "title": "Sample CSIS Analysis",
-        "publicationDate": "2026-06-22",
-        "category": "Defense",
-        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
-        "url": "https://www.csis.org/",
-        "placeholder": true
-    },
-    {
-        "id": "sample-rand",
-        "source": "RAND Corporation",
-        "title": "Sample RAND Research",
-        "publicationDate": "2026-06-22",
-        "category": "Other",
-        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
-        "url": "https://www.rand.org/",
-        "placeholder": true
-    },
-    {
-        "id": "sample-cfr",
-        "source": "Council on Foreign Relations",
-        "title": "Sample CFR Analysis",
-        "publicationDate": "2026-06-22",
-        "category": "Foreign Policy",
-        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
-        "url": "https://www.cfr.org/",
-        "placeholder": true
-    },
-    {
-        "id": "sample-carnegie",
-        "source": "Carnegie Endowment for International Peace",
-        "title": "Sample Carnegie Publication",
-        "publicationDate": "2026-06-22",
-        "category": "Foreign Policy",
-        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
-        "url": "https://carnegieendowment.org/",
-        "placeholder": true
-    },
-    {
-        "id": "sample-aei",
-        "source": "American Enterprise Institute",
-        "title": "Sample AEI Publication",
-        "publicationDate": "2026-06-22",
-        "category": "Economy",
-        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
-        "url": "https://www.aei.org/",
-        "placeholder": true
-    },
-    {
-        "id": "sample-heritage",
-        "source": "Heritage Foundation",
-        "title": "Sample Heritage Research",
-        "publicationDate": "2026-06-22",
-        "category": "Other",
-        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
-        "url": "https://www.heritage.org/",
-        "placeholder": true
-    },
-    {
-        "id": "sample-hudson",
-        "source": "Hudson Institute",
-        "title": "Sample Hudson Institute Analysis",
-        "publicationDate": "2026-06-22",
-        "category": "Foreign Policy",
-        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
-        "url": "https://www.hudson.org/",
-        "placeholder": true
-    },
-    {
-        "id": "sample-hoover",
+        "id": "https://www.hoover.org/plus/formula-economic-growth",
         "source": "Hoover Institution",
-        "title": "Sample Hoover Institution Publication",
-        "publicationDate": "2026-06-22",
+        "title": "The Formula For Economic Growth",
+        "publicationDate": "2026-06-26",
         "category": "Other",
-        "summary": "Placeholder item used until update_sources.py successfully reads this source feed.",
-        "url": "https://www.hoover.org/",
-        "placeholder": true
+        "summary": "Description not available from the source feed.",
+        "url": "https://www.hoover.org/plus/formula-economic-growth"
+    },
+    {
+        "id": "https://www.hoover.org/research/unlocking-potential-gas-based-economy-india",
+        "source": "Hoover Institution",
+        "title": "Unlocking the Potential for a Gas-Based Economy in India",
+        "publicationDate": "2026-06-21",
+        "category": "Economy",
+        "summary": "Scholars at the Hoover Institution partnered with the Delhi-based Council on Energy, Environment, and Water (CEEW) through a series of Chatham House Rule policy roundtables and discussions alongside India-based experts and private sector to consider the potential for natural gas in the Indian energy economy.",
+        "url": "https://www.hoover.org/research/unlocking-potential-gas-based-economy-india"
+    },
+    {
+        "id": "https://www.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-23",
+        "source": "Hoover Institution",
+        "title": "2026 Issue 23",
+        "publicationDate": "2026-06-21",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://www.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-23"
+    },
+    {
+        "id": "https://www.hoover.org/research/former-senior-national-defence-official-who-publicly-criticized-rising-anti-us-rhetoric",
+        "source": "Hoover Institution",
+        "title": "Former senior National Defence official who publicly criticized rising anti-U.S. rhetoric sues",
+        "publicationDate": "2026-06-21",
+        "category": "Other",
+        "summary": "Raquel Garbers, former director-general of strategic defence policy and chief architect of Canada's 2024 defence policy, is suing Ottawa for roughly $2 million. She alleges she was fired weeks after an October opinion piece warning that anti-U.S. rhetoric only benefits Moscow and Beijing. Garbers says she was ambushed on a November video call and told her position was eliminated, despite a prior commitment to...",
+        "url": "https://www.hoover.org/research/former-senior-national-defence-official-who-publicly-criticized-rising-anti-us-rhetoric"
+    },
+    {
+        "id": "https://www.hoover.org/research/g7-leaders-oppose-unilateral-changes-taiwan-strait-status-quo",
+        "source": "Hoover Institution",
+        "title": "G7 leaders oppose unilateral changes to Taiwan Strait status quo",
+        "publicationDate": "2026-06-21",
+        "category": "Foreign Policy",
+        "summary": "Leaders of the Group of Seven (G7) nations on Wednesday reaffirmed opposition to unilateral attempts to change the status quo in the Taiwan Strait, East China Sea, and South China Sea. In a statement titled “Geopolitical Issues,” the G7 leaders underscored “the importance of a free and open Indo-Pacific based on the rule of law,” per CNA. It opposed “any unilateral attempts to change the status quo, in particular...",
+        "url": "https://www.hoover.org/research/g7-leaders-oppose-unilateral-changes-taiwan-strait-status-quo"
+    },
+    {
+        "id": "https://www.cfr.org/podcasts/spillover/why-the-real-path-out-of-ai-uncertainty-and-poverty-is-smart-job-creation",
+        "source": "Council on Foreign Relations",
+        "title": "Why the Real Path Out of AI Uncertainty and Poverty Is Smart Job Creation",
+        "publicationDate": "2026-06-19",
+        "category": "Foreign Policy",
+        "summary": "On this episode of The Spillover, host Sebastian Mallaby, joined by Council on Foreign Relations President Michael Froman, sits down with the World Bank President Ajay Banga and former Commerce Secretary Gina Raimondo to tackle the global jobs challenge. Both Banga and Raimondo argue that good jobs are the foundation of stable societies, and that […]",
+        "url": "https://www.cfr.org/podcasts/spillover/why-the-real-path-out-of-ai-uncertainty-and-poverty-is-smart-job-creation"
+    },
+    {
+        "id": "https://www.cfr.org/articles/was-it-worth-it-the-true-cost-of-trumps-iran-war",
+        "source": "Council on Foreign Relations",
+        "title": "Was It Worth It? The True Cost of Trump’s Iran War",
+        "publicationDate": "2026-06-19",
+        "category": "Foreign Policy",
+        "summary": "The war ended with a deal that gives Iran sanctions relief, reconstruction funds, and the ability to charge tolls on the world’s most critical waterway. While the White House may call it a victory, the costs suggest otherwise.",
+        "url": "https://www.cfr.org/articles/was-it-worth-it-the-true-cost-of-trumps-iran-war"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/iranian-regime-remains-divided-rebeccah-heinrichs",
+        "source": "Hudson Institute",
+        "title": "The Iranian Regime Remains Divided",
+        "publicationDate": "2026-06-19",
+        "category": "Defense",
+        "summary": "The Iranian Regime Remains Divided acabral-sanche… Fri, 06/19/2026 - 15:58 SVG In the Media Jun 18, 2026 Fox News The Iranian Regime Remains Divided Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox News) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn...",
+        "url": "https://www.hudson.org/foreign-policy/iranian-regime-remains-divided-rebeccah-heinrichs"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/mou-gives-momentum-iran-rebeccah-heinrichs",
+        "source": "Hudson Institute",
+        "title": "The MoU Gives the Momentum to Iran",
+        "publicationDate": "2026-06-19",
+        "category": "Defense",
+        "summary": "The MoU Gives the Momentum to Iran acabral-sanche… Fri, 06/19/2026 - 14:46 SVG Commentary Jun 19, 2026 National Review The MoU Gives the Momentum to Iran There’s not much for Americans to like about the Memorandum of Understanding with Iran. Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs Commentary Caption US forces carried out a maritime interdiction and...",
+        "url": "https://www.hudson.org/foreign-policy/mou-gives-momentum-iran-rebeccah-heinrichs"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/how-do-indo-pacific-leaders-view-iran-deal-patrick-croinin",
+        "source": "Hudson Institute",
+        "title": "How do Indo-Pacific Leaders View the Iran Deal?",
+        "publicationDate": "2026-06-19",
+        "category": "Defense",
+        "summary": "How do Indo-Pacific Leaders View the Iran Deal? acabral-sanche… Fri, 06/19/2026 - 12:40 SVG Podcast Jun 19, 2026 Defense & Aerospace Report How do Indo-Pacific Leaders View the Iran Deal? Patrick M. Cronin Asia-Pacific Security Chair Patrick M. Cronin Podcast Caption Sailors from the US Navy Explosive Ordnance Disposal Mobile Unit 1 and the Japan Maritime Self-Defense Force prepare for a mine-sweep exercise dive...",
+        "url": "https://www.hudson.org/foreign-policy/how-do-indo-pacific-leaders-view-iran-deal-patrick-croinin"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/analyzing-negotiations-iran-joel-rayburn",
+        "source": "Hudson Institute",
+        "title": "Analyzing Negotiations with Iran",
+        "publicationDate": "2026-06-19",
+        "category": "Foreign Policy",
+        "summary": "Analyzing Negotiations with Iran acabral-sanche… Fri, 06/19/2026 - 12:31 SVG In the Media Jun 18, 2026 EWTN News Nightly Analyzing Negotiations with Iran Joel Rayburn Senior Fellow, Center for Peace and Security in the Middle East Joel Rayburn In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share...",
+        "url": "https://www.hudson.org/foreign-policy/analyzing-negotiations-iran-joel-rayburn"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/markets-munitions-midterm-pushed-trump-iran-deal-iran-deal-michael-doran",
+        "source": "Hudson Institute",
+        "title": "“Markets, Munitions, and Midterm” Pushed Trump to Iran Deal",
+        "publicationDate": "2026-06-19",
+        "category": "Foreign Policy",
+        "summary": "“Markets, Munitions, and Midterm” Pushed Trump to Iran Deal acabral-sanche… Fri, 06/19/2026 - 12:20 SVG In the Media Jun 19, 2026 PBS News Hour “Markets, Munitions, and Midterm” Pushed Trump to Iran Deal Michael Doran Senior Fellow and Director, Center for Peace and Security in the Middle East Michael Doran In the Media Caption (Screenshot via PBS NewsHour) Toggle Table of Contents Contents Contents Share to...",
+        "url": "https://www.hudson.org/foreign-policy/markets-munitions-midterm-pushed-trump-iran-deal-iran-deal-michael-doran"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4098-1-v2.html",
+        "source": "RAND Corporation",
+        "title": "State-Level Impacts of Key Medicaid Provisions in the One Big Beautiful Bill Act",
+        "publicationDate": "2026-06-18",
+        "category": "Economy",
+        "summary": "The authors developed state-level estimates of budget impact and enrollment changes through 2034 associated with key provisions of the July 2025 budget reconciliation law that affect Medicaid, the health insurance program for low-income individuals.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4098-1-v2.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA3368-1.html",
+        "source": "RAND Corporation",
+        "title": "The People’s Liberation Army Navy’s Approach to Maintenance Management",
+        "publicationDate": "2026-06-18",
+        "category": "Defense",
+        "summary": "The authors of this report examine how the rapid growth and modernization of China’s navy inform maintenance management and activities. The authors also discuss factors that shape China’s ability to maintain and sustain its forces.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA3368-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/why-anthropic-is-sounding-the-alarm-on-the-next-generation-of-ai",
+        "source": "Council on Foreign Relations",
+        "title": "Why Anthropic Is Sounding the Alarm on the Next Generation of AI",
+        "publicationDate": "2026-06-18",
+        "category": "Technology",
+        "summary": "Anthropic is urging its rivals to pursue an unprecedented regime of AI arms control. The explosive advances in the company’s technology illustrate why that effort may be imperative even as it will be difficult to achieve.",
+        "url": "https://www.cfr.org/articles/why-anthropic-is-sounding-the-alarm-on-the-next-generation-of-ai"
+    },
+    {
+        "id": "https://www.cfr.org/articles/trumps-iran-deal-reopens-the-strait-much-remains-to-be-done",
+        "source": "Council on Foreign Relations",
+        "title": "The Iran Deal Reopens the Strait. Much Remains to Be Done.",
+        "publicationDate": "2026-06-18",
+        "category": "Foreign Policy",
+        "summary": "CFR President Michael Froman and four leading regional experts assess the details of Trump’s U.S.-Iran deal: what it achieves, what it defers, and what it means for Iran, Israel, Lebanon, and the Gulf.",
+        "url": "https://www.cfr.org/articles/trumps-iran-deal-reopens-the-strait-much-remains-to-be-done"
+    },
+    {
+        "id": "https://www.cfr.org/articles/currency-moves-can-drive-rebalancing",
+        "source": "Council on Foreign Relations",
+        "title": "Currency Moves Can Drive Rebalancing",
+        "publicationDate": "2026-06-18",
+        "category": "Article",
+        "summary": "The currencies of Asia’s major economies are all substantially undervalued",
+        "url": "https://www.cfr.org/articles/currency-moves-can-drive-rebalancing"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4742-3.html",
+        "source": "RAND Corporation",
+        "title": "Why Do Middle and High Schoolers Miss School?",
+        "publicationDate": "2026-06-17",
+        "category": "Other",
+        "summary": "Using data from two surveys administered in late 2025 to nationally representative samples of students and parents, the authors investigate why secondary school-age students are missing school and to what extent these reasons differ by age.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4742-3.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4794-1.html",
+        "source": "RAND Corporation",
+        "title": "Evaluation of Cohort 3 of Project imPACT",
+        "publicationDate": "2026-06-17",
+        "category": "Healthcare",
+        "summary": "This report presents findings about Project imPACT, a reentry program for adults who had been involved in the justice system that focused on holistic programs and approaches to expand access to behavioral health services and reduce recidivism.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4794-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA3923-1.html",
+        "source": "RAND Corporation",
+        "title": "Insights and Tools to Improve the Applicant Experience with the Personnel Vetting and Security Clearance Process",
+        "publicationDate": "2026-06-17",
+        "category": "Other",
+        "summary": "The authors examine how applicants experience the U.S. government’s personnel vetting process, identify practical strategies for improving the vetting process experience, and develop tools to help applicants navigate the vetting process.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA3923-1.html"
+    },
+    {
+        "id": "https://www.heritage.org/defense/report/nato-30-and-american-security-strategy-europe",
+        "source": "Heritage Foundation",
+        "title": "NATO 3.0 and American Security Strategy in Europe",
+        "publicationDate": "2026-06-16",
+        "category": "Defense",
+        "summary": "The relationship between the United States and Europe is based in the shared economic, security, and civilizational interests of both sides of the Atlantic. U.S. membership in the North Atlantic Treaty Organization (NATO) ensures the security of the North Atlantic, protects U.S. trade, and defends Western civilization from threats by China, Russia, and parts of the Islamic world, notably Iran. Legitimate questions...",
+        "url": "https://www.heritage.org/defense/report/nato-30-and-american-security-strategy-europe"
+    },
+    {
+        "id": "https://www.heritage.org/middle-east/commentary/new-us-led-architecture-the-middle-east",
+        "source": "Heritage Foundation",
+        "title": "A New U.S.-Led Architecture for the Middle East",
+        "publicationDate": "2026-06-12",
+        "category": "Defense",
+        "summary": "When President Donald Trump recently challenged America’s Arab allies to join the Abraham Accords as a bloc, he declared that such a move would make the Middle East “united, powerful, and economically strong, like perhaps no other area in the world.” This was more than a diplomatic appeal. It signaled the evolution of the president’s signature Abraham Accords strategy: from advancing bilateral pacts, as he did in...",
+        "url": "https://www.heritage.org/middle-east/commentary/new-us-led-architecture-the-middle-east"
+    },
+    {
+        "id": "https://www.heritage.org/defense/commentary/deterring-attack-the-us-trumps-non-proliferation",
+        "source": "Heritage Foundation",
+        "title": "Deterring an Attack on the U.S. Trumps Non-Proliferation?",
+        "publicationDate": "2026-06-12",
+        "category": "Defense",
+        "summary": "The nuclear risk reduction community is having a rough go of it lately. There has been much consternation at the expiration of the New START nuclear arms treaty earlier this year. This May, the Nuclear Nonproliferation Treaty (NPT) Review Conference ended in “ failure ” after the NPT member states did not come to a consensus statement on the state of the nonproliferation regime. Some claim that the United States is...",
+        "url": "https://www.heritage.org/defense/commentary/deterring-attack-the-us-trumps-non-proliferation"
+    },
+    {
+        "id": "https://www.heritage.org/progressivism/commentary/guide-heritage-sites",
+        "source": "Heritage Foundation",
+        "title": "A Guide to Heritage Sites",
+        "publicationDate": "2026-06-12",
+        "category": "Economy",
+        "summary": "The Executive Order President Trump signed last year on National Parks, Smithsonian museums, and monuments was designed to counter those who attempt to “rewrite our Nation’s history.” Another EO included the Institute of Museum and Library Services, which often supports exhibits at private sites. Historians and media outlets huffed, calling his EO’s a “disturbing attack” that pushed a “distorted narrative.” But as...",
+        "url": "https://www.heritage.org/progressivism/commentary/guide-heritage-sites"
+    },
+    {
+        "id": "https://www.heritage.org/global-politics/commentary/why-does-alberta-want-leave-canada-and-join-the-us",
+        "source": "Heritage Foundation",
+        "title": "Why Does Alberta Want to Leave Canada and Join the U.S.?",
+        "publicationDate": "2026-06-12",
+        "category": "Economy",
+        "summary": "Canada’s Texas is threatening divorce, and it could eventually become the 51st state, with serious impacts on how much Americans pay for gasoline. The idea of energy giant province Alberta leaving Canada is moving from bumper sticker to reality as organizers say they’ve collected over 300,000 signatures for a referendum to leave Canada. That’s almost twice the signatures needed, triggering a vote in October where...",
+        "url": "https://www.heritage.org/global-politics/commentary/why-does-alberta-want-leave-canada-and-join-the-us"
     }
 ]
