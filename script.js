@@ -46,11 +46,11 @@ function updateLastUpdated() {
         .sort((first, second) => second - first)[0];
 
     if (!latestDate) {
-        lastUpdated.textContent = "Last Updated: Date unavailable";
+        lastUpdated.textContent = "Latest Report Date: Date unavailable";
         return;
     }
 
-    lastUpdated.textContent = `Lastest Report Date: ${new Intl.DateTimeFormat("en-US", {
+    lastUpdated.textContent = `Latest Report Date: ${new Intl.DateTimeFormat("en-US", {
         month: "long",
         day: "numeric",
         year: "numeric"
@@ -228,7 +228,7 @@ async function loadReports() {
     } catch (error) {
         publications = [];
         reportCount.textContent = "0";
-        lastUpdated.textContent = "Last Updated: Date unavailable";
+        lastUpdated.textContent = "Latest Report Date: Date unavailable";
         resultsSummary.textContent = "Unable to load sources.json. Start a local server and refresh the page.";
         emptyState.hidden = false;
         reportsGrid.hidden = true;
