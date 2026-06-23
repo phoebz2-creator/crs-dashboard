@@ -106,6 +106,18 @@
     "type": "rss",
     "feed_url": "https://thehill.com/homenews/feed/",
     "notes": "U.S. political news from The Hill."
+},
+{
+    "name": "New York Times Politics",
+    "type": "rss",
+    "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    "notes": "Politics coverage from The New York Times."
+},
+{
+    "name": "Washington Post Politics",
+    "type": "rss",
+    "feed_url": "https://feeds.washingtonpost.com/rss/politics",
+    "notes": "Politics coverage from The Washington Post."
 }
 ]
 }
