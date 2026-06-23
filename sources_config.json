@@ -118,6 +118,24 @@
     "type": "rss",
     "feed_url": "https://feeds.washingtonpost.com/rss/politics",
     "notes": "Politics coverage from The Washington Post."
+},
+{
+    "name": "Reuters World News",
+    "type": "rss",
+    "feed_url": "https://feeds.reuters.com/Reuters/worldNews",
+    "notes": "Global news coverage from Reuters."
+},
+{
+    "name": "BBC World",
+    "type": "rss",
+    "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "notes": "International news from BBC."
+},
+{
+    "name": "Financial Times World",
+    "type": "rss",
+    "feed_url": "https://www.ft.com/world?format=rss",
+    "notes": "International coverage from Financial Times."
 }
 ]
 }
