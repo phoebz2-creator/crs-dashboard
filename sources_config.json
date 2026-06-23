@@ -88,6 +88,24 @@
     "type": "rss",
     "feed_url": "https://dgap.org/en/rss.xml",
     "notes": "German foreign policy think tank."
+},
+{
+    "name": "NPR Politics",
+    "type": "rss",
+    "feed_url": "https://feeds.npr.org/1014/rss.xml",
+    "notes": "U.S. politics news from NPR."
+},
+{
+    "name": "PBS NewsHour Politics",
+    "type": "rss",
+    "feed_url": "https://www.pbs.org/newshour/feeds/rss/politics",
+    "notes": "U.S. politics coverage from PBS NewsHour."
+},
+{
+    "name": "The Hill",
+    "type": "rss",
+    "feed_url": "https://thehill.com/homenews/feed/",
+    "notes": "U.S. political news from The Hill."
 }
 ]
 }
