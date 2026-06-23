@@ -23,6 +23,17 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Verify Congress API secret
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+        run: |
+          if [ -n "$CONGRESS_API_KEY" ]; then
+            echo "CONGRESS_API_KEY detected for workflow."
+          else
+            echo "CONGRESS_API_KEY is missing for workflow."
+            exit 1
+          fi
+
       - name: Update policy research data
         env:
           CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}

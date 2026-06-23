@@ -58,6 +58,36 @@
             "type": "rss",
             "feed_url": "https://www.hoover.org/rss.xml",
             "notes": "Verified public Hoover feed."
-        }
-    ]
+},
+{
+    "name": "Bruegel",
+    "type": "rss",
+    "feed_url": "https://www.bruegel.org/rss.xml",
+    "notes": "European economics and policy think tank based in Brussels."
+},
+{
+    "name": "Chatham House",
+    "type": "rss",
+    "feed_url": "https://www.chathamhouse.org/rss.xml",
+    "notes": "Royal Institute of International Affairs, UK."
+},
+{
+    "name": "European Council on Foreign Relations",
+    "type": "rss",
+    "feed_url": "https://ecfr.eu/feed/",
+    "notes": "Pan-European foreign policy think tank."
+},
+{
+    "name": "Centre for European Reform",
+    "type": "rss",
+    "feed_url": "https://www.cer.eu/rss.xml",
+    "notes": "Independent think tank focused on Europe."
+},
+{
+    "name": "German Council on Foreign Relations",
+    "type": "rss",
+    "feed_url": "https://dgap.org/en/rss.xml",
+    "notes": "German foreign policy think tank."
+}
+]
 }

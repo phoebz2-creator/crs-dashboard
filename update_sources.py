@@ -58,17 +58,39 @@ class SourceItem:
     url: str
 
 
-def api_get(path: str, api_key: str, params: dict[str, str | int] | None = None) -> dict[str, Any]:
+def api_get(
+    path: str,
+    api_key: str,
+    params: dict[str, str | int] | None = None,
+    log_label: str | None = None,
+) -> dict[str, Any]:
     query = {"api_key": api_key, "format": "json"}
     if params:
         query.update(params)
 
+    url = f"{API_BASE_URL}{path}?{urlencode(query)}"
+    if log_label:
+        safe_url = re.sub(r"api_key=[^&]+", "api_key=REDACTED", url)
+        print(f"{log_label}: requesting {safe_url}", file=sys.stderr)
+
     request = Request(
-        f"{API_BASE_URL}{path}?{urlencode(query)}",
+        url,
         headers={"Accept": "application/json", "User-Agent": "US-Policy-Research-Dashboard/1.0"},
     )
     with urlopen(request, timeout=REQUEST_TIMEOUT) as response:
+        if log_label:
+            print(f"{log_label}: HTTP status {response.status}", file=sys.stderr)
         return json.loads(response.read().decode("utf-8"))
+
+
+def describe_http_error(error: HTTPError) -> str:
+    try:
+        body = error.read().decode("utf-8", errors="replace").strip()
+    except Exception:
+        body = ""
+    if body:
+        return f"HTTP {error.code}: {body[:1000]}"
+    return f"HTTP {error.code}: {error.reason}"
 
 
 def fetch_url(url: str) -> bytes:
@@ -213,13 +235,31 @@ def fetch_crs_items(api_key: str | None, limit: int, days: int | None) -> list[S
         print(f"Warning: {API_KEY_ENV} is not set; skipping CRS.", file=sys.stderr)
         return []
 
+    print(f"CRS: {API_KEY_ENV} detected.", file=sys.stderr)
     params: dict[str, str | int] = {"limit": min(limit, 250), "offset": 0}
     if days:
         since = datetime.now(timezone.utc) - timedelta(days=days)
         params["fromDateTime"] = since.replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
-    payload = api_get("/crsreport", api_key, params)
+    try:
+        payload = api_get("/crsreport", api_key, params, log_label="CRS list API")
+    except HTTPError as error:
+        print(f"CRS list API failed: {describe_http_error(error)}", file=sys.stderr)
+        raise
+
     items = extract_reports_list(payload)
+    print(f"CRS list API returned {len(items)} records before detail enrichment.", file=sys.stderr)
+    if not items and days:
+        print("CRS list API returned 0 records with fromDateTime; retrying without date filter.", file=sys.stderr)
+        payload = api_get(
+            "/crsreport",
+            api_key,
+            {"limit": min(limit, 250), "offset": 0},
+            log_label="CRS list API retry",
+        )
+        items = extract_reports_list(payload)
+        print(f"CRS list API retry returned {len(items)} records before detail enrichment.", file=sys.stderr)
+
     results: list[SourceItem] = []
 
     for item in items[:limit]:
@@ -227,9 +267,13 @@ def fetch_crs_items(api_key: str | None, limit: int, days: int | None) -> list[S
         detail = item
         if number:
             try:
-                detail = extract_detail(api_get(f"/crsreport/{number}", api_key))
+                detail = extract_detail(api_get(f"/crsreport/{number}", api_key, log_label=f"CRS detail API {number}"))
             except (HTTPError, URLError, TimeoutError, json.JSONDecodeError) as error:
-                print(f"Warning: using CRS list metadata for {number}: {error}", file=sys.stderr)
+                if isinstance(error, HTTPError):
+                    reason = describe_http_error(error)
+                else:
+                    reason = str(error)
+                print(f"Warning: using CRS list metadata for {number}: {reason}", file=sys.stderr)
 
         title = as_text(get_value(detail, "title", "name"))
         summary = as_text(get_value(detail, "summary", "description", "abstract"))
@@ -246,6 +290,7 @@ def fetch_crs_items(api_key: str | None, limit: int, days: int | None) -> list[S
             )
         )
 
+    print(f"CRS: fetched {len(results)} normalized items.", file=sys.stderr)
     return results
 
 
@@ -422,6 +467,8 @@ def main() -> int:
         items = sort_items(dedupe_items(items))
         if not items:
             raise RuntimeError("No source items were fetched.")
+        crs_written_count = sum(1 for item in items if item.source == "Congressional Research Service")
+        print(f"CRS: writing {crs_written_count} items into {OUTPUT_FILE}.", file=sys.stderr)
         write_sources_json(items)
     except (HTTPError, URLError, TimeoutError, json.JSONDecodeError, RuntimeError) as error:
         print(f"Update failed: {error}", file=sys.stderr)
