@@ -50,7 +50,7 @@ function updateLastUpdated() {
         return;
     }
 
-    lastUpdated.textContent = `Last Updated: ${new Intl.DateTimeFormat("en-US", {
+    lastUpdated.textContent = `Lastest Report Date: ${new Intl.DateTimeFormat("en-US", {
         month: "long",
         day: "numeric",
         year: "numeric"
