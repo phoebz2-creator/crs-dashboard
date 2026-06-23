@@ -362,3 +362,21 @@ button:hover {
         grid-template-columns: 1fr;
     }
 }
+.header-links {
+    margin-top: 16px;
+  }
+  
+  .timeline-link {
+    display: inline-block;
+    padding: 10px 16px;
+    background: rgba(255,255,255,0.12);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+  }
+  
+  .timeline-link:hover {
+    background: rgba(255,255,255,0.2);
+  }
