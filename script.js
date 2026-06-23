@@ -10,6 +10,8 @@ const lastUpdated = document.getElementById("lastUpdated");
 
 let activeSource = "All";
 let publications = [];
+let currentPage = 1;
+const itemsPerPage = 12;
 
 function escapeHtml(value) {
     return String(value ?? "")
@@ -108,9 +110,17 @@ function updateSummary(visibleCount) {
 
 function renderReports() {
     const filteredReports = getFilteredReports();
+    const totalPages = Math.max(1, Math.ceil(filteredReports.length / itemsPerPage));
+
+    if (currentPage > totalPages) {
+        currentPage = totalPages;
+    }
+
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const paginatedReports = filteredReports.slice(startIndex, startIndex + itemsPerPage);
 
     reportsGrid.innerHTML = "";
-    filteredReports.forEach((report) => {
+    paginatedReports.forEach((report) => {
         reportsGrid.appendChild(createReportCard(report));
     });
 
@@ -118,6 +128,51 @@ function renderReports() {
     reportsGrid.hidden = filteredReports.length === 0;
     reportCount.textContent = publications.length;
     updateSummary(filteredReports.length);
+    renderPagination(filteredReports.length);
+}
+
+function renderPagination(totalItems) {
+    let pagination = document.getElementById("paginationControls");
+
+    if (!pagination) {
+        pagination = document.createElement("div");
+        pagination.id = "paginationControls";
+        pagination.style.display = "flex";
+        pagination.style.gap = "8px";
+        pagination.style.justifyContent = "center";
+        pagination.style.alignItems = "center";
+        pagination.style.margin = "32px 0";
+        reportsGrid.parentNode.insertBefore(pagination, reportsGrid.nextSibling);
+    }
+
+    const totalPages = Math.ceil(totalItems / itemsPerPage);
+
+    if (totalPages <= 1) {
+        pagination.innerHTML = "";
+        return;
+    }
+
+    pagination.innerHTML = `
+        <button class="filter-button" id="prevPage" ${currentPage === 1 ? "disabled" : ""}>Previous</button>
+        <span>Page ${currentPage} of ${totalPages}</span>
+        <button class="filter-button" id="nextPage" ${currentPage === totalPages ? "disabled" : ""}>Next</button>
+    `;
+
+    document.getElementById("prevPage").addEventListener("click", () => {
+        if (currentPage > 1) {
+            currentPage -= 1;
+            renderReports();
+            window.scrollTo({ top: reportsGrid.offsetTop - 120, behavior: "smooth" });
+        }
+    });
+
+    document.getElementById("nextPage").addEventListener("click", () => {
+        if (currentPage < totalPages) {
+            currentPage += 1;
+            renderReports();
+            window.scrollTo({ top: reportsGrid.offsetTop - 120, behavior: "smooth" });
+        }
+    });
 }
 
 function renderSourceFilters() {
@@ -142,14 +197,19 @@ sourceFilters.addEventListener("click", (event) => {
     }
 
     activeSource = button.dataset.source;
+    currentPage = 1;
     renderSourceFilters();
     renderReports();
 });
 
-searchInput.addEventListener("input", renderReports);
+searchInput.addEventListener("input", () => {
+    currentPage = 1;
+    renderReports();
+});
 
 clearSearchButton.addEventListener("click", () => {
     searchInput.value = "";
+    currentPage = 1;
     searchInput.focus();
     renderReports();
 });
