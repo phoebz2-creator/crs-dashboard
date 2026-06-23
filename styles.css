@@ -380,3 +380,57 @@ button:hover {
   .timeline-link:hover {
     background: rgba(255,255,255,0.2);
   }
+  .featured-tool {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    background: white;
+    border: 1px solid #d9e2ec;
+    border-radius: 14px;
+    padding: 28px;
+    margin-bottom: 28px;
+    box-shadow: 0 12px 30px rgba(20, 33, 61, 0.06);
+  }
+  
+  .featured-tool h2 {
+    margin: 0 0 8px;
+    font-size: 28px;
+    color: #14213d;
+  }
+  
+  .featured-tool p {
+    margin: 0;
+    color: #52606d;
+  }
+  
+  .featured-tool .eyebrow {
+    margin-bottom: 8px;
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #1f7a7a;
+  }
+  
+  .featured-link {
+    flex-shrink: 0;
+    display: inline-block;
+    padding: 12px 18px;
+    background: #1f3a40;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 800;
+  }
+  
+  .featured-link:hover {
+    background: #2b555c;
+  }
+  
+  @media (max-width: 720px) {
+    .featured-tool {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
