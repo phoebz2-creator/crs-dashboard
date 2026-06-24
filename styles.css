@@ -403,6 +403,13 @@ button:hover {
     margin: 0;
     color: #52606d;
   }
+
+  .featured-meta {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #1f7a7a;
+  }
   
   .featured-tool .eyebrow {
     margin-bottom: 8px;
