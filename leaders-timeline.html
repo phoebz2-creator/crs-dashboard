@@ -131,6 +131,34 @@
     color: #0f766e;
 }
 
+.timeline-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 24px;
+}
+
+.filter-btn {
+    border: none;
+    cursor: pointer;
+    padding: 8px 14px;
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 600;
+    background: #e5e7eb;
+    color: #374151;
+    transition: all 0.2s ease;
+}
+
+.filter-btn:hover {
+    background: #d1d5db;
+}
+
+.filter-btn.active {
+    background: #145858;
+    color: white;
+}
+
     .turning-point .tag {
       background: #fde8cf;
       color: #8a430a;
@@ -356,7 +384,16 @@
 
     <section id="timeline" class="section">
       <h2>Timeline</h2>
-      <div class="timeline-item">
+      <div class="timeline-filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="china-russia">China–Russia</button>
+        <button class="filter-btn" data-filter="us-ukraine">U.S.–Ukraine</button>
+        <button class="filter-btn" data-filter="europe-ukraine">Europe–Ukraine</button>
+        <button class="filter-btn" data-filter="g7">G7</button>
+        <button class="filter-btn" data-filter="nato">NATO</button>
+        <button class="filter-btn" data-filter="japan-korea">Japan–South Korea</button>
+    </div>
+      <div class="timeline-item" data-track="us-ukraine">
         <div class="date">February 28, 2025</div>
         <span class="tag us-ukraine">U.S.–Ukraine</span>
         <h3>Zelensky visits Washington</h3>
@@ -369,7 +406,7 @@
         </p>
       </div>
 
-      <div class="timeline-item">
+      <div class="timeline-item" data-track="europe-ukraine">
         <div class="date">March 2, 2025</div>
         <span class="tag europe-ukraine">Europe–Ukraine</span>
         <h3>London Summit on Ukraine</h3>
@@ -382,7 +419,7 @@
         </p>
     </div>
 
-      <div class="timeline-item">
+    <div class="timeline-item" data-track="china-russia">
         <div class="date">May 7, 2025</div>
         <span class="tag china-russia">China–Russia</span>
         <h3>Xi Jinping visits Moscow</h3>
@@ -395,7 +432,7 @@
         </p>
     </div>
     
-    <div class="timeline-item">
+    <div class="timeline-item" data-track="china-russia">
         <div class="date">May 9, 2025</div>
         <span class="tag china-russia">China–Russia</span>
         <h3>Xi Jinping and Putin meet during Victory Day celebrations</h3>
@@ -408,7 +445,7 @@
         </p>
     </div>
     
-    <div class="timeline-item">
+    <div class="timeline-item" data-track="g7">
         <div class="date">June 16–17, 2025</div>
         <span class="tag g7">G7</span>
         <h3>G7 Leaders Summit in Canada</h3>
@@ -421,7 +458,7 @@
         </p>
     </div>
     
-    <div class="timeline-item">
+    <div class="timeline-item" data-track="nato">
         <div class="date">June 24–25, 2025</div>
         <span class="tag nato">NATO</span>
         <h3>NATO Summit in The Hague</h3>
@@ -434,7 +471,7 @@
         </p>
     </div>
     
-    <div class="timeline-item">
+    <div class="timeline-item" data-track="japan-korea">
         <div class="date">July 2025</div>
         <span class="tag japan-korea">Japan–South Korea</span>
         <h3>Japan–South Korea Leaders Meeting</h3>
@@ -447,7 +484,7 @@
         </p>
     </div>
     
-    <div class="timeline-item">
+    <div class="timeline-item" data-track="europe-ukraine">
         <div class="date">September 2025</div>
         <span class="tag europe-ukraine">Europe–Ukraine</span>
         <h3>Macron meets Zelensky</h3>
@@ -460,7 +497,7 @@
         </p>
     </div>
     
-    <div class="timeline-item">
+    <div class="timeline-item" data-track="europe-ukraine">
         <div class="date">October 2025</div>
         <span class="tag europe-ukraine">Europe–Ukraine</span>
         <h3>German Chancellor meets Zelensky</h3>
@@ -514,5 +551,35 @@
   <footer>
     Global Leaders Visit Timeline · Research page for policy analysis
   </footer>
+  <script>
+    const filterButtons = document.querySelectorAll(".filter-btn");
+    const timelineItems = document.querySelectorAll(".timeline-item");
+    
+    filterButtons.forEach(button => {
+        button.addEventListener("click", () => {
+    
+            filterButtons.forEach(btn => {
+                btn.classList.remove("active");
+            });
+    
+            button.classList.add("active");
+    
+            const filter = button.dataset.filter;
+    
+            timelineItems.forEach(item => {
+    
+                if (
+                    filter === "all" ||
+                    item.dataset.track === filter
+                ) {
+                    item.style.display = "block";
+                } else {
+                    item.style.display = "none";
+                }
+    
+            });
+        });
+    });
+    </script>
 </body>
 </html>
