@@ -9,6 +9,15 @@
         "url": "https://www.hoover.org/plus/research/formula-economic-growth"
     },
     {
+        "id": "R47892",
+        "source": "Congressional Research Service",
+        "title": "The Marine Mammal Protection Act (P.L. 92522): Primer and Issues for Congress",
+        "publicationDate": "2026-06-25",
+        "category": "Foreign Policy",
+        "summary": "Congress passed the Marine Mammal Protection Act (MMPA) in 1972 (P.L. 92-522; 16 U.S.C. §§1361-1423h) to conserve marine mammal populations and protect them from extinction or depletion as a result of human activities. Since enactment, Congress has amended the MMPA at times and passed the most recent comprehensive amendments in 1994 (P.L. 103-238). The MMPA intersects with other marine-related legislation, such as...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47892/R47892.5.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4707-1.html",
         "source": "RAND Corporation",
         "title": "Supply Chain, Energy, and AI Nexus",
@@ -36,6 +45,15 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3892-2.html"
     },
     {
+        "id": "https://www.cfr.org/backgrounders/what-does-g7-do",
+        "source": "Council on Foreign Relations",
+        "title": "What Does the G7 Do?",
+        "publicationDate": "2026-06-25",
+        "category": "Backgrounder",
+        "summary": "The Group of Seven (G7) has been a forum to coordinate global policy for fifty years, but experts are increasingly questioning the group’s relevance.",
+        "url": "https://www.cfr.org/backgrounders/what-does-g7-do"
+    },
+    {
         "id": "https://www.cfr.org/articles/as-death-toll-spikes-venezuelas-earthquakes-test-u-s-disaster-relief",
         "source": "Council on Foreign Relations",
         "title": "As Death Toll Spikes, Venezuela’s Earthquakes Test U.S. Disaster Relief",
@@ -52,6 +70,15 @@
         "category": "Economy",
         "summary": "Social science research finds that Head Start, a federally funded preschool program for children from low-income families, does not prepare children for K–12 schools, nor does it improve their social skills. Reports on spending and safety also show that Head Start centers waste money and fail to protect children. After more than six decades and more than $240 billion in federal spending, Head Start is a poor option...",
         "url": "https://www.heritage.org/education/report/washington-dc-the-states-rethinking-head-start"
+    },
+    {
+        "id": "https://www.heritage.org/marriage-and-family/commentary/these-churches-are-putting-family-politics",
+        "source": "Heritage Foundation",
+        "title": "These Churches Are Putting Family Before Politics",
+        "publicationDate": "2026-06-25",
+        "category": "Healthcare",
+        "summary": "Close to 70 percent of Black children in America are born to unmarried parents . Nearly half live with a single mother . Both figures are significantly higher than the national average and reflect the steep decline in marriage among African Americans since the 1960s. But two Black churches are showing the way to address the decline of fatherhood and family. Their insights have relevance far outside the Black...",
+        "url": "https://www.heritage.org/marriage-and-family/commentary/these-churches-are-putting-family-politics"
     },
     {
         "id": "https://www.heritage.org/europe/commentary/europes-migration-crackdown-still-pulls-its-punches",
@@ -72,13 +99,49 @@
         "url": "https://www.hudson.org/economics/us-counter-kleptocracy-strategy-leveraging-corruption-against-americas-adversaries-nate-sibley"
     },
     {
-        "id": "https://www.hoover.org/research/entrepreneurialism-bad",
+        "id": "https://www.hoover.org/news/alliance-civics-academy-newsletter-june-2026",
         "source": "Hoover Institution",
-        "title": "Is Entrepreneurialism Bad?",
+        "title": "Alliance for Civics in the Academy Newsletter | June 2026",
         "publicationDate": "2026-06-25",
         "category": "Other",
-        "summary": "On the possibility of becoming a billionaire, but more important: the much greater paydays for consumers.",
-        "url": "https://www.hoover.org/research/entrepreneurialism-bad"
+        "summary": "Welcome to the fourth issue of the ACA newsletter! Each month, we focus on a central theme and feature related webinar discussions, resources, and ACA members’ work. We also spotlight past webinar discussions from our series.",
+        "url": "https://www.hoover.org/news/alliance-civics-academy-newsletter-june-2026"
+    },
+    {
+        "id": "https://www.hoover.org/news/alliance-civics-academy-newsletter-may-2026",
+        "source": "Hoover Institution",
+        "title": "Alliance for Civics in the Academy Newsletter | May 2026",
+        "publicationDate": "2026-06-25",
+        "category": "Other",
+        "summary": "Welcome to the third issue of the ACA newsletter! Each month, we’ll focus on a central theme and feature related webinar discussions, resources, and ACA members’ work connected to that theme. Our first few issues will spotlight past webinar discussions from our series.",
+        "url": "https://www.hoover.org/news/alliance-civics-academy-newsletter-may-2026"
+    },
+    {
+        "id": "https://www.hoover.org/news/alliance-civics-academy-newsletter-april-2026",
+        "source": "Hoover Institution",
+        "title": "Alliance for Civics in the Academy Newsletter | April 2026",
+        "publicationDate": "2026-06-25",
+        "category": "Other",
+        "summary": "Welcome to the second issue of the ACA newsletter! Each month, we’ll feature webinar discussions, resources, and ACA members’ work connected to a central theme. Our first few issues are spotlighting past webinar discussions from our series.",
+        "url": "https://www.hoover.org/news/alliance-civics-academy-newsletter-april-2026"
+    },
+    {
+        "id": "https://www.hoover.org/news/alliance-civics-academy-newsletter-march-2026",
+        "source": "Hoover Institution",
+        "title": "Alliance for Civics in the Academy Newsletter | March 2026",
+        "publicationDate": "2026-06-25",
+        "category": "Other",
+        "summary": "Welcome to our first monthly newsletter! Each month, we’ll focus on a central theme and feature related webinar discussions, resources, and ACA members’ work connected to that theme. Our first few issues will spotlight past webinar discussions from our series.",
+        "url": "https://www.hoover.org/news/alliance-civics-academy-newsletter-march-2026"
+    },
+    {
+        "id": "https://www.npr.org/2026/06/25/nx-s1-5869461/trump-works-to-woo-farmers-in-aftermath-of-iran-war",
+        "source": "NPR Politics",
+        "title": "Trump works to woo farmers in aftermath of Iran war",
+        "publicationDate": "2026-06-25",
+        "category": "Foreign Policy",
+        "summary": "President Trump's proposal to have Iran use their unfrozen funds to buy American agriculture products says a lot about where he's worried about lost political support.",
+        "url": "https://www.npr.org/2026/06/25/nx-s1-5869461/trump-works-to-woo-farmers-in-aftermath-of-iran-war"
     },
     {
         "id": "https://www.npr.org/2026/06/25/nx-s1-5869755/judge-blocks-postal-service-proposal-to-restrict-mail-in-voting-under-trumps-order",
@@ -92,10 +155,10 @@
     {
         "id": "https://www.npr.org/2026/06/25/g-s1-120233/supreme-court-monsanto-roundup-decision",
         "source": "NPR Politics",
-        "title": "U.S. Supreme Court backs Monsanto in its fight against liability from popular weed killer",
+        "title": "Supreme Court backs Monsanto in its fight against liability from popular weed killer",
         "publicationDate": "2026-06-25",
         "category": "Other",
-        "summary": "The central issue in the Roundup case, filed by Missouri resident John Durnell, was who decides what should appear on a pesticide or insecticide label—and whether a federal law overrides state claims.",
+        "summary": "The central issue in the Roundup case, filed by Missouri resident John Durnell, was who decides what should appear on a pesticide or insecticide label and whether a federal law overrides state claims.",
         "url": "https://www.npr.org/2026/06/25/g-s1-120233/supreme-court-monsanto-roundup-decision"
     },
     {
@@ -117,13 +180,22 @@
         "url": "https://www.npr.org/2026/06/25/nx-s1-5869553/trump-urges-gop-to-prioritize-election-bill-as-his-iran-war-handling-draws-scrutiny"
     },
     {
-        "id": "https://www.npr.org/2026/06/25/nx-s1-5869548/political-strategist-on-the-growing-tensions-between-trump-and-senate-republicans",
-        "source": "NPR Politics",
-        "title": "Political strategist on the growing tensions between Trump and Senate Republicans",
+        "id": "https://www.pbs.org/newshour/show/u-s-moves-to-reassure-gulf-allies-after-latest-strait-of-hormuz-shutdown",
+        "source": "PBS NewsHour Politics",
+        "title": "U.S. moves to reassure Gulf allies after latest Strait of Hormuz shutdown",
         "publicationDate": "2026-06-25",
-        "category": "Other",
-        "summary": "NPR's Michel Martin speaks with political strategist Alex Conant about President Trump's tense meeting with Republican senators on Capitol Hill.",
-        "url": "https://www.npr.org/2026/06/25/nx-s1-5869548/political-strategist-on-the-growing-tensions-between-trump-and-senate-republicans"
+        "category": "Foreign Policy",
+        "summary": "A U.S. official confirmed to PBS News that Iran fired a drone that hit a container ship in the Strait of Hormuz, and traffic through the strait has largely stopped. The strike came as Secretary of State Marco Rubio visited the Persian Gulf to try to reassure Arab allies that any agreement with Iran would protect their security. Nick Schifrin discussed more with Hussein Ibish.",
+        "url": "https://www.pbs.org/newshour/show/u-s-moves-to-reassure-gulf-allies-after-latest-strait-of-hormuz-shutdown"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-house-democratic-leaders-hold-hearing-on-fair-elections-and-voting-rights",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: House Democratic leaders hold hearing on fair elections and voting rights",
+        "publicationDate": "2026-06-25",
+        "category": "Democrats",
+        "summary": "House Minority Leader Hakeem Jeffries and Democratic lawmakers held a hearing Thursday on defending fair elections and voting rights.",
+        "url": "https://www.pbs.org/newshour/politics/watch-house-democratic-leaders-hold-hearing-on-fair-elections-and-voting-rights"
     },
     {
         "id": "https://www.pbs.org/newshour/nation/the-new-housing-bill-is-historic-experts-say-it-may-fall-short-for-renters-most-in-need",
@@ -153,112 +225,103 @@
         "url": "https://www.pbs.org/newshour/politics/supreme-court-strikes-down-hawaii-law-requiring-permission-to-carry-guns-in-stores-and-hotels"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/federal-judge-halts-trumps-election-executive-order-seeking-to-create-a-federal-voter-list",
-        "source": "PBS NewsHour Politics",
-        "title": "Federal judge halts Trump's election executive order seeking to create a federal voter list",
-        "publicationDate": "2026-06-25",
-        "category": "Donald Trump news",
-        "summary": "It was the second ruling in as many days against executive orders Trump has signed seeking oversight of the nation's elections.",
-        "url": "https://www.pbs.org/newshour/politics/federal-judge-halts-trumps-election-executive-order-seeking-to-create-a-federal-voter-list"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/supreme-court-clears-way-for-trump-administration-to-revive-restrictive-immigration-policy",
-        "source": "PBS NewsHour Politics",
-        "title": "Supreme Court clears way for Trump administration to revive restrictive immigration policy",
-        "publicationDate": "2026-06-25",
-        "category": "asylum",
-        "summary": "The justices, in a 6-3 decision, overturned a lower court order blocking the practice that limited the number of people who could apply for asylum each day.",
-        "url": "https://www.pbs.org/newshour/politics/supreme-court-clears-way-for-trump-administration-to-revive-restrictive-immigration-policy"
-    },
-    {
-        "id": "https://thehill.com/business/5941082-inflation-rise-trump-challenges/",
+        "id": "https://thehill.com/regulation/court-battles/5941665-doj-epstein-files-lawsuit/",
         "source": "The Hill",
-        "title": "Inflation hits 4.1 percent in May: 5 takeaways",
+        "title": "Judge orders DOJ to produce, unredact sought after Epstein files",
         "publicationDate": "2026-06-25",
-        "category": "Economy",
-        "summary": "Federal inflation data released Thursday showed prices rising at the fastest annual rate in three years, posing serious challenges for President Trump and policymakers. The Federal Reserve’s preferred gauge of inflation showed prices rising 4.1 percent over the past year and 0.7 percent in May alone. While much of the increase came from higher energy...",
-        "url": "https://thehill.com/business/5941082-inflation-rise-trump-challenges/"
+        "category": "Court Battles",
+        "summary": "On Thursday, a federal judge based in Washington, D.C., ordered the Justice Department to unredact additional pages of the Epstein files in a suit brought by attorney and independent journalist Katie Phang. The preliminary injunction orders redactions be removed in key documents of interest in the files, including “at least eight email exchanges with Mr....",
+        "url": "https://thehill.com/regulation/court-battles/5941665-doj-epstein-files-lawsuit/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5941068-lincoln-memorial-pool-damage/",
+        "id": "https://thehill.com/policy/defense/5941664-texas-lackland-flu-outbreak/",
         "source": "The Hill",
-        "title": "National Park Service: Sharp knife or razor used to cut Reflecting Pool liner",
+        "title": "Flu cases at Texas base hit 275 as services again require recruits to get shots",
         "publicationDate": "2026-06-25",
-        "category": "Administration",
-        "summary": "A section of the liner that runs at the bottom of the Lincoln Memorial Reflecting Pool was cut with a sharp knife or razor earlier this month, according to an official at the National Park Service (NPS). According to a sworn declaration filed Wednesday, the U.S. Park Police responded to a report from the NPS...",
-        "url": "https://thehill.com/homenews/administration/5941068-lincoln-memorial-pool-damage/"
+        "category": "Defense",
+        "summary": "The number of flu cases at Lackland Air Force Base in Texas continues to rise in the wake of Defense Secretary Pete Hegseth’s banishment of the influenza vaccine mandate for service members. The Air Force confirmed 275 cases as of Wednesday, up from 160 just last week, a figure Rep. Joaquin Castro (D-Texas) said the service...",
+        "url": "https://thehill.com/policy/defense/5941664-texas-lackland-flu-outbreak/"
     },
     {
-        "id": "https://thehill.com/video-clips/5941041-watch-live-house-democrats-election-threats-presser/",
+        "id": "https://thehill.com/regulation/court-battles/5941656-supreme-court-immigration-decisions/",
         "source": "The Hill",
-        "title": "Watch live: House Democrats host forum on election threats",
+        "title": "5 takeaways from Supreme Court's big rulings on immigration, guns",
         "publicationDate": "2026-06-25",
-        "category": "Video",
-        "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) and fellow Democrats will hold a forum on election threats Thursday afternoon as the party looks ahead to the 2026 midterms. The lawmakers are likely to discuss concerns over voting access and GOP-backed reform proposals, including President Trump’s SAVE America Act — which would require proof of citizenship for...",
-        "url": "https://thehill.com/video-clips/5941041-watch-live-house-democrats-election-threats-presser/"
+        "category": "Court Battles",
+        "summary": "The Supreme Court left President Trump and gun rights advocates celebrating Thursday. In a series of 6-3 decisions, the high court ticked off some of its anticipated remaining cases as the justices move closer to their summer recess. But their rulings didn’t come without friction on the bench. Here are five takeaways. Trump's appointees help...",
+        "url": "https://thehill.com/regulation/court-battles/5941656-supreme-court-immigration-decisions/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5941043-white-house-celebrates-supreme-court-immigration-rulings/",
+        "id": "https://thehill.com/homenews/house/5941627-save-america-act-trump-johnson/",
         "source": "The Hill",
-        "title": "White House celebrates Supreme Court immigration rulings as ‘tremendous win’",
+        "title": "Trump urges House Republican rebels to stop ‘grandstanding' after meeting with Johnson",
         "publicationDate": "2026-06-25",
-        "category": "Administration",
-        "summary": "The White House commended two major decisions from the Supreme Court on Thursday morning, which bolster the Trump administration’s ability to crack down on immigration. In these rulings, the high court decided that the Trump administration could cut off temporary legal protections for thousands of Haitians and Syrians and cleared the path for the administration...",
-        "url": "https://thehill.com/homenews/administration/5941043-white-house-celebrates-supreme-court-immigration-rulings/"
+        "category": "House",
+        "summary": "President Trump on Thursday urged House Republicans to unify and stop “grandstanding” after a group of hard-line conservatives brought most House activity to a halt this week over the Safeguard American Voter Eligibility (SAVE America) Act. Trump’s post came shortly after a Thursday afternoon meeting with Speaker Mike Johnson (R-La.), who had been searching for...",
+        "url": "https://thehill.com/homenews/house/5941627-save-america-act-trump-johnson/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5941052-vice-president-vance-hosts-gop/",
+        "id": "https://thehill.com/homenews/5941529-democrats-trump-enemy-jeffries/",
         "source": "The Hill",
-        "title": "Vance hosted GOP senators for dinner following Iran blowup",
+        "title": "Jeffries says he hopes Democrats remember after primaries 'enemy is Donald Trump'",
         "publicationDate": "2026-06-25",
-        "category": "Foreign Policy",
-        "summary": "Vice President Vance hosted Republican senators for dinner Wednesday evening following President Trump’s contentious meeting with GOP senators on Capitol Hill earlier in the day. The vice president’s office confirmed to The Hill that the gathering took place hours after Trump vocally clashed with Sen. Bill Cassidy (R-La.) over the senator’s vote in favor of...",
-        "url": "https://thehill.com/homenews/administration/5941052-vice-president-vance-hosts-gop/"
+        "category": "News",
+        "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Wednesday he hopes Democrats remember that after the primary elections are over, the party's \"enemy is Donald Trump.\" MS NOW's Jen Psaki spoke with Jeffries about Israel playing a role in the New York Democratic primary. She asked Jeffries about his reflection on the issue and how Democratic...",
+        "url": "https://thehill.com/homenews/5941529-democrats-trump-enemy-jeffries/"
     },
     {
-        "id": "https://www.nytimes.com/2026/06/25/us/politics/trump-senate-republicans-undercutting-message.html",
+        "id": "https://www.nytimes.com/2026/06/25/us/politics/mike-johnson-trump-housing-bill.html",
         "source": "New York Times Politics",
-        "title": "Trump Keeps Undercutting Republicans’ Message, Squandering His Own Trifecta",
+        "title": "Johnson Says He Will Send Housing Bill to Trump",
         "publicationDate": "2026-06-25",
         "category": "United States Politics and Government",
-        "summary": "Divisions between the president and his party on Capitol Hill have muddled Republicans’ midterm pitch to voters, and have crippled the G.O.P. at what should be the peak of its power.",
-        "url": "https://www.nytimes.com/2026/06/25/us/politics/trump-senate-republicans-undercutting-message.html"
+        "summary": "After meeting with the president, the speaker said he would send him a housing bill that Mr. Trump declined to sign this week. There was no word on whether he would sign it.",
+        "url": "https://www.nytimes.com/2026/06/25/us/politics/mike-johnson-trump-housing-bill.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/06/25/us/politics/trump-housing-bill-scenarios.html",
+        "id": "https://www.nytimes.com/video/us/politics/100000010989159/how-trump-wants-to-upend-voting-in-america.html",
         "source": "New York Times Politics",
-        "title": "What Are the Paths Forward for the Housing Bill After Trump Refused to Sign It?",
+        "title": "How Trump Wants to Upend Voting in America",
+        "publicationDate": "2026-06-25",
+        "category": "Trump",
+        "summary": "President Trump is demanding that Congress pass the SAVE America Act to change American elections. Our national politics reporter Nick Corasaniti looks at what’s in it.",
+        "url": "https://www.nytimes.com/video/us/politics/100000010989159/how-trump-wants-to-upend-voting-in-america.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/06/25/us/politics/obama-trump-podcast-interview.html",
+        "source": "New York Times Politics",
+        "title": "Obama Says He Occupies a ‘Suite’ in Trump’s Head",
         "publicationDate": "2026-06-25",
         "category": "United States Politics and Government",
-        "summary": "President Trump abruptly scrapped plans to sign a major housing bill. It could still become law, with or without a presidential signature. But Mr. Trump could also try to kill it.",
-        "url": "https://www.nytimes.com/2026/06/25/us/politics/trump-housing-bill-scenarios.html"
+        "summary": "Former President Barack Obama says President Trump has an obsession with him and that Mr. Trump “knows better” than to say “crazy stuff” to his face.",
+        "url": "https://www.nytimes.com/2026/06/25/us/politics/obama-trump-podcast-interview.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/06/25/us/politics/trump-mail-in-voting-ruling.html",
+        "id": "https://www.nytimes.com/2026/06/25/us/politics/military-flu-vaccine-policy.html",
         "source": "New York Times Politics",
-        "title": "Federal Judge Strikes Key Parts of Trump Order Restricting Mail Voting",
+        "title": "Military Leaders Sought Flu Vaccination Program Weeks Before Outbreak Hit Base",
         "publicationDate": "2026-06-25",
-        "category": "Voting and Voters",
-        "summary": "The ruling rejected the Trump administration’s attempt to change federal election procedures through an executive order.",
-        "url": "https://www.nytimes.com/2026/06/25/us/politics/trump-mail-in-voting-ruling.html"
+        "category": "Defense",
+        "summary": "Officials anticipated a problem soon after Defense Secretary Pete Hegseth lifted the vaccine requirement in April.",
+        "url": "https://www.nytimes.com/2026/06/25/us/politics/military-flu-vaccine-policy.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/06/25/us/politics/frank-guarini-dead.html",
+        "id": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-trump-haiti-race.html",
         "source": "New York Times Politics",
-        "title": "Frank Guarini, Seven-Term New Jersey Representative, Dies at 101",
+        "title": "Justices Clash on Whether Race Played a Role in Trump’s Bid to Deport Haitians",
         "publicationDate": "2026-06-25",
-        "category": "Economy",
-        "summary": "A reform-minded Democrat, he served on the tax-writing House Ways and Means Committee and offered a pragmatic mix of progressive legislation and conservative fiscal philosophy.",
-        "url": "https://www.nytimes.com/2026/06/25/us/politics/frank-guarini-dead.html"
+        "category": "United States Politics and Government",
+        "summary": "The split mirrored one that has long divided Americans: how seriously to take the president’s loose, provocative and sometimes ugly remarks.",
+        "url": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-trump-haiti-race.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html",
-        "source": "New York Times Politics",
-        "title": "Chemours to Pay $450M in First Federal PFAS Settlement",
+        "id": "https://www.washingtonpost.com/politics/2026/06/25/inside-trumps-plans-retribution-other-lesser-known-allegations-regime-change/",
+        "source": "Washington Post Politics",
+        "title": "Inside Trump’s plans for retribution and other lesser-known allegations in ‘Regime Change’",
         "publicationDate": "2026-06-25",
-        "category": "Chemours Company",
-        "summary": "The settlement addresses the dumping of PFAS “forever chemicals,” which have been linked to cancer and other risks, by Chemours in several states.",
-        "url": "https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html"
+        "category": "Other",
+        "summary": "A new book from two Washington reporters reveals what took place inside the White House after President Donald Trump’s return to power.",
+        "url": "https://www.washingtonpost.com/politics/2026/06/25/inside-trumps-plans-retribution-other-lesser-known-allegations-regime-change/"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/",
@@ -315,85 +378,85 @@
         "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
         "publicationDate": "2026-06-25",
-        "category": "Economy",
-        "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
-        "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Key figure in South Africa police corruption scandal pleads guilty",
+        "title": "Women alleging rape and sexual assault in France call to abolish statute of limitations",
         "publicationDate": "2026-06-25",
         "category": "Other",
-        "summary": "Prosecutors say Vusimusi \"Cat\" Matlala could provide evidence against \"high-ranking officials\".",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss"
+        "summary": "More than 50 women are calling for the abolition of the statute of limitations which they say has prevented them seeking justice.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg7z5dvxnzo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/27f10e40-9e9f-43aa-b1b8-a432d69d79cd",
+        "id": "https://www.ft.com/content/5abcb3c1-8ce8-470f-8a37-f47af58b2f7c",
         "source": "Financial Times World",
-        "title": "Head of UK’s biggest union backs Ed Miliband for chancellor",
-        "publicationDate": "2026-06-25",
-        "category": "Other",
-        "summary": "Endorsement of Unison chief opens up split with other big unions opposed to current energy secretary being appointed to Treasury",
-        "url": "https://www.ft.com/content/27f10e40-9e9f-43aa-b1b8-a432d69d79cd"
-    },
-    {
-        "id": "https://www.ft.com/content/060238c7-3d48-46d7-9c8d-f4d8e27e762c",
-        "source": "Financial Times World",
-        "title": "Tesco’s return to broadband should be a profitable side hustle",
-        "publicationDate": "2026-06-25",
-        "category": "Other",
-        "summary": "Retailer has a good chance of snagging market share thanks to its brand recognition and captive customer base",
-        "url": "https://www.ft.com/content/060238c7-3d48-46d7-9c8d-f4d8e27e762c"
-    },
-    {
-        "id": "https://www.ft.com/content/efe3ff38-c4a3-4733-917b-33ba0de5a2f7",
-        "source": "Financial Times World",
-        "title": "Andy Burnham will have to make tough choices",
-        "publicationDate": "2026-06-25",
-        "category": "Other",
-        "summary": "Britain’s next leader must be ready to take unpopular decisions on spending and growth",
-        "url": "https://www.ft.com/content/efe3ff38-c4a3-4733-917b-33ba0de5a2f7"
-    },
-    {
-        "id": "https://www.ft.com/content/4eb25cfb-1b1e-4f9d-9562-3f8a3b9078c1",
-        "source": "Financial Times World",
-        "title": "Venezuelan earthquakes leave hundreds dead and injured",
-        "publicationDate": "2026-06-25",
-        "category": "Other",
-        "summary": "Acting president Delcy Rodríguez says 164 confirmed dead but toll is likely to rise sharply",
-        "url": "https://www.ft.com/content/4eb25cfb-1b1e-4f9d-9562-3f8a3b9078c1"
-    },
-    {
-        "id": "https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719",
-        "source": "Financial Times World",
-        "title": "Oil price back at prewar levels as Gulf flows pick up",
+        "title": "Attack in Strait of Hormuz halts evacuation plan for stranded ships",
         "publicationDate": "2026-06-25",
         "category": "Foreign Policy",
-        "summary": "Brent crude drops below the $72.48 a barrel it traded at in late February before Iran conflict erupted",
-        "url": "https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719"
+        "summary": "International Maritime Organization announces pause after container ship was hit by ‘unknown projectile’",
+        "url": "https://www.ft.com/content/5abcb3c1-8ce8-470f-8a37-f47af58b2f7c"
     },
     {
-        "id": "R48874",
+        "id": "https://www.ft.com/content/6feebba7-f436-48f5-940b-93903258ed8a",
+        "source": "Financial Times World",
+        "title": "Starmer locked in stand-off with Mahmood over her push to sack migration minister",
+        "publicationDate": "2026-06-25",
+        "category": "Other",
+        "summary": "Home secretary wants Mike Tapp dismissed after calling for care workers to be exempt from tough immigration controls",
+        "url": "https://www.ft.com/content/6feebba7-f436-48f5-940b-93903258ed8a"
+    },
+    {
+        "id": "https://www.ft.com/content/a774418b-cf35-4d96-a4e6-8c6356d0867c",
+        "source": "Financial Times World",
+        "title": "Trump’s tests of the US justice system",
+        "publicationDate": "2026-06-25",
+        "category": "Other",
+        "summary": "For the time being, it is just about holding",
+        "url": "https://www.ft.com/content/a774418b-cf35-4d96-a4e6-8c6356d0867c"
+    },
+    {
+        "id": "https://www.ft.com/content/6452087f-a6ef-4a24-ae67-92bd3817d613",
+        "source": "Financial Times World",
+        "title": "FirstFT: Sanae Takaichi sets out Japan’s $2.3tn investment roadmap",
+        "publicationDate": "2026-06-25",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: attack in Strait of Hormuz halts evacuation plan and Jamie Dimon promotes two potential successors",
+        "url": "https://www.ft.com/content/6452087f-a6ef-4a24-ae67-92bd3817d613"
+    },
+    {
+        "id": "https://www.ft.com/content/7a9fbeca-3bf9-4e5f-a863-d71df35d2133",
+        "source": "Financial Times World",
+        "title": "India’s indigenous drone makers see orders surge for weaponised UAVs",
+        "publicationDate": "2026-06-25",
+        "category": "Foreign Policy",
+        "summary": "Conflict in Iran pushes New Delhi to focus on domestic defence supply chains",
+        "url": "https://www.ft.com/content/7a9fbeca-3bf9-4e5f-a863-d71df35d2133"
+    },
+    {
+        "id": "R46185",
         "source": "Congressional Research Service",
-        "title": "Department of Homeland Security Appropriations: FY2026 State of Play",
+        "title": "The Impeachment Process in the Senate",
         "publicationDate": "2026-06-24",
         "category": "Other",
-        "summary": "FY2026 marks the 23rd annual appropriations cycle with a Department of Homeland Security (DHS) appropriations measure. In six of the first seven years of its existence, the annual appropriations measure for DHS was enacted within a month of the beginning of the fiscal year it covered. Since FY2010, however, no annual DHS appropriations measure has been enacted within the first two months of its fiscal year, and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48874/R48874.3.pdf"
+        "summary": "After the House impeaches a federal officer, the Senate may conduct a trial to determine if the individual should be removed from office. The Senate has a set of rules specific to the conduct of an impeachment trial, most of which originated in the early 19th century. The impeachment rules lay out specific steps that the Senate takes to organize for a trial. House managers (Members of the House who present the case...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46185/R46185.10.pdf"
     },
     {
-        "id": "LSB11441",
+        "id": "R48028",
         "source": "Congressional Research Service",
-        "title": "CFTC Issues Proposed Rule Regarding Prediction Markets",
+        "title": "Baltimore Bridge Collapse: Frequently Asked Questions (FAQ)",
         "publicationDate": "2026-06-24",
         "category": "Defense",
-        "summary": "On June 10, 2026, the Commodity Futures Trading Commission (CFTC) issued a proposed rule regarding the types of event contracts that can be listed on CFTC-registered prediction markets. This Legal Sidebar provides an overview of the existing regulatory framework governing prediction markets, discusses the key elements of the CFTC’s proposed rule, and highlights issues that may be of interest to Congress. Background...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11441/LSB11441.2.pdf"
+        "summary": "At about 1:30 a.m. on March 26, 2024, the MV Dali, a container ship departing the Port of Baltimore, struck a pier of the Francis Scott Key Bridge in Baltimore, MD, causing the bridge to collapse into the Patapsco River. The bridge was a segment of Interstate 695 (I-695)—Baltimore’s beltway—and spanned the Patapsco shipping channel into the harbor. Key Bridge, Baltimore, port, harbor, ship, tug, NTSB, Coast Guard,...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48028/R48028.6.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4698-1.html",
@@ -441,15 +504,6 @@
         "url": "https://www.cfr.org/podcasts/presidents-inbox/women-in-power"
     },
     {
-        "id": "https://www.cfr.org/articles/can-turkey-find-its-way-back-to-freedom-authoritarian-consolidation-versus-the-defense-of-turkish-democracy",
-        "source": "Council on Foreign Relations",
-        "title": "Can Turkey Find Its Way Back to Freedom? Authoritarian Consolidation Versus the Defense of Turkish Democracy",
-        "publicationDate": "2026-06-24",
-        "category": "Defense",
-        "summary": "The House Foreign Affairs Committee holds a hearing titled, \"Can Turkey Find Its Way Back to Freedom? Authoritarian Consolidation Versus the Defense of Turkish Democracy,\" featuring Dr. Henri J. Barkey as a witness.",
-        "url": "https://www.cfr.org/articles/can-turkey-find-its-way-back-to-freedom-authoritarian-consolidation-versus-the-defense-of-turkish-democracy"
-    },
-    {
         "id": "https://www.heritage.org/marriage-and-family/report/general-obscenity-still-illegal-postmortem-the-bush-obscenity",
         "source": "Heritage Foundation",
         "title": "Is General Obscenity Still Illegal? A Postmortem on the Bush Obscenity Prosecution Task Force",
@@ -495,33 +549,6 @@
         "url": "https://www.hudson.org/foreign-policy/trumps-iran-deal-walter-russell-mead"
     },
     {
-        "id": "https://www.hoover.org/research/trump-modi-bromance-back-display-meeting-sidelines-g7",
-        "source": "Hoover Institution",
-        "title": "Trump-Modi bromance back on display in meeting on sidelines of G7",
-        "publicationDate": "2026-06-24",
-        "category": "Other",
-        "summary": "Reversing the “Indo-Pacific Command” name withdraws the idea that India “sat at the center of American strategy in Asia,” explained Ronak D. Desai, visiting fellow at Stanford’s Hoover Institution. “The chemistry is real, and Trump genuinely likes Modi, but that isn’t addressing the real frictions or the eroding trust beneath them,” said Desai.",
-        "url": "https://www.hoover.org/research/trump-modi-bromance-back-display-meeting-sidelines-g7"
-    },
-    {
-        "id": "https://www.hoover.org/research/playing-long-game",
-        "source": "Hoover Institution",
-        "title": "Playing a Long Game",
-        "publicationDate": "2026-06-24",
-        "category": "Other",
-        "summary": "Professor Paul Schmelzing's work on falling interest rates across seven centuries is turning heads in the financial world.",
-        "url": "https://www.hoover.org/research/playing-long-game"
-    },
-    {
-        "id": "https://www.hoover.org/research/business-school-research-reaching-policymakers",
-        "source": "Hoover Institution",
-        "title": "The Business School Research Reaching Policymakers",
-        "publicationDate": "2026-06-24",
-        "category": "Other",
-        "summary": "How analysis of policy document citations reveals the impact of academic papers.",
-        "url": "https://www.hoover.org/research/business-school-research-reaching-policymakers"
-    },
-    {
         "id": "https://ecfr.eu/article/beyond-brexit-and-back-to-europe/",
         "source": "European Council on Foreign Relations",
         "title": "Beyond Brexit—and back to Europe",
@@ -540,13 +567,22 @@
         "url": "https://www.washingtonpost.com/politics/2026/06/24/white-house-asks-congress-88-billion-iran-war/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/06/24/trump-abruptly-cancels-signing-bipartisan-bill-affordable-housing/",
-        "source": "Washington Post Politics",
-        "title": "Trump abruptly cancels signing of bipartisan bill on affordable housing",
-        "publicationDate": "2026-06-24",
-        "category": "Other",
-        "summary": "The president posted on social media that the signing was off until the Senate passes his election integrity bill. It is unclear whether he intends to kill the housing bill.",
-        "url": "https://www.washingtonpost.com/politics/2026/06/24/trump-abruptly-cancels-signing-bipartisan-bill-affordable-housing/"
+        "id": "R46991",
+        "source": "Congressional Research Service",
+        "title": "Economic Development Administration: An Overview of Programs and Appropriations (FY2012-FY2026)",
+        "publicationDate": "2026-06-23",
+        "category": "Defense",
+        "summary": "The Economic Development Administration (EDA), a bureau of the U.S. Department of Commerce (DOC), is the only federal agency with economic development as its sole mission. The agency was established pursuant to the enactment of the Public Works and Economic Development Act (PWEDA) of 1965 (42 U.S.C. §§3121 et seq.) to assist state and local stakeholders with developing the conditions and amenities to grow...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46991/R46991.34.pdf"
+    },
+    {
+        "id": "R49007",
+        "source": "Congressional Research Service",
+        "title": "EPA’s PFAS Drinking Water Regulation: Considerations for Congress",
+        "publicationDate": "2026-06-23",
+        "category": "Defense",
+        "summary": "Per- and polyfluoroalkyl substances (PFAS) are a large, diverse group of fluorinated chemicals that have been used in an array of commercial, industrial, and U.S. military applications for decades. Some of the more common applications include nonstick coatings, food wrappers, waterproof materials, and fire suppressants. Detections of PFAS in public water supplies have heightened public and congressional interest in...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49007/R49007.2.pdf"
     },
     {
         "id": "https://www.heritage.org/big-tech/report/technology-and-the-human-person-developing-policy-agenda-the-age-ai",
@@ -556,15 +592,6 @@
         "category": "Defense",
         "summary": "[A]n important issue of our time [is] not merely what AI can do, but who we are becoming through the technologies we build. [I]ntelligence—whether artificial or human—finds its fullest meaning in love, freedom and relationship with God. [D]o not let the algorithm write your story! Be the authors yourselves; use technology wisely, but do not let technology use you. [A]ccess to data—however extensive—must not be...",
         "url": "https://www.heritage.org/big-tech/report/technology-and-the-human-person-developing-policy-agenda-the-age-ai"
-    },
-    {
-        "id": "https://www.heritage.org/budget-and-spending/commentary/trumps-efforts-cut-federal-governments-size-bearing-fruit",
-        "source": "Heritage Foundation",
-        "title": "Trump’s Efforts to Cut Federal Government’s Size Bearing Fruit",
-        "publicationDate": "2026-06-23",
-        "category": "Economy",
-        "summary": "While rumors of a “The Apprentice” reboot abound, Americans need look no further than the federal government workforce to see President Trump deploy his signature catchphrase, “You’re fired!” Hundreds of thousands of unproductive public sector workers have been cut since the president’s inauguration, most notably through the Department of Government Efficiency’s efforts. Tens of thousands have taken government...",
-        "url": "https://www.heritage.org/budget-and-spending/commentary/trumps-efforts-cut-federal-governments-size-bearing-fruit"
     },
     {
         "id": "https://ecfr.eu/publication/brexit-isnt-working-british-voters-are-ready-for-a-european-future/",
@@ -612,15 +639,6 @@
         "url": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement"
     },
     {
-        "id": "R46974",
-        "source": "Congressional Research Service",
-        "title": "Cybersecurity: Selected Cyberattacks, 2012-2025",
-        "publicationDate": "2026-05-18",
-        "category": "Defense",
-        "summary": "Many Members of Congress have raised concerns over the frequency, types, and impacts of cyber incidents during hearings, speeches, and in legislation. Cyber incidents affect nearly every national entity, from federal and state government agencies to private companies and individuals. One course of action to stymie attacks has been to investigate the adversaries that conduct cyberattacks, what types of activities...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46974/R46974.10.pdf"
-    },
-    {
         "id": "https://www.cer.eu/cer-job-vacancies-may-2026",
         "source": "Centre for European Reform",
         "title": "CER Job Vacancies, May 2026",
@@ -655,23 +673,5 @@
         "category": "Foreign Policy",
         "summary": "On this week's Unpacking Europe podcast, CER's senior research fellow Anton Spisak sat down with Sam Lowe, partner at Flint Global and author of the Most Favoured Nation newsletter, to discuss renewed tensions in transatlantic trade between the EU and the US, why the contentious Turnberry deal is faltering, and whether Brussels and Washington can still find common ground. Anton Spisak , Sam Lowe 06 May 2026 Related...",
         "url": "https://www.cer.eu/media/cer-podcast-unpacking-europe-eu-us-trade-deal-unravelling"
-    },
-    {
-        "id": "RL33118",
-        "source": "Congressional Research Service",
-        "title": "Speed of Presidential and Senate Actions on Supreme Court Nominations, 1900-2010",
-        "publicationDate": "2010-08-06",
-        "category": "Other",
-        "summary": "The speed with which appointments to the Supreme Court move through various stages in the nomination-and-confirmation process is often of great interest not only to all parties directly involved, but, as well, to the nation as a whole. This report provides information on the amount of time taken to act on all Supreme Court nominations occurring between 1900 and the present. It focuses on the actual amounts of time...",
-        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL33118/RL33118.24.pdf"
-    },
-    {
-        "id": "RS22612",
-        "source": "Congressional Research Service",
-        "title": "U.S.-World Merchandise Trade Data: 1948-2006",
-        "publicationDate": "2007-02-23",
-        "category": "Other",
-        "summary": "U.S. merchandise trade is trade in goods only, not services. In 2006, U.S. exports, imports, and trade deficit reached their highest historical values: U.S. exports were $1.0 trillion, a 14.5% increase; U.S. imports were $1.9 trillion, a 10.9% increase; and the U.S. merchandise trade balance reached -$818 billion, a 6.6% increase. Merchandise trade statistics are used to measure trade in commodities and with...",
-        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS22612/RS22612.4.pdf"
     }
 ]
