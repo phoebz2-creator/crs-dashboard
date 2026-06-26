@@ -27,6 +27,15 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49009/R49009.1.pdf"
     },
     {
+        "id": "https://www.cfr.org/backgrounders/what-temporary-protected-status",
+        "source": "Council on Foreign Relations",
+        "title": "What Is Temporary Protected Status?",
+        "publicationDate": "2026-06-26",
+        "category": "Backgrounder",
+        "summary": "Temporary Protected Status (TPS) has long been used as a humanitarian solution for migrants who are unable to return home safely. President Trump’s efforts to scale back such programs have further fueled the debate over the immigration policy’s use and scope.",
+        "url": "https://www.cfr.org/backgrounders/what-temporary-protected-status"
+    },
+    {
         "id": "https://www.cfr.org/articles/myths-fables-and-hard-truths-about-ai-governance",
         "source": "Council on Foreign Relations",
         "title": "Myths, Fables, and Hard Truths About AI Governance",
@@ -135,31 +144,94 @@
         "url": "https://www.hudson.org/politics-government/britain-cant-afford-ed-miliband-tom-tugendhat"
     },
     {
-        "id": "https://www.hoover.org/plus/research/formula-economic-growth",
+        "id": "https://www.hoover.org/research/remembering-alan-greenspan",
         "source": "Hoover Institution",
-        "title": "The Formula For Economic Growth",
+        "title": "Remembering Alan Greenspan",
         "publicationDate": "2026-06-26",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.hoover.org/plus/research/formula-economic-growth"
+        "category": "Economy",
+        "summary": "The Taylor rule, named after Hoover Institution fellow John Taylor, recommends high interest rates in order to prevent possible inflation. During recessions, it recommends low rates to provide stimulus. The Taylor rule’s main virtues are that it is predictable, and that it can prevent impulsive Fed behavior. If the economy does X, then the Fed will automatically respond with Y.",
+        "url": "https://www.hoover.org/research/remembering-alan-greenspan"
     },
     {
-        "id": "https://www.hoover.org/research/democracy-britain-election-signs-and-portents",
+        "id": "https://www.hoover.org/research/israeli-ambassador-blasts-lebanon-cease-fire-talks-train-wreck",
         "source": "Hoover Institution",
-        "title": "Democracy in Britain: By-election Signs and Portents",
+        "title": "Israeli Ambassador Blasts Lebanon Cease-Fire Talks As A ‘Train Wreck’",
         "publicationDate": "2026-06-26",
         "category": "Other",
-        "summary": "A “coup” sinks Starmer, Reform stalls, and a new party enters, stage right.",
-        "url": "https://www.hoover.org/research/democracy-britain-election-signs-and-portents"
+        "summary": "Hoover Institution fellow Zohar Palti expressed skepticism about the arrangement — particularly because Israel was not involved in creating it. “It’s not serious,” Palti said of the deconfliction mechanism. “It’s like a wedding without the groom or the bride.”",
+        "url": "https://www.hoover.org/research/israeli-ambassador-blasts-lebanon-cease-fire-talks-train-wreck"
     },
     {
-        "id": "https://www.hoover.org/news/new-hoover-report-calls-us-leadership-space-traffic-coordination-orbital-congestion",
+        "id": "https://www.hoover.org/research/inconvenient-truth-meets-inconvenient-facts-7-errors-al-gores-documentary",
         "source": "Hoover Institution",
-        "title": "New Hoover Report Calls for US Leadership in Space Traffic Coordination as Orbital Congestion Accelerates",
+        "title": "The Inconvenient Truth Meets Inconvenient Facts: 7 Errors In Al Gore’s Documentary",
+        "publicationDate": "2026-06-26",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Bjorn Lomborg said in the Financial Post that an average of 500,000 people died every year due to climate disasters in the 1920s. Today, under 10,000 people die, a decline of 97 per cent.",
+        "url": "https://www.hoover.org/research/inconvenient-truth-meets-inconvenient-facts-7-errors-al-gores-documentary"
+    },
+    {
+        "id": "https://www.hoover.org/research/democrat-democrat-showdown-erupting-over-chicagos-schools",
+        "source": "Hoover Institution",
+        "title": "A Democrat-On-Democrat Showdown Is Erupting Over Chicago’s Schools",
+        "publicationDate": "2026-06-26",
+        "category": "Economy",
+        "summary": "[Subscription Required] Hoover Institution fellow Michael Hartney said Chicago is following a national trend. Local school-board elections, once low-budget affairs, have increasingly become nationalized, with millions of dollars flowing in.",
+        "url": "https://www.hoover.org/research/democrat-democrat-showdown-erupting-over-chicagos-schools"
+    },
+    {
+        "id": "https://www.hoover.org/research/free-speech-victory-counselors",
+        "source": "Hoover Institution",
+        "title": "Free Speech Victory For Counselors",
+        "publicationDate": "2026-06-26",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Eugene Volokh submitted a brief supporting neither party in the Chiles v. Salazar case, although the content of what he said seemed to favor Chiles. He emphasized that “speech cannot lose its protection just because it is relabeled conduct and then banned\".",
+        "url": "https://www.hoover.org/research/free-speech-victory-counselors"
+    },
+    {
+        "id": "https://ecfr.eu/article/americas-direct-return-doctrine-and-what-it-means-for-the-world/",
+        "source": "European Council on Foreign Relations",
+        "title": "America’s “direct return” doctrine—and what it means for the world",
+        "publicationDate": "2026-06-26",
+        "category": "Geoeconomics and trade",
+        "summary": "In Bosnia and Herzegovina, the United States is focused on doing business, at the expense of peace. There are ways for Europeans to acquire a veto over these destabilising activities; but the Trump administration may yet replicate this approach across the globe.",
+        "url": "https://ecfr.eu/article/americas-direct-return-doctrine-and-what-it-means-for-the-world/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/british-politics-ten-years-after-brexit/",
+        "source": "European Council on Foreign Relations",
+        "title": "British politics ten years after Brexit",
+        "publicationDate": "2026-06-26",
+        "category": "European Power",
+        "summary": "Mark Leonard welcomes Marcus Roberts to discuss the legacy of Brexit and the latest developments in British politics",
+        "url": "https://ecfr.eu/podcasts/episode/british-politics-ten-years-after-brexit/"
+    },
+    {
+        "id": "https://www.npr.org/2026/06/26/nx-s1-5871305/trumps-demands-for-loyalty-are-causing-friction",
+        "source": "NPR Politics",
+        "title": "Trump's demands for loyalty are causing friction",
+        "publicationDate": "2026-06-26",
+        "category": "Other",
+        "summary": "President Trump has demanded loyalty from his supporters and allies, causing friction within the Republican party and abroad.",
+        "url": "https://www.npr.org/2026/06/26/nx-s1-5871305/trumps-demands-for-loyalty-are-causing-friction"
+    },
+    {
+        "id": "https://www.npr.org/2026/06/26/nx-s1-5871318/state-department-spokesman-on-venezuela-response-iran-negotiations",
+        "source": "NPR Politics",
+        "title": "State Department spokesman on Venezuela response, Iran negotiations",
         "publicationDate": "2026-06-26",
         "category": "Foreign Policy",
-        "summary": "A new Hoover Institution report argues that the United States must take proactive steps to enhance space traffic coordination as rapid growth in satellite launches, combined with a lack of standardized international regulations and data sharing practices, increases pressure on the orbital environment and creates significant risks for orbital safety.",
-        "url": "https://www.hoover.org/news/new-hoover-report-calls-us-leadership-space-traffic-coordination-orbital-congestion"
+        "summary": "A conversation with Thomas \"Tommy\" Pigott, spokesperson for the U.S. State Department.",
+        "url": "https://www.npr.org/2026/06/26/nx-s1-5871318/state-department-spokesman-on-venezuela-response-iran-negotiations"
+    },
+    {
+        "id": "https://www.npr.org/2026/06/26/nx-s1-5871369/new-york-ice-instagram-immigration-dhs-paigelynne-gonyea",
+        "source": "NPR Politics",
+        "title": "She posted about ICE. Five months later, DHS agents told her to take her post down",
+        "publicationDate": "2026-06-26",
+        "category": "Other",
+        "summary": "In January, Paigelynne Gonyea posted about the immigration surge in Minneapolis. This week, she was visited by ICE officials who claimed one of her posts had doxxed a federal agent.",
+        "url": "https://www.npr.org/2026/06/26/nx-s1-5871369/new-york-ice-instagram-immigration-dhs-paigelynne-gonyea"
     },
     {
         "id": "https://www.npr.org/2026/06/26/nx-s1-5871292/john-bolton-national-security-classified-documents",
@@ -180,22 +252,40 @@
         "url": "https://www.npr.org/2026/06/26/nx-s1-5869615/climate-noaa-data-trump-doge"
     },
     {
-        "id": "https://www.npr.org/2026/06/26/nx-s1-5869651/problem-solvers-caucus-co-chairs-say-theyll-make-sure-housing-bill-becomes-law",
-        "source": "NPR Politics",
-        "title": "Problem Solvers Caucus co-chairs say they'll make sure housing bill becomes law",
+        "id": "https://www.pbs.org/newshour/show/trumps-tps-policy-is-a-job-killer-and-bad-for-ohio-gov-dewine-says",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump's TPS policy is a 'job killer' and bad for Ohio, Gov. DeWine says",
         "publicationDate": "2026-06-26",
         "category": "Other",
-        "summary": "Rep. Brian Fitzpatrick, R-Penn., and Rep. Tom Suozzi, D-N.Y., tell NPR's Michel Martin they want to force into law a housing bill President Trump has refused to sign.",
-        "url": "https://www.npr.org/2026/06/26/nx-s1-5869651/problem-solvers-caucus-co-chairs-say-theyll-make-sure-housing-bill-becomes-law"
+        "summary": "A Supreme Court ruling this week cleared the way for the Trump administration to end temporary protected status for Haitians and Syrians. One of the states that could face the biggest impact is Ohio, where more than 10,000 Haitian migrants have settled. Republican Gov. Mike DeWine called the move a mistake. He joined Amna Nawaz to discuss the ruling and what it means for communities in his state.",
+        "url": "https://www.pbs.org/newshour/show/trumps-tps-policy-is-a-job-killer-and-bad-for-ohio-gov-dewine-says"
     },
     {
-        "id": "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel",
-        "source": "NPR Politics",
-        "title": "UN agency pauses evacuation of ships through the Strait of Hormuz after attack on vessel",
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-receives-report-from-religious-liberty-commission-in-the-oval-office",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump receives report from Religious Liberty Commission in the Oval Office",
         "publicationDate": "2026-06-26",
-        "category": "Defense",
-        "summary": "A United Nations agency paused the evacuation of ships through the Strait of Hormuz on Thursday after the British military said a vessel was hit by a projectile off the coast of Oman following the passage of several tankers that used a route backed by the U.N.",
-        "url": "https://www.npr.org/2026/06/26/nx-s1-5871963/un-agency-pauses-evacuation-of-ships-through-strait-of-hormuz-after-attack-vessel"
+        "category": "church and state",
+        "summary": "A new report by a Trump administration commission suggests replacing the idea of separating church and state with the idea of building bridges between them.",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-receives-report-from-religious-liberty-commission-in-the-oval-office"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/live-results-louisiana-midterm-primary-runoffs",
+        "source": "PBS NewsHour Politics",
+        "title": "Live Results: Louisiana midterm primary runoffs",
+        "publicationDate": "2026-06-26",
+        "category": "bill cassidy",
+        "summary": "Louisiana Republicans will nominate a candidate for U.S. Senate in a primary runoff Saturday, six weeks after denying Republican U.S. Sen. Bill Cassidy a shot at a third term.",
+        "url": "https://www.pbs.org/newshour/politics/live-results-louisiana-midterm-primary-runoffs"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/newsom-urges-a-national-billionaires-tax-while-fighting-one-in-california",
+        "source": "PBS NewsHour Politics",
+        "title": "Newsom urges a national 'billionaires' tax' while fighting one in California",
+        "publicationDate": "2026-06-26",
+        "category": "Economy",
+        "summary": "The governor announced his agenda a day after an influential health care union in California pledged to go forward with a ballot measure that would impose a one-time 5% tax on the assets of billionaires living in the state as of Jan. 1, 2026. Newsom opposes that measure.",
+        "url": "https://www.pbs.org/newshour/politics/newsom-urges-a-national-billionaires-tax-while-fighting-one-in-california"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/trump-threatens-100-tax-on-european-imports-if-countries-impose-tax-on-digital-services",
@@ -207,130 +297,112 @@
         "url": "https://www.pbs.org/newshour/politics/trump-threatens-100-tax-on-european-imports-if-countries-impose-tax-on-digital-services"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-faith-and-freedom-coalition-policy-conference",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Trump speaks at Faith and Freedom Coalition Policy Conference",
-        "publicationDate": "2026-06-26",
-        "category": "Donald Trump news",
-        "summary": "The president is expected to speak at 1:30 p.m. EDT. Watch live here.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-faith-and-freedom-coalition-policy-conference"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/disagreements-between-supreme-court-justices-bubble-into-public-view-as-major-rulings-loom",
-        "source": "PBS NewsHour Politics",
-        "title": "Disagreements between Supreme Court justices bubble into public view as major rulings loom",
-        "publicationDate": "2026-06-26",
-        "category": "asylum",
-        "summary": "The Supreme Court is handing down major opinions at a rapid clip, but even with some of the biggest decisions yet to come there are signs of tension between the justices.",
-        "url": "https://www.pbs.org/newshour/politics/disagreements-between-supreme-court-justices-bubble-into-public-view-as-major-rulings-loom"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/your-social-security-benefits-could-be-cut-by-a-quarter-in-2032-heres-what-to-know",
-        "source": "PBS NewsHour Politics",
-        "title": "Your Social Security benefits could be cut by a quarter in 2032. Here's what to know",
-        "publicationDate": "2026-06-26",
-        "category": "retirement",
-        "summary": "Americans' Social Security benefits will have to be cut by roughly a quarter in six years due to depleted funds, according to a June 9 report from the Social Security Board of Trustees. That's months sooner than the group had estimated in 2025.",
-        "url": "https://www.pbs.org/newshour/politics/your-social-security-benefits-could-be-cut-by-a-quarter-in-2032-heres-what-to-know"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/ex-national-security-adviser-john-bolton-pleads-guilty-to-illegally-retaining-classified-information",
-        "source": "PBS NewsHour Politics",
-        "title": "Ex-national security adviser John Bolton pleads guilty to illegally retaining classified information",
-        "publicationDate": "2026-06-26",
-        "category": "Classified Documets",
-        "summary": "Former Trump administration national security adviser John Bolton pleaded guilty on Friday to illegally retaining classified information, sealing a deal with federal prosecutors that could allow him to avoid a prison term.",
-        "url": "https://www.pbs.org/newshour/politics/ex-national-security-adviser-john-bolton-pleads-guilty-to-illegally-retaining-classified-information"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/5942796-pentagon-us-bases-ufo-sightings/",
+        "id": "https://thehill.com/newsletters/defense-national-security/5943426-us-strikes-iranian-sites/",
         "source": "The Hill",
-        "title": "US military stumped by UFO sightings over bases: Ex-defense official",
+        "title": "Back at it with Iran?",
         "publicationDate": "2026-06-26",
         "category": "Defense",
-        "summary": "He estimates hundreds of incidents occur annually that baffle military leaders.",
-        "url": "https://thehill.com/policy/defense/5942796-pentagon-us-bases-ufo-sightings/"
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Back at it with Iran? The U.S. military said it conducted strikes against Iranian sites on Friday, less than an hour after President Trump indicated action would be taken against Tehran. The president cited Thursday’s attack...",
+        "url": "https://thehill.com/newsletters/defense-national-security/5943426-us-strikes-iranian-sites/"
     },
     {
-        "id": "https://thehill.com/policy/transportation/5942680-disabled-veterans-might-qualify-for-free-precheck-from-tsa-heres-how/",
+        "id": "https://thehill.com/homenews/house/5943366-garcia-warns-trump-election-fraud/",
         "source": "The Hill",
-        "title": "Disabled veterans might qualify for free PreCheck from TSA: Here's how",
+        "title": "House Democrat: 'No question' Trump will try to interfere with elections",
+        "publicationDate": "2026-06-26",
+        "category": "House",
+        "summary": "Rep. Robert Garcia (D-Calif.) on Thursday re-upped Democratic-led warnings about election interference ahead of the midterm elections. Democratic lawmakers have repeatedly voiced concerns about the Trump administration’s efforts to access voter data from many U.S. states and cited President Trump’s false claims of widespread voter fraud in the 2020 presidential election. “There is no question...",
+        "url": "https://thehill.com/homenews/house/5943366-garcia-warns-trump-election-fraud/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/evening-report/5943353-us-strikes-iranian-missile-sites/",
+        "source": "The Hill",
+        "title": "Evening Report - US strikes Iranian missile, radar sites after Tehran hits cargo ship",
         "publicationDate": "2026-06-26",
         "category": "Defense",
-        "summary": "Veterans of the U.S. Military who meet a set of requirements outlined in the Veterans Expedited TSA Screening (VETS) Safe Travel Act now qualify for free TSA PreCheck enrollment.",
-        "url": "https://thehill.com/policy/transportation/5942680-disabled-veterans-might-qualify-for-free-precheck-from-tsa-heres-how/"
+        "summary": "The U.S. military said it conducted strikes against Iranian missile and drone storage sites and coastal radar locations on Friday, a day after Tehran struck a cargo ship in the Strait of Hormuz. {beacon} EVENING REPORT EVENING REPORT Friday, June 26 Sign up © Associated Press US strikes Iranian missile, radar sites after Tehran hits...",
+        "url": "https://thehill.com/newsletters/evening-report/5943353-us-strikes-iranian-missile-sites/"
     },
     {
-        "id": "https://thehill.com/policy/technology/5942770-openai-staggers-gpt-56/",
+        "id": "https://thehill.com/homenews/state-watch/5943265-pete-buttigieg-swatting-child-protective-services/",
         "source": "The Hill",
-        "title": "OpenAI slow rolls new model release at 'request' of government",
+        "title": "Buttigieg targeted in false report, police say",
+        "publicationDate": "2026-06-26",
+        "category": "State Watch",
+        "summary": "Former Transportation Secretary Pete Buttigieg said Friday that he was briefly separated from his 4-year-old twin children after an anonymous caller reported false accusations to Child Protective Services (CPS). In a Substack post titled “A Terrible Thing Happened to My Family,” the former Biden administration official said he was the subject of a “swatting” incident,...",
+        "url": "https://thehill.com/homenews/state-watch/5943265-pete-buttigieg-swatting-child-protective-services/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/technology/5943218-openai-slow-rolls-new-model-trump-administration-concerns/",
+        "source": "The Hill",
+        "title": "OpenAI slow rolls new model amid Trump administration concerns",
         "publicationDate": "2026-06-26",
         "category": "Technology",
-        "summary": "OpenAI announced Friday it will preview its newest GPT-5.6 model series with only a group of partners before a public rollout, at the behest of the U.S. government. The ChatGPT maker said it previewed the plans and capabilities of GPT-5.6's Sol, Terra and Luna with the government, and at the request of Washington, will start...",
-        "url": "https://thehill.com/policy/technology/5942770-openai-staggers-gpt-56/"
+        "summary": "{beacon} Technology The Big Story OpenAI slow rolls new model amid Trump admin's concerns OpenAI announced Friday it will preview its newest GPT-5.6 model series with only a group of partners before a public rollout, at the behest of the U.S. government. © AP Photo/Julia Demaree Nikhinson, Pool The ChatGPT maker said it previewed...",
+        "url": "https://thehill.com/newsletters/technology/5943218-openai-slow-rolls-new-model-trump-administration-concerns/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5941117-live-updates-donald-trump-save-america-act-midterms/",
-        "source": "The Hill",
-        "title": "Live updates: Trump addresses Faith & Freedom event",
-        "publicationDate": "2026-06-26",
-        "category": "Defense",
-        "summary": "President Trump said Friday afternoon that Iran had broken the terms of its ceasefire with the U.S. by shooting \"at least four One Way Attack Drones at Ships transversing the Strait of Hormuz.\" He called it a \"foolish violation\" of the pact. Defense Secretary Pete Hegseth’s ouster of Gen. Chris Donahue, the commander of U.S....",
-        "url": "https://thehill.com/homenews/administration/5941117-live-updates-donald-trump-save-america-act-midterms/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/5942802-donald-trump-threat-tariffs-europe-tech-firm-taxes/",
-        "source": "The Hill",
-        "title": "Trump threatens 100 percent tariff on any country that imposes tax on US tech firms",
-        "publicationDate": "2026-06-26",
-        "category": "Economy",
-        "summary": "President Trump on Friday threatened to impose a 100 percent tariff on any country that implements a digital services tax on American technology companies. He pointed to Europe, where he said countries have “been discussing the imminent implementation” or are “close to actually\" putting such taxes in place. Digital services taxes are fees levied on...",
-        "url": "https://thehill.com/homenews/administration/5942802-donald-trump-threat-tariffs-europe-tech-firm-taxes/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-arrests.html",
+        "id": "https://www.nytimes.com/2026/06/26/us/politics/israel-lebanon-agreement.html",
         "source": "New York Times Politics",
-        "title": "Prosecutors in Washington Say Citations Have Been Issued at Reflecting Pool",
+        "title": "In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon",
+        "publicationDate": "2026-06-26",
+        "category": "Foreign Policy",
+        "summary": "Secretary of State Marco Rubio acknowledged that the agreement marked only “the beginning of the beginning” of negotiations between Israel and Lebanon.",
+        "url": "https://www.nytimes.com/2026/06/26/us/politics/israel-lebanon-agreement.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html",
+        "source": "New York Times Politics",
+        "title": "How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job",
         "publicationDate": "2026-06-26",
         "category": "United States Politics and Government",
-        "summary": "A spokesman provided no further details, saying those who received the citations were ordered to appear in court at a later date. No records are available.",
-        "url": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-arrests.html"
+        "summary": "Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.",
+        "url": "https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/06/26/us/politics/trump-agenda-republicans.html",
+        "id": "https://www.nytimes.com/2026/06/26/us/politics/trump-vandalism-claims-reflecting-pool.html",
         "source": "New York Times Politics",
-        "title": "How Trump’s Political Agenda Is Shaped by His Own Obsessions",
+        "title": "What to Know About Problems at the Reflecting Pool and Trump’s Claims of Vandalism",
         "publicationDate": "2026-06-26",
         "category": "United States Politics and Government",
-        "summary": "President Trump’s priorities seem increasingly detached from the concerns of voters and his party.",
-        "url": "https://www.nytimes.com/2026/06/26/us/politics/trump-agenda-republicans.html"
+        "summary": "The administration has provided little evidence to back up some of his assertions about the Lincoln Memorial pool. Experts say other factors could have caused the major problems that have plagued it.",
+        "url": "https://www.nytimes.com/2026/06/26/us/politics/trump-vandalism-claims-reflecting-pool.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/06/26/us/politics/vance-nixon-watergate-deep-state.html",
+        "id": "https://www.nytimes.com/2026/06/26/us/politics/buttigieg-swatting-false-report-children.html",
         "source": "New York Times Politics",
-        "title": "Vance Downplays Watergate and Compares Himself to Nixon",
+        "title": "Pete Buttigieg Says He Was Separated From His Children in ‘Swatting’ Attack",
         "publicationDate": "2026-06-26",
-        "category": "Vance",
-        "summary": "The vice president said that the scandal that ended Richard Nixon’s presidency would be “like a 12-hour news story” if it happened today and that the “deep state” had taken down Nixon.",
-        "url": "https://www.nytimes.com/2026/06/26/us/politics/vance-nixon-watergate-deep-state.html"
+        "category": "Buttigieg",
+        "summary": "The former transportation secretary recounted being kept away from his 4-year-old twins overnight after an anonymous report falsely accused him of posing a threat to them.",
+        "url": "https://www.nytimes.com/2026/06/26/us/politics/buttigieg-swatting-false-report-children.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
+        "id": "https://www.nytimes.com/2026/06/26/us/politics/world-cup-politics-trump.html",
         "source": "New York Times Politics",
-        "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
+        "title": "Tackling the Politics of the World Cup",
         "publicationDate": "2026-06-26",
-        "category": "Electric and Hybrid Vehicles",
-        "summary": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive.",
-        "url": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html"
+        "category": "Politics and Government",
+        "summary": "The soccer tournament has brought a flood of political story lines.",
+        "url": "https://www.nytimes.com/2026/06/26/us/politics/world-cup-politics-trump.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html",
-        "source": "New York Times Politics",
-        "title": "John Bolton, Former Trump Adviser, Pleads Guilty in Classified Information Case",
+        "id": "https://www.washingtonpost.com/politics/2026/06/26/trump-tries-out-midterms-message-that-focuses-communists/",
+        "source": "Washington Post Politics",
+        "title": "Trump tries out midterms message that focuses on ‘communists’",
         "publicationDate": "2026-06-26",
-        "category": "United States Politics and Government",
-        "summary": "Mr. Bolton admitted to mishandling classified information and could face time in prison, in an inquiry that spanned the Trump and Biden administrations.",
-        "url": "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html"
+        "category": "Other",
+        "summary": "Trump warned an audience of religious conservatives that communism is spreading in the U.S., a new theme for his midterm campaign.",
+        "url": "https://www.washingtonpost.com/politics/2026/06/26/trump-tries-out-midterms-message-that-focuses-communists/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+        "publicationDate": "2026-06-26",
+        "category": "Foreign Policy",
+        "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+        "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
@@ -338,8 +410,26 @@
         "title": "Mother dies saving daughter in Venezuela earthquakes",
         "publicationDate": "2026-06-26",
         "category": "Other",
-        "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 589 people.",
+        "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
         "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "publicationDate": "2026-06-26",
+        "category": "Foreign Policy",
+        "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Europe's deadly heatwave breaks German record and halts public events",
+        "publicationDate": "2026-06-26",
+        "category": "Other",
+        "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
@@ -351,49 +441,22 @@
         "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+        "id": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
+        "source": "Financial Times World",
+        "title": "US launches strikes on Iran after Tehran’s attack on container ship",
         "publicationDate": "2026-06-26",
         "category": "Foreign Policy",
-        "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-        "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss"
+        "summary": "Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries",
+        "url": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-        "publicationDate": "2026-06-26",
-        "category": "Other",
-        "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-        "url": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Christmas market attacker jailed for life for murdering six in Germany",
-        "publicationDate": "2026-06-26",
-        "category": "Other",
-        "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
-        "url": "https://www.bbc.co.uk/news/articles/cy06y63y6lno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/824f0e2d-c104-4e94-8d65-cd5f8f849c53",
+        "id": "https://www.ft.com/content/8199cd6d-e513-4c9a-9beb-8a7acd2b65dc",
         "source": "Financial Times World",
-        "title": "Speed of Andy Burnham’s takeover unsettles Labour MPs",
+        "title": "‘Tit-for-tat’ trade warfare threatens global economy, says IMF chief economist",
         "publicationDate": "2026-06-26",
-        "category": "Other",
-        "summary": "Supporters admit there is not much time for likely next prime minister to plan for power",
-        "url": "https://www.ft.com/content/824f0e2d-c104-4e94-8d65-cd5f8f849c53"
-    },
-    {
-        "id": "https://www.ft.com/content/a2ea8432-f871-40c9-89bf-a18ee091413f",
-        "source": "Financial Times World",
-        "title": "Brutal nights and humidity mark Europe’s record June temperatures",
-        "publicationDate": "2026-06-26",
-        "category": "Other",
-        "summary": "Daytime peaks on the continent rising three times as fast as the wider rate of global warming, scientists say",
-        "url": "https://www.ft.com/content/a2ea8432-f871-40c9-89bf-a18ee091413f"
+        "category": "Economy",
+        "summary": "Pierre-Olivier Gourinchas, who is leaving the fund, warns attempts to gain small advantages will be ‘self-defeating’",
+        "url": "https://www.ft.com/content/8199cd6d-e513-4c9a-9beb-8a7acd2b65dc"
     },
     {
         "id": "https://www.ft.com/content/33a306c2-5aaa-45b1-9386-1716fa6a128e",
@@ -405,22 +468,22 @@
         "url": "https://www.ft.com/content/33a306c2-5aaa-45b1-9386-1716fa6a128e"
     },
     {
-        "id": "https://www.ft.com/content/1648f372-eb08-4c69-8511-eea08c4dcaf2",
+        "id": "https://www.ft.com/content/04f98e21-4ce7-43d2-8651-44557e12c31c",
         "source": "Financial Times World",
-        "title": "US lawmakers subpoena Apollo co-founder Leon Black over Epstein links",
-        "publicationDate": "2026-06-26",
-        "category": "Other",
-        "summary": "Congress issues orders to billionaire after accusing him of failing to answer questions regarding late sex offender",
-        "url": "https://www.ft.com/content/1648f372-eb08-4c69-8511-eea08c4dcaf2"
-    },
-    {
-        "id": "https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e",
-        "source": "Financial Times World",
-        "title": "Trump warns of 100% tariff on countries implementing digital services tax",
+        "title": "SpaceX bonds sell off days after AI and rocket group’s $25bn debt deal",
         "publicationDate": "2026-06-26",
         "category": "Economy",
-        "summary": "US president says levy would supersede any trade deals Washington has with other capitals",
-        "url": "https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e"
+        "summary": "Yields move towards levels commonly associated with junk-rated companies",
+        "url": "https://www.ft.com/content/04f98e21-4ce7-43d2-8651-44557e12c31c"
+    },
+    {
+        "id": "https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580",
+        "source": "Financial Times World",
+        "title": "S&P 500 notches longest losing streak in 10 months as chipmakers slide",
+        "publicationDate": "2026-06-26",
+        "category": "Other",
+        "summary": "Software stock-led recovery proves fleeting as Wall Street’s main indices fall for fifth consecutive session",
+        "url": "https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580"
     },
     {
         "id": "IF13256",
@@ -468,15 +531,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3892-2.html"
     },
     {
-        "id": "https://www.cfr.org/backgrounders/what-does-g7-do",
-        "source": "Council on Foreign Relations",
-        "title": "What Does the G7 Do?",
-        "publicationDate": "2026-06-25",
-        "category": "Backgrounder",
-        "summary": "The Group of Seven (G7) has been a forum to coordinate global policy for fifty years, but experts are increasingly questioning the group’s relevance.",
-        "url": "https://www.cfr.org/backgrounders/what-does-g7-do"
-    },
-    {
         "id": "https://www.heritage.org/markets-and-finance/commentary/forced-labor-contracts-threaten-americas-workplace-freedom",
         "source": "Heritage Foundation",
         "title": "Forced Labor Contracts Threaten America’s Workplace Freedom",
@@ -493,33 +547,6 @@
         "category": "Economy",
         "summary": "Social science research finds that Head Start, a federally funded preschool program for children from low-income families, does not prepare children for K–12 schools, nor does it improve their social skills. Reports on spending and safety also show that Head Start centers waste money and fail to protect children. After more than six decades and more than $240 billion in federal spending, Head Start is a poor option...",
         "url": "https://www.heritage.org/education/report/washington-dc-the-states-rethinking-head-start"
-    },
-    {
-        "id": "https://www.hoover.org/news/alliance-civics-academy-newsletter-june-2026",
-        "source": "Hoover Institution",
-        "title": "Alliance for Civics in the Academy Newsletter | June 2026",
-        "publicationDate": "2026-06-25",
-        "category": "Other",
-        "summary": "Welcome to the fourth issue of the ACA newsletter! Each month, we focus on a central theme and feature related webinar discussions, resources, and ACA members’ work. We also spotlight past webinar discussions from our series.",
-        "url": "https://www.hoover.org/news/alliance-civics-academy-newsletter-june-2026"
-    },
-    {
-        "id": "https://www.hoover.org/news/alliance-civics-academy-newsletter-may-2026",
-        "source": "Hoover Institution",
-        "title": "Alliance for Civics in the Academy Newsletter | May 2026",
-        "publicationDate": "2026-06-25",
-        "category": "Other",
-        "summary": "Welcome to the third issue of the ACA newsletter! Each month, we’ll focus on a central theme and feature related webinar discussions, resources, and ACA members’ work connected to that theme. Our first few issues will spotlight past webinar discussions from our series.",
-        "url": "https://www.hoover.org/news/alliance-civics-academy-newsletter-may-2026"
-    },
-    {
-        "id": "https://www.npr.org/2026/06/25/nx-s1-5869461/trump-works-to-woo-farmers-in-aftermath-of-iran-war",
-        "source": "NPR Politics",
-        "title": "Trump works to woo farmers in aftermath of Iran war",
-        "publicationDate": "2026-06-25",
-        "category": "Foreign Policy",
-        "summary": "President Trump's proposal to have Iran use their unfrozen funds to buy American agriculture products says a lot about where he's worried about lost political support.",
-        "url": "https://www.npr.org/2026/06/25/nx-s1-5869461/trump-works-to-woo-farmers-in-aftermath-of-iran-war"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/06/25/inside-trumps-plans-retribution-other-lesser-known-allegations-regime-change/",
@@ -576,13 +603,31 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3738-1.html"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/06/24/white-house-asks-congress-88-billion-iran-war/",
-        "source": "Washington Post Politics",
-        "title": "White House seeks additional $88 billion from Congress for Iran war, other priorities",
+        "id": "https://ecfr.eu/article/beyond-brexit-and-back-to-europe/",
+        "source": "European Council on Foreign Relations",
+        "title": "Beyond Brexit—and back to Europe",
         "publicationDate": "2026-06-24",
-        "category": "Defense",
-        "summary": "The request mostly includes money for the Pentagon, with $67 billion going toward replenishing the military’s stocks of munitions and the cost of sending so many forces to the Middle East.",
-        "url": "https://www.washingtonpost.com/politics/2026/06/24/white-house-asks-congress-88-billion-iran-war/"
+        "category": "Britain in Europe",
+        "summary": "Those who follow only intergovernmental negotiations or debates in the media might think that nothing has changed in the decade since the United Kingdom's voters decided to leave the European Union. Yet new polling finds that large majorities on both sides of the English Channel now support re-engagement.",
+        "url": "https://ecfr.eu/article/beyond-brexit-and-back-to-europe/"
+    },
+    {
+        "id": "https://ecfr.eu/publication/brexit-isnt-working-british-voters-are-ready-for-a-european-future/",
+        "source": "European Council on Foreign Relations",
+        "title": "Brexit isn’t working: British voters are ready for a European future",
+        "publicationDate": "2026-06-20",
+        "category": "Britain in Europe",
+        "summary": "Ten years on from the referendum, the British electorate has moved on from its old divisions and—in a world of crisis—is embracing an ambitious move back towards the European Union",
+        "url": "https://ecfr.eu/publication/brexit-isnt-working-british-voters-are-ready-for-a-european-future/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/peace-in-the-middle-east/",
+        "source": "European Council on Foreign Relations",
+        "title": "Peace in the Middle East",
+        "publicationDate": "2026-06-18",
+        "category": "Foreign Policy",
+        "summary": "Julien Barnes-Dacey welcomes Prince Faisal bin Farhan Al Saud to discuss how the recently inked US-Iran deal could deliver a more stable regional order",
+        "url": "https://ecfr.eu/podcasts/episode/peace-in-the-middle-east/"
     },
     {
         "id": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement",
