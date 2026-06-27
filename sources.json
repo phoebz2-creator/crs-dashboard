@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.cfr.org/articles/president-harry-trumans-1950-decision-to-intervene-in-korea",
+        "source": "Council on Foreign Relations",
+        "title": "President Harry Truman’s 1950 Decision to Intervene in Korea",
+        "publicationDate": "2026-06-27",
+        "category": "Article",
+        "summary": "Truman’s decision not to seek congressional authorization for his decision to commit U.S. troops to defend South Korea set a precedent that continues to shape the war powers today.",
+        "url": "https://www.cfr.org/articles/president-harry-trumans-1950-decision-to-intervene-in-korea"
+    },
+    {
+        "id": "https://www.npr.org/2026/06/27/nx-s1-5871148/examining-trumps-interest-in-the-save-america-act",
+        "source": "NPR Politics",
+        "title": "Examining Trump's interest in the SAVE America Act",
+        "publicationDate": "2026-06-27",
+        "category": "Other",
+        "summary": "President Trump has an interest in a piece of voting legislation, called the SAVE America Act, that is not shared by all of his Republican colleagues on Capitol Hill.",
+        "url": "https://www.npr.org/2026/06/27/nx-s1-5871148/examining-trumps-interest-in-the-save-america-act"
+    },
+    {
+        "id": "https://www.npr.org/2026/06/27/nx-s1-5867378/week-in-politics-trump-and-bipartisan-housing-bill-john-bolton-democratic-socialists",
+        "source": "NPR Politics",
+        "title": "Week in Politics: Trump and bipartisan housing bill, John Bolton; Democratic socialists",
+        "publicationDate": "2026-06-27",
+        "category": "Other",
+        "summary": "President Trump canceled a signing for major housing legislation, former National Security Advisor John Bolton pled guilty to mishandling classified documents, and Democratic Socialists made gains.",
+        "url": "https://www.npr.org/2026/06/27/nx-s1-5867378/week-in-politics-trump-and-bipartisan-housing-bill-john-bolton-democratic-socialists"
+    },
+    {
         "id": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors",
         "source": "NPR Politics",
         "title": "What would George Washington say? It's a busy year for people who portray him",
@@ -9,22 +36,49 @@
         "url": "https://www.npr.org/2026/06/27/nx-s1-5816415/america-250-george-washington-reenactors"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5943575-trump-rips-former-national-security-adviser-after-guilty-plea-hopefully-he-will-be-dealt-with-harshly/",
+        "id": "https://thehill.com/regulation/court-battles/5943783-utah-judge-charlie-kirk-shooting-tyler-robinson-prosecutor-contempt/",
         "source": "The Hill",
-        "title": "Trump rips former national security adviser after guilty plea: \"Hopefully, he will be dealt with harshly!\"",
+        "title": "Utah judge finds prosecutor in Charlie Kirk assassination case in contempt",
         "publicationDate": "2026-06-27",
-        "category": "Administration",
-        "summary": "President Trump slammed his former national security adviser after he pleaded guilty on Friday to improperly retaining sensitive materials from his time in the White House. “John Bolton, a very dumb, unbalanced, and unskilled former representative of the United States of America, just pleads guilty!” Trump wrote in a Truth Social post on late Friday...",
-        "url": "https://thehill.com/homenews/administration/5943575-trump-rips-former-national-security-adviser-after-guilty-plea-hopefully-he-will-be-dealt-with-harshly/"
+        "category": "Court Battles",
+        "summary": "A Utah judge in the case against Charlie Kirk’s alleged killer held a top prosecutor in contempt on Friday over comments he made to the media about the case’s defendant, but the judge opted to keep the death penalty on the table. Judge Tony Graf said during a court hearing on Friday that Utah County...",
+        "url": "https://thehill.com/regulation/court-battles/5943783-utah-judge-charlie-kirk-shooting-tyler-robinson-prosecutor-contempt/"
     },
     {
-        "id": "https://thehill.com/policy/technology/5943549-anthropic-mythos-5-access/",
+        "id": "https://thehill.com/homenews/campaign/5943777-donald-trump-julia-letlow-louisiana-senate-runoff/",
         "source": "The Hill",
-        "title": "Federal government permits release of Anthropic’s Mythos model to select companies",
+        "title": "Trump makes final pitch for ‘Great Star’ Julia Letlow ahead of Louisiana Senate runoff",
         "publicationDate": "2026-06-27",
-        "category": "Technology",
-        "summary": "Anthropic can now share its most advanced AI model with over 100 companies after the U.S. government lifted its export ban on Claude Mythos 5 on Friday, a spokesperson for Anthropic confirmed in a statement to the Hill. The decision reflects a major change since the government imposed restrictions on Mythos 5 and its weaker counterpart, Fable...",
-        "url": "https://thehill.com/policy/technology/5943549-anthropic-mythos-5-access/"
+        "category": "Campaign",
+        "summary": "President Trump made a final appeal to Louisiana Republicans on Friday to support Rep. Julia Letlow (R-La.) in Saturday’s Senate runoff election, calling the lawmaker a “Great Star” and a “TOTAL WINNER” in one of this year’s most closely watched GOP primaries. Letlow faces off against state Treasurer John Fleming (R) in a two-way race...",
+        "url": "https://thehill.com/homenews/campaign/5943777-donald-trump-julia-letlow-louisiana-senate-runoff/"
+    },
+    {
+        "id": "https://thehill.com/business/5934294-how-to-claim-part-of-2-25-million-bank-of-america-atm-fees-settlement/",
+        "source": "The Hill",
+        "title": "How to claim part of $2.25 million Bank of America ATM fees settlement",
+        "publicationDate": "2026-06-27",
+        "category": "Business",
+        "summary": "The deadline to apply is fast-approaching.",
+        "url": "https://thehill.com/business/5934294-how-to-claim-part-of-2-25-million-bank-of-america-atm-fees-settlement/"
+    },
+    {
+        "id": "https://thehill.com/opinion/campaign/5943132-rage-republic-democratic-downfall/",
+        "source": "The Hill",
+        "title": "'You're next!' Democrats discover the mob has a mind of its own.",
+        "publicationDate": "2026-06-27",
+        "category": "Opinions - Campaign",
+        "summary": "By the time the establishment figures realized their armchair-revolutionary rhetoric would not convince the mob, it was too late.",
+        "url": "https://thehill.com/opinion/campaign/5943132-rage-republic-democratic-downfall/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5943740-bill-maher-jd-vance-donald-trump-election-fraud-claims/",
+        "source": "The Hill",
+        "title": "Maher challenges Vance on Trump election fraud claims: ‘That s--- has to stop’",
+        "publicationDate": "2026-06-27",
+        "category": "Administration",
+        "summary": "Comedian Bill Maher on Friday challenged Vice President Vance over President Trump’s false claims of election fraud, saying the GOP must stop insisting they were “cheated” by losses and return to a place where candidates concede defeat. “Under Trump, you guys have two outcomes an election can be: Either we win, or they cheated. That...",
+        "url": "https://thehill.com/homenews/administration/5943740-bill-maher-jd-vance-donald-trump-election-fraud-claims/"
     },
     {
         "id": "https://www.nytimes.com/2026/06/27/us/politics/watergate-vance-trump-nixon.html",
@@ -72,13 +126,22 @@
         "url": "https://www.nytimes.com/2026/06/27/business/media/cnn-bari-weiss-david-ellison.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "US strikes Iran after attack on cargo ship",
+        "id": "https://www.washingtonpost.com/politics/2026/06/27/trump-reveals-new-image-passports-mark-america-250th/",
+        "source": "Washington Post Politics",
+        "title": "Trump reveals new images of passport with his portrait to mark America’s 250th",
         "publicationDate": "2026-06-27",
-        "category": "Foreign Policy",
-        "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "The State Department said the new document “boldly honors” the president and the nation’s founding. The rendering differed from previous images of the passport in several ways.",
+        "url": "https://www.washingtonpost.com/politics/2026/06/27/trump-reveals-new-image-passports-mark-america-250th/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/06/27/pro-israel-influencers-criticize-vance-evangelicals-remain-open-him/",
+        "source": "Washington Post Politics",
+        "title": "Pro-Israel influencers criticize Vance, but evangelicals remain open to him",
+        "publicationDate": "2026-06-27",
+        "category": "Other",
+        "summary": "Despite attacks from some conservatives, a heavily pro-Israel crowd still has warm words for Vance, with many saying they could pick him as the party’s nominee.",
+        "url": "https://www.washingtonpost.com/politics/2026/06/27/pro-israel-influencers-criticize-vance-evangelicals-remain-open-him/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
@@ -90,6 +153,24 @@
         "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "publicationDate": "2026-06-27",
+        "category": "Other",
+        "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US strikes Iran after attack on cargo ship",
+        "publicationDate": "2026-06-27",
+        "category": "Foreign Policy",
+        "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
         "source": "Financial Times World",
         "title": "US launches strikes on Iran after Tehran attacks container ship",
@@ -99,40 +180,40 @@
         "url": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae"
     },
     {
+        "id": "https://www.ft.com/content/1b397558-117e-463b-914d-9a62e4484605",
+        "source": "Financial Times World",
+        "title": "US insurance rulemaker suspends investment risk designations after cyber attack",
+        "publicationDate": "2026-06-27",
+        "category": "Healthcare",
+        "summary": "Ratings help determine how much capital insurers must have to meet obligations to policyholders",
+        "url": "https://www.ft.com/content/1b397558-117e-463b-914d-9a62e4484605"
+    },
+    {
+        "id": "https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7",
+        "source": "Financial Times World",
+        "title": "New York’s socialist insurgency raises alarm among anxious Democrats",
+        "publicationDate": "2026-06-27",
+        "category": "Other",
+        "summary": "Sweeping victories by progressives expose divisions over how party takes on Trump in November’s elections",
+        "url": "https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7"
+    },
+    {
+        "id": "https://www.ft.com/content/b68964c9-f3d0-48e8-8873-8f463834936c",
+        "source": "Financial Times World",
+        "title": "German carmakers embark on historic job cuts as Chinese rivals flood market",
+        "publicationDate": "2026-06-27",
+        "category": "Economy",
+        "summary": "Threat to industrial model of Europe’s largest economy mounts",
+        "url": "https://www.ft.com/content/b68964c9-f3d0-48e8-8873-8f463834936c"
+    },
+    {
         "id": "https://www.ft.com/content/190beede-1d8b-4a22-8437-ef8c48d01828",
         "source": "Financial Times World",
-        "title": "Owner of car searched by police after Beijing tower plane crash identified",
+        "title": "Tower crash calls Beijing’s air security into question",
         "publicationDate": "2026-06-27",
         "category": "Other",
-        "summary": "Vehicle was at airfield from where aircraft that hit Citic Tower took off",
+        "summary": "FT research identifies owner of vehicle under investigation at flight school linked to impact",
         "url": "https://www.ft.com/content/190beede-1d8b-4a22-8437-ef8c48d01828"
-    },
-    {
-        "id": "https://www.ft.com/content/7ec350b9-ba64-4dc5-bc0c-7719cae58dcd",
-        "source": "Financial Times World",
-        "title": "UK government split over new ‘golden visa’ scheme to woo super-rich",
-        "publicationDate": "2026-06-27",
-        "category": "Other",
-        "summary": "Anti-corruption campaigners sound the alarm after previous programme was scrapped owing to dirty money",
-        "url": "https://www.ft.com/content/7ec350b9-ba64-4dc5-bc0c-7719cae58dcd"
-    },
-    {
-        "id": "https://www.ft.com/content/427fe950-f992-44f0-9831-ff57ff4c344f",
-        "source": "Financial Times World",
-        "title": "Turkey launches security crackdown ahead of Nato summit",
-        "publicationDate": "2026-06-27",
-        "category": "Other",
-        "summary": "Activists have been arrested, journalist accreditations denied and public assemblies banned before July meeting",
-        "url": "https://www.ft.com/content/427fe950-f992-44f0-9831-ff57ff4c344f"
-    },
-    {
-        "id": "https://www.ft.com/content/573aa813-43c1-4c2c-aa1d-72f05af960ab",
-        "source": "Financial Times World",
-        "title": "Baltic states urge EU to speed up ban on Russian oil imports",
-        "publicationDate": "2026-06-27",
-        "category": "Foreign Policy",
-        "summary": "Talks about the phaseout stalled after the closure of the Strait of Hormuz sparked concerns of an energy supply crisis",
-        "url": "https://www.ft.com/content/573aa813-43c1-4c2c-aa1d-72f05af960ab"
     },
     {
         "id": "R47884",
@@ -178,15 +259,6 @@
         "category": "Article",
         "summary": "In just four words, JFK bonded with the people of West Berlin and gave rise to an urban legend.",
         "url": "https://www.cfr.org/articles/john-f-kennedys-ich-bin-ein-berliner-speech"
-    },
-    {
-        "id": "https://www.cfr.org/articles/the-iran-deal-comes-at-a-cost-to-israel-the-white-house-hasnt-acknowledged-it",
-        "source": "Council on Foreign Relations",
-        "title": "The Iran Deal Comes at a Cost to Israel. The White House Hasn’t Acknowledged It.",
-        "publicationDate": "2026-06-26",
-        "category": "Foreign Policy",
-        "summary": "The U.S.-Iran deal sidelines Israel, a critical ally, on issues affecting its core security interests. That may be tactically defensible, but the way Washington has handled it is not.",
-        "url": "https://www.cfr.org/articles/the-iran-deal-comes-at-a-cost-to-israel-the-white-house-hasnt-acknowledged-it"
     },
     {
         "id": "https://www.heritage.org/marriage-and-family/commentary/have-rising-living-standards-pushed-marriage-out-reach",
@@ -324,24 +396,6 @@
         "url": "https://www.npr.org/2026/06/26/nx-s1-5860746/aca-health-insurance-subsidies-rates-premiums"
     },
     {
-        "id": "https://www.npr.org/2026/06/26/nx-s1-5871305/trumps-demands-for-loyalty-are-causing-friction",
-        "source": "NPR Politics",
-        "title": "Trump's demands for loyalty are causing friction",
-        "publicationDate": "2026-06-26",
-        "category": "Other",
-        "summary": "President Trump has demanded loyalty from his supporters and allies, causing friction within the Republican party and abroad.",
-        "url": "https://www.npr.org/2026/06/26/nx-s1-5871305/trumps-demands-for-loyalty-are-causing-friction"
-    },
-    {
-        "id": "https://www.npr.org/2026/06/26/nx-s1-5871318/state-department-spokesman-on-venezuela-response-iran-negotiations",
-        "source": "NPR Politics",
-        "title": "State Department spokesman on Venezuela response, Iran negotiations",
-        "publicationDate": "2026-06-26",
-        "category": "Foreign Policy",
-        "summary": "A conversation with Thomas \"Tommy\" Pigott, spokesperson for the U.S. State Department.",
-        "url": "https://www.npr.org/2026/06/26/nx-s1-5871318/state-department-spokesman-on-venezuela-response-iran-negotiations"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/dnc-plans-weekend-of-local-events-to-focus-on-affordability-concerns-under-trump",
         "source": "PBS NewsHour Politics",
         "title": "DNC plans weekend of local events to focus on affordability concerns under Trump",
@@ -387,33 +441,6 @@
         "url": "https://www.pbs.org/newshour/politics/newsom-urges-a-national-billionaires-tax-while-fighting-one-in-california"
     },
     {
-        "id": "https://thehill.com/media/5943483-megyn-kelly-haitian-syrian-protections/",
-        "source": "The Hill",
-        "title": "Megyn Kelly after Supreme Court TPS decision: 'Go back to f---ing Haiti'",
-        "publicationDate": "2026-06-26",
-        "category": "Media",
-        "summary": "Former Fox News host Megyn Kelly had a blunt message to the thousands of Haitians and Syrians protected from deportation under a form of humanitarian relief after the Supreme Court ruled on Thursday the Trump administration could end these protections. “We don’t want you. We don’t care if you’re offended,” Kelly said during a taping...",
-        "url": "https://thehill.com/media/5943483-megyn-kelly-haitian-syrian-protections/"
-    },
-    {
-        "id": "https://thehill.com/homenews/5943472-stars-stripes-ombudsman-lawsuit/",
-        "source": "The Hill",
-        "title": "Former Stars and Stripes ombudsman sues Pentagon over firing",
-        "publicationDate": "2026-06-26",
-        "category": "Defense",
-        "summary": "Jacqueline Smith, the ombudsman of outlet Stars and Stripes who was ousted in April after she criticized the Pentagon’s new restrictions on the newspaper, is suing the Defense Department. In a complaint filed Thursday in federal court in Washington, D.C., Smith alleges that her firing was retaliatory and violated her First Amendment rights as it happened 10 days after...",
-        "url": "https://thehill.com/homenews/5943472-stars-stripes-ombudsman-lawsuit/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/healthcare/5943464-planned-parenthood-launches-new-midterm-investment/",
-        "source": "The Hill",
-        "title": "Planned Parenthood launches new midterm investment",
-        "publicationDate": "2026-06-26",
-        "category": "Healthcare",
-        "summary": "Presented by HealthyWomen {beacon}",
-        "url": "https://thehill.com/newsletters/healthcare/5943464-planned-parenthood-launches-new-midterm-investment/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/06/26/trump-tries-out-midterms-message-that-focuses-communists/",
         "source": "Washington Post Politics",
         "title": "Trump tries out midterms message that focuses on ‘communists’",
@@ -421,15 +448,6 @@
         "category": "Other",
         "summary": "Trump warned an audience of religious conservatives that communism is spreading in the U.S., a new theme for his midterm campaign.",
         "url": "https://www.washingtonpost.com/politics/2026/06/26/trump-tries-out-midterms-message-that-focuses-communists/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Mother dies saving daughter in Venezuela earthquakes",
-        "publicationDate": "2026-06-26",
-        "category": "Other",
-        "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-        "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
@@ -529,24 +547,6 @@
         "category": "Foreign Policy",
         "summary": "Secretary of State Marco Rubio met with Arab Gulf leaders to reassure them that U.S. isn’t cutting them out of negotiations with Tehran.",
         "url": "https://www.washingtonpost.com/national-security/2026/06/25/rubios-new-job-selling-trumps-iran-deal-worried-gulf/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/06/25/migrants-not-entitled-apply-asylum-while-standing-mexico-side-border-supreme-court-rules/",
-        "source": "Washington Post Politics",
-        "title": "Migrants not entitled to apply for asylum while standing on Mexico side of border, Supreme Court rules",
-        "publicationDate": "2026-06-25",
-        "category": "Other",
-        "summary": "The 6-3 decision clears the way for the Trump administration to resume allowing federal agents at the border to turn back asylum seekers before they enter.",
-        "url": "https://www.washingtonpost.com/politics/2026/06/25/migrants-not-entitled-apply-asylum-while-standing-mexico-side-border-supreme-court-rules/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/06/25/democratic-socialists-new-york-expanded-their-voting-base-claim-victory/",
-        "source": "Washington Post Politics",
-        "title": "Democratic socialists cemented power in New York. Next, the rest of the country?",
-        "publicationDate": "2026-06-25",
-        "category": "Other",
-        "summary": "The Democratic Socialists of America won with support outside their usual base. Winning outside New York may be a different challenge.",
-        "url": "https://www.washingtonpost.com/politics/2026/06/25/democratic-socialists-new-york-expanded-their-voting-base-claim-victory/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4698-1.html",
