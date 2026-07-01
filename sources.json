@@ -1,12 +1,21 @@
 [
     {
-        "id": "R44548",
+        "id": "IF13006",
         "source": "Congressional Research Service",
-        "title": "The Fair Labor Standards Act (FLSA) Child Labor Provisions",
+        "title": "Section 232 of the Trade Expansion Act of 1962",
         "publicationDate": "2026-07-01",
-        "category": "Other",
-        "summary": "The Fair Labor Standards Act (FLSA) of 1938 prohibits the employment of “oppressive child labor” in the United States, which the act defines—with some exceptions—as the employment of youth under the age of 16 in any occupation or the employment of youth under 18 years old in hazardous occupations. The act includes several exemptions, however, that create a complex set of thresholds that depend on the child’s age,...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44548/R44548.5.pdf"
+        "category": "Defense",
+        "summary": "Section 232 of the Trade Expansion Act of 1962, as amended (19 U.S.C. §1862), allows the President to impose restrictions on goods imports or enter into negotiations with trading partners if the U.S. Secretary of Commerce determines, following an investigation, that the quantity or other circumstance of those imports “threaten[s] to impair” U.S. national security. Sec. 232 is one of several statutes under which...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13006/IF13006.7.pdf"
+    },
+    {
+        "id": "IF13262",
+        "source": "Congressional Research Service",
+        "title": "National Park Service: FY2027 Appropriations",
+        "publicationDate": "2026-07-01",
+        "category": "Economy",
+        "summary": "The National Park Service (NPS) administers the National Park System, which includes 433 units valued for their natural, cultural, and recreational importance. System lands cover 81 million federal acres and 4 million nonfederal acres. As part of the Department of the Interior (DOI), NPS receives funding in annual appropriations laws for Interior, Environment, and Related Agencies. Selected issues for Congress...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13262/IF13262.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5082-1.html",
@@ -27,6 +36,15 @@
         "url": "https://www.cfr.org/articles/global-inflation-tracker"
     },
     {
+        "id": "https://www.cfr.org/articles/global-monetary-policy-tracker",
+        "source": "Council on Foreign Relations",
+        "title": "Global Monetary Policy Tracker",
+        "publicationDate": "2026-07-01",
+        "category": "Article",
+        "summary": "CFR’s Global Monetary Policy Tracker compiles data from 54 countries around the world to highlight significant global trends in monetary policy. Who is tightening policy? Who is loosening policy? And what is the policy stance of the world as a whole?",
+        "url": "https://www.cfr.org/articles/global-monetary-policy-tracker"
+    },
+    {
         "id": "https://www.cfr.org/podcasts/presidents-inbox/lessons-from-250-years-of-us-foreign-policy",
         "source": "Council on Foreign Relations",
         "title": "Lessons From 250 Years of U.S. Foreign Policy, With Robert Kagan",
@@ -43,6 +61,33 @@
         "category": "Podcast",
         "summary": "On this episode of The Spillover, host Sebastian Mallaby sits down with Martin Wolf, chief economics commentator at the Financial Times, to unpack the American republic at its 250th birthday, the grandest experiment in fusing free markets with a free people—a fusion that is now under serious strain. Below are some takeaways from the conversation. […]",
         "url": "https://www.cfr.org/podcasts/spillover/americas-250th-birthday-reveals-a-fragile-bargain-between-democracy-and-markets"
+    },
+    {
+        "id": "https://www.heritage.org/global-politics/report/leadership-change-the-solomon-islands-implications-and-recommendations-the",
+        "source": "Heritage Foundation",
+        "title": "Leadership Change in the Solomon Islands: Implications and Recommendations for the United States",
+        "publicationDate": "2026-07-01",
+        "category": "Defense",
+        "summary": "In May 2026, then-Solomon Islands Prime Minister Jeremiah Manele was removed from office by a vote of no confidence following internal political divisions and resignations. Ronald Toito’ona, “Solomon Islands to Elect New Prime Minister, Following Ousting of Manele in No-Confidence Vote,” In-depth Solomons, May 7, 2026,...",
+        "url": "https://www.heritage.org/global-politics/report/leadership-change-the-solomon-islands-implications-and-recommendations-the"
+    },
+    {
+        "id": "https://www.heritage.org/american-history/commentary/jeffersons-mind-spaldings-commentary",
+        "source": "Heritage Foundation",
+        "title": "Jefferson’s Mind, Spalding’s Commentary",
+        "publicationDate": "2026-07-01",
+        "category": "Economy",
+        "summary": "Matthew Spalding, the Kirby Professor in Constitutional Government and Dean of the Van Andel Graduate School of Government at Hillsdale College, welcomes the Semiquincentennial bearing not a narrative history of 1776 so much as an extended meditation on a single paragraph-by-paragraph performance: a reading-in-real-time of the document that, in his telling, gave America its mind before it gave it a country. “ The...",
+        "url": "https://www.heritage.org/american-history/commentary/jeffersons-mind-spaldings-commentary"
+    },
+    {
+        "id": "https://www.hudson.org/missile-defense/ukraine-military-situation-report-july-1-can-kasapoglu",
+        "source": "Hudson Institute",
+        "title": "Ukraine Military Situation Report | July 1",
+        "publicationDate": "2026-07-01",
+        "category": "Defense",
+        "summary": "Ukraine Military Situation Report | July 1 acabral-sanche… Wed, 07/01/2026 - 11:54 SVG Commentary Jul 1, 2026 Hudson Institute Ukraine Military Situation Report | July 1 Can Kasapoğlu Senior Fellow (Nonresident) Can Kasapoğlu Commentary Caption This photograph shows an FP-5 Flamingo cruise missile on display in Villepinte on the outskirts of Paris, on June 16, 2026. (Getty Images) Toggle Table of Contents Contents...",
+        "url": "https://www.hudson.org/missile-defense/ukraine-military-situation-report-july-1-can-kasapoglu"
     },
     {
         "id": "https://www.hudson.org/foreign-policy/irans-nuclear-program-must-remain-focus-mary-kissel",
@@ -72,49 +117,67 @@
         "url": "https://www.hudson.org/foreign-policy/why-wont-cuba-make-deal-daniel-batlle"
     },
     {
-        "id": "https://www.hoover.org/research/indra-nooyi-leadership-and-innovation-pepsico",
+        "id": "https://www.hoover.org/research/founding-father-who-sought-last-minute-deal-avert-revolution",
         "source": "Hoover Institution",
-        "title": "Indra Nooyi On Leadership And Innovation At PepsiCo",
+        "title": "The Founding Father Who Sought A Last-Minute Deal To Avert The Revolution",
         "publicationDate": "2026-07-01",
         "category": "Other",
-        "summary": "Condoleezza Rice speaks with Indra Nooyi about her journey from immigrating to the United States to leading PepsiCo, revealing how Nooyi made her mark on an iconic American business.",
-        "url": "https://www.hoover.org/research/indra-nooyi-leadership-and-innovation-pepsico"
+        "summary": "Hoover Institution fellow Jonathan Gienapp said, “It’s hard to overstate the significance of this... This is a very serious attempt by arguably the leading politician in America at the time to broker a peace and prevent the American Revolution from happening that we’ve never known about before.”",
+        "url": "https://www.hoover.org/research/founding-father-who-sought-last-minute-deal-avert-revolution"
     },
     {
-        "id": "https://ecfr.eu/podcasts/episode/is-europes-support-for-ukraine-changing-as-the-war-goes-on/",
-        "source": "European Council on Foreign Relations",
-        "title": "Is Europe’s support for Ukraine changing as the war goes on?",
+        "id": "https://www.hoover.org/research/china-played-long-game-0",
+        "source": "Hoover Institution",
+        "title": "China Played The Long Game",
         "publicationDate": "2026-07-01",
-        "category": "Defense",
-        "summary": "As Russia’s war against Ukraine continues, European governments are facing difficult questions about military support, diplomacy and the long-term security of the continent. How should Europe balance continued assistance to Ukraine with preparations for future negotiations? In the final episode of Making Defence European Again, Celia Bélin, policy fellow and head of ECFR’s Paris office, […]",
-        "url": "https://ecfr.eu/podcasts/episode/is-europes-support-for-ukraine-changing-as-the-war-goes-on/"
+        "category": "Economy",
+        "summary": "Hoover Institution fellow Elizabeth Economy said Beijing started pursuing renewable energy aggressively as early as the late 1980s and early 1990s, steadily incorporating clean energy into successive national development plans. “This is a real economic play,” she said.",
+        "url": "https://www.hoover.org/research/china-played-long-game-0"
     },
     {
-        "id": "https://ecfr.eu/podcasts/episode/why-europeans-are-readier-than-you-think-to-defend-themselves/",
-        "source": "European Council on Foreign Relations",
-        "title": "Why Europeans are readier than you think to defend themselves",
+        "id": "https://www.hoover.org/research/miles-yu-warns-academic-exchanges-china-pose-national-security-risk",
+        "source": "Hoover Institution",
+        "title": "Miles Yu Warns Academic Exchanges With China Pose A National Security Risk",
         "publicationDate": "2026-07-01",
-        "category": "European Security",
-        "summary": "Public support for stronger European defence is at its highest level in years. But can European leaders translate this momentum into lasting policy change? In the third episode of Making Defence European Again series, Celia Bélin, policy fellow and head of ECFR’s Paris office, Jana Kobzová, senior policy fellow and co-director of ECFR’s European Security […]",
-        "url": "https://ecfr.eu/podcasts/episode/why-europeans-are-readier-than-you-think-to-defend-themselves/"
+        "category": "Foreign Policy",
+        "summary": "Hoover Institution fellow Miles Yu argues that academic engagement between the US and China is no longer a reciprocal exchange of ideas, warning that the CCP treats universities as instruments of state power.",
+        "url": "https://www.hoover.org/research/miles-yu-warns-academic-exchanges-china-pose-national-security-risk"
     },
     {
-        "id": "https://ecfr.eu/podcasts/episode/the-crucial-role-of-article-5-can-nato-hold-without-us-leadership/",
-        "source": "European Council on Foreign Relations",
-        "title": "The crucial role of Article 5: Can NATO hold without US leadership?",
+        "id": "https://www.hoover.org/research/unlearning-recession-myths",
+        "source": "Hoover Institution",
+        "title": "Unlearning Recession Myths",
         "publicationDate": "2026-07-01",
-        "category": "European Security",
-        "summary": "Europe’s security architecture is undergoing profound change. As the US reassesses its global priorities and questions grow over the future of transatlantic security, European governments face mounting pressure to strengthen their defence capabilities and rethink longstanding assumptions about NATO. In the second episode of Making Defence European Again, Celia Bélin, policy fellow and head of […]",
-        "url": "https://ecfr.eu/podcasts/episode/the-crucial-role-of-article-5-can-nato-hold-without-us-leadership/"
+        "category": "Other",
+        "summary": "Hoover Institution fellow Ryan Goodspeed's book, Recession: The Real Reasons Economies Shrink and What to Do About It, sets out to demolish a number of recession myths, namely that they necessarily follow unsustainable booms and are otherwise cyclical.",
+        "url": "https://www.hoover.org/research/unlearning-recession-myths"
     },
     {
-        "id": "https://ecfr.eu/podcasts/episode/how-a-le-pen-or-bardella-presidency-could-divide-europe-further/",
-        "source": "European Council on Foreign Relations",
-        "title": "How a Le Pen or Bardella presidency could divide Europe further",
+        "id": "https://www.hoover.org/research/national-treasure-how-declaration-independence-made-america-2",
+        "source": "Hoover Institution",
+        "title": "National Treasure: How The Declaration Of Independence Made America",
         "publicationDate": "2026-07-01",
-        "category": "European Security",
-        "summary": "France is in a pivotal political moment. The prospect of the country electing a far-right president in 2027 raises profound questions for the future of Europe. What would a government led by Jordan Bardella or Marine Le Pen mean for European security, NATO and the EU’s ability to act collectively on the global stage? In […]",
-        "url": "https://ecfr.eu/podcasts/episode/how-a-le-pen-or-bardella-presidency-could-divide-europe-further/"
+        "category": "Other",
+        "summary": "Hoover Institution fellow Michael Auslin will be discussing his book, National Treasure: How the Declaration of Independence Made America in New York at the outdoor Reading Room in Bryant Park, on Wednesday July 1 from 7-8PM.",
+        "url": "https://www.hoover.org/research/national-treasure-how-declaration-independence-made-america-2"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/01/nx-s1-5872747/democratic-socialists-are-on-a-winning-streak-heres-what-that-means-for-democrats",
+        "source": "NPR Politics",
+        "title": "Democratic socialists are on a winning streak. Here's what that means for Democrats",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "Last week, a pair of democratic socialists won competitive primary matchups in New York. Another in Philadelphia back in May, and on Tuesday in Denver, it happened again.",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5872747/democratic-socialists-are-on-a-winning-streak-heres-what-that-means-for-democrats"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/01/nx-s1-5877483/trumps-crypto-earnings-far-outpace-the-businesses-he-spent-decades-building",
+        "source": "NPR Politics",
+        "title": "Trump's crypto earnings far outpace the businesses he spent decades building",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "NPR's Scott Detrow talks with Bernard Condon of the AP about how President Trump and his family raked in more than a billion dollars last year through crypto ventures.",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5877483/trumps-crypto-earnings-far-outpace-the-businesses-he-spent-decades-building"
     },
     {
         "id": "https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride",
@@ -135,15 +198,6 @@
         "url": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court"
     },
     {
-        "id": "https://www.npr.org/2026/07/01/nx-s1-5869563/american-pride-poll",
-        "source": "NPR Politics",
-        "title": "The majority of Americans are proud but worry about direction of the country",
-        "publicationDate": "2026-07-01",
-        "category": "Other",
-        "summary": "As the U.S. approaches its 250th birthday, Americans reflect on the state of the nation in the latest NPR/PBS News/Marist poll.",
-        "url": "https://www.npr.org/2026/07/01/nx-s1-5869563/american-pride-poll"
-    },
-    {
         "id": "https://www.npr.org/2026/07/01/nx-s1-5867587/america-250th-past-anniversaries",
         "source": "NPR Politics",
         "title": "How America has celebrated milestone birthdays, from world fairs to the World Cup",
@@ -153,148 +207,139 @@
         "url": "https://www.npr.org/2026/07/01/nx-s1-5867587/america-250th-past-anniversaries"
     },
     {
-        "id": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries",
-        "source": "NPR Politics",
-        "title": "In Colorado primaries, a democratic socialist wins; Bennet's governor bid ends",
+        "id": "https://www.pbs.org/newshour/show/trumps-2b-income-in-2025-raises-fresh-questions-about-profiting-off-presidency",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump's $2B income in 2025 raises fresh questions about profiting off presidency",
         "publicationDate": "2026-07-01",
         "category": "Other",
-        "summary": "Democrats nominated their candidate to try to unseat a Republican House member and tapped the state's attorney general as a frontrunner for governor.",
-        "url": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries"
+        "summary": "President Trump's latest financial disclosure shows his various businesses generated more than $2 billion in income in 2025, his first year back in the White House. That is more than triple his reported income from the year before. The biggest gains came from the Trump family's cryptocurrency ventures. Geoff Bennett discussed more with Eric Lipton of The New York Times.",
+        "url": "https://www.pbs.org/newshour/show/trumps-2b-income-in-2025-raises-fresh-questions-about-profiting-off-presidency"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/e-jean-carroll-calls-for-trump-to-pay-her-5-8m-after-supreme-court-rejects-his-appeal",
+        "id": "https://www.pbs.org/newshour/show/progressives-notch-more-primary-victories-in-potential-bellwether-for-midterms",
         "source": "PBS NewsHour Politics",
-        "title": "E. Jean Carroll calls for Trump to pay her $5.8M after Supreme Court rejects his appeal",
+        "title": "Progressives notch more primary victories in potential bellwether for midterms",
         "publicationDate": "2026-07-01",
-        "category": "defamation",
-        "summary": "Advice columnist E. Jean Carroll asked a judge Tuesday to require President Donald Trump to pay her $5 million from a jury verdict that concluded Trump sexually abused her in the 1990s and defamed her after she publicly described the attack in 2019.",
-        "url": "https://www.pbs.org/newshour/politics/e-jean-carroll-calls-for-trump-to-pay-her-5-8m-after-supreme-court-rejects-his-appeal"
+        "category": "Other",
+        "summary": "Progressive challengers scored upsets against Democratic establishment names up and down the ballot in Colorado. It's part of a mounting trend in some races across the country. To discuss where the Democratic Party stands ahead of the midterms, Lisa Desjardins spoke with Mo Elleithee, a former DNC communications director who now leads the Georgetown Institute of Politics and Public Service.",
+        "url": "https://www.pbs.org/newshour/show/progressives-notch-more-primary-victories-in-potential-bellwether-for-midterms"
     },
     {
-        "id": "https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation",
+        "id": "https://www.pbs.org/newshour/politics/judge-orders-pentagon-to-lift-policy-requiring-journalists-to-be-accompanied-by-an-escort",
         "source": "PBS NewsHour Politics",
-        "title": "Federal Reserve Chair Warsh emphasizes political independence, signals focus on inflation",
+        "title": "Judge orders Pentagon to lift policy requiring journalists to be accompanied by an escort",
         "publicationDate": "2026-07-01",
-        "category": "Economy",
-        "summary": "In remarks at a central bank conference in Sintra, Portugal, Warsh said that if businesses or households thought the Fed would accept inflation above 2%, \"I guess they'd be disappointed. We're going to deliver price stability.\"",
-        "url": "https://www.pbs.org/newshour/economy/federal-reserve-chair-warsh-emphasizes-political-independence-signals-focus-on-inflation"
+        "category": "journalists",
+        "summary": "It was not immediately clear whether the order applied only to reporters from The New York Times, which filed the lawsuit, or to the entire press corps.",
+        "url": "https://www.pbs.org/newshour/politics/judge-orders-pentagon-to-lift-policy-requiring-journalists-to-be-accompanied-by-an-escort"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-attends-theodore-roosevelt-presidential-library-dedication-ceremony",
+        "id": "https://www.pbs.org/newshour/politics/vance-and-rubio-take-different-approaches-as-iran-tests-their-2028-prospects",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Trump attends Theodore Roosevelt Presidential Library dedication ceremony",
-        "publicationDate": "2026-07-01",
-        "category": "America 250",
-        "summary": "President Donald Trump will visit North Dakota on Wednesday to see the Theodore Roosevelt Presidential Library, a massive facility exploring the 26th president's life, built in the rugged, lonely landscape where the young easterner built his conservation values while ranching and hunting in the 1880s.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-attends-theodore-roosevelt-presidential-library-dedication-ceremony"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/how-the-supreme-court-became-a-pivotal-force-in-trumps-immigration-agenda",
-        "source": "PBS NewsHour Politics",
-        "title": "How the Supreme Court became a pivotal force in Trump's immigration agenda",
-        "publicationDate": "2026-07-01",
-        "category": "asylum seekers",
-        "summary": "President Donald Trump's administration looked to the Supreme Court to greenlight its sweeping hard-line immigration agenda and, by and large, it got the backing it was looking for with one key exception.",
-        "url": "https://www.pbs.org/newshour/politics/how-the-supreme-court-became-a-pivotal-force-in-trumps-immigration-agenda"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/democratic-socialist-melat-kiros-defeats-longtime-house-incumbent-in-colorado-primary",
-        "source": "PBS NewsHour Politics",
-        "title": "Democratic socialist Melat Kiros defeats longtime House incumbent in Colorado primary",
-        "publicationDate": "2026-07-01",
-        "category": "colorado",
-        "summary": "Kiros, a 29-year-old lawyer turned doctoral student, is the latest candidate to rise from the party's left flank and boot establishment-backed candidates.",
-        "url": "https://www.pbs.org/newshour/politics/democratic-socialist-melat-kiros-defeats-longtime-house-incumbent-in-colorado-primary"
-    },
-    {
-        "id": "https://thehill.com/business/5949910-trump-democrats-crypto-corruption/",
-        "source": "The Hill",
-        "title": "Democrats rail against corruption after Trump financial disclosure",
-        "publicationDate": "2026-07-01",
-        "category": "Business",
-        "summary": "Democrats are accusing President Trump of improperly profiting from his and his family’s cryptocurrency ventures after he reported more than $1 billion in income tied to the industry. In his annual financial disclosure released Tuesday, Trump revealed about $594 million in income from World Liberty Financial, the crypto business he launched with his sons in...",
-        "url": "https://thehill.com/business/5949910-trump-democrats-crypto-corruption/"
-    },
-    {
-        "id": "https://thehill.com/opinion/robbys-radar/5950065-democratic-socialism-wealthy-leftists/",
-        "source": "The Hill",
-        "title": "The working class does not like democratic socialists, Graham Platner",
-        "publicationDate": "2026-07-01",
-        "category": "Opinions - Robby's Radar",
-        "summary": "The left keeps claiming that its candidates purport to speak for working-class people and advance working-class interests, only to discover that supporters of democratic socialism are disproportionately affluent and elite-educated.",
-        "url": "https://thehill.com/opinion/robbys-radar/5950065-democratic-socialism-wealthy-leftists/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/5950004-us-navy-helicopter-emergency-landing/",
-        "source": "The Hill",
-        "title": "Navy helicopter makes emergency landing in Arabian Sea, one crew missing",
-        "publicationDate": "2026-07-01",
-        "category": "Defense",
-        "summary": "A Navy helicopter assigned to a U.S. aircraft carrier made an “emergency water landing” in the Arabian Sea on Wednesday morning and one of the four aircrewmen is missing, according to the U.S. military. An MH-60S Seahawk, a twin engine helicopter that can be utilized for search and rescue, special operations, combat support and other...",
-        "url": "https://thehill.com/policy/defense/5950004-us-navy-helicopter-emergency-landing/"
-    },
-    {
-        "id": "https://thehill.com/opinion/lindseys-lens/5950001-house-republicans-defense-bill/",
-        "source": "The Hill",
-        "title": "GOP infighting over SAVE America Act leaves critical legislation in limbo",
-        "publicationDate": "2026-07-01",
-        "category": "Opinions - Lindsey's Lens",
-        "summary": "For the second week in a row, House Republicans have ground their own agenda to a halt over President Trump's SAVE America Act.",
-        "url": "https://thehill.com/opinion/lindseys-lens/5950001-house-republicans-defense-bill/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/5949463-texas-maine-iowa-ohio-alaska-senate-races/",
-        "source": "The Hill",
-        "title": "GOP holds edge in Senate swing-state races: New York Times polls",
-        "publicationDate": "2026-07-01",
-        "category": "Campaign",
-        "summary": "Democrats are competitive in six key Senate battlegrounds, but Republicans still hold the edge in the fight for the upper chamber, according to new polling from The New York Times and Siena. The New York Times/Siena Polls found Democrats leading the Senate races in North Carolina, where Democrat Roy Cooper is battling Republican Michael Whatley to...",
-        "url": "https://thehill.com/homenews/campaign/5949463-texas-maine-iowa-ohio-alaska-senate-races/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/01/us/politics/democratic-incumbents-progressive-primary-challengers.html",
-        "source": "New York Times Politics",
-        "title": "The Democratic Incumbents Most at Risk of Losing to Progressive Primary Challengers in 2026",
-        "publicationDate": "2026-07-01",
-        "category": "Midterm Elections (2026)",
-        "summary": "A wave of outsider fervor has already knocked out a number of incumbents in primary races. Several more face spirited opposition.",
-        "url": "https://www.nytimes.com/2026/07/01/us/politics/democratic-incumbents-progressive-primary-challengers.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/01/us/politics/trump-washington-dc-construction.html",
-        "source": "New York Times Politics",
-        "title": "Trump Remakes Washington, D.C., Into a Maze of Fences and Guard Members",
-        "publicationDate": "2026-07-01",
-        "category": "Lincoln Memorial (Washington",
-        "summary": "President Trump seems to have turned swaths of the city into either a construction zone or an armed camp as he seeks to prove that he alone can improve it.",
-        "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-washington-dc-construction.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/01/us/politics/john-brennan-investigations-records.html",
-        "source": "New York Times Politics",
-        "title": "Ex-C.I.A. Chief Asks for Order Forcing Trump Administration to Preserve Records",
-        "publicationDate": "2026-07-01",
-        "category": "United States Politics and Government",
-        "summary": "Lawyers for John O. Brennan said they want the materials saved in anticipation of bringing a vindictive prosecution motion if charges against Mr. Brennan are ultimately filed.",
-        "url": "https://www.nytimes.com/2026/07/01/us/politics/john-brennan-investigations-records.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/01/us/politics/russia-ukraine-troop-casualties.html",
-        "source": "New York Times Politics",
-        "title": "Troop Casualties in Ukraine War Top 2 Million, Study Finds",
+        "title": "Vance and Rubio take different approaches as Iran tests their 2028 prospects",
         "publicationDate": "2026-07-01",
         "category": "Foreign Policy",
-        "summary": "Russia has borne the heavier toll, with 1.4 million troops killed or wounded since it invaded in February 2022.",
-        "url": "https://www.nytimes.com/2026/07/01/us/politics/russia-ukraine-troop-casualties.html"
+        "summary": "Vice President JD Vance and Secretary of State Marco Rubio appear to be staking out differing approaches to carrying out President Donald Trump's national security agenda as the possible 2028 presidential rivals jostle for position in a divided Republican Party.",
+        "url": "https://www.pbs.org/newshour/politics/vance-and-rubio-take-different-approaches-as-iran-tests-their-2028-prospects"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/01/us/politics/trump-air-force-one-first-flight.html",
-        "source": "New York Times Politics",
-        "title": "Trump Takes First Flight on New Air Force One From Qatar",
+        "id": "https://www.pbs.org/newshour/politics/great-grandson-of-wong-kim-ark-praises-supreme-court-ruling-affirming-birthright-citizenship",
+        "source": "PBS NewsHour Politics",
+        "title": "Great-grandson of Wong Kim Ark praises Supreme Court ruling affirming birthright citizenship",
+        "publicationDate": "2026-07-01",
+        "category": "birthright citizenship",
+        "summary": "The great-grandson of Wong Kim Ark, the Chinese American at the center of the U.S. Supreme Court case that established the constitutional guarantee of birthright citizenship, called Tuesday's ruling a victory for all Americans, saying it reaffirmed that precedent.",
+        "url": "https://www.pbs.org/newshour/politics/great-grandson-of-wong-kim-ark-praises-supreme-court-ruling-affirming-birthright-citizenship"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5950569-jb-pritzker-trump-dementia/",
+        "source": "The Hill",
+        "title": "Pritzker: Trump 'suffering from dementia'",
+        "publicationDate": "2026-07-01",
+        "category": "Administration",
+        "summary": "Illinois Gov. JB Pritzker (D) on Tuesday accused President Trump of \"suffering from dementia.\" Pritzker appeared on CNN, where anchor Kaitlan Collins asked the governor about recent comments made by the president. He claimed that communism is a bigger threat to the U.S. than both world wars, the attack on Pearl Harbor and the Sept....",
+        "url": "https://thehill.com/homenews/administration/5950569-jb-pritzker-trump-dementia/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5950660-democratic-party-leftist-insurgency/",
+        "source": "The Hill",
+        "title": "The Memo: Left’s winning streak extends in Colorado despite Trump, centrist attacks",
+        "publicationDate": "2026-07-01",
+        "category": "Administration",
+        "summary": "The leftist tide coursing through Democratic politics reached Colorado on Tuesday, washing away longtime Rep. Diana DeGette (D-Colo.) and putting paid to the gubernatorial hopes of Sen. Michael Bennet (D-Colo.). In the aftermath, Democrats are asking urgent questions about the direction their party ought to take. Voices on the left say insurgent candidates are meeting...",
+        "url": "https://thehill.com/homenews/administration/5950660-democratic-party-leftist-insurgency/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/energy-environment/5950626-trump-administration-forever-chemicals/",
+        "source": "The Hill",
+        "title": "EPA approves fluorocarbon pesticides",
+        "publicationDate": "2026-07-01",
+        "category": "Foreign Policy",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story EPA approves fluorocarbon pesticides The Trump administration has approved three new pesticides that may be considered “forever chemicals” under an international definition, though the Environmental Protection Agency (EPA) is disputing the characterization.. © Joshua A. Bickel, Associated Press This week, the EPA approved pesticides...",
+        "url": "https://thehill.com/newsletters/energy-environment/5950626-trump-administration-forever-chemicals/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/technology/5950541-dems-rail-corruption-trump-crypto/",
+        "source": "The Hill",
+        "title": "Dems rail against corruption after Trump financial disclosure",
+        "publicationDate": "2026-07-01",
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story Dems rail against corruption after Trump financial reveal Democrats are accusing President Trump of improperly profiting from his and his family’s cryptocurrency ventures after he reported more than $1 billion in income tied to the industry. © Greg Nash In his annual financial disclosure released Tuesday, Trump revealed about $594 million in income from...",
+        "url": "https://thehill.com/newsletters/technology/5950541-dems-rail-corruption-trump-crypto/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5950575-trump-ai-teddy-roosevelt-chat/",
+        "source": "The Hill",
+        "title": "Trump talks to AI Teddy Roosevelt during presidential library visit",
         "publicationDate": "2026-07-01",
         "category": "Defense",
-        "summary": "The Boeing 747-8, a gift worth $200 million from the Qatari royal family, has attracted considerable scrutiny over whether a foreign government was trying to influence the president.",
-        "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-air-force-one-first-flight.html"
+        "summary": "President Trump had a little chat with an artificial intelligence version of one of his predecessors Wednesday while touring the new Theodore Roosevelt Presidential Library in North Dakota. “Every day a president faces storms most people never see, but if you keep your nerve and remember the nation comes first, you get through,” the AI...",
+        "url": "https://thehill.com/homenews/administration/5950575-trump-ai-teddy-roosevelt-chat/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/us/politics/usa-america-250-trump.html",
+        "source": "New York Times Politics",
+        "title": "America Rings In 250th Birthday Amid Deep Polarization and Political Rifts",
+        "publicationDate": "2026-07-01",
+        "category": "Politics and Government",
+        "summary": "How does a deeply polarized country come together to have a birthday party?",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/usa-america-250-trump.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/us/politics/judge-trump-postal-service.html",
+        "source": "New York Times Politics",
+        "title": "Judge Blocks Postal Service From Imposing Restrictions on Mail-In Ballots",
+        "publicationDate": "2026-07-01",
+        "category": "Decisions and Verdicts",
+        "summary": "The ruling, based on agreements the service made in a 2021 legal settlement, was the second time a judge has blocked new curbs by President Trump on voting by mail.",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/judge-trump-postal-service.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/us/politics/mike-johnson-house-majority.html",
+        "source": "New York Times Politics",
+        "title": "Promising Much to Many, Johnson Loses His Grip on the House",
+        "publicationDate": "2026-07-01",
+        "category": "United States Politics and Government",
+        "summary": "Republicans are growing frustrated with Mr. Johnson’s approach to governing with a razor-thin majority, saying that he promises more than he can achieve, frustrating the disparate groups in his caucus.",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/mike-johnson-house-majority.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html",
+        "source": "New York Times Politics",
+        "title": "Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big",
+        "publicationDate": "2026-07-01",
+        "category": "United States Politics and Government",
+        "summary": "President Trump and his family reaped vast financial rewards from a memecoin that generated losses for hundreds of thousands of investors.",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/us/politics/minnesota-pardon-sexual-abuser.html",
+        "source": "New York Times Politics",
+        "title": "Minnesota Pardons Sexual Abuser Who Was Set to Be Deported",
+        "publicationDate": "2026-07-01",
+        "category": "Deportation",
+        "summary": "Tou Lue Vang has expressed regret for abusing a 10-year-old two decades ago. The Trump administration accused Gov. Tim Walz, a Democrat, of shielding an immigrant who committed a serious crime.",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/minnesota-pardon-sexual-abuser.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/01/voters-are-angry-with-washington-other-takeaways-colorado-primaries/",
@@ -306,15 +351,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/01/voters-are-angry-with-washington-other-takeaways-colorado-primaries/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/07/01/trump-honor-president-he-sees-peer-theodore-roosevelt/",
-        "source": "Washington Post Politics",
-        "title": "Trump to honor a president he sees as a peer — Theodore Roosevelt",
-        "publicationDate": "2026-07-01",
-        "category": "Other",
-        "summary": "The president plans to fly to rural North Dakota to open Roosevelt’s library as aides tout comparisons between the two.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/01/trump-honor-president-he-sees-peer-theodore-roosevelt/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/06/30/trump-earned-over-1-billion-cryptocurrency-coin-ventures-last-year/",
         "source": "Washington Post Politics",
         "title": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures",
@@ -324,112 +360,112 @@
         "url": "https://www.washingtonpost.com/politics/2026/06/30/trump-earned-over-1-billion-cryptocurrency-coin-ventures-last-year/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+        "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
         "publicationDate": "2026-07-01",
         "category": "Other",
-        "summary": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
-        "url": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss"
+        "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+        "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
-        "publicationDate": "2026-07-01",
-        "category": "Other",
-        "summary": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
-        "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Three die in Mexico City World Cup celebrations",
-        "publicationDate": "2026-07-01",
-        "category": "Other",
-        "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Businessman goes on trial over murder of Maltese journalist",
-        "publicationDate": "2026-07-01",
-        "category": "Other",
-        "summary": "Yorgen Fenech denies any involvement in the assassination of Daphne Caruana Galizia in 2017.",
-        "url": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
-        "publicationDate": "2026-07-01",
-        "category": "Other",
-        "summary": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
-        "url": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/5627d320-920b-4527-8b52-71f7d182d968",
-        "source": "Financial Times World",
-        "title": "Supreme Court checks Trump, but empowers the presidency",
-        "publicationDate": "2026-07-01",
-        "category": "Other",
-        "summary": "Despite losses on tariffs and birthright citizenship, the executive has emerged stronger",
-        "url": "https://www.ft.com/content/5627d320-920b-4527-8b52-71f7d182d968"
-    },
-    {
-        "id": "https://www.ft.com/content/0c4f7c99-61d9-4be9-a842-10295699cc8e",
-        "source": "Financial Times World",
-        "title": "Zelenskyy urges EU to sanction Russian-owned alumina plant in Ireland",
+        "title": "Ukrainian charged in Germany over Nord Stream blasts",
         "publicationDate": "2026-07-01",
         "category": "Foreign Policy",
-        "summary": "Call on the opening day of Dublin’s EU presidency adds to pressure over Aughinish Alumina smelter",
-        "url": "https://www.ft.com/content/0c4f7c99-61d9-4be9-a842-10295699cc8e"
+        "summary": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
+        "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/c223f704-57c7-4962-9b4e-a30496aee6fa",
-        "source": "Financial Times World",
-        "title": "Millennium and Point72 gain as hedge funds rebound from Iran war",
+        "id": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US blocks long-term renewal of North American trade deal",
         "publicationDate": "2026-07-01",
-        "category": "Foreign Policy",
-        "summary": "Izzy Englander and Steve Cohen’s firms post double-digit returns in first half of year",
-        "url": "https://www.ft.com/content/c223f704-57c7-4962-9b4e-a30496aee6fa"
+        "category": "Other",
+        "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
+        "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
+        "url": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Watch: Two people climb to highest point of Empire State Building",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
+        "url": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/9067f454-a2f3-43da-bb0e-7f3015ce3bf5",
+        "source": "Financial Times World",
+        "title": "Trump made up to $1.4bn in stock purchases in 2025",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "FT analysis shows US president declared more than 22,000 share transactions last year",
+        "url": "https://www.ft.com/content/9067f454-a2f3-43da-bb0e-7f3015ce3bf5"
+    },
+    {
+        "id": "https://www.ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194",
+        "source": "Financial Times World",
+        "title": "KNDS postpones IPO after investors balk at €12bn-plus valuation",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "Franco-German tank maker says it will wait for ‘more favourable’ market conditions",
+        "url": "https://www.ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194"
     },
     {
         "id": "https://www.ft.com/content/5d9eee57-f08c-4b28-a9d5-57578fbc1f8f",
         "source": "Financial Times World",
-        "title": "Shares in Uber-backed Lime surge after it raised $167mn in IPO",
+        "title": "Shares in Uber-backed Lime climb after it raised $167mn in IPO",
         "publicationDate": "2026-07-01",
         "category": "Other",
         "summary": "Bike and scooter group’s shares were initially priced at $25 in deal underwritten by Goldman Sachs, JPMorgan and Jefferies",
         "url": "https://www.ft.com/content/5d9eee57-f08c-4b28-a9d5-57578fbc1f8f"
     },
     {
-        "id": "https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a",
+        "id": "https://www.ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f",
         "source": "Financial Times World",
-        "title": "US voters support Trump trade deal with Canada and Mexico, survey finds",
+        "title": "Mega takeovers drive record $2.8tn in dealmaking",
         "publicationDate": "2026-07-01",
         "category": "Other",
-        "summary": "New poll finds bipartisan backing for USMCA even as president seeks to renegotiate its terms",
-        "url": "https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a"
+        "summary": "Companies and investors turn to M&A as they adjust to economic shifts driven by the rise of AI",
+        "url": "https://www.ft.com/content/000d10d6-cdfb-4110-9c6b-a5cd133b7a0f"
     },
     {
-        "id": "R49013",
-        "source": "Congressional Research Service",
-        "title": "PRWORA at 30: Child Care",
-        "publicationDate": "2026-06-30",
-        "category": "Economy",
-        "summary": "The Child Care and Development Fund (CCDF) is the main source of federal funding dedicated primarily to child care subsidies for low-income working families. The term CCDF was coined by the U.S. Department of Health and Human Services (HHS) in regulations issued after the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA, P.L. 104-193) made major changes to federal child care programs....",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49013/R49013.3.pdf"
+        "id": "https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26",
+        "source": "Financial Times World",
+        "title": "World Bank to phase out China lending",
+        "publicationDate": "2026-07-01",
+        "category": "Foreign Policy",
+        "summary": "Decision from global development institution follows years of pressure from the Trump administration",
+        "url": "https://www.ft.com/content/32b664e1-d2d2-4292-b0b3-0056808acf26"
     },
     {
-        "id": "R49014",
+        "id": "IF10199",
         "source": "Congressional Research Service",
-        "title": "PRWORA at 30: Child Support Enforcement",
+        "title": "U.S.-Japan Relations",
+        "publicationDate": "2026-06-30",
+        "category": "Defense",
+        "summary": "Overview Japan, a U.S. treaty ally since 1952, is an important U.S. security and trade partner. Shared bilateral goals include addressing the challenge of an assertive People’s Republic of China (PRC, or China) and countering threats from North Korea. The U.S.-Japan mutual defense treaty grants the United States the right to base U.S. troops—currently around 60,000—and military assets on Japan’s territory in return...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10199/IF10199.48.pdf"
+    },
+    {
+        "id": "IF12115",
+        "source": "Congressional Research Service",
+        "title": "Farm Bill Primer: Programs Without a Budget Baseline",
         "publicationDate": "2026-06-30",
         "category": "Economy",
-        "summary": "This report provides an overview of the Child Support Enforcement (CSE) program’s development and current congressional issues. It is part of a series of CRS reports that focus on changes in programs affecting low-income children in light of the upcoming 30-year anniversary of enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA; P.L. 104-193). The CSE program serves...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49014/R49014.3.pdf"
+        "summary": "The Congressional Budget Office (CBO) provides budgetary projections of government spending called baselines. Following rules of both House and Senate budget committees, CBO assumes that many farm bill programs that receive mandatory funding will continue beyond the end of their authorization. That is, they have a continuing baseline beyond the end of a farm bill that gives them built-in future funding if Congress...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12115/IF12115.15.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/the-supreme-courts-cisco-ruling-clears-the-way-for-u-s-tech-to-aid-repression-abroad",
@@ -441,15 +477,6 @@
         "url": "https://www.cfr.org/articles/the-supreme-courts-cisco-ruling-clears-the-way-for-u-s-tech-to-aid-repression-abroad"
     },
     {
-        "id": "https://www.cfr.org/articles/us-cuba-relations",
-        "source": "Council on Foreign Relations",
-        "title": "U.S.-Cuba Relations",
-        "publicationDate": "2026-06-30",
-        "category": "Article",
-        "summary": "1959 – 2026 Since Fidel Castro’s ascent to power in 1959, U.S.-Cuba ties have endured a nuclear crisis, a long U.S. economic embargo, and persistent political hostilities. The diplomatic relationship thawed under President Barack Obama, but many restrictions have since been renewed.",
-        "url": "https://www.cfr.org/articles/us-cuba-relations"
-    },
-    {
         "id": "https://www.hudson.org/technology/three-models-sino-american-competition-soul-ai-bill-drexel",
         "source": "Hudson Institute",
         "title": "Three Models of Sino-American Competition for the Soul of AI",
@@ -457,51 +484,6 @@
         "category": "Defense",
         "summary": "Three Models of Sino-American Competition for the Soul of AI acabral-sanche… Tue, 06/30/2026 - 12:29 SVG Commentary Jun 30, 2026 AI Frontiers Three Models of Sino-American Competition for the Soul of AI American leaders agree that the AI race will shape the balance of power with China. But they can’t agree on how to ensure the technology advances American values. Bill Drexel Senior Fellow Bill Drexel Commentary...",
         "url": "https://www.hudson.org/technology/three-models-sino-american-competition-soul-ai-bill-drexel"
-    },
-    {
-        "id": "https://www.hudson.org/experts/ulrich-speck",
-        "source": "Hudson Institute",
-        "title": "Ulrich Speck",
-        "publicationDate": "2026-06-30",
-        "category": "Foreign Policy",
-        "summary": "Ulrich Speck acabral-sanche… Tue, 06/30/2026 - 12:19 Ulrich Speck Senior Fellow (Nonresident), Center on Europe and Eurasia At A Glance: Ulrich Speck is a nonresident senior fellow with the Center on Europe and Eurasia at Hudson Institute. Follow: Contact: uspeck@hudson.org Biography Ulrich Speck is a nonresident senior fellow with the Center on Europe and Eurasia at Hudson Institute. His research focuses on...",
-        "url": "https://www.hudson.org/experts/ulrich-speck"
-    },
-    {
-        "id": "https://www.hoover.org/node/388812",
-        "source": "Hoover Institution",
-        "title": "Indra Nooyi | Only in America",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.hoover.org/node/388812"
-    },
-    {
-        "id": "https://www.hoover.org/research/glenn-loury-karmelo-anthonys-grand-narrative",
-        "source": "Hoover Institution",
-        "title": "Glenn Loury On Karmelo Anthony's Grand Narrative",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Glenn Loury talks with John McWhorter about the Karmelo Anthony case.",
-        "url": "https://www.hoover.org/research/glenn-loury-karmelo-anthonys-grand-narrative"
-    },
-    {
-        "id": "https://www.hoover.org/research/victor-davis-hanson-clearing-confusion-trumps-memorandum-understanding-iran",
-        "source": "Hoover Institution",
-        "title": "Victor Davis Hanson: Clearing Up The Confusion On Trump’s Memorandum Of Understanding With Iran",
-        "publicationDate": "2026-06-30",
-        "category": "Foreign Policy",
-        "summary": "Hoover Institution fellow Victor Davis Hanson says that even as the ink dries on the 60-day memorandum of understanding with Iran, attacks on American cargo ships persist. Hanson notes that President Trump may need to reply to Iran's attacks disproportionately or risk being a lame-duck president with only a phone and pen as power.",
-        "url": "https://www.hoover.org/research/victor-davis-hanson-clearing-confusion-trumps-memorandum-understanding-iran"
-    },
-    {
-        "id": "https://www.hoover.org/research/education-exchange-lamar-alexander-tells-inside-story-behind-every-student-succeeds-act",
-        "source": "Hoover Institution",
-        "title": "The Education Exchange: Lamar Alexander Tells Inside Story Behind Every Student Succeeds Act",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "Lamar Alexander, the former United States Senator and Governor of Tennessee, joins Hoover Institution fellow Paul E. Peterson to discuss Alexander’s new book, The Education of a Senator: From JFK to Trump.",
-        "url": "https://www.hoover.org/research/education-exchange-lamar-alexander-tells-inside-story-behind-every-student-succeeds-act"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/06/30/trump-says-congress-should-act-end-birthright-citizenship/",
@@ -522,22 +504,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/06/30/supreme-court-sides-with-gop-loosens-campaign-spending-rules/"
     },
     {
-        "id": "IF12937",
-        "source": "Congressional Research Service",
-        "title": "Solomon Islands",
-        "publicationDate": "2026-06-29",
-        "category": "Defense",
-        "summary": "Solomon Islands (colloquially, the Solomons) is a Pacific Islands Country (PIC) in the Melanesian sub-region roughly 2,000 miles northeast of Australia. Solomon Islands is a heterogenous society, with over 80 local languages among the over 800,000 inhabitants spread across 6 major islands. The Solomons has the third-largest Pacific Island economy but also is one of the most aid-reliant countries in the world....",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12937/IF12937.3.pdf"
-    },
-    {
-        "id": "R49011",
-        "source": "Congressional Research Service",
-        "title": "PRWORA at 30: SSI for Children with Disabilities",
-        "publicationDate": "2026-06-29",
+        "id": "https://www.washingtonpost.com/politics/2026/06/30/birthright-citizenship-upheld-by-supreme-court-ruling-against-trump-order/",
+        "source": "Washington Post Politics",
+        "title": "Supreme Court upholds principle that almost all born on U.S. soil are American",
+        "publicationDate": "2026-06-30",
         "category": "Other",
-        "summary": "The federal Supplemental Security Income (SSI) program—administered by the Social Security Administration (SSA)—pays need-tested monthly cash benefits to adults and children with qualifying disabilities and to older adults, regardless of their disability status. As a need-tested program, SSI is available only to eligible individuals whose income and resources (i.e., assets) are at or below limits set in federal...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49011/R49011.4.pdf"
+        "summary": "The ruling striking down President Donald Trump's executive order on birthright citizenship reaffirmed that the 14th Amendment automatically confers citizenship on any child born in the U.S.",
+        "url": "https://www.washingtonpost.com/politics/2026/06/30/birthright-citizenship-upheld-by-supreme-court-ruling-against-trump-order/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4386-2.html",
@@ -567,13 +540,13 @@
         "url": "https://www.heritage.org/global-politics/commentary/americas-asian-allies-want-nuclear-submarines-heres-how-build-them"
     },
     {
-        "id": "https://www.heritage.org/election-integrity/commentary/usps-releases-proposed-security-transparency-standards-mail-ballots",
+        "id": "https://www.heritage.org/government-regulation/commentary/dont-regulate-away-americas-medical-device-sterilization-industry",
         "source": "Heritage Foundation",
-        "title": "USPS Releases Proposed Security, Transparency Standards for Mail-In Ballots",
+        "title": "Don't Regulate Away America's Medical Device Sterilization Industry",
         "publicationDate": "2026-06-29",
-        "category": "Economy",
-        "summary": "If the U.S. Postal Service gets its way, some major changes are coming for mail-in ballots. It is a welcome prospect at a time when USPS budgets are shrinking and delivery times are getting longer. On June 2, USPS began a 30-day public comment period on its proposed rule to add security and transparency requirements for mail-in ballots. The proposed rule stressed the importance of additional security measures “to...",
-        "url": "https://www.heritage.org/election-integrity/commentary/usps-releases-proposed-security-transparency-standards-mail-ballots"
+        "category": "Foreign Policy",
+        "summary": "In 2024, the Environmental Protection Agency (EPA) tried to make it harder for hospitals to obtain essential sterilized medical equipment by threatening to regulate the American industry out of business. Two years later, the EPA is finally safeguarding the medical equipment supply chain by rescinding a damaging and badly conceived rule. The rule centers on a substance known as Ethylene Oxide (EtO). Although it...",
+        "url": "https://www.heritage.org/government-regulation/commentary/dont-regulate-away-americas-medical-device-sterilization-industry"
     },
     {
         "id": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export",
@@ -583,33 +556,6 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
-    },
-    {
-        "id": "https://www.heritage.org/conservatism/commentary/against-caesars-cost-glory",
-        "source": "Heritage Foundation",
-        "title": "Against Caesar’s Cost of Glory",
-        "publicationDate": "2026-06-26",
-        "category": "Economy",
-        "summary": "Worries that the American republic is at the end of the line invite speculation on what the future has in store. Some have speculated that perhaps Caesarism is in our future. Caesarism stands for the proposition that our current republican system, and especially our legislature, either from corruption or factionalism, is no longer up to the task of governing an empire. The more far-flung our empire, the more it...",
-        "url": "https://www.heritage.org/conservatism/commentary/against-caesars-cost-glory"
-    },
-    {
-        "id": "https://www.heritage.org/marriage-and-family/commentary/have-rising-living-standards-pushed-marriage-out-reach",
-        "source": "Heritage Foundation",
-        "title": "Have Rising Living Standards Pushed Marriage out of Reach?",
-        "publicationDate": "2026-06-26",
-        "category": "Economy",
-        "summary": "Have rising material expectations made marriage feel less attainable for today’s young adults? Marriage rates have steadily been declining for several decades. Roughly one-third of Gen Z is expected to remain single by age 45, and to perhaps never marry at all. A common reason young adults give for not being married is a lack of financial resources. And a popular narrative these days says that declining wages among...",
-        "url": "https://www.heritage.org/marriage-and-family/commentary/have-rising-living-standards-pushed-marriage-out-reach"
-    },
-    {
-        "id": "https://ecfr.eu/article/americas-direct-return-doctrine-and-what-it-means-for-the-world/",
-        "source": "European Council on Foreign Relations",
-        "title": "America’s “direct return” doctrine—and what it means for the world",
-        "publicationDate": "2026-06-26",
-        "category": "Geoeconomics and trade",
-        "summary": "In Bosnia and Herzegovina, the United States is focused on doing business, at the expense of peace. There are ways for Europeans to acquire a veto over these destabilising activities; but the Trump administration may yet replicate this approach across the globe.",
-        "url": "https://ecfr.eu/article/americas-direct-return-doctrine-and-what-it-means-for-the-world/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4707-1.html",
@@ -637,6 +583,15 @@
         "category": "Technology",
         "summary": "Agentic AI models now enable non-experts to conduct advanced offensive cyberattacks. This study finds AI agents can autonomously breach complex systems rapidly, highlighting urgent needs for evolved defence and better cyber risk assessments.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3892-2.html"
+    },
+    {
+        "id": "LSB11444",
+        "source": "Congressional Research Service",
+        "title": "The Impact of FISA Section 702’s Repeal",
+        "publicationDate": "2026-06-22",
+        "category": "Defense",
+        "summary": "Section 702 of the Foreign Intelligence Surveillance Act of 1978 (FISA) (previously codified at 50 U.S.C. § 1881a) authorizes intelligence agencies to programmatically target non-U.S. persons reasonably believed to be outside the United States to acquire foreign intelligence information. This provision was automatically repealed on June 12, 2026, pursuant to the FISA Amendment Act of 2008 (FAA), as amended by...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11444/LSB11444.1.pdf"
     },
     {
         "id": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement",
