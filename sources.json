@@ -1,30 +1,300 @@
 [
     {
-        "id": "IN12489",
-        "source": "Congressional Research Service",
-        "title": "Congressional District Geography Workbook (119th Congress): An Interactive Tool for Congressional Users",
-        "publicationDate": "2026-06-30",
-        "category": "Defense",
-        "summary": "This Insight accompanies the Congressional District Geography Workbook, a Microsoft Excel file that congressional users can download from CRS.gov. The workbook provides information about U.S. House districts as configured in the 119th Congress (2025-2026). It supersedes the version published for the 118th Congress: CRS Insight IN12393, Congressional District Geography Workbook (118th Congress): An Interactive Tool...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12489/IN12489.13.pdf"
+        "id": "https://www.rand.org/pubs/research_reports/RRA5082-1.html",
+        "source": "RAND Corporation",
+        "title": "Insights from table-top exercises in Europe on AI safety and cyber misuse",
+        "publicationDate": "2026-07-01",
+        "category": "Technology",
+        "summary": "This report presents findings from table-top exercises with senior policymakers in Germany, the Netherlands, and France, identifying governance gaps and capability priorities for responding to AI-enabled cyberattack crises.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5082-1.html"
     },
     {
-        "id": "IF13178",
+        "id": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court",
+        "source": "NPR Politics",
+        "title": "A federal law bans late voter roll purges. Republicans are pushing to reinterpret it",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "There's a ban on most states systematically purging voter rolls within 90 days before Election Day. Republicans are pushing courts to reinterpret that longstanding protection for eligible voters.",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries",
+        "source": "NPR Politics",
+        "title": "In Colorado primaries, a democratic socialist wins; Bennet's governor bid ends",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "Democrats nominated their candidate to try to unseat a Republican House member and tapped the state's attorney general as a frontrunner for governor.",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5872791/kiros-colorado-democratic-socialist-weiser-bennet-primaries"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/01/nx-s1-5867587/america-250th-past-anniversaries",
+        "source": "NPR Politics",
+        "title": "How America has celebrated milestone birthdays, from world fairs to the World Cup",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "Two founding fathers died on America's 50th birthday, which was marked with toasts and parades. Over time, anniversary celebrations became more extravagant — and more controversial.",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5867587/america-250th-past-anniversaries"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/01/nx-s1-5874124/dhs-tracks-ice-critic",
+        "source": "NPR Politics",
+        "title": "Months after he sent a harsh email to ICE, agents tracked him to his home and a hotel",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "Federal agents went to a Rochester man's home to warn him that an email he sent five months ago could be an illegal threat. He was on vacation but another agent found his hotel hundreds of miles away.",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5874124/dhs-tracks-ice-critic"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/01/nx-s1-5869563/american-pride-poll",
+        "source": "NPR Politics",
+        "title": "The majority of Americans are proud but worry about direction of the country",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "As the U.S. approaches its 250th birthday, Americans reflect on the state of the nation in the latest NPR/PBS News/Marist poll.",
+        "url": "https://www.npr.org/2026/07/01/nx-s1-5869563/american-pride-poll"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/poll-most-americans-think-the-u-s-has-strayed-from-its-founding-principles",
+        "source": "PBS NewsHour Politics",
+        "title": "Poll: Most Americans think the U.S. has strayed from its founding principles",
+        "publicationDate": "2026-07-01",
+        "category": "democracy",
+        "summary": "Most Americans believe the country has moved away from its founding principles as the nation prepares for its big 250th anniversary, a new PBS News/NPR/Marist poll finds. Eighty-three percent of U.S. adults feel America has strayed from the ideals the country was founded on two-and-a-half centuries ago. Among them, close to half of Americans — 47% — say the U.S. has \"moved far away\" from these principles, joined by...",
+        "url": "https://www.pbs.org/newshour/politics/poll-most-americans-think-the-u-s-has-strayed-from-its-founding-principles"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/5948365-warren-schumer-senate-influence/",
+        "source": "The Hill",
+        "title": "Schumer, Warren locked in battle over future of Democratic Party",
+        "publicationDate": "2026-07-01",
+        "category": "Senate",
+        "summary": "Sen. Elizabeth Warren (D-Mass.) is locked in a contest for influence with Senate Minority Leader Chuck Schumer (D-N.Y.) over the future of the Senate Democratic caucus as the two battle to shape the outcome in this year’s primaries. Warren, a progressive who has been outspoken in her criticism of the cryptocurrency industry, has made a...",
+        "url": "https://thehill.com/homenews/senate/5948365-warren-schumer-senate-influence/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/5948517-iran-leveraging-strait-hormuz-trump/",
+        "source": "The Hill",
+        "title": "FOR INSIDERS: Iran's flex in Strait of Hormuz puts Trump on back foot",
+        "publicationDate": "2026-07-01",
+        "category": "Defense",
+        "summary": "Iran is flexing its leverage in the Strait of Hormuz, putting the U.S. on its back foot as it looks to resume shipping through the key passageway and curb Tehran's nuclear program. Tehran ratcheted up tensions this weekend in the strait, through which around 20 percent of the world’s oil and gas flow, targeting cargo...",
+        "url": "https://thehill.com/policy/defense/5948517-iran-leveraging-strait-hormuz-trump/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/5948098-trump-openai-ai-policy-confusion/",
+        "source": "The Hill",
+        "title": "FOR INSIDERS: Trump White House holds back new AI models, spurring confusion",
+        "publicationDate": "2026-07-01",
+        "category": "Technology",
+        "summary": "The Trump administration's request for OpenAI to delay the release of its new models is sparking more confusion over White House AI policy and keeping private firms on their toes. The government asked OpenAI and Anthropic to delay or suspend their newest models this month, just weeks after assuring technology firms they would not let...",
+        "url": "https://thehill.com/policy/technology/5948098-trump-openai-ai-policy-confusion/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/5946437-ocasio-cortez-schumer-senate-new-york/",
+        "source": "The Hill",
+        "title": "New York primaries spur progressive calls for Ocasio-Cortez to challenge Schumer",
+        "publicationDate": "2026-07-01",
+        "category": "Senate",
+        "summary": "Progressives are hearing new calls for Rep. Alexandria Ocasio-Cortez (D-N.Y.) to challenge Sen. Chuck Schumer (D-N.Y.) for his seat in 2028 after democratic socialist candidates won victories in Democratic primaries last week. It sets up a difficult decision for Ocasio-Cortez. Many see her as the progressive most able to succeed Sen. Bernie Sanders (I-Vt.) in...",
+        "url": "https://thehill.com/homenews/senate/5946437-ocasio-cortez-schumer-senate-new-york/"
+    },
+    {
+        "id": "https://thehill.com/blogs/in-the-know/5948089-mcbride-transgender-rights-state-of-firsts/",
+        "source": "The Hill",
+        "title": "Rep. Sarah McBride rejects being seen as 'walking trans flag' in 'State of Firsts' doc",
+        "publicationDate": "2026-07-01",
+        "category": "In The Know",
+        "summary": "She made history as the first openly transgender member of Congress, and now a documentary is giving an inside look into the 2024 run that landed Rep. Sarah McBride (D-Del.) in the Capitol. \"State of Firsts,\" McBride told ITK, details the highs and lows of the campaign trail, but also \"the nuances that come with not only running...",
+        "url": "https://thehill.com/blogs/in-the-know/5948089-mcbride-transgender-rights-state-of-firsts/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/upshot/polls-ohio-iowa-alaska-carolina.html",
+        "source": "New York Times Politics",
+        "title": "Republicans’ Home-Field Edge for Senate Seems Just Enough for Now",
+        "publicationDate": "2026-07-01",
+        "category": "Midterm Elections (2026)",
+        "summary": "Democratic candidates are generally popular, Times/Siena polling finds, but retaking the Senate remains a big challenge.",
+        "url": "https://www.nytimes.com/2026/07/01/upshot/polls-ohio-iowa-alaska-carolina.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/us/politics/birthright-supreme-court-decision.html",
+        "source": "New York Times Politics",
+        "title": "The Birthright Decision Was Surprisingly Close, Some Legal Scholars Say",
+        "publicationDate": "2026-07-01",
+        "category": "Citizenship and Naturalization",
+        "summary": "A bare majority of Supreme Court justices ruled that President Trump’s executive order was unconstitutional, reflecting a conservative shift on the issue.",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/birthright-supreme-court-decision.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html",
+        "source": "New York Times Politics",
+        "title": "Control of the Senate Is Up for Grabs, Times/Siena Polls Find",
+        "publicationDate": "2026-07-01",
+        "category": "Midterm Elections (2026)",
+        "summary": "Republicans are defending seats in Alaska, Iowa, Maine, North Carolina, Ohio and Texas as they try to maintain their majority. Democrats are competitive in all six states — but not leading in enough to take the chamber.",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/us/politics/trump-fact-check-american-history.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s Historical Yarns Often Stretch (or Disregard) the Truth",
+        "publicationDate": "2026-07-01",
+        "category": "Customs (Tariff)",
+        "summary": "We fact-checked the president’s colorful — and inaccurate — accounts of American history from the Battle of Gettysburg to the Unabomber.",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-fact-check-american-history.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/01/us/politics/supreme-court-term-trump-conservatives.html",
+        "source": "New York Times Politics",
+        "title": "Despite Some Losses for Trump, Supreme Court Delivers Enduring Conservative Wins",
+        "publicationDate": "2026-07-01",
+        "category": "United States Politics and Government",
+        "summary": "The justices pushed back on some of President Trump’s signature moves, but they also expanded presidential power and supplied victories on long-sought conservative goals.",
+        "url": "https://www.nytimes.com/2026/07/01/us/politics/supreme-court-term-trump-conservatives.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/07/01/voters-are-angry-with-washington-other-takeaways-colorado-primaries/",
+        "source": "Washington Post Politics",
+        "title": "Voters are angry with Washington, and other takeaways from the Colorado primaries",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "A sitting Democratic House member and a sitting senator both lost key races in the state.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/01/voters-are-angry-with-washington-other-takeaways-colorado-primaries/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/07/01/trump-honor-president-he-sees-peer-theodore-roosevelt/",
+        "source": "Washington Post Politics",
+        "title": "Trump to honor a president he sees as a peer — Theodore Roosevelt",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "The president plans to fly to rural North Dakota to open Roosevelt’s library as aides tout comparisons between the two.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/01/trump-honor-president-he-sees-peer-theodore-roosevelt/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/06/30/trump-earned-over-1-billion-cryptocurrency-coin-ventures-last-year/",
+        "source": "Washington Post Politics",
+        "title": "Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "Almost 1,000 pages of financial disclosure forms show that the president’s earnings far outpaced his $600 million total income in 2024.",
+        "url": "https://www.washingtonpost.com/politics/2026/06/30/trump-earned-over-1-billion-cryptocurrency-coin-ventures-last-year/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump made more than $1bn from crypto in first year back in office",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+        "publicationDate": "2026-07-01",
+        "category": "Healthcare",
+        "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+        "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+        "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Three killed in Mexico City World Cup celebrations",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/6b8cd156-c5bb-4cce-8c54-818fd19fab96",
+        "source": "Financial Times World",
+        "title": "BlueCrest warns UK is bad for business after losing £200mn tax battle",
+        "publicationDate": "2026-07-01",
+        "category": "Economy",
+        "summary": "Investment firm says the country is ‘no longer a serious contender’",
+        "url": "https://www.ft.com/content/6b8cd156-c5bb-4cce-8c54-818fd19fab96"
+    },
+    {
+        "id": "https://www.ft.com/content/ec007c89-a71a-4e55-a91d-129cf5d429fd",
+        "source": "Financial Times World",
+        "title": "Trump’s contradictions mangle a complex history of US trade",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "The president’s obsession with tariffs reflects a misreading of the past 250 years",
+        "url": "https://www.ft.com/content/ec007c89-a71a-4e55-a91d-129cf5d429fd"
+    },
+    {
+        "id": "https://www.ft.com/content/4bd05c68-d252-4746-ac57-020a5b647b74",
+        "source": "Financial Times World",
+        "title": "June inflation in the Eurozone is good news for the ECB",
+        "publicationDate": "2026-07-01",
+        "category": "Economy",
+        "summary": "Weaker headline and core inflation provide early indication that the energy shock is temporary",
+        "url": "https://www.ft.com/content/4bd05c68-d252-4746-ac57-020a5b647b74"
+    },
+    {
+        "id": "https://www.ft.com/content/3d892d31-e4ee-43b8-87dc-64ee3575d046",
+        "source": "Financial Times World",
+        "title": "FirstFT: US stock markets record best quarter since 2020",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: Democratic socialist wins Colorado primary and Trump administration green-lights latest Anthropic AI model",
+        "url": "https://www.ft.com/content/3d892d31-e4ee-43b8-87dc-64ee3575d046"
+    },
+    {
+        "id": "https://www.ft.com/content/9638e870-b667-46ca-b430-0dfd11df9c94",
+        "source": "Financial Times World",
+        "title": "Getty scraps $3.7bn Shutterstock merger after UK watchdog order",
+        "publicationDate": "2026-07-01",
+        "category": "Other",
+        "summary": "US regulators had already cleared combination of rivals when CMA imposed conditions",
+        "url": "https://www.ft.com/content/9638e870-b667-46ca-b430-0dfd11df9c94"
+    },
+    {
+        "id": "IF13261",
         "source": "Congressional Research Service",
-        "title": "NHTSA’s Authorities and Rulemaking Process",
+        "title": "The Personal Responsibility and Work Opportunity Reconciliation Act of 1996",
         "publicationDate": "2026-06-30",
         "category": "Economy",
-        "summary": "NHTSA Background and Authorities The National Highway Traffic Safety Administration (NHTSA), part of the Department of Transportation (DOT), is primarily responsible for motor vehicle and highway safety. Congress established highway safety regulatory agencies in response to an increase in motor vehicle fatalities in the 1950s and 1960s. In 1966, two laws—the National Traffic and Motor Vehicle Safety Act (P.L....",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13178/IF13178.3.pdf"
+        "summary": "Introduction The Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA, P.L. 104-193), also known as the 1996 welfare reform law, was enacted 30 years ago. Leading up to its passage, debates over welfare reform had spanned four decades, from the 1960s through the early 1990s. The debates focused primarily on the Aid to Families with Dependent Children (AFDC) program, which had grown out of...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13261/IF13261.2.pdf"
     },
     {
-        "id": "IF13260",
+        "id": "R49015",
         "source": "Congressional Research Service",
-        "title": "Private Investment Markets: Overview and Retail Investor Access",
+        "title": "Institutional Investors and Single-Family Housing: In Brief",
         "publicationDate": "2026-06-30",
         "category": "Other",
-        "summary": "Private investments—also referred to as alternative investments or private capital—are investments generally available only to accredited investors. Such investments include private securities offerings in non-publicly traded companies and private funds. The Securities and Exchange Commission (SEC), the primary U.S. capital markets regulator, requires that offers and sales of securities, such as stocks and bonds,...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13260/IF13260.1.pdf"
+        "summary": "In the years following the financial crisis of 2007-2009, some large institutional investors began to purchase single-family (SF) homes to hold as rental properties. Investor ownership of SF homes was not new, but most investors in SF homes typically have been—and still are—small or medium-sized investors that each own a relatively small number of properties. Although large institutional investors have increased...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49015/R49015.1.pdf"
+    },
+    {
+        "id": "LSB11443",
+        "source": "Congressional Research Service",
+        "title": "Mullin v. Al Otro Lado: Supreme Court Determines That “Metering” Policy Is Lawful",
+        "publicationDate": "2026-06-30",
+        "category": "Foreign Policy",
+        "summary": "On June 25, 2026, the Supreme Court in Mullin v. Al Otro Lado ruled that an alien seeking to enter the United States at a port of entry but stopped on the Mexican side of the U.S.-Mexico border by a U.S. immigration officer is not statutorily entitled to be inspected by an immigration officer, and then permitted to apply for asylum if the circumstances warrant. Generally, an alien presenting himself or herself at a...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11443/LSB11443.1.pdf"
+    },
+    {
+        "id": "IN12609",
+        "source": "Congressional Research Service",
+        "title": "FEMA’s Building Resilient Infrastructure and Communities (BRIC): Recent Developments",
+        "publicationDate": "2026-06-30",
+        "category": "Other",
+        "summary": "This Insight provides a brief summary of developments related to the Building Resilient Infrastructure and Communities (BRIC) grant program in 2025 and 2026. BRIC funding represents the largest U.S. competitively awarded pre-disaster mitigation funding source, with over $5.79 billion available to reduce future damage before a natural disaster occurs (see Table 1). Overview of BRIC Pre-disaster mitigation funding is...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12609/IN12609.10.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/the-supreme-courts-cisco-ruling-clears-the-way-for-u-s-tech-to-aid-repression-abroad",
@@ -117,6 +387,33 @@
         "url": "https://www.hoover.org/node/388812"
     },
     {
+        "id": "https://www.hoover.org/research/glenn-loury-karmelo-anthonys-grand-narrative",
+        "source": "Hoover Institution",
+        "title": "Glenn Loury On Karmelo Anthony's Grand Narrative",
+        "publicationDate": "2026-06-30",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Glenn Loury talks with John McWhorter about the Karmelo Anthony case.",
+        "url": "https://www.hoover.org/research/glenn-loury-karmelo-anthonys-grand-narrative"
+    },
+    {
+        "id": "https://www.hoover.org/research/victor-davis-hanson-clearing-confusion-trumps-memorandum-understanding-iran",
+        "source": "Hoover Institution",
+        "title": "Victor Davis Hanson: Clearing Up The Confusion On Trump’s Memorandum Of Understanding With Iran",
+        "publicationDate": "2026-06-30",
+        "category": "Foreign Policy",
+        "summary": "Hoover Institution fellow Victor Davis Hanson says that even as the ink dries on the 60-day memorandum of understanding with Iran, attacks on American cargo ships persist. Hanson notes that President Trump may need to reply to Iran's attacks disproportionately or risk being a lame-duck president with only a phone and pen as power.",
+        "url": "https://www.hoover.org/research/victor-davis-hanson-clearing-confusion-trumps-memorandum-understanding-iran"
+    },
+    {
+        "id": "https://www.hoover.org/research/education-exchange-lamar-alexander-tells-inside-story-behind-every-student-succeeds-act",
+        "source": "Hoover Institution",
+        "title": "The Education Exchange: Lamar Alexander Tells Inside Story Behind Every Student Succeeds Act",
+        "publicationDate": "2026-06-30",
+        "category": "Other",
+        "summary": "Lamar Alexander, the former United States Senator and Governor of Tennessee, joins Hoover Institution fellow Paul E. Peterson to discuss Alexander’s new book, The Education of a Senator: From JFK to Trump.",
+        "url": "https://www.hoover.org/research/education-exchange-lamar-alexander-tells-inside-story-behind-every-student-succeeds-act"
+    },
+    {
         "id": "https://www.hoover.org/research/i-escaped-europes-dying-democracies-and-discovered-real-secret-americas-enduring-success",
         "source": "Hoover Institution",
         "title": "I Escaped Europe's Dying Democracies And Discovered The Real Secret To America's Enduring Success",
@@ -126,211 +423,40 @@
         "url": "https://www.hoover.org/research/i-escaped-europes-dying-democracies-and-discovered-real-secret-americas-enduring-success"
     },
     {
-        "id": "https://www.hoover.org/research/sluggish-expectations",
-        "source": "Hoover Institution",
-        "title": "Sluggish Expectations",
+        "id": "https://www.pbs.org/newshour/politics/trump-took-in-about-1-2-billion-from-crypto-businesses-last-year-financial-disclosure-shows",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump took in about $1.2 billion from crypto businesses last year, financial disclosure shows",
+        "publicationDate": "2026-06-30",
+        "category": "Cryptocurrencies",
+        "summary": "President Donald Trump took in nearly $1.2 billion dollars from his crypto businesses last year, a federal filing released Tuesday shows, locking in profits while his investors were socked with losses.",
+        "url": "https://www.pbs.org/newshour/politics/trump-took-in-about-1-2-billion-from-crypto-businesses-last-year-financial-disclosure-shows"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/white-house-picks-harvard-professor-with-polarizing-alien-theories-to-lead-new-ufo-council",
+        "source": "PBS NewsHour Politics",
+        "title": "White House picks Harvard professor with polarizing alien theories to lead new UFO council",
+        "publicationDate": "2026-06-30",
+        "category": "aliens",
+        "summary": "A polarizing Harvard astronomer known for splashy theories about alien visits has been tapped by the White House to lead a team of outside scientists to study the national security risks posed by UFOs.",
+        "url": "https://www.pbs.org/newshour/politics/white-house-picks-harvard-professor-with-polarizing-alien-theories-to-lead-new-ufo-council"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/examining-the-supreme-courts-birthright-citizenship-campaign-finance-rulings",
+        "source": "PBS NewsHour Politics",
+        "title": "Examining the Supreme Court's birthright citizenship, campaign finance rulings",
         "publicationDate": "2026-06-30",
         "category": "Economy",
-        "summary": "As part of a big revision of “Inflation”, a short book resulting from last year’s Brunner lecture, I wrote the following short section. I try to capture how central bankers talk about interest rates and inflation in a few simple equations. Previously, I discussed the venerable adaptive expectations model. There, expected inflation in the model is just last period’s inflation. That makes an interest rate peg...",
-        "url": "https://www.hoover.org/research/sluggish-expectations"
-    },
-    {
-        "id": "https://www.hoover.org/research/international-trade-uncertain-world",
-        "source": "Hoover Institution",
-        "title": "International Trade in an Uncertain World",
-        "publicationDate": "2026-06-30",
-        "category": "Foreign Policy",
-        "summary": "Economics Working Paper 26116",
-        "url": "https://www.hoover.org/research/international-trade-uncertain-world"
-    },
-    {
-        "id": "https://www.hoover.org/research/neuroscience-power-brain",
-        "source": "Hoover Institution",
-        "title": "Neuroscience: The Power of the Brain",
-        "publicationDate": "2026-06-30",
-        "category": "Technology",
-        "summary": "Engineers play a crucial role in probing the frontiers of consciousness and behavior.",
-        "url": "https://www.hoover.org/research/neuroscience-power-brain"
-    },
-    {
-        "id": "https://www.npr.org/2026/06/30/nx-s1-5876222/tom-kean-new-jersey-congress-depression",
-        "source": "NPR Politics",
-        "title": "Rep. Tom Kean returns to Congress, says depression is why he went missing for months",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "The New Jersey Republican was missing for months with no explanation for his constituents. He explained in a House floor speech that after his diagnosis, there was no timeline for recovery.",
-        "url": "https://www.npr.org/2026/06/30/nx-s1-5876222/tom-kean-new-jersey-congress-depression"
-    },
-    {
-        "id": "https://www.npr.org/2026/06/30/nx-s1-5827039/supreme-court-campaign-finance",
-        "source": "NPR Politics",
-        "title": "Supreme Court strikes down limits on political party spending",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "At issue in the case was a post-Watergate law that Congress passed to limit the amount of money individuals can give to political parties.",
-        "url": "https://www.npr.org/2026/06/30/nx-s1-5827039/supreme-court-campaign-finance"
-    },
-    {
-        "id": "https://www.npr.org/2026/06/30/nx-s1-5874871/rep-gregory-meeks-d-n-y-on-the-trump-administrations-iran-briefing",
-        "source": "NPR Politics",
-        "title": "Rep. Gregory Meeks, D-N.Y., on the Trump administration's Iran briefing",
-        "publicationDate": "2026-06-30",
-        "category": "Foreign Policy",
-        "summary": "NPR's Steve Inskeep speaks with Rep. Gregory Meeks of New York, the top Democrat on the House Foreign Affairs Committee, about the Trump administration's Iran briefing to lawmakers.",
-        "url": "https://www.npr.org/2026/06/30/nx-s1-5874871/rep-gregory-meeks-d-n-y-on-the-trump-administrations-iran-briefing"
-    },
-    {
-        "id": "https://www.npr.org/2026/06/30/g-s1-129870/colorado-primary-election-results-2026",
-        "source": "NPR Politics",
-        "title": "Here are Colorado's 2026 primary election results",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "Live election results: Get the latest on Colorado's U.S. Senate, U.S. House and gubernatorial primary races.",
-        "url": "https://www.npr.org/2026/06/30/g-s1-129870/colorado-primary-election-results-2026"
-    },
-    {
-        "id": "https://www.npr.org/2026/06/30/g-s1-129953/remaking-immigration-explainer-video",
-        "source": "NPR Politics",
-        "title": "Inside the coordinated strategy to radically reshape U.S. immigration",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "As the Supreme Court today weighs the Trump administration's effort to revoke birthright citizenship, NPR looks at what else the White House has done to curb illegal and legal migration.",
-        "url": "https://www.npr.org/2026/06/30/g-s1-129953/remaking-immigration-explainer-video"
+        "summary": "The Supreme Court wrapped up its term issuing major rulings in cases centered on some of the nation's biggest political fights. The most high-profile is a landmark ruling striking down President Trump's executive order seeking to end birthright citizenship. Geoff Bennett discussed more with Supreme Court analyst and SCOTUSblog co-founder Amy Howe.",
+        "url": "https://www.pbs.org/newshour/show/examining-the-supreme-courts-birthright-citizenship-campaign-finance-rulings"
     },
     {
         "id": "https://www.pbs.org/newshour/show/how-the-birthright-citizenship-decision-impacts-trumps-immigration-agenda",
         "source": "PBS NewsHour Politics",
         "title": "How the birthright citizenship decision impacts Trump's immigration agenda",
         "publicationDate": "2026-06-30",
-        "category": "Other",
+        "category": "birthright citizenship",
         "summary": "To discuss the Supreme Court's birthright citizenship ruling, Amna Nawaz spoke with Amanda Frost. She is a professor at the University of Virginia School of Law, and the author of \"You Are Not American: Citizenship Stripping from Dred Scott to the Dreamers.\"",
         "url": "https://www.pbs.org/newshour/show/how-the-birthright-citizenship-decision-impacts-trumps-immigration-agenda"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-announces-republican-midterm-convention-in-dallas-in-september",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump announces Republican midterm convention in Dallas in September",
-        "publicationDate": "2026-06-30",
-        "category": "dallas",
-        "summary": "President Donald Trump has announced that Republicans will hold their first-ever national convention ahead of the midterm elections, an unusual event aimed at boosting turnout in races that will decide whether the party maintains control of Congress.",
-        "url": "https://www.pbs.org/newshour/politics/trump-announces-republican-midterm-convention-in-dallas-in-september"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/who-is-affected-by-the-supreme-courts-ruling-on-trans-athletes-in-womens-sports",
-        "source": "PBS NewsHour Politics",
-        "title": "Who is affected by the Supreme Court's ruling on trans athletes in women's sports",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "To discuss the Supreme Court upholding state bans on transgender athletes competing in girls' and women's sports, Geoff Bennett spoke with Katie Barnes, who covers sports and gender as a senior writer for ESPN.",
-        "url": "https://www.pbs.org/newshour/show/who-is-affected-by-the-supreme-courts-ruling-on-trans-athletes-in-womens-sports"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/supreme-court-transforms-campaign-finance-rules-lifting-limits-on-party-spending",
-        "source": "PBS NewsHour Politics",
-        "title": "Supreme Court transforms campaign finance rules, lifting limits on party spending",
-        "publicationDate": "2026-06-30",
-        "category": "Economy",
-        "summary": "The Supreme Court's conservative majority transformed campaign finance laws, lifting limits on how much political parties can spend on advertising and other expenses in coordination with candidates. Geoff Bennett discussed the decision with Rick Gasen, a professor of law and political science at UCLA.",
-        "url": "https://www.pbs.org/newshour/show/supreme-court-transforms-campaign-finance-rules-lifting-limits-on-party-spending"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/trumps-response-to-the-landmark-supreme-court-rulings-and-whats-next",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump's response to the landmark Supreme Court rulings and what's next",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "To discuss how the Trump White House responded to Tuesday's rulings and the relationship between the president and the Supreme Court, Geoff Bennett spoke with White House correspondent Liz Landers and Supreme Court analyst and SCOTUSblog co-founder Amy Howe.",
-        "url": "https://www.pbs.org/newshour/show/trumps-response-to-the-landmark-supreme-court-rulings-and-whats-next"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/5948561-lara-trump-warns-socialist-democrats/",
-        "source": "The Hill",
-        "title": "Lara Trump: Not enough 'reasonable' Democrats like Fetterman to save party from socialist takeover",
-        "publicationDate": "2026-06-30",
-        "category": "Campaign",
-        "summary": "President Trump’s daughter-in-law, Lara Trump, said not enough “reasonable” Democrats like Sen. John Fetterman (D-Pa.) are there to save the Democratic Party from a takeover by socialists. “Look at what's happening. Look at these socialists winning primaries across America. That is very serious. So, I do think that there are a few, at least, reasonable...",
-        "url": "https://thehill.com/homenews/campaign/5948561-lara-trump-warns-socialist-democrats/"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/5948545-hhs-terminates-millions-teen-pregnancy-funding/",
-        "source": "The Hill",
-        "title": "Trump administration cancels millions of dollars in teen pregnancy prevention grants",
-        "publicationDate": "2026-06-30",
-        "category": "Healthcare",
-        "summary": "The Trump administration has terminated millions of dollars in teen pregnancy prevention grants that the Department of Health and Human Services said were no longer aligned with the agency’s priorities. HHS cut 53 grants worth about $67 million two years before they were set to expire. The cuts hit university, community, and public health grantees...",
-        "url": "https://thehill.com/policy/healthcare/5948545-hhs-terminates-millions-teen-pregnancy-funding/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/defense-national-security/5948508-house-rejects-tlaib-lebanon-resolution/",
-        "source": "The Hill",
-        "title": "House sinks Tlaib's Lebanon war powers resolution",
-        "publicationDate": "2026-06-30",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story House sinks Tlaib's Lebanon war powers resolution The House sunk Rep. Rashida Tlaib's (D-Mich.) war powers resolution on Tuesday to direct President Trump to remove U.S. troops from hostilities in Lebanon. © AP Photo/Mariam Zuhaib The...",
-        "url": "https://thehill.com/newsletters/defense-national-security/5948508-house-rejects-tlaib-lebanon-resolution/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/5948533-ukrainians-disapprove-us-leadership/",
-        "source": "The Hill",
-        "title": "Just 7 percent of Ukrainians approve of US leadership: Gallup",
-        "publicationDate": "2026-06-30",
-        "category": "Foreign Policy",
-        "summary": "A mere 7 percent of Ukrainian respondents to a recent survey approve of U.S. leadership, as the Russian invasion of its eastern European neighbor approaches four-and-a-half years. The survey, which Gallup conducted in April and released on Tuesday, found Ukrainians’ approval of American leadership fell 9 percentage points from 2025 to 2026. Nearly 8 in...",
-        "url": "https://thehill.com/policy/international/5948533-ukrainians-disapprove-us-leadership/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/5948497-ai-deepfakes-scams-report/",
-        "source": "The Hill",
-        "title": "AI, deepfakes used in 12 percent of successful scams: Survey",
-        "publicationDate": "2026-06-30",
-        "category": "Defense",
-        "summary": "A new report released on Tuesday found that 12 percent of successful scams last year involved artificial intelligence or deepfakes. The analysis, which was conducted jointly by Gallup and the Stop Scams Alliance, acknowledged that this reported number could be lower than the reality, as the use of AI or deepfakes can be difficult to...",
-        "url": "https://thehill.com/policy/technology/5948497-ai-deepfakes-scams-report/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html",
-        "source": "New York Times Politics",
-        "title": "Talarico Seizes on Paxton Tabloid Story to Test Corruption Attacks in Texas Senate Race",
-        "publicationDate": "2026-06-30",
-        "category": "Paxton",
-        "summary": "After a salacious report about Ken Paxton, the Republican nominee for Senate in Texas, his Democratic rival, James Talarico, seized on the news — but focused on corruption and affordability.",
-        "url": "https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/06/30/us/politics/trump-republican-midterm-convention-dallas-texas.html",
-        "source": "New York Times Politics",
-        "title": "Trump Announces Republican Midterm Convention in Dallas, Texas",
-        "publicationDate": "2026-06-30",
-        "category": "Republican Party",
-        "summary": "Parties normally hold conventions only in presidential years, but President Trump liked the idea of mobilizing Republicans this fall.",
-        "url": "https://www.nytimes.com/2026/06/30/us/politics/trump-republican-midterm-convention-dallas-texas.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-takeaways-term.html",
-        "source": "New York Times Politics",
-        "title": "Takeaways From a Transformative Supreme Court Term",
-        "publicationDate": "2026-06-30",
-        "category": "Decisions and Verdicts",
-        "summary": "The justices rejected some of President Trump’s signature initiatives, but delivered lasting, long-sought conservative wins.",
-        "url": "https://www.nytimes.com/2026/06/30/us/politics/supreme-court-takeaways-term.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/06/30/us/politics/collins-platner-maine-senate-poll-worries.html",
-        "source": "New York Times Politics",
-        "title": "4 Warning Signs for Graham Platner. And 4 for Susan Collins Too.",
-        "publicationDate": "2026-06-30",
-        "category": "Collins",
-        "summary": "The Maine race, which both parties see as key to winning control of the Senate, is extremely close, a Times/Portland Press Herald/Siena poll found. Both candidates have reasons for concern.",
-        "url": "https://www.nytimes.com/2026/06/30/us/politics/collins-platner-maine-senate-poll-worries.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/06/30/us/politics/cia-reorganization-cyber-ai.html",
-        "source": "New York Times Politics",
-        "title": "C.I.A. Reorganization Prioritizes Cyberoperations",
-        "publicationDate": "2026-06-30",
-        "category": "Defense",
-        "summary": "John Ratcliffe, the C.I.A. director, said that the agency would take “smart risks,” but that people would have oversight of artificial intelligence.",
-        "url": "https://www.nytimes.com/2026/06/30/us/politics/cia-reorganization-cyber-ai.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/06/30/trump-says-congress-should-act-end-birthright-citizenship/",
@@ -351,112 +477,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/06/30/supreme-court-sides-with-gop-loosens-campaign-spending-rules/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/06/30/birthright-citizenship-upheld-by-supreme-court-ruling-against-trump-order/",
-        "source": "Washington Post Politics",
-        "title": "Supreme Court upholds principle that almost all born on U.S. soil are American",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "The ruling striking down President Donald Trump's executive order on birthright citizenship reaffirmed that the 14th Amendment automatically confers citizenship on any child born in the U.S.",
-        "url": "https://www.washingtonpost.com/politics/2026/06/30/birthright-citizenship-upheld-by-supreme-court-ruling-against-trump-order/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/06/30/supreme-court-upholds-bans-transgender-women-female-athletics/",
-        "source": "Washington Post Politics",
-        "title": "Supreme Court upholds bans on transgender women in female athletics",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "The ruling is the latest blow to the LGBTQ+ community, which has faced repeated losses at the Supreme Court in recent years.",
-        "url": "https://www.washingtonpost.com/politics/2026/06/30/supreme-court-upholds-bans-transgender-women-female-athletics/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-        "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-        "publicationDate": "2026-06-30",
-        "category": "Healthcare",
-        "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
-        "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Roof collapse kills 14 children at Pakistan tuition centre",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore.",
-        "url": "https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
-        "url": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/0f0166ed-ab22-417a-9aae-7dd264256ad6",
-        "source": "Financial Times World",
-        "title": "Nike earnings helped by tariff refund but sales decline in China",
+        "title": "A plane crashed into a tower in Beijing but China is not saying what happened",
         "publicationDate": "2026-06-30",
         "category": "Foreign Policy",
-        "summary": "Sportswear manufacturer reported $11bn in revenue in its most recent quarter, the lowest since February 2022",
-        "url": "https://www.ft.com/content/0f0166ed-ab22-417a-9aae-7dd264256ad6"
-    },
-    {
-        "id": "https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec",
-        "source": "Financial Times World",
-        "title": "Trump made more than $500mn from sale of family’s crypto tokens last year",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume while in office",
-        "url": "https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec"
-    },
-    {
-        "id": "https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d",
-        "source": "Financial Times World",
-        "title": "Apple’s Cook holds ‘constructive’ talks with EU tech chief over ‘Siri AI’",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "Discussions come as tech group seeks to avoid fines as it and the bloc have been deadlocked over launch of AI assistant",
-        "url": "https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d"
-    },
-    {
-        "id": "https://www.ft.com/content/2ea39c2c-7b8e-4ce5-8d98-1c8c1050105c",
-        "source": "Financial Times World",
-        "title": "Alcoa strikes $4.8bn deal for South32’s alumina and bauxite assets",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "US aluminium group expands as disruptions in Middle East push up grey metal prices",
-        "url": "https://www.ft.com/content/2ea39c2c-7b8e-4ce5-8d98-1c8c1050105c"
-    },
-    {
-        "id": "https://www.ft.com/content/3d892d31-e4ee-43b8-87dc-64ee3575d046",
-        "source": "Financial Times World",
-        "title": "FirstFT: ‘Unprecedented’ plane crash raises questions about Beijing’s security",
-        "publicationDate": "2026-06-30",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: an interview with Nato chief Mark Rutte, and US Supreme Court rejects Trump’s bid to end birthright citizenship",
-        "url": "https://www.ft.com/content/3d892d31-e4ee-43b8-87dc-64ee3575d046"
+        "summary": "The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.",
+        "url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4386-2.html",
@@ -502,15 +529,6 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/06/29/supreme-court-expands-trumps-power-over-federal-bureaucracy/",
-        "source": "Washington Post Politics",
-        "title": "Supreme Court expands Trump’s power over the federal bureaucracy",
-        "publicationDate": "2026-06-29",
-        "category": "Other",
-        "summary": "The justices allowed the president to fire a Democratic member of the Federal Trade Commission, striking down a nearly century-old precedent intended to insulate independent agencies from political influence by the executive.",
-        "url": "https://www.washingtonpost.com/politics/2026/06/29/supreme-court-expands-trumps-power-over-federal-bureaucracy/"
     },
     {
         "id": "https://www.heritage.org/conservatism/commentary/against-caesars-cost-glory",
@@ -585,15 +603,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3892-2.html"
     },
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4698-1.html",
-        "source": "RAND Corporation",
-        "title": "Understanding How Impact Fees Shape Housing Development Feasibility and Local Fiscal Revenue",
-        "publicationDate": "2026-06-24",
-        "category": "Economy",
-        "summary": "High impact fees contribute meaningfully to housing production costs in California. A 25-percent reduction enables hundreds of new projects in high-cost cities; increased property and sales tax revenue offsets forgone fees in four to seven years.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4698-1.html"
-    },
-    {
         "id": "https://ecfr.eu/article/beyond-brexit-and-back-to-europe/",
         "source": "European Council on Foreign Relations",
         "title": "Beyond Brexit—and back to Europe",
@@ -657,21 +666,12 @@
         "url": "https://www.cer.eu/media/monocle-daily-one-year-friedrich-merz"
     },
     {
-        "id": "IN12684",
+        "id": "IF12171",
         "source": "Congressional Research Service",
-        "title": "Changes to CDC Vaccine Recommendations in 2025 and 2026",
-        "publicationDate": "2026-04-28",
-        "category": "Healthcare",
-        "summary": "Since U.S. Department of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. (hereinafter, HHS Secretary) was sworn in on February 13, 2025, HHS has changed several long-standing federal vaccine recommendations. In addition, HHS has issued recommendations for vaccines newly licensed (i.e., approved) by the Food and Drug Administration. This CRS Insight summarizes vaccine recommendation changes to date...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12684/IN12684.5.pdf"
-    },
-    {
-        "id": "R48784",
-        "source": "Congressional Research Service",
-        "title": "Types of Federal Procurement Contracts",
-        "publicationDate": "2026-01-06",
+        "title": "Benefit Reductions to Participants in Delphi Pension Plans",
+        "publicationDate": "2026-02-05",
         "category": "Economy",
-        "summary": "Federal agencies use procurement contracts to purchase goods and services from the private market to carry out their missions. A key element of federal procurement is the selection of a contract type by a contracting officer. Contracting officers have a variety of contract types available to provide the flexibility needed to support agency missions. Contract types vary in the proportion of cost risk assumed by the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48784/R48784.4.pdf"
+        "summary": "Introduction Delphi Technologies is a parts and components supplier to automakers that was spun off from General Motors (GM) in 1999. In May 2009, Delphi’s pension plans were terminated, and responsibility for the payment of plan participants’ benefits was turned over to the Pension Benefit Guaranty Corporation (PBGC), a government-run corporation that insures benefits for workers in private sector defined benefit...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12171/IF12171.8.pdf"
     }
 ]
