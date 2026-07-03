@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.cfr.org/articles/the-supreme-court-mail-in-voting-campaign-spending-and-the-2026-midterm-elections",
+        "source": "Council on Foreign Relations",
+        "title": "The Supreme Court, Mail-in Voting, Campaign Spending, and the 2026 Midterm Elections",
+        "publicationDate": "2026-07-03",
+        "category": "Article",
+        "summary": "The Supreme Court’s decision this week on mail-in ballots got the most attention, but its decision on campaign spending may have a bigger impact on the fight for control of Congress.",
+        "url": "https://www.cfr.org/articles/the-supreme-court-mail-in-voting-campaign-spending-and-the-2026-midterm-elections"
+    },
+    {
         "id": "https://www.cfr.org/articles/a-year-later-trumps-big-beautiful-bill-act-has-a-clean-tech-silver-lining",
         "source": "Council on Foreign Relations",
         "title": "A Year Later, Trump’s Big Beautiful Bill Act Has a Clean Tech Silver Lining",
@@ -7,6 +16,33 @@
         "category": "Economy",
         "summary": "Trump’s One Big Beautiful Bill Act gutted the wind and solar credits at the heart of Biden’s Inflation Reduction Act. But a year on, the law’s preserved incentives for geothermal, advanced nuclear, and grid-scale storage may do more to cut global emissions than the credits it eliminated.",
         "url": "https://www.cfr.org/articles/a-year-later-trumps-big-beautiful-bill-act-has-a-clean-tech-silver-lining"
+    },
+    {
+        "id": "https://ecfr.eu/article/behind-the-curve-britains-defence-investment-plan-in-trumps-world/",
+        "source": "European Council on Foreign Relations",
+        "title": "Behind the curve: Britain’s defence investment plan in Trump’s world",
+        "publicationDate": "2026-07-03",
+        "category": "European Security",
+        "summary": "The new defence investment plan is weighed down by the habits of Britain’s defence establishment. By contrast, the British public appear readier to accept change.",
+        "url": "https://ecfr.eu/article/behind-the-curve-britains-defence-investment-plan-in-trumps-world/"
+    },
+    {
+        "id": "https://ecfr.eu/article/regional-roots-global-decisions-andy-burnhams-foreign-policy-challenge/",
+        "source": "European Council on Foreign Relations",
+        "title": "Regional roots, global decisions: Andy Burnham’s foreign policy challenge",
+        "publicationDate": "2026-07-03",
+        "category": "Foreign Policy",
+        "summary": "Andy Burnham, Britain’s likely next prime minister, is clear-eyed about his domestic political priorities. But, with the world order in flux, all eyes are on his foreign policy approach",
+        "url": "https://ecfr.eu/article/regional-roots-global-decisions-andy-burnhams-foreign-policy-challenge/"
+    },
+    {
+        "id": "https://ecfr.eu/publication/the-future-is-fermented-how-europe-can-succeed-in-the-next-industrial-race/",
+        "source": "European Council on Foreign Relations",
+        "title": "The future is fermented: How Europe can succeed in the next industrial race",
+        "publicationDate": "2026-07-03",
+        "category": "Foreign Policy",
+        "summary": "The next industrial revolution will be built with microbes as much as machines. China understands this. Europe still has the science to compete but must act quickly before industrial leadership slips away again",
+        "url": "https://ecfr.eu/publication/the-future-is-fermented-how-europe-can-succeed-in-the-next-industrial-race/"
     },
     {
         "id": "https://ecfr.eu/podcasts/episode/the-china-challenge/",
@@ -36,49 +72,76 @@
         "url": "https://www.npr.org/2026/07/03/nx-s1-5879393/could-infighting-derail-democrats-hopes-to-win-back-house"
     },
     {
-        "id": "https://www.npr.org/2026/07/03/nx-s1-5879082/hakeem-jeffries-on-democratic-partys-midterm-future",
+        "id": "https://www.npr.org/2026/07/03/nx-s1-5879082/hakeem-jeffries-democratic-party-divisions-trump-midterms",
         "source": "NPR Politics",
-        "title": "Hakeem Jeffries on Democratic Party's midterm future",
+        "title": "Hakeem Jeffries addresses Democratic Party divisions, says Trump is the bigger issue",
         "publicationDate": "2026-07-03",
         "category": "Other",
         "summary": "On the eve of America's 250th birthday, NPR's Michel Martin asks House Minority Leader Hakeem Jeffries of New York about the Democratic Party's midterm future.",
-        "url": "https://www.npr.org/2026/07/03/nx-s1-5879082/hakeem-jeffries-on-democratic-partys-midterm-future"
+        "url": "https://www.npr.org/2026/07/03/nx-s1-5879082/hakeem-jeffries-democratic-party-divisions-trump-midterms"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/5952491-weiser-kiros-antisemitism-debate/",
-        "source": "The Hill",
-        "title": "Dem CO gov nominee calls out DSA candidate for antisemitism comment",
+        "id": "https://www.pbs.org/newshour/nation/trump-heads-to-mount-rushmore-as-america-250-celebrations-ramp-up-amid-extreme-heat",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump heads to Mount Rushmore as America 250 celebrations ramp up amid extreme heat",
         "publicationDate": "2026-07-03",
-        "category": "State Watch",
-        "summary": "Colorado Attorney General Phil Weiser (D), who defeated Sen. Michael Bennett (D) in Colorado’s Democratic gubernatorial primary, said he would confront congressional candidate Melat Kiros (D) for refusing to condemn the deadly 2025 firebomb attack on Jewish activists in Boulder as antisemitic. Kiros, a democratic socialist and former attorney, scored an upset against incumbent Rep. Diana DeGette...",
-        "url": "https://thehill.com/homenews/state-watch/5952491-weiser-kiros-antisemitism-debate/"
+        "category": "4th of july",
+        "summary": "Officials have warned those celebrating the holiday to stay hydrated and take air-conditioned breaks as needed.",
+        "url": "https://www.pbs.org/newshour/nation/trump-heads-to-mount-rushmore-as-america-250-celebrations-ramp-up-amid-extreme-heat"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5952473-jack-smith-warns-rule-law/",
+        "id": "https://thehill.com/homenews/administration/5952199-trump-financial-disclosures-criticism/",
         "source": "The Hill",
-        "title": "Jack Smith says DOJ ‘can't do its job’ because of judges’ distrust of prosecutors",
+        "title": "Democrats seize on Trump earnings to go after GOP on affordability",
         "publicationDate": "2026-07-03",
         "category": "Administration",
-        "summary": "Former special counsel Jack Smith warned that the U.S. is facing an “attack on the rule of law” under President Trump, saying he is “very concerned” about the integrity of future elections and accusing the administration of weaponizing the Justice Department. Smith, the special counsel who brought charges against Trump following his first term, argued that...",
-        "url": "https://thehill.com/homenews/administration/5952473-jack-smith-warns-rule-law/"
+        "summary": "President Trump raked in billions of dollars while in office over the past year, setting up a split screen ahead of the midterm elections as Americans confront rising prices and a lackluster jobs environment. Financial disclosures released Tuesday show the president made more than $2 billion in 2025, including $1.2 billion in cryptocurrency related income. It’s giving new ammunition to Democrats who want to...",
+        "url": "https://thehill.com/homenews/administration/5952199-trump-financial-disclosures-criticism/"
     },
     {
-        "id": "https://thehill.com/homenews/5952439-extreme-heat-advisory-delays-national-mall-july-4-event-organizers-say/",
+        "id": "https://thehill.com/opinion/congress-blog/politics/5951119-preserving-democratic-republic-responsibility/",
         "source": "The Hill",
-        "title": "Extreme heat advisory delays National Mall July 4 event, organizers say",
+        "title": "How to keep the American republic another 250 years and beyond",
         "publicationDate": "2026-07-03",
-        "category": "News",
-        "summary": "Entry to the National Mall for a record-breaking fireworks show celebrating July 4 has been delayed as Washington, D.C. braces for extreme heat, Freedom 250 organizers said Thursday. President Trump insisted he would still deliver a lengthy speech at Saturday’s “Salute to America 250 Celebration & Fireworks” event, despite forecasts that temperatures will climb to 107 degrees....",
-        "url": "https://thehill.com/homenews/5952439-extreme-heat-advisory-delays-national-mall-july-4-event-organizers-say/"
+        "category": "Congress Blog - Politics",
+        "summary": "Franklin understood that keeping America a democratic republic was a far harder task than establishing it.",
+        "url": "https://thehill.com/opinion/congress-blog/politics/5951119-preserving-democratic-republic-responsibility/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/5952379-princess-cruises-norovirus-outbreak/",
+        "id": "https://thehill.com/homenews/state-watch/5952794-nyc-zohran-mamdani-patriotism-righteous-dissent/",
         "source": "The Hill",
-        "title": "Cruise ship docked in San Francisco hit by norovirus outbreak",
+        "title": "Mamdani addresses America's 250th: 'Patriotism is every act of righteous dissent'",
         "publicationDate": "2026-07-03",
-        "category": "Healthcare",
-        "summary": "A Princess Cruises cruise ship docked in San Francisco has seen an outbreak of norovirus, according to the U.S. Centers for Disease Control and Prevention. The CDC said that 102 out of the over 3,000 passengers onboard the Ruby Princess have been affected, along with 23 crewmembers.",
-        "url": "https://thehill.com/policy/healthcare/5952379-princess-cruises-norovirus-outbreak/"
+        "category": "State Watch",
+        "summary": "New York City Mayor Zohran Mamdani (D) called on Americans to confront the nation’s flaws rather than ignore them on the eve of the 250th anniversary of U.S. independence, framing “righteous dissent” as core to the country’s founding ideals. “This will be no ordinary day of celebration,” he said. “Two hundred fifty years presents a...",
+        "url": "https://thehill.com/homenews/state-watch/5952794-nyc-zohran-mamdani-patriotism-righteous-dissent/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/5952738-ayatollah-khamenei-funeral-tehran-dignitaries/",
+        "source": "The Hill",
+        "title": "Iran welcomes foreign leaders for Ayatollah Khameinei's state funeral",
+        "publicationDate": "2026-07-03",
+        "category": "Foreign Policy",
+        "summary": "A stream of foreign dignitaries, officials and mourners gathered in Tehran on Friday to pay their respects to Supreme Leader Ayatollah Ali Khamenei, who was killed by U.S.-Israeli airstrikes on Feb. 28 that triggered the war. Pakistani Prime Minister Muhammad Shehbaz Sharif, a key mediator in the U.S.-Iran talks to end the war, joined mourners...",
+        "url": "https://thehill.com/policy/international/5952738-ayatollah-khamenei-funeral-tehran-dignitaries/"
+    },
+    {
+        "id": "https://thehill.com/opinion/technology/5949750-air-travel-delays-disruptions/",
+        "source": "The Hill",
+        "title": "Connecting flight? Good luck.",
+        "publicationDate": "2026-07-03",
+        "category": "Technology",
+        "summary": "For passengers without connections, late arriving flights are a nuisance and inconvenience. For passengers with connections, late arriving flights may be highly disruptive. Transparency is needed.",
+        "url": "https://thehill.com/opinion/technology/5949750-air-travel-delays-disruptions/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/03/nyregion/trump-constantino-smullen-stefanik.html",
+        "source": "New York Times Politics",
+        "title": "Trump Intercedes to Push Robert Smullen Out of N.Y. House Race",
+        "publicationDate": "2026-07-03",
+        "category": "Constantino",
+        "summary": "Assemblyman Robert Smullen, who lost a Republican primary, will not run on the Conservative Party line in his bid to replace Representative Elise Stefanik.",
+        "url": "https://www.nytimes.com/2026/07/03/nyregion/trump-constantino-smullen-stefanik.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html",
@@ -117,40 +180,58 @@
         "url": "https://www.nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Venezuela quake survivor pulled out alive after eight days",
+        "id": "https://www.washingtonpost.com/politics/2026/07/03/trump-headlines-america250-democrats-offer-their-vision-patriotism/",
+        "source": "Washington Post Politics",
+        "title": "As Trump commands 250th stage, Democrats offer their vision of patriotism",
         "publicationDate": "2026-07-03",
         "category": "Other",
-        "summary": "Hernán Gil was trapped under a collapsed multi-storey car park.",
-        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss"
+        "summary": "Partisanship around the country’s big anniversary has put Democrats in a bind: They want to criticize the president without appearing unpatriotic.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/03/trump-headlines-america250-democrats-offer-their-vision-patriotism/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+        "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
         "publicationDate": "2026-07-03",
         "category": "Other",
-        "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss"
+        "summary": "Officials believe the suspect may not have acted alone and spent days casing out scene of the attack.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+        "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
         "publicationDate": "2026-07-03",
         "category": "Other",
-        "summary": "Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.",
-        "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss"
+        "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+        "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "'Most massive' Russian attack on Kyiv kills at least 30",
+        "title": "German row over plan for workers to need sick note on first day of illness",
+        "publicationDate": "2026-07-03",
+        "category": "Other",
+        "summary": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Nasa launches mission to save falling space telescope",
+        "publicationDate": "2026-07-03",
+        "category": "Other",
+        "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+        "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Iran begins public mourning for Ayatollah killed in February",
         "publicationDate": "2026-07-03",
         "category": "Foreign Policy",
-        "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+        "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/9ea6f458-ce0c-458e-8300-201030cf846e",
@@ -162,40 +243,40 @@
         "url": "https://www.ft.com/content/9ea6f458-ce0c-458e-8300-201030cf846e"
     },
     {
-        "id": "https://www.ft.com/content/c0563746-2614-4753-af74-efb9ea10d7d8",
+        "id": "https://www.ft.com/content/25ede586-fee0-415c-b13a-60b0bf4d61a0",
         "source": "Financial Times World",
-        "title": "Taking the measure of the UK as a financial service centre",
-        "publicationDate": "2026-07-03",
-        "category": "Foreign Policy",
-        "summary": "Turning a data-fuelled quantitative international ranking project into a thing about London",
-        "url": "https://www.ft.com/content/c0563746-2614-4753-af74-efb9ea10d7d8"
-    },
-    {
-        "id": "https://www.ft.com/content/36f8faf4-c12a-416f-9764-32601158257f",
-        "source": "Financial Times World",
-        "title": "Hamish Powell gives a botanist’s guide to London",
+        "title": "Trump doubles down on support for Venezuela’s Delcy Rodríguez",
         "publicationDate": "2026-07-03",
         "category": "Other",
-        "summary": "Camellias in Chiswick, topiary in Islington, orchids in Kew: what to see where",
-        "url": "https://www.ft.com/content/36f8faf4-c12a-416f-9764-32601158257f"
+        "summary": "Washington is tying itself closely to a government that faces public anger over its response to devastating earthquakes",
+        "url": "https://www.ft.com/content/25ede586-fee0-415c-b13a-60b0bf4d61a0"
     },
     {
-        "id": "https://www.ft.com/content/70693727-c30d-446e-a0a0-7675f3dfe8e6",
+        "id": "https://www.ft.com/content/f036ed94-76f3-48e3-9963-82ef7eabe9db",
         "source": "Financial Times World",
-        "title": "Burnham’s council homes plan poses thorny delivery question",
+        "title": "Forecasting recessions? GLWT",
         "publicationDate": "2026-07-03",
         "category": "Other",
-        "summary": "Rebuilding needed but proposals still lack detail on local control and funding within Labour’s fiscal constraints",
-        "url": "https://www.ft.com/content/70693727-c30d-446e-a0a0-7675f3dfe8e6"
+        "summary": "Alphaville 🤜 🤛 The Economics Show",
+        "url": "https://www.ft.com/content/f036ed94-76f3-48e3-9963-82ef7eabe9db"
     },
     {
-        "id": "https://www.ft.com/content/6ac24ea6-50c2-4e25-92b7-79d52edc0b8b",
+        "id": "https://www.ft.com/content/4eed932c-8b79-4ffd-841b-28673d306cfa",
         "source": "Financial Times World",
-        "title": "China steps up claims over sea east of Taiwan",
+        "title": "Failings on defence leave Britain cruelly exposed",
         "publicationDate": "2026-07-03",
-        "category": "Foreign Policy",
-        "summary": "Beijing argues Japan-Philippines maritime border talks violate international law",
-        "url": "https://www.ft.com/content/6ac24ea6-50c2-4e25-92b7-79d52edc0b8b"
+        "category": "Other",
+        "summary": "A desperate urge to save money has led the UK to ignore the dangerous new realities",
+        "url": "https://www.ft.com/content/4eed932c-8b79-4ffd-841b-28673d306cfa"
+    },
+    {
+        "id": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed",
+        "source": "Financial Times World",
+        "title": "Trump will oppose heavy US AI regulation, says outgoing tech adviser",
+        "publicationDate": "2026-07-03",
+        "category": "Other",
+        "summary": "Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows",
+        "url": "https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed"
     },
     {
         "id": "R48860",
@@ -414,42 +495,6 @@
         "url": "https://www.pbs.org/newshour/world/europes-leaders-close-ranks-as-they-face-barbs-and-pressure-from-trump"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-u-s-attorney-jeanine-pirro-announces-felony-charge-related-to-reflecting-pool",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: U.S. Attorney Jeanine Pirro announces felony charge related to Reflecting Pool",
-        "publicationDate": "2026-07-02",
-        "category": "Jeanine Pirro",
-        "summary": "A former Olympian was indicted Thursday on a felony charge in what President Donald Trump has called vandalism of the Reflecting Pool.",
-        "url": "https://www.pbs.org/newshour/politics/watch-u-s-attorney-jeanine-pirro-announces-felony-charge-related-to-reflecting-pool"
-    },
-    {
-        "id": "https://thehill.com/policy/sports-gaming/5952374-rubio-usmnt-red-card-controversy/",
-        "source": "The Hill",
-        "title": "Rubio says USMNT 'got screwed' by red card",
-        "publicationDate": "2026-07-02",
-        "category": "Sports & Gaming",
-        "summary": "Secretary of State Marco Rubio said Thursday that the U.S. men’s national soccer team (USMNT) “got screwed” at the FIFA World Cup when a red card was given to striker Folarin Balogun. “It was great,” Rubio said when asked about the U.S. soccer team's win the night before. “They got screwed with that red card. There...",
-        "url": "https://thehill.com/policy/sports-gaming/5952374-rubio-usmnt-red-card-controversy/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/02/us/politics/trump-earnings-maga-reaction.html",
-        "source": "New York Times Politics",
-        "title": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains",
-        "publicationDate": "2026-07-02",
-        "category": "Trump",
-        "summary": "A new mandatory disclosure revealed that the president has earned $2.2 billion during the first year back in the White House.",
-        "url": "https://www.nytimes.com/2026/07/02/us/politics/trump-earnings-maga-reaction.html"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-        "publicationDate": "2026-07-02",
-        "category": "Foreign Policy",
-        "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
-        "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5082-1.html",
         "source": "RAND Corporation",
         "title": "Insights from table-top exercises in Europe on AI safety and cyber misuse",
@@ -457,15 +502,6 @@
         "category": "Technology",
         "summary": "This report presents findings from table-top exercises with senior policymakers in Germany, the Netherlands, and France, identifying governance gaps and capability priorities for responding to AI-enabled cyberattack crises.",
         "url": "https://www.rand.org/pubs/research_reports/RRA5082-1.html"
-    },
-    {
-        "id": "https://www.cfr.org/articles/global-inflation-tracker",
-        "source": "Council on Foreign Relations",
-        "title": "Global Inflation Tracker",
-        "publicationDate": "2026-07-01",
-        "category": "Economy",
-        "summary": "The CFR Global Inflation Tracker allows you to gauge trends in prices across the world over time. Inflation Data by Country The map below aids in gauging inflation trends in almost two hundred countries around the world—mainly those that report data to the International Monetary Fund (IMF). The inflation rate is defined as the rate of […]",
-        "url": "https://www.cfr.org/articles/global-inflation-tracker"
     },
     {
         "id": "https://www.heritage.org/global-politics/report/leadership-change-the-solomon-islands-implications-and-recommendations-the",
@@ -484,33 +520,6 @@
         "category": "Economy",
         "summary": "Matthew Spalding, the Kirby Professor in Constitutional Government and Dean of the Van Andel Graduate School of Government at Hillsdale College, welcomes the Semiquincentennial bearing not a narrative history of 1776 so much as an extended meditation on a single paragraph-by-paragraph performance: a reading-in-real-time of the document that, in his telling, gave America its mind before it gave it a country. “ The...",
         "url": "https://www.heritage.org/american-history/commentary/jeffersons-mind-spaldings-commentary"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/is-europes-support-for-ukraine-changing-as-the-war-goes-on/",
-        "source": "European Council on Foreign Relations",
-        "title": "Is Europe’s support for Ukraine changing as the war goes on?",
-        "publicationDate": "2026-07-01",
-        "category": "Defense",
-        "summary": "As Russia’s war against Ukraine continues, European governments are facing difficult questions about military support, diplomacy and the long-term security of the continent. How should Europe balance continued assistance to Ukraine with preparations for future negotiations? In the final episode of Making Defence European Again, Celia Bélin, policy fellow and head of ECFR’s Paris office, […]",
-        "url": "https://ecfr.eu/podcasts/episode/is-europes-support-for-ukraine-changing-as-the-war-goes-on/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/why-europeans-are-readier-than-you-think-to-defend-themselves/",
-        "source": "European Council on Foreign Relations",
-        "title": "Why Europeans are readier than you think to defend themselves",
-        "publicationDate": "2026-07-01",
-        "category": "European Security",
-        "summary": "Public support for stronger European defence is at its highest level in years. But can European leaders translate this momentum into lasting policy change? In the third episode of Making Defence European Again series, Celia Bélin, policy fellow and head of ECFR’s Paris office, Jana Kobzová, senior policy fellow and co-director of ECFR’s European Security […]",
-        "url": "https://ecfr.eu/podcasts/episode/why-europeans-are-readier-than-you-think-to-defend-themselves/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/the-crucial-role-of-article-5-can-nato-hold-without-us-leadership/",
-        "source": "European Council on Foreign Relations",
-        "title": "The crucial role of Article 5: Can NATO hold without US leadership?",
-        "publicationDate": "2026-07-01",
-        "category": "European Security",
-        "summary": "Europe’s security architecture is undergoing profound change. As the US reassesses its global priorities and questions grow over the future of transatlantic security, European governments face mounting pressure to strengthen their defence capabilities and rethink longstanding assumptions about NATO. In the second episode of Making Defence European Again, Celia Bélin, policy fellow and head of […]",
-        "url": "https://ecfr.eu/podcasts/episode/the-crucial-role-of-article-5-can-nato-hold-without-us-leadership/"
     },
     {
         "id": "IF12115",
