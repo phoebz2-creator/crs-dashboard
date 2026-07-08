@@ -1,5 +1,59 @@
 [
     {
+        "id": "IN12701",
+        "source": "Congressional Research Service",
+        "title": "The Production Tax Credit: Calculation, 2026 Values, and Phaseout Timeline",
+        "publicationDate": "2026-07-08",
+        "category": "Economy",
+        "summary": "In June 2026, the Internal Revenue Service (IRS) published a notice specifying the 2026 values for the Production Tax Credit (PTC). The PTC is a tax credit available for wind, solar, and certain other forms of renewable electricity production. Measured in terms of budgetary impact, the PTC has historically been one of the two largest clean energy tax credits; the other is the Investment Tax Credit (ITC), which is...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12701/IN12701.4.pdf"
+    },
+    {
+        "id": "IF13265",
+        "source": "Congressional Research Service",
+        "title": "The General Services Administration’s Lease Acquisition Process",
+        "publicationDate": "2026-07-08",
+        "category": "Economy",
+        "summary": "The General Services Administration (GSA) is often referred to as the federal government’s landlord. By law, GSA handles the acquisition of space on behalf of all federal agencies unless they have independent statutory authority to do so themselves or a delegation of authority from GSA. In addition, an agency that has its own authority to acquire space may still ask GSA to do so on its behalf. According to the most...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13265/IF13265.1.pdf"
+    },
+    {
+        "id": "IF13264",
+        "source": "Congressional Research Service",
+        "title": "The U.S. Army and the Golden Dome Program",
+        "publicationDate": "2026-07-08",
+        "category": "Defense",
+        "summary": "What Is Golden Dome? The Golden Dome for America (Golden Dome)—initially known as the Iron Dome for America—refers to an integrated homeland air and missile defense system being developed by the Department of Defense (DOD), which is “using a secondary Department of War designation” under Executive Order (E.O.) 14347, dated September 5, 2025. President Donald J. Trump introduced the program in E.O. 14186 of January...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13264/IF13264.1.pdf"
+    },
+    {
+        "id": "https://www.cfr.org/articles/strait-of-hormuz-traffic-faced-a-long-road-to-recovery-now-the-iran-deal-is-unraveling",
+        "source": "Council on Foreign Relations",
+        "title": "Reopened, Not Restored: The Roadblocks to Normal Traffic Through the Strait of Hormuz",
+        "publicationDate": "2026-07-08",
+        "category": "Foreign Policy",
+        "summary": "The U.S.-Iran ceasefire is on the verge of collapse, and with it any prospect of restoring normal traffic through the Strait of Hormuz. Even if the agreement holds, transit fees, sea mines, billions in infrastructure damage, and deep regional mistrust pose significant obstacles to a genuine recovery.",
+        "url": "https://www.cfr.org/articles/strait-of-hormuz-traffic-faced-a-long-road-to-recovery-now-the-iran-deal-is-unraveling"
+    },
+    {
+        "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-stephen-sestanovich",
+        "source": "Council on Foreign Relations",
+        "title": "How I Got My Career in Foreign Policy: Stephen Sestanovich",
+        "publicationDate": "2026-07-08",
+        "category": "Foreign Policy",
+        "summary": "Stephen Sestanovich has spent decades studying U.S.-Russia relations and served as U.S. ambassador-at-large for the Soviet Union in the Clinton administration. He sat down with CFR to discuss witnessing Putin’s rise and the benefits of balancing government, think tank, and university roles.",
+        "url": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-stephen-sestanovich"
+    },
+    {
+        "id": "https://www.hoover.org/research/focused-deterrence-strategy-reducing-homicides-american-cities",
+        "source": "Hoover Institution",
+        "title": "Focused Deterrence: A Strategy For Reducing Homicides In American Cities",
+        "publicationDate": "2026-07-08",
+        "category": "Other",
+        "summary": "Homicides fell 60% in Baltimore, Maryland, after the city adopted a policing strategy of “focused deterrence.” How did the strategy work? Can it be exported to other American cities?",
+        "url": "https://www.hoover.org/research/focused-deterrence-strategy-reducing-homicides-american-cities"
+    },
+    {
         "id": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey",
         "source": "Centre for European Reform",
         "title": "NPR: NATO summit set to begin in Turkey",
@@ -9,49 +63,130 @@
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
     },
     {
-        "id": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
+        "id": "https://www.npr.org/2026/07/08/nx-s1-5884918/scotus-trump-election-barriers-ari-berman",
         "source": "NPR Politics",
-        "title": "At NATO summit in Turkey, Trump says he believes ceasefire with Iran is 'over'",
+        "title": "Do you know where your birth certificate is? Journalist warns of new voting barriers",
         "publicationDate": "2026-07-08",
-        "category": "Foreign Policy",
-        "summary": "President Trump said he believes the current ceasefire with Iran is over following an exchange of attacks between the U.S. and Iran in the latest escalation straining the agreement to end the war.",
-        "url": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference"
+        "category": "Other",
+        "summary": "The rules of the midterms are being rewritten, from redistricting to campaign money. Mother Jones journalist Ari Berman explains why President Trump seems \"obsessed with the mechanics of voting.\"",
+        "url": "https://www.npr.org/2026/07/08/nx-s1-5884918/scotus-trump-election-barriers-ari-berman"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5958281-platner-campaign-influence-replacement/",
-        "source": "The Hill",
-        "title": "Top Maine Democrat says Platner campaign has sought to influence possible replacement",
+        "id": "https://www.npr.org/2026/07/08/nx-s1-5885757/troy-jackson-graham-platner",
+        "source": "NPR Politics",
+        "title": "Former Maine Sen. Troy Jackson says it would be 'self-serving' if Graham Platner runs",
         "publicationDate": "2026-07-08",
-        "category": "Campaign",
-        "summary": "Maine Democratic Party Executive Director Devon Murphy-Anderson said Tuesday that Maine Senate candidate Graham Platner’s campaign has sought to influence the outcome of who may replace him on the Democratic ticket after an accusation of sexual assault. “The integrity of this process is just as important as the outcome, and we are committed to ensuring...",
-        "url": "https://thehill.com/homenews/campaign/5958281-platner-campaign-influence-replacement/"
+        "category": "Other",
+        "summary": "Former Maine state Sen. Troy Jackson has filed to replace Graham Platner on the U.S. Senate ballot in Maine after Platner's girlfriend accused him of sexual assault.",
+        "url": "https://www.npr.org/2026/07/08/nx-s1-5885757/troy-jackson-graham-platner"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5958082-el-sayed-stevens-michigan-democratic-senate-debate-takeaways/",
-        "source": "The Hill",
-        "title": "El-Sayed, Stevens tangle in Michigan Democratic Senate debate: Key takeaways",
+        "id": "https://www.npr.org/2026/07/08/nx-s1-5885770/graham-platner-maine-democrats",
+        "source": "NPR Politics",
+        "title": "Maine Democrats say Platner's campaign is trying to influence replacement process",
+        "publicationDate": "2026-07-08",
+        "category": "Other",
+        "summary": "The state Democratic Party accused Platner's campaign of trying to \"put their thumb on the scale\" of the process to replace him if he drops his bid for Senate. Platner's team has denied doing so.",
+        "url": "https://www.npr.org/2026/07/08/nx-s1-5885770/graham-platner-maine-democrats"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/08/nx-s1-5885054/teen-pregnancy-prevention-trump-hhs",
+        "source": "NPR Politics",
+        "title": "Trump administration abruptly cancels grants for teen pregnancy prevention",
         "publicationDate": "2026-07-08",
         "category": "Healthcare",
-        "summary": "Rep. Haley Stevens (D-Mich.) and former Wayne County health director Abdul El-Sayed sparred on a Tuesday debate stage in the must-win Senate race for Democrats. The Democratic primary debate, hosted by Nexstar's WOOD TV8, marked the first meeting between Stevens and El-Sayed since state Sen. Mallory McMorrow (D) suspended her campaign over the weekend. Her exit paved...",
-        "url": "https://thehill.com/homenews/campaign/5958082-el-sayed-stevens-michigan-democratic-senate-debate-takeaways/"
+        "summary": "Health departments, universities and nonprofit grantees had spent months adapting to President Trump's executive orders. They say the funding cut was completely unexpected.",
+        "url": "https://www.npr.org/2026/07/08/nx-s1-5885054/teen-pregnancy-prevention-trump-hhs"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5958236-ice-kills-man-texas/",
-        "source": "The Hill",
-        "title": "Man fatally shot by ICE officer during Houston traffic stop",
+        "id": "https://www.npr.org/2026/07/08/nx-s1-5884865/calls-for-graham-platner-to-drop-out-of-maine-senate-race-continue-to-grow",
+        "source": "NPR Politics",
+        "title": "Calls for Graham Platner to drop out of Maine Senate race continue to grow",
         "publicationDate": "2026-07-08",
-        "category": "Administration",
-        "summary": "A man was killed by Immigration and Customs Enforcement (ICE) in Texas during a traffic stop on Tuesday, the agency told The Hill. \"On July 7, 2026, at approximately 6:50 AM CT, ICE law enforcement attempted to conduct a vehicle stop as part of a targeted enforcement operation to arrest an illegal alien,” a spokesperson...",
-        "url": "https://thehill.com/homenews/administration/5958236-ice-kills-man-texas/"
+        "category": "Other",
+        "summary": "Graham Platner hasn't dropped out of Maine's U.S. Senate race, but the pressure continues to mount on him to do so, as Maine Democrats make a plan to choose a new candidate in the next two weeks.",
+        "url": "https://www.npr.org/2026/07/08/nx-s1-5884865/calls-for-graham-platner-to-drop-out-of-maine-senate-race-continue-to-grow"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5958131-ex-girlfriend-alleges-graham-platner-removed-condom-during-sex-without-consent/",
-        "source": "The Hill",
-        "title": "Ex-girlfriend alleges Platner removed condom during sex without consent",
+        "id": "https://www.pbs.org/newshour/world/watch-trump-says-in-zelenskyy-meeting-that-u-s-will-allow-patriot-missiles-to-be-made-overseas",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump says in Zelenskyy meeting that U.S. will allow Patriot missiles to be made overseas",
         "publicationDate": "2026-07-08",
-        "category": "Campaign",
-        "summary": "Lyndsey Fifield, a woman who previously accused Maine Senate candidate Graham Platner of violent behavior in a New York Times article last month, has alleged that the oyster farmer had sex with her without protection without receiving consent to do so. The Washington Post reported Tuesday that Fifield, an ex-girlfriend of Platner, said he took...",
-        "url": "https://thehill.com/homenews/campaign/5958131-ex-girlfriend-alleges-graham-platner-removed-condom-during-sex-without-consent/"
+        "category": "Defense",
+        "summary": "President Donald Trump said that the U.S. will give a license for its Patriot air defense systems to be made overseas for Ukraine to counter Russian missile attacks, a huge coup for that nation.",
+        "url": "https://www.pbs.org/newshour/world/watch-trump-says-in-zelenskyy-meeting-that-u-s-will-allow-patriot-missiles-to-be-made-overseas"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/world/watch-live-trump-holds-news-conference-at-nato-summit-in-turkey",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Trump holds news conference at NATO summit in Turkey",
+        "publicationDate": "2026-07-08",
+        "category": "Foreign Policy",
+        "summary": "President Donald Trump took aim at his NATO partners at a summit in Turkey on Wednesday, saying he was unhappy with the alliance for pushing back against his efforts to take control of Greenland and for not supporting his war in Iran.",
+        "url": "https://www.pbs.org/newshour/world/watch-live-trump-holds-news-conference-at-nato-summit-in-turkey"
+    },
+    {
+        "id": "https://thehill.com/opinion/robbys-radar/5959280-platner-left-working-class/",
+        "source": "The Hill",
+        "title": "Scott Jennings tears apart Graham Platner's former defenders: what changed?",
+        "publicationDate": "2026-07-08",
+        "category": "Opinions - Robby's Radar",
+        "summary": "Now that Graham Platner is in serious jeopardy, having paused his campaign following credible accusations that he had sexually assaulted a former girlfriend, it’s worth taking a good hard look at how we got here.",
+        "url": "https://thehill.com/opinion/robbys-radar/5959280-platner-left-working-class/"
+    },
+    {
+        "id": "https://thehill.com/video-clips/5958840-watch-live-jd-vance-federal-anti-fraud-efforts-wisconsin/",
+        "source": "The Hill",
+        "title": "Watch live: Vance outlines federal antifraud efforts from Wisconsin",
+        "publicationDate": "2026-07-08",
+        "category": "Healthcare",
+        "summary": "Vice President Vance, who was tapped by President Trump as the “fraud czar” earlier this year, will give remarks Wednesday afternoon from Wisconsin on federal efforts to combat fraud. The Trump administration has primarily targeted alleged fraud in states’ social service programs as well as among health professionals. The event is scheduled to begin at...",
+        "url": "https://thehill.com/video-clips/5958840-watch-live-jd-vance-federal-anti-fraud-efforts-wisconsin/"
+    },
+    {
+        "id": "https://thehill.com/opinion/campaign/5957571-voters-not-for-sale/",
+        "source": "The Hill",
+        "title": "Money isn't everything in politics — just ask Thomas Massie and John Cornyn",
+        "publicationDate": "2026-07-08",
+        "category": "Opinions - Campaign",
+        "summary": "Money is simply the megaphone, and amplifying an unpersuasive message doesn’t produce victory.",
+        "url": "https://thehill.com/opinion/campaign/5957571-voters-not-for-sale/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/5957793-sam-eckholm-military-storyteller/",
+        "source": "The Hill",
+        "title": "Sam Eckholm grants rare access to military ops with YouTube docuseries",
+        "publicationDate": "2026-07-08",
+        "category": "Defense",
+        "summary": "Don’t call Sam Eckholm an “influencer.” Eckholm, a former Air Force public affairs official, has gained more than three million followers across social media with his “Access Granted” program, which takes viewers inside some of the most cutting edge and secure military facilities around the globe. Eckholm has published more than three dozen episodes of...",
+        "url": "https://thehill.com/policy/defense/5957793-sam-eckholm-military-storyteller/"
+    },
+    {
+        "id": "https://thehill.com/blogs/in-the-know/5959161-stephen-king-graham-platner-maine/",
+        "source": "The Hill",
+        "title": "Stephen King deletes post defending Platner",
+        "publicationDate": "2026-07-08",
+        "category": "In The Know",
+        "summary": "Author Stephen King deleted a post on social media defending Maine Senate candidate Graham Platner (D), who is facing widespread backlash after his former girlfriend accused him of rape. King, a Maine resident, weighed in on a report from Politico published Monday that revealed the accusation from Jenny Racicot, Platner’s former girlfriend, who alleged Platner sexually...",
+        "url": "https://thehill.com/blogs/in-the-know/5959161-stephen-king-graham-platner-maine/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/08/us/politics/missing-navy-sailor-identified.html",
+        "source": "New York Times Politics",
+        "title": "Navy Identifies Sailor Lost in Arabian Sea Helicopter Crash",
+        "publicationDate": "2026-07-08",
+        "category": "Defense",
+        "summary": "Cmdr. Gabriel Edwards was declared missing after what the Navy said was an emergency water landing during a routine patrol.",
+        "url": "https://www.nytimes.com/2026/07/08/us/politics/missing-navy-sailor-identified.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/08/business/health-insurance-cvs-unitedhealth-breakup.html",
+        "source": "New York Times Politics",
+        "title": "Lawmakers Target the Power of Health Insurance Giants",
+        "publicationDate": "2026-07-08",
+        "category": "Healthcare",
+        "summary": "UnitedHealth Group, CVS Health and Cigna are battling efforts to break up their control over prescription drugs.",
+        "url": "https://www.nytimes.com/2026/07/08/business/health-insurance-cvs-unitedhealth-breakup.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/08/upshot/platner-maine-election-accusation.html",
@@ -65,7 +200,7 @@
     {
         "id": "https://www.nytimes.com/2026/07/08/us/politics/charlie-dingman-maine-democratic-party-chair.html",
         "source": "New York Times Politics",
-        "title": "The Low-Key Lawyer at the Center of the Search for a Platner Replacement",
+        "title": "If Platner Exits Senate Race, the Maine Democratic Party Chair Could Help Pick the Nominee",
         "publicationDate": "2026-07-08",
         "category": "Midterm Elections (2026)",
         "summary": "Charles Dingman, chair of the Maine Democratic Party and a progressive, would play a key role in choosing the state’s Democratic Senate candidate if Graham Platner leaves the race.",
@@ -81,22 +216,31 @@
         "url": "https://www.nytimes.com/2026/07/08/us/politics/emma-waters-restorative-reproduction.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-criticism.html",
-        "source": "New York Times Politics",
-        "title": "A Look Back at Trump’s Broadsides Against NATO Allies",
+        "id": "https://www.washingtonpost.com/politics/2026/07/08/denmark-says-it-will-defend-greenland-trump-threatens-revive-nato-crisis/",
+        "source": "Washington Post Politics",
+        "title": "After Greenland bluster, Trump surprises NATO allies with praise",
         "publicationDate": "2026-07-08",
         "category": "Defense",
-        "summary": "President Trump has rarely missed an opportunity to castigate the Western military alliance, whose leaders he’s meeting this week, as weak and ineffective.",
-        "url": "https://www.nytimes.com/2026/07/08/world/europe/trump-nato-criticism.html"
+        "summary": "The president embraced the alliance in a meeting Wednesday, extolling nations’ defense spending and saying nothing about the Danish territory, officials said.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/08/denmark-says-it-will-defend-greenland-trump-threatens-revive-nato-crisis/"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/07/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate.html",
-        "source": "New York Times Politics",
-        "title": "Haley Stevens Goes on Attack Against Abdul El-Sayed at Michigan Senate Debate",
+        "id": "https://www.washingtonpost.com/politics/2026/07/08/shift-trump-praises-zelensky-will-let-ukraine-build-patriot-missiles/",
+        "source": "Washington Post Politics",
+        "title": "In shift, Trump praises Zelensky, will let Ukraine build Patriot missiles",
         "publicationDate": "2026-07-08",
-        "category": "Stevens",
-        "summary": "At their first one-on-one debate in a top Senate race, Representative Haley Stevens accused her progressive rival, Dr. Abdul El-Sayed, of being too focused on publicity as he called her a tool of corporate interests.",
-        "url": "https://www.nytimes.com/2026/07/07/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate.html"
+        "category": "Foreign Policy",
+        "summary": "It was a dramatic departure from Trump’s more acerbic tone toward Ukrainian President Volodymyr Zelensky, whom he once derided as ungrateful.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/08/shift-trump-praises-zelensky-will-let-ukraine-build-patriot-missiles/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/nation/2026/07/08/questions-remain-about-defense-strategy-man-accused-killing-charlie-kirk/",
+        "source": "Washington Post Politics",
+        "title": "Questions remain about defense strategy for man accused of killing Charlie Kirk",
+        "publicationDate": "2026-07-08",
+        "category": "Defense",
+        "summary": "A preliminary hearing to establish whether there is enough evidence against Tyler James Robinson for the case to proceed to trial enters Day 3 in Utah.",
+        "url": "https://www.washingtonpost.com/nation/2026/07/08/questions-remain-about-defense-strategy-man-accused-killing-charlie-kirk/"
     },
     {
         "id": "https://www.washingtonpost.com/world/2026/07/07/tanker-fire-after-being-struck-strait-hormuz-british-military-says/",
@@ -117,13 +261,31 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/07/ex-girlfriend-graham-platner-says-he-removed-condoms-without-consent/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/07/07/democratic-factions-battle-pick-platner-replacement-before-he-leaves-maine-senate-race/",
-        "source": "Washington Post Politics",
-        "title": "Democratic factions vie to pick Platner replacement before he leaves Maine race",
+        "id": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+        "publicationDate": "2026-07-08",
+        "category": "Foreign Policy",
+        "summary": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+        "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US strikes target Iranian military boats",
+        "publicationDate": "2026-07-08",
+        "category": "Defense",
+        "summary": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+        "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "German doctor jailed for murder of 15 patients and suspected of more",
         "publicationDate": "2026-07-08",
         "category": "Other",
-        "summary": "Potential candidates and their backers moved quickly to gain an edge in the contest over who would replace Graham Platner if he exits the key Senate race.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/07/democratic-factions-battle-pick-platner-replacement-before-he-leaves-maine-senate-race/"
+        "summary": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
+        "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
@@ -135,85 +297,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Nato allies announce £37bn for new missile project",
+        "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
         "publicationDate": "2026-07-08",
         "category": "Other",
-        "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
+        "summary": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+        "id": "https://www.ft.com/content/13ea13b7-b4f7-4ac9-82a0-47778c31a05e",
+        "source": "Financial Times World",
+        "title": "Farage ridiculed in parliament as ‘farce’ by-election gets go-ahead",
+        "publicationDate": "2026-07-08",
+        "category": "Other",
+        "summary": "Reform UK leader’s rivals are running scared, say senior party figures",
+        "url": "https://www.ft.com/content/13ea13b7-b4f7-4ac9-82a0-47778c31a05e"
+    },
+    {
+        "id": "https://www.ft.com/content/48e129fd-35f3-4543-bd22-be0b116cbb86",
+        "source": "Financial Times World",
+        "title": "FCA says lenders want to let ‘foxes guard the henhouse’ on car finance",
+        "publicationDate": "2026-07-08",
+        "category": "Economy",
+        "summary": "UK regulator alleges in court filing that lenders want to determine own liability for compensation",
+        "url": "https://www.ft.com/content/48e129fd-35f3-4543-bd22-be0b116cbb86"
+    },
+    {
+        "id": "https://www.ft.com/content/56721c11-cce3-459f-8c1e-003cca104566",
+        "source": "Financial Times World",
+        "title": "Javier Milei wants US-style government shutdowns in Argentina",
+        "publicationDate": "2026-07-08",
+        "category": "Other",
+        "summary": "Government should suspend functions when lawmakers reach an impasse on spending, says rightwing leader",
+        "url": "https://www.ft.com/content/56721c11-cce3-459f-8c1e-003cca104566"
+    },
+    {
+        "id": "https://www.ft.com/content/354c1cf8-e96a-44f7-a8f5-c477d797d852",
+        "source": "Financial Times World",
+        "title": "How Trump brought non-alignment back from the dead",
+        "publicationDate": "2026-07-08",
+        "category": "Other",
+        "summary": "The US president is single-handedly reviving a doctrine of the postcolonial left",
+        "url": "https://www.ft.com/content/354c1cf8-e96a-44f7-a8f5-c477d797d852"
+    },
+    {
+        "id": "https://www.ft.com/content/0393e6aa-15e2-45af-ab3e-466b11b4cd78",
+        "source": "Financial Times World",
+        "title": "Trump grants Ukraine licence to produce Patriot missiles",
         "publicationDate": "2026-07-08",
         "category": "Foreign Policy",
-        "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-        "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
-        "publicationDate": "2026-07-08",
-        "category": "Foreign Policy",
-        "summary": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
-        "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Suspect ate Chick-fil-A and interacted with Charlie Kirk staff before shooting, court hears",
-        "publicationDate": "2026-07-08",
-        "category": "Other",
-        "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
-        "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/aa19cfe8-92a8-46f6-9395-60bb3ec66927",
-        "source": "Financial Times World",
-        "title": "UniCredit secures 48% stake in Commerzbank",
-        "publicationDate": "2026-07-08",
-        "category": "Other",
-        "summary": "Italian bank closing in on majority control of German lender after end of tender period",
-        "url": "https://www.ft.com/content/aa19cfe8-92a8-46f6-9395-60bb3ec66927"
-    },
-    {
-        "id": "https://www.ft.com/content/e5d9a138-22df-4919-af3b-3f4ed8bc9297",
-        "source": "Financial Times World",
-        "title": "Re-election would not put Farage in the clear",
-        "publicationDate": "2026-07-08",
-        "category": "Other",
-        "summary": "Opposition parties refuse to stand against scandal-hit politician in Reform’s safest seat of Clacton",
-        "url": "https://www.ft.com/content/e5d9a138-22df-4919-af3b-3f4ed8bc9297"
-    },
-    {
-        "id": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
-        "source": "Financial Times World",
-        "title": "US launches wave of Iran strikes after attacks on tankers",
-        "publicationDate": "2026-07-08",
-        "category": "Foreign Policy",
-        "summary": "Donald Trump says he thinks ceasefire deal with Tehran is ‘over’ as Revolutionary Guards retaliate",
-        "url": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c"
-    },
-    {
-        "id": "https://www.ft.com/content/e83009d2-1a82-4ec1-83aa-2447cf1fa19b",
-        "source": "Financial Times World",
-        "title": "Farage by-election gambit undercut by rivals’ refusal to participate",
-        "publicationDate": "2026-07-08",
-        "category": "Other",
-        "summary": "Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts",
-        "url": "https://www.ft.com/content/e83009d2-1a82-4ec1-83aa-2447cf1fa19b"
-    },
-    {
-        "id": "https://www.ft.com/content/560023db-09d6-49b2-8168-6becb15d57ad",
-        "source": "Financial Times World",
-        "title": "Virgin Media fined £28mn for preventing customers from cancelling contracts",
-        "publicationDate": "2026-07-08",
-        "category": "Other",
-        "summary": "Ofcom uncovers delay tactics that meant millions of calls were likely to have been mishandled",
-        "url": "https://www.ft.com/content/560023db-09d6-49b2-8168-6becb15d57ad"
+        "summary": "US president agrees to longstanding demand from Kyiv to make its own PAC-3 interceptors",
+        "url": "https://www.ft.com/content/0393e6aa-15e2-45af-ab3e-466b11b4cd78"
     },
     {
         "id": "LSB11451",
@@ -222,16 +357,7 @@
         "publicationDate": "2026-07-07",
         "category": "Foreign Policy",
         "summary": "On April 30, 2026, the United States Court of Appeals for the Ninth Circuit issued an opinion in Gonzalez v. U.S. Department of State resolving the merits of a constitutional challenge to a State Department determination that the Mexican husband of a U.S. citizen was inadmissible to the United States and was therefore unable to receive a visa and enter the United States. Normally, judicial review of visa denials by...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11451/LSB11451.3.pdf"
-    },
-    {
-        "id": "R49024",
-        "source": "Congressional Research Service",
-        "title": "Clean Air Act: EPA’s Greenhouse Gas Endangerment Finding and Repeal",
-        "publicationDate": "2026-07-07",
-        "category": "Healthcare",
-        "summary": "The Clean Air Act (CAA) requires the U.S. Environmental Protection Agency’s (EPA’s) Administrator to address pollutants and sources of air pollution “which, in his judgment, cause or contribute ... to air pollution ... which may reasonably be anticipated to endanger public health or welfare.” This judgment is referred to as an endangerment finding (EF) and has two distinct parts: a finding that an air pollutant may...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49024/R49024.3.pdf"
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11451/LSB11451.4.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4754-1.html",
@@ -270,22 +396,22 @@
         "url": "https://www.cfr.org/articles/cfr-welcomes-four-new-board-directors"
     },
     {
-        "id": "https://www.cfr.org/articles/how-obbba-reshaped-u-s-clean-tech-manufacturing-in-charts",
-        "source": "Council on Foreign Relations",
-        "title": "How OBBBA Reshaped U.S. Clean Tech Manufacturing, in Charts",
+        "id": "https://www.heritage.org/public-opinion/report/americans-value-religious-freedom-awareness-government-actions-remains-low",
+        "source": "Heritage Foundation",
+        "title": "Americans Value Religious Freedom—but Awareness of Government Actions Remains Low",
         "publicationDate": "2026-07-07",
-        "category": "Economy",
-        "summary": "President Donald Trump’s signature tax bill is contributing to a contraction in the country’s clean energy manufacturing that threatens U.S. supply chains and competitiveness, just as rising electricity prices underscore the industry’s importance.",
-        "url": "https://www.cfr.org/articles/how-obbba-reshaped-u-s-clean-tech-manufacturing-in-charts"
+        "category": "Other",
+        "summary": "All Americans Place a High Value on Religious Freedom, Among Core Freedoms Americans on both sides of the isle consistently view religious liberty as essential to American life. Religious liberty is part of a broader set of widely shared values, including free speech and family stability. Concern About Discrimination and Government Targeting Is Widespread Voters express concern about discrimination and the...",
+        "url": "https://www.heritage.org/public-opinion/report/americans-value-religious-freedom-awareness-government-actions-remains-low"
     },
     {
-        "id": "https://www.cfr.org/articles/cfr-launches-new-task-force-on-the-future-of-cuba-2",
-        "source": "Council on Foreign Relations",
-        "title": "CFR Launches New Task Force on the Future of Cuba",
+        "id": "https://www.hudson.org/missile-defense/anytime-anywhere-xis-missile-launch-sends-clear-warning-john-lee",
+        "source": "Hudson Institute",
+        "title": "“Anytime, Anywhere”: Xi’s Missile Launch Sends a Clear Warning",
         "publicationDate": "2026-07-07",
-        "category": "Foreign Policy",
-        "summary": "The Council on Foreign Relations (CFR) has launched a new Task Force on the Future of Cuba. The project will examine what the United States can do to promote a stable, prosperous, democratic Cuba over the next decade in the event of a political transition or significant opening. The Task Force will lay out […]",
-        "url": "https://www.cfr.org/articles/cfr-launches-new-task-force-on-the-future-of-cuba-2"
+        "category": "Defense",
+        "summary": "“Anytime, Anywhere”: Xi’s Missile Launch Sends a Clear Warning acabral-sanche… Tue, 07/07/2026 - 15:58 SVG Commentary Jul 7, 2026 The Australian “Anytime, Anywhere”: Xi’s Missile Launch Sends a Clear Warning John Lee Senior Fellow John Lee Commentary Caption A VBAT unmanned aerial system prepares to take off from the flight deck of USS Portland in the South China Sea, June 17, 2026. (US Navy) Toggle Table of...",
+        "url": "https://www.hudson.org/missile-defense/anytime-anywhere-xis-missile-launch-sends-clear-warning-john-lee"
     },
     {
         "id": "https://www.hudson.org/technology/can-ai-repair-broken-modern-state-tom-tugendhat",
@@ -324,15 +450,6 @@
         "url": "https://www.hudson.org/foreign-policy/irans-future-nato-unity-take-center-stage-rebeccah-heinrichs"
     },
     {
-        "id": "https://www.hudson.org/national-security-defense/deterrence-dealmaking-assessing-americas-china-strategy-ken-moriyasu",
-        "source": "Hudson Institute",
-        "title": "Deterrence to Dealmaking: Assessing America’s China Strategy",
-        "publicationDate": "2026-07-07",
-        "category": "Defense",
-        "summary": "Deterrence to Dealmaking: Assessing America’s China Strategy acabral-sanche… Tue, 07/07/2026 - 12:28 SVG In the Media Jul 6, 2026 Consortium of Indo-Pacific Researchers Deterrence to Dealmaking: Assessing America’s China Strategy Ken Moriyasu Senior Fellow Ken Moriyasu In the Media Caption Chinese President Xi Jinping speaks as he hosts a state banquet for President Donald Trump at the Great Hall of the People on...",
-        "url": "https://www.hudson.org/national-security-defense/deterrence-dealmaking-assessing-americas-china-strategy-ken-moriyasu"
-    },
-    {
         "id": "https://www.hoover.org/research/stanford-scientist-australias-net-zero-plan-will-fail-steve-koonin",
         "source": "Hoover Institution",
         "title": "Stanford Scientist: Australia’s Net Zero Plan Will Fail | Steve Koonin",
@@ -369,51 +486,6 @@
         "url": "https://www.hoover.org/research/chapter-eight-ai-and-war-automating-escalation"
     },
     {
-        "id": "https://www.hoover.org/research/republics-greatest-citizen-stephen-kotkin-benjamin-franklin",
-        "source": "Hoover Institution",
-        "title": "The Republic's Greatest Citizen: Stephen Kotkin On Benjamin Franklin",
-        "publicationDate": "2026-07-07",
-        "category": "Other",
-        "summary": "The polymath of the Republic is memorable for his wise words, energy, and foresight.",
-        "url": "https://www.hoover.org/research/republics-greatest-citizen-stephen-kotkin-benjamin-franklin"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/07/nx-s1-5884789/what-comes-next-for-the-platner-campaign-and-for-democrats",
-        "source": "NPR Politics",
-        "title": "What comes next for the Platner campaign — and for Democrats",
-        "publicationDate": "2026-07-07",
-        "category": "Other",
-        "summary": "NPR's Scott Detrow talks with Adam Jentleson, a Democratic strategist and the founder and president of the liberal think tank the Searchlight Institute, about where Graham Platner goes from here.",
-        "url": "https://www.npr.org/2026/07/07/nx-s1-5884789/what-comes-next-for-the-platner-campaign-and-for-democrats"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/07/nx-s1-5884803/pressure-grows-on-platner-to-leave-maine-senate-race",
-        "source": "NPR Politics",
-        "title": "Pressure grows on Platner to leave Maine Senate race",
-        "publicationDate": "2026-07-07",
-        "category": "Other",
-        "summary": "Democratic nominee Graham Platner' high-profile U.S. Senate race has been thrown into chaos following a POLITICO report that he sexually assaulted a former girlfriend five years ago.",
-        "url": "https://www.npr.org/2026/07/07/nx-s1-5884803/pressure-grows-on-platner-to-leave-maine-senate-race"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/07/g-s1-132294/lawsuit-asylum-iran",
-        "source": "NPR Politics",
-        "title": "New lawsuit alleges U.S. shared asylum application details with Iran",
-        "publicationDate": "2026-07-07",
-        "category": "Foreign Policy",
-        "summary": "A lawsuit alleges the Trump administration is divulging details of Iranian asylum seekers to the government of Iran.",
-        "url": "https://www.npr.org/2026/07/07/g-s1-132294/lawsuit-asylum-iran"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/07/nx-s1-5884020/graham-platner-faces-calls-to-leave-maine-senate-race-after-sexual-assault-allegation",
-        "source": "NPR Politics",
-        "title": "Graham Platner faces calls to leave Maine Senate race after sexual assault allegation",
-        "publicationDate": "2026-07-07",
-        "category": "Other",
-        "summary": "Graham Platner is facing growing pressure to end his campaign for U.S. Senate in Maine after Politico reported an allegation of sexual assault. Platner has denied the claim.",
-        "url": "https://www.npr.org/2026/07/07/nx-s1-5884020/graham-platner-faces-calls-to-leave-maine-senate-race-after-sexual-assault-allegation"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/news-wrap-judge-rejects-trumps-attempt-to-collect-georgia-election-worker-info",
         "source": "PBS NewsHour Politics",
         "title": "News Wrap: Judge rejects Trump's attempt to collect Georgia election worker info",
@@ -441,49 +513,22 @@
         "url": "https://www.pbs.org/newshour/show/new-student-loan-rules-could-limit-funding-for-some-graduate-programs"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/judge-rejects-justice-departments-unreasonable-attempt-to-get-names-of-2020-election-workers-in-fulton-county",
-        "source": "PBS NewsHour Politics",
-        "title": "Judge rejects Justice Department's 'unreasonable' attempt to get names of 2020 election workers in Fulton County",
-        "publicationDate": "2026-07-07",
-        "category": "2020 election",
-        "summary": "Fulton County asked a judge to quash the subpoena, arguing it was meant to \"target, harass and punish the President's perceived political opponents\" and that it was \"grossly over broad and untethered to any reasonable need.\"",
-        "url": "https://www.pbs.org/newshour/politics/judge-rejects-justice-departments-unreasonable-attempt-to-get-names-of-2020-election-workers-in-fulton-county"
+        "id": "IF10218",
+        "source": "Congressional Research Service",
+        "title": "South Sudan",
+        "publicationDate": "2026-07-06",
+        "category": "Defense",
+        "summary": "Peace has been elusive in South Sudan, which, with U.S. support, became the world’s newest country in 2011. The civil war that erupted there in 2013 featured widespread sexual violence, mass killings, and other atrocities. It displaced over a third of the population and fueled Africa’s largest refugee crisis for a decade. An estimated 400,000 people died as a result of the conflict before the most recent peace deal...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10218/IF10218.20.pdf"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/trumps-eeoc-abandons-key-tool-for-combating-workplace-discrimination",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump's EEOC abandons key tool for combating workplace discrimination",
-        "publicationDate": "2026-07-07",
-        "category": "Donald Trump news",
-        "summary": "For more than 60 years, the federal government has relied on the Equal Employment Opportunity Commission to enforce laws against workplace discrimination. The Department of Justice is now challenging a legal framework that has underpinned that work for decades. Geoff Bennett discussed the policy shift and its implications with Jenny Yang, a former chair of the EEOC.",
-        "url": "https://www.pbs.org/newshour/show/trumps-eeoc-abandons-key-tool-for-combating-workplace-discrimination"
-    },
-    {
-        "id": "https://thehill.com/business/5957965-oil-prices-jump-5-percent-after-u-s-revokes-iran-oil-sanctions-waiver/",
-        "source": "The Hill",
-        "title": "Oil prices jump 5 percent after U.S. revokes Iran oil sanctions waiver",
-        "publicationDate": "2026-07-07",
-        "category": "Foreign Policy",
-        "summary": "Oil prices on Tuesday jumped more than 5 percent after the U.S. revoked its waiver on Iranian oil sanctions following strikes on three commercial vessels near the Strait of Hormuz. International Brent crude oil jumped nearly 5.5 percent to more than $75 per barrel as of Tuesday evening. A U.S. official previously told The Hill that the memorandum...",
-        "url": "https://thehill.com/business/5957965-oil-prices-jump-5-percent-after-u-s-revokes-iran-oil-sanctions-waiver/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/07/07/maine-voters-once-loyal-platner-abandon-him-after-sexual-assault-allegation/",
-        "source": "Washington Post Politics",
-        "title": "Maine voters, once loyal to Platner, abandon him after sexual assault allegation",
-        "publicationDate": "2026-07-07",
-        "category": "Other",
-        "summary": "Some voters said they stuck with the progressive candidate through several controversies, but drew the line after a new allegation of sex assault.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/07/maine-voters-once-loyal-platner-abandon-him-after-sexual-assault-allegation/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/07/07/supreme-court-justices-make-rare-appearance-before-congress/",
-        "source": "Washington Post Politics",
-        "title": "Supreme Court justices to make rare appearance before Congress",
-        "publicationDate": "2026-07-07",
-        "category": "Other",
-        "summary": "Elena Kagan and Amy Coney Barrett, a liberal and a conservative, are set to testify before a House subcommittee next Tuesday.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/07/supreme-court-justices-make-rare-appearance-before-congress/"
+        "id": "https://www.heritage.org/gender/report/title-ixs-failed-experiment-why-accommodating-sex-differences-beats-engineered-parity",
+        "source": "Heritage Foundation",
+        "title": "Title IX’s Failed Experiment: Why Accommodating Sex Differences Beats Engineered Parity",
+        "publicationDate": "2026-07-06",
+        "category": "Defense",
+        "summary": "Introduction In 2024, a Tunisian man defeated a Chinese woman for the Olympic women’s boxing gold medal. The spectacle of a biological male pummeling a female athlete shocked many and led to renewed calls to keep men out of women’s sports. However, under today’s civil rights regime, efforts to define and uphold the physical differences between men and women are dismissed as reflections of benighted stereotypes....",
+        "url": "https://www.heritage.org/gender/report/title-ixs-failed-experiment-why-accommodating-sex-differences-beats-engineered-parity"
     },
     {
         "id": "https://www.heritage.org/government-regulation/report/restoring-obscenity-regulation-internet-age",
@@ -531,33 +576,6 @@
         "url": "https://ecfr.eu/podcasts/episode/the-china-challenge/"
     },
     {
-        "id": "R44076",
-        "source": "Congressional Research Service",
-        "title": "Independence Day Speech Resources: Fact Sheet",
-        "publicationDate": "2026-07-02",
-        "category": "Other",
-        "summary": "Independence Day, often called the Fourth of July, is a federal holiday recognizing the adoption of the Declaration of Independence on July 4, 1776. This year marks the 250th anniversary of the Declaration of Independence and the birth of the United States of America. This guide is designed to assist congressional offices with work related to Independence Day events. It contains links to census and demographic...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44076/R44076.23.pdf"
-    },
-    {
-        "id": "R48302",
-        "source": "Congressional Research Service",
-        "title": "Seabed Mining for Critical Minerals on the U.S. Outer Continental Shelf: Issues for Congress",
-        "publicationDate": "2026-07-02",
-        "category": "Other",
-        "summary": "The first and second Trump Administrations and the Biden Administration issued executive orders announcing U.S. policies to build and strengthen the resiliency of domestic critical mineral supply chains. For example, on April 24, 2025, as part of a broader national effort to secure reliable supplies for critical minerals, the Trump Administration issued Executive Order 14285, “Unleashing America’s Offshore Critical...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48302/R48302.19.pdf"
-    },
-    {
-        "id": "R44245",
-        "source": "Congressional Research Service",
-        "title": "Israel: Major Issues and U.S. Relations",
-        "publicationDate": "2026-07-02",
-        "category": "Defense",
-        "summary": "The United States and Israel have cooperated closely for decades, reflecting assessments across several Administrations and Congresses that the countries share a number of strategic interests, including in countering mutual threats from other regional states and militant groups. Large-scale U.S. assistance, as approved by Congress (generally more than $3.8 billion annually), has helped Israel develop conventional...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44245/R44245.149.pdf"
-    },
-    {
         "id": "https://ecfr.eu/article/unconventional-deterrence-how-europe-can-ward-off-a-russian-attack/",
         "source": "European Council on Foreign Relations",
         "title": "Unconventional deterrence: How Europe can ward off a Russian attack",
@@ -601,24 +619,6 @@
         "category": "Other",
         "summary": "The authors provide national data about the state of academic alignment between school-day and after-school learning, illustrate how schools and after-school programs put academic alignment into practice, and identify enabling and impeding factors.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4386-2.html"
-    },
-    {
-        "id": "https://www.heritage.org/defense/commentary/military-effectiveness-should-be-determined-the-war-department-not-judges",
-        "source": "Heritage Foundation",
-        "title": "Military Effectiveness Should Be Determined by The War Department Not Judges",
-        "publicationDate": "2026-06-29",
-        "category": "Defense",
-        "summary": "The military isn't a therapeutic institution; its purpose is to deter war, fight war, and win war. There are hard truths in military life that a humane society may dislike but cannot repeal. The first is that military service is not an entitlement. It is a calling, yes; an honor, certainly. But it is also a profession whose members must be prepared to deploy, fight, endure privation, and, if necessary, die in...",
-        "url": "https://www.heritage.org/defense/commentary/military-effectiveness-should-be-determined-the-war-department-not-judges"
-    },
-    {
-        "id": "https://www.heritage.org/global-politics/commentary/americas-asian-allies-want-nuclear-submarines-heres-how-build-them",
-        "source": "Heritage Foundation",
-        "title": "America’s Asian Allies Want Nuclear Submarines. Here’s How To Build Them",
-        "publicationDate": "2026-06-29",
-        "category": "Defense",
-        "summary": "Nuclear power is cool once again and is all the rage in Asia. The North Koreans are getting in on the action with the rumored development of a nuclear-powered submarine. Not to be outdone, America’s allies, South Korea and Japan , are serious about having the capability for their future submarines. For America, having allies with lethal nuclear-powered submarines will bolster deterrence against China’s massively...",
-        "url": "https://www.heritage.org/global-politics/commentary/americas-asian-allies-want-nuclear-submarines-heres-how-build-them"
     },
     {
         "id": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export",
