@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+        "source": "NPR Politics",
+        "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
+        "publicationDate": "2026-07-11",
+        "category": "Defense",
+        "summary": "The Times says federal agents turned up on the doorsteps of several of its journalists to force grand jury testimony next week over their coverage of the Air Force One plane gifted to Trump by Qatar.",
+        "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting"
+    },
+    {
         "id": "https://www.npr.org/2026/07/11/nx-s1-5888579/week-in-politics-trumps-housing-bill-protest-fails-trump-and-nato-maines-democrats",
         "source": "NPR Politics",
         "title": "Week in Politics: Trump's housing bill protest fails; Trump and NATO; Maine's Democrats",
@@ -36,49 +45,76 @@
         "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/5963635-houston-ice-shooting-gofundme-400k-donations-family/",
-        "source": "The Hill",
-        "title": "GoFundMe raises over $400K for family of slain business owner Lorenzo Salgado Araujo",
-        "publicationDate": "2026-07-11",
-        "category": "State Watch",
-        "summary": "\"He was the kind of man who showed up: for his family, for his friends, for his neighbors, and on every job he ever took.\"",
-        "url": "https://thehill.com/homenews/state-watch/5963635-houston-ice-shooting-gofundme-400k-donations-family/"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/5963845-federal-judge-doj-toss-proud-boys-jan-6-convictions/",
-        "source": "The Hill",
-        "title": "Judge OKs DOJ request to toss remaining Proud Boys Jan. 6 convictions",
-        "publicationDate": "2026-07-11",
-        "category": "Court Battles",
-        "summary": "A federal judge on Friday agreed to drop the remaining cases against four leaders of the right-wing extremist Proud Boys who were convicted for their roles in the Jan. 6, 2021, attack on the Capitol. District Judge Timothy Kelly granted the Justice Department’s (DOJ) motion to dismiss the convictions against Ethan Nordean, Joseph Biggs, Zachary...",
-        "url": "https://thehill.com/regulation/court-battles/5963845-federal-judge-doj-toss-proud-boys-jan-6-convictions/"
-    },
-    {
-        "id": "https://thehill.com/opinion/national-security/5962943-radical-chic-media-academia/",
-        "source": "The Hill",
-        "title": "Tehran Rose and the anti-US influencers nurtured by academia and the media",
-        "publicationDate": "2026-07-11",
-        "category": "Opinions - National Security",
-        "summary": "At least Tokyo Rose (shown here in 1976 and ultimately pardoned by President Gerald Ford) could credibly claim she had been held in Japan against her will.",
-        "url": "https://thehill.com/opinion/national-security/5962943-radical-chic-media-academia/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/5955373-the-ticks-you-may-find-in-your-state-and-the-diseases-they-can-carry/",
-        "source": "The Hill",
-        "title": "The ticks you may find in your state, and the diseases they can carry",
-        "publicationDate": "2026-07-11",
-        "category": "State Watch",
-        "summary": "It's been a gnarly year for ticks already in the U.S., but the ticks you're seeing will vary depending on where you live.",
-        "url": "https://thehill.com/homenews/state-watch/5955373-the-ticks-you-may-find-in-your-state-and-the-diseases-they-can-carry/"
-    },
-    {
-        "id": "https://thehill.com/homenews/media/5963811-the-new-york-times-journalists-subpoena-air-force-one-iran-threat-report/",
-        "source": "The Hill",
-        "title": "DOJ subpoenas New York Times journalists over Air Force One report",
+        "id": "https://www.pbs.org/newshour/politics/new-york-times-reporters-are-subpoenaed-after-air-force-one-stories-raising-press-freedom-concerns",
+        "source": "PBS NewsHour Politics",
+        "title": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns",
         "publicationDate": "2026-07-11",
         "category": "Defense",
-        "summary": "The Trump administration hit four New York Times journalists with subpoenas on Friday, after the outlet published a story outlining risks involving President Trump’s Qatar-gifted Air Force One plane that recently entered into service. The Times reported that the refurbished jet lacked some of the advanced security measures of the older aircraft used to transport...",
-        "url": "https://thehill.com/homenews/media/5963811-the-new-york-times-journalists-subpoena-air-force-one-iran-threat-report/"
+        "summary": "The subpoenas seek to force the reporters to testify before a federal grand jury in Manhattan next week, the Times said, adding that federal agents delivered some subpoenas to the reporters at their homes.",
+        "url": "https://www.pbs.org/newshour/politics/new-york-times-reporters-are-subpoenaed-after-air-force-one-stories-raising-press-freedom-concerns"
+    },
+    {
+        "id": "https://thehill.com/opinion/campaign/5962999-democrats-defeat-trump-policies/",
+        "source": "The Hill",
+        "title": "Democrats and democratic socialists should unite for election victories",
+        "publicationDate": "2026-07-11",
+        "category": "Opinions - Campaign",
+        "summary": "Democrats must unify around winners of primaries across the ideological spectrum and focus on opposing Trump, solving the affordability crisis, and keeping America out of wars in order to win a majority in at least one congressional chamber in the midterms.",
+        "url": "https://thehill.com/opinion/campaign/5962999-democrats-defeat-trump-policies/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/5963996-sheldon-whitehouse-trump-administration-kennedy-center-investigation-spending/",
+        "source": "The Hill",
+        "title": "Senate Democrat expands probe into Kennedy Center spending",
+        "publicationDate": "2026-07-11",
+        "category": "Senate",
+        "summary": "A Senate Democrat is expanding a probe into alleged corruption within the ranks of the renowned Kennedy Center for Performing Arts, accusing its leadership of mismanaging federally appropriated funds “to the detriment” of the venue. Sen. Sheldon Whitehouse (D-R.I.) wrote in a July 9 letter to Executive Director Matt Floca that he had obtained whistleblower...",
+        "url": "https://thehill.com/homenews/senate/5963996-sheldon-whitehouse-trump-administration-kennedy-center-investigation-spending/"
+    },
+    {
+        "id": "https://thehill.com/opinion/technology/5962802-big-tech-ai-data-centers/",
+        "source": "The Hill",
+        "title": "America’s AI revolution could end in disaster",
+        "publicationDate": "2026-07-11",
+        "category": "Technology",
+        "summary": "Big Tech companies are spending billions to build AI data centers across the country, creating temporary jobs for blue-collar workers while draining local resources and potentially replacing them with automation, all to benefit a handful of tech lords.",
+        "url": "https://thehill.com/opinion/technology/5962802-big-tech-ai-data-centers/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5962532-live-updates-trump-iran-war-midterms-housing-bill/",
+        "source": "The Hill",
+        "title": "Live updates: Trump escalates Iran tensions over death threat; Houston to probe ICE shooting",
+        "publicationDate": "2026-07-11",
+        "category": "Foreign Policy",
+        "summary": "President Trump issued a stark warning to Iran late Friday, after the Islamic Republic reportedly plotted an assassination attempt against him. Trump, in a post on Truth Social, said the U.S. has missiles “Locked and Loaded” and aimed at Iran, should the regime act on its death threats. Iranian Supreme Leader Ayatollah Mojtaba Khamenei has...",
+        "url": "https://thehill.com/homenews/administration/5962532-live-updates-trump-iran-war-midterms-housing-bill/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/5963954-james-carville-leftist-democrats-midterms-criticism/",
+        "source": "The Hill",
+        "title": "Carville unloads on far-left Democrats over party infighting ahead of midterms",
+        "publicationDate": "2026-07-11",
+        "category": "Campaign",
+        "summary": "Democratic strategist James Carville tore into progressive and “insurgent” Democrats on Friday, arguing that inner-party division will lead to the same problems he believes helped the GOP elect President Trump in 2016. In an interview with Politicon, the veteran strategist compared the current wave of left-wing primary challengers to previous progressive campaigns in 2016 that...",
+        "url": "https://thehill.com/homenews/campaign/5963954-james-carville-leftist-democrats-midterms-criticism/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
+        "publicationDate": "2026-07-11",
+        "category": "United States Politics and Government",
+        "summary": "The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.",
+        "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html",
+        "source": "New York Times Politics",
+        "title": "Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case",
+        "publicationDate": "2026-07-11",
+        "category": "Storming of the US Capitol (Jan",
+        "summary": "Judge Timothy J. Kelly, a federal judge in Washington, noted that he had little choice but to accept the Trump administration’s move to end the case.",
+        "url": "https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html",
@@ -108,27 +144,9 @@
         "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html",
-        "source": "New York Times Politics",
-        "title": "Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women",
-        "publicationDate": "2026-07-11",
-        "category": "Sanders",
-        "summary": "The collapse of Graham Platner’s Senate bid in Maine after a rape allegation renewed attention to a movement built by Senator Bernie Sanders that some say is too forgiving of male misconduct.",
-        "url": "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html",
-        "source": "New York Times Politics",
-        "title": "How Marco Rubio Is Running Venezuela From Afar",
-        "publicationDate": "2026-07-11",
-        "category": "Economy",
-        "summary": "The secretary of state effectively controls Venezuela’s finances, the distribution of its natural resources and its government. His grip on the country is a vivid manifestation of American power in the Trump era.",
-        "url": "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+        "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
         "publicationDate": "2026-07-11",
         "category": "Foreign Policy",
         "summary": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
@@ -144,6 +162,24 @@
         "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+        "publicationDate": "2026-07-11",
+        "category": "Defense",
+        "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "China's second typhoon in a week makes landfall",
+        "publicationDate": "2026-07-11",
+        "category": "Foreign Policy",
+        "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
@@ -153,22 +189,31 @@
         "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "China braced for second typhoon in a week as Bavi approaches landfall",
+        "id": "https://www.ft.com/content/081cae25-024b-4965-9b7b-450adaf1216c",
+        "source": "Financial Times World",
+        "title": "Police ‘pursuing enquiries’ in Widdecombe murder case after releasing arrested man",
         "publicationDate": "2026-07-11",
-        "category": "Foreign Policy",
-        "summary": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "Devon and Cornwall force said 26-year-old was no longer part of the investigation and issued appeal for help",
+        "url": "https://www.ft.com/content/081cae25-024b-4965-9b7b-450adaf1216c"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+        "id": "https://www.ft.com/content/b5b32b7e-7d4a-448a-b7f7-ebdc1533c6a9",
+        "source": "Financial Times World",
+        "title": "Christopher Harborne suffered serious medical issues while donating £12mn to Reform UK",
         "publicationDate": "2026-07-11",
-        "category": "Defense",
-        "summary": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
-        "url": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "Thailand-based crypto billionaire paused US lawsuit for nearly a year until January 2026",
+        "url": "https://www.ft.com/content/b5b32b7e-7d4a-448a-b7f7-ebdc1533c6a9"
+    },
+    {
+        "id": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
+        "source": "Financial Times World",
+        "title": "How AI rebrands fail to deliver a lasting share price boost",
+        "publicationDate": "2026-07-11",
+        "category": "Other",
+        "summary": "Most of the groups that pivoted have not sustained their valuation gains, an FT analysis has found",
+        "url": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b"
     },
     {
         "id": "https://www.ft.com/content/76ca7934-189a-4207-89a2-cf060b87f56b",
@@ -189,31 +234,13 @@
         "url": "https://www.ft.com/content/3e3d18d8-d6c2-4846-93ad-67ea0aaa12a2"
     },
     {
-        "id": "https://www.ft.com/content/17c6d9ac-6793-4ef2-90c6-a6a3e9de9fc3",
-        "source": "Financial Times World",
-        "title": "Marine Le Pen’s redemption story",
-        "publicationDate": "2026-07-11",
-        "category": "Other",
-        "summary": "Suspense over the far-right leader’s fate plays into her party’s hands",
-        "url": "https://www.ft.com/content/17c6d9ac-6793-4ef2-90c6-a6a3e9de9fc3"
-    },
-    {
-        "id": "https://www.ft.com/content/8916354a-4c7c-4df6-8c9e-2303f883855d",
-        "source": "Financial Times World",
-        "title": "UK inflation is not distributed equally",
-        "publicationDate": "2026-07-11",
-        "category": "Economy",
-        "summary": "The poorest pay the most in an energy shock",
-        "url": "https://www.ft.com/content/8916354a-4c7c-4df6-8c9e-2303f883855d"
-    },
-    {
-        "id": "https://www.ft.com/content/081cae25-024b-4965-9b7b-450adaf1216c",
-        "source": "Financial Times World",
-        "title": "Police release man arrested on suspicion of murder of Ann Widdecombe",
-        "publicationDate": "2026-07-11",
-        "category": "Other",
-        "summary": "Devon and Cornwall force says 26-year-old is no longer part of the investigation",
-        "url": "https://www.ft.com/content/081cae25-024b-4965-9b7b-450adaf1216c"
+        "id": "R49028",
+        "source": "Congressional Research Service",
+        "title": "Fixing Emergency Management for Americans Act of 2025: Context, Overview, Summary of Provisions",
+        "publicationDate": "2026-07-10",
+        "category": "Healthcare",
+        "summary": "The Federal Emergency Management Agency (FEMA), which leads federal emergency management and disaster relief efforts, has recently been subject to numerous calls for reform. For years, state and local governments, disaster survivors, scholars, and nonprofits have called upon Congress and FEMA to modify federal disaster response and recovery authorities and procedures to improve the provision of relief and increase...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49028/R49028.2.pdf"
     },
     {
         "id": "LSB11446",
@@ -223,15 +250,6 @@
         "category": "Foreign Policy",
         "summary": "On June 25, 2026, the Supreme Court in Mullin v. Doe held that Congress statutorily barred judicial review of all non-constitutional claims related to a decision by the Secretary of the Department of Homeland Security (DHS) to terminate a country’s Temporary Protected Status (TPS) designation. Under federal immigration laws, certain aliens may remain and work in the United States if the Secretary of DHS designates...",
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11446/LSB11446.2.pdf"
-    },
-    {
-        "id": "R49028",
-        "source": "Congressional Research Service",
-        "title": "Fixing Emergency Management for Americans Act of 2025: Context, Overview, Summary of Provisions",
-        "publicationDate": "2026-07-10",
-        "category": "Healthcare",
-        "summary": "The Federal Emergency Management Agency (FEMA), which leads federal emergency management and disaster relief efforts, has recently been subject to numerous calls for reform. For years, state and local governments, disaster survivors, scholars, and nonprofits have called upon Congress and FEMA to modify federal disaster response and recovery authorities and procedures to improve the provision of relief and increase...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49028/R49028.2.pdf"
     },
     {
         "id": "IF12040",
@@ -360,15 +378,6 @@
         "url": "https://ecfr.eu/article/eu-incorporated-the-way-to-start-up-european-competitiveness/"
     },
     {
-        "id": "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins",
-        "source": "NPR Politics",
-        "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
-        "publicationDate": "2026-07-10",
-        "category": "Other",
-        "summary": "In his withdrawal notice, Platner said \"people are desperate for change\" and that's why they made him the Democratic nominee. Now, Maine Democrats have to pick someone to replace him by July 27.",
-        "url": "https://www.npr.org/2026/07/10/nx-s1-5888709/graham-platner-maine-senate-susan-collins"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/the-epa-promised-a-maha-agenda-it-has-yet-to-materialize-frustrating-activists",
         "source": "PBS NewsHour Politics",
         "title": "The EPA promised a MAHA agenda. It has yet to materialize, frustrating activists",
@@ -403,15 +412,6 @@
         "category": "Healthcare",
         "summary": "There are questions surrounding the health of Sen. Mitch McConnell after the Kentucky Republican's hospitalization on June 14. Lisa Desjardins reports on what we know.",
         "url": "https://www.pbs.org/newshour/show/what-we-know-about-mitch-mcconnells-health-and-hospitalization"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/trump-fires-election-commission-members-in-latest-attempt-to-control-voting-process",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump fires election commission members in latest attempt to control voting process",
-        "publicationDate": "2026-07-10",
-        "category": "Donald Trump news",
-        "summary": "With planning for the midterm elections well underway, President Trump has ousted the remaining members of a bipartisan federal agency that helps state and local officials run smooth elections and certify voting equipment. White House correspondent Liz Landers explains what happened at the Election Assistance Commission and the impact it could have in November.",
-        "url": "https://www.pbs.org/newshour/show/trump-fires-election-commission-members-in-latest-attempt-to-control-voting-process"
     },
     {
         "id": "https://www.cfr.org/articles/whither-african-solidarity",
