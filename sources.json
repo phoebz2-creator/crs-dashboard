@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-26",
+        "source": "Hoover Institution",
+        "title": "2026 Issue 26",
+        "publicationDate": "2026-07-12",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://www.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-26"
+    },
+    {
         "id": "https://www.hoover.org/research/washington-and-pharma-are-helping-china-win",
         "source": "Hoover Institution",
         "title": "Washington and Pharma Are Helping China Win",
@@ -36,13 +45,22 @@
         "url": "https://www.hoover.org/research/russia-approved-secret-china-military-training-top-level-sources-say"
     },
     {
-        "id": "https://www.hoover.org/research/why-china-fired-long-range-missile-pacific",
-        "source": "Hoover Institution",
-        "title": "Why China Fired a Long-Range Missile into the Pacific",
+        "id": "https://www.npr.org/2026/07/12/nx-s1-5890821/how-longtime-gop-senator-lindsey-graham-went-from-critic-to-ally-of-president-trump",
+        "source": "NPR Politics",
+        "title": "How longtime GOP Senator Lindsey Graham went from critic to ally of President Trump",
         "publicationDate": "2026-07-12",
         "category": "Foreign Policy",
-        "summary": "In early July, the PRC conducted a test of a submarine-launched ballistic missile over the Pacific. This signals Xi Jinping’s determination to complete a full nuclear triad and narrow the strategic gap with the United States. While the test provoked outrage from the PRC’s neighbors, Xi appears willing to use pages from Putin’s playbook of nuclear saber-rattling.",
-        "url": "https://www.hoover.org/research/why-china-fired-long-range-missile-pacific"
+        "summary": "Longtime Republican Sen. Lindsey Graham has died at the age of 71. The foreign policy hawk and former critic-turned-ally of President Trump was running for re-election in South Carolina.",
+        "url": "https://www.npr.org/2026/07/12/nx-s1-5890821/how-longtime-gop-senator-lindsey-graham-went-from-critic-to-ally-of-president-trump"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran",
+        "source": "NPR Politics",
+        "title": "Politics chat: Lindsey Graham dies at 71, Congress back in session, U.S. strikes Iran",
+        "publicationDate": "2026-07-12",
+        "category": "Foreign Policy",
+        "summary": "South Carolina Senator Lindsey Graham's sudden death at 71 has shocked Washington. Once a fierce critic of then-candidate Donald Trump, he became one of the president's most consistent defenders.",
+        "url": "https://www.npr.org/2026/07/12/nx-s1-5887274/politics-chat-lindsey-graham-dies-at-71-congress-back-in-session-u-s-strikes-iran"
     },
     {
         "id": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist",
@@ -56,74 +74,92 @@
     {
         "id": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
         "source": "NPR Politics",
-        "title": "Getting campaign text messages ahead of midterms? There could be an AI bot behind it",
+        "title": "Some are raising ethical concerns about political text messages using AI",
         "publicationDate": "2026-07-12",
         "category": "Other",
         "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.",
         "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns"
     },
     {
-        "id": "https://thehill.com/homenews/senate/5964197-sen-kennedy-says-democratic-socialists-will-lead-their-party-to-defeat-in-november/",
+        "id": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
+        "source": "NPR Politics",
+        "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
+        "publicationDate": "2026-07-12",
+        "category": "Foreign Policy",
+        "summary": "His office said Graham died Saturday night after a \"brief and sudden illness.\" The Republican senator was instrumental in enacting Trump's policy and staffing priorities.",
+        "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/sen-lindsey-graham-dies-after-a-brief-and-sudden-illness-his-office-says",
+        "source": "PBS NewsHour Politics",
+        "title": "Sen. Lindsey Graham dies after a 'brief and sudden illness,' his office says",
+        "publicationDate": "2026-07-12",
+        "category": "Defense",
+        "summary": "The statement his office posted on social media did not provide any additional details about the circumstances surrounding the Saturday night death of the South Carolina Republican, a former Air Force lawyer who served in Congress for three decades.",
+        "url": "https://www.pbs.org/newshour/politics/sen-lindsey-graham-dies-after-a-brief-and-sudden-illness-his-office-says"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/5964623-iran-us-nato-tensions/",
         "source": "The Hill",
-        "title": "Sen. Kennedy says democratic socialists will ‘lead their party to defeat’ in November",
+        "title": "US ambassador to NATO says Iran ‘controlled by a bunch of crazy people’",
+        "publicationDate": "2026-07-12",
+        "category": "Defense",
+        "summary": "U.S. Ambassador to NATO Matthew Whitaker said Sunday that Iran is “controlled by a bunch of crazy people” after escalating tensions between Washington and Tehran. “President Trump's a peacemaker, Jake, and he wants a deal with Iran. He wants to make sure that they never have a nuclear weapon, that they join the world as...",
+        "url": "https://thehill.com/policy/defense/5964623-iran-us-nato-tensions/"
+    },
+    {
+        "id": "https://thehill.com/opinion/finance/5962740-bubble-wedding-industry-economics/",
+        "source": "The Hill",
+        "title": "Til debt do us part: The coming collapse of the American wedding industry",
+        "publicationDate": "2026-07-12",
+        "category": "Economy",
+        "summary": "The traditional wedding has become a luxury purchase — one that’s quickly pricing out the average couple.",
+        "url": "https://thehill.com/opinion/finance/5962740-bubble-wedding-industry-economics/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5964574-trump-graham-save-america-act/",
+        "source": "The Hill",
+        "title": "Trump says Graham's death is 'big blow to the SAVE America Act'",
+        "publicationDate": "2026-07-12",
+        "category": "Administration",
+        "summary": "President Trump on Sunday said Sen. Lindsey Graham's (R-S.C.) sudden death is a \"big blow to\" the Safeguard American Voter Eligibility (SAVE America) Act, the president's legislative priority. Trump called in to NBC News's \"Meet the Press\" and told host Kristen Welker that Graham thought the White House was going to have the SAVE America...",
+        "url": "https://thehill.com/homenews/administration/5964574-trump-graham-save-america-act/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/5964552-tim-scott-reflects-graham-death/",
+        "source": "The Hill",
+        "title": "Lindsey Graham was 'loud and obvious, and sometimes even obnoxious': Tim Scott",
         "publicationDate": "2026-07-12",
         "category": "Senate",
-        "summary": "Sen. John Kennedy (R-La.) said the Democratic Party is now controlled by their “loon wing” of democratic socialists who will lead them to electoral disaster in November in a new interview on Sunday. The GOP senator told John Catsimatidis, the radio host of “Cats Roundtable,” that the rising popularity among Democratic voters for democratic socialist candidates will...",
-        "url": "https://thehill.com/homenews/senate/5964197-sen-kennedy-says-democratic-socialists-will-lead-their-party-to-defeat-in-november/"
+        "summary": "Sen. Tim Scott (R-S.C.) on Sunday said his colleague Sen. Lindsey Graham (R-S.C.), who died suddenly the night before, could be \"loud and obvious, and sometimes even obnoxious.\" Scott reflected on his time working with Graham in the Senate during an appearance on \"Fox News Sunday\" with Gillian Turner, saying Graham's death left a hole...",
+        "url": "https://thehill.com/homenews/senate/5964552-tim-scott-reflects-graham-death/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5963392-maine-senate-platner-biden-harris-lessons/",
+        "id": "https://thehill.com/opinion/technology/5962971-promise-rover-lunar-mission/",
         "source": "The Hill",
-        "title": "Democrats apply 2024 lessons in Maine with Platner replacement process",
+        "title": "NASA mulls sending a nuclear-powered Mars rover to the moon",
         "publicationDate": "2026-07-12",
-        "category": "Campaign",
-        "summary": "Democrats in Maine have a rare task and a tight window to replace progressive Graham Platner with a new Senate nominee in the critical toss-up race, and observers see the party applying lessons from the 2024 presidential campaign switch up. Platner suspended campaign operations on Wednesday after rape allegations, which he denies, prompted top backers...",
-        "url": "https://thehill.com/homenews/campaign/5963392-maine-senate-platner-biden-harris-lessons/"
+        "category": "Technology",
+        "summary": "Such a proposal represents outside-the-box thinking for NASA, which is becoming more common under Isaacman’s leadership.",
+        "url": "https://thehill.com/opinion/technology/5962971-promise-rover-lunar-mission/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/5963488-kennedy-remakes-preventive-panel/",
-        "source": "The Hill",
-        "title": "RFK Jr.’s focus on preventive health panel provokes new fears",
+        "id": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html",
+        "source": "New York Times Politics",
+        "title": "Lindsey Graham Was Facing Re-election in November. What Happens Now?",
         "publicationDate": "2026-07-12",
-        "category": "Healthcare",
-        "summary": "Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. has his sights set on remaking another influential health panel, one that determines what preventive medical services insurers must cover for free. After Kennedy blocked the panel from meeting on multiple occasions, declined to replace members whose terms expired and fired its leaders in May,...",
-        "url": "https://thehill.com/policy/healthcare/5963488-kennedy-remakes-preventive-panel/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/5964424-lindsey-graham-sudden-death/",
-        "source": "The Hill",
-        "title": "Sen. Lindsey Graham dies of 'brief and sudden illness'",
-        "publicationDate": "2026-07-12",
-        "category": "Senate",
-        "summary": "Sen. Lindsey Graham (R-S.C.) died from a “brief and sudden illness” on Saturday evening at the age of 71, the long-time senator's office announced. “Senator Graham's family appreciates prayers at this time and asks for privacy during this incredibly difficult period,” Graham’s office wrote in a post on the social platform X at 2:02 a.m....",
-        "url": "https://thehill.com/homenews/senate/5964424-lindsey-graham-sudden-death/"
-    },
-    {
-        "id": "https://thehill.com/blogs/in-the-know/5964306-starmer-norway-england-win/",
-        "source": "The Hill",
-        "title": "Keir Starmer teases Norwegian PM after World Cup win",
-        "publicationDate": "2026-07-12",
-        "category": "In The Know",
-        "summary": "United Kingdom Prime Minister Keir Starmer teased his Norwegian counterpart after England beat Norway in a World Cup game on Saturday. “Norway 1 - 2 Jude Bellingham. @JonasGahrStore, your boys took one hell of beating,” the outgoing prime minister wrote in a social media post. Bellingham, a midfielder on the England national team, scored both...",
-        "url": "https://thehill.com/blogs/in-the-know/5964306-starmer-norway-england-win/"
+        "category": "United States Politics and Government",
+        "summary": "South Carolina law suggests his death triggers an Aug. 11 special Republican primary election, and the state’s governor can appoint a replacement to serve out the rest of his term, through early January.",
+        "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
         "source": "New York Times Politics",
-        "title": "Tributes Pour In for Senator Lindsey Graham",
+        "title": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
         "publicationDate": "2026-07-12",
         "category": "Foreign Policy",
-        "summary": "Mr. Graham’s sudden death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy for two decades.",
+        "summary": "Mr. Graham’s unexpected death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy.",
         "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html"
-    },
-    {
-        "id": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest",
-        "source": "New York Times Politics",
-        "title": "Here’s the latest.",
-        "publicationDate": "2026-07-12",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest"
     },
     {
         "id": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
@@ -164,19 +200,19 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
         "publicationDate": "2026-07-12",
         "category": "Foreign Policy",
-        "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
+        "summary": "The strikes follow an attack on a Cyprus-flagged vessel travelling through the critical waterway.",
         "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
         "publicationDate": "2026-07-12",
-        "category": "Foreign Policy",
-        "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+        "category": "Other",
+        "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
         "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -185,7 +221,7 @@
         "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
         "publicationDate": "2026-07-12",
         "category": "Other",
-        "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
+        "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
         "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -198,85 +234,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "At least two killed in Toronto street festival shooting",
+        "id": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
+        "source": "Financial Times World",
+        "title": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
         "publicationDate": "2026-07-12",
         "category": "Other",
-        "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
-        "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss"
+        "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
+        "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475"
+    },
+    {
+        "id": "https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05",
+        "source": "Financial Times World",
+        "title": "Iran bets Trump will blink first",
+        "publicationDate": "2026-07-12",
+        "category": "Foreign Policy",
+        "summary": "Tehran takes high-stakes gamble with US over Strait of Hormuz",
+        "url": "https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05"
+    },
+    {
+        "id": "https://www.ft.com/content/dbb9bacd-941e-4492-a031-2e4117451c4f",
+        "source": "Financial Times World",
+        "title": "Yes, peer review has problems. But Trump’s solution is dangerous",
+        "publicationDate": "2026-07-12",
+        "category": "Other",
+        "summary": "Replacing academic judgment with political alignment undermines the very engine of discovery",
+        "url": "https://www.ft.com/content/dbb9bacd-941e-4492-a031-2e4117451c4f"
+    },
+    {
+        "id": "https://www.ft.com/content/abf482c9-6ec7-4008-8fe1-651132b2aed7",
+        "source": "Financial Times World",
+        "title": "Andy Burnham looks at holding expanded autumn Budget",
+        "publicationDate": "2026-07-12",
+        "category": "Economy",
+        "summary": "UK’s incoming PM is exploring combining fiscal statement with spending review to set out his political strategy",
+        "url": "https://www.ft.com/content/abf482c9-6ec7-4008-8fe1-651132b2aed7"
     },
     {
         "id": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
         "source": "Financial Times World",
-        "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
+        "title": "US and Iran exchange fresh strikes in battle over Strait of Hormuz",
         "publicationDate": "2026-07-12",
         "category": "Foreign Policy",
-        "summary": "Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar",
+        "summary": "Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’",
         "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d"
-    },
-    {
-        "id": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb",
-        "source": "Financial Times World",
-        "title": "US senator Lindsey Graham dies aged 71",
-        "publicationDate": "2026-07-12",
-        "category": "Other",
-        "summary": "South Carolina politician was one of the most influential and hawkish Republicans",
-        "url": "https://www.ft.com/content/b3b93565-652a-41e9-aabd-9ed35309bdeb"
-    },
-    {
-        "id": "https://www.ft.com/content/e45a07e4-8c63-4505-99b9-8dc24a811444",
-        "source": "Financial Times World",
-        "title": "UK launches national dementia registry to speed up search for treatments",
-        "publicationDate": "2026-07-12",
-        "category": "Technology",
-        "summary": "Platform aims to improve access to clinical trials and boost life sciences investment in the country",
-        "url": "https://www.ft.com/content/e45a07e4-8c63-4505-99b9-8dc24a811444"
-    },
-    {
-        "id": "https://www.ft.com/content/aba8d356-489a-469b-bb49-b54e74acc3a0",
-        "source": "Financial Times World",
-        "title": "Stranded pollock prompt EU to delay fish import controls for US",
-        "publicationDate": "2026-07-12",
-        "category": "Other",
-        "summary": "System introduced to crack down on illegal fishing has left cargoes stuck in docks for days",
-        "url": "https://www.ft.com/content/aba8d356-489a-469b-bb49-b54e74acc3a0"
-    },
-    {
-        "id": "https://www.ft.com/content/4df50959-1cd6-4d10-a586-9aaf589339e6",
-        "source": "Financial Times World",
-        "title": "The ‘innovators and disrupters’ hired to bring AI to the UK public sector",
-        "publicationDate": "2026-07-12",
-        "category": "Other",
-        "summary": "Government fellowship scheme places tech experts on ‘high-impact tours of duty’ to improve services",
-        "url": "https://www.ft.com/content/4df50959-1cd6-4d10-a586-9aaf589339e6"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
-        "source": "NPR Politics",
-        "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
-        "publicationDate": "2026-07-11",
-        "category": "Defense",
-        "summary": "The Times says federal agents turned up on the doorsteps of several of its journalists to force grand jury testimony next week over their coverage of the Air Force One plane gifted to Trump by Qatar.",
-        "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/11/nx-s1-5888579/week-in-politics-trumps-housing-bill-protest-fails-trump-and-nato-maines-democrats",
-        "source": "NPR Politics",
-        "title": "Week in Politics: Trump's housing bill protest fails; Trump and NATO; Maine's Democrats",
-        "publicationDate": "2026-07-11",
-        "category": "Other",
-        "summary": "President Trump refused to sign a housing bill, now law, in protest over Congress not passing new restrictions on voting.",
-        "url": "https://www.npr.org/2026/07/11/nx-s1-5888579/week-in-politics-trumps-housing-bill-protest-fails-trump-and-nato-maines-democrats"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/11/nx-s1-5888416/inside-the-gop-playbook-republican-strategist-liam-donovan-on-reclaiming-the-majority",
-        "source": "NPR Politics",
-        "title": "Inside the GOP playbook: Republican strategist Liam Donovan on reclaiming the majority",
-        "publicationDate": "2026-07-11",
-        "category": "Other",
-        "summary": "NPR's Scott Simon asks Republican strategist Liam Donovan about his party's approach to November's Senate races.",
-        "url": "https://www.npr.org/2026/07/11/nx-s1-5888416/inside-the-gop-playbook-republican-strategist-liam-donovan-on-reclaiming-the-majority"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/sen-whitehouse-announces-whistleblower-allegations-of-construction-problems-at-kennedy-center",
@@ -313,6 +313,15 @@
         "category": "Defense",
         "summary": "The subpoenas seek to force the reporters to testify before a federal grand jury in Manhattan next week, the Times said, adding that federal agents delivered some subpoenas to the reporters at their homes.",
         "url": "https://www.pbs.org/newshour/politics/new-york-times-reporters-are-subpoenaed-after-air-force-one-stories-raising-press-freedom-concerns"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+        "publicationDate": "2026-07-11",
+        "category": "Other",
+        "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R49028",
@@ -412,15 +421,6 @@
         "category": "European Power",
         "summary": "With American competitiveness declining, the EU has a chance to offer tech start-ups something better. To create this new generation of EU Incs, the bloc will first need to better align its regulation and resources",
         "url": "https://ecfr.eu/article/eu-incorporated-the-way-to-start-up-european-competitiveness/"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/the-epa-promised-a-maha-agenda-it-has-yet-to-materialize-frustrating-activists",
-        "source": "PBS NewsHour Politics",
-        "title": "The EPA promised a MAHA agenda. It has yet to materialize, frustrating activists",
-        "publicationDate": "2026-07-10",
-        "category": "Healthcare",
-        "summary": "After Make America Healthy Again activists drew up a petition to get him fired, EPA administrator Lee Zeldin pledged to release a formal agenda of MAHA priorities his agency would pursue. But eight months after its first mention, the so-called MAHA agenda is nowhere to be found.",
-        "url": "https://www.pbs.org/newshour/politics/the-epa-promised-a-maha-agenda-it-has-yet-to-materialize-frustrating-activists"
     },
     {
         "id": "https://www.cfr.org/articles/whither-african-solidarity",
