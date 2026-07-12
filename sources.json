@@ -74,10 +74,10 @@
     {
         "id": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
         "source": "NPR Politics",
-        "title": "Some are raising ethical concerns about political text messages using AI",
+        "title": "Campaign text messages could soon get more effective — and annoying",
         "publicationDate": "2026-07-12",
         "category": "Other",
-        "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.",
+        "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages, making AI-generated texting conversations the latest tool political campaigns are using to connect.",
         "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns"
     },
     {
@@ -90,6 +90,15 @@
         "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/from-staunch-critic-to-fierce-ally-grahams-long-strange-and-consequential-friendship-with-trump",
+        "source": "PBS NewsHour Politics",
+        "title": "From staunch critic to fierce ally: Graham's long, strange and consequential friendship with Trump",
+        "publicationDate": "2026-07-12",
+        "category": "Donald Trump news",
+        "summary": "After the Capitol riot on Jan. 6, 2021, Sen. Lindsey Graham said he had finally had enough of the man who was championed by the mob that stormed the pillar of American democracy: President Donald Trump.",
+        "url": "https://www.pbs.org/newshour/politics/from-staunch-critic-to-fierce-ally-grahams-long-strange-and-consequential-friendship-with-trump"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/sen-lindsey-graham-dies-after-a-brief-and-sudden-illness-his-office-says",
         "source": "PBS NewsHour Politics",
         "title": "Sen. Lindsey Graham dies after a 'brief and sudden illness,' his office says",
@@ -99,49 +108,85 @@
         "url": "https://www.pbs.org/newshour/politics/sen-lindsey-graham-dies-after-a-brief-and-sudden-illness-his-office-says"
     },
     {
-        "id": "https://thehill.com/policy/defense/5964623-iran-us-nato-tensions/",
+        "id": "https://thehill.com/homenews/administration/5964793-fbi-assists-in-graham-death/",
         "source": "The Hill",
-        "title": "US ambassador to NATO says Iran ‘controlled by a bunch of crazy people’",
-        "publicationDate": "2026-07-12",
-        "category": "Defense",
-        "summary": "U.S. Ambassador to NATO Matthew Whitaker said Sunday that Iran is “controlled by a bunch of crazy people” after escalating tensions between Washington and Tehran. “President Trump's a peacemaker, Jake, and he wants a deal with Iran. He wants to make sure that they never have a nuclear weapon, that they join the world as...",
-        "url": "https://thehill.com/policy/defense/5964623-iran-us-nato-tensions/"
-    },
-    {
-        "id": "https://thehill.com/opinion/finance/5962740-bubble-wedding-industry-economics/",
-        "source": "The Hill",
-        "title": "Til debt do us part: The coming collapse of the American wedding industry",
-        "publicationDate": "2026-07-12",
-        "category": "Economy",
-        "summary": "The traditional wedding has become a luxury purchase — one that’s quickly pricing out the average couple.",
-        "url": "https://thehill.com/opinion/finance/5962740-bubble-wedding-industry-economics/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/5964574-trump-graham-save-america-act/",
-        "source": "The Hill",
-        "title": "Trump says Graham's death is 'big blow to the SAVE America Act'",
+        "title": "Patel says FBI 'is assisting local authorities' after Graham's death",
         "publicationDate": "2026-07-12",
         "category": "Administration",
-        "summary": "President Trump on Sunday said Sen. Lindsey Graham's (R-S.C.) sudden death is a \"big blow to\" the Safeguard American Voter Eligibility (SAVE America) Act, the president's legislative priority. Trump called in to NBC News's \"Meet the Press\" and told host Kristen Welker that Graham thought the White House was going to have the SAVE America...",
-        "url": "https://thehill.com/homenews/administration/5964574-trump-graham-save-america-act/"
+        "summary": "FBI Director Kash Patel said Sunday his bureau is “assisting local authorities” in the wake of the death of Sen. Lindsey Graham (R-S.C.). “Senator Lindsey Graham was a devoted public servant, a fierce defender of our nation, and a true patriot who dedicated his life to the people of South Carolina and the United States,”...",
+        "url": "https://thehill.com/homenews/administration/5964793-fbi-assists-in-graham-death/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/5964552-tim-scott-reflects-graham-death/",
+        "id": "https://thehill.com/homenews/campaign/5964775-khanna-regrets-platner-endorsement/",
         "source": "The Hill",
-        "title": "Lindsey Graham was 'loud and obvious, and sometimes even obnoxious': Tim Scott",
+        "title": "Ro Khanna says he regrets endorsing Graham Platner in Maine Senate race",
         "publicationDate": "2026-07-12",
-        "category": "Senate",
-        "summary": "Sen. Tim Scott (R-S.C.) on Sunday said his colleague Sen. Lindsey Graham (R-S.C.), who died suddenly the night before, could be \"loud and obvious, and sometimes even obnoxious.\" Scott reflected on his time working with Graham in the Senate during an appearance on \"Fox News Sunday\" with Gillian Turner, saying Graham's death left a hole...",
-        "url": "https://thehill.com/homenews/senate/5964552-tim-scott-reflects-graham-death/"
+        "category": "Campaign",
+        "summary": "Rep. Ro Khanna (D-Calif.) on Sunday said he regretted endorsing former Maine Senate candidate Graham Platner (D), who formally dropped out of the race against Sen. Susan Collins (R-Maine) after an ex-girlfriend came forward and alleged that the former candidate sexually assaulted her in 2021. \"I got that call wrong,\" Khanna told \"Meet the Press\"...",
+        "url": "https://thehill.com/homenews/campaign/5964775-khanna-regrets-platner-endorsement/"
     },
     {
-        "id": "https://thehill.com/opinion/technology/5962971-promise-rover-lunar-mission/",
+        "id": "https://thehill.com/homenews/senate/5964754-russia-sanctions-bill-graham-legacy/",
         "source": "The Hill",
-        "title": "NASA mulls sending a nuclear-powered Mars rover to the moon",
+        "title": "Shaheen pushes Congress to pass Graham’s Russia sanctions bill after senator's death",
         "publicationDate": "2026-07-12",
-        "category": "Technology",
-        "summary": "Such a proposal represents outside-the-box thinking for NASA, which is becoming more common under Isaacman’s leadership.",
-        "url": "https://thehill.com/opinion/technology/5962971-promise-rover-lunar-mission/"
+        "category": "Foreign Policy",
+        "summary": "Sen. Jeanne Shaheen (D-N.H.) on Sunday urged members of Congress to pass a Russia sanctions bill in honor of Sen. Lindsey Graham (R-S.C.) and his legacy as an advocate for Ukraine amid its war against the Kremlin. Graham died on Saturday evening due to a “brief and sudden illness” per his office. “On Friday, Senators...",
+        "url": "https://thehill.com/homenews/senate/5964754-russia-sanctions-bill-graham-legacy/"
+    },
+    {
+        "id": "https://thehill.com/policy/national-security/5964782-himes-calls-air-force-one-risk/",
+        "source": "The Hill",
+        "title": "House Democrat calls new Air Force One 'a security risk' for Trump",
+        "publicationDate": "2026-07-12",
+        "category": "Defense",
+        "summary": "Rep. Jim Himes (D-Conn.) called President Trump’s new Air Force One “a security risk,” as the plane faces controversy for its level of security. “The actual Air Force One, not the Qatari version, is really — it looks like a plane, but it's got some capabilities that you wouldn't believe,” Himes told CNN’s Jake Tapper...",
+        "url": "https://thehill.com/policy/national-security/5964782-himes-calls-air-force-one-risk/"
+    },
+    {
+        "id": "https://thehill.com/opinion/technology/5963691-china-tech-race-supercomputer/",
+        "source": "The Hill",
+        "title": "Congress should share, not shield, US artificial intelligence tech",
+        "publicationDate": "2026-07-12",
+        "category": "Defense",
+        "summary": "China has unveiled the world's fastest supercomputer, LineShine, which was able to bypass U.S. export restrictions by using a network of CPU standard microprocessors instead of GPUs.",
+        "url": "https://thehill.com/opinion/technology/5963691-china-tech-race-supercomputer/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html",
+        "source": "New York Times Politics",
+        "title": "Michael Cohen Helped Convict Trump. Now, He’s Making Nice Again.",
+        "publicationDate": "2026-07-12",
+        "category": "United States Politics and Government",
+        "summary": "A previously unreported encounter last summer set the stage for a rapprochement between the president and his former fixer, who has so far avoided the diatribes and prosecutions that President Trump has directed at other critics.",
+        "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-cohen-meeting-show.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-aging-congress.html",
+        "source": "New York Times Politics",
+        "title": "Graham’s Death Highlights Congress’s Age Issue",
+        "publicationDate": "2026-07-12",
+        "category": "United States Politics and Government",
+        "summary": "By the standards of the aging Senate, where the average age is more than 65, the South Carolina Republican wasn’t particularly old.",
+        "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-aging-congress.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
+        "source": "New York Times Politics",
+        "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
+        "publicationDate": "2026-07-12",
+        "category": "Defense",
+        "summary": "President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.",
+        "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html",
+        "source": "New York Times Politics",
+        "title": "Trump Recalls Last Conversation With Lindsey Graham Before His Death",
+        "publicationDate": "2026-07-12",
+        "category": "United States Politics and Government",
+        "summary": "In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.",
+        "url": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html",
@@ -153,49 +198,22 @@
         "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
-        "source": "New York Times Politics",
-        "title": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
-        "publicationDate": "2026-07-12",
-        "category": "Foreign Policy",
-        "summary": "Mr. Graham’s unexpected death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy.",
-        "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
-        "source": "New York Times Politics",
-        "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
-        "publicationDate": "2026-07-12",
-        "category": "Defense",
-        "summary": "The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.",
-        "url": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/12/us/politics/todd-blanche-attorney-general-confirmation.html",
-        "source": "New York Times Politics",
-        "title": "Blanche Stares Down Confirmation Hurdle: Lingering G.O.P. Doubts",
-        "publicationDate": "2026-07-12",
-        "category": "United States Politics and Government",
-        "summary": "Key Republicans on the Judiciary Committee could push for concessions from Todd Blanche, in line to be attorney general, though they did not appear in revolt.",
-        "url": "https://www.nytimes.com/2026/07/12/us/politics/todd-blanche-attorney-general-confirmation.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/12/nyregion/dsa-young-voters-primary-ny.html",
-        "source": "New York Times Politics",
-        "title": "Younger Voters Are Propelling the Democratic Socialist Surge in New York",
-        "publicationDate": "2026-07-12",
-        "category": "Age",
-        "summary": "Age seemed to be the predominant factor in the Democratic Socialists of America’s primary wins in House races in New York City.",
-        "url": "https://www.nytimes.com/2026/07/12/nyregion/dsa-young-voters-primary-ny.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/",
         "source": "Washington Post Politics",
-        "title": "Lindsey Graham, longtime senator from South Carolina, dies at 71",
+        "title": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family",
         "publicationDate": "2026-07-12",
         "category": "Foreign Policy",
-        "summary": "Graham, a staunch Trump ally and key GOP foreign policy voice, was running for reelection this year. He died of a “brief and sudden illness,” his office said.",
+        "summary": "Graham died hours after returning from a trip to Ukraine. Trump said he spoke with the senator Saturday evening and that “could’ve been his last call.”",
         "url": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "At least 27 killed in Bangkok bar fire, Thai media report",
+        "publicationDate": "2026-07-12",
+        "category": "Other",
+        "summary": "Unverified footage shows flames blasting out of the bar as people flee.",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
@@ -203,7 +221,7 @@
         "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
         "publicationDate": "2026-07-12",
         "category": "Foreign Policy",
-        "summary": "The strikes follow an attack on a Cyprus-flagged vessel travelling through the critical waterway.",
+        "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
         "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -212,7 +230,7 @@
         "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
         "publicationDate": "2026-07-12",
         "category": "Other",
-        "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+        "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
         "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -234,15 +252,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
-        "source": "Financial Times World",
-        "title": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
-        "publicationDate": "2026-07-12",
-        "category": "Other",
-        "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
-        "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475"
-    },
-    {
         "id": "https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05",
         "source": "Financial Times World",
         "title": "Iran bets Trump will blink first",
@@ -252,31 +261,40 @@
         "url": "https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05"
     },
     {
-        "id": "https://www.ft.com/content/dbb9bacd-941e-4492-a031-2e4117451c4f",
+        "id": "https://www.ft.com/content/4b291727-6914-4f61-b1a9-9396c610117c",
         "source": "Financial Times World",
-        "title": "Yes, peer review has problems. But Trump’s solution is dangerous",
+        "title": "A big week for US banks and Andy Burnham",
         "publicationDate": "2026-07-12",
         "category": "Other",
-        "summary": "Replacing academic judgment with political alignment undermines the very engine of discovery",
-        "url": "https://www.ft.com/content/dbb9bacd-941e-4492-a031-2e4117451c4f"
-    },
-    {
-        "id": "https://www.ft.com/content/abf482c9-6ec7-4008-8fe1-651132b2aed7",
-        "source": "Financial Times World",
-        "title": "Andy Burnham looks at holding expanded autumn Budget",
-        "publicationDate": "2026-07-12",
-        "category": "Economy",
-        "summary": "UK’s incoming PM is exploring combining fiscal statement with spending review to set out his political strategy",
-        "url": "https://www.ft.com/content/abf482c9-6ec7-4008-8fe1-651132b2aed7"
+        "summary": "Britain’s next PM to be rubber-stamped while Wall Street lenders to roar ahead of the earnings season charge",
+        "url": "https://www.ft.com/content/4b291727-6914-4f61-b1a9-9396c610117c"
     },
     {
         "id": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
         "source": "Financial Times World",
-        "title": "US and Iran exchange fresh strikes in battle over Strait of Hormuz",
+        "title": "US launches new strikes on Iran in battle over Strait of Hormuz",
         "publicationDate": "2026-07-12",
         "category": "Foreign Policy",
         "summary": "Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’",
         "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d"
+    },
+    {
+        "id": "https://www.ft.com/content/2855aa69-7bce-4921-9c80-66e0f78d2575",
+        "source": "Financial Times World",
+        "title": "Lindsey Graham, Republican senator, 1955-2026",
+        "publicationDate": "2026-07-12",
+        "category": "Other",
+        "summary": "Veteran proponent of US power was a Trump critic who became one of the president’s most influential advocates",
+        "url": "https://www.ft.com/content/2855aa69-7bce-4921-9c80-66e0f78d2575"
+    },
+    {
+        "id": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
+        "source": "Financial Times World",
+        "title": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
+        "publicationDate": "2026-07-12",
+        "category": "Other",
+        "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
+        "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/sen-whitehouse-announces-whistleblower-allegations-of-construction-problems-at-kennedy-center",
@@ -304,24 +322,6 @@
         "category": "Defense",
         "summary": "A representative for Khanna, a California Democrat who is an outspoken progressive, said the confrontation occurred Wednesday in the middle of a three-day tour of the West Bank.",
         "url": "https://www.pbs.org/newshour/politics/rep-ro-khanna-says-he-was-detained-by-the-israeli-military-and-settlers-in-the-west-bank"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/new-york-times-reporters-are-subpoenaed-after-air-force-one-stories-raising-press-freedom-concerns",
-        "source": "PBS NewsHour Politics",
-        "title": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns",
-        "publicationDate": "2026-07-11",
-        "category": "Defense",
-        "summary": "The subpoenas seek to force the reporters to testify before a federal grand jury in Manhattan next week, the Times said, adding that federal agents delivered some subpoenas to the reporters at their homes.",
-        "url": "https://www.pbs.org/newshour/politics/new-york-times-reporters-are-subpoenaed-after-air-force-one-stories-raising-press-freedom-concerns"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-        "publicationDate": "2026-07-11",
-        "category": "Other",
-        "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R49028",
