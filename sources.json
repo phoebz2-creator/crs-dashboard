@@ -1,21 +1,192 @@
 [
     {
-        "id": "IN12705",
-        "source": "Congressional Research Service",
-        "title": "Small Business Research Programs Reauthorized After Six-Month Lapse",
-        "publicationDate": "2026-07-13",
-        "category": "Defense",
-        "summary": "On April 13, 2026, President Trump signed the Small Business Innovation and Economic Security Act (P.L. 119-83) into law. P.L. 119-83 reauthorized the Small Business Innovation Research (SBIR) program, the Small Business Technology Transfer (STTR) program, and related pilot efforts (e.g., commercialization assistance pilot program and phase flexibility) through September 30, 2031—ending a six-month lapse in...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12705/IN12705.2.pdf"
+        "id": "https://thehill.com/homenews/state-watch/5966877-immigration-shooting-public-safety/",
+        "source": "The Hill",
+        "title": "DHS: ICE officer shot man in Maine after 'fearing for public safety'",
+        "publicationDate": "2026-07-14",
+        "category": "State Watch",
+        "summary": "The Department of Homeland Security (DHS) said Monday the federal immigration officer who fatally shot a man in Maine did so out of fear for “public safety.” The department wrote on X that Immigration and Customs Enforcement (ICE) officers were conducting “targeted surveillance on the last known address” of an undocumented migrant in Biddeford, Maine,...",
+        "url": "https://thehill.com/homenews/state-watch/5966877-immigration-shooting-public-safety/"
     },
     {
-        "id": "R49030",
+        "id": "https://thehill.com/policy/international/5966855-uae-tankers-targeted-iranian-forces/",
+        "source": "The Hill",
+        "title": "UAE says Iran hit two of its tankers, killing one crew member",
+        "publicationDate": "2026-07-14",
+        "category": "Defense",
+        "summary": "The defense ministry of the United Arab Emirates (UAE) said Monday Iranian forces targeted a pair of its tankers in the Strait of Hormuz, killing one crew member. The UAE Ministry of Defence wrote on social platform X Iranian cruise missiles hit the country’s Mombasa and Al Bahiyah tankers, which were transiting the southern lane...",
+        "url": "https://thehill.com/policy/international/5966855-uae-tankers-targeted-iranian-forces/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/5966832-esper-supports-trump-blockade/",
+        "source": "The Hill",
+        "title": "Esper: Trump reimposing naval blockade on Iran 'the right move'",
+        "publicationDate": "2026-07-14",
+        "category": "Defense",
+        "summary": "Former Defense Secretary Mark Esper said Monday that President Trump made the “right move” in resuming the U.S. naval blockade of Iranian ports. “I agree with the president, I think it’s the right move to reinstate the blockade,” Esper, who ran the Pentagon during Trump’s first term, said on CNN’s “Erin Burnett OutFront.” Earlier Monday,...",
+        "url": "https://thehill.com/policy/defense/5966832-esper-supports-trump-blockade/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/5966795-ron-johnson-mitch-mcconnell-photo/",
+        "source": "The Hill",
+        "title": "GOP Sen. Ron Johnson says he's not sure McConnell photo with Chao is new",
+        "publicationDate": "2026-07-14",
+        "category": "Healthcare",
+        "summary": "Republican Sen. Ron Johnson (Wisc.) on Monday cast doubt on the recency of a photo Sen. Mitch McConnell’s (R-Ky.) shared of himself in the hospital alongside his wife. “I’ve just heard from some other sources that was an older photo. So I really don’t know,” Johnson told host Eric Bolling on Real America’s Voice’s “Bolling!”...",
+        "url": "https://thehill.com/homenews/senate/5966795-ron-johnson-mitch-mcconnell-photo/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/5966766-trump-endorses-seven-republicans/",
+        "source": "The Hill",
+        "title": "Trump endorses multiple House GOP candidates",
+        "publicationDate": "2026-07-14",
+        "category": "Campaign",
+        "summary": "President Trump on Monday endorsed seven Republicans seeking election to the House for the first time, as the GOP clings to a narrow majority in the lower chamber ahead of the midterms. In a slew of posts on Truth Social, Trump threw his support behind John Cowan in Georgia’s 11th Congressional District, Anthony DiLorenzo in...",
+        "url": "https://thehill.com/homenews/campaign/5966766-trump-endorses-seven-republicans/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/13/us/politics/trump-health-dept-funding-freeze-democratic-states.html",
+        "source": "New York Times Politics",
+        "title": "Health Dept. Rescinds Freeze on $10 Billion for 5 Democratic States",
+        "publicationDate": "2026-07-14",
+        "category": "Healthcare",
+        "summary": "The reversal of the funding pause came after the administration faced repeated setbacks in a suit challenging the decision, which could have jeopardized programs for low-income households.",
+        "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-health-dept-funding-freeze-democratic-states.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html",
+        "source": "New York Times Politics",
+        "title": "Graham’s Death Complicates G.O.P. Agenda in Congress",
+        "publicationDate": "2026-07-14",
+        "category": "United States Politics and Government",
+        "summary": "Senators returned to the Capitol mourning their colleague, who played pivotal roles on multiple issues confronting lawmakers.",
+        "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-complications-gop-agenda.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/13/us/politics/maine-ice-shooting-senate-graham-platner.html",
+        "source": "New York Times Politics",
+        "title": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
+        "publicationDate": "2026-07-14",
+        "category": "Maine",
+        "summary": "The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.",
+        "url": "https://www.nytimes.com/2026/07/13/us/politics/maine-ice-shooting-senate-graham-platner.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html",
+        "source": "New York Times Politics",
+        "title": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls",
+        "publicationDate": "2026-07-14",
+        "category": "Foreign Policy",
+        "summary": "After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.",
+        "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/obituaries/2026/07/13/pat-oliphant-pulitzer-winning-giant-political-cartooning-has-died/",
+        "source": "Washington Post Politics",
+        "title": "Pat Oliphant, prizewinning giant of political cartooning, dies at 90",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "The Pulitzer Prize-winning cartoonist skewered presidents from Johnson to Trump, reaching a vast audience through syndication.",
+        "url": "https://www.washingtonpost.com/obituaries/2026/07/13/pat-oliphant-pulitzer-winning-giant-political-cartooning-has-died/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
+        "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
+        "url": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+        "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Colombian national killed by ICE agent during operation in Maine",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
+        "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/0fdd19bd-0d22-4c95-86f8-fdeca1e3db97",
+        "source": "Financial Times World",
+        "title": "How QE changed banks, and why that makes QT dangerous",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "An interview with Jill Cetina",
+        "url": "https://www.ft.com/content/0fdd19bd-0d22-4c95-86f8-fdeca1e3db97"
+    },
+    {
+        "id": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
+        "source": "Financial Times World",
+        "title": "US launches air strikes as Iran targets tankers with cruise missiles",
+        "publicationDate": "2026-07-14",
+        "category": "Foreign Policy",
+        "summary": "Donald Trump demands 20% fee on cargoes passing through Strait of Hormuz",
+        "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c"
+    },
+    {
+        "id": "https://www.ft.com/content/cd1fac0e-1e1d-4380-b294-a99708069b96",
+        "source": "Financial Times World",
+        "title": "Serbia’s Vučić urges EU to admit Western Balkan states as a group",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "Also in this newsletter: the EU is not doing enough to shield farmers, says Spain’s agriculture minister",
+        "url": "https://www.ft.com/content/cd1fac0e-1e1d-4380-b294-a99708069b96"
+    },
+    {
+        "id": "https://www.ft.com/content/c49be701-7fa4-43e3-b40f-4ca9ad563bc0",
+        "source": "Financial Times World",
+        "title": "You should be glad your boss is so well paid",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "Because it probably means you’re being paid well too",
+        "url": "https://www.ft.com/content/c49be701-7fa4-43e3-b40f-4ca9ad563bc0"
+    },
+    {
+        "id": "https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275",
+        "source": "Financial Times World",
+        "title": "FirstFT: US retaliates after Iran hit tankers with missiles",
+        "publicationDate": "2026-07-14",
+        "category": "Foreign Policy",
+        "summary": "Also in today’s newsletter: Nvidia halves Asia buyer list and Rothschild’s UK investment bank",
+        "url": "https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275"
+    },
+    {
+        "id": "IF10673",
         "source": "Congressional Research Service",
-        "title": "Forward-Funded Federal Education Programs: Frequently Asked Questions",
+        "title": "U.S. Trade and Development Agency: Background and Issues",
         "publicationDate": "2026-07-13",
-        "category": "Economy",
-        "summary": "In the annual appropriations process, Congress elects to make appropriations for certain federal education programs, in part, on a forward-funded basis. Programs funded in this manner receive appropriations in an appropriations act that become available during the last quarter of the fiscal year (i.e., on July 1) and remain available in the next fiscal year. Such programs also may receive an additional amount of...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49030/R49030.1.pdf"
+        "category": "Defense",
+        "summary": "The U.S. Trade and Development Agency (USTDA) funds early-stage activities to support development projects in developing and middle-income countries, with a focus on sectors with “significant” U.S. export potential. USTDA describes itself as “the U.S. government’s first mover on critical infrastructure development in emerging markets,” funding “upfront technical work that accelerates” projects and “helping [those...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10673/IF10673.11.pdf"
+    },
+    {
+        "id": "IF12106",
+        "source": "Congressional Research Service",
+        "title": "Iran and Nuclear Weapons Production",
+        "publicationDate": "2026-07-13",
+        "category": "Defense",
+        "summary": "Since the early 2000s, Tehran’s construction of gas centrifuge uranium enrichment facilities has generated widespread concern in Congress that Tehran is pursuing nuclear weapons. According to past U.S. intelligence assessments, Tehran had the capacity to produce nuclear weapons at some point but had halted its nuclear weapons program and had not mastered all of the necessary technologies for building such weapons....",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12106/IF12106.22.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/chinas-transnational-repression-is-being-met-with-a-deafening-silence-2",
@@ -117,49 +288,49 @@
         "url": "https://www.hudson.org/foreign-policy/what-does-renewal-combat-mean-iran-mean-where-will-it-take-us-walter-russell-mead"
     },
     {
-        "id": "https://www.hoover.org/research/how-californias-high-minimum-wage-will-increase-wildfire-risk",
+        "id": "https://www.hoover.org/research/tune-special-broadcasts-2026-aspen-security-forum",
         "source": "Hoover Institution",
-        "title": "How California's High Minimum Wage Will Increase Wildfire Risk",
+        "title": "Tune In For Special Broadcasts From The 2026 Aspen Security Forum",
         "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "Hint: The marginal cost of deploying goats is rising!",
-        "url": "https://www.hoover.org/research/how-californias-high-minimum-wage-will-increase-wildfire-risk"
+        "category": "Economy",
+        "summary": "Hoover Institution fellows Condoleezza Rice, Chris Brose, Elizabeth Economy and Anja Manuel will be participating in a special broadcast at 8pm each evening, Tuesday, July 14, through Friday, July 17.",
+        "url": "https://www.hoover.org/research/tune-special-broadcasts-2026-aspen-security-forum"
     },
     {
-        "id": "https://www.hoover.org/research/free-systems-roll",
+        "id": "https://www.hoover.org/research/secretary-energy-chris-wright-announces-newly-appointed-members-secretary-energy-advisory",
         "source": "Hoover Institution",
-        "title": "Free Systems Is On A Roll",
+        "title": "Secretary Of Energy Chris Wright Announces Newly Appointed Members Of The Secretary Of Energy Advisory Board",
         "publicationDate": "2026-07-13",
         "category": "Other",
-        "summary": "How we're expanding, the status of the 100x research institute 6 months in, and how the slopocalypse is playing out.",
-        "url": "https://www.hoover.org/research/free-systems-roll"
+        "summary": "Hoover Institution fellow Steve Koonin has been appointed as a member of the Secretary of Energy Advisory Board, whose terms expire in May 2028.",
+        "url": "https://www.hoover.org/research/secretary-energy-chris-wright-announces-newly-appointed-members-secretary-energy-advisory"
     },
     {
-        "id": "https://www.hoover.org/research/hidden-cost-njs-teacher-pensions-32-billion-never-reached-students",
+        "id": "https://www.hoover.org/research/geoeconomics-turns-trade-dependence-strategic-risk",
         "source": "Hoover Institution",
-        "title": "The Hidden Cost Of N.J.’s Teacher Pensions: $3.2 Billion That Never Reached Students",
+        "title": "Geoeconomics Turns Trade Dependence Into Strategic Risk",
         "publicationDate": "2026-07-13",
         "category": "Other",
-        "summary": "New Jersey’s public schools are facing a silent fiscal crisis. Despite billions in additional pension contributions and strong investment markets over the past decade, the Garden State’s education-employee pension plans remain deeply underfunded — and the cost of shoring them up is increasingly crowding out classroom priorities.",
-        "url": "https://www.hoover.org/research/hidden-cost-njs-teacher-pensions-32-billion-never-reached-students"
+        "summary": "Hoover Institution fellow Matteo Maggiori describes a supplier gaining leverage when it controls a large part of a market, and buyers cannot find adequate substitutes as an economic choke point. Even a limited alternative can sharply reduce the dominant supplier’s power.",
+        "url": "https://www.hoover.org/research/geoeconomics-turns-trade-dependence-strategic-risk"
     },
     {
-        "id": "https://www.hoover.org/research/trump-slump-capitalism-vs-communism-and-old-man-yells-claude",
+        "id": "https://www.hoover.org/research/we-must-act-now-sixteen-nobel-laureates-join-leading-economists-and-ai-researchers-call",
         "source": "Hoover Institution",
-        "title": "Trump Slump, Capitalism Vs. Communism, And Old Man Yells At Claude",
+        "title": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists And AI Researchers In Call To Prepare For AI’s Economic Transformation",
         "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "After a string of disappointments at home and abroad, has a beset President Trump lost his “mojo” – and, if so, does the road to getting it back run through Cuba? Speaking of socialism, is Bernie Sanders correct?",
-        "url": "https://www.hoover.org/research/trump-slump-capitalism-vs-communism-and-old-man-yells-claude"
+        "category": "Economy",
+        "summary": "Hoover Institution fellow Michael Spence said, “The scale, scope, and speed of the advances in AI, combined with a high level of uncertainty about the magnitude and timing of the impacts across many parts of the economy, call for an ‘all hands on deck’ approach to steering AI in beneficial directions.”",
+        "url": "https://www.hoover.org/research/we-must-act-now-sixteen-nobel-laureates-join-leading-economists-and-ai-researchers-call"
     },
     {
-        "id": "https://www.hoover.org/research/sawdust-paw-patrol-spin-master-story",
+        "id": "https://www.hoover.org/research/day-liberal-judicial-activism-july-10",
         "source": "Hoover Institution",
-        "title": "From Sawdust to Paw Patrol: The Spin Master Story",
+        "title": "This Day In Liberal Judicial Activism—July 10",
         "publicationDate": "2026-07-13",
         "category": "Other",
-        "summary": "The unlikely path to building one of the world's biggest toy companies.",
-        "url": "https://www.hoover.org/research/sawdust-paw-patrol-spin-master-story"
+        "summary": "Hoover Institution fellow Eugene Volokh describes the ruling as “one of the most appalling judicial decisions I’ve ever seen.”",
+        "url": "https://www.hoover.org/research/day-liberal-judicial-activism-july-10"
     },
     {
         "id": "https://www.npr.org/2026/07/13/nx-s1-5888428/graham-platners-voters-figure-out-whats-next-as-candidates-vie-for-their-support",
@@ -207,94 +378,49 @@
         "url": "https://www.npr.org/2026/07/13/nx-s1-5890884/sen-richard-blumenthal-talks-about-lindsey-grahams-legacy"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-justices-kagan-and-coney-barrett-testify-on-supreme-court-budget-in-house-hearing",
+        "id": "https://www.pbs.org/newshour/show/lindsey-grahams-impact-and-influence-on-american-politics",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Justices Kagan and Coney Barrett testify on Supreme Court budget in House hearing",
+        "title": "Lindsey Graham's career and influence on American politics",
         "publicationDate": "2026-07-13",
-        "category": "Economy",
-        "summary": "Supreme Court Justices Elena Kagan and Amy Coney Barrett are testifying Tuesday on the high court's 2027 budget before a House Appropriations subcommittee.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-justices-kagan-and-coney-barrett-testify-on-supreme-court-budget-in-house-hearing"
+        "category": "Foreign Policy",
+        "summary": "South Carolina Sen. Lindsey Graham died Saturday of an aortic dissection and cardiovascular disease. The Republican served more than 30 years in Congress, becoming one of the nation's most prominent voices on foreign policy and later one of President Trump's top allies. Congressional correspondent Lisa Desjardins has more on Graham's life and impact.",
+        "url": "https://www.pbs.org/newshour/show/lindsey-grahams-impact-and-influence-on-american-politics"
     },
     {
-        "id": "https://www.pbs.org/newshour/nation/12-states-challenge-paramounts-takeover-of-warner-say-merger-would-extinguish-competition",
+        "id": "https://www.pbs.org/newshour/politics/who-is-darline-graham-nordone-the-late-sen-lindsey-grahams-sister",
         "source": "PBS NewsHour Politics",
-        "title": "12 states challenge Paramount's takeover of Warner, say merger would 'extinguish competition'",
+        "title": "Who is Darline Graham Nordone, the late Sen. Lindsey Graham's sister?",
         "publicationDate": "2026-07-13",
-        "category": "antitrust law",
-        "summary": "A Paramount-Warner combo would bring together two of Hollywood's last five legacy studios.",
-        "url": "https://www.pbs.org/newshour/nation/12-states-challenge-paramounts-takeover-of-warner-say-merger-would-extinguish-competition"
+        "category": "Darline Graham Nordone",
+        "summary": "Nordone, who was appointed to serve the remaining months of the Senate term that her brother left behind when he died over the weekend, hasn't been in office before.",
+        "url": "https://www.pbs.org/newshour/politics/who-is-darline-graham-nordone-the-late-sen-lindsey-grahams-sister"
     },
     {
-        "id": "https://www.pbs.org/newshour/nation/minnesota-prosecutors-obtain-long-withheld-evidence-in-probe-into-fatal-shootings-of-good-pretti",
+        "id": "https://www.pbs.org/newshour/nation/trump-reduces-the-size-of-2-national-monuments-in-utah-as-republicans-reshape-land-management",
         "source": "PBS NewsHour Politics",
-        "title": "Minnesota prosecutors obtain long withheld evidence in probe into fatal shootings of Good, Pretti",
+        "title": "Trump reduces the size of 2 national monuments in Utah as Republicans reshape land management",
         "publicationDate": "2026-07-13",
-        "category": "Alex Pretti",
-        "summary": "Hennepin County Attorney Mary Moriarty announced Monday that her office now has hard drives with statements, police body camera video, and other evidence previously withheld by federal officials.",
-        "url": "https://www.pbs.org/newshour/nation/minnesota-prosecutors-obtain-long-withheld-evidence-in-probe-into-fatal-shootings-of-good-pretti"
+        "category": "Bears Ears",
+        "summary": "The move to shrink Bears Ears and Grand Staircase-Escalante national monuments unravels protections established by former presidents for areas with unique archaeological and historical features.",
+        "url": "https://www.pbs.org/newshour/nation/trump-reduces-the-size-of-2-national-monuments-in-utah-as-republicans-reshape-land-management"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/sen-lindsey-grahams-sudden-death-spurs-false-claims",
+        "id": "https://www.pbs.org/newshour/politics/watch-live-fed-chair-kevin-warsh-testifies-on-monetary-policy-in-house-hearing",
         "source": "PBS NewsHour Politics",
-        "title": "Sen. Lindsey Graham's sudden death spurs false claims",
+        "title": "WATCH LIVE: Fed chair Kevin Warsh testifies on monetary policy in House hearing",
         "publicationDate": "2026-07-13",
-        "category": "conspiracy theories",
-        "summary": "Sen. Lindsey Graham's unexpected death on Saturday night fueled baseless speculation on social media that his passing was the result of a criminal action. Here's a closer look at the facts.",
-        "url": "https://www.pbs.org/newshour/politics/sen-lindsey-grahams-sudden-death-spurs-false-claims"
+        "category": "Federal reserve",
+        "summary": "New Federal Reserve Chair Kevin Warsh is testifying Tuesday on the agency's semi-annual monetary policy report before the House Financial Services Committee.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-fed-chair-kevin-warsh-testifies-on-monetary-policy-in-house-hearing"
     },
     {
-        "id": "https://www.pbs.org/newshour/nation/ice-shot-and-killed-a-colombian-man-in-maine-this-is-the-2nd-time-in-a-week-the-agency-used-deadly-force",
+        "id": "https://www.pbs.org/newshour/world/more-than-53000-immigrants-have-been-deported-or-repatriated-by-south-africa-in-a-crackdown",
         "source": "PBS NewsHour Politics",
-        "title": "ICE shot and killed a Colombian man in Maine. This is the 2nd time in a week the agency used deadly force",
+        "title": "More than 53,000 immigrants have been deported or repatriated by South Africa in a crackdown",
         "publicationDate": "2026-07-13",
-        "category": "biddeford",
-        "summary": "Bystander video taken after the shooting showed agents trying to slow a white sedan that was driving in circles in an intersection in Biddeford, southwest of Portland.",
-        "url": "https://www.pbs.org/newshour/nation/ice-shot-and-killed-a-colombian-man-in-maine-this-is-the-2nd-time-in-a-week-the-agency-used-deadly-force"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/5966603-trump-threatens-pickaxe-mountain-iran/",
-        "source": "The Hill",
-        "title": "Trump says US will 'take out' Iran's Pickaxe Mountain nuclear facility",
-        "publicationDate": "2026-07-13",
-        "category": "Defense",
-        "summary": "President Trump on Monday said the U.S. could soon attack Pickaxe Mountain in Iran as American forces launched a new round of strikes against the country. “Pickaxe is a possible target for a nice big fat shot right near the front door,” Trump said in an interview on \"The Hugh ​Hewitt Show\" Monday afternoon. “We're...",
-        "url": "https://thehill.com/policy/defense/5966603-trump-threatens-pickaxe-mountain-iran/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/5966604-trump-shrinks-utah-monuments/",
-        "source": "The Hill",
-        "title": "Trump shrinks two Bears Ears, Grand Staircase-Escalante national monuments in Utah",
-        "publicationDate": "2026-07-13",
-        "category": "Energy & Environment",
-        "summary": "President Trump on Monday signed executive orders shrinking the size of the Bears Ears and Grand Staircase-Escalante national monuments in Utah. “We’re actually giving more than we did the first time back to the people of Utah,” Trump said in an Oval Office signing. The size of these national monuments has ping ponged back and...",
-        "url": "https://thehill.com/policy/energy-environment/5966604-trump-shrinks-utah-monuments/"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/5966527-acetaminophen-autism-adhd-lawsuit/",
-        "source": "The Hill",
-        "title": "Appeals court revives lawsuits claiming link between acetaminophen, ADHD and autism",
-        "publicationDate": "2026-07-13",
-        "category": "Court Battles",
-        "summary": "A federal appeals court on Monday revived hundreds of lawsuits where plaintiffs claimed to have evidence of a link between acetaminophen and neurodevelopmental disorders. The 2nd U.S. Circuit Court of ​Appeals said a lower court improperly threw out testimony from scientific experts that provided evidence of a link between the pain killer and pregnancy related...",
-        "url": "https://thehill.com/regulation/court-battles/5966527-acetaminophen-autism-adhd-lawsuit/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
-        "source": "The Hill",
-        "title": "US military launches strikes on Iran after Trump brings back naval blockade",
-        "publicationDate": "2026-07-13",
-        "category": "Defense",
-        "summary": "The U.S. military launched a new round of strikes against Iran on Monday, hours after President Trump announced the U.S. Navy would reinstate the naval blockade in the Strait of Hormuz. The fresh strikes, which kicked off at 4:45 p.m. EDT at Trump’s direction, mark the third consecutive day of U.S. attacks against Iran. “These...",
-        "url": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/technology/5966529-data-centers-roil-governors-races/",
-        "source": "The Hill",
-        "title": "Data centers roil governor's races",
-        "publicationDate": "2026-07-13",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day. The Big Story Data centers become flash point in gubernatorial races Political backlash to data centers is putting gubernatorial candidates in the hot seat as the presence of the massive AI...",
-        "url": "https://thehill.com/newsletters/technology/5966529-data-centers-roil-governors-races/"
+        "category": "immigration",
+        "summary": "The crackdown has coincided with a series of sometimes violent protests by anti-migrant groups demanding that all immigrants in the country without documents return home.",
+        "url": "https://www.pbs.org/newshour/world/more-than-53000-immigrants-have-been-deported-or-repatriated-by-south-africa-in-a-crackdown"
     },
     {
         "id": "https://www.nytimes.com/2026/07/13/us/politics/midterms-elections-trump.html",
@@ -304,42 +430,6 @@
         "category": "Politics and Government",
         "summary": "A lot of things have changed in American politics since our writer went on parental leave.",
         "url": "https://www.nytimes.com/2026/07/13/us/politics/midterms-elections-trump.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html",
-        "source": "New York Times Politics",
-        "title": "Lindsey Graham’s Death Transforms the Race for His Democratic Challenger",
-        "publicationDate": "2026-07-13",
-        "category": "Andrews",
-        "summary": "Annie Andrews, a pediatrician, has offered condolences to those who loved Mr. Graham while considering the political fallout from his death. Republicans are scrambling to arrange a new primary election.",
-        "url": "https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/13/us/politics/trump-international-criminal-court.html",
-        "source": "New York Times Politics",
-        "title": "Trump Administration Announces New Attack on the International Criminal Court",
-        "publicationDate": "2026-07-13",
-        "category": "Foreign Policy",
-        "summary": "Secretary of State Marco Rubio said that the United States will “dismantle” the international court that tries grave crimes “brick by brick, if necessary.”",
-        "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-international-criminal-court.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html",
-        "source": "New York Times Politics",
-        "title": "Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides",
-        "publicationDate": "2026-07-13",
-        "category": "Foreign Policy",
-        "summary": "President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.",
-        "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-donald-trump.html",
-        "source": "New York Times Politics",
-        "title": "How Lindsey Graham’s Journey From Trump Critic to Ally Made Him a Power Player",
-        "publicationDate": "2026-07-13",
-        "category": "United States Politics and Government",
-        "summary": "He initially called Donald Trump a “kook” who was “unfit for office,” only to join the new president’s Mar-a-Lago circle. “I’m still in the game,” Mr. Graham once explained of his much-analyzed turnabout.",
-        "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-donald-trump.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/13/darline-graham-nordone-has-little-political-history-beyond-praising-her-brother/",
@@ -356,98 +446,17 @@
         "title": "Lindsey Graham’s sister picked to serve the rest of his Senate term",
         "publicationDate": "2026-07-13",
         "category": "Other",
-        "summary": "South Carolina Gov. Henry McMaster (R) announced his selection of Darline Graham Nordone to serve into January after her brother died suddenly amid a campaign for a fifth term.",
+        "summary": "South Carolina Gov. Henry McMaster (R) announced his selection of Darline Graham Nordone to serve into January. She is expected to be sworn in Tuesday.",
         "url": "https://www.washingtonpost.com/politics/2026/07/13/trump-recommends-lindsey-grahams-sister-serve-rest-his-senate-term/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+        "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
         "publicationDate": "2026-07-13",
-        "category": "Foreign Policy",
-        "summary": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
-        "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-        "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Hungary parliament votes to remove president from office",
-        "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
-        "url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-        "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
-        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
-        "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
-        "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/c8298713-4480-4b8a-931a-de29c9d3ba33",
-        "source": "Financial Times World",
-        "title": "Andy Burnham tells Labour MPs he will rein in Britain’s outsourcing industry",
-        "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "PM-in-waiting tells hustings he will appoint a ‘broad church’ ministerial team and bring government contracts in-house",
-        "url": "https://www.ft.com/content/c8298713-4480-4b8a-931a-de29c9d3ba33"
-    },
-    {
-        "id": "https://www.ft.com/content/4d072fc3-0f8a-4ab7-bcd4-a2f553e6fd3a",
-        "source": "Financial Times World",
-        "title": "What will Burnham do on immigration?",
-        "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "Likely next prime minister is looking to satisfy calls for tougher borders while appealing to Labour’s liberal supporters",
-        "url": "https://www.ft.com/content/4d072fc3-0f8a-4ab7-bcd4-a2f553e6fd3a"
-    },
-    {
-        "id": "https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275",
-        "source": "Financial Times World",
-        "title": "FirstFT: Investors cut back bets on Asia’s chipmakers",
-        "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: companies turn to Chinese AI models to cut costs and Jane Fraser’s ruthless remake of Citigroup",
-        "url": "https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275"
-    },
-    {
-        "id": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
-        "source": "Financial Times World",
-        "title": "US launches strikes after Trump warns Washington will hit Iran ‘hard’",
-        "publicationDate": "2026-07-13",
-        "category": "Foreign Policy",
-        "summary": "Price of Brent crude rises to highest in a month as tensions between Washington and Tehran flare",
-        "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c"
-    },
-    {
-        "id": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
-        "source": "Financial Times World",
-        "title": "Stocks and bonds drop as mounting US-Iran tensions spook investors",
-        "publicationDate": "2026-07-13",
-        "category": "Foreign Policy",
-        "summary": "Oil rises as US-Iran hostilities escalate and investors go into ‘risk-off’ mode",
-        "url": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734"
+        "category": "Economy",
+        "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://ecfr.eu/article/the-eu-should-ban-all-trade-with-israeli-settlements/",
@@ -468,13 +477,22 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/"
     },
     {
-        "id": "R49026",
+        "id": "IF12621",
         "source": "Congressional Research Service",
-        "title": "NOAA’s Geostationary Extended Observations (GeoXO) Satellite Program and Issues for Congress",
+        "title": "Congressional Commission on the U.S. Strategic Posture",
         "publicationDate": "2026-07-10",
-        "category": "Other",
-        "summary": "The National Oceanic and Atmospheric Administration (NOAA) typically deploys a new generation of geostationary satellites every two decades. Geostationary satellites operated by NOAA’s National Environmental Satellite, Data, and Information Service (NESDIS) continuously observe the Western Hemisphere to detect and monitor weather conditions and environmental hazards. NOAA’s current two-satellite operational...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49026/R49026.2.pdf"
+        "category": "Defense",
+        "summary": "Congress plays an important role in U.S. nuclear weapons policy through funding and oversight of U.S. strategic military capabilities and related programs carried out by the Department of Defense (DOD) and the Department of Energy’s National Nuclear Security Administration (NNSA). (DOD is “using a secondary Department of War designation” under Executive Order 14347 dated September 5, 2025.) The Senate also...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12621/IF12621.9.pdf"
+    },
+    {
+        "id": "R48845",
+        "source": "Congressional Research Service",
+        "title": "Surface Transportation Reauthorization: Federal Highway Programs",
+        "publicationDate": "2026-07-10",
+        "category": "Economy",
+        "summary": "Federal funding for public roads is provided primarily through highway programs administered by the Department of Transportation’s (DOT’s) Federal Highway Administration (FHWA). Congress most recently authorized the federal highway programs for FY2022-FY2026 as part of the Infrastructure Investment and Jobs Act (IIJA; P.L. 117-58), a five-year surface transportation authorization act. Congress may consider future...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48845/R48845.8.pdf"
     },
     {
         "id": "https://www.heritage.org/conservatism/report/people-place-principles-capturing-the-meaning-american-heritage-and-citizenship",
@@ -576,15 +594,6 @@
         "url": "https://ecfr.eu/article/behind-the-curve-britains-defence-investment-plan-in-trumps-world/"
     },
     {
-        "id": "R44245",
-        "source": "Congressional Research Service",
-        "title": "Israel: Major Issues and U.S. Relations",
-        "publicationDate": "2026-07-02",
-        "category": "Defense",
-        "summary": "The United States and Israel have cooperated closely for decades, reflecting assessments across several Administrations and Congresses that the countries share a number of strategic interests, including in countering mutual threats from other regional states and militant groups. Large-scale U.S. assistance, as approved by Congress (generally more than $3.8 billion annually), has helped Israel develop conventional...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44245/R44245.150.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5082-1.html",
         "source": "RAND Corporation",
         "title": "Insights from table-top exercises in Europe on AI safety and cyber misuse",
@@ -592,6 +601,15 @@
         "category": "Technology",
         "summary": "This report presents findings from table-top exercises with senior policymakers in Germany, the Netherlands, and France, identifying governance gaps and capability priorities for responding to AI-enabled cyberattack crises.",
         "url": "https://www.rand.org/pubs/research_reports/RRA5082-1.html"
+    },
+    {
+        "id": "98-684",
+        "source": "Congressional Research Service",
+        "title": "Latin America and the Caribbean: Fact Sheet on Leaders and Elections",
+        "publicationDate": "2026-06-30",
+        "category": "Other",
+        "summary": "This fact sheet tracks current heads of government in Central and South America, Mexico, and the Caribbean. It provides dates of the last and next elections for the head of government and the national independence date for each country.",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/98-684/98-684.225.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4386-2.html",
@@ -628,15 +646,6 @@
         "category": "Other",
         "summary": "Large language model agents are capable of performing initial interactions with biological tools (BTs), indicating that agents could lower expertise barriers for actors seeking to use BTs. Targeted testing of agent design capabilities is warranted.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4741-1.html"
-    },
-    {
-        "id": "IF12481",
-        "source": "Congressional Research Service",
-        "title": "Taiwan: Defense and Military Issues",
-        "publicationDate": "2026-06-18",
-        "category": "Defense",
-        "summary": "Overview Taiwan (which formally calls itself the Republic of China, or ROC) is a self-governing democracy of 23.3 million people located across the Taiwan Strait from mainland China. The People’s Republic of China (PRC, or China) claims but has never controlled Taiwan. PRC leaders have stated their preference to unify peacefully with Taiwan but have insisted on the right to use force to bring Taiwan under PRC...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12481/IF12481.24.pdf"
     },
     {
         "id": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement",
