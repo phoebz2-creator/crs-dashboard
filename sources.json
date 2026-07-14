@@ -1,12 +1,21 @@
 [
     {
-        "id": "R49032",
+        "id": "LSB11456",
         "source": "Congressional Research Service",
-        "title": "Immigration Legislation and Issues in the 119th Congress",
+        "title": "United States v. Benson: Sixth Circuit Denies Federal Demand for State Voter Registration List",
         "publicationDate": "2026-07-14",
-        "category": "Defense",
-        "summary": "This report discusses immigration-related bills that have received congressional action in the 119th Congress as of the report’s cover date. For the purposes of the report, bills receiving congressional action are the measures that have been enacted into law, passed by one chamber, the subject of a cloture vote, reported or ordered to be reported by a committee, or the subject of a committee hearing. The 119th...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49032/R49032.1.pdf"
+        "category": "Economy",
+        "summary": "The U.S. Department of Justice (DOJ) has requested election records—including statewide voter registration lists (SVRL) with detailed voter data—from the majority of states and, in some cases, has sued to enforce compliance with its demands. Among the suits, federal district courts in several states have dismissed the federal government’s claims seeking SVRL and other election information, reasoning that while...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11456/LSB11456.2.pdf"
+    },
+    {
+        "id": "IF12685",
+        "source": "Congressional Research Service",
+        "title": "Title V State Maternal and Child Health (MCH) Block Grants",
+        "publicationDate": "2026-07-14",
+        "category": "Economy",
+        "summary": "Overview Title V of the Social Security Act (SSA; P.L. 74-121, as amended; 42 U.S.C. §§701-709) permanently authorizes the Maternal and Child Health (MCH) Services Block Grant, which aims to improve the health of pregnant women, mothers, and children, particularly those with low-income or limited access to health services. The MCH Services Block Grant consists of three programs: (1) State MCH Block Grants, (2)...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12685/IF12685.4.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4720-2.html",
@@ -43,6 +52,24 @@
         "category": "Foreign Policy",
         "summary": "In this report, the authors present methodologies for synthesizing space-related research and development efforts by the United States and China to project trends in future capabilities and operations that use space.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3711-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/trumps-iran-deal-may-be-over-but-it-is-clear-what-the-regime-wants",
+        "source": "Council on Foreign Relations",
+        "title": "The U.S.-Iran Ceasefire May Be Over, But It Is Clear What the Regime Wants",
+        "publicationDate": "2026-07-14",
+        "category": "Foreign Policy",
+        "summary": "The collapse of the memorandum of understanding revealed Iran’s core priority: control of the Strait of Hormuz. But with both sides locked in an escalating battle of wills, the question is whether a lasting deal is still possible.",
+        "url": "https://www.cfr.org/articles/trumps-iran-deal-may-be-over-but-it-is-clear-what-the-regime-wants"
+    },
+    {
+        "id": "https://www.cfr.org/backgrounders/role-icc",
+        "source": "Council on Foreign Relations",
+        "title": "The Role of the International Criminal Court (ICC)",
+        "publicationDate": "2026-07-14",
+        "category": "Foreign Policy",
+        "summary": "The International Criminal Court was created to bring justice to the world’s worst war criminals, but debate over the court still rages.",
+        "url": "https://www.cfr.org/backgrounders/role-icc"
     },
     {
         "id": "https://www.cfr.org/articles/chinas-new-and-improved-bop-data",
@@ -126,13 +153,49 @@
         "url": "https://www.hudson.org/foreign-policy/chinese-economist-gao-shanwens-death-chinas-missile-test-legacy-pm-shinzo-abe-miles-yu-colin-tessier-kay"
     },
     {
-        "id": "https://www.hoover.org/research/moon-test-case-coercion-theory-us-interests-new-space-race",
+        "id": "https://www.hoover.org/research/indonesias-warning-when-security-weakens-democracy",
         "source": "Hoover Institution",
-        "title": "The Moon as a Test Case for Coercion Theory: US Interests in a New Space Race",
+        "title": "Indonesia’s Warning: When Security Weakens Democracy",
         "publicationDate": "2026-07-14",
         "category": "Defense",
-        "summary": "China aims to land taikonauts on the Moon before 2030—before the US returns to the lunar surface—and set the operating rules that will govern future lunar activity. Traditional deterrence won’t work in a domain where the US is unable to project military force, and space treaties lack enforcement. This essay presents four conflict scenarios to show what’s at stake, and proposes a near-term US strategy of accelerated...",
-        "url": "https://www.hoover.org/research/moon-test-case-coercion-theory-us-interests-new-space-race"
+        "summary": "Indonesia is turning to its military to address challenges far beyond national defense. But when security institutions substitute for weak civilian governance, gains in state capacity can come at the expense of democratic accountability.",
+        "url": "https://www.hoover.org/research/indonesias-warning-when-security-weakens-democracy"
+    },
+    {
+        "id": "https://www.hoover.org/research/century-ideas-crucible-citizenship",
+        "source": "Hoover Institution",
+        "title": "A Century Of Ideas: The Crucible Of Citizenship",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "America was a multiracial, multilanguage, multireligion mixing bowl even before it was the United States. Debates over immigration and citizenship have been part of the American landscape from the start. Citizenship and its most important component— voting rights—have been the most frequent topic of constitutional amendments over the years. Panelists will discuss what it means to be a citizen and what it means to...",
+        "url": "https://www.hoover.org/research/century-ideas-crucible-citizenship"
+    },
+    {
+        "id": "https://www.hoover.org/research/century-ideas-labor-and-capital-market-policy-ideas-actions-over-one-hundred-years",
+        "source": "Hoover Institution",
+        "title": "A Century Of Ideas: Labor And Capital Market Policy: From Ideas To Actions Over One Hundred Years",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "Nowhere are good economic ideas more important for growth and stability than in labor and capital markets. Enormous technological, political, and demographic shifts in the past one hundred years have changed what is feasible and what works in practice.",
+        "url": "https://www.hoover.org/research/century-ideas-labor-and-capital-market-policy-ideas-actions-over-one-hundred-years"
+    },
+    {
+        "id": "https://www.hoover.org/research/century-ideas-hoovers-one-hundred-years-war-revolution-and-peace",
+        "source": "Hoover Institution",
+        "title": "A Century Of Ideas: Hoover’s One Hundred Years Of War, Revolution, And Peace",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "Historians Niall Ferguson and Victor Davis Hanson will discuss the seminal events of the last century—the two World Wars, the Great Depression, the rise and fall of Soviet communism, and the advent of modernism and globalization—and how Hoover Institution scholars, informed by the lessons of history, have interpreted these tragedies and challenges.",
+        "url": "https://www.hoover.org/research/century-ideas-hoovers-one-hundred-years-war-revolution-and-peace"
+    },
+    {
+        "id": "https://www.hoover.org/research/century-ideas-tax-and-monetary-reform-ideas-actions-over-one-hundred-years",
+        "source": "Hoover Institution",
+        "title": "A Century Of Ideas: Tax And Monetary Reform: From Ideas To Actions Over One Hundred Years",
+        "publicationDate": "2026-07-14",
+        "category": "Economy",
+        "summary": "Hoover Institution economists have generated many ideas on tax reform and monetary reform over the years, from the Friedman Rule and government spending limits to the Hall-Rabushka Flat Tax and the Taylor Rule. Panelists will discuss the origination of such ideas, how they have been applied in practice in the United States and other countries, and the future of such reform-oriented policy.",
+        "url": "https://www.hoover.org/research/century-ideas-tax-and-monetary-reform-ideas-actions-over-one-hundred-years"
     },
     {
         "id": "https://www.npr.org/2026/07/14/nx-s1-5893396/gov-hochul-orders-a-pause-on-data-centers-in-new-york-for-up-to-a-year",
@@ -180,94 +243,112 @@
         "url": "https://www.npr.org/2026/07/14/nx-s1-5891798/south-carolinas-governor-appoints-lindsey-grahams-sister-to-serve-out-his-term"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/trump-administration-orders-ice-to-suspend-most-vehicle-stops-after-deadly-shootings",
+        "id": "https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state",
         "source": "PBS NewsHour Politics",
-        "title": "Trump administration orders ICE to suspend most vehicle stops after deadly shootings",
+        "title": "Maine Democrats criticize GOP Sen. Susan Collins after fatal ICE shooting of motorist in the state",
         "publicationDate": "2026-07-14",
-        "category": "ice",
-        "summary": "The suspension is not absolute and there's room for exceptions when executing a criminal warrant or working with partner agencies.",
-        "url": "https://www.pbs.org/newshour/politics/trump-administration-orders-ice-to-suspend-most-vehicle-stops-after-deadly-shootings"
+        "category": "Democrats",
+        "summary": "A federal immigration agent fatally shot a motorist just south of Maine's largest city on Monday, the second time in a week that ICE has used deadly force on American soil and at least the ninth death since President Donald Trump began his immigration crackdown.",
+        "url": "https://www.pbs.org/newshour/politics/maine-democrats-criticize-gop-sen-susan-collins-after-fatal-ice-shooting-of-motorist-in-the-state"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-trump-says-fbi-is-wasting-their-time-if-agency-is-investigating-sen-grahams-death",
+        "id": "https://www.pbs.org/newshour/show/maine-sen-king-says-feds-lack-credibility-locals-need-role-in-ice-shooting-investigation",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump says FBI is 'wasting their time' if agency is investigating Sen. Graham's death",
-        "publicationDate": "2026-07-14",
-        "category": "aorta",
-        "summary": "President Donald Trump said he doesn't know why the FBI is looking into Sen. Lindsey Graham's death.",
-        "url": "https://www.pbs.org/newshour/politics/watch-trump-says-fbi-is-wasting-their-time-if-agency-is-investigating-sen-grahams-death"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-darline-graham-sworn-in-as-senator-after-her-brothers-death",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Darline Graham sworn in as senator after her brother's death",
-        "publicationDate": "2026-07-14",
-        "category": "Darline Graham",
-        "summary": "Darline Graham, the sister of the late South Carolina Sen. Lindsey Graham, was sworn in by the Senate on Tuesday afternoon — filling the seat just three days after her brother's death.",
-        "url": "https://www.pbs.org/newshour/politics/watch-darline-graham-sworn-in-as-senator-after-her-brothers-death"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/e-jean-carroll-has-been-paid-5-8-million-three-years-after-trump-sex-abuse-and-defamation-verdict",
-        "source": "PBS NewsHour Politics",
-        "title": "E. Jean Carroll has been paid $5.8 million, three years after Trump sex abuse and defamation verdict",
-        "publicationDate": "2026-07-14",
-        "category": "defamation",
-        "summary": "President Donald Trump's lawyers have vowed to continue appealing.",
-        "url": "https://www.pbs.org/newshour/politics/e-jean-carroll-has-been-paid-5-8-million-three-years-after-trump-sex-abuse-and-defamation-verdict"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/aging-politicians-face-questions-over-health-transparency-after-grahams-death",
-        "source": "PBS NewsHour Politics",
-        "title": "Aging politicians face questions over health transparency after Graham's death",
-        "publicationDate": "2026-07-14",
-        "category": "Healthcare",
-        "summary": "Graham's death and the 84-year-old McConnell's hospitalization come amid a reckoning about the nation's aging leaders. Sen. John Cornyn says more health transparency may be needed.",
-        "url": "https://www.pbs.org/newshour/politics/aging-politicians-face-questions-over-health-transparency-after-grahams-death"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/5968117-indiana-republican-banks-birthright-bill/",
-        "source": "The Hill",
-        "title": "Indiana senator’s bill would codify Trump’s birthright citizenship order",
-        "publicationDate": "2026-07-14",
-        "category": "Senate",
-        "summary": "Indiana Republican Sen. Jim Banks on Monday introduced a bill that would codify President Trump's Day 1 executive order reshaping the definition of birthright citizenship in the U.S. The Citizenship Act of 2026 requires that any person who enters the U.S. \"without authorization or for the purpose of engaging in birth tourism is considered an...",
-        "url": "https://thehill.com/homenews/senate/5968117-indiana-republican-banks-birthright-bill/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/5968111-grassley-senators-texts-trump-probe/",
-        "source": "The Hill",
-        "title": "Grassley says he has records showing Jack Smith team reviewed 44 lawmakers' text messages",
-        "publicationDate": "2026-07-14",
-        "category": "Technology",
-        "summary": "Sen. Chuck Grassley (R-Iowa), the chair of the Senate Judiciary Committee, said on Tuesday that he received notice from the Justice Department (DOJ) that former special counsel Jack Smith’s team \"secretly obtained” text messages from lawmakers as part of a probe into President Trump. Grassley said he was one of the 44 lawmakers whose communications...",
-        "url": "https://thehill.com/policy/technology/5968111-grassley-senators-texts-trump-probe/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/5967878-senate-democrats-block-ndaa/",
-        "source": "The Hill",
-        "title": "Senate Democrats block $1.15 trillion defense authorization bill",
+        "title": "Maine Sen. King says feds lack credibility, locals need role in ICE shooting investigation",
         "publicationDate": "2026-07-14",
         "category": "Defense",
-        "summary": "Senate Democrats on Tuesday defeated a motion to proceed to the $1.15 trillion annual defense authorization bill, legislation that usually enjoys strong bipartisan support but this year has become snarled in a partisan fight over defense spending levels. The motion to advance the annual defense bill failed by a vote of 50 to 46. It...",
-        "url": "https://thehill.com/policy/defense/5967878-senate-democrats-block-ndaa/"
+        "summary": "A 26-year-old Colombian national was shot and killed in Maine after ICE agents attempted to pull him over while he was driving. ICE said Joan Sebastian Guerrero tried to flee and used his vehicle as a weapon, prompting an agent to fire in self-defense. It comes after a man in Houston was killed by ICE while behind the wheel of a vehicle. Geoff Bennett discussed more with Sen. Angus King of Maine.",
+        "url": "https://www.pbs.org/newshour/show/maine-sen-king-says-feds-lack-credibility-locals-need-role-in-ice-shooting-investigation"
     },
     {
-        "id": "https://thehill.com/policy/sports-gaming/5967999-england-argentina-world-cup-game-ignites-old-tensions-over-falkland-islands/",
-        "source": "The Hill",
-        "title": "England, Argentina World Cup game ignites old tensions over Falkland Islands",
+        "id": "https://www.pbs.org/newshour/show/ousted-election-assistance-commission-chair-on-trumps-effort-to-control-voting",
+        "source": "PBS NewsHour Politics",
+        "title": "Ousted Election Assistance Commission chair on Trump's effort to control voting",
         "publicationDate": "2026-07-14",
-        "category": "Sports & Gaming",
-        "summary": "The upcoming World Cup semi-final between England and Argentina on Wednesday is stirring up some old tensions over the Falkland Islands, a British territory that is a small archipelago in the south Atlantic Ocean near the Argentinian coast which both countries maintain claims to. The islands, which areofficially a British Overseas Territory, are also claimed by Argentina as...",
-        "url": "https://thehill.com/policy/sports-gaming/5967999-england-argentina-world-cup-game-ignites-old-tensions-over-falkland-islands/"
+        "category": "Donald Trump news",
+        "summary": "Preparations for elections can take months or years. From registering voters to maintaining voting machines, it is carried out by state and local jurisdictions, with support from the federal government. But in this election year, the agency that helps those efforts is effectively unable to function. Geoff Bennett spoke with Thomas Hicks, who served on the Election Assistance Commission.",
+        "url": "https://www.pbs.org/newshour/show/ousted-election-assistance-commission-chair-on-trumps-effort-to-control-voting"
     },
     {
-        "id": "https://thehill.com/policy/technology/5968115-openai-apple-trade-secrets/",
+        "id": "https://www.pbs.org/newshour/show/the-unconventional-career-of-attorney-general-nominee-todd-blanche",
+        "source": "PBS NewsHour Politics",
+        "title": "The unconventional career of attorney general nominee Todd Blanche",
+        "publicationDate": "2026-07-14",
+        "category": "attorney general",
+        "summary": "Acting Attorney General Todd Blanche will sit before a Senate panel for his hearing to be confirmed in that role permanently. It comes after he's been involved in a number of high-profile, controversial decisions, including investigations, indictments and the rollout of the Epstein files. Justice correspondent Ali Rogin tracks his unlikely path to the nation's top law enforcement job.",
+        "url": "https://www.pbs.org/newshour/show/the-unconventional-career-of-attorney-general-nominee-todd-blanche"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-todd-blanche-testifies-in-confirmation-hearing-for-attorney-general",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Todd Blanche testifies in confirmation hearing for attorney general",
+        "publicationDate": "2026-07-14",
+        "category": "Donald Trump news",
+        "summary": "Blanche is heading into a high-stakes test this week in his bid to become attorney general, with key Republicans still undecided about whether to back his nomination.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-todd-blanche-testifies-in-confirmation-hearing-for-attorney-general"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5968506-man-killed-st-augustine-ice-incident/",
         "source": "The Hill",
-        "title": "Apple, OpenAI suit spotlights battle over physical AI",
+        "title": "Man in Florida killed by truck while fleeing ICE agents",
+        "publicationDate": "2026-07-14",
+        "category": "Administration",
+        "summary": "A man was struck and killed by a tractor-trailer in St. Augustine, Fla., on Tuesday following an incident involving federal immigration officers. Four people inside a car at a Wawa gas station ran off on foot following \"an encounter\" with Homeland Security Investigations and Immigration and Customs Enforcement (ICE) officers in a parking lot at...",
+        "url": "https://thehill.com/homenews/administration/5968506-man-killed-st-augustine-ice-incident/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5968667-durbin-ag-blanche-doj-anti-weaponization-fund/",
+        "source": "The Hill",
+        "title": "Durbin says Blanche told him DOJ 'anti-weaponization' fund was 'a mistake'",
+        "publicationDate": "2026-07-14",
+        "category": "Administration",
+        "summary": "Sen. Dick Durbin (D-Ill.) says acting Attorney General Todd Blanche called the Trump administration's $1.776 billion \"anti-weaponization\" fund “a mistake” in what the senator described as a courtesy meeting before Wednesday’s hearing to review Blanche's nomination to lead the Justice Department. According to Durbin, the top Democrat on the Senate Judiciary Committee, when outrage over...",
+        "url": "https://thehill.com/homenews/administration/5968667-durbin-ag-blanche-doj-anti-weaponization-fund/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/business-economy/5968666-warshs-hill-debut/",
+        "source": "The Hill",
+        "title": "Warsh's hill debut",
+        "publicationDate": "2026-07-14",
+        "category": "Economy",
+        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day. The Big Story Warsh touts 'sea change' at Fed in first hearing as chief Federal Reserve Chair Kevin Warsh...",
+        "url": "https://thehill.com/newsletters/business-economy/5968666-warshs-hill-debut/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5968565-gallup-poll-institutional-trust-low/",
+        "source": "The Hill",
+        "title": "Confidence in US institutions mired near record low: Gallup",
+        "publicationDate": "2026-07-14",
+        "category": "Administration",
+        "summary": "The American public’s trust in major institutions is near an all-time low, according to a recent Gallup poll. The survey, which the firm conducted from June 1 through 15, found that 27 percent of 1,001 respondents had either a great deal of confidence or average confidence in 14 core U.S. institutions. That is 1 percentage...",
+        "url": "https://thehill.com/homenews/administration/5968565-gallup-poll-institutional-trust-low/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/technology/5968631-apple-openai-ai-hardware-suit/",
+        "source": "The Hill",
+        "title": "The brewing battle for physical AI",
         "publicationDate": "2026-07-14",
         "category": "Technology",
-        "summary": "Apple’s trade secret lawsuit against OpenAI is putting a spotlight on a growing battle over physical, consumer-facing AI products as Silicon Valley pushes toward the next phase of the technology’s development. The high-stakes suit centers on allegations that OpenAI stole confidential information about Apple hardware, as the ChatGPT maker reportedly pursues its own smartphone. The...",
-        "url": "https://thehill.com/policy/technology/5968115-openai-apple-trade-secrets/"
+        "summary": "{beacon} Technology Technology Your feedback matters to us. Take our brief newsletter survey to help us improve the newsletters you read every day. The Big Story Apple, OpenAI suit spotlights battle over physical AI Apple’s trade secret lawsuit against OpenAI is putting a spotlight on a growing battle over physical, consumer-facing AI products as...",
+        "url": "https://thehill.com/newsletters/technology/5968631-apple-openai-ai-hardware-suit/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/14/us/politics/ken-kies-irs-departure.html",
+        "source": "New York Times Politics",
+        "title": "Top Tax Official to Leave Trump Administration",
+        "publicationDate": "2026-07-14",
+        "category": "Economy",
+        "summary": "Ken Kies, who held two top jobs at the Treasury Department and the I.R.S., is leaving the government.",
+        "url": "https://www.nytimes.com/2026/07/14/us/politics/ken-kies-irs-departure.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/14/us/politics/iraq-trump-oval-office-meeting.html",
+        "source": "New York Times Politics",
+        "title": "‘We Love Iraq,’ Trump Tells New Prime Minister in Oval Office Meeting",
+        "publicationDate": "2026-07-14",
+        "category": "Foreign Policy",
+        "summary": "The meeting comes as President Trump’s administration has been ratcheting up pressure on Baghdad to diminish Iran’s influence in Iraq.",
+        "url": "https://www.nytimes.com/2026/07/14/us/politics/iraq-trump-oval-office-meeting.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
@@ -295,24 +376,6 @@
         "category": "Threats and Threatening Messages",
         "summary": "In her prepared remarks, Justice Elena Kagan said the Supreme Court Police estimated a 38 percent increase in threats this year.",
         "url": "https://www.nytimes.com/2026/07/14/us/politics/kagan-house-testimony-supreme-court.html"
-    },
-    {
-        "id": "https://www.nytimes.com/live/2026/07/14/us/supreme-court-kagan-barrett/threats-against-the-justices-have-been-rising-precipitously",
-        "source": "New York Times Politics",
-        "title": "Threats against the justices have been rising precipitously.",
-        "publicationDate": "2026-07-14",
-        "category": "Other",
-        "summary": "Officers outside the Supreme Court in Washington last month.",
-        "url": "https://www.nytimes.com/live/2026/07/14/us/supreme-court-kagan-barrett/threats-against-the-justices-have-been-rising-precipitously"
-    },
-    {
-        "id": "https://www.nytimes.com/live/2026/07/14/us/supreme-court-kagan-barrett/heres-the-latest",
-        "source": "New York Times Politics",
-        "title": "Here’s the latest.",
-        "publicationDate": "2026-07-14",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.nytimes.com/live/2026/07/14/us/supreme-court-kagan-barrett/heres-the-latest"
     },
     {
         "id": "https://www.washingtonpost.com/obituaries/2026/07/13/pat-oliphant-pulitzer-winning-giant-political-cartooning-has-died/",
@@ -369,67 +432,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f",
+        "id": "https://www.ft.com/content/cfec51c1-0435-457f-a140-f302ca6a4e0b",
         "source": "Financial Times World",
-        "title": "Trump says US to abandon proposed Strait of Hormuz cargo fee",
-        "publicationDate": "2026-07-14",
-        "category": "Defense",
-        "summary": "US military launches seventh wave of strikes after the president said he would ‘replace’ fees plan with Gulf investment",
-        "url": "https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f"
-    },
-    {
-        "id": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-        "source": "Financial Times World",
-        "title": "IBM shares plunge 25% as customers shift spending to AI",
+        "title": "Manic markets show no mercy to IBM",
         "publicationDate": "2026-07-14",
         "category": "Other",
-        "summary": "Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage",
-        "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95"
+        "summary": "Failure will apparently not be tolerated",
+        "url": "https://www.ft.com/content/cfec51c1-0435-457f-a140-f302ca6a4e0b"
     },
     {
-        "id": "https://www.ft.com/content/e2addd88-4361-43f1-94e2-9f0a808dd6a9",
+        "id": "https://www.ft.com/content/6470bbd1-ec3b-44c7-a767-405b99d0b342",
         "source": "Financial Times World",
-        "title": "US state department offers $3mn grants to Maga-aligned groups in Europe",
-        "publicationDate": "2026-07-14",
-        "category": "Foreign Policy",
-        "summary": "Agency seeks to repurpose foreign aid funds to help organisations that support Trump administration policies",
-        "url": "https://www.ft.com/content/e2addd88-4361-43f1-94e2-9f0a808dd6a9"
-    },
-    {
-        "id": "https://www.ft.com/content/ae268a4e-5134-4d34-ba5e-a908cc74c52d",
-        "source": "Financial Times World",
-        "title": "RIP the US state department",
+        "title": "FirstFT: Wall Street banks shatter records on AI-stock trading frenzy",
         "publicationDate": "2026-07-14",
         "category": "Other",
-        "summary": "America’s diplomats used to have global sway. Now they are besieged by their own president",
-        "url": "https://www.ft.com/content/ae268a4e-5134-4d34-ba5e-a908cc74c52d"
+        "summary": "Also in today’s newsletter: IBM shares plunge and DeepSeek weighs new fundraising",
+        "url": "https://www.ft.com/content/6470bbd1-ec3b-44c7-a767-405b99d0b342"
     },
     {
-        "id": "https://www.ft.com/content/ebc72869-a233-4710-a9a4-e398f567a5b2",
+        "id": "https://www.ft.com/content/e3dc6768-8c8a-4e1e-9efc-a431b739a929",
         "source": "Financial Times World",
-        "title": "Buffett drops Gates Foundation from $6bn Berkshire donation",
+        "title": "UK teenagers face midnight curfew on using social media platforms",
         "publicationDate": "2026-07-14",
         "category": "Other",
-        "summary": "Billionaire chair of conglomerate shifts personal charity plans after revelations about Microsoft co-founder’s Epstein ties",
-        "url": "https://www.ft.com/content/ebc72869-a233-4710-a9a4-e398f567a5b2"
+        "summary": "Addictive features such as autoplay videos and infinite scrolling will be switched off under planned laws",
+        "url": "https://www.ft.com/content/e3dc6768-8c8a-4e1e-9efc-a431b739a929"
     },
     {
-        "id": "R49030",
+        "id": "https://www.ft.com/content/40418586-2324-4ae0-8023-9378886a32b5",
+        "source": "Financial Times World",
+        "title": "New Zealand PM warns against Ardern-era ‘sugar rush economics’",
+        "publicationDate": "2026-07-14",
+        "category": "Economy",
+        "summary": "Ex-Air New Zealand boss says financial discipline has put economy back on track after pandemic and recession",
+        "url": "https://www.ft.com/content/40418586-2324-4ae0-8023-9378886a32b5"
+    },
+    {
+        "id": "https://www.ft.com/content/3a200651-ff72-4ebb-a5a2-bcf6abb55e7c",
+        "source": "Financial Times World",
+        "title": "Miliband trails Mahmood in race to become Burnham’s chancellor",
+        "publicationDate": "2026-07-14",
+        "category": "Other",
+        "summary": "Home secretary emerges as favourite for key role amid criticism of energy secretary’s radical net zero policies",
+        "url": "https://www.ft.com/content/3a200651-ff72-4ebb-a5a2-bcf6abb55e7c"
+    },
+    {
+        "id": "IF12402",
         "source": "Congressional Research Service",
-        "title": "Forward-Funded Federal Education Programs: Frequently Asked Questions",
+        "title": "The SBA’s Small Business Development Centers Program",
         "publicationDate": "2026-07-13",
         "category": "Economy",
-        "summary": "In the annual appropriations process, Congress elects to make appropriations for certain federal education programs, in part, on a forward-funded basis. Programs funded in this manner receive appropriations in an appropriations act that become available during the last quarter of the fiscal year (i.e., on July 1) and remain available in the next fiscal year. Such programs also may receive an additional amount of...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49030/R49030.2.pdf"
-    },
-    {
-        "id": "IF10673",
-        "source": "Congressional Research Service",
-        "title": "U.S. Trade and Development Agency: Background and Issues",
-        "publicationDate": "2026-07-13",
-        "category": "Defense",
-        "summary": "The U.S. Trade and Development Agency (USTDA) funds early-stage activities to support development projects in developing and middle-income countries, with a focus on sectors with “significant” U.S. export potential. USTDA describes itself as “the U.S. government’s first mover on critical infrastructure development in emerging markets,” funding “upfront technical work that accelerates” projects and “helping [those...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10673/IF10673.15.pdf"
+        "summary": "Overview The Small Business Administration’s (SBA’s) Small Business Development Centers (SBDCs) provide free counseling, training, and resources to small business owners and entrepreneurs. SBDCs operate in partnership with state governments and higher education institutions. This flagship technical assistance program evolved from when the SBA began operating in 1953, when the agency directly provided management and...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12402/IF12402.5.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/chinas-transnational-repression-is-being-met-with-a-deafening-silence-2",
@@ -450,24 +504,6 @@
         "url": "https://www.cfr.org/articles/how-outdated-budget-rules-are-holding-back-american-industrial-policy"
     },
     {
-        "id": "https://www.cfr.org/articles/africa-has-faced-a-rare-ebola-outbreak-for-months-heres-what-to-know",
-        "source": "Council on Foreign Relations",
-        "title": "The Ebola Outbreak in the DRC Is Spreading. Here’s What to Know.",
-        "publicationDate": "2026-07-13",
-        "category": "Healthcare",
-        "summary": "The rapid spread of a rare Ebola strain through Central and East Africa is testing local public health authorities and raising concerns about the state of global health security.",
-        "url": "https://www.cfr.org/articles/africa-has-faced-a-rare-ebola-outbreak-for-months-heres-what-to-know"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/spillover/why-washington-is-considering-a-stake-in-openai",
-        "source": "Council on Foreign Relations",
-        "title": "Why Washington Is Considering a Stake in OpenAI",
-        "publicationDate": "2026-07-13",
-        "category": "Podcast",
-        "summary": "On this episode of The Spillover, cohosts Rebecca Patterson and Sebastian Mallaby discuss the U.S. government’s new habit of taking direct equity stakes in private companies, and its consideration of a 5 percent stake in Sam Altman’s OpenAI. Joined by CFR Senior Fellow for Geoeconomics Jonathan Hillman, whose tracker has counted roughly 30 announced deals […]",
-        "url": "https://www.cfr.org/podcasts/spillover/why-washington-is-considering-a-stake-in-openai"
-    },
-    {
         "id": "https://www.heritage.org/defense/report/updated-two-decisive-theaters-safeguarding-america-dangerous-times",
         "source": "Heritage Foundation",
         "title": "Updated: Two Decisive Theaters for Safeguarding America in Dangerous Times",
@@ -475,42 +511,6 @@
         "category": "Defense",
         "summary": "In October 2020, The Heritage Foundation proposed that the Navy focus its limited resources on two maritime theaters critical in peacetime and any modern war in which the United States might find itself. Brent D. Sadler, “Decisive Theaters: Navy Must Pick the Right Fights in Great-Power Competition,” Heritage Foundation Backgrounder No. 3539, October 8, 2020,...",
         "url": "https://www.heritage.org/defense/report/updated-two-decisive-theaters-safeguarding-america-dangerous-times"
-    },
-    {
-        "id": "https://www.hoover.org/research/tune-special-broadcasts-2026-aspen-security-forum",
-        "source": "Hoover Institution",
-        "title": "Tune In For Special Broadcasts From The 2026 Aspen Security Forum",
-        "publicationDate": "2026-07-13",
-        "category": "Economy",
-        "summary": "Hoover Institution fellows Condoleezza Rice, Chris Brose, Elizabeth Economy and Anja Manuel will be participating in a special broadcast at 8pm each evening, Tuesday, July 14, through Friday, July 17.",
-        "url": "https://www.hoover.org/research/tune-special-broadcasts-2026-aspen-security-forum"
-    },
-    {
-        "id": "https://www.hoover.org/research/secretary-energy-chris-wright-announces-newly-appointed-members-secretary-energy-advisory",
-        "source": "Hoover Institution",
-        "title": "Secretary Of Energy Chris Wright Announces Newly Appointed Members Of The Secretary Of Energy Advisory Board",
-        "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Steve Koonin has been appointed as a member of the Secretary of Energy Advisory Board, whose terms expire in May 2028.",
-        "url": "https://www.hoover.org/research/secretary-energy-chris-wright-announces-newly-appointed-members-secretary-energy-advisory"
-    },
-    {
-        "id": "https://www.hoover.org/research/geoeconomics-turns-trade-dependence-strategic-risk",
-        "source": "Hoover Institution",
-        "title": "Geoeconomics Turns Trade Dependence Into Strategic Risk",
-        "publicationDate": "2026-07-13",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Matteo Maggiori describes a supplier gaining leverage when it controls a large part of a market, and buyers cannot find adequate substitutes as an economic choke point. Even a limited alternative can sharply reduce the dominant supplier’s power.",
-        "url": "https://www.hoover.org/research/geoeconomics-turns-trade-dependence-strategic-risk"
-    },
-    {
-        "id": "https://www.hoover.org/research/we-must-act-now-sixteen-nobel-laureates-join-leading-economists-and-ai-researchers-call",
-        "source": "Hoover Institution",
-        "title": "“We Must Act Now”: Sixteen Nobel Laureates Join Leading Economists And AI Researchers In Call To Prepare For AI’s Economic Transformation",
-        "publicationDate": "2026-07-13",
-        "category": "Economy",
-        "summary": "Hoover Institution fellow Michael Spence said, “The scale, scope, and speed of the advances in AI, combined with a high level of uncertainty about the magnitude and timing of the impacts across many parts of the economy, call for an ‘all hands on deck’ approach to steering AI in beneficial directions.”",
-        "url": "https://www.hoover.org/research/we-must-act-now-sixteen-nobel-laureates-join-leading-economists-and-ai-researchers-call"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/13/darline-graham-nordone-has-little-political-history-beyond-praising-her-brother/",
@@ -538,24 +538,6 @@
         "category": "ECFR Council",
         "summary": "It is high time the EU follow its own trade policy and ban trade of all goods and services from Israel’s illegal settlements in the West Bank",
         "url": "https://ecfr.eu/article/the-eu-should-ban-all-trade-with-israeli-settlements/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/",
-        "source": "Washington Post Politics",
-        "title": "Lindsey Graham died of aortic dissection, preliminary medical report says",
-        "publicationDate": "2026-07-12",
-        "category": "Foreign Policy",
-        "summary": "Graham died hours after returning from a trip to Ukraine. Trump said he spoke with the senator Saturday evening and that “could’ve been his last call.”",
-        "url": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/"
-    },
-    {
-        "id": "LSB11454",
-        "source": "Congressional Research Service",
-        "title": "West Virginia v. B.P.J.: Supreme Court Upholds State Laws Restricting Eligibility of Transgender Girls to Compete in Athletics Competitions",
-        "publicationDate": "2026-07-10",
-        "category": "Other",
-        "summary": "On June 30, 2026, the Supreme Court in West Virginia v. B.P.J. upheld West Virginia and Idaho laws that restrict the eligibility of transgender girls to participate in female athletics competitions. In an opinion consolidating two cases, the Court rejected claims that such laws were unlawfully discriminatory under Title IX of the Educational Amendments of 1972 (Title IX) and the Equal Protection Clause of the...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11454/LSB11454.1.pdf"
     },
     {
         "id": "https://www.heritage.org/conservatism/report/people-place-principles-capturing-the-meaning-american-heritage-and-citizenship",
@@ -657,12 +639,21 @@
         "url": "https://www.cer.eu/cer-job-vacancies-may-2026"
     },
     {
-        "id": "R46537",
+        "id": "R45770",
         "source": "Congressional Research Service",
-        "title": "Revenues and Disbursements from Oil and Natural Gas Leases on Onshore Federal Lands",
-        "publicationDate": "2026-02-12",
-        "category": "Economy",
-        "summary": "Federal revenues from oil and natural gas production on federal lands support a range of federal and state programs and activities. The Bureau of Land Management (BLM) is the primary federal agency responsible for administering oil and gas leases and development on onshore federal lands. Over the years, Congress has passed various laws directing how BLM collects and administers these revenues, most recently with...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46537/R46537.12.pdf"
+        "title": "The U.S. Election Assistance Commission (EAC): Overview and Selected Issues for Congress",
+        "publicationDate": "2026-05-06",
+        "category": "Foreign Policy",
+        "summary": "The U.S. Election Assistance Commission (EAC) is an independent federal agency that is charged with helping election officials to improve the administration of elections and voters to participate in the electoral process. It was established by the Help America Vote Act of 2002 (HAVA) as part of Congress’s response to problems with the administration of the 2000 elections. The EAC—and the legislation that created...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45770/R45770.16.pdf"
+    },
+    {
+        "id": "R48066",
+        "source": "Congressional Research Service",
+        "title": "The Role of Earmarks in SRF Appropriations in the 118th Congress",
+        "publicationDate": "2024-05-15",
+        "category": "Healthcare",
+        "summary": "The condition of the nation’s drinking water and wastewater systems continues to garner congressional attention. The U.S. Environmental Protection Agency (EPA) periodically reports on the capital cost of wastewater and drinking water infrastructure needs. EPA’s 2024 report on wastewater estimates found that the nation’s wastewater treatment facilities will need $630.1 billion (in 2022 dollars) over 20 years to meet...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48066/R48066.6.pdf"
     }
 ]
