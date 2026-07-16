@@ -1,21 +1,21 @@
 [
     {
-        "id": "IF12148",
+        "id": "IF13269",
         "source": "Congressional Research Service",
-        "title": "Regulating PFAS Under the Clean Water Act",
+        "title": "Artificial Intelligence and Biosecurity Issues",
         "publicationDate": "2026-07-16",
-        "category": "Healthcare",
-        "summary": "In recent decades, improvements in analytical methods and monitoring technologies, along with health research, have increased national attention to the presence of emerging contaminants in surface water. Detections of one particular group of contaminants, per- and polyfluoroalkyl substances (PFAS), have heightened public and congressional interest in the U.S. Environmental Protection Agency’s (EPA’s) authorities...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12148/IF12148.6.pdf"
+        "category": "Defense",
+        "summary": "Artificial intelligence (AI) is a term generally used to refer to computerized systems that work and react in ways commonly thought to require human intelligence. AI technologies, methodologies, and applications may benefit biological science research and development (R&D). For example, AI could be used in conjunction with biological design tools to enable drug design. These potential capabilities have also raised...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13269/IF13269.1.pdf"
     },
     {
-        "id": "R48641",
+        "id": "R48447",
         "source": "Congressional Research Service",
-        "title": "Proposals to Limit Member of Congress Financial Activities: Analysis of Introduced Legislation in the 119th Congress",
+        "title": "Unemployment Insurance: Legislative Issues in the 119th Congress",
         "publicationDate": "2026-07-16",
-        "category": "Other",
-        "summary": "In recent years, some Members of Congress have proposed reforms that would prohibit the purchase, sale, ownership, or holding of certain financial instruments by Members of Congress and other specified congressional officers and employees. In the 119th Congress (2025-2026), the Senate agreed to a resolution to prohibit Senators, Senate officers, and Senate employees from engaging in prediction market trading....",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48641/R48641.14.pdf"
+        "category": "Economy",
+        "summary": "The Unemployment Insurance (UI) system is a joint federal-state partnership that consists of two types of benefits: (1) permanently authorized programs, including the Unemployment Compensation (UC) and Extended Benefit (EB) programs; and (2) temporary federal UI benefits created by congressional action to supplement the UC and EB programs during recessions. The U.S. Department of Labor (DOL) provides oversight of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48447/R48447.7.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5013-1.html",
@@ -27,6 +27,15 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5013-1.html"
     },
     {
+        "id": "https://www.cfr.org/articles/the-icc-has-real-flaws-dismantling-it-without-an-alternative-is-not-the-answer",
+        "source": "Council on Foreign Relations",
+        "title": "The ICC Has Real Flaws. Dismantling It Without an Alternative Is Not the Answer.",
+        "publicationDate": "2026-07-16",
+        "category": "Article",
+        "summary": "Secretary of State Rubio’s campaign offers no alternative for prosecuting genocide and war crimes that would otherwise go unpunished. Decades of bipartisan U.S. policy have recognized that an imperfect court is better than none.",
+        "url": "https://www.cfr.org/articles/the-icc-has-real-flaws-dismantling-it-without-an-alternative-is-not-the-answer"
+    },
+    {
         "id": "https://www.cfr.org/articles/maintaining-americas-leadership-in-biomedical-innovation",
         "source": "Council on Foreign Relations",
         "title": "Maintaining America's Leadership in Biomedical Innovation",
@@ -34,6 +43,24 @@
         "category": "Foreign Policy",
         "summary": "Thomas J. Bollyky’s testimony to the U.S. House of Representatives Committee on Energy and Commerce addresses how U.S. dependence on China has expanded from generic drug manufacturing into the innovation pipeline itself.",
         "url": "https://www.cfr.org/articles/maintaining-americas-leadership-in-biomedical-innovation"
+    },
+    {
+        "id": "https://www.cfr.org/articles/cfr-welcomes-sonja-brookins-santelises-as-vice-president-senior-fellow-and-director-of-the-richard-haass-center-for-education",
+        "source": "Council on Foreign Relations",
+        "title": "CFR Welcomes Sonja Brookins Santelises as Vice President, Senior Fellow, and Director of the Richard Haass Center for Education",
+        "publicationDate": "2026-07-16",
+        "category": "Foreign Policy",
+        "summary": "The Council on Foreign Relations (CFR) is pleased to welcome Sonja Brookins Santelises as vice president, senior fellow, and director of the Richard Haass Center for Education. Dr. Santelises will start on Tuesday, September 8, based in Washington, DC. Established in June 2025, the Richard Haass Center for Education will centralize and expand the reach of CFR’s educational work, enhancing CFR Education’s creation...",
+        "url": "https://www.cfr.org/articles/cfr-welcomes-sonja-brookins-santelises-as-vice-president-senior-fellow-and-director-of-the-richard-haass-center-for-education"
+    },
+    {
+        "id": "https://www.hoover.org/research/free-people-virtue-and-wisdom",
+        "source": "Hoover Institution",
+        "title": "Free People, Virtue, and Wisdom",
+        "publicationDate": "2026-07-16",
+        "category": "Other",
+        "summary": "Because it undercuts both civic and economic incentives, socialism fails to create a good society.",
+        "url": "https://www.hoover.org/research/free-people-virtue-and-wisdom"
     },
     {
         "id": "https://ecfr.eu/article/the-tragedy-of-westalgia/",
@@ -54,9 +81,18 @@
         "url": "https://ecfr.eu/article/europes-problem-in-italy-how-to-resist-the-rise-of-roberto-vannacci/"
     },
     {
+        "id": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+        "source": "NPR Politics",
+        "title": "Officials probe whether White House teleprompter operator profited off Trump's words",
+        "publicationDate": "2026-07-16",
+        "category": "Other",
+        "summary": "It's the first known instance of officials investigating suspected insider trading on a prediction market from inside the White House.",
+        "url": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet"
+    },
+    {
         "id": "https://www.npr.org/2026/07/16/nx-s1-5893465/dc-lafayette-square-park-permanent-fencing-proposal",
         "source": "NPR Politics",
-        "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+        "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
         "publicationDate": "2026-07-16",
         "category": "Other",
         "summary": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that.",
@@ -90,156 +126,156 @@
         "url": "https://www.npr.org/2026/07/16/nx-s1-5894825/body-cams-ice-shootings"
     },
     {
-        "id": "https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures",
-        "source": "NPR Politics",
-        "title": "Bike lanes and speed cameras disappear from the DOT's list of proven safety measures",
-        "publicationDate": "2026-07-16",
-        "category": "Other",
-        "summary": "The Federal Highway Administration quietly stripped bike lanes and other safety recommendations from a key list of best practices. Critics say those measures are proven to cut crashes and save lives.",
-        "url": "https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-karoline-leavitt-returns-for-white-house-briefing-as-trump-readies-primetime-speech",
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-believes-his-kalshi-betting-teleprompter-operator-is-a-disgrace-leavitt-says",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Karoline Leavitt returns for White House briefing as Trump readies primetime speech",
+        "title": "WATCH: Trump believes his Kalshi-betting teleprompter operator is a 'disgrace,' Leavitt says",
         "publicationDate": "2026-07-16",
         "category": "Donald Trump news",
-        "summary": "President Donald Trump is set to address the nation Thursday on topics he said will include elections and voting machines.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-karoline-leavitt-returns-for-white-house-briefing-as-trump-readies-primetime-speech"
+        "summary": "Leavitt added that no other staffers are under investigation and that the White House counsel had no awareness of the alleged bets.",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-believes-his-kalshi-betting-teleprompter-operator-is-a-disgrace-leavitt-says"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/new-york-times-files-motion-to-quash-subpoenas-served-on-journalists-over-air-force-one-coverage",
+        "id": "https://www.pbs.org/newshour/podcasts/in-pursuit-of-happiness-with-judy-woodruff/how-conspiracy-theories-have-shaped-america",
         "source": "PBS NewsHour Politics",
-        "title": "New York Times files motion to quash subpoenas served on journalists over Air Force One coverage",
+        "title": "How conspiracy theories have shaped America",
+        "publicationDate": "2026-07-16",
+        "category": "Other",
+        "summary": "From the American Revolution to today, conspiracy theories have been part of the American story in ways that may surprise us. In this episode of Judy Woodruff's \"In Pursuit of Happiness,\" she sits down with Jesse Walker, author of \"The United States of Paranoia: A Conspiracy Theory,\" to explore how conspiracy theories take shape -- and what they tell us about who we are.",
+        "url": "https://www.pbs.org/newshour/podcasts/in-pursuit-of-happiness-with-judy-woodruff/how-conspiracy-theories-have-shaped-america"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trumps-address-may-focus-on-the-2020-election-heres-what-to-know-about-foreign-interference-voting-security",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump's address may focus on the 2020 election. Here's what to know about foreign interference, voting security",
         "publicationDate": "2026-07-16",
         "category": "Defense",
-        "summary": "The New York Times on Wednesday filed a motion to quash subpoenas that the Justice Department served on journalists who reported on security concerns involving the new, Qatari-gifted Air Force One, teeing up a significant court fight pitting press freedom against the the government's ability to force reporters to identify sources.",
-        "url": "https://www.pbs.org/newshour/politics/new-york-times-files-motion-to-quash-subpoenas-served-on-journalists-over-air-force-one-coverage"
+        "summary": "President Donald Trump is set to address the nation July 16 with an expected primetime focus on election integrity. Reports from intelligence experts show that the 2020 election was secure and foreign governments' attempts at interference did not affect voting.",
+        "url": "https://www.pbs.org/newshour/politics/trumps-address-may-focus-on-the-2020-election-heres-what-to-know-about-foreign-interference-voting-security"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/trump-is-expected-to-make-election-conspiracies-a-focus-of-his-national-address",
+        "id": "https://www.pbs.org/newshour/politics/watch-jennifer-bos-makes-emotional-opening-statement-about-daughters-death-in-blanche-confirmation-hearing",
         "source": "PBS NewsHour Politics",
-        "title": "Trump is expected to make election conspiracies a focus of his national address",
+        "title": "WATCH: Jennifer Bos makes emotional opening statement about daughter's death in Blanche confirmation hearing",
         "publicationDate": "2026-07-16",
-        "category": "Donald Trump news",
-        "summary": "President Donald Trump is set to address the nation on Thursday night on topics he said will include elections and voting machines, suggesting he is likely to revisit some of the unproven claims he has previously made about Republican losses, particularly his own in 2020.",
-        "url": "https://www.pbs.org/newshour/politics/trump-is-expected-to-make-election-conspiracies-a-focus-of-his-national-address"
+        "category": "angel mothers",
+        "summary": "\"Illegal immigration, sanctuary policies, the fentanyl crisis and cashless bail. I'm so grateful that the whole of this administration with Todd Blanche leading the DOJ has prioritized all four of these issues,\" Bos said.",
+        "url": "https://www.pbs.org/newshour/politics/watch-jennifer-bos-makes-emotional-opening-statement-about-daughters-death-in-blanche-confirmation-hearing"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-epstein-survivor-fired-doj-pardon-attorney-testify-at-blanche-confirmation-hearing",
+        "id": "https://www.pbs.org/newshour/politics/trump-immediately-fires-the-new-court-appointed-top-prosecutor-in-seattle",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Epstein survivor, fired DOJ pardon attorney testify at Blanche confirmation hearing",
+        "title": "Trump immediately fires the new court-appointed top prosecutor in Seattle",
         "publicationDate": "2026-07-16",
-        "category": "confirmation hearings",
-        "summary": "Acting Attorney General Todd Blanche confronted skeptical questions at a Senate confirmation hearing Wednesday.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-epstein-survivor-fired-doj-pardon-attorney-testify-at-blanche-confirmation-hearing"
+        "category": "Department of Justice",
+        "summary": "President Donald Trump fired the new top U.S. prosecutor in Seattle on Wednesday less than an hour after the attorney was unanimously appointed by the federal judges in the district, highlighting tensions between the courts and the president over the powerful positions.",
+        "url": "https://www.pbs.org/newshour/politics/trump-immediately-fires-the-new-court-appointed-top-prosecutor-in-seattle"
     },
     {
-        "id": "https://thehill.com/opinion/education/5970513-measuring-competencies-modern-economy/",
+        "id": "https://thehill.com/homenews/house/5972571-house-stopgap-funding-reconciliation-3-0-stock-trading-ban/",
         "source": "The Hill",
-        "title": "Skills, not wages, measure what truly matters in the workforce",
+        "title": "House plans packed week of stopgap funding, reconciliation 3.0, stock trading ban",
         "publicationDate": "2026-07-16",
         "category": "Economy",
-        "summary": "Focusing on what people know and can do will help ensure learners and our economy succeed.",
-        "url": "https://thehill.com/opinion/education/5970513-measuring-competencies-modern-economy/"
+        "summary": "House Republican leaders are eyeing votes on a number of big measure, including a GOP-only budget reconciliation bill and a stock trading ban next week, the last week in session before the chamber is scheduled to depart for August recess. On the working agenda right now, according to GOP leadership sources, is a House vote...",
+        "url": "https://thehill.com/homenews/house/5972571-house-stopgap-funding-reconciliation-3-0-stock-trading-ban/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5971801-stevens-el-sayed-michigan-poll/",
+        "id": "https://thehill.com/video-clips/5972215-watch-live-donald-trump-primetime-address-election-integrity-midterms/",
         "source": "The Hill",
-        "title": "Stevens holds 7-point lead over El-Sayed in Michigan Senate Democratic primary polling",
+        "title": "Watch live: Trump gives primetime address with focus on elections",
         "publicationDate": "2026-07-16",
-        "category": "Campaign",
-        "summary": "Rep. Haley Stevens (D-Mich.) is leading progressive Abdul El-Sayed in the Democratic primary race for Sen. Gary Peters’s (D-Mich.) seat by about 7 points, according to a new poll. In the Detroit News/WDIV-TV poll, 41.4 percent of respondents said they would “definitely” or “probably” back El-Sayed, while 48.2 percent of respondents said the same of...",
-        "url": "https://thehill.com/homenews/campaign/5971801-stevens-el-sayed-michigan-poll/"
+        "category": "Video",
+        "summary": "President Trump is set to give a primetime address to the nation Thursday evening from the White House. Trump has teased that the “very big speech” will touch on voting machines and election integrity among other topics. White House press secretary Karoline Leavitt, in her first briefing since returning from maternity leave, confirmed that the address would focus...",
+        "url": "https://thehill.com/video-clips/5972215-watch-live-donald-trump-primetime-address-election-integrity-midterms/"
     },
     {
-        "id": "https://thehill.com/policy/international/5971647-iran-yemen-houthis-red-sea-block-middle-east-conflict/",
+        "id": "https://thehill.com/policy/international/5972531-gallup-global-inclusion-survey/",
         "source": "The Hill",
-        "title": "Iran asks Houthis to block Red Sea if US hits energy sites: Reports",
+        "title": "More worldwide say their communities are good for minorities: Gallup",
         "publicationDate": "2026-07-16",
         "category": "Foreign Policy",
-        "summary": "Iranian officials have asked Yemen's Houthis to block the Red Sea if the U.S. carries out strikes on Tehran's energy sites, according to Reuters. Two senior Iranian sources and a regional source familiar with the matter reportedly told the outlet that the Houthis had been informed of the request, which was discussed within the Islamic...",
-        "url": "https://thehill.com/policy/international/5971647-iran-yemen-houthis-red-sea-block-middle-east-conflict/"
+        "summary": "A larger proportion of the global population says that their community is a good place to live for minority groups, according to a new survey. The Gallup World Poll from 2025, which was released on Thursday, found that increasing numbers of adults worldwide say where they live is a good place for gay or lesbian...",
+        "url": "https://thehill.com/policy/international/5972531-gallup-global-inclusion-survey/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/5971779-john-rogers-fed-spying-conviction/",
+        "id": "https://thehill.com/homenews/senate/5972513-tillis-lambasts-vought-doge/",
         "source": "The Hill",
-        "title": "Former Federal Reserve adviser sentenced for false statements about China ties",
-        "publicationDate": "2026-07-16",
-        "category": "Foreign Policy",
-        "summary": "A former Federal Reserve senior adviser was sentenced to 38 months in federal prison for lying to investigators about secretly sharing sensitive central bank information with Chinese spies, according to the Justice Department. John Harold Rogers, 64, was arrested last year on charges that included conspiracy to commit economic espionage after federal prosecutors accused him...",
-        "url": "https://thehill.com/regulation/court-battles/5971779-john-rogers-fed-spying-conviction/"
-    },
-    {
-        "id": "https://thehill.com/opinion/immigration/5970234-national-interest-legalization-program/",
-        "source": "The Hill",
-        "title": "No politics, please: Immigrant legal status should serve only America's needs",
-        "publicationDate": "2026-07-16",
-        "category": "Opinions - Immigration",
-        "summary": "Legalization doesn’t have to be an all-or-nothing question.",
-        "url": "https://thehill.com/opinion/immigration/5970234-national-interest-legalization-program/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/16/us/politics/republicans-democrats-midterms-fundraising-takeaways.html",
-        "source": "New York Times Politics",
-        "title": "Republican Candidates Are Hurting for Cash, but Help May Be on the Way",
+        "title": "Tillis shouts at Vought, tired of picking up 'DOGE s‑‑‑ because people did it wrong'",
         "publicationDate": "2026-07-16",
         "category": "Economy",
-        "summary": "Super PACs and billionaires seem to be on the side of the G.O.P., new filings show.",
-        "url": "https://www.nytimes.com/2026/07/16/us/politics/republicans-democrats-midterms-fundraising-takeaways.html"
+        "summary": "GOP Sen. Thom Tillis (N.C.) on Thursday lambasted Office of Management and Budget (OMB) Director Russell Vought over, in his view, the shuttered Department of Government Efficiency’s (DOGE) lack of accomplishments. During a Senate Banking, Housing and Urban Affairs Committee hearing, Tillis asked Vought to name “one DOGE initiative” he could tout as an “exquisite...",
+        "url": "https://thehill.com/homenews/senate/5972513-tillis-lambasts-vought-doge/"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/16/us/politics/senate-midterm-elections-fundraising.html",
-        "source": "New York Times Politics",
-        "title": "Democratic Senate Candidates Trounce Republicans in Fund-Raising",
+        "id": "https://thehill.com/homenews/campaign/5972383-democrats-republicans-q2-fundraising/",
+        "source": "The Hill",
+        "title": "Democrats dominate Senate fundraising, GOP holds own in House: 5 takeaways from new campaign filings",
         "publicationDate": "2026-07-16",
         "category": "Economy",
-        "summary": "In the first half of this year, Democrats raised more cash in every key Senate race except Iowa.",
-        "url": "https://www.nytimes.com/2026/07/16/us/politics/senate-midterm-elections-fundraising.html"
+        "summary": "Senate Democratic candidates are fiercely outraising their GOP counterparts in a handful of must-win races as the party eyes flipping the upper chamber this fall, but House Republican contenders are still holding their own as they defend a narrow majority in the lower chamber. Candidates, PACs and party committees filed their federal finance reports on Wednesday for the second quarter of this year, which...",
+        "url": "https://thehill.com/homenews/campaign/5972383-democrats-republicans-q2-fundraising/"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html",
+        "id": "https://www.nytimes.com/2026/07/16/us/politics/georgia-senators-ossoff-warnock-trump-election-fraud.html",
         "source": "New York Times Politics",
-        "title": "White House Faces Stiff Pushback on Subjecting Grants to Political Review",
+        "title": "Warnock and Ossoff, Georgia’s Senators, Ridicule Trump’s Election Fraud Claims",
         "publicationDate": "2026-07-16",
         "category": "United States Politics and Government",
-        "summary": "Academics, city leaders and congressional lawmakers number among the thousands to urge the Trump administration to reconsider a plan to assert more control over grants.",
-        "url": "https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html"
+        "summary": "Senators in both parties say the state’s 2020 Senate election is a long-settled issue.",
+        "url": "https://www.nytimes.com/2026/07/16/us/politics/georgia-senators-ossoff-warnock-trump-election-fraud.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/16/us/politics/nike-dei-trump-eeoc.html",
+        "id": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html",
         "source": "New York Times Politics",
-        "title": "How Nike’s Diversity Efforts Made It a Trump Target",
+        "title": "White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says",
         "publicationDate": "2026-07-16",
-        "category": "Diversity Initiatives",
-        "summary": "A civil-rights investigation, which grew out of a 26-page memo by a political appointee, provides a road map for the White House’s assault on D.E.I.",
-        "url": "https://www.nytimes.com/2026/07/16/us/politics/nike-dei-trump-eeoc.html"
+        "category": "United States Politics and Government",
+        "summary": "A technical assistant to President Trump won around $100,000, according to the prediction market, which flagged the activity to the federal government.",
+        "url": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/16/us/politics/haley-stevens-michigan-senate-israel-aipac.html",
+        "id": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html",
         "source": "New York Times Politics",
-        "title": "Can a Pro-Israel Democrat Still Win a Big Primary? She’s Going to Try.",
+        "title": "Republican Senator Thom Tillis Demands Todd Blanche Meet With Epstein Survivors",
         "publicationDate": "2026-07-16",
-        "category": "Stevens",
-        "summary": "To prevail in Michigan’s crucial Senate primary, Representative Haley Stevens will need to overcome Democratic voters’ skepticism of Israel. Pro-Israel groups are spending heavily to help her.",
-        "url": "https://www.nytimes.com/2026/07/16/us/politics/haley-stevens-michigan-senate-israel-aipac.html"
+        "category": "United States Politics and Government",
+        "summary": "Senator Thom Tillis of North Carolina made the stipulation during a Senate Judiciary Committee hearing on Thursday for witnesses to discuss Mr. Blanche’s nomination.",
+        "url": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+        "id": "https://www.nytimes.com/2026/07/16/us/politics/the-docket-supreme-court-press.html",
+        "source": "New York Times Politics",
+        "title": "Could a 50-Year-Old Case Thwart Trump’s Attacks on the News Media?",
+        "publicationDate": "2026-07-16",
+        "category": "United States Politics and Government",
+        "summary": "The precedent said that “official harassment of the press” is forbidden by the First Amendment.",
+        "url": "https://www.nytimes.com/2026/07/16/us/politics/the-docket-supreme-court-press.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/16/us/politics/us-election-interference-security.html",
+        "source": "New York Times Politics",
+        "title": "Trump Is Expected to Revisit Election Fraud Claims in Speech: What to Know.",
+        "publicationDate": "2026-07-16",
+        "category": "United States Politics and Government",
+        "summary": "Repeated investigations and audits have debunked claims by the president and his allies of widespread fraud or manipulation in 2020 or other elections.",
+        "url": "https://www.nytimes.com/2026/07/16/us/politics/us-election-interference-security.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/07/16/which-battleground-senate-candidates-are-raising-more-money/",
+        "source": "Washington Post Politics",
+        "title": "These battleground Senate candidates raised the most money",
         "publicationDate": "2026-07-16",
         "category": "Other",
-        "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
-        "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss"
+        "summary": "Democratic candidates are raising more money than Republicans in key Senate races, and Georgia Sen. Jon Ossoff (D) has the most money at his disposal at $42 million.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/16/which-battleground-senate-candidates-are-raising-more-money/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+        "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
         "publicationDate": "2026-07-16",
-        "category": "Defense",
-        "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+        "category": "Foreign Policy",
+        "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
         "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -261,76 +297,85 @@
         "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+        "title": "Fifa 'assessing reports' over Falklands banner",
         "publicationDate": "2026-07-16",
         "category": "Other",
-        "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
-        "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss"
+        "summary": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/cba000af-05a4-4af5-94c3-bf028bf27cb1?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Varun Chandra to stay as Number 10 business adviser under Burnham",
+        "id": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
         "publicationDate": "2026-07-16",
         "category": "Other",
-        "summary": "Former Hakluyt managing partner was instrumental in securing a US-UK trade deal",
-        "url": "https://www.ft.com/content/cba000af-05a4-4af5-94c3-bf028bf27cb1?syn-25a6b1a6=1"
+        "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
+        "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Ukraine’s outgoing defence minister attacks Zelenskyy as thousands protest against firing",
+        "title": "Zelenskyy government plunged into turmoil after defence minister fired",
         "publicationDate": "2026-07-16",
-        "category": "Defense",
-        "summary": "Mykhailo Fedorov accuses Ukrainian president and top general of blocking much-needed military reforms",
+        "category": "Foreign Policy",
+        "summary": "Ukraine president forced into concession as ousting of popular minister prompts public and political backlash",
         "url": "https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/fbde3d46-0e53-47cb-8f0b-4988dbf22040",
+        "id": "https://www.ft.com/content/51188c2d-a5f3-415d-a668-f3ec7e50c991?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "We need humanities more than ever in the age of AI",
+        "title": "Blanche’s confirmation as US attorney-general could hinge on meeting Epstein’s victims",
         "publicationDate": "2026-07-16",
         "category": "Other",
-        "summary": "Subjects like literature, languages and history are vital to a thoughtful and prosperous society",
-        "url": "https://www.ft.com/content/fbde3d46-0e53-47cb-8f0b-4988dbf22040"
+        "summary": "Thom Tillis threatens to block acting AG’s appointment as scandal over sex offender overshadows nomination",
+        "url": "https://www.ft.com/content/51188c2d-a5f3-415d-a668-f3ec7e50c991?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/025c6f9f-cef8-401d-9a9c-72c67c5f4652?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump administration says leftwing extremism is ‘fatal cancer to civilisation’",
+        "publicationDate": "2026-07-16",
+        "category": "Foreign Policy",
+        "summary": "State department says violence from the left is international counterterrorism blind spot",
+        "url": "https://www.ft.com/content/025c6f9f-cef8-401d-9a9c-72c67c5f4652?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/411cc6a4-0448-4b67-aa16-44ff84889f79?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Shabana Mahmood to tackle MI5 after scathing report into officers’ conduct",
+        "publicationDate": "2026-07-16",
+        "category": "Other",
+        "summary": "Home secretary promises to hold security service to account following case in which an agent was accused of abusing women",
+        "url": "https://www.ft.com/content/411cc6a4-0448-4b67-aa16-44ff84889f79?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/ee3b9d37-a5dc-4a2d-8929-3ad88fbaa991?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "MPs refuse to endorse former Virgin Money chief to lead accounting regulator",
+        "title": "MPs decline to endorse former Virgin Money chief’s appointment as regulator",
         "publicationDate": "2026-07-16",
         "category": "Other",
-        "summary": "Prominent City figure Jayne-Anne Gadhia is business secretary’s preferred candidate for FRC chair",
+        "summary": "City figure Jayne-Anne Gadhia confirmed by government as chair of Financial Reporting Council",
         "url": "https://www.ft.com/content/ee3b9d37-a5dc-4a2d-8929-3ad88fbaa991?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/d3f29395-e138-4cf7-962d-965173e04447?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "IMF warns Burnham he cannot afford to boost public spending",
-        "publicationDate": "2026-07-16",
-        "category": "Economy",
-        "summary": "Fund says UK government response to Iran war energy shock should remain ‘targeted, temporary and budget-neutral’",
-        "url": "https://www.ft.com/content/d3f29395-e138-4cf7-962d-965173e04447?syn-25a6b1a6=1"
-    },
-    {
-        "id": "R49036",
+        "id": "R48605",
         "source": "Congressional Research Service",
-        "title": "“Transnational Repression” and U.S. Policy: In Brief",
+        "title": "Safety Considerations for Automated Passenger Vehicles",
         "publicationDate": "2026-07-15",
-        "category": "Foreign Policy",
-        "summary": "Foreign government-supported “transnational repression” has been of increasing concern to some U.S. policymakers in the past several years. It is broadly viewed as a human rights issue, as well as a form of foreign interference affecting individuals and communities in countries around the world, including in democracies such as the United States. The nongovernmental organization Freedom House, which beginning in...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49036/R49036.4.pdf"
+        "category": "Technology",
+        "summary": "Automated vehicle technologies offer a range of driver support functions that some stakeholders assert may improve traffic safety. These technologies vary in their capabilities and current stages of development. Select automation technologies are currently available in many privately owned passenger vehicles, while vehicles with automation technologies allowing for reduced or no driver responsibility are generally...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48605/R48605.8.pdf"
     },
     {
-        "id": "IF12873",
+        "id": "R49033",
         "source": "Congressional Research Service",
-        "title": "The Peace Corps",
+        "title": "U.S. Research Vessels and Scientific Leadership in Antarctica",
         "publicationDate": "2026-07-15",
         "category": "Defense",
-        "summary": "The Peace Corps is an independent agency that sends American volunteers to serve at the grassroots level in developing countries in order to advance three goals: promote world peace and friendship by improving the lives of the communities where volunteers serve, help others understand American culture, and share volunteers’ experiences with Americans at home. President John F. Kennedy proposed the Peace Corps as...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12873/IF12873.3.pdf"
+        "summary": "In October 2025, the National Science Foundation (NSF) terminated the lease of the Research Vessel Icebreaker Nathaniel B. Palmer after 33 years of service to the U.S. Antarctic Program (USAP). NSF cited budgetary constraints as its reason for terminating the lease. At the time of its termination, the Palmer was the sole U.S. research vessel with icebreaking capability dedicated to Antarctica. NSF had previously...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49033/R49033.2.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/strait-hormuz-us-iran-maritime-flash-point",
@@ -349,24 +394,6 @@
         "category": "Foreign Policy",
         "summary": "We Discuss: Mentioned in the Episode: “How People in 24 Countries View India,” Pew Research Center Mathew George, Katarina Djokic, Zain Hussain, Pieter D. Wezeman, and Siemon T. Wezeman, “Trends In International Arms Transfers, 2024,” Stockholm International Peace Research Institute Opinions expressed on The President’s Inbox are solely those of the host or guests, not […]",
         "url": "https://www.cfr.org/podcasts/presidents-inbox/u-s-india-relations-under-stress-with-sadanand-dhume"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/spillover/rahm-emanuel-talks-israel-midterm-elections-and-the-democratic-party",
-        "source": "Council on Foreign Relations",
-        "title": "Rahm Emanuel Talks Israel, Midterm Elections, and the Democratic Party",
-        "publicationDate": "2026-07-15",
-        "category": "Podcast",
-        "summary": "On this episode of The Spillover, cohosts Rebecca Patterson and Sebastian Mallaby welcome Rahm Emanuel. Below are some takeaways from the conversation. In the upcoming midterm elections, Emanuel is “pretty confident about the House” but warns of a razor-thin margin for Democrats. Emanuel’s worry isn’t about losing the House outright, but a result close enough […]",
-        "url": "https://www.cfr.org/podcasts/spillover/rahm-emanuel-talks-israel-midterm-elections-and-the-democratic-party"
-    },
-    {
-        "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-steven-a-cook",
-        "source": "Council on Foreign Relations",
-        "title": "How I Got My Career in Foreign Policy: Steven A. Cook",
-        "publicationDate": "2026-07-15",
-        "category": "Foreign Policy",
-        "summary": "Steven Cook knew from an early age that he wanted to study international affairs. The longtime CFR Middle East fellow discusses how he found his path and all the places it’s taken him.",
-        "url": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-steven-a-cook"
     },
     {
         "id": "https://www.heritage.org/education/commentary/teachers-unions-are-losing-one-their-government-perks",
@@ -405,13 +432,13 @@
         "url": "https://www.heritage.org/global-politics/commentary/blaming-trump-the-latest-outbreak-ebola-absurd"
     },
     {
-        "id": "https://www.heritage.org/education/report/the-heritage-guide-historic-sites-rediscovering-americas-heritage",
+        "id": "https://www.heritage.org/government-regulation/commentary/the-highway-hell-bill-thatll-raise-costs-families",
         "source": "Heritage Foundation",
-        "title": "The Heritage Guide to Historic Sites: Rediscovering America’s Heritage",
+        "title": "The Highway to Hell Bill That’ll Raise Costs for Families",
         "publicationDate": "2026-07-15",
-        "category": "Defense",
-        "summary": "The mystic chords of memory, stretching from every battlefield, and patriot grave, to every living heart and hearthstone, all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature. —Abraham Lincoln Abraham Lincoln, “Inaugural Address,” March 4, 1861, Ashbrook Center at Ashland University, Teaching American History,...",
-        "url": "https://www.heritage.org/education/report/the-heritage-guide-historic-sites-rediscovering-americas-heritage"
+        "category": "Economy",
+        "summary": "After years of soaring costs and an affordability crisis, the last thing Americans need is a bloated highway bill that wastes taxpayers’ dollars while imposing higher costs on consumers. Unfortunately, that’s exactly what’s getting kicked around the halls of Congress right now: a pork-filled monstrosity masquerading as a highway bill. The legislation in question is the deceptively named “BUILD America 250 Act,” a...",
+        "url": "https://www.heritage.org/government-regulation/commentary/the-highway-hell-bill-thatll-raise-costs-families"
     },
     {
         "id": "https://www.hudson.org/foreign-policy/ukraine-military-situation-report-july-15-can-kasapoglu",
@@ -495,15 +522,6 @@
         "url": "https://www.hoover.org/research/officials-meet-johannesburg-advance-smarter-public-spending"
     },
     {
-        "id": "https://www.hoover.org/research/ai-chose-not-surrender-how-should-its-deployment-military-which-progressing-various",
-        "source": "Hoover Institution",
-        "title": "AI That Chose Not To Surrender: How Should Its Deployment In The Military, Which Is Progressing In Various Countries, Be Implemented?",
-        "publicationDate": "2026-07-15",
-        "category": "Defense",
-        "summary": "[Originally in Japanese] Jacqueline Schneider, a Hoover Fellow at the Hoover Institution at Stanford University, said: \"What concerns us researchers is that we still don't fully understand what this technology could ultimately lead to.\"",
-        "url": "https://www.hoover.org/research/ai-chose-not-surrender-how-should-its-deployment-military-which-progressing-various"
-    },
-    {
         "id": "https://ecfr.eu/article/down-and-out-from-rabat-to-cairo-the-iran-war-and-north-african-instability/",
         "source": "European Council on Foreign Relations",
         "title": "Down and out from Rabat to Cairo: The Iran war and North African instability",
@@ -511,15 +529,6 @@
         "category": "Foreign Policy",
         "summary": "The war between the US and Iran is destabilising North African economies, putting an already fragile region at the very edge of polycrisis",
         "url": "https://ecfr.eu/article/down-and-out-from-rabat-to-cairo-the-iran-war-and-north-african-instability/"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/what-blanche-said-about-trump-epstein-files-during-confirmation-hearing",
-        "source": "PBS NewsHour Politics",
-        "title": "What Blanche said about Trump, Epstein files during confirmation hearing for attorney general",
-        "publicationDate": "2026-07-15",
-        "category": "anti-weaponization fund",
-        "summary": "Acting Attorney General Todd Blanche tried to assert his independence from President Donald Trump during his confirmation hearing Wednesday before the Senate Judiciary Committee.",
-        "url": "https://www.pbs.org/newshour/politics/what-blanche-said-about-trump-epstein-files-during-confirmation-hearing"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/15/house-vote-exposes-democrats-widening-divide-over-israel/",
@@ -538,6 +547,15 @@
         "category": "Defense",
         "summary": "The announcements reflect a growing disconnect between the Democratic establishment, with its long-standing support for the U.S. ally, and the party’s left wing.",
         "url": "https://www.washingtonpost.com/politics/2026/07/15/key-house-democrats-voice-support-amendment-cancel-israel-defense-funding/"
+    },
+    {
+        "id": "IN12710",
+        "source": "Congressional Research Service",
+        "title": "Turkey (Türkiye): Possible F-35 Sale and Sanctions Relief",
+        "publicationDate": "2026-07-14",
+        "category": "Defense",
+        "summary": "U.S.-Turkey (alt. Türkiye) efforts are ongoing to resolve issues related to Turkey’s 2019 acquisition of a Russian S-400 surface-to-air defense system. Turkey is seeking a purchase of 40 F-35 Lightning II aircraft, and an end to U.S. sanctions on Turkey’s main defense procurement agency (and four related persons) under the Countering America’s Adversaries Through Sanctions Act (CAATSA, P.L. 115-44). In July 2026,...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12710/IN12710.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4720-2.html",
@@ -637,14 +655,5 @@
         "category": "Other",
         "summary": "Description not available from the source feed.",
         "url": "https://www.cer.eu/cer-job-vacancies-may-2026"
-    },
-    {
-        "id": "IF13096",
-        "source": "Congressional Research Service",
-        "title": "The Pacific Coastal Salmon Recovery Fund",
-        "publicationDate": "2026-05-04",
-        "category": "Economy",
-        "summary": "Introduction The Pacific Coastal Salmon Recovery Fund (PCSRF) provides federal funding for the protection, conservation, and restoration of Pacific salmon species (Oncorhynchus spp.) and steelhead trout (O. mykiss) that are listed or at risk of being listed as threatened or endangered under the Endangered Species Act (ESA; 16 U.S.C. §§1531-1544). Specifically, the PCSRF supports West Coast Pacific salmon recovery...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13096/IF13096.6.pdf"
     }
 ]
