@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.cfr.org/articles/chinas-transnational-repression-is-being-met-with-a-deafening-silence-chinesetranslation",
+        "source": "Council on Foreign Relations",
+        "title": "中国诱使一位美国学者参加会议随后将其逮捕",
+        "publicationDate": "2026-07-17",
+        "category": "Article",
+        "summary": "美国公民敏钦因可疑的间谍指控被拘留，这是北京在海外打压异见人士和批评者运动范围扩大、愈发肆无忌惮的最新证据。如果美国不作出强有力的回应，中国在外国领土上针对学者、活动人士和侨民社区的意愿很可能会进一步增强。",
+        "url": "https://www.cfr.org/articles/chinas-transnational-repression-is-being-met-with-a-deafening-silence-chinesetranslation"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-uk-will-have-its-seventh-prime-minister-in-a-decade-what-happened-to-the-others",
+        "source": "Council on Foreign Relations",
+        "title": "The UK Will Have Its Seventh Prime Minister in a Decade. What Happened to the Others?",
+        "publicationDate": "2026-07-17",
+        "category": "Article",
+        "summary": "Andy Burnham will be the United Kingdom’s seventh prime minister in a decade. Here’s a rundown of the country’s previous six leaders and why they left office.",
+        "url": "https://www.cfr.org/articles/the-uk-will-have-its-seventh-prime-minister-in-a-decade-what-happened-to-the-others"
+    },
+    {
+        "id": "https://ecfr.eu/article/the-fallout-of-the-fallout-zelenskys-reshuffle-and-protests-in-ukraine/",
+        "source": "European Council on Foreign Relations",
+        "title": "The fallout of the fallout: Zelensky’s reshuffle and protests in Ukraine",
+        "publicationDate": "2026-07-17",
+        "category": "Defense",
+        "summary": "Zelensky’s outgoing defence minister did not hold back in his criticism of military commanders—and his allegations deserve proper scrutiny",
+        "url": "https://ecfr.eu/article/the-fallout-of-the-fallout-zelenskys-reshuffle-and-protests-in-ukraine/"
+    },
+    {
         "id": "https://ecfr.eu/podcasts/episode/lebanon-on-the-brink-of-war-or-peace/",
         "source": "European Council on Foreign Relations",
         "title": "Lebanon: On the brink of war or peace?",
@@ -63,99 +90,144 @@
         "url": "https://www.npr.org/2026/07/17/nx-s1-5896138/rep-jim-himes-reacts-to-trumps-speech-on-election-security"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5973681-donald-trump-china-election-interference-claim-reaction/",
+        "id": "https://www.pbs.org/newshour/politics/lawmakers-demand-answers-after-bombshell-report-of-ice-officer-shooting-in-maine",
+        "source": "PBS NewsHour Politics",
+        "title": "Lawmakers demand answers after 'bombshell' report of ICE officer shooting in Maine",
+        "publicationDate": "2026-07-17",
+        "category": "Healthcare",
+        "summary": "Democratic members of Congress demanded answers about Homeland Security's vetting and training of immigration enforcement agents after it was disclosed Thursday that the ICE officer involved in a deadly shooting this week in Maine had a history of mental health issues and violent behavior.",
+        "url": "https://www.pbs.org/newshour/politics/lawmakers-demand-answers-after-bombshell-report-of-ice-officer-shooting-in-maine"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-mullin-holds-news-conference-on-election-security-after-trumps-address-to-the-nation",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Mullin holds news conference on election security after Trump's address to the nation",
+        "publicationDate": "2026-07-17",
+        "category": "Donald Trump news",
+        "summary": "In a White House briefing doubling down on President Donald Trump's claims, Homeland Security Secretary Markwayne Mullin threatened fines, penalties or prison time for state election officials who refuse to hand over sensitive voter data to DHS.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-mullin-holds-news-conference-on-election-security-after-trumps-address-to-the-nation"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/nation/maine-shooting-and-officers-background-raise-new-questions-about-ices-rapid-hiring",
+        "source": "PBS NewsHour Politics",
+        "title": "Maine shooting and officer's background raise new questions about ICE's rapid hiring",
+        "publicationDate": "2026-07-17",
+        "category": "ice",
+        "summary": "Immigration and Customs Enforcement has been rapidly expanding its workforce, hiring thousands of new officers as part of the Trump administration's attempt to ramp up immigration arrests and deportations.",
+        "url": "https://www.pbs.org/newshour/nation/maine-shooting-and-officers-background-raise-new-questions-about-ices-rapid-hiring"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/blanche-meets-with-epstein-accusers-after-demand-from-republican-senator-crucial-to-confirmation",
+        "source": "PBS NewsHour Politics",
+        "title": "Blanche meets with Epstein accusers after demand from Republican senator crucial to confirmation",
+        "publicationDate": "2026-07-17",
+        "category": "attorney general",
+        "summary": "Acting Attorney General Todd Blanche met Thursday with accusers of convicted sex offender Jeffrey Epstein following the demand by a Republican senator whose support is crucial to advancing his nomination to lead the Justice Department.",
+        "url": "https://www.pbs.org/newshour/politics/blanche-meets-with-epstein-accusers-after-demand-from-republican-senator-crucial-to-confirmation"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/heres-what-makes-american-elections-so-complicated-and-secure",
+        "source": "PBS NewsHour Politics",
+        "title": "Here's what makes American elections so complicated and secure",
+        "publicationDate": "2026-07-17",
+        "category": "Donald Trump news",
+        "summary": "One of the strongest security features of U.S. elections is the fact that they aren't conducted at the federal level.",
+        "url": "https://www.pbs.org/newshour/politics/heres-what-makes-american-elections-so-complicated-and-secure"
+    },
+    {
+        "id": "https://thehill.com/newsletters/1230-report/5974785-explosive-diarrhea-smoke-and-heatwaves-oh-my/",
         "source": "The Hill",
-        "title": "China dismisses ‘groundless’ Trump election interference claim",
+        "title": "Explosive diarrhea, smoke and heatwaves, oh my",
+        "publicationDate": "2026-07-17",
+        "category": "12:30 Report",
+        "summary": "Click in for The Hill's midday newsletter with all the latest news. {beacon} Happy Friday! The World Cup Final is happening on Sunday! I’m going to miss all the soccer and the comradery that has come with it. Oh and exciting news for gymnastics fans, the 2026 U.S. Classic is happening this weekend! So many gymnastics...",
+        "url": "https://thehill.com/newsletters/1230-report/5974785-explosive-diarrhea-smoke-and-heatwaves-oh-my/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5974741-ginsberg-disputes-trump-voter-fraud/",
+        "source": "The Hill",
+        "title": "GOP lawyer: 'Still no evidence of a result of any election being incorrect'",
+        "publicationDate": "2026-07-17",
+        "category": "Administration",
+        "summary": "Republican election lawyer Ben Ginsberg disputed President Trump’s revived claims of widespread voter fraud in the 2020 presidential race during his primetime address on Thursday evening. The White House touted “breaking news” on the state of election security in the U.S. ahead of Trump’s speech on Thursday. His administration released a trove of files they...",
+        "url": "https://thehill.com/homenews/administration/5974741-ginsberg-disputes-trump-voter-fraud/"
+    },
+    {
+        "id": "https://thehill.com/video-clips/5974654-ddhq-midterm-forecast-early-hill-nation-summit-sneak-peek-midterms/",
+        "source": "The Hill",
+        "title": "DDHQ releases midterm forecast early at Hill Nation Summit as midterm polling sneak peek",
+        "publicationDate": "2026-07-17",
+        "category": "Technology",
+        "summary": "White House correspondent Julia Manchester; The Hill’s senior vice president of editorial content, Bill Sammon; and Decision Desk HQ's (DDHQ) director of data science, Scott Tranter, discuss DDHQ's midterm forecast at the Hill Nation Summit. The forecast shows Democrats are in position to win the House this fall while the Senate is on track to...",
+        "url": "https://thehill.com/video-clips/5974654-ddhq-midterm-forecast-early-hill-nation-summit-sneak-peek-midterms/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/5974608-maine-ice-shooting-officer-dhs-david-brouillette/",
+        "source": "The Hill",
+        "title": "ICE officer in Maine shooting should have never been given badge, gun, relatives say",
+        "publicationDate": "2026-07-17",
+        "category": "State Watch",
+        "summary": "Democratic lawmakers are pressing the Department of Homeland Security (DHS) for answers about the agency’s vetting and training for immigration enforcement officers after the recent fatal shooting by an officer in Maine. David Brouillette, the Immigration and Customs Enforcement (ICE) officer who fatally wounded Colombian national Johan Sebastián Guerrero on Monday, has a history of...",
+        "url": "https://thehill.com/homenews/state-watch/5974608-maine-ice-shooting-officer-dhs-david-brouillette/"
+    },
+    {
+        "id": "https://thehill.com/policy/national-security/5974655-mullin-threatens-states-election-security/",
+        "source": "The Hill",
+        "title": "Mullin threatens states as DHS launches widespread review of elections",
         "publicationDate": "2026-07-17",
         "category": "Foreign Policy",
-        "summary": "China denied President Trump’s accusation that it interfered with the 2020 presidential election, calling the claim “entirely fabricated” and “groundless” while insisting it never had any interest in meddling with U.S. elections. Speaking at a press conference on Friday, Chinese Foreign Ministry spokesperson Lin Jian responded to Trump’s Thursday primetime address, when the president accused...",
-        "url": "https://thehill.com/homenews/campaign/5973681-donald-trump-china-election-interference-claim-reaction/"
+        "summary": "Homeland Security Secretary Markwayne Mullin went further than President Trump in an address on election security Friday, asserting foreign adversaries could hack voter machines, threatening states that refuse to partner with his department and saying he would use “maximum pressure” to root out any illegally cast votes. While Trump in his primetime address Thursday called...",
+        "url": "https://thehill.com/policy/national-security/5974655-mullin-threatens-states-election-security/"
     },
     {
-        "id": "https://thehill.com/opinion/finance/5970286-jd-vance-economic-policy-critique/",
-        "source": "The Hill",
-        "title": "An elegy for human dignity: Why Vancenomics won't serve America",
-        "publicationDate": "2026-07-17",
-        "category": "Economy",
-        "summary": "The path to human dignity and cultural renewal will be charted when Americans are empowered to innovate, compete and flourish in a free economy and civil society — without federal bureaucrats standing in their way.",
-        "url": "https://thehill.com/opinion/finance/5970286-jd-vance-economic-policy-critique/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/morning-report/5973639-donald-trump-election-interference-claims-vs-white-house-docs/",
-        "source": "The Hill",
-        "title": "Trump’s receipts don’t back up new election claims",
+        "id": "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html",
+        "source": "New York Times Politics",
+        "title": "Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars",
         "publicationDate": "2026-07-17",
         "category": "Foreign Policy",
-        "summary": "In today's issue: ▪ Trump points finger at China ▪ Tillis stands his ground ▪ Trump’s teleprompter operator suspended ▪ FEC deadline takeaways President Trump’s sweeping claims of election interference during his primetime address to the country Thursday night were largely unsupported by documents the White House posted to its website as he was speaking....",
-        "url": "https://thehill.com/newsletters/morning-report/5973639-donald-trump-election-interference-claims-vs-white-house-docs/"
+        "summary": "Like his predecessors, President Trump has struggled to turn battlefield successes into long-term victories.",
+        "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html"
     },
     {
-        "id": "https://thehill.com/opinion/finance/5971996-childhood-investment-fund-growth/",
-        "source": "The Hill",
-        "title": "One government program that will actually help your kid",
-        "publicationDate": "2026-07-17",
-        "category": "Economy",
-        "summary": "Opening a savings account for my 11 month-old son was easier than opening one for myself. And his was funded with a free $1,000 to start. As a statistician, I have spent much of my career telling people that government programs almost never work as advertised. The incentives are always wrong, the paperwork is overwhelming,...",
-        "url": "https://thehill.com/opinion/finance/5971996-childhood-investment-fund-growth/"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/5972786-trump-fires-seattle-us-attorney/",
-        "source": "The Hill",
-        "title": "Firing of top prosecutor in Seattle tests limits of Trump’s power",
-        "publicationDate": "2026-07-17",
-        "category": "Court Battles",
-        "summary": "The Trump administration’s latest firing of a U.S. attorney is intensifying the Justice Department’s assertion of presidential control over prosecutorial picks. Roger Rogoff was sacked Wednesday as the top federal prosecutor in Seattle after a panel of 17 judges appointed him. The firing made good on the warning from acting Attorney General Todd Blanche that the...",
-        "url": "https://thehill.com/regulation/court-battles/5972786-trump-fires-seattle-us-attorney/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/17/us/politics/trump-election-tampering-document-release.html",
+        "id": "https://www.nytimes.com/2026/07/17/business/media/pentagon-reporters-nytimes.html",
         "source": "New York Times Politics",
-        "title": "Trump Promised Proof of Election Tampering. His Document Release Fell Far Short.",
+        "title": "Pentagon’s Escort Policy for Journalists Is Temporarily Restored",
+        "publicationDate": "2026-07-17",
+        "category": "Defense",
+        "summary": "An appeals court said the Defense Department could require escorts for reporters who visit the Pentagon while The New York Times sues to overturn the rule.",
+        "url": "https://www.nytimes.com/2026/07/17/business/media/pentagon-reporters-nytimes.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/17/style/blue-maga-meaning-democrats.html",
+        "source": "New York Times Politics",
+        "title": "‘Blue MAGA’ Has Entered the Chat",
         "publicationDate": "2026-07-17",
         "category": "United States Politics and Government",
-        "summary": "In the end, the documentary evidence that President Trump claimed would prove his case appeared bound to disappoint those who expected bombshell revelations.",
-        "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-election-tampering-document-release.html"
+        "summary": "It’s a term that can mean whatever the people using it want it to mean. But it’s not a compliment.",
+        "url": "https://www.nytimes.com/2026/07/17/style/blue-maga-meaning-democrats.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html",
+        "id": "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html",
         "source": "New York Times Politics",
-        "title": "Is Venezuela a Colony Now? A Sovereign State? Modern Empires Rule in Ambiguity.",
+        "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
         "publicationDate": "2026-07-17",
-        "category": "Venezuela",
-        "summary": "Occupation is a hassle. Large countries have many new ways to control small ones.",
-        "url": "https://www.nytimes.com/2026/07/17/magazine/venezuela-empires-colony.html"
+        "category": "Defense",
+        "summary": "Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.",
+        "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/17/us/politics/republicans-in-north-carolina-try-to-reduce-early-voting-on-sundays-and-on-campuses.html",
+        "id": "https://www.nytimes.com/2026/07/17/us/politics/federal-courthouses-repairs.html",
         "source": "New York Times Politics",
-        "title": "Republicans in North Carolina Try to Reduce Early Voting on Sundays and on Campuses",
-        "publicationDate": "2026-07-17",
-        "category": "North Carolina",
-        "summary": "Voting-rights activists said the changes are a blatant attempt by G.O.P. leaders to make it harder for Black voters and students, who tend to vote for Democrats, to cast ballots this fall.",
-        "url": "https://www.nytimes.com/2026/07/17/us/politics/republicans-in-north-carolina-try-to-reduce-early-voting-on-sundays-and-on-campuses.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html",
-        "source": "New York Times Politics",
-        "title": "To Win Their Races, Black Politicians Confront a New Landscape",
-        "publicationDate": "2026-07-17",
-        "category": "Voting Rights Act (1965)",
-        "summary": "With the Voting Rights Act weakened, Black representation will depend less on Black voters and more on broad, multiracial appeal or on ideological outsider campaigns.",
-        "url": "https://www.nytimes.com/2026/07/17/us/politics/black-representation-voting-rights-act.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html",
-        "source": "New York Times Politics",
-        "title": "A Trump Obsession That Carries a Cost for Democracy",
+        "title": "Judges Ask Congress for Power to Fix Crumbling Courthouses",
         "publicationDate": "2026-07-17",
         "category": "United States Politics and Government",
-        "summary": "In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome.",
-        "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html"
+        "summary": "Undrinkable water. Leaks. Mold. Federal courthouses need billions of dollars in repairs, and judges say the General Services Administration is a bad landlord.",
+        "url": "https://www.nytimes.com/2026/07/17/us/politics/federal-courthouses-repairs.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/17/after-ice-shooting-maine-democratic-senate-hopefuls-try-show-fight/",
         "source": "Washington Post Politics",
-        "title": "Maine Democratic Senate candidates unite behind abolishing ICE after shooting",
+        "title": "Maine Democratic Senate hopefuls back once fringe position after ICE shooting",
         "publicationDate": "2026-07-17",
         "category": "Other",
         "summary": "The leading candidates to replace Graham Platner as the Democratic nominee to challenge Sen. Susan Collins are presenting themselves as fighters in his mold and calling for ICE to be abolished.",
@@ -207,49 +279,67 @@
         "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/c3c33e7b-8faf-4f06-b281-112117aeeb5a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "EU to give industry more time to pollute and more funds to clean up",
-        "publicationDate": "2026-07-17",
-        "category": "Other",
-        "summary": "Climate commissioner defends extension of free allowances to heavily polluting sectors",
-        "url": "https://www.ft.com/content/c3c33e7b-8faf-4f06-b281-112117aeeb5a?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Global tech stocks fall as AI trade goes into reverse",
+        "title": "US chip stocks head for worst week in more than a year",
         "publicationDate": "2026-07-17",
         "category": "Technology",
-        "summary": "Index of US semiconductor stocks on track for its worst week since last year’s ‘liberation day’ rout",
+        "summary": "High-flying semiconductor shares fall as ‘momentum trades’ backfire",
         "url": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/f5773412-4604-4078-9fc9-41b715326572?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/48e28711-9c94-4a8e-99ed-7b0de1840b47?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Trump envoy’s tour on $450mn superyacht stirs anger in Italy",
+        "title": "Robert Jenrick’s wife knew in 2024 about foreign payments to his top donor, lawyer claimed",
         "publicationDate": "2026-07-17",
         "category": "Foreign Policy",
-        "summary": "Rome declines to reveal cost of security for billionaire businessman Tilman Fertitta’s ‘coastal diplomacy’",
-        "url": "https://www.ft.com/content/f5773412-4604-4078-9fc9-41b715326572?syn-25a6b1a6=1"
+        "summary": "Police are investigating the legality of donations to the politician during his Conservative Party leadership bid",
+        "url": "https://www.ft.com/content/48e28711-9c94-4a8e-99ed-7b0de1840b47?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/8cbd0b07-d0db-4c1a-a985-c495bd7168b8?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/a200e4d6-69b1-45a7-8777-3126dc4f194b?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Burnham promises to ‘take power back from Westminster’ as he is crowned Labour leader",
+        "title": "Ukraine’s rift over battlefield strategy breaks into the open",
         "publicationDate": "2026-07-17",
-        "category": "Other",
-        "summary": "Incoming prime minister promised to ‘set a direction that is distinctively Labour’",
-        "url": "https://www.ft.com/content/8cbd0b07-d0db-4c1a-a985-c495bd7168b8?syn-25a6b1a6=1"
+        "category": "Foreign Policy",
+        "summary": "Sacking of popular defence minister exposes divisions over how to fight Russia",
+        "url": "https://www.ft.com/content/a200e4d6-69b1-45a7-8777-3126dc4f194b?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/352943bc-6c51-4b5d-abf0-a964970ade6a?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/46ab4fc8-187e-4a06-964f-4ed7e2b12549",
         "source": "Financial Times World",
-        "title": "Submit your questions: How will Andy Burnham govern the UK?",
+        "title": "Warsh’ington times",
         "publicationDate": "2026-07-17",
         "category": "Other",
-        "summary": "Join a live Ask an Expert Q&A with the FT’s northern England correspondent Jennifer Williams, columnist and Inside Politics writer Stephen Bush and UK chief political commentator Robert Shrimsley on Thursday July 23 at 1pm (BST)",
-        "url": "https://www.ft.com/content/352943bc-6c51-4b5d-abf0-a964970ade6a?syn-25a6b1a6=1"
+        "summary": "The Fed chair offered little new information to Congress on his plans to shake up the central bank",
+        "url": "https://www.ft.com/content/46ab4fc8-187e-4a06-964f-4ed7e2b12549"
+    },
+    {
+        "id": "https://www.ft.com/content/fec8b92e-081f-469f-b1c0-576316c75def?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Jonathan Reynolds set to oversee beefed-up business department",
+        "publicationDate": "2026-07-17",
+        "category": "Technology",
+        "summary": "Incoming prime minister Andy Burnham discussing plans to give ministry more powers over science and energy policy",
+        "url": "https://www.ft.com/content/fec8b92e-081f-469f-b1c0-576316c75def?syn-25a6b1a6=1"
+    },
+    {
+        "id": "IF13270",
+        "source": "Congressional Research Service",
+        "title": "Coordinated Party Expenditures: Policy Background",
+        "publicationDate": "2026-07-16",
+        "category": "Economy",
+        "summary": "On June 30, 2026, in National Republican Senatorial Committee v. Federal Election Commission (NRSC v. FEC), the U.S. Supreme Court invalidated federal statutory limits on a type of political party spending known as coordinated party expenditures. This CRS In Focus provides brief policy background on coordinated party expenditures and now-invalidated statutory limits. Potential campaign finance implications,...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13270/IF13270.3.pdf"
+    },
+    {
+        "id": "IF12985",
+        "source": "Congressional Research Service",
+        "title": "Homelessness",
+        "publicationDate": "2026-07-16",
+        "category": "Healthcare",
+        "summary": "On a single night in 2025, there were 745,652 total people experiencing homelessness, 479,332 of whom were sheltered and 266,320 of whom were unsheltered. Homelessness decreased compared to 2024 by a small percentage, both overall and for some populations. The federal government requires homeless data collection, and provides funding for housing and services to assist people experiencing homelessness through a...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12985/IF12985.3.pdf"
     },
     {
         "id": "IN12713",
@@ -259,15 +349,6 @@
         "category": "Technology",
         "summary": "Commissioner Donald Palmer resigned from the U.S. Election Assistance Commission (EAC) on April 30, 2026. On July 9, the remaining three members of the four-person commission were effectively removed from their positions. According to media reports, Commissioners Thomas Hicks and Benjamin Hovland were notified of their dismissals via email from the Executive Office of the President and Commissioner Christy...",
         "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12713/IN12713.1.pdf"
-    },
-    {
-        "id": "IF13270",
-        "source": "Congressional Research Service",
-        "title": "Coordinated Party Expenditures: Policy Background",
-        "publicationDate": "2026-07-16",
-        "category": "Economy",
-        "summary": "On June 30, 2026, in National Republican Senatorial Committee v. Federal Election Commission (NRSC v. FEC), the U.S. Supreme Court invalidated federal statutory limits on a type of political party spending known as coordinated party expenditures. This CRS In Focus provides brief policy background on coordinated party expenditures and now-invalidated statutory limits. Potential campaign finance implications,...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13270/IF13270.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5013-1.html",
@@ -396,51 +477,6 @@
         "url": "https://ecfr.eu/article/europes-problem-in-italy-how-to-resist-the-rise-of-roberto-vannacci/"
     },
     {
-        "id": "https://www.pbs.org/newshour/arts/ava-duvernay-announces-14th-new-documentary-on-birthright-amendment-contested-by-trump",
-        "source": "PBS NewsHour Politics",
-        "title": "Ava DuVernay announces '14th,' new documentary on birthright amendment contested by Trump",
-        "publicationDate": "2026-07-16",
-        "category": "14th Amendment",
-        "summary": "The film will mark a return to nonfiction for DuVernay, the filmmaker of \"Selma\" and \"Origin,\" and a follow-up to DuVernay's 2016 film \"13th,\" her examination of the legacy of the 13th Amendment, which abolished slavery.",
-        "url": "https://www.pbs.org/newshour/arts/ava-duvernay-announces-14th-new-documentary-on-birthright-amendment-contested-by-trump"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/what-to-expect-from-trumps-address-as-he-revisits-2020-election-loss",
-        "source": "PBS NewsHour Politics",
-        "title": "What to expect from Trump's address as he revisits 2020 election loss",
-        "publicationDate": "2026-07-16",
-        "category": "Foreign Policy",
-        "summary": "President Trump is expected to make new claims about foreign interference in the 2020 presidential election. The speech marks an escalation of his years-long effort to relitigate the election he lost. His repeated false claims about the 2020 vote have been rejected by courts, election officials and independent assessments, which found no evidence of widespread fraud. Liz Landers reports.",
-        "url": "https://www.pbs.org/newshour/show/what-to-expect-from-trumps-address-as-he-revisits-2020-election-loss"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/election-officials-in-arizonas-largest-county-agree-on-how-to-oversee-vote-ending-legal-battle",
-        "source": "PBS NewsHour Politics",
-        "title": "Election officials in Arizona's largest county agree on how to oversee vote, ending legal battle",
-        "publicationDate": "2026-07-16",
-        "category": "Economy",
-        "summary": "Republican Maricopa County Recorder Justin Heap sued the predominantly GOP board of supervisors in June 2025, alleging it illegally took control of certain aspects of election administration. The board called the lawsuit frivolous and said Heap was wasting taxpayer money.",
-        "url": "https://www.pbs.org/newshour/politics/election-officials-in-arizonas-largest-county-agree-on-how-to-oversee-vote-ending-legal-battle"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/trump-setting-stage-to-declare-emergency-around-midterms-former-white-house-attorney-says",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump setting stage to declare emergency around midterms, former White House attorney says",
-        "publicationDate": "2026-07-16",
-        "category": "Foreign Policy",
-        "summary": "For perspective on what President Trump is trying to achieve with Thursday night's speech, the limits of his authority and the potential consequences for future elections, Geoff Bennett spoke with Ty Cobb. He was a White House attorney in the first Trump administration, managing the response to special counsel Robert Mueller's probe into alleged Russian election interference.",
-        "url": "https://www.pbs.org/newshour/show/trump-setting-stage-to-declare-emergency-around-midterms-former-white-house-attorney-says"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/vote-on-u-s-aid-to-israel-exposes-sharp-divide-in-congress",
-        "source": "PBS NewsHour Politics",
-        "title": "Vote on U.S. aid to Israel exposes sharp divide in Congress",
-        "publicationDate": "2026-07-16",
-        "category": "Defense",
-        "summary": "Israel's war in Gaza and its joint military operation with the U.S. against Iran are fueling deep divisions on Capitol Hill, especially among Democrats. Wednesday, more than half of House Democrats voted to end U.S. military funding for Israel. A separate provision aimed at strengthening U.S.-Israel cooperation is also exposing sharp differences. Lisa Desjardins reports.",
-        "url": "https://www.pbs.org/newshour/show/vote-on-u-s-aid-to-israel-exposes-sharp-divide-in-congress"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/16/white-house-teleprompter-operator-placed-leave-after-betting-trump-speeches/",
         "source": "Washington Post Politics",
         "title": "White House teleprompter operator placed on leave after betting on Trump speeches",
@@ -459,31 +495,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/16/which-battleground-senate-candidates-are-raising-more-money/"
     },
     {
-        "id": "R48624",
+        "id": "R40480",
         "source": "Congressional Research Service",
-        "title": "Department of State, Foreign Operations, and Related Programs: FY2026 Budget and Appropriations",
+        "title": "Budget Reconciliation Measures Enacted into Law Since 1980",
         "publicationDate": "2026-07-15",
         "category": "Economy",
-        "summary": "Congress typically considers 12 distinct appropriations measures on an annual basis to fund federal programs and activities. Since FY2008, one of these measures has been the Department of State, Foreign Operations, and Related Programs (SFOPS) appropriations bill, which has included funding for U.S. diplomatic activities; cultural exchanges; development, security, and humanitarian assistance; and participation in...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48624/R48624.8.pdf"
-    },
-    {
-        "id": "https://www.cfr.org/articles/strait-hormuz-us-iran-maritime-flash-point",
-        "source": "Council on Foreign Relations",
-        "title": "The Strait of Hormuz: A U.S.-Iran Maritime Flash Point",
-        "publicationDate": "2026-07-15",
-        "category": "Foreign Policy",
-        "summary": "The narrow and congested Mideast waterway has become a site of escalating U.S.-Iran tensions. Trump’s war on Iran has placed it in the middle of the battlefield, driving a spike in oil and gas prices worldwide.",
-        "url": "https://www.cfr.org/articles/strait-hormuz-us-iran-maritime-flash-point"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/presidents-inbox/u-s-india-relations-under-stress-with-sadanand-dhume",
-        "source": "Council on Foreign Relations",
-        "title": "U.S.-India Relations Under Stress, With Sadanand Dhume",
-        "publicationDate": "2026-07-15",
-        "category": "Foreign Policy",
-        "summary": "We Discuss: Mentioned in the Episode: “How People in 24 Countries View India,” Pew Research Center Mathew George, Katarina Djokic, Zain Hussain, Pieter D. Wezeman, and Siemon T. Wezeman, “Trends In International Arms Transfers, 2024,” Stockholm International Peace Research Institute Opinions expressed on The President’s Inbox are solely those of the host or guests, not […]",
-        "url": "https://www.cfr.org/podcasts/presidents-inbox/u-s-india-relations-under-stress-with-sadanand-dhume"
+        "summary": "The budget reconciliation process is an optional procedure that operates as an adjunct to the budget resolution process established by the Congressional Budget Act of 1974. The chief purpose of the reconciliation process is to enhance Congress’s ability to change current law in order to bring revenue, spending, and debt limit levels into conformity with the policies of the annual budget resolution. This report...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R40480/R40480.28.pdf"
     },
     {
         "id": "https://www.heritage.org/education/commentary/teachers-unions-are-losing-one-their-government-perks",
@@ -549,15 +567,6 @@
         "url": "https://www.hudson.org/foreign-policy/tensions-rise-strait-hormuz-rebeccah-heinrichs"
     },
     {
-        "id": "https://ecfr.eu/article/down-and-out-from-rabat-to-cairo-the-iran-war-and-north-african-instability/",
-        "source": "European Council on Foreign Relations",
-        "title": "Down and out from Rabat to Cairo: The Iran war and North African instability",
-        "publicationDate": "2026-07-15",
-        "category": "Foreign Policy",
-        "summary": "The war between the US and Iran is destabilising North African economies, putting an already fragile region at the very edge of polycrisis",
-        "url": "https://ecfr.eu/article/down-and-out-from-rabat-to-cairo-the-iran-war-and-north-african-instability/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/15/house-vote-exposes-democrats-widening-divide-over-israel/",
         "source": "Washington Post Politics",
         "title": "House vote exposes Democrats’ widening divide over Israel",
@@ -612,22 +621,13 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3711-1.html"
     },
     {
-        "id": "R47052",
-        "source": "Congressional Research Service",
-        "title": "Nigeria: Overview and U.S. Policy",
-        "publicationDate": "2026-07-10",
-        "category": "Defense",
-        "summary": "Overview. Nigeria is Africa’s most populous country, largest democracy, top oil producer, and one of its largest economies. It is the United States’ second-largest trade partner in Sub-Saharan Africa and has often ranked among the top 10 recipients of U.S. aid globally. Nigerians are the largest Africa-born population in the United States. Security, governance, and human rights concerns in the country, including...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47052/R47052.9.pdf"
-    },
-    {
         "id": "IN12712",
         "source": "Congressional Research Service",
         "title": "Syria’s State Sponsor of Terrorism Designation",
         "publicationDate": "2026-07-10",
         "category": "Economy",
         "summary": "The State Department has designated Syria as a country that has “repeatedly provided support for acts of international terrorism” (commonly referred to as a “State Sponsor of Terrorism”) since December 1979. On July 8, 2026, President Donald Trump announced that he intends to rescind Syria’s designation. The Administration has submitted a notification to Congress, 45 days before the proposed rescission is intended...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12712/IN12712.3.pdf"
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12712/IN12712.4.pdf"
     },
     {
         "id": "https://www.cer.eu/media/times-radio-nato-summit",
