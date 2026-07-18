@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://thehill.com/policy/defense/5975693-us-military-widens-iran-strikes/",
+        "source": "The Hill",
+        "title": "Trump targets Iran's infrastructure in bid to squeeze regime",
+        "publicationDate": "2026-07-18",
+        "category": "Defense",
+        "summary": "The U.S. military is widening its attacks across Iran, striking a port facility, energy infrastructure and bridges as President Trump looks to squeeze the Iranian regime. Iran has retaliated against nearby allies, targeting U.S. bases in the region, along with power and desalination plants, as tensions escalate, bringing both sides closer to an all-out war. ...",
+        "url": "https://thehill.com/policy/defense/5975693-us-military-widens-iran-strikes/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5975360-dhs-voter-roll-scrubbing/",
+        "source": "The Hill",
+        "title": "Trump’s election security speech: Democrats see false claims, future threats",
+        "publicationDate": "2026-07-18",
+        "category": "Defense",
+        "summary": "President Trump’s selective release of classified documents about the 2020 election doesn’t change the core conclusion of the intelligence community: that not a single vote was altered in the contest. Nonetheless, Democrats say the president is clearly laying the groundwork to interfere in future elections. Trump was mocked by some for his top-line reveal — that China...",
+        "url": "https://thehill.com/homenews/administration/5975360-dhs-voter-roll-scrubbing/"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/5975854-david-crowley-wisconsin-governor-race/",
         "source": "The Hill",
         "title": "David Crowley set to rejoin Wisconsin governor’s race after lieutenant governor exit",
@@ -27,6 +45,33 @@
         "url": "https://thehill.com/homenews/5975822-iranian-attacks-jordan-us-bases/"
     },
     {
+        "id": "https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html",
+        "source": "New York Times Politics",
+        "title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
+        "publicationDate": "2026-07-18",
+        "category": "Mamdani",
+        "summary": "Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.",
+        "url": "https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html",
+        "source": "New York Times Politics",
+        "title": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
+        "publicationDate": "2026-07-18",
+        "category": "Midterm Elections (2026)",
+        "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
+        "url": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
+        "source": "New York Times Politics",
+        "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+        "publicationDate": "2026-07-18",
+        "category": "Foreign Policy",
+        "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
+        "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
         "source": "New York Times Politics",
         "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
@@ -45,6 +90,15 @@
         "url": "https://www.nytimes.com/2026/07/17/us/politics/aipac-donor-portal-democrats.html"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US strikes hit Iran for seventh consecutive night",
+        "publicationDate": "2026-07-18",
+        "category": "Foreign Policy",
+        "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
@@ -54,58 +108,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US strikes hit Iran for seventh consecutive night",
+        "title": "Space start-up launches India’s first commercial rocket designed for orbit",
+        "publicationDate": "2026-07-18",
+        "category": "Other",
+        "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+        "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Traders are increasingly betting against SpaceX just weeks after IPO",
+        "publicationDate": "2026-07-18",
+        "category": "Other",
+        "summary": "Shares of Elon Musk’s rockets and AI company have slipped below their listing price for the first time",
+        "url": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1b34caa6-d909-4df8-a90f-b928f2199261?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Zelenskyy considers sacking commander-in-chief as protests swell",
+        "publicationDate": "2026-07-18",
+        "category": "Defense",
+        "summary": "Crisis engulfs military after Ukrainian president dismissed his popular defence minister",
+        "url": "https://www.ft.com/content/1b34caa6-d909-4df8-a90f-b928f2199261?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/648094ed-1d1b-4c09-a039-fad5301ad690?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The tranquil spot in rural Ireland accused of fuelling Russia’s war",
         "publicationDate": "2026-07-18",
         "category": "Foreign Policy",
-        "summary": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
-        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
+        "summary": "Aughinish Alumina plant linked to sanctioned oligarch Oleg Deripaska faces increasing scrutiny but locals fear for jobs",
+        "url": "https://www.ft.com/content/648094ed-1d1b-4c09-a039-fad5301ad690?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/047f943b-e46b-455e-8f8e-bef1b9c97708?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75",
         "source": "Financial Times World",
-        "title": "Britain’s system for avoiding electricity blackouts faces scrutiny",
+        "title": "Rise of delivery apps takes a bite out of sales for Big Pizza",
         "publicationDate": "2026-07-18",
         "category": "Other",
-        "summary": "National Energy System Operator’s task made more difficult by climate change and increasing use of renewables",
-        "url": "https://www.ft.com/content/047f943b-e46b-455e-8f8e-bef1b9c97708?syn-25a6b1a6=1"
+        "summary": "Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field",
+        "url": "https://www.ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75"
     },
     {
-        "id": "https://www.ft.com/content/0ac9aa5c-2807-49fc-9d7d-679b27cf3337?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "The London IPO market isn’t as bad as it looks",
+        "title": "German army looks to Ukraine for battlefield lessons",
         "publicationDate": "2026-07-18",
-        "category": "Other",
-        "summary": "It is easy to look enviously at New York, but the UK is on course to enjoy its best year for new listings since 2021",
-        "url": "https://www.ft.com/content/0ac9aa5c-2807-49fc-9d7d-679b27cf3337?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/4e809577-0133-4eae-b897-082b2026270c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Why your odyssey to see ‘The Odyssey’ matters",
-        "publicationDate": "2026-07-18",
-        "category": "Other",
-        "summary": "The extremes that film fanatics are going to in order to watch Nolan’s latest tell us something",
-        "url": "https://www.ft.com/content/4e809577-0133-4eae-b897-082b2026270c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Asia AI bets power record equities run for Wall Street banks",
-        "publicationDate": "2026-07-18",
-        "category": "Technology",
-        "summary": "Investments in semiconductors fuel growth in regional revenues for US banks",
-        "url": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/93db3195-9a17-4798-810a-0509f3ab35a3?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Superdrug owner considers delay to planned London IPO",
-        "publicationDate": "2026-07-18",
-        "category": "Healthcare",
-        "summary": "Hong Kong-based AS Watson was aiming for a dual listing this autumn",
-        "url": "https://www.ft.com/content/93db3195-9a17-4798-810a-0509f3ab35a3?syn-25a6b1a6=1"
+        "category": "Defense",
+        "summary": "Land forces chief says Kyiv’s military expertise is proving invaluable as Bundeswehr rebuilds and US support wanes",
+        "url": "https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1"
     },
     {
         "id": "IN12704",
@@ -369,51 +423,6 @@
         "url": "https://www.pbs.org/newshour/politics/leon-black-walked-out-of-an-epstein-house-committee-interview-heres-what-we-know"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5975746-aipac-halts-democratic-donations/",
-        "source": "The Hill",
-        "title": "AIPAC halts fundraising for endorsed House Democrats who opposed Israel aid",
-        "publicationDate": "2026-07-17",
-        "category": "Defense",
-        "summary": "The American Israel Public Affairs Committee (AIPAC) has suspended campaign fundraising efforts for more than two dozen House Democrats who voted to cut off billions of dollars in U.S. military aid to Israel earlier this week. More than 100 House Democrats voted in favor of an amendment to the fiscal 2027 funding bill for the State...",
-        "url": "https://thehill.com/homenews/campaign/5975746-aipac-halts-democratic-donations/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/healthcare/5975700-lettuce-recall-cyclosporiasis/",
-        "source": "The Hill",
-        "title": "Produce recalls roll out to combat cyclosporiasis spread",
-        "publicationDate": "2026-07-17",
-        "category": "Healthcare",
-        "summary": "Presented by PhRMA {beacon}",
-        "url": "https://thehill.com/newsletters/healthcare/5975700-lettuce-recall-cyclosporiasis/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html",
-        "source": "New York Times Politics",
-        "title": "Trump Endorses Graham for Senate, Scrambling South Carolina Primary",
-        "publicationDate": "2026-07-17",
-        "category": "South Carolina",
-        "summary": "Senator Darline Graham had been seen as a caretaker for her brother’s seat after his sudden death. Now she has the president’s nod in what was shaping up to be a crowded fight to succeed Lindsey Graham.",
-        "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/17/us/politics/democrats-republicans-midterms-cash.html",
-        "source": "New York Times Politics",
-        "title": "Who Really Has the 2026 Midterms Cash Edge?",
-        "publicationDate": "2026-07-17",
-        "category": "Politics and Government",
-        "summary": "The fund-raising race is tighter than it seems.",
-        "url": "https://www.nytimes.com/2026/07/17/us/politics/democrats-republicans-midterms-cash.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html",
-        "source": "New York Times Politics",
-        "title": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
-        "publicationDate": "2026-07-17",
-        "category": "Foreign Policy",
-        "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
-        "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/17/trump-wants-impose-tariffs-canada-retaliation-wildfire-smoke/",
         "source": "Washington Post Politics",
         "title": "Trump wants to impose tariffs on Canada in retaliation for wildfire smoke",
@@ -448,15 +457,6 @@
         "category": "Other",
         "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
         "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
-        "publicationDate": "2026-07-17",
-        "category": "Foreign Policy",
-        "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "IN12713",
