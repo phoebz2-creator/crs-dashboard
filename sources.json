@@ -1,5 +1,50 @@
 [
     {
+        "id": "https://www.hoover.org/research/what-americans-need-understand-about-china",
+        "source": "Hoover Institution",
+        "title": "What Americans Need to Understand About China",
+        "publicationDate": "2026-07-19",
+        "category": "Foreign Policy",
+        "summary": "Ezra Klein discusses Xi Jinping’s China with former Australian Prime Minister Kevin Rudd. The two cover how Xi has doubled down on communist ideology and significantly consolidated his own power while transforming China into an industrial juggernaut unrivaled in the world.",
+        "url": "https://www.hoover.org/research/what-americans-need-understand-about-china"
+    },
+    {
+        "id": "https://www.hoover.org/research/china-sabotaging-world-enables-its-rise",
+        "source": "Hoover Institution",
+        "title": "China Is Sabotaging the World That Enables Its Rise",
+        "publicationDate": "2026-07-19",
+        "category": "Foreign Policy",
+        "summary": "Following state visits by Trump and Putin to Beijing in May, Chinese state media emphasized the symbolism of foreign leaders paying tribute to Xi Jinping rather than concrete outcomes. The authors argue this reflects Beijing's narrative that China has surpassed its rivals and reclaimed centrality on the world stage.",
+        "url": "https://www.hoover.org/research/china-sabotaging-world-enables-its-rise"
+    },
+    {
+        "id": "https://www.hoover.org/research/china-exports-its-problems",
+        "source": "Hoover Institution",
+        "title": "China exports its problems",
+        "publicationDate": "2026-07-19",
+        "category": "Economy",
+        "summary": "China's economy grew just 4.3 percent in the second quarter, missing official targets, as traditional sectors like construction shrink rather than merely slow. Fierce competition in emerging industries such as batteries and robotics are squeezing profits, a phenomenon known domestically as \"neijuan.\" An economist at Tsinghua University estimates real unemployment near 10 percent, far above the official 5 percent...",
+        "url": "https://www.hoover.org/research/china-exports-its-problems"
+    },
+    {
+        "id": "https://www.hoover.org/research/satellite-imagery-reveals-just-how-advanced-chinas-military",
+        "source": "Hoover Institution",
+        "title": "This Satellite Imagery reveals just how advanced China's military is",
+        "publicationDate": "2026-07-19",
+        "category": "Defense",
+        "summary": "Satellite imagery analyzed by the Telegraph reveals China constructing detailed replicas of US Navy vessels, including an Arleigh Burke class destroyer, in the remote Taklamakan desert. Though 2,700 kilometers from the sea, the models feature masts and radar equipment closely matching the originals. Analysts say the structures let Beijing rehearse missile strikes with precision, perhaps in preparation to...",
+        "url": "https://www.hoover.org/research/satellite-imagery-reveals-just-how-advanced-chinas-military"
+    },
+    {
+        "id": "https://www.hoover.org/research/chinas-transnational-repression-being-met-deafening-silence",
+        "source": "Hoover Institution",
+        "title": "China’s Transnational Repression Is Being Met with a Deafening Silence",
+        "publicationDate": "2026-07-19",
+        "category": "Foreign Policy",
+        "summary": "The PRC detained another American citizen, Min Zin, on espionage charges, in yet another example of the CCP’s expanding transnational repression campaign. The article argues the Trump administration has stayed largely silent, prioritizing trade relations with Beijing over defending detained or targeted Americans, and calls for sanctions and clearer travel advisories for Americans travelling to the PRC.",
+        "url": "https://www.hoover.org/research/chinas-transnational-repression-being-met-deafening-silence"
+    },
+    {
         "id": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
         "source": "NPR Politics",
         "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
@@ -7,6 +52,33 @@
         "category": "Other",
         "summary": "A famous Cuban dissident artist and musician, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year prison sentence on the condition that he leave his country.",
         "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/",
+        "source": "The Hill",
+        "title": "Divide grows between AI employees and executives over policy battles",
+        "publicationDate": "2026-07-19",
+        "category": "Technology",
+        "summary": "Tech employees in Silicon Valley are increasingly finding themselves at odds with industry executives, who are spending millions to push for light-touch AI regulation. The latest disagreement is playing out in a new political spending fight between OpenAI’s rank-and-file employees and the firm’s co-founder and president Greg Brockman. A group of current and former OpenAI...",
+        "url": "https://thehill.com/policy/technology/5975760-openai-employees-fund-guardrails-alliance/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/5975467-georgia-senator-ossoff-reelection-bid/",
+        "source": "The Hill",
+        "title": "Jon Ossoff, amid presidential chatter, hits Trump over elections",
+        "publicationDate": "2026-07-19",
+        "category": "Campaign",
+        "summary": "Sen. Jon Ossoff is going on offense against President Trump, emerging as one of the Democratic Party’s most aggressive critics on elections — an issue that hits close to home for the Georgia Democrat. Ossoff won his seat in the Senate in a runoff election held on Jan. 5, 2021 — a day before the...",
+        "url": "https://thehill.com/homenews/campaign/5975467-georgia-senator-ossoff-reelection-bid/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/5976381-hegseth-military-testosterone-screening-questions/",
+        "source": "The Hill",
+        "title": "Hegseth’s testosterone mandate carries risks, raises questions",
+        "publicationDate": "2026-07-19",
+        "category": "Defense",
+        "summary": "Defense Secretary Pete Hegseth kicked a hornet’s nest with his move this week to test troops’ testosterone levels. Hegseth argues the effort, to become part of the military’s periodic health assessment for troops over 30, will ensure the optimal performance and long-term health of warfighters. But medical experts say Hegseth's rationale for the directive isn't...",
+        "url": "https://thehill.com/policy/defense/5976381-hegseth-military-testosterone-screening-questions/"
     },
     {
         "id": "https://thehill.com/policy/healthcare/5976484-taylor-farms-lettuce-recall/",
@@ -27,6 +99,33 @@
         "url": "https://thehill.com/homenews/5976478-us-strikes-iran-retaliation/"
     },
     {
+        "id": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
+        "source": "New York Times Politics",
+        "title": "Politicians Are Trying to Change What Chatbots Say About Them",
+        "publicationDate": "2026-07-19",
+        "category": "Defense",
+        "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
+        "url": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/19/us/politics/sanctuary-states-deportation-aid.html",
+        "source": "New York Times Politics",
+        "title": "Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations",
+        "publicationDate": "2026-07-19",
+        "category": "Federal-State Relations (US)",
+        "summary": "A New York Times review of 18 states targeted by the Trump administration for their “sanctuary” policies found that all cooperate significantly with immigration authorities in cases involving violent crimes.",
+        "url": "https://www.nytimes.com/2026/07/19/us/politics/sanctuary-states-deportation-aid.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html",
+        "source": "New York Times Politics",
+        "title": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
+        "publicationDate": "2026-07-19",
+        "category": "United States Politics and Government",
+        "summary": "A little-known federal office spent decades investigating potential discrimination by government contractors — until it was stopped by the Trump administration.",
+        "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html",
         "source": "New York Times Politics",
         "title": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
@@ -34,6 +133,15 @@
         "category": "United States Politics and Government",
         "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
         "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/07/19/what-voters-are-making-iran-war-dragging/",
+        "source": "Washington Post Politics",
+        "title": "Voters are struggling to keep up with Iran war’s twists and turns",
+        "publicationDate": "2026-07-19",
+        "category": "Foreign Policy",
+        "summary": "Americans have grown frustrated with President Donald Trump over his handling of the war. Here’s what several said about how they’re processing the constant changes.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/19/what-voters-are-making-iran-war-dragging/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
@@ -47,56 +155,83 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+        "title": "Tate brothers arrested in US as further UK charges take total to 59",
         "publicationDate": "2026-07-19",
         "category": "Other",
         "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
         "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US strikes Iran after two American troops are killed in Jordan",
+        "id": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
         "publicationDate": "2026-07-19",
         "category": "Foreign Policy",
-        "summary": "Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states",
-        "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1"
+        "summary": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/fde736b3-6999-4b9e-979e-2b4b06dbbd5c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "No longer grim up north for UK banks as Burnham comes to power",
-        "publicationDate": "2026-07-19",
-        "category": "Economy",
-        "summary": "NatWest and Lloyds push regional lending credentials as they look to finance new Labour leader’s devolution agenda",
-        "url": "https://www.ft.com/content/fde736b3-6999-4b9e-979e-2b4b06dbbd5c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/c5045a09-29c1-4a9b-8f5b-f8dead22b09c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "How Maga fell hard for the gender binary",
+        "id": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
         "publicationDate": "2026-07-19",
         "category": "Other",
-        "summary": "Pete Hegseth’s championing of testosterone for troops is the latest manifestation of the rightwing movement’s aesthetic",
-        "url": "https://www.ft.com/content/c5045a09-29c1-4a9b-8f5b-f8dead22b09c?syn-25a6b1a6=1"
+        "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Chinese leaders zero in on need for stimulus for economy",
+        "id": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "New EU border system tripling time at passport control, airport boss says",
         "publicationDate": "2026-07-19",
-        "category": "Economy",
-        "summary": "Policymakers expected to prioritise spurring high-tech rather than ‘big bang’ for consumption, analysts say",
-        "url": "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/45657e57-c8d0-4e58-b20d-d67a7bfdb050?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Xpeng says China close to building ‘killer’ rival to Tesla Model Y",
+        "title": "Burnham should pursue a devolution ‘big bang’",
+        "publicationDate": "2026-07-19",
+        "category": "Other",
+        "summary": "If done right, radical decentralisation could boost UK productivity growth and living standards",
+        "url": "https://www.ft.com/content/45657e57-c8d0-4e58-b20d-d67a7bfdb050?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b0ac6cd9-e325-485a-9c0a-db5053af8d93?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UK steel quota concessions to seal India deal pose risk to Welsh plant, say insiders",
+        "publicationDate": "2026-07-19",
+        "category": "Other",
+        "summary": "Union leaders say quotas for galvanised steel particularly harmful for Tata Steel UK’s Llanwern plant in Newport",
+        "url": "https://www.ft.com/content/b0ac6cd9-e325-485a-9c0a-db5053af8d93?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/c1b04338-8fc8-45fc-8a35-f623843d4dda?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How will the ECB respond to the latest rise in oil prices?",
+        "publicationDate": "2026-07-19",
+        "category": "Other",
+        "summary": "Market Questions is the FT’s guide to the week ahead",
+        "url": "https://www.ft.com/content/c1b04338-8fc8-45fc-8a35-f623843d4dda?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/dc61c278-c3eb-48b5-8f79-f949eae7a601?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "China’s Jingye demands payout over British Steel nationalisation",
         "publicationDate": "2026-07-19",
         "category": "Foreign Policy",
-        "summary": "Elon Musk’s SUV remains top-selling electric vehicle in many parts of the world as well as second most popular in China",
-        "url": "https://www.ft.com/content/5a8dc7cd-35c8-4aeb-8f09-1df8afb2cf2e?syn-25a6b1a6=1"
+        "summary": "UK government accused of disregarding group’s investment and offering ‘almost zero compensation’",
+        "url": "https://www.ft.com/content/dc61c278-c3eb-48b5-8f79-f949eae7a601?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/8da4243f-820c-428c-bcfb-ba63dac48c1c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US day traders flock to ‘the most dangerous product in crypto’",
+        "publicationDate": "2026-07-19",
+        "category": "Other",
+        "summary": "Trump administration has opened American markets to highly leveraged perpetual futures",
+        "url": "https://www.ft.com/content/8da4243f-820c-428c-bcfb-ba63dac48c1c?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/07/18/nx-s1-5894907/week-in-politics-trumps-speech-midterm-elections-todd-blanche-and-jay-clayton",
@@ -135,33 +270,6 @@
         "url": "https://www.pbs.org/newshour/politics/david-crowley-reenters-battleground-wisconsins-democratic-governor-primary-with-gov-evers-backing"
     },
     {
-        "id": "https://thehill.com/policy/sports-gaming/5976445-argentina-falklands-banner-white-house/",
-        "source": "The Hill",
-        "title": "White House official defends Argentina’s use of Falklands banner",
-        "publicationDate": "2026-07-18",
-        "category": "Sports & Gaming",
-        "summary": "The White House's World Cup task force head defended Argentina's national soccer team after they displayed a banner asserting the country's territorial claim to the Falkland Islands, long a source of tension with the United Kingdom, after their semi-final win over England. Executive director of the White House’s World Cup task force Andrew Giuliani said...",
-        "url": "https://thehill.com/policy/sports-gaming/5976445-argentina-falklands-banner-white-house/"
-    },
-    {
-        "id": "https://thehill.com/homenews/5976412-ford-blasts-trump-wildfire-criticism/",
-        "source": "The Hill",
-        "title": "Ontario premier slams Trump wildfires criticism: ‘Absolutely unacceptable’",
-        "publicationDate": "2026-07-18",
-        "category": "News",
-        "summary": "Ontario premier Doug Ford on Saturday blasted the criticism leveled at the Canadian government by the Trump administration and congressional Republicans over its handling of raging wildfires as “totally unacceptable.” “We’re trying to get through this,” Ford told reporters during a press conference in Thunder Bay, Ontario, calling the rhetoric coming from some in...",
-        "url": "https://thehill.com/homenews/5976412-ford-blasts-trump-wildfire-criticism/"
-    },
-    {
-        "id": "https://thehill.com/video-clips/sunday-shows/5976393-sunday-preview-trump-revives-china-election-claims/",
-        "source": "The Hill",
-        "title": "Sunday shows preview: Trump election claims raise alarm; Iran war shows no end in sight",
-        "publicationDate": "2026-07-18",
-        "category": "Foreign Policy",
-        "summary": "President Trump used his primetime address on Thursday night to revive his claims of foreign interference in U.S. elections, making headlines as lawmakers weigh the fallout from his push to overhaul the nation’s voting system. During the address, Trump claimed that China allegedly obtained hundreds of millions of U.S. voter records while seeking to interfere...",
-        "url": "https://thehill.com/video-clips/sunday-shows/5976393-sunday-preview-trump-revives-china-election-claims/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
         "source": "New York Times Politics",
         "title": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
@@ -169,60 +277,6 @@
         "category": "Midterm Elections (2026)",
         "summary": "The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.",
         "url": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
-        "source": "New York Times Politics",
-        "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
-        "publicationDate": "2026-07-18",
-        "category": "Conservative Political Action Conference",
-        "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.",
-        "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/18/us/politics/aipac-democrats-donations-israel-vote.html",
-        "source": "New York Times Politics",
-        "title": "These AIPAC-Backed Democrats Voted to Nix Israel Aid. AIPAC Punished Them.",
-        "publicationDate": "2026-07-18",
-        "category": "United States Politics and Government",
-        "summary": "Of the 103 Democrats who voted to eliminate aid to Israel, more than a dozen had been endorsed by the pro-Israel lobbying group. AIPAC quickly closed off online donations for them.",
-        "url": "https://www.nytimes.com/2026/07/18/us/politics/aipac-democrats-donations-israel-vote.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/18/us/politics/trump-air-force-one-travel.html",
-        "source": "New York Times Politics",
-        "title": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
-        "publicationDate": "2026-07-18",
-        "category": "Defense",
-        "summary": "From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.",
-        "url": "https://www.nytimes.com/2026/07/18/us/politics/trump-air-force-one-travel.html"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-        "publicationDate": "2026-07-18",
-        "category": "Defense",
-        "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-        "publicationDate": "2026-07-18",
-        "category": "Foreign Policy",
-        "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-        "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Hungary's president agrees to stand down after parliament backs removal",
-        "publicationDate": "2026-07-18",
-        "category": "Other",
-        "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-        "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "IN12704",
@@ -315,51 +369,6 @@
         "url": "https://www.hudson.org/politics-government/iran-data-centers-daylight-saving-lindsey-graham-walter-russell-mead"
     },
     {
-        "id": "https://www.hoover.org/research/nuclear-arms-no-longer-deter-drone-era",
-        "source": "Hoover Institution",
-        "title": "Nuclear Arms ‘No Longer Deter’ In Drone Era",
-        "publicationDate": "2026-07-17",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Rose Gottemoeller urged Ireland to consider its vulnerability to conventional missile and drone attacks and welcomed news of joint exercises on protecting undersea cables involving Ireland and Britain.",
-        "url": "https://www.hoover.org/research/nuclear-arms-no-longer-deter-drone-era"
-    },
-    {
-        "id": "https://www.hoover.org/research/court-two-crises",
-        "source": "Hoover Institution",
-        "title": "On \"A Court Of Two Crises\"",
-        "publicationDate": "2026-07-17",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Michael McConnell said, \"This thought-provoking collection of 62 short essays — some of them odd, some provocative, some insightful, and some even beautiful — is a remarkable gift to the nation on its 250th birthday.\"",
-        "url": "https://www.hoover.org/research/court-two-crises"
-    },
-    {
-        "id": "https://www.hoover.org/research/quantum-leap-how-america-and-her-allies-can-lead-next-tech-revolution",
-        "source": "Hoover Institution",
-        "title": "Quantum Leap? How America And Her Allies Can Lead The Next Tech Revolution",
-        "publicationDate": "2026-07-17",
-        "category": "Technology",
-        "summary": "You’ve heard of the “AI Revolution”. Now, brace yourself for a “Quantum Revolution” – quantum technologies advancing science and industry and, like AI, affecting the world order. Will the technologies live up to their hype – and, if so, which nations are best suited to win an academic, economic and geopolitical competition?",
-        "url": "https://www.hoover.org/research/quantum-leap-how-america-and-her-allies-can-lead-next-tech-revolution"
-    },
-    {
-        "id": "https://www.hoover.org/research/victor-davis-hanson-mamdanis-nyc-map-erases-european-immigrant-history",
-        "source": "Hoover Institution",
-        "title": "Victor Davis Hanson: Mamdani's NYC Map Erases European Immigrant History",
-        "publicationDate": "2026-07-17",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Victor Davis Hanson talks about New York City Mayor Zohran Mamdani's new immigrant enclaves' map.",
-        "url": "https://www.hoover.org/research/victor-davis-hanson-mamdanis-nyc-map-erases-european-immigrant-history"
-    },
-    {
-        "id": "https://www.hoover.org/research/entering-era-extreme-cyberwarfare-enabled-ai-warns-anja-manuel",
-        "source": "Hoover Institution",
-        "title": "Entering Era With 'Extreme Cyberwarfare Enabled By AI,' Warns Anja Manuel",
-        "publicationDate": "2026-07-17",
-        "category": "Foreign Policy",
-        "summary": "Hoover Institution fellow Anja Manuel warns that the technology race with China is no longer just about chips but open-source models like DeepSeek are 'nearly as good' as Anthropic's Mythos.",
-        "url": "https://www.hoover.org/research/entering-era-extreme-cyberwarfare-enabled-ai-warns-anja-manuel"
-    },
-    {
         "id": "https://ecfr.eu/article/the-fallout-of-the-fallout-zelenskys-reshuffle-and-protests-in-ukraine/",
         "source": "European Council on Foreign Relations",
         "title": "The fallout of the fallout: Zelensky’s reshuffle and protests in Ukraine",
@@ -448,15 +457,6 @@
         "category": "Other",
         "summary": "The White House did not respond to questions about what legal mechanism he would use to impose the tariffs or how the administration would calculate the rate of the levies.",
         "url": "https://www.washingtonpost.com/politics/2026/07/17/trump-wants-impose-tariffs-canada-retaliation-wildfire-smoke/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/07/17/after-ice-shooting-maine-democratic-senate-hopefuls-try-show-fight/",
-        "source": "Washington Post Politics",
-        "title": "Maine Democratic Senate hopefuls back once fringe position after ICE shooting",
-        "publicationDate": "2026-07-17",
-        "category": "Other",
-        "summary": "The leading candidates to replace Graham Platner as the Democratic nominee to challenge Sen. Susan Collins are presenting themselves as fighters in his mold and calling for ICE to be abolished.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/17/after-ice-shooting-maine-democratic-senate-hopefuls-try-show-fight/"
     },
     {
         "id": "IN12713",
