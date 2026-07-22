@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-stephanie-psaki",
+        "source": "Council on Foreign Relations",
+        "title": "How I Got My Career in Foreign Policy: Stephanie Psaki",
+        "publicationDate": "2026-07-22",
+        "category": "Foreign Policy",
+        "summary": "Stephanie Psaki has always believed that health is at the heart of every stage of life. She sat down with CFR to talk about her far-reaching career in international research, nonprofits, and the government, as well as her views on the current state of the public health space.",
+        "url": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-stephanie-psaki"
+    },
+    {
         "id": "https://www.hoover.org/research/he-can-run-can-he-straddle",
         "source": "Hoover Institution",
         "title": "He Can Run, but Can He Straddle?",
@@ -7,6 +16,24 @@
         "category": "Other",
         "summary": "With an expected presidential run on the horizon, California Governor Gavin Newsom tries to portray himself as a tempered leader of a nation-state while also offering shape-shifting lip service to his party’s restless socialist wing. To paraphrase Lincoln: can a Newsom divided against himself stand . . . for national office?",
         "url": "https://www.hoover.org/research/he-can-run-can-he-straddle"
+    },
+    {
+        "id": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/",
+        "source": "European Council on Foreign Relations",
+        "title": "How better climate diplomacy can save Europe’s green ambitions",
+        "publicationDate": "2026-07-22",
+        "category": "Economy",
+        "summary": "The EU needs to align climate diplomacy with industrial strategy to accelerate Europe’s transition to a competitive low-carbon economy",
+        "url": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers",
+        "source": "NPR Politics",
+        "title": "People are watching the Reflecting Pool like reality TV. What does that say about us?",
+        "publicationDate": "2026-07-22",
+        "category": "Other",
+        "summary": "It's not just watching paint dry. The twists and turns of the Reflecting Pool repairs, originally a two-week project, have kept bloggers and viewers busy all summer.",
+        "url": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers"
     },
     {
         "id": "https://www.npr.org/2026/07/22/nx-s1-5901981/defense-secretary-pete-hegseth-defends-iran-war-funding-request-at-fiery-hearing",
@@ -45,13 +72,31 @@
         "url": "https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally"
     },
     {
-        "id": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs",
-        "source": "NPR Politics",
-        "title": "Trump-backed candidates, 2020 election deniers, win Arizona primaries",
+        "id": "https://www.pbs.org/newshour/politics/watch-live-house-panel-examines-delaney-hall-ice-detention-center-conditions-and-protests",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: House panel examines Delaney Hall ICE detention center conditions and protests",
         "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "The primaries set the field for what are expected to be heated contests for Congress and governor in a swing state this fall.",
-        "url": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs"
+        "category": "immigration and customs enforcement",
+        "summary": "The House Judiciary Oversight Subcommittee is set to hold a hearing Wednesday about the conditions at the Delaney Hall ICE detention center in Newark, New Jersey. Since late May, law enforcement has clashed outside the center with protestors who say they are demonstrating in solidarity with the detainees who have alleged poor living conditions.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-house-panel-examines-delaney-hall-ice-detention-center-conditions-and-protests"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-promotes-investment-accounts-for-kids-at-georgia-high-school",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Trump promotes investment accounts for kids at Georgia high school",
+        "publicationDate": "2026-07-22",
+        "category": "Donald Trump news",
+        "summary": "President Donald Trump on Wednesday plans to promote Trump Accounts, which offer $1,000 in seed money to every child born during his second term. Some parents who have signed up say they're still waiting for the money to arrive.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-promotes-investment-accounts-for-kids-at-georgia-high-school"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/world/venezuelas-nicolas-maduro-back-to-court-for-pretrial-hearing-in-his-u-s-drug-trafficking-case",
+        "source": "PBS NewsHour Politics",
+        "title": "Venezuela's Nicolás Maduro back to court for pretrial hearing in his U.S. drug trafficking case",
+        "publicationDate": "2026-07-22",
+        "category": "Healthcare",
+        "summary": "Maduro, 63, and his wife Cilia Flores, 69, have been held at a Brooklyn jail ever since U.S. forces seized them from their Caracas home in a stunning middle-of-the-night raid and brought them to New York in early January.",
+        "url": "https://www.pbs.org/newshour/world/venezuelas-nicolas-maduro-back-to-court-for-pretrial-hearing-in-his-u-s-drug-trafficking-case"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor",
@@ -72,76 +117,67 @@
         "url": "https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-house-holds-hearing-on-oversight-of-smithsonians-national-museum-of-american-history",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: House holds hearing on oversight of Smithsonian's National Museum of American History",
+        "id": "https://thehill.com/opinion/lindseys-lens/5983698-california-minnesota-withheld-funds/",
+        "source": "The Hill",
+        "title": "RFK Jr. withholding more than $1B from CA, MN over 'fraud' allegations",
         "publicationDate": "2026-07-22",
-        "category": "american history",
-        "summary": "The director of the Smithsonian's National Museum of American History pushed back Tuesday against a recent White House report that branded the institution's leadership as radical activists who cannot be trusted.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-house-holds-hearing-on-oversight-of-smithsonians-national-museum-of-american-history"
+        "category": "Healthcare",
+        "summary": "No one is arguing that fraudulent claims should be paid. But if we're going to wage a national war on Medicaid fraud, it has to actually be national. That means Texas. That means Florida. That means Ohio.",
+        "url": "https://thehill.com/opinion/lindseys-lens/5983698-california-minnesota-withheld-funds/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-un-ambassador-mike-waltz-testifies-before-house-foreign-affairs-committee",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: UN Ambassador Mike Waltz testifies before House Foreign Affairs Committee",
+        "id": "https://thehill.com/opinion/robbys-radar/5983654-socialist-left-enemy-allies/",
+        "source": "The Hill",
+        "title": "Leftist Kyle Kulinski admits support for terrorists, Trump delusions",
+        "publicationDate": "2026-07-22",
+        "category": "Opinions - Robby's Radar",
+        "summary": "Kulinski probably isn’t significant enough to waste time on. The reason I’m calling attention to him is because he wasn't alone on that stream where he defended terrorist groups.",
+        "url": "https://thehill.com/opinion/robbys-radar/5983654-socialist-left-enemy-allies/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5983615-donald-trump-dignified-transfer-iraq-jordan-iran-war/",
+        "source": "The Hill",
+        "title": "Trump attends return of troops killed in Jordan, Iraq; warns Iran will 'pay the price'",
         "publicationDate": "2026-07-22",
         "category": "Foreign Policy",
-        "summary": "Waltz will testify before the House Foreign Affairs Committee on \"United Nations Accountability and Reform.\" Watch here.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-un-ambassador-mike-waltz-testifies-before-house-foreign-affairs-committee"
+        "summary": "President Trump attended the dignified transfer of four U.S. servicemembers killed in the U.S. war with Iran in Delaware on Wednesday, warning Tehran would “pay the price\" for the casualties. The bodies of 1st Lt. Tyler J. Feehan, Sgt. Michael E. Swinton, Sgt. Angel S. Rampersad, and Pvt. Isabella Gonzales were received by Trump and...",
+        "url": "https://thehill.com/homenews/administration/5983615-donald-trump-dignified-transfer-iraq-jordan-iran-war/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-u-s-trade-chief-jamieson-greer-testifies-on-trumps-agenda-after-latest-tariffs",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: U.S. trade chief Jamieson Greer testifies on Trump's agenda after latest tariffs",
-        "publicationDate": "2026-07-22",
-        "category": "canada",
-        "summary": "Canadian Prime Minister Mark Carney said Tuesday that he and Donald Trump have agreed to intensify negotiations on a trade agreement between Canada, the U.S. and Mexico a day after the U.S. president announced 50% tariffs on most Canadian goods.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-u-s-trade-chief-jamieson-greer-testifies-on-trumps-agenda-after-latest-tariffs"
-    },
-    {
-        "id": "https://thehill.com/opinion/congress-blog/5981051-permanent-daylight-saving-time-debate/",
+        "id": "https://thehill.com/policy/defense/5983611-greene-attacks-trump-iran-war/",
         "source": "The Hill",
-        "title": "This is the wrong way to handle daylight saving time",
-        "publicationDate": "2026-07-22",
-        "category": "Congress Blog",
-        "summary": "For the first time, the House has managed to pass a bill making daylight saving time (DST) permanent.",
-        "url": "https://thehill.com/opinion/congress-blog/5981051-permanent-daylight-saving-time-debate/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/5983202-red-sea-oil-shipments-diverted/",
-        "source": "The Hill",
-        "title": "Tankers carrying Saudi crude reverse course after Houthi threats",
-        "publicationDate": "2026-07-22",
-        "category": "Foreign Policy",
-        "summary": "A pair of tankers carrying Saudi Arabian oil reportedly turned around in the Red Sea on Tuesday, after Yemen’s Houthi rebels announced a “maritime embargo” on the Middle Eastern country. The tankers, headed for China and India, changed direction toward the Suez Canal instead of traveling through the Bab el-Mandeb into the Indian Ocean, Reuters...",
-        "url": "https://thehill.com/policy/international/5983202-red-sea-oil-shipments-diverted/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/5983302-cornyn-advances-lake-mastriano-pepfar/",
-        "source": "The Hill",
-        "title": "Cornyn approves Trump nominees, says he got assurances on foreign aid program",
-        "publicationDate": "2026-07-22",
-        "category": "Foreign Policy",
-        "summary": "Sen. John Cornyn (R-Texas) on Wednesday voted to confirm two of President Trump’s nominees for diplomatic posts after briefly threatening to hold the nominations up over his concerns about frozen funds for a global health program. Cornyn, in an interview with Semafor on Tuesday, said he would vote against Kari Lake and Doug Mastriano, longtime...",
-        "url": "https://thehill.com/homenews/senate/5983302-cornyn-advances-lake-mastriano-pepfar/"
-    },
-    {
-        "id": "https://thehill.com/opinion/international/5980880-xi-economic-consumption-crisis/",
-        "source": "The Hill",
-        "title": "Spiraling domestic consumption is wrecking China’s economy",
-        "publicationDate": "2026-07-22",
-        "category": "Economy",
-        "summary": "China’s consumers are sitting on their hands.",
-        "url": "https://thehill.com/opinion/international/5980880-xi-economic-consumption-crisis/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/5983210-trump-threatens-pickaxe-mountain-strike/",
-        "source": "The Hill",
-        "title": "What is Pickaxe Mountain?",
+        "title": "Greene knocks 'stupid' Trump post on US service members' deaths in Iran war",
         "publicationDate": "2026-07-22",
         "category": "Defense",
-        "summary": "President Trump’s threats to bomb an underground Iranian nuclear facility called Pickaxe Mountain have brought renewed attention to the heavily fortified nuclear site, as the administration says it’s weighing further military action against the country. “We’ll be hitting that area very probably pretty soon. And there’s not a thing they can do about it,” Trump...",
-        "url": "https://thehill.com/homenews/administration/5983210-trump-threatens-pickaxe-mountain-strike/"
+        "summary": "Former Rep. Marjorie Taylor Greene (R-Ga.) went after President Trump over his post about the American military death toll in the Iran war, calling it “stupid.” “Afghanistan War: 20 years, 2,000 DEAD. Iraq War: 9 years, 4,600 DEAD. Vietnam War: 19 years and 5 months, 58,220 DEAD. Korean War: 3 years and 1 month, 36,574...",
+        "url": "https://thehill.com/policy/defense/5983611-greene-attacks-trump-iran-war/"
+    },
+    {
+        "id": "https://thehill.com/opinion/judiciary/5981243-doge-usaid-lawsuit-civil-servants/",
+        "source": "The Hill",
+        "title": "The dismantling of USAID and the firing of its staff was illegal",
+        "publicationDate": "2026-07-22",
+        "category": "Opinions - Judiciary",
+        "summary": "The administration knew it could not fire career employees for their politics or for invented misconduct, so it dressed the purge as a \"reorganization.\"",
+        "url": "https://thehill.com/opinion/judiciary/5981243-doge-usaid-lawsuit-civil-servants/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html",
+        "source": "New York Times Politics",
+        "title": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
+        "publicationDate": "2026-07-22",
+        "category": "Democratic Party",
+        "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
+        "url": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html",
+        "source": "New York Times Politics",
+        "title": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
+        "publicationDate": "2026-07-22",
+        "category": "Foreign Policy",
+        "summary": "Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.",
+        "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-xi-rubio-manila-china.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html",
@@ -171,24 +207,6 @@
         "url": "https://www.nytimes.com/2026/07/22/us/charlie-kirk-utah-valley-university.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html",
-        "source": "New York Times Politics",
-        "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
-        "publicationDate": "2026-07-22",
-        "category": "Economy",
-        "summary": "The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.",
-        "url": "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html",
-        "source": "New York Times Politics",
-        "title": "See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok",
-        "publicationDate": "2026-07-22",
-        "category": "Travel and Vacations",
-        "summary": "Now halfway through the year, we’ve made it to 11 of our picks, uncovering lesser-known spots where the American Revolution was fought, all-night parties in Poland and more.",
-        "url": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/22/takeaways-arizona-primaries-republican-2020-election-deniers-advance/",
         "source": "Washington Post Politics",
         "title": "Arizona primary takeaways: Trump’s picks prevail and a House Democrat survives",
@@ -200,11 +218,20 @@
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/",
         "source": "Washington Post Politics",
-        "title": "Mamdani says U.S. authorities should arrest Netanyahu, but Trump shuts down the idea",
+        "title": "Mamdani says New York doesn’t have authority to arrest Netanyahu, urges feds to act",
         "publicationDate": "2026-07-22",
         "category": "Other",
-        "summary": "The mayor had said previously that New York City might enforce an arrest warrant against the Israeli leader, a statement that drew criticism from other Democrats. He said Tuesday that the federal government should take action.",
+        "summary": "The mayor had said the city might enforce a warrant against the Israeli leader, drawing Democratic criticism. On Tuesday, he urged the U.S. government to do so.",
         "url": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/",
+        "source": "Washington Post Politics",
+        "title": "Latest combat deaths show risk has shifted to troops far from Iran’s borders",
+        "publicationDate": "2026-07-22",
+        "category": "Foreign Policy",
+        "summary": "Trump flew to Delaware to honor soldiers killed in the Iran war, which has proved deadly for those far from the front lines.",
+        "url": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/22/gop-retains-cash-lead-ahead-midterms-democrats-narrowed-gap/",
@@ -214,15 +241,6 @@
         "category": "Other",
         "summary": "Republicans stockpiled money from big donors in national groups heading into the fall campaign season, while individual Democrats have drawn on stronger voter enthusiasm.",
         "url": "https://www.washingtonpost.com/politics/2026/07/22/gop-retains-cash-lead-ahead-midterms-democrats-narrowed-gap/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/",
-        "source": "Washington Post Politics",
-        "title": "Latest combat deaths show risk has shifted to troops far from Iran’s borders",
-        "publicationDate": "2026-07-22",
-        "category": "Foreign Policy",
-        "summary": "In a war dominated by drones and long-range missiles, the front line has moved to U.S. facilities far from Iran’s borders.",
-        "url": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
@@ -252,67 +270,67 @@
         "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-        "publicationDate": "2026-07-22",
-        "category": "Foreign Policy",
-        "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
-        "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-        "publicationDate": "2026-07-22",
-        "category": "Defense",
-        "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-        "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/8b9d00aa-7e7a-46f4-bb98-b1635710bd59?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Streeting refuses to commit to 3% defence spending ambition",
+        "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
         "publicationDate": "2026-07-22",
         "category": "Other",
-        "summary": "Previous defence minister resigned after warning current spending plan was not enough to keep UK safe",
-        "url": "https://www.ft.com/content/8b9d00aa-7e7a-46f4-bb98-b1635710bd59?syn-25a6b1a6=1"
+        "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
+        "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "OpenAI admits AI ‘agent’ caused major cyber breach by itself",
-        "publicationDate": "2026-07-22",
-        "category": "Technology",
-        "summary": "AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face",
-        "url": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump threatens tit-for-tat strikes on Iranian infrastructure",
-        "publicationDate": "2026-07-22",
-        "category": "Foreign Policy",
-        "summary": "US president’s warning marks latest attempts to assert American control over the Strait of Hormuz",
-        "url": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1fbc6768-8d86-44c5-b673-db11587ba5ed?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Can ‘Brand Burnham’ survive the move to Number 10?",
+        "id": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
         "publicationDate": "2026-07-22",
         "category": "Other",
-        "summary": "The new prime minister looks to be continuing the everyman style cultivated as mayor of Greater Manchester",
-        "url": "https://www.ft.com/content/1fbc6768-8d86-44c5-b673-db11587ba5ed?syn-25a6b1a6=1"
+        "summary": "The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings.",
+        "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/5aa0363c-63ff-4afe-96c8-2f3fc5bd14bd?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/ee030fed-d006-48d3-bc71-da452ce4069e?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "NHS England adds caveat to pro-Palantir data after watchdog probe",
+        "title": "Segro board signals it would back £14bn takeover after battle with US bidder",
         "publicationDate": "2026-07-22",
-        "category": "Healthcare",
-        "summary": "Regulator urges health service to ensure communications about benefits are ‘clearly and appropriately labelled’",
-        "url": "https://www.ft.com/content/5aa0363c-63ff-4afe-96c8-2f3fc5bd14bd?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Real estate group Prologis’s ‘best and final’ approach for London-listed rival follows previous £13.5bn bid",
+        "url": "https://www.ft.com/content/ee030fed-d006-48d3-bc71-da452ce4069e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f20ecb6c-efc8-43ca-b65b-48a27c343fe9?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Vale shareholders elect new chair following governance dispute",
+        "publicationDate": "2026-07-22",
+        "category": "Other",
+        "summary": "Clash revived warnings of undue state influence in Brazilian mining company as pension fund’s candidate wins vote",
+        "url": "https://www.ft.com/content/f20ecb6c-efc8-43ca-b65b-48a27c343fe9?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f0115d12-35b8-4dc2-9bf1-748203ac4331?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Pakistan seeks $10bn US facility to shore up reserves",
+        "publicationDate": "2026-07-22",
+        "category": "Other",
+        "summary": "Country seeks to gain from its role mediating between Washington and Tehran",
+        "url": "https://www.ft.com/content/f0115d12-35b8-4dc2-9bf1-748203ac4331?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/8c3a155b-03c0-4034-9403-839674a3df9e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU review of airline ownership rules clouds Apollo’s £5.7bn easyJet bid",
+        "publicationDate": "2026-07-22",
+        "category": "Other",
+        "summary": "Shares in UK low-cost carrier slide as Brussels move casts doubt on takeover",
+        "url": "https://www.ft.com/content/8c3a155b-03c0-4034-9403-839674a3df9e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/88da2738-6fce-497b-b8d5-1ed35196b3e0",
+        "source": "Financial Times World",
+        "title": "The battle over America’s War Powers Act",
+        "publicationDate": "2026-07-22",
+        "category": "Other",
+        "summary": "Trump, like Nixon before him, believes Congress should not constrain his belligerence",
+        "url": "https://www.ft.com/content/88da2738-6fce-497b-b8d5-1ed35196b3e0"
     },
     {
         "id": "R49040",
@@ -322,6 +340,15 @@
         "category": "Foreign Policy",
         "summary": "The Supreme Court has repeatedly recognized that Congress’s plenary power over immigration applies with most force in the admission and exclusion of aliens—persons who are not U.S. citizens or nationals—who seek to enter or remain in the United States. Congress has delegated executive branch agencies specific responsibilities concerning the nation’s immigration laws, including vesting the State Department authority...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49040/R49040.1.pdf"
+    },
+    {
+        "id": "IF11743",
+        "source": "Congressional Research Service",
+        "title": "The Senior Executive Service: An Overview",
+        "publicationDate": "2026-07-21",
+        "category": "Defense",
+        "summary": "The Senior Executive Service (SES) was established by the Civil Service Reform Act of 1978 (CSRA; P.L. 95-454) to provide a centralized government-wide cadre of high-level managers within federal agencies. Prior to the SES, agencies used a fragmented set of hiring authorities to fill positions in the “supergrades”—generally career positions on the General Schedule (GS) above Grade 15 (GS-15) that were covered by...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11743/IF11743.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
@@ -358,6 +385,15 @@
         "category": "Defense",
         "summary": "The global threat environment that the United States and its allies face in 2026 is darker than at any point since the Cold War, with military conflicts on three continents and menacing operations by Russia and the increasingly capable Chinese military. But it is the major munitions expenditure in these current conflicts that is perhaps most concerning. Insufficient magazine depth is forcing the United States and...",
         "url": "https://www.heritage.org/defense/report/four-defense-export-reforms-the-united-states"
+    },
+    {
+        "id": "https://www.heritage.org/border-security/commentary/should-be-the-next-enforcement-tool-secure-americas-borders",
+        "source": "Heritage Foundation",
+        "title": "This Should Be the Next Enforcement Tool To Secure America’s Borders",
+        "publicationDate": "2026-07-21",
+        "category": "Foreign Policy",
+        "summary": "Praise is due to a recent Trump administration push to nail immigration lawyers for the broadly undeterred crime of running mass asylum fraud schemes, which have let huge volumes of ineligible illegal aliens into the country. The asylum system has long acted as a powerful magnet for aspiring illegal border crossers and visa overstayers, because, until President Donald Trump sharply curtailed its use, merely...",
+        "url": "https://www.heritage.org/border-security/commentary/should-be-the-next-enforcement-tool-secure-americas-borders"
     },
     {
         "id": "https://www.hudson.org/foreign-policy/we-decimated-their-forces-secret-naval-battle-plans-control-irans-strait-rebeccah-heinrichs",
@@ -531,13 +567,22 @@
         "url": "https://www.cfr.org/articles/five-takeaways-from-the-2026-hamburg-sustainability-conference"
     },
     {
-        "id": "https://www.cfr.org/articles/europe-has-to-take-on-china-to-save-free-trade",
-        "source": "Council on Foreign Relations",
-        "title": "Europe Has to Take on China to Save Free Trade",
+        "id": "https://www.heritage.org/europe/commentary/how-the-us-europe-rift-got-balkanized",
+        "source": "Heritage Foundation",
+        "title": "How the U.S.-Europe Rift Got Balkanized",
         "publicationDate": "2026-07-20",
-        "category": "Foreign Policy",
-        "summary": "The US and the European Union have been on a trade agreement tear, competing to define the future global trading system. The EU looks to backstop the more established rules of the road; the US, to muscle bilateral commercial balances in its favor. Each has lessons for the other: The US would do well to […]",
-        "url": "https://www.cfr.org/articles/europe-has-to-take-on-china-to-save-free-trade"
+        "category": "Defense",
+        "summary": "Transatlantic disputes over trade, climate policy, defense spending, Iran, and free speech have certainly stressed the U.S.-Europe alliance. In the past, deft diplomacy has found ways to navigate those differences. Yet that comity is being severely tested as Europe takes steps to stifle American involvement in the Balkans. Last month, for the first time, Europe and the United States failed to agree on the next...",
+        "url": "https://www.heritage.org/europe/commentary/how-the-us-europe-rift-got-balkanized"
+    },
+    {
+        "id": "https://www.heritage.org/energy/commentary/the-red-blue-energy-divide-how-overregulation-inflates-prices",
+        "source": "Heritage Foundation",
+        "title": "The Red-Blue Energy Divide: How Overregulation Inflates Prices",
+        "publicationDate": "2026-07-20",
+        "category": "Economy",
+        "summary": "Though recent events have made Americans in all parts of the country acutely aware of energy issues, stubbornly high prices in blue states illuminate policy challenges that have become impossible to ignore. Particularly, overly regulated California and New York face persistently high costs due to burdensome state-level energy policies. Residents are paying more because state governments have layered costly climate...",
+        "url": "https://www.heritage.org/energy/commentary/the-red-blue-energy-divide-how-overregulation-inflates-prices"
     },
     {
         "id": "https://www.heritage.org/education/report/right-sizing-the-us-department-education-closure",
@@ -567,15 +612,6 @@
         "url": "https://ecfr.eu/podcasts/episode/lebanon-on-the-brink-of-war-or-peace/"
     },
     {
-        "id": "https://ecfr.eu/podcasts/episode/european-defence-after-the-nato-summit/",
-        "source": "European Council on Foreign Relations",
-        "title": "European defence after the NATO summit",
-        "publicationDate": "2026-07-17",
-        "category": "European Security",
-        "summary": "Mark Leonard welcomes Camille Grand and Marta Prochwicz Jazowska to discuss last week’s NATO summit and how Europe can prepare for a future in which American security guarantees are no longer assured",
-        "url": "https://ecfr.eu/podcasts/episode/european-defence-after-the-nato-summit/"
-    },
-    {
         "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
         "source": "Centre for European Reform",
         "title": "National Security Strategy (Joint Committee): Deterrence in an age of Russian aggression",
@@ -583,33 +619,6 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
-    },
-    {
-        "id": "https://www.heritage.org/education/commentary/school-choice-me-not-thee",
-        "source": "Heritage Foundation",
-        "title": "School Choice for Me, But Not for Thee",
-        "publicationDate": "2026-07-15",
-        "category": "Defense",
-        "summary": "Randi Weingarten and Becky Pringle, presidents of the American Federation of Teachers and the National Education Association, respectively, sent a letter last month to Democratic governors urging them not to opt into President Donald Trump’s new federal tax credit boosting school choice. Weingarten and Pringle’s message was unequivocal: Keep the money inside the traditional public school system and shut down a path...",
-        "url": "https://www.heritage.org/education/commentary/school-choice-me-not-thee"
-    },
-    {
-        "id": "https://www.heritage.org/border-security/commentary/the-uns-refugee-agency-seems-be-using-weasel-words-hide-its-open-borders",
-        "source": "Heritage Foundation",
-        "title": "The UN’s Refugee Agency Seems to be Using Weasel Words to Hide Its Open Borders Agenda",
-        "publicationDate": "2026-07-15",
-        "category": "Economy",
-        "summary": "If the open-borders activists running Joe Biden’s immigration policy while he was U.S. president had simply admitted they wanted to let in every foreigner who arrived at the American border, they might have faced blowback earlier. So they hid what they were doing in an envelope of inscrutable euphemisms and diversions. The mass release of migrants arriving at the border became a “lawful pathway.” Biden’s state...",
-        "url": "https://www.heritage.org/border-security/commentary/the-uns-refugee-agency-seems-be-using-weasel-words-hide-its-open-borders"
-    },
-    {
-        "id": "https://www.heritage.org/education/commentary/teachers-unions-are-losing-one-their-government-perks",
-        "source": "Heritage Foundation",
-        "title": "Teachers’ Unions Are Losing One of Their Government Perks",
-        "publicationDate": "2026-07-15",
-        "category": "Economy",
-        "summary": "State lawmakers are limiting the special advantages that let teachers’ unions lobby on the public dime. Teachers’ unions have long enjoyed access to public payroll systems and facilities that no private entity receives. Recent legislation in three states demonstrates a better path: public funds are redirected toward improving student outcomes, not strengthening union infrastructure. Idaho got the ball rolling on...",
-        "url": "https://www.heritage.org/education/commentary/teachers-unions-are-losing-one-their-government-perks"
     },
     {
         "id": "R47447",
@@ -664,14 +673,5 @@
         "category": "Economy",
         "summary": "On July 27, 2022, Senate Majority Leader Chuck Schumer and Senator Joe Manchin released legislative text for the budget reconciliation legislation, also known as the “Inflation Reduction Act of 2022.” This text would replace the Build Back Better Act (BBBA; H.R. 5376) that was passed in the House on November 19, 2021. IRA tax This report summarizes the tax provisions in the Inflation Reduction Act of 2022,...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R47202/R47202.12.pdf"
-    },
-    {
-        "id": "R46998",
-        "source": "Congressional Research Service",
-        "title": "Senate Finance Committee Tax Provisions in the Build Back Better Act",
-        "publicationDate": "2021-12-22",
-        "category": "Economy",
-        "summary": "On December 11, 2021, the Senate Finance Committee released updated legislative text of the Build Back Better Act. This text updates the version of the Build Back Better Act (BBBA; H.R. 5376) that was passed in the House on November 19, 2021. This report summarizes the tax provisions in Senate Finance Committee’s version of the Build Back Better Act. For more on the provisions in the earlier versions of this...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46998/R46998.2.pdf"
     }
 ]
