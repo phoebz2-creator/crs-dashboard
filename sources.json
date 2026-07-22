@@ -54,49 +54,103 @@
         "url": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs"
     },
     {
-        "id": "https://thehill.com/policy/technology/5982443-microsoft-funds-genesis-mission-ai/",
+        "id": "https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor",
+        "source": "PBS NewsHour Politics",
+        "title": "Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor",
+        "publicationDate": "2026-07-22",
+        "category": "andy biggs",
+        "summary": "Biggs, a fierce ally of President Donald Trump and former head of the House Freedom Caucus, won the Republican nomination for Arizona governor Tuesday.",
+        "url": "https://www.pbs.org/newshour/politics/andy-biggs-wins-republican-nomination-to-challenge-democrat-katie-hobbs-for-arizona-governor"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump will attend the dignified transfer of 4 U.S. service members killed in the Middle East",
+        "publicationDate": "2026-07-22",
+        "category": "Donald Trump news",
+        "summary": "The ritual is one of the most somber duties of a commander-in-chief.",
+        "url": "https://www.pbs.org/newshour/world/trump-will-attend-the-dignified-transfer-of-4-u-s-service-members-killed-in-the-middle-east"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-house-holds-hearing-on-oversight-of-smithsonians-national-museum-of-american-history",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: House holds hearing on oversight of Smithsonian's National Museum of American History",
+        "publicationDate": "2026-07-22",
+        "category": "american history",
+        "summary": "The director of the Smithsonian's National Museum of American History pushed back Tuesday against a recent White House report that branded the institution's leadership as radical activists who cannot be trusted.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-house-holds-hearing-on-oversight-of-smithsonians-national-museum-of-american-history"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-un-ambassador-mike-waltz-testifies-before-house-foreign-affairs-committee",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: UN Ambassador Mike Waltz testifies before House Foreign Affairs Committee",
+        "publicationDate": "2026-07-22",
+        "category": "Foreign Policy",
+        "summary": "Waltz will testify before the House Foreign Affairs Committee on \"United Nations Accountability and Reform.\" Watch here.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-un-ambassador-mike-waltz-testifies-before-house-foreign-affairs-committee"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-u-s-trade-chief-jamieson-greer-testifies-on-trumps-agenda-after-latest-tariffs",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: U.S. trade chief Jamieson Greer testifies on Trump's agenda after latest tariffs",
+        "publicationDate": "2026-07-22",
+        "category": "canada",
+        "summary": "Canadian Prime Minister Mark Carney said Tuesday that he and Donald Trump have agreed to intensify negotiations on a trade agreement between Canada, the U.S. and Mexico a day after the U.S. president announced 50% tariffs on most Canadian goods.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-u-s-trade-chief-jamieson-greer-testifies-on-trumps-agenda-after-latest-tariffs"
+    },
+    {
+        "id": "https://thehill.com/opinion/congress-blog/5981051-permanent-daylight-saving-time-debate/",
         "source": "The Hill",
-        "title": "Microsoft set to invest $60M in Energy Department’s Genesis Mission",
+        "title": "This is the wrong way to handle daylight saving time",
+        "publicationDate": "2026-07-22",
+        "category": "Congress Blog",
+        "summary": "For the first time, the House has managed to pass a bill making daylight saving time (DST) permanent.",
+        "url": "https://thehill.com/opinion/congress-blog/5981051-permanent-daylight-saving-time-debate/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/5983202-red-sea-oil-shipments-diverted/",
+        "source": "The Hill",
+        "title": "Tankers carrying Saudi crude reverse course after Houthi threats",
+        "publicationDate": "2026-07-22",
+        "category": "Foreign Policy",
+        "summary": "A pair of tankers carrying Saudi Arabian oil reportedly turned around in the Red Sea on Tuesday, after Yemen’s Houthi rebels announced a “maritime embargo” on the Middle Eastern country. The tankers, headed for China and India, changed direction toward the Suez Canal instead of traveling through the Bab el-Mandeb into the Indian Ocean, Reuters...",
+        "url": "https://thehill.com/policy/international/5983202-red-sea-oil-shipments-diverted/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/5983302-cornyn-advances-lake-mastriano-pepfar/",
+        "source": "The Hill",
+        "title": "Cornyn approves Trump nominees, says he got assurances on foreign aid program",
+        "publicationDate": "2026-07-22",
+        "category": "Foreign Policy",
+        "summary": "Sen. John Cornyn (R-Texas) on Wednesday voted to confirm two of President Trump’s nominees for diplomatic posts after briefly threatening to hold the nominations up over his concerns about frozen funds for a global health program. Cornyn, in an interview with Semafor on Tuesday, said he would vote against Kari Lake and Doug Mastriano, longtime...",
+        "url": "https://thehill.com/homenews/senate/5983302-cornyn-advances-lake-mastriano-pepfar/"
+    },
+    {
+        "id": "https://thehill.com/opinion/international/5980880-xi-economic-consumption-crisis/",
+        "source": "The Hill",
+        "title": "Spiraling domestic consumption is wrecking China’s economy",
+        "publicationDate": "2026-07-22",
+        "category": "Economy",
+        "summary": "China’s consumers are sitting on their hands.",
+        "url": "https://thehill.com/opinion/international/5980880-xi-economic-consumption-crisis/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5983210-trump-threatens-pickaxe-mountain-strike/",
+        "source": "The Hill",
+        "title": "What is Pickaxe Mountain?",
         "publicationDate": "2026-07-22",
         "category": "Defense",
-        "summary": "Microsoft is set to invest $60 million into the Department of Energy’s (DOE) Genesis Mission, which focuses on accelerating scientific discovery and technological leadership through artificial intelligence (AI). The company’s investment will put $40 million towards Azure cloud and AI computing credits over three years to “support large-scale AI and scientific workloads” while $20 million...",
-        "url": "https://thehill.com/policy/technology/5982443-microsoft-funds-genesis-mission-ai/"
+        "summary": "President Trump’s threats to bomb an underground Iranian nuclear facility called Pickaxe Mountain have brought renewed attention to the heavily fortified nuclear site, as the administration says it’s weighing further military action against the country. “We’ll be hitting that area very probably pretty soon. And there’s not a thing they can do about it,” Trump...",
+        "url": "https://thehill.com/homenews/administration/5983210-trump-threatens-pickaxe-mountain-strike/"
     },
     {
-        "id": "https://thehill.com/newsletters/the-gavel/5981783-supreme-court-executive-branch-eac-federal-reserve/",
-        "source": "The Hill",
-        "title": "The Gavel: Supreme Court’s firing power expansion launches new legal battles",
+        "id": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s 50% Tariffs on Canada: What to Know, and What’s Next",
         "publicationDate": "2026-07-22",
-        "category": "The Gavel",
-        "summary": "The next phase of the legal battle over presidential power is taking shape as the Supreme Court's decision in Slaughter ripples through the federal government's historically independent agencies. President Trump's effort to further cement his grip over nearly all facets of the executive branch has resulted in a new wave of dismissals and a mix...",
-        "url": "https://thehill.com/newsletters/the-gavel/5981783-supreme-court-executive-branch-eac-federal-reserve/"
-    },
-    {
-        "id": "https://thehill.com/opinion/white-house/5982066-trump-white-house-renovations/",
-        "source": "The Hill",
-        "title": "It can happen here: When satire becomes a battle plan",
-        "publicationDate": "2026-07-22",
-        "category": "Opinions - White House",
-        "summary": "Author Steve Israel argues that recent actions by Donald Trump, including White House renovations and rhetoric regarding the 2020 election, suggest a strategy to challenge democratic norms and influence the outcome of the 2026 midterm elections.",
-        "url": "https://thehill.com/opinion/white-house/5982066-trump-white-house-renovations/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/5982665-openai-sam-altman-cyberhack-ai-hugging-face-system/",
-        "source": "The Hill",
-        "title": "OpenAI says its technology hacked another company in 'unprecedented' event",
-        "publicationDate": "2026-07-22",
-        "category": "Defense",
-        "summary": "OpenAI said Tuesday that one of its artificial intelligence systems hacked into another AI company’s servers on its own during internal testing, in what the ChatGPT maker described as an “unprecedented cyber incident.” “We had a significant security incident during evaluation of our models,” OpenAI CEO Sam Altman said in a statement. “We are sharing...",
-        "url": "https://thehill.com/policy/technology/5982665-openai-sam-altman-cyberhack-ai-hugging-face-system/"
-    },
-    {
-        "id": "https://thehill.com/opinion/national-security/5979193-untested-terrorism-statute-hearing/",
-        "source": "The Hill",
-        "title": "A dormant court just woke up, and due process is on trial",
-        "publicationDate": "2026-07-22",
-        "category": "Opinions - National Security",
-        "summary": "A 30-year-old sleeping statute just woke up. How carefully it is used in this first case will tell us whether it becomes a serious national security tool or a cautionary tale about reaching for an untested law to solve a political problem.",
-        "url": "https://thehill.com/opinion/national-security/5979193-untested-terrorism-statute-hearing/"
+        "category": "Customs (Tariff)",
+        "summary": "The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.",
+        "url": "https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html",
@@ -135,13 +189,13 @@
         "url": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html",
-        "source": "New York Times Politics",
-        "title": "Government Overhauls Teen Pregnancy Program to Focus on Marriage and Starting Families",
+        "id": "https://www.washingtonpost.com/politics/2026/07/22/takeaways-arizona-primaries-republican-2020-election-deniers-advance/",
+        "source": "Washington Post Politics",
+        "title": "Arizona primary takeaways: Trump’s picks prevail and a House Democrat survives",
         "publicationDate": "2026-07-22",
-        "category": "United States Politics and Government",
-        "summary": "The administration canceled federal grants to organizations across the country, accusing them of encouraging premarital sex. New criteria say programs should stress abstinence.",
-        "url": "https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html"
+        "category": "Other",
+        "summary": "Rep. Andy Biggs, who voted to overturn the 2020 election results, won the GOP nomination for governor. Among Democrats, a left-wing challenger failed to unseat Rep. Greg Stanton.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/22/takeaways-arizona-primaries-republican-2020-election-deniers-advance/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/",
@@ -162,15 +216,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/22/gop-retains-cash-lead-ahead-midterms-democrats-narrowed-gap/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/07/22/takeaways-arizona-primaries-republican-2020-election-deniers-advance/",
-        "source": "Washington Post Politics",
-        "title": "Arizona primary takeaways: Trump’s picks prevail and a House Democrat survives",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "Rep. Andy Biggs, who voted to overturn the 2020 election results, won the GOP nomination for governor. Among Democrats, a left-wing challenger failed to unseat Rep. Greg Stanton.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/22/takeaways-arizona-primaries-republican-2020-election-deniers-advance/"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/",
         "source": "Washington Post Politics",
         "title": "Latest combat deaths show risk has shifted to troops far from Iran’s borders",
@@ -180,9 +225,36 @@
         "url": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+        "publicationDate": "2026-07-22",
+        "category": "Other",
+        "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+        "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+        "publicationDate": "2026-07-22",
+        "category": "Foreign Policy",
+        "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+        "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Tankers make sharp U-turns after Houthi shipping threat",
+        "publicationDate": "2026-07-22",
+        "category": "Other",
+        "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+        "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+        "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
         "publicationDate": "2026-07-22",
         "category": "Foreign Policy",
         "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
@@ -198,103 +270,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-        "publicationDate": "2026-07-22",
-        "category": "Foreign Policy",
-        "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
-        "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+        "id": "https://www.ft.com/content/8b9d00aa-7e7a-46f4-bb98-b1635710bd59?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Streeting refuses to commit to 3% defence spending ambition",
         "publicationDate": "2026-07-22",
         "category": "Other",
-        "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
-        "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss"
+        "summary": "Previous defence minister resigned after warning current spending plan was not enough to keep UK safe",
+        "url": "https://www.ft.com/content/8b9d00aa-7e7a-46f4-bb98-b1635710bd59?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
-        "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Zelenskyy replaces top Ukraine general after mass protests",
-        "publicationDate": "2026-07-22",
-        "category": "Defense",
-        "summary": "President picks 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in military leadership",
-        "url": "https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/0c03cd07-ab33-4dff-9970-8cbc21baef45?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham can be the failure that Britain needs",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "Big government must be tested to destruction for serious reform to finally happen",
-        "url": "https://www.ft.com/content/0c03cd07-ab33-4dff-9970-8cbc21baef45?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/ee030fed-d006-48d3-bc71-da452ce4069e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Prologis lifts Segro offer to £14bn as takeover battle intensifies",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "US real estate giant’s ‘best and final’ approach for London-listed rival follows previous £13.5bn bid",
-        "url": "https://www.ft.com/content/ee030fed-d006-48d3-bc71-da452ce4069e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/181b5cb9-1d9d-42e8-8036-67c98bf3cd80?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Where is Venezuela’s oil money?",
-        "publicationDate": "2026-07-22",
-        "category": "Defense",
-        "summary": "Also in today’s newsletter: OpenAI ‘agent’ escapes testing and hacks into start-up, and Ukraine’s military shake-up",
-        "url": "https://www.ft.com/content/181b5cb9-1d9d-42e8-8036-67c98bf3cd80?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a789fa81-6c39-48a1-9df3-33d67ce7a5ac?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US start-up wins EU approval for sight-restoring bionic eye",
+        "title": "OpenAI admits AI ‘agent’ caused major cyber breach by itself",
         "publicationDate": "2026-07-22",
         "category": "Technology",
-        "summary": "Decision will allow Science Corp to treat patients with retina implants in coming months",
-        "url": "https://www.ft.com/content/a789fa81-6c39-48a1-9df3-33d67ce7a5ac?syn-25a6b1a6=1"
+        "summary": "AI lab’s advanced models escaped testing ‘sandbox’ to hack Hugging Face",
+        "url": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1"
     },
     {
-        "id": "R45576",
-        "source": "Congressional Research Service",
-        "title": "An Overview of Small Business Contracting",
-        "publicationDate": "2026-07-21",
-        "category": "Defense",
-        "summary": "Congress has broad authority to impact the federal procurement process and how agencies purchase goods and services from private sector firms. One way in which Congress has exercised this authority is by adopting measures to promote contracts and subcontracts with “small businesses.” This report discusses federal contracting preferences for firms that meet the Small Business Administration’s definition of “small.”...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45576/R45576.35.pdf"
+        "id": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump threatens tit-for-tat strikes on Iranian infrastructure",
+        "publicationDate": "2026-07-22",
+        "category": "Foreign Policy",
+        "summary": "US president’s warning marks latest attempts to assert American control over the Strait of Hormuz",
+        "url": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1"
     },
     {
-        "id": "LSB11460",
-        "source": "Congressional Research Service",
-        "title": "Legal Authority for Section 301 Tariffs to Address Forced Labor and Excess Manufacturing Capacity",
-        "publicationDate": "2026-07-21",
-        "category": "Economy",
-        "summary": "Title III of the Trade Act of 1974 (19 U.S.C. § 2411–2420, collectively referred to as “Section 301”) authorizes the U.S. Trade Representative (USTR) to impose tariffs on U.S. imports in response to conduct by foreign countries that burdens or restricts U.S. commerce in “unjustifiable,” “unreasonable,” or “discriminatory” ways, or that violates U.S. rights under international trade agreements. Recent...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11460/LSB11460.1.pdf"
+        "id": "https://www.ft.com/content/1fbc6768-8d86-44c5-b673-db11587ba5ed?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Can ‘Brand Burnham’ survive the move to Number 10?",
+        "publicationDate": "2026-07-22",
+        "category": "Other",
+        "summary": "The new prime minister looks to be continuing the everyman style cultivated as mayor of Greater Manchester",
+        "url": "https://www.ft.com/content/1fbc6768-8d86-44c5-b673-db11587ba5ed?syn-25a6b1a6=1"
     },
     {
-        "id": "IF11879",
+        "id": "https://www.ft.com/content/5aa0363c-63ff-4afe-96c8-2f3fc5bd14bd?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "NHS England adds caveat to pro-Palantir data after watchdog probe",
+        "publicationDate": "2026-07-22",
+        "category": "Healthcare",
+        "summary": "Regulator urges health service to ensure communications about benefits are ‘clearly and appropriately labelled’",
+        "url": "https://www.ft.com/content/5aa0363c-63ff-4afe-96c8-2f3fc5bd14bd?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R49040",
         "source": "Congressional Research Service",
-        "title": "National Level Exercises: History, Authorities, and Congressional Considerations",
+        "title": "Visa Issuances, Refusals, and Revocations: Selected Current Legal Considerations",
         "publicationDate": "2026-07-21",
-        "category": "Defense",
-        "summary": "Every two years, the Federal Emergency Management Agency (FEMA) conducts a National Level Exercise (NLE) to evaluate the nation’s progress toward preparedness for catastrophic events. These exercises have multiple components, and culminate in a large, full-scale exercise with thousands of participants from multiple federal agencies, state, local, tribal, and territorial (SLTT) governments, industry partners, and...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11879/IF11879.4.pdf"
+        "category": "Foreign Policy",
+        "summary": "The Supreme Court has repeatedly recognized that Congress’s plenary power over immigration applies with most force in the admission and exclusion of aliens—persons who are not U.S. citizens or nationals—who seek to enter or remain in the United States. Congress has delegated executive branch agencies specific responsibilities concerning the nation’s immigration laws, including vesting the State Department authority...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49040/R49040.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
@@ -342,6 +369,15 @@
         "url": "https://www.hudson.org/foreign-policy/we-decimated-their-forces-secret-naval-battle-plans-control-irans-strait-rebeccah-heinrichs"
     },
     {
+        "id": "https://www.hudson.org/events/responding-global-threats-conversation-senator-rick-scott",
+        "source": "Hudson Institute",
+        "title": "Responding to Global Threats: A Conversation with Senator Rick Scott",
+        "publicationDate": "2026-07-21",
+        "category": "Defense",
+        "summary": "Responding to Global Threats: A Conversation with Senator Rick Scott tmagnuson@hudson.org Tue, 07/21/2026 - 11:36 30 July 2026 In-Person Event Responding to Global Threats: A Conversation with Senator Rick Scott Register for Event THURSDAY 8:00 a.m. - 8:45 a.m. Event will also air live on this page. Inquiries: tmagnuson@hudson.org . Register for Event Responding to Global Threats: A Conversation with Senator Rick...",
+        "url": "https://www.hudson.org/events/responding-global-threats-conversation-senator-rick-scott"
+    },
+    {
         "id": "https://www.hudson.org/national-security-defense/helping-ukraine-prepare-another-winter-russian-air-strikes-luke-coffey",
         "source": "Hudson Institute",
         "title": "Helping Ukraine Prepare for Another Winter of Russian Air Strikes",
@@ -367,15 +403,6 @@
         "category": "Defense",
         "summary": "A New Phase of the US’s Military Strategy Toward Iran acabral-sanche… Tue, 07/21/2026 - 11:03 SVG In the Media Jul 20, 2026 Fox News A New Phase of the US’s Military Strategy Toward Iran Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox News) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to...",
         "url": "https://www.hudson.org/missile-defense/new-phase-uss-military-strategy-toward-iran-rebeccah-heinrichs"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/iran-strikes-escalate-brigham-mccown",
-        "source": "Hudson Institute",
-        "title": "Iran Strikes Escalate",
-        "publicationDate": "2026-07-21",
-        "category": "Defense",
-        "summary": "Iran Strikes Escalate acabral-sanche… Tue, 07/21/2026 - 10:48 SVG Podcast Jul 17, 2026 Your News Talks America Iran Strikes Escalate Brigham A. McCown Senior Fellow and Director, Initiative on American Energy Security Brigham A. McCown Podcast Caption A hole is visible in a damaged bridge following US air strikes carried out a day earlier in the southern Hormozgan Province, Iran, on July 17, 2026. (Getty Images)...",
-        "url": "https://www.hudson.org/foreign-policy/iran-strikes-escalate-brigham-mccown"
     },
     {
         "id": "https://www.hoover.org/research/historys-dead-hand-grip-politics-statecraft-and-lessons-past",
@@ -432,51 +459,6 @@
         "url": "https://ecfr.eu/publication/managed-disorder-the-hard-road-to-a-modest-peace-with-russia-after-ukraine/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/senate-panel-advances-jay-claytons-nomination-for-director-of-national-intelligence",
-        "source": "PBS NewsHour Politics",
-        "title": "Senate panel advances Jay Clayton's nomination for director of national intelligence",
-        "publicationDate": "2026-07-21",
-        "category": "Defense",
-        "summary": "The 9-8 vote came after some Democrats had praised Clayton and indicated that they might vote for him. But that shifted after a contentious hearing last week in which Clayton repeatedly refused to say that former President Joe Biden won the 2020 election.",
-        "url": "https://www.pbs.org/newshour/politics/senate-panel-advances-jay-claytons-nomination-for-director-of-national-intelligence"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/federal-civil-rights-agency-moves-to-stop-requiring-demographic-data-collection-after-60-years",
-        "source": "PBS NewsHour Politics",
-        "title": "Federal civil rights agency moves to stop requiring demographic data collection after 60 years",
-        "publicationDate": "2026-07-21",
-        "category": "anti-discrimination",
-        "summary": "The Trump administration is moving to toss aside a 60-year-old requirement for tens of thousands of private sector employers to submit workforce demographic reports each year to the Equal Employment Opportunity Commission, the agency responsible for enforcing anti-discrimination laws in the workplace.",
-        "url": "https://www.pbs.org/newshour/politics/federal-civil-rights-agency-moves-to-stop-requiring-demographic-data-collection-after-60-years"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/democrats-could-take-initial-vote-on-2028-presidential-primary-calendar-this-week",
-        "source": "PBS NewsHour Politics",
-        "title": "Democrats could take initial vote on 2028 presidential primary calendar this week",
-        "publicationDate": "2026-07-21",
-        "category": "Democrats",
-        "summary": "Democrats could vote as early as this week on the order of their primary calendar for the 2028 presidential election, although the decision wouldn't be final until the full Democratic National Committee agrees.",
-        "url": "https://www.pbs.org/newshour/politics/democrats-could-take-initial-vote-on-2028-presidential-primary-calendar-this-week"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-kennedy-presses-top-military-officials-for-straight-talk-on-fallout-if-u-s-leaves-iran-now",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Kennedy presses top military officials for 'straight talk' on fallout if U.S. leaves Iran now",
-        "publicationDate": "2026-07-21",
-        "category": "Defense",
-        "summary": "Sen. John Kennedy, R-La., pressed top military officials in a Tuesday hearing before the Senate Appropriations Committee.",
-        "url": "https://www.pbs.org/newshour/politics/watch-kennedy-presses-top-military-officials-for-straight-talk-on-fallout-if-u-s-leaves-iran-now"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-you-sir-are-the-failure-sen-peters-tells-hegseth-over-lack-of-u-s-strategy-in-iran-war",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: 'You, sir, are the failure,' Sen. Peters tells Hegseth over lack of U.S. strategy in Iran war",
-        "publicationDate": "2026-07-21",
-        "category": "Defense",
-        "summary": "Sen. Gary Peters, D-Mich., told Defense Secretary Pete Hegseth on Tuesday that he has failed U.S. troops.",
-        "url": "https://www.pbs.org/newshour/politics/watch-you-sir-are-the-failure-sen-peters-tells-hegseth-over-lack-of-u-s-strategy-in-iran-war"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/21/trump-pledges-support-lebanon-peace-efforts-with-israel-clashes-continue/",
         "source": "Washington Post Politics",
         "title": "Trump meets with Lebanese leader, pledges support for peace efforts with Israel",
@@ -486,22 +468,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/21/trump-pledges-support-lebanon-peace-efforts-with-israel-clashes-continue/"
     },
     {
-        "id": "IF13022",
+        "id": "IF12355",
         "source": "Congressional Research Service",
-        "title": "Army’s Integrated Visual Augmentation System (IVAS)/Soldier Borne Mission Command (SBMC)",
-        "publicationDate": "2026-07-20",
-        "category": "Defense",
-        "summary": "Between 2018 and 2025, the U.S. Army developed several versions of the Integrated Visual Augmentation System (IVAS) as part of an effort to improve the combat effectiveness and training of soldiers. IVAS includes a “ruggedized” (i.e., strengthened) extended reality (XR) heads-up display (HUD) originally based on Microsoft’s commercially available HoloLens as well as a wearable computer and battery pack, a squad...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13022/IF13022.5.pdf"
-    },
-    {
-        "id": "LSB11459",
-        "source": "Congressional Research Service",
-        "title": "Fifth and Sixth Circuits Divided on Whether the Necessary and Proper Clause Authorizes Federal Ban on At-Home Spirit Distilling",
+        "title": "Overview of the Emergency Medical Treatment and Active Labor Act (EMTALA) and Emergency Abortion Services",
         "publicationDate": "2026-07-20",
         "category": "Economy",
-        "summary": "For more than 150 years, federal law has banned individuals from distilling spirits at home. Internal Revenue Code (IRC) §§ 5601(a)(6) and 5178(a)(1)(B) prohibit individuals from producing spirits at home for personal consumption by restricting a spirit distillery’s location and attaching criminal penalties to noncompliance. In the past few years, persons seeking to engage in at-home distilling have filed federal...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11459/LSB11459.1.pdf"
+        "summary": "The Emergency Medical Treatment and Active Labor Act (EMTALA, largely codified in Section 1867 of the Social Security Act, 42 U.S.C. § 1395dd) is a federal law that generally compels Medicare-participating hospitals to provide emergency care to any individual, irrespective of an individual’s ability to pay. Enacted in 1986 amid reports of hospital emergency rooms refusing to treat poor or uninsured patients, the...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12355/IF12355.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4418-1.html",
@@ -639,6 +612,15 @@
         "url": "https://www.heritage.org/education/commentary/teachers-unions-are-losing-one-their-government-perks"
     },
     {
+        "id": "R47447",
+        "source": "Congressional Research Service",
+        "title": "Bank Capital Requirements: A Primer and Policy Issues",
+        "publicationDate": "2026-07-13",
+        "category": "Economy",
+        "summary": "Financial regulators at the state and federal levels take a number of measures to ensure the financial health of banks, generally through what is referred to as prudential (or safety and soundness) regulation—rules and standards put in place to mitigate risks associated with banking activity. One way that regulators ensure that banks operate in a safe and sound manner is by establishing capital requirements that...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47447/R47447.3.pdf"
+    },
+    {
         "id": "https://www.cer.eu/media/times-radio-nato-summit",
         "source": "Centre for European Reform",
         "title": "Times Radio: NATO summit",
@@ -673,5 +655,23 @@
         "category": "Foreign Policy",
         "summary": "On this week’s Unpacking Europe podcast Zselyke Csaky sat down with Milan Nic a senior research fellow at the German Council on Foreign Relations (DGAP) to discuss the latest on EU enlargement. They took a detailed look at new and old ideas recently put forward, including a so-called associate membership for Ukraine, as well as at progress by candidate countries. They discussed what the key challenges facing the EU...",
         "url": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement"
+    },
+    {
+        "id": "R47202",
+        "source": "Congressional Research Service",
+        "title": "Tax Provisions in the Inflation Reduction Act of 2022 (H.R. 5376)",
+        "publicationDate": "2022-08-10",
+        "category": "Economy",
+        "summary": "On July 27, 2022, Senate Majority Leader Chuck Schumer and Senator Joe Manchin released legislative text for the budget reconciliation legislation, also known as the “Inflation Reduction Act of 2022.” This text would replace the Build Back Better Act (BBBA; H.R. 5376) that was passed in the House on November 19, 2021. IRA tax This report summarizes the tax provisions in the Inflation Reduction Act of 2022,...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47202/R47202.12.pdf"
+    },
+    {
+        "id": "R46998",
+        "source": "Congressional Research Service",
+        "title": "Senate Finance Committee Tax Provisions in the Build Back Better Act",
+        "publicationDate": "2021-12-22",
+        "category": "Economy",
+        "summary": "On December 11, 2021, the Senate Finance Committee released updated legislative text of the Build Back Better Act. This text updates the version of the Build Back Better Act (BBBA; H.R. 5376) that was passed in the House on November 19, 2021. This report summarizes the tax provisions in Senate Finance Committee’s version of the Build Back Better Act. For more on the provisions in the earlier versions of this...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46998/R46998.2.pdf"
     }
 ]
