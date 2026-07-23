@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
+        "source": "RAND Corporation",
+        "title": "Sustaining Agile Operations",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "This report analyzes emerging energy and water technologies that could improve operational agility in contested environments. It evaluates advances in portable power, storage, and purification to enhance sustainability and reduce logistics risk.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA3582-2.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/a-new-series-of-cfr-playbooks-outlines-how-u-s-policymakers-can-navigate-foreign-policy-crisis-scenarios",
+        "source": "Council on Foreign Relations",
+        "title": "A New Series of CFR Playbooks Outlines How U.S. Policymakers Can Navigate Foreign Policy Crisis Scenarios",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "In a new collection of reports from the Wachenheim Center for Peace and Security at the Council on Foreign Relations (CFR), authors Peter J. Quaranto, Cecily Brewer, F. David Diaz, and Jason Ladnier provide expert recommendations for how to respond to common contingency types. The Crisis Response Playbooks cover how to navigate insurgencies, coups, gray […]",
+        "url": "https://www.cfr.org/articles/a-new-series-of-cfr-playbooks-outlines-how-u-s-policymakers-can-navigate-foreign-policy-crisis-scenarios"
+    },
+    {
         "id": "https://www.cfr.org/articles/american-crisis-management-for-a-new-era",
         "source": "Council on Foreign Relations",
         "title": "American Crisis Management for a New Era",
@@ -36,15 +54,6 @@
         "url": "https://www.cfr.org/reports/gray-zone-attacks-against-u-s-allies-and-partners"
     },
     {
-        "id": "https://www.cfr.org/reports/coups-and-other-irregular-leadership-changes",
-        "source": "Council on Foreign Relations",
-        "title": "Coups and Other Irregular Leadership Changes",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "Executive Summary With more than 490 failed and successful coups d’état [PDF] around the world since 1950, coups have been a persistent challenge for U.S. foreign policy across decades and continents. Although coup leaders often cite legitimate grievances and can have strong popular backing, coups rarely produce promised gains. Instead, they tend to beget more […]",
-        "url": "https://www.cfr.org/reports/coups-and-other-irregular-leadership-changes"
-    },
-    {
         "id": "https://www.hoover.org/research/dangers-american-sovereign-wealth-fund",
         "source": "Hoover Institution",
         "title": "The Dangers of an American Sovereign-Wealth Fund",
@@ -72,49 +81,58 @@
         "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas"
     },
     {
-        "id": "https://thehill.com/opinion/congress-blog/politics/5983319-money-politics-gop-voter-concerns/",
+        "id": "https://thehill.com/policy/healthcare/5985242-nearly-1-6-million-eggs-recalled-over-salmonella-concerns-full-list-of-products-impacted/",
         "source": "The Hill",
-        "title": "Why Republicans are joining the fight against money in politics",
+        "title": "Nearly 1.6 million eggs recalled over salmonella concerns: Full list of products impacted",
         "publicationDate": "2026-07-23",
-        "category": "Congress Blog - Politics",
-        "summary": "Long assumed to be an issue exclusively of the left, it is a top issue of concern among Republican voters.",
-        "url": "https://thehill.com/opinion/congress-blog/politics/5983319-money-politics-gop-voter-concerns/"
+        "category": "Healthcare",
+        "summary": "Both white and cage-free brown eggs are impacted.",
+        "url": "https://thehill.com/policy/healthcare/5985242-nearly-1-6-million-eggs-recalled-over-salmonella-concerns-full-list-of-products-impacted/"
     },
     {
-        "id": "https://thehill.com/newsletters/morning-report/5985079-donald-trump-tariff-war/",
+        "id": "https://thehill.com/homenews/administration/5985219-rubio-trump-us-military-iran-war-strategy/",
         "source": "The Hill",
-        "title": "Trump reignites tariff war despite legal losses, GOP jitters",
+        "title": "Rubio: Trump military policy for Iran is 'head for an eye'",
         "publicationDate": "2026-07-23",
-        "category": "Morning Report",
-        "summary": "In today's issue: ▪ Trump plows forward with tariffs ▪ Johnson on a roll ahead of recess ▪ DNC panel meets on primary calendar ▪ Cyclospora outbreak reaches new record The Trump administration is moving full steam ahead on imposing tariffs as an economic cudgel around the world, even after losing several legal battles that have...",
-        "url": "https://thehill.com/newsletters/morning-report/5985079-donald-trump-tariff-war/"
+        "category": "Defense",
+        "summary": "Secretary of State Marco Rubio warned early Thursday that President Trump is prepared to direct an outsized military response to Iranian aggression as the two sides continue to exchange fire nearly five months into the conflict. Rubio responded to Iranian Foreign Minister Abbas Araghchi’s statement that Tehran’s policy is an “eye for an eye” in...",
+        "url": "https://thehill.com/homenews/administration/5985219-rubio-trump-us-military-iran-war-strategy/"
     },
     {
-        "id": "https://thehill.com/opinion/national-security/5983182-ukraine-wins-wwiii/",
+        "id": "https://thehill.com/opinion/international/5983573-rubio-make-americas-great-again/",
         "source": "The Hill",
-        "title": "Ukraine may already be winning World War III for an oblivious West",
+        "title": "The Americas' common agenda has a clear voice: Marco Rubio",
         "publicationDate": "2026-07-23",
         "category": "Foreign Policy",
-        "summary": "Ukraine is now dealing the decisive blow that may win the global war that much of the Western world still fails to recognize is being waged against it.",
-        "url": "https://thehill.com/opinion/national-security/5983182-ukraine-wins-wwiii/"
+        "summary": "In recent history, hardly anyone else at the highest administration level has a better knowledge and understanding of the Western Hemisphere.",
+        "url": "https://thehill.com/opinion/international/5983573-rubio-make-americas-great-again/"
     },
     {
-        "id": "https://thehill.com/homenews/house/5984168-steve-scalise-trump-gop-leadership/",
+        "id": "https://thehill.com/homenews/campaign/data-nerds/5985252-arizona-primary-battleground-states-2026-midterms-live-discussion/",
         "source": "The Hill",
-        "title": "Scalise embraces House GOP’s elder statesman role amid leadership shake-up speculation",
+        "title": "Arizona's primary results sharpen focus on midterm battlegrounds: Live discussion",
         "publicationDate": "2026-07-23",
-        "category": "House",
-        "summary": "House Majority Leader Steve Scalise (R-La.) has reached his peak elder statesman era in President Trump’s second term. The No. 2 House Republican has harnessed policymaking lessons from Trump’s rocky first-term trifecta, providing institutional memory that is unique among the conference’s other top leaders who rose to their positions later. At the same time, Scalise...",
-        "url": "https://thehill.com/homenews/house/5984168-steve-scalise-trump-gop-leadership/"
+        "category": "Data Nerds",
+        "summary": "Arizona’s primary results on Tuesday night are putting new attention on the state's governor’s race and a key House battleground. Meanwhile, a look at Senate race developments in Michigan and Maine. Plus, why Wisconsin’s governor race could become another key 2026 contest. Join The Hill’s senior vice president of editorial content, Bill Sammon, and Decision Desk...",
+        "url": "https://thehill.com/homenews/campaign/data-nerds/5985252-arizona-primary-battleground-states-2026-midterms-live-discussion/"
     },
     {
-        "id": "https://thehill.com/policy/technology/5983931-house-advances-ratepayer-protection-act/",
+        "id": "https://thehill.com/homenews/administration/5985177-trump-threatens-iran-houthi-attacks/",
         "source": "The Hill",
-        "title": "Ratepayer bill gains momentum in House amid data center backlash",
+        "title": "Trump says he'll hold Iran responsible for future Houthi attacks on ships",
         "publicationDate": "2026-07-23",
-        "category": "Technology",
-        "summary": "A bill that seeks to mitigate data centers’ impacts on Americans’ electric bills is gaining steam in the House, as lawmakers face pressure to act in the face of sharp backlash to the sprawling AI infrastructure. The bipartisan Ratepayer Protection Act would require states to “consider” standards that put the costs on tech companies, rather...",
-        "url": "https://thehill.com/policy/technology/5983931-house-advances-ratepayer-protection-act/"
+        "category": "Foreign Policy",
+        "summary": "President Trump said Thursday he will “hold Iran responsible” if Yemen’s Houthi rebels launch additional attacks on ships, after the group said its forces struck a pair of Saudi Arabian oil tankers in the Red Sea. “A year ago the United States of America attacked, very powerfully, the Houthis, for their interference with commerce and...",
+        "url": "https://thehill.com/homenews/administration/5985177-trump-threatens-iran-houthi-attacks/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html",
+        "source": "New York Times Politics",
+        "title": "Trump says Saudi Arabia must join the pact that normalizes relations with Israel.",
+        "publicationDate": "2026-07-23",
+        "category": "Saudi Arabia",
+        "summary": "The president’s new condition could create a roadblock to the Saudi nuclear deal his administration announced this week.",
+        "url": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html",
@@ -153,6 +171,15 @@
         "url": "https://www.nytimes.com/2026/07/22/us/politics/jack-smith-jim-jordan-charges.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/07/23/trump-adds-condition-nuclear-deal-with-saudi-arabia-throwing-pact-into-doubt/",
+        "source": "Washington Post Politics",
+        "title": "Trump adds condition to nuclear deal with Saudi Arabia, throwing pact into doubt",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Saudi Arabia would need to normalize relations with Israel as a condition of a nuclear deal with the U.S., President Donald Trump said.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/23/trump-adds-condition-nuclear-deal-with-saudi-arabia-throwing-pact-into-doubt/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/07/22/takeaways-arizona-primaries-republican-2020-election-deniers-advance/",
         "source": "Washington Post Politics",
         "title": "Amish Shah beats Democratic establishment pick in House primary in Arizona",
@@ -162,13 +189,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/22/takeaways-arizona-primaries-republican-2020-election-deniers-advance/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US signs landmark nuclear deal with Saudi Arabia",
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
         "publicationDate": "2026-07-23",
         "category": "Other",
-        "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-        "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+        "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
@@ -182,10 +209,10 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Thousands evacuated in France fires",
+        "title": "France evacuates 20,000 as wildfires spread in south-west",
         "publicationDate": "2026-07-23",
         "category": "Other",
-        "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+        "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
         "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -198,22 +225,40 @@
         "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/c1c69ecc-4fe5-4488-9c0f-3611c4f3a1e6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Iran war reignites debate over US energy-permitting reform",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "Changes would enable infrastructure to be built faster in order to bolster the country’s energy security",
-        "url": "https://www.ft.com/content/c1c69ecc-4fe5-4488-9c0f-3611c4f3a1e6?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/e44325f8-c452-40d1-b423-b1f1c39ee314?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Blackstone says pace of withdrawals slowing at flagship private credit fund",
+        "id": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
         "publicationDate": "2026-07-23",
         "category": "Other",
-        "summary": "Investor concern over potential losses led to a surge in customers seeking to pull out money this year",
-        "url": "https://www.ft.com/content/e44325f8-c452-40d1-b423-b1f1c39ee314?syn-25a6b1a6=1"
+        "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/3d5544cd-a1e5-4a33-8db5-1e95fbf17def?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump throws controversial US-Saudi Arabia nuclear pact into doubt",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Also in today’s newsletter, where is the US keeping $13bn of Venezuela’s oil money?",
+        "url": "https://www.ft.com/content/3d5544cd-a1e5-4a33-8db5-1e95fbf17def?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/50793b37-e310-4d38-8f8d-4a2bdb5ee91a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump says Saudi nuclear deal depends on relations with Israel",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Crown prince has insisted any rapprochement with Israel would depend on steps towards establishing Palestinian state",
+        "url": "https://www.ft.com/content/50793b37-e310-4d38-8f8d-4a2bdb5ee91a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "ECB holds interest rates at 2.25% after debating rise",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Some members of governing council ‘asked themselves whether we should not consider a hike’",
+        "url": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
@@ -221,26 +266,17 @@
         "title": "Oil price surge drives global bond sell-off",
         "publicationDate": "2026-07-23",
         "category": "Economy",
-        "summary": "Brent crude’s rise towards $100 threatens a prolonged surge in inflation and resetting interest rate expectations",
+        "summary": "Brent crude’s rise to $100 threatens a prolonged surge in inflation and resetting interest rate expectations",
         "url": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Oil jumps to $98 after Houthis attack two Saudi Arabian tankers",
+        "title": "Oil hits $100 for first time since May",
         "publicationDate": "2026-07-23",
         "category": "Other",
-        "summary": "Yemeni rebels said they used missiles and drones to target the vessels Encelia and Layla",
-        "url": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/d6926044-2e10-4f8d-ae1e-16218307b840?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The return of the political professional",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "After years of duds and dilettantes, true operators have returned to Downing Street — but that won’t guarantee success",
-        "url": "https://www.ft.com/content/d6926044-2e10-4f8d-ae1e-16218307b840?syn-25a6b1a6=1"
+        "summary": "Attack by Houthis on Saudi Arabian tankers in Red Sea threatens further squeeze on energy supplies",
+        "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1"
     },
     {
         "id": "IF13257",
@@ -266,7 +302,7 @@
         "title": "Southeast Asian Approaches to US-China Tensions and Possible Responses to a Taiwan Conflict",
         "publicationDate": "2026-07-22",
         "category": "Defense",
-        "summary": "Southeast Asian Approaches to US-China Tensions and Possible Responses to a Taiwan Conflict acabral-sanche… Wed, 07/22/2026 - 13:40 SVG Reports Jul 22, 2026 Hudson Institute Southeast Asian Approaches to US-China Tensions and Possible Responses to a Taiwan Conflict John Lee Senior Fellow Lavina Lee Senior lecturer in the Department of Security Studies and Criminology at Macquarie University, Council of the...",
+        "summary": "Southeast Asian Approaches to US-China Tensions and Possible Responses to a Taiwan Conflict acabral-sanche… Wed, 07/22/2026 - 13:40 SVG Reports Jul 23, 2026 Hudson Institute Southeast Asian Approaches to US-China Tensions and Possible Responses to a Taiwan Conflict John Lee Senior Fellow Lavina Lee Senior lecturer in the Department of Security Studies and Criminology at Macquarie University, Council of the...",
         "url": "https://www.hudson.org/national-security-defense/southeast-asian-approaches-us-china-tensions-possible-responses-taiwan-john-lee-lavina-lee"
     },
     {
@@ -414,15 +450,6 @@
         "url": "https://www.pbs.org/newshour/show/this-is-about-the-rule-of-law-u-s-attorney-fired-by-trump-sues-to-overturn-dismissal"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
-        "source": "New York Times Politics",
-        "title": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
-        "publicationDate": "2026-07-22",
-        "category": "Saudi Arabia",
-        "summary": "Nuclear experts say it throws fuel on the smoldering fire of atomic proliferation, creating a destabilizing situation that could raise the risk of nuclear war.",
-        "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/",
         "source": "Washington Post Politics",
         "title": "Latest combat deaths show risk has shifted to troops far from Iran’s borders",
@@ -448,15 +475,6 @@
         "category": "Other",
         "summary": "Republicans stockpiled money from big donors in national groups heading into the fall campaign season, while individual Democrats have drawn on stronger voter enthusiasm.",
         "url": "https://www.washingtonpost.com/politics/2026/07/22/gop-retains-cash-lead-ahead-midterms-democrats-narrowed-gap/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Tankers make sharp U-turns after Houthi shipping threat",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "IF11556",
@@ -531,15 +549,6 @@
         "url": "https://ecfr.eu/publication/managed-disorder-the-hard-road-to-a-modest-peace-with-russia-after-ukraine/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/07/21/trump-pledges-support-lebanon-peace-efforts-with-israel-clashes-continue/",
-        "source": "Washington Post Politics",
-        "title": "Trump meets with Lebanese leader, pledges support for peace efforts with Israel",
-        "publicationDate": "2026-07-21",
-        "category": "Other",
-        "summary": "The event marked the White House’s latest attempt to broker an Israeli pullout from southern Lebanon, where Israel has been fighting Hezbollah.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/21/trump-pledges-support-lebanon-peace-efforts-with-israel-clashes-continue/"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4418-1.html",
         "source": "RAND Corporation",
         "title": "Living with Wet Basements",
@@ -565,15 +574,6 @@
         "category": "Defense",
         "summary": "In this report, the authors extend a security framework to provide the first systematic roadmap for protecting algorithmic insights, the novel techniques, methods, and design know-how that materially improve artificial intelligence systems.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4685-1.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5000-1.html",
-        "source": "RAND Corporation",
-        "title": "Restricting AI Agent Use of Biological Tools",
-        "publicationDate": "2026-07-20",
-        "category": "Other",
-        "summary": "AI agents can help non-experts use advanced biological design tools, raising misuse concerns. The authors explore safeguards built into biological tools that could block such assistance and find that their effectiveness is currently limited.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5000-1.html"
     },
     {
         "id": "https://www.heritage.org/education/commentary/allhere-chatbot-scandal-shows-how-not-deploy-ai",
@@ -621,6 +621,15 @@
         "url": "https://ecfr.eu/podcasts/episode/lebanon-on-the-brink-of-war-or-peace/"
     },
     {
+        "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
+        "source": "Centre for European Reform",
+        "title": "National Security Strategy (Joint Committee): Deterrence in an age of Russian aggression",
+        "publicationDate": "2026-07-17",
+        "category": "Foreign Policy",
+        "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
+        "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
+    },
+    {
         "id": "R40480",
         "source": "Congressional Research Service",
         "title": "Budget Reconciliation Measures Enacted into Law Since 1980",
@@ -628,5 +637,41 @@
         "category": "Economy",
         "summary": "The budget reconciliation process is an optional procedure that operates as an adjunct to the budget resolution process established by the Congressional Budget Act of 1974. The chief purpose of the reconciliation process is to enhance Congress’s ability to change current law in order to bring revenue, spending, and debt limit levels into conformity with the policies of the annual budget resolution. This report...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R40480/R40480.29.pdf"
+    },
+    {
+        "id": "https://www.cer.eu/media/times-radio-nato-summit",
+        "source": "Centre for European Reform",
+        "title": "Times Radio: NATO summit",
+        "publicationDate": "2026-07-09",
+        "category": "Other",
+        "summary": "Armida van Rij, senior research fellow at the CER spoke with Jane Garvey on Times Radio to discuss the NATO summit and Donald Trump's remarks on his NATO allies. Armida van Rij View multimedia 08 July 2026",
+        "url": "https://www.cer.eu/media/times-radio-nato-summit"
+    },
+    {
+        "id": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey",
+        "source": "Centre for European Reform",
+        "title": "NPR: NATO summit set to begin in Turkey",
+        "publicationDate": "2026-07-08",
+        "category": "Foreign Policy",
+        "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
+        "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
+    },
+    {
+        "id": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export",
+        "source": "Centre for European Reform",
+        "title": "BNR Nieuws: China overspoelt Europa met goedkope export",
+        "publicationDate": "2026-06-29",
+        "category": "Foreign Policy",
+        "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
+        "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
+    },
+    {
+        "id": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement",
+        "source": "Centre for European Reform",
+        "title": "Unpacking Europe: The path to EU enlargement",
+        "publicationDate": "2026-06-01",
+        "category": "Foreign Policy",
+        "summary": "On this week’s Unpacking Europe podcast Zselyke Csaky sat down with Milan Nic a senior research fellow at the German Council on Foreign Relations (DGAP) to discuss the latest on EU enlargement. They took a detailed look at new and old ideas recently put forward, including a so-called associate membership for Ukraine, as well as at progress by candidate countries. They discussed what the key challenges facing the EU...",
+        "url": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement"
     }
 ]
