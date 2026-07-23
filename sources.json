@@ -1,5 +1,14 @@
 [
     {
+        "id": "R49042",
+        "source": "Congressional Research Service",
+        "title": "The U.S. Court of Appeals: Background and Circuit Splits from 2025",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "The U.S. Courts of Appeals frequently act as the final arbiters of questions of law within their respective jurisdictions. Although the Supreme Court of the United States sits at the pinnacle of the American judicial system and acts as the final arbiter on questions of federal law, the number of precedential decisions issued each year by the Court is quite small. For example, in both of its two most recently...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49042/R49042.1.pdf"
+    },
+    {
         "id": "IN12716",
         "source": "Congressional Research Service",
         "title": "Canada’s Online Streaming Act: Background and Issues for Congress",
@@ -16,6 +25,15 @@
         "category": "Other",
         "summary": "This report analyzes emerging energy and water technologies that could improve operational agility in contested environments. It evaluates advances in portable power, storage, and purification to enhance sustainability and reduce logistics risk.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3582-2.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/evolution-not-revolution-why-china-isnt-pushing-its-cleantech-advantage-in-the-hormuz-crisis",
+        "source": "Council on Foreign Relations",
+        "title": "Evolution, Not Revolution: Why China Isn’t Pushing Its Cleantech Advantage in the Hormuz Crisis",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "China might have taken greater advantage of the Strait of Hormuz closure to accelerate clean energy exports, but other exports led Beijing to moderate oil price rises.",
+        "url": "https://www.cfr.org/articles/evolution-not-revolution-why-china-isnt-pushing-its-cleantech-advantage-in-the-hormuz-crisis"
     },
     {
         "id": "https://www.cfr.org/articles/the-nuanced-relationship-between-public-opinion-and-foreign-policy",
@@ -54,18 +72,72 @@
         "url": "https://www.cfr.org/articles/the-u-s-is-about-to-design-an-ai-regulator-heres-how-to-get-it-right"
     },
     {
-        "id": "https://www.cfr.org/reports/conflict-driven-chokepoint-disruptions",
-        "source": "Council on Foreign Relations",
-        "title": "Conflict-Driven Chokepoint Disruptions",
+        "id": "https://www.hudson.org/foreign-policy/iran-backed-houthis-escalate-red-sea-attacks-us-saudi-nuclear-deal-scrutinized-rebeccah-heinrichs",
+        "source": "Hudson Institute",
+        "title": "Iran-Backed Houthis Escalate Red Sea Attacks, and the US and Saudi Sign a Nuclear Deal",
         "publicationDate": "2026-07-23",
-        "category": "Report",
-        "summary": "When armed conflict disrupts a critical maritime trade route, the United States can monitor, contain, or escalate the situation economically or militarily.",
-        "url": "https://www.cfr.org/reports/conflict-driven-chokepoint-disruptions"
+        "category": "Defense",
+        "summary": "Iran-Backed Houthis Escalate Red Sea Attacks, and the US and Saudi Sign a Nuclear Deal acabral-sanche… Thu, 07/23/2026 - 12:27 SVG In the Media Jul 23, 2026 Fox News Iran-Backed Houthis Escalate Red Sea Attacks, and the US and Saudi Sign a Nuclear Deal Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox News) Toggle Table of...",
+        "url": "https://www.hudson.org/foreign-policy/iran-backed-houthis-escalate-red-sea-attacks-us-saudi-nuclear-deal-scrutinized-rebeccah-heinrichs"
+    },
+    {
+        "id": "https://www.hudson.org/technology/us-china-rivalry-heats-ai-becomes-new-battleground-jason-hsu",
+        "source": "Hudson Institute",
+        "title": "US-China Rivalry Heats Up, AI Becomes the New Battleground",
+        "publicationDate": "2026-07-23",
+        "category": "Defense",
+        "summary": "US-China Rivalry Heats Up, AI Becomes the New Battleground acabral-sanche… Thu, 07/23/2026 - 12:07 SVG In the Media Jul 21, 2026 Yahoo Finance US-China Rivalry Heats Up, AI Becomes the New Battleground Jason Hsu Senior Fellow Jason Hsu In the Media Caption (Screenshot via Yahoo Finance) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to...",
+        "url": "https://www.hudson.org/technology/us-china-rivalry-heats-ai-becomes-new-battleground-jason-hsu"
+    },
+    {
+        "id": "https://www.hudson.org/human-rights/chinese-christian-leader-freed-after-trump-xi-talks-bill-drexel",
+        "source": "Hudson Institute",
+        "title": "Chinese Christian Leader Freed After Trump–Xi Talks",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "Chinese Christian Leader Freed After Trump–Xi Talks acabral-sanche… Thu, 07/23/2026 - 11:46 SVG In the Media Jul 23, 2026 Sky News Australia Chinese Christian Leader Freed After Trump–Xi Talks Bill Drexel Senior Fellow Bill Drexel In the Media Caption (Screenshot via Sky News) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail...",
+        "url": "https://www.hudson.org/human-rights/chinese-christian-leader-freed-after-trump-xi-talks-bill-drexel"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/deter-china-invading-taiwan-trump-must-exploit-beijings-pressure-points-ken-moriyasu",
+        "source": "Hudson Institute",
+        "title": "To Deter China from Invading Taiwan, Trump Must Exploit Beijing’s Pressure Points",
+        "publicationDate": "2026-07-23",
+        "category": "Defense",
+        "summary": "To Deter China from Invading Taiwan, Trump Must Exploit Beijing’s Pressure Points acabral-sanche… Thu, 07/23/2026 - 10:24 SVG Commentary Jul 23, 2026 Washington Examiner To Deter China from Invading Taiwan, Trump Must Exploit Beijing’s Pressure Points Ken Moriyasu Senior Fellow Ken Moriyasu Commentary Caption A China-Europe train prepares to depart from the China-Kazakhstan Logistics Cooperation Base in...",
+        "url": "https://www.hudson.org/foreign-policy/deter-china-invading-taiwan-trump-must-exploit-beijings-pressure-points-ken-moriyasu"
+    },
+    {
+        "id": "https://www.hudson.org/technology/chinas-ai-has-winning-formula-america-dont-panic-jason-hsu",
+        "source": "Hudson Institute",
+        "title": "China’s AI Has a Winning Formula. America, Don’t Panic.",
+        "publicationDate": "2026-07-23",
+        "category": "Defense",
+        "summary": "China’s AI Has a Winning Formula. America, Don’t Panic. acabral-sanche… Thu, 07/23/2026 - 10:16 SVG Commentary Jul 22, 2026 New York Times China’s AI Has a Winning Formula. America, Don’t Panic. Jason Hsu Senior Fellow Jason Hsu Commentary Caption A Xuanji A3 chip is pictured at the BYD booth during the World Artificial Intelligence Conference (WAIC) in Shanghai on July 18, 2026. (Photo by Hector RETAMAL / AFP via...",
+        "url": "https://www.hudson.org/technology/chinas-ai-has-winning-formula-america-dont-panic-jason-hsu"
+    },
+    {
+        "id": "https://www.hoover.org/research/examining-trump-slump-and-communism-vs-capitalism",
+        "source": "Hoover Institution",
+        "title": "Examining The Trump Slump And Communism Vs. Capitalism",
+        "publicationDate": "2026-07-23",
+        "category": "Economy",
+        "summary": "On the latest episode of GoodFellows, senior fellows John Cochrane, H.R. McMaster, and Niall Ferguson, and moderator and distinguished policy fellow Bill Whalen sit down together for a special in-person conversation on the current state of the economy, politics, and world affairs.",
+        "url": "https://www.hoover.org/research/examining-trump-slump-and-communism-vs-capitalism"
+    },
+    {
+        "id": "https://www.hoover.org/research/dangers-unilateralism-abroad-and-polarization-home",
+        "source": "Hoover Institution",
+        "title": "The Dangers Of Unilateralism Abroad And Polarization At Home",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "If American leaders continue to go it alone abroad and foment division at home, we will lose the 21st century to China.",
+        "url": "https://www.hoover.org/research/dangers-unilateralism-abroad-and-polarization-home"
     },
     {
         "id": "https://www.hoover.org/research/dangers-american-sovereign-wealth-fund",
         "source": "Hoover Institution",
-        "title": "The Dangers of an American Sovereign-Wealth Fund",
+        "title": "The Dangers Of An American Sovereign-Wealth Fund",
         "publicationDate": "2026-07-23",
         "category": "Other",
         "summary": "Sanders’s proposal for control of AI equity risks populist manipulation and market distortion.",
@@ -88,6 +160,15 @@
         "category": "Foreign Policy",
         "summary": "Rumen Radev is steering Bulgaria towards a more transactional foreign policy. The EU needs to engage with Sofia and push back on such hedging to secure future European cohesion",
         "url": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote",
+        "source": "NPR Politics",
+        "title": "For a 2nd time, House approves resolution to end the war in Iran in a rebuke to Trump",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "Four Republicans joined Democrats to approve the measure. And while it is not legally binding, the resolution represents growing frustration inside Congress over the war.",
+        "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote"
     },
     {
         "id": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
@@ -126,6 +207,24 @@
         "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas"
     },
     {
+        "id": "https://www.pbs.org/newshour/world/trump-adds-new-condition-to-saudi-nuclear-deal-says-kingdom-must-normalize-relations-with-israel",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump adds new condition to Saudi nuclear deal, says kingdom must normalize relations with Israel",
+        "publicationDate": "2026-07-23",
+        "category": "Abraham Accords",
+        "summary": "President Donald Trump's social media post asserting that the agreement was subject to the Saudis joining the Abraham Accords was unexpected and almost certain to make finalizing the deal complicated.",
+        "url": "https://www.pbs.org/newshour/world/trump-adds-new-condition-to-saudi-nuclear-deal-says-kingdom-must-normalize-relations-with-israel"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/amish-shah-wins-democratic-congressional-primary-in-arizona-a-blow-to-the-party-establishment",
+        "source": "PBS NewsHour Politics",
+        "title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment",
+        "publicationDate": "2026-07-23",
+        "category": "Amish Shah",
+        "summary": "Shah won the Democratic primary Wednesday in a hotly contested congressional district in Arizona, delivering another defeat to the Democratic Congressional Campaign Committee, which backed a rival, as more voters reject the preferences of party leaders in Washington.",
+        "url": "https://www.pbs.org/newshour/politics/amish-shah-wins-democratic-congressional-primary-in-arizona-a-blow-to-the-party-establishment"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/rep-jim-jordan-refers-jack-smith-for-possible-prosecution-saying-he-have-have-misled-on-trump-probe",
         "source": "PBS NewsHour Politics",
         "title": "Rep. Jim Jordan refers Jack Smith for possible prosecution, saying he have have misled on Trump probe",
@@ -153,67 +252,58 @@
         "url": "https://www.pbs.org/newshour/politics/some-house-republicans-defect-to-again-pass-resolution-seeking-to-halt-military-action-in-iran"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/who-is-jes-staley-former-jpmorgan-executive-interviewed-about-epstein-ties",
-        "source": "PBS NewsHour Politics",
-        "title": "Who is Jes Staley? Former JPMorgan executive interviewed about Epstein ties",
-        "publicationDate": "2026-07-23",
-        "category": "house oversight committee",
-        "summary": "American banker James \"Jes\" Staley sits for a closed-door interview Thursday after years of mounting questions about his links to the late convicted sex offender Jeffrey Epstein.",
-        "url": "https://www.pbs.org/newshour/politics/who-is-jes-staley-former-jpmorgan-executive-interviewed-about-epstein-ties"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-briefing-as-u-s-reaches-deal-with-saudi-arabia-on-nuclear-program",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: White House holds briefing as U.S. reaches deal with Saudi Arabia on nuclear program",
-        "publicationDate": "2026-07-23",
-        "category": "Donald Trump news",
-        "summary": "Nonproliferation experts have raised concerns that the deal fails to include guardrails to prevent enrichment of uranium to weapons-grade levels.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-briefing-as-u-s-reaches-deal-with-saudi-arabia-on-nuclear-program"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/5986428-mark-sanford-announces-run-for-lindsey-grahams-senate-seat/",
+        "id": "https://thehill.com/homenews/administration/5986577-secret-service-vance-leak-investigation/",
         "source": "The Hill",
-        "title": "Mark Sanford announces run for Lindsey Graham's Senate seat",
+        "title": "Vance detail Secret Service agent suspected of leaking information put on administrative leave",
+        "publicationDate": "2026-07-23",
+        "category": "Administration",
+        "summary": "The U.S. Secret Service said Thursday it was investigating a member of Vice President Vance's detail for allegedly leaking sensitive information. \"A member of the Vice Presidential Protective Division is the subject of an administrative investigation, and potential criminal inquiry, involving allegations of compromising operational and information security,\" Secret Service Chief of Communications Anthony Guglielmi...",
+        "url": "https://thehill.com/homenews/administration/5986577-secret-service-vance-leak-investigation/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/5986608-warren-questions-cfpb-nominee/",
+        "source": "The Hill",
+        "title": "Warren presses Trump CFPB nominee on conflicts of interest, workforce cuts",
         "publicationDate": "2026-07-23",
         "category": "Economy",
-        "summary": "Former Rep. Mark Sanford (R-S.C.) is making a run for the late Sen. Lindsey Graham’s (R-S.C.) seat after his death, Sanford announced Thursday morning. “Our country is at a financial tipping point, and I can't sit on the sidelines while Washington adds a trillion dollars to the debt every 100 days,” Sanford said in a...",
-        "url": "https://thehill.com/homenews/campaign/5986428-mark-sanford-announces-run-for-lindsey-grahams-senate-seat/"
+        "summary": "Sen. Elizabeth Warren (D-Mass.) on Thursday pressed President Trump’s nominee to lead the Consumer Financial Protection Bureau (CFPB) regarding conflicts of interest and the Trump administration’s cuts to the agency. During Brian Johnson’s nomination hearing in front of the Senate Banking Committee, ranking member Warren noted the consumer protection watchdog, under acting Director Russell Vought,...",
+        "url": "https://thehill.com/homenews/senate/5986608-warren-questions-cfpb-nominee/"
     },
     {
-        "id": "https://thehill.com/opinion/lindseys-lens/5986426-ken-paxton-walks-out-of-press-conference-avoids-tough-questions/",
+        "id": "https://thehill.com/homenews/house/5986490-cammack-congress-culture-creepiness/",
         "source": "The Hill",
-        "title": "Ken Paxton walks out of press conference, avoids tough questions",
+        "title": "'Culture of creepiness': Republican says she wouldn't want daughter on Capitol Hill",
         "publicationDate": "2026-07-23",
-        "category": "Opinions - Lindsey's Lens",
-        "summary": "If you're running for the U.S. Senate, answering tough questions isn't optional. It's part of the job. Texas Attorney General and Republican Senate candidate Ken Paxton learned that the hard way this week when a press conference meant to highlight law enforcement quickly became all about the questions he didn't want to answer. Paxton was joined by...",
-        "url": "https://thehill.com/opinion/lindseys-lens/5986426-ken-paxton-walks-out-of-press-conference-avoids-tough-questions/"
+        "category": "House",
+        "summary": "Rep. Kat Cammack (R-Fla.) said Wednesday that Congress has a “culture of creepiness” when it came to members approaching and soliciting staffers. Cammack told MeidasTouch’s Pablo Manríquez that she “wouldn’t feel comfortable sending\" her \"daughter to work here” in the current congressional environment. Her comments came after Rep. Jeff Crank (R-Colo.) unveiled a resolution that...",
+        "url": "https://thehill.com/homenews/house/5986490-cammack-congress-culture-creepiness/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/5984689-senate-gop-coast-guard-leadership-modernization-act/",
+        "id": "https://thehill.com/video-clips/5986451-watch-live-donald-trump-white-house-ai-data-center-ratepayer-protection-pledge-expansion-epa/",
         "source": "The Hill",
-        "title": "Coast Guard should get a leader like other military branches, GOP senators say",
+        "title": "Watch live: Trump gives remarks on expanding Ratepayer Protection Pledge",
         "publicationDate": "2026-07-23",
-        "category": "Defense",
-        "summary": "The Coast Guard Leadership Modernization Act would establish a secretary of the U.S. Coast Guard.",
-        "url": "https://thehill.com/homenews/senate/5984689-senate-gop-coast-guard-leadership-modernization-act/"
+        "category": "Video",
+        "summary": "President Trump will deliver remarks Thursday afternoon on the White House's plan to expand a voluntary ratepayer protection pledge aimed at shielding consumers from electricity cost increases tied to AI data center growth. The announcement comes as the Ratepayer Protection Act is gaining steam in the House. The legislation, if passed, would require states to...",
+        "url": "https://thehill.com/video-clips/5986451-watch-live-donald-trump-white-house-ai-data-center-ratepayer-protection-pledge-expansion-epa/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5984908-live-updates-trump-iran-houthis-blanche-vote/",
+        "id": "https://thehill.com/homenews/administration/5986412-bill-oreilly-trump-health/",
         "source": "The Hill",
-        "title": "Live updates: House OKs, Senate rejects war powers resolution; Leavitt reiterates Saudi deal's Abraham Accords condition",
+        "title": "O'Reilly: Trump should 'take the next month off'",
         "publicationDate": "2026-07-23",
         "category": "Foreign Policy",
-        "summary": "President Trump is threatening to intensify the war with Iran as some Republican lawmakers urge him to \"finish the job,\" but there is also widespread skepticism on Capitol Hill on both sides of the aisle about whether he can deliver a victory. The House narrowly approved a Democratic-sponsored war powers resolution with the help of...",
-        "url": "https://thehill.com/homenews/administration/5984908-live-updates-trump-iran-houthis-blanche-vote/"
+        "summary": "Political commentator Bill O'Reilly on Wednesday said President Trump should \"take the next month off\" as the 80-year-old chief executive faces widening foreign and domestic dilemmas. O'Reilly, 76, wrapped up the latest episode of his podcast, \"No Spin News,\" with a reflection on the roughly 40 years that he has known the president. He said...",
+        "url": "https://thehill.com/homenews/administration/5986412-bill-oreilly-trump-health/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5986262-trump-iran-us-military-attack/",
-        "source": "The Hill",
-        "title": "Trump 'close to making a decision' on 'massive attack' against Iran",
+        "id": "https://www.nytimes.com/2026/07/23/health/erica-schwartz-cdc-vote.html",
+        "source": "New York Times Politics",
+        "title": "Key Republican Senator Says He Will Support Erica Schwartz for C.D.C. Director",
         "publicationDate": "2026-07-23",
-        "category": "Defense",
-        "summary": "President Trump said Thursday that he is weighing a significant escalation in combat operations against Iran following the U.S. military's 12th day of consecutive strikes Wednesday. The president told Axios that he is “considering a massive attack” against the country that would be “bigger than ever before.” \"I am close to making a decision. We...",
-        "url": "https://thehill.com/homenews/administration/5986262-trump-iran-us-military-attack/"
+        "category": "Healthcare",
+        "summary": "Senator Bill Cassidy, who is believed to hold the deciding vote in the Senate health committee for Dr. Erica Schwartz’s confirmation, had declined for days to say whether he would back her.",
+        "url": "https://www.nytimes.com/2026/07/23/health/erica-schwartz-cdc-vote.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/23/us/politics/vance-secret-service.html",
@@ -239,7 +329,7 @@
         "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
         "publicationDate": "2026-07-23",
         "category": "Israel",
-        "summary": "Israeli officials greeted the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel. Prime Minister Benjamin Netanyahu has not yet commented on the agreement.",
+        "summary": "Israeli officials embraced the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel.",
         "url": "https://www.nytimes.com/2026/07/23/us/politics/israel-saudi-arabia-us-nuclear-deal.html"
     },
     {
@@ -248,26 +338,8 @@
         "title": "House Again Rebukes Trump on Iran War Powers Vote",
         "publicationDate": "2026-07-23",
         "category": "Foreign Policy",
-        "summary": "For the second time, a few Republicans joined Democrats to back a measure calling on the president to seek authorization for the conflict.",
+        "summary": "For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.",
         "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html",
-        "source": "New York Times Politics",
-        "title": "As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords",
-        "publicationDate": "2026-07-23",
-        "category": "Saudi Arabia",
-        "summary": "The president’s new condition could create a roadblock to the agreement his administration announced this week.",
-        "url": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/",
-        "source": "Washington Post Politics",
-        "title": "House votes to restrain Trump on Iran as Senate rejects similar measure",
-        "publicationDate": "2026-07-23",
-        "category": "Defense",
-        "summary": "The votes marked the first test of Republican support for the conflict since President Donald Trump resumed military strikes against Tehran this month.",
-        "url": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/23/trump-adds-condition-nuclear-deal-with-saudi-arabia-throwing-pact-into-doubt/",
@@ -277,6 +349,15 @@
         "category": "Other",
         "summary": "The president laid out the new requirement a day after the agreement was signed, casting the future of the pact into doubt.",
         "url": "https://www.washingtonpost.com/politics/2026/07/23/trump-adds-condition-nuclear-deal-with-saudi-arabia-throwing-pact-into-doubt/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/",
+        "source": "Washington Post Politics",
+        "title": "House votes to limit Trump on Iran; Senate fails to advance similar measure",
+        "publicationDate": "2026-07-23",
+        "category": "Defense",
+        "summary": "The votes marked the first test of Republican support for the conflict since President Donald Trump resumed military strikes against Tehran this month.",
+        "url": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/23/prosecutors-struggle-turn-voter-fraud-claims-into-criminal-charges/",
@@ -315,6 +396,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ukraine's ousted defence minister insists on being reinstated",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+        "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "France evacuates 20,000 as wildfires spread in south-west",
@@ -333,13 +423,40 @@
         "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+        "id": "https://www.ft.com/content/c836e73b-66bb-4aa1-b85b-dd5b6eb89af0?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU fines Google €890mn in test of Trump’s threats to protect Big Tech",
         "publicationDate": "2026-07-23",
         "category": "Other",
-        "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
-        "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss"
+        "summary": "EU competition chief says it is bloc’s ‘duty to defend rule of law’ while delivering ‘strong message’ to search giant",
+        "url": "https://www.ft.com/content/c836e73b-66bb-4aa1-b85b-dd5b6eb89af0?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a",
+        "source": "Financial Times World",
+        "title": "Trump’s dubious nuclear deal with Saudi Arabia",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "An accord lacking ‘gold standard’ safeguards on enrichment would carry proliferation risks",
+        "url": "https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a"
+    },
+    {
+        "id": "https://www.ft.com/content/a5c66044-8999-48a5-b9cc-51341f177930?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US justice department to streamline company merger reviews",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Change entails focusing on top competition concerns in a deal rather than expansive probes and fact-finding missions",
+        "url": "https://www.ft.com/content/a5c66044-8999-48a5-b9cc-51341f177930?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/58a7b441-938c-4c05-9615-40ceaf17882b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "North Sea oil and gas industry looks for answers from new energy secretary",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Miatta Fahnbulleh’s visit to Aberdeen comes as companies hope to sway Burnham’s government on new drilling licences",
+        "url": "https://www.ft.com/content/58a7b441-938c-4c05-9615-40ceaf17882b?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
@@ -351,85 +468,13 @@
         "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/b150cd9c-d31e-498d-ac31-ff5d93cb674f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK employers should keep access to skilled trades visas, government advisers say",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "Migration Advisory Committee says work permits for 28 roles should be granted on a temporary basis",
-        "url": "https://www.ft.com/content/b150cd9c-d31e-498d-ac31-ff5d93cb674f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/afeeafb7-2a0c-4aba-a798-cecd2d8c8685?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The Nestlé supertanker’s turnaround is in train — under the surface",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "Consumer goods group has made headway in the task of ditching sleepy brands for more lively ones",
-        "url": "https://www.ft.com/content/afeeafb7-2a0c-4aba-a798-cecd2d8c8685?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/bd7626de-c367-4e64-ab94-e84c2d10d87f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US weapons makers’ sales soar as Iran war boosts order backlog",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "Pentagon is pushing major defence contractors to increase production rates to rebuild depleted stockpiles",
-        "url": "https://www.ft.com/content/bd7626de-c367-4e64-ab94-e84c2d10d87f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/0c0b1e83-8e5e-4c86-b9c6-179dba51fc69?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Greek tycoon’s tanker towed into Iranian waters",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "Shipping group Dynacom ‘trying to verify’ whereabouts of vessel hit in Strait of Hormuz",
-        "url": "https://www.ft.com/content/0c0b1e83-8e5e-4c86-b9c6-179dba51fc69?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.hudson.org/defense-strategy/ukraine-military-situation-report-july-22-can-kasapoglu",
-        "source": "Hudson Institute",
-        "title": "Ukraine Military Situation Report | July 22",
+        "id": "IF11719",
+        "source": "Congressional Research Service",
+        "title": "China Primer: The People’s Liberation Army (PLA)",
         "publicationDate": "2026-07-22",
         "category": "Defense",
-        "summary": "Ukraine Military Situation Report | July 22 acabral-sanche… Wed, 07/22/2026 - 14:52 SVG Commentary Jul 22, 2026 Hudson Institute Ukraine Military Situation Report | July 22 Can Kasapoğlu Senior Fellow (Nonresident) Can Kasapoğlu Commentary Caption People attend a rally to protest the dismissal of Defense Minister of Ukraine Mykhailo Fedorov in Kyiv, Ukraine, on July 20, 2026. (Getty Images) Toggle Table of Contents...",
-        "url": "https://www.hudson.org/defense-strategy/ukraine-military-situation-report-july-22-can-kasapoglu"
-    },
-    {
-        "id": "https://www.hudson.org/national-security-defense/southeast-asian-approaches-us-china-tensions-possible-responses-taiwan-john-lee-lavina-lee",
-        "source": "Hudson Institute",
-        "title": "Southeast Asian Approaches to US-China Tensions and Possible Responses to a Taiwan Conflict",
-        "publicationDate": "2026-07-22",
-        "category": "Defense",
-        "summary": "Southeast Asian Approaches to US-China Tensions and Possible Responses to a Taiwan Conflict acabral-sanche… Wed, 07/22/2026 - 13:40 SVG Reports Jul 23, 2026 Hudson Institute Southeast Asian Approaches to US-China Tensions and Possible Responses to a Taiwan Conflict John Lee Senior Fellow Lavina Lee Senior lecturer in the Department of Security Studies and Criminology at Macquarie University, Council of the...",
-        "url": "https://www.hudson.org/national-security-defense/southeast-asian-approaches-us-china-tensions-possible-responses-taiwan-john-lee-lavina-lee"
-    },
-    {
-        "id": "https://www.hudson.org/economics/us-japan-cooperation-changing-investment-environment-riley-walters",
-        "source": "Hudson Institute",
-        "title": "US-Japan Cooperation in a Changing Investment Environment",
-        "publicationDate": "2026-07-22",
-        "category": "Defense",
-        "summary": "US-Japan Cooperation in a Changing Investment Environment acabral-sanche… Wed, 07/22/2026 - 12:04 SVG Reports Jul 23, 2026 Hudson Institute US-Japan Cooperation in a Changing Investment Environment Riley Walters Senior Fellow Riley Walters Reports Caption President Donald Trump and Japanese Prime Minister Sanae Takaichi talk during their summit meeting at the Akasaka Palace on October 28, 2025, in Tokyo, Japan....",
-        "url": "https://www.hudson.org/economics/us-japan-cooperation-changing-investment-environment-riley-walters"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/america-needs-counter-rising-axis-russia-iran-china-mary-kissel",
-        "source": "Hudson Institute",
-        "title": "America Needs to Counter a Rising Axis of Russia, Iran, and China",
-        "publicationDate": "2026-07-22",
-        "category": "Defense",
-        "summary": "America Needs to Counter a Rising Axis of Russia, Iran, and China acabral-sanche… Wed, 07/22/2026 - 11:52 SVG Commentary Jul 21, 2026 The John Batchelor Show America Needs to Counter a Rising Axis of Russia, Iran, and China Mary Kissel Senior Fellow (Nonresident) Mary Kissel Commentary Caption Russian President Vladimir Putin and Chinese President Xi Jinping shake hands during a signing ceremony at the Great Hall...",
-        "url": "https://www.hudson.org/foreign-policy/america-needs-counter-rising-axis-russia-iran-china-mary-kissel"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/escalating-conflict-iran-mary-kissel",
-        "source": "Hudson Institute",
-        "title": "The Escalating Conflict with Iran",
-        "publicationDate": "2026-07-22",
-        "category": "Foreign Policy",
-        "summary": "The Escalating Conflict with Iran acabral-sanche… Wed, 07/22/2026 - 11:44 SVG Podcast Jul 21, 2026 The John Batchelor Show The Escalating Conflict with Iran Mary Kissel Senior Fellow (Nonresident) Mary Kissel Podcast Caption A US Marine Corps F-35 at an undisclosed location in the Middle East supports Operation Epic Fury on May 28, 2026. (US Marines) Toggle Table of Contents Contents Contents Share to Twitter...",
-        "url": "https://www.hudson.org/foreign-policy/escalating-conflict-iran-mary-kissel"
+        "summary": "Overview The People’s Liberation Army (PLA) serves the Communist Party of China. Established in 1927, it carried that party to victory in the country’s civil war, which concluded with the 1949 founding of the People’s Republic of China (PRC, or China). Since 1978, PRC leaders have sought to transform the PLA from an infantry-heavy, low-technology, ground forces-centric military into a leaner, more networked,...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11719/IF11719.12.pdf"
     },
     {
         "id": "https://www.hoover.org/research/californias-public-sector-unions-are-trying-undo-pension-reform",
@@ -450,24 +495,6 @@
         "url": "https://www.hoover.org/research/benjamon-jaros-fallout-over-billionaire-tax-begins"
     },
     {
-        "id": "https://www.hoover.org/research/orin-kerr-so-youre-about-start-law-school",
-        "source": "Hoover Institution",
-        "title": "Orin Kerr: \"So You're About To Start Law School\"",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Orin Kerr offers incoming first-year law students tips for the first month of law school. Topics include: how to read an opinion, 1L course topics, the Socratic Method, how to avoid being a law school gunner, study groups, office hours, and avoiding comparisons with classmates.",
-        "url": "https://www.hoover.org/research/orin-kerr-so-youre-about-start-law-school"
-    },
-    {
-        "id": "https://www.hoover.org/research/victor-davis-hanson-2024-proved-democrats-cant-win-honest-election",
-        "source": "Hoover Institution",
-        "title": "Victor Davis Hanson: 2024 Proved Democrats Can’t Win An Honest Election",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Victor Davis Hanson says if you look at population increases, there's no way in the world that you would get so many people voting in the US presidential election in 2020. Hanson notes the biggest issue with the 2020 election wasn't just allegations of fraud—it was how election rules changed under COVID-19. Hanson explains why those changes permanently altered the voting system, and he...",
-        "url": "https://www.hoover.org/research/victor-davis-hanson-2024-proved-democrats-cant-win-honest-election"
-    },
-    {
         "id": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/",
         "source": "European Council on Foreign Relations",
         "title": "How better climate diplomacy can save Europe’s green ambitions",
@@ -475,15 +502,6 @@
         "category": "Economy",
         "summary": "The EU needs to align climate diplomacy with industrial strategy to accelerate Europe’s transition to a competitive low-carbon economy",
         "url": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation",
-        "source": "NPR Politics",
-        "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
-        "publicationDate": "2026-07-22",
-        "category": "Economy",
-        "summary": "Republicans passed more than $1 trillion for the Pentagon alongside a budget blueprint to fund the war with Iran and implement provisions of President Trump's election overhaul bill.",
-        "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/",
@@ -502,24 +520,6 @@
         "category": "Defense",
         "summary": "Instability and humanitarian crises have beset Somalia for decades. After the authoritarian Siad Barre regime fell amid civil war in 1991, the country was widely viewed for years as a “failed state.” The formation of a new federal government in 2012 was a turning point, and Somalia, with international support, made halting progress against a violent Islamist insurgency led by Al Shabaab. Political infighting, clan...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10155/IF10155.17.pdf"
-    },
-    {
-        "id": "IF11556",
-        "source": "Congressional Research Service",
-        "title": "Libya and U.S. Policy",
-        "publicationDate": "2026-07-21",
-        "category": "Defense",
-        "summary": "Fifteen years after a 2011 uprising and U.S.-backed military intervention that toppled longtime authoritarian leader Muammar al Qadhafi, Libya has yet to make a transition to stable governing arrangements. Elections and diplomacy have produced a series of interim governments, but militias, local leaders, and subnational coalitions backed by competing foreign patrons have remained powerful. Rival networks in western...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11556/IF11556.36.pdf"
-    },
-    {
-        "id": "IF11879",
-        "source": "Congressional Research Service",
-        "title": "National Level Exercises: History, Authorities, and Congressional Considerations",
-        "publicationDate": "2026-07-21",
-        "category": "Defense",
-        "summary": "Every two years, the Federal Emergency Management Agency (FEMA) conducts a National Level Exercise (NLE) to evaluate the nation’s progress toward preparedness for catastrophic events. These exercises have multiple components, and culminate in a large, full-scale exercise with thousands of participants from multiple federal agencies, state, local, tribal, and territorial (SLTT) governments, industry partners, and...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11879/IF11879.5.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
@@ -630,15 +630,6 @@
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
     },
     {
-        "id": "R40480",
-        "source": "Congressional Research Service",
-        "title": "Budget Reconciliation Measures Enacted into Law Since 1980",
-        "publicationDate": "2026-07-15",
-        "category": "Economy",
-        "summary": "The budget reconciliation process is an optional procedure that operates as an adjunct to the budget resolution process established by the Congressional Budget Act of 1974. The chief purpose of the reconciliation process is to enhance Congress’s ability to change current law in order to bring revenue, spending, and debt limit levels into conformity with the policies of the annual budget resolution. This report...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R40480/R40480.29.pdf"
-    },
-    {
         "id": "https://www.cer.eu/media/times-radio-nato-summit",
         "source": "Centre for European Reform",
         "title": "Times Radio: NATO summit",
@@ -664,6 +655,15 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
+    },
+    {
+        "id": "R48980",
+        "source": "Congressional Research Service",
+        "title": "Noncompetitive Federal Contract Awards: Other than Full and Open Competition",
+        "publicationDate": "2026-06-10",
+        "category": "Economy",
+        "summary": "In the context of federal procurement, Congress has long been interested in the view that increased competition among potential vendors could result in (1) lower prices, (2) higher quality goods and services, (3) increased innovation, and (4) greater public trust in government. The Competition in Contracting Act of 1984 (CICA), as amended, forms the current framework for competition in federal procurement. CICA...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48980/R48980.3.pdf"
     },
     {
         "id": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement",
