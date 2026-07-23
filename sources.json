@@ -1,5 +1,14 @@
 [
     {
+        "id": "IN12716",
+        "source": "Congressional Research Service",
+        "title": "Canada’s Online Streaming Act: Background and Issues for Congress",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "In April 2023, Canada enacted the Online Streaming Act, amending Canada’s Broadcasting Act to allow the Canadian Radio-Television and Telecommunications Commission (CRTC) to regulate entities that broadcast video or music through social media (e.g., Meta’s Facebook) or online streaming services (e.g., Amazon Prime, Disney+, Netflix, Spotify, YouTube). The CRTC is an independent quasi-judicial tribunal that...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12716/IN12716.2.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
         "source": "RAND Corporation",
         "title": "Sustaining Agile Operations",
@@ -40,8 +49,8 @@
         "source": "Council on Foreign Relations",
         "title": "Conflict-Driven Chokepoint Disruptions",
         "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "Executive Summary Conflict-driven disruptions of critical supply chain chokepoints have become a recurring feature of the world today—from Russia’s 2022 blockade of Ukraine’s grain exports via the Black Sea, to the Houthis’ attacks on boats in the Red Sea that began in 2023, to Iran’s closure of the Strait of Hormuz following U.S.–Israeli strikes on […]",
+        "category": "Report",
+        "summary": "When armed conflict disrupts a critical maritime trade route, the United States can monitor, contain, or escalate the situation economically or militarily.",
         "url": "https://www.cfr.org/reports/conflict-driven-chokepoint-disruptions"
     },
     {
@@ -49,8 +58,8 @@
         "source": "Council on Foreign Relations",
         "title": "Gray Zone Attacks Against U.S. Allies and Partners",
         "publicationDate": "2026-07-23",
-        "category": "Defense",
-        "summary": "Executive Summary Gray zone attacks are deliberate but deniable acts of violence engineered to inflict strategic costs while stopping short of triggering a formal military or diplomatic response. Those attacks can take multiple forms: infrastructure destruction (undersea cable cuts, energy pipeline sabotage); industrial sabotage (arson, explosions, and defense supply-chain disruption); targeted violence...",
+        "category": "Report",
+        "summary": "When a U.S. partner state faces a hybrid attack by an unknown aggressor, the United States should draw on various available response options to protect its treaty commitments, credibility, and commercial interests.",
         "url": "https://www.cfr.org/reports/gray-zone-attacks-against-u-s-allies-and-partners"
     },
     {
@@ -61,6 +70,42 @@
         "category": "Other",
         "summary": "Sanders’s proposal for control of AI equity risks populist manipulation and market distortion.",
         "url": "https://www.hoover.org/research/dangers-american-sovereign-wealth-fund"
+    },
+    {
+        "id": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/",
+        "source": "European Council on Foreign Relations",
+        "title": "The magnificent ten: A coalition of the willing to drive the EU’s next enlargement",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "A Team Enlargement coalition of EU member states can drive the changes needed to bring Ukraine and others into the bloc.",
+        "url": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/"
+    },
+    {
+        "id": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/",
+        "source": "European Council on Foreign Relations",
+        "title": "One foot out: Understanding Bulgaria’s geopolitical shift under Radev",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "Rumen Radev is steering Bulgaria towards a more transactional foreign policy. The EU needs to engage with Sofia and push back on such hedging to secure future European cohesion",
+        "url": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
+        "source": "NPR Politics",
+        "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "The former special counsel led two criminal investigations of President Trump and has been a frequent target of Trump's ire on social media.",
+        "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
+        "source": "NPR Politics",
+        "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "After a Saudi nuclear power deal raised alarm in Israel, President Trump announced online that the arrangement is subject to the kingdom normalizing relations with Israel through the Abraham Accords.",
+        "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran"
     },
     {
         "id": "https://www.npr.org/2026/07/23/nx-s1-5896335/black-voters-republican-redistricting",
@@ -81,57 +126,93 @@
         "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/5985242-nearly-1-6-million-eggs-recalled-over-salmonella-concerns-full-list-of-products-impacted/",
-        "source": "The Hill",
-        "title": "Nearly 1.6 million eggs recalled over salmonella concerns: Full list of products impacted",
+        "id": "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-briefing-as-u-s-reaches-deal-with-saudi-arabia-on-nuclear-program",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: White House holds briefing as U.S. reaches deal with Saudi Arabia on nuclear program",
+        "publicationDate": "2026-07-23",
+        "category": "Donald Trump news",
+        "summary": "Nonproliferation experts have raised concerns that the deal fails to include guardrails to prevent enrichment of uranium to weapons-grade levels.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-briefing-as-u-s-reaches-deal-with-saudi-arabia-on-nuclear-program"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/health/watch-live-fda-advisory-panel-considers-use-of-peptides",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: FDA advisory panel considers use of peptides",
         "publicationDate": "2026-07-23",
         "category": "Healthcare",
-        "summary": "Both white and cage-free brown eggs are impacted.",
-        "url": "https://thehill.com/policy/healthcare/5985242-nearly-1-6-million-eggs-recalled-over-salmonella-concerns-full-list-of-products-impacted/"
+        "summary": "Health advisers begin meeting Thursday to review more than a half-dozen peptides, unproven substances that have become a growing wellness trend despite little evidence they are safe or effective.",
+        "url": "https://www.pbs.org/newshour/health/watch-live-fda-advisory-panel-considers-use-of-peptides"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5985219-rubio-trump-us-military-iran-war-strategy/",
+        "id": "https://thehill.com/homenews/house/5986093-republicans-join-democrats-war-resolution/",
         "source": "The Hill",
-        "title": "Rubio: Trump military policy for Iran is 'head for an eye'",
+        "title": "These are the Republicans who voted for the Iran War Powers resolution",
         "publicationDate": "2026-07-23",
         "category": "Defense",
-        "summary": "Secretary of State Marco Rubio warned early Thursday that President Trump is prepared to direct an outsized military response to Iranian aggression as the two sides continue to exchange fire nearly five months into the conflict. Rubio responded to Iranian Foreign Minister Abbas Araghchi’s statement that Tehran’s policy is an “eye for an eye” in...",
-        "url": "https://thehill.com/homenews/administration/5985219-rubio-trump-us-military-iran-war-strategy/"
+        "summary": "Four Republican lawmakers in the U.S. House voted on Thursday to approve a war powers resolution to place pressure on the Trump administration to wind down its military operations against Iran. This symbolic vote, which does not carry the force of law, reflects growing discontent within the Republican Party over President Trump’s handling of the...",
+        "url": "https://thehill.com/homenews/house/5986093-republicans-join-democrats-war-resolution/"
     },
     {
-        "id": "https://thehill.com/opinion/international/5983573-rubio-make-americas-great-again/",
+        "id": "https://thehill.com/opinion/congress-blog/5983782-legislative-privilege-constitutional-intent/",
         "source": "The Hill",
-        "title": "The Americas' common agenda has a clear voice: Marco Rubio",
+        "title": "How far can Congress take its inherent contempt powers?",
+        "publicationDate": "2026-07-23",
+        "category": "Congress Blog",
+        "summary": "In this age of original intent, surely it means something that the people who wrote the document intended to deny Congress the authority to summarily punish third parties.",
+        "url": "https://thehill.com/opinion/congress-blog/5983782-legislative-privilege-constitutional-intent/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5984908-live-updates-trump-iran-houthis-blanche-vote/",
+        "source": "The Hill",
+        "title": "Live updates: Leavitt holds press briefing; House OKs war powers resolution",
         "publicationDate": "2026-07-23",
         "category": "Foreign Policy",
-        "summary": "In recent history, hardly anyone else at the highest administration level has a better knowledge and understanding of the Western Hemisphere.",
-        "url": "https://thehill.com/opinion/international/5983573-rubio-make-americas-great-again/"
+        "summary": "President Trump is threatening to intensify the war with Iran as some Republican lawmakers urge him to \"finish the job,\" but there is also widespread skepticism on Capitol Hill on both sides of the aisle about whether he can deliver a victory. The House narrowly approved a Democratic-sponsored war powers resolution with the help of...",
+        "url": "https://thehill.com/homenews/administration/5984908-live-updates-trump-iran-houthis-blanche-vote/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/data-nerds/5985252-arizona-primary-battleground-states-2026-midterms-live-discussion/",
+        "id": "https://thehill.com/homenews/senate/5986013-warren-questions-fbi-background-checks/",
         "source": "The Hill",
-        "title": "Arizona's primary results sharpen focus on midterm battlegrounds: Live discussion",
+        "title": "Senate panel vote on Trump nominees derailed after Warren raises background check concerns",
         "publicationDate": "2026-07-23",
-        "category": "Data Nerds",
-        "summary": "Arizona’s primary results on Tuesday night are putting new attention on the state's governor’s race and a key House battleground. Meanwhile, a look at Senate race developments in Michigan and Maine. Plus, why Wisconsin’s governor race could become another key 2026 contest. Join The Hill’s senior vice president of editorial content, Bill Sammon, and Decision Desk...",
-        "url": "https://thehill.com/homenews/campaign/data-nerds/5985252-arizona-primary-battleground-states-2026-midterms-live-discussion/"
+        "category": "Economy",
+        "summary": "Lawmakers on the Senate Banking Committee on Thursday took the unusual step of delaying a public hearing to consider three of President Trump’s nominees, after Sen. Elizabeth Warren (D-Mass.) said their FBI background checks raised “significant questions.” The Banking panel had a 10 a.m. hearing scheduled to consider the nominations of Christopher Phelan to chair...",
+        "url": "https://thehill.com/homenews/senate/5986013-warren-questions-fbi-background-checks/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5985177-trump-threatens-iran-houthi-attacks/",
+        "id": "https://thehill.com/homenews/senate/5985916-thune-senate-budget-resolution-reconciliation/",
         "source": "The Hill",
-        "title": "Trump says he'll hold Iran responsible for future Houthi attacks on ships",
+        "title": "Thune: ‘I can’t count to 50’ GOP votes on reconciliation 3.0 framework",
+        "publicationDate": "2026-07-23",
+        "category": "Economy",
+        "summary": "Senate Majority Leader John Thune (R-S.D.) said Thursday the votes aren’t there in the Senate to advance a House-passed budget resolution that would pave the way for a $95 billion reconciliation bill to fund the war in Iran, farm aid and election-related reforms. “As I’ve said before you got to get to 50, and I...",
+        "url": "https://thehill.com/homenews/senate/5985916-thune-senate-budget-resolution-reconciliation/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/23/us/politics/israel-saudi-arabia-us-nuclear-deal.html",
+        "source": "New York Times Politics",
+        "title": "Israel Welcomes Trump’s Demand for Diplomatic Ties With Saudi Arabia",
+        "publicationDate": "2026-07-23",
+        "category": "Israel",
+        "summary": "Israeli officials greeted the possibility of normalized ties, but analysts said the U.S.-Saudi nuclear deal nonetheless remained bad for Israel. Prime Minister Benjamin Netanyahu has not yet commented on the agreement.",
+        "url": "https://www.nytimes.com/2026/07/23/us/politics/israel-saudi-arabia-us-nuclear-deal.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html",
+        "source": "New York Times Politics",
+        "title": "House Again Rebukes Trump on Iran War Powers Vote",
         "publicationDate": "2026-07-23",
         "category": "Foreign Policy",
-        "summary": "President Trump said Thursday he will “hold Iran responsible” if Yemen’s Houthi rebels launch additional attacks on ships, after the group said its forces struck a pair of Saudi Arabian oil tankers in the Red Sea. “A year ago the United States of America attacked, very powerfully, the Houthis, for their interference with commerce and...",
-        "url": "https://thehill.com/homenews/administration/5985177-trump-threatens-iran-houthi-attacks/"
+        "summary": "For the second time, a few Republicans joined Democrats to back a measure calling on the president to seek authorization for the conflict.",
+        "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html",
         "source": "New York Times Politics",
-        "title": "Trump says Saudi Arabia must join the pact that normalizes relations with Israel.",
+        "title": "As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords",
         "publicationDate": "2026-07-23",
         "category": "Saudi Arabia",
-        "summary": "The president’s new condition could create a roadblock to the Saudi nuclear deal his administration announced this week.",
+        "summary": "The president’s new condition could create a roadblock to the agreement his administration announced this week.",
         "url": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html"
     },
     {
@@ -153,22 +234,22 @@
         "url": "https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/22/us/politics/amish-shah-arizona-house-democrats.html",
-        "source": "New York Times Politics",
-        "title": "Amish Shah Wins Democratic Primary in Swing Arizona House District",
+        "id": "https://www.washingtonpost.com/politics/2026/07/23/prosecutors-struggle-turn-voter-fraud-claims-into-criminal-charges/",
+        "source": "Washington Post Politics",
+        "title": "Prosecutors struggle to turn voter fraud claims into criminal charges",
         "publicationDate": "2026-07-23",
-        "category": "Arizona",
-        "summary": "Dr. Amish Shah, who beat the choice of the party’s House campaign arm, will face Jay Feely, a Republican, in a battleground district that covers parts of Phoenix.",
-        "url": "https://www.nytimes.com/2026/07/22/us/politics/amish-shah-arizona-house-democrats.html"
+        "category": "Other",
+        "summary": "Many leads turn out to be innocuous or accidental, lacking evidence of malicious intent.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/23/prosecutors-struggle-turn-voter-fraud-claims-into-criminal-charges/"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/22/us/politics/jack-smith-jim-jordan-charges.html",
-        "source": "New York Times Politics",
-        "title": "Republican Lawmaker Urges Charges Against Jack Smith",
+        "id": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/",
+        "source": "Washington Post Politics",
+        "title": "House passes measure to restrain Trump on Iran",
         "publicationDate": "2026-07-23",
-        "category": "United States Politics and Government",
-        "summary": "The criminal referral could provide a catalyst for a prosecution of Mr. Smith, who as special counsel became a top target of the president’s retribution campaign.",
-        "url": "https://www.nytimes.com/2026/07/22/us/politics/jack-smith-jim-jordan-charges.html"
+        "category": "Defense",
+        "summary": "The vote marks the first test of Republican support for the conflict since President Donald Trump resumed military strikes against Tehran this month.",
+        "url": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/23/trump-adds-condition-nuclear-deal-with-saudi-arabia-throwing-pact-into-doubt/",
@@ -176,7 +257,7 @@
         "title": "Trump adds condition to nuclear deal with Saudi Arabia, throwing pact into doubt",
         "publicationDate": "2026-07-23",
         "category": "Other",
-        "summary": "Saudi Arabia would need to normalize relations with Israel as a condition of a nuclear deal with the U.S., President Donald Trump said.",
+        "summary": "Saudi Arabia would need to normalize relations with Israel as a condition of a nuclear deal with the United States, President Donald Trump said.",
         "url": "https://www.washingtonpost.com/politics/2026/07/23/trump-adds-condition-nuclear-deal-with-saudi-arabia-throwing-pact-into-doubt/"
     },
     {
@@ -189,6 +270,15 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/22/takeaways-arizona-primaries-republican-2020-election-deniers-advance/"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Oil prices hit $100 for the first time since May",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Saudis must recognise Israel for nuclear deal, says Trump",
@@ -196,15 +286,6 @@
         "category": "Other",
         "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
         "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
-        "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
@@ -216,6 +297,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
@@ -225,49 +315,13 @@
         "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
-        "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/3d5544cd-a1e5-4a33-8db5-1e95fbf17def?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/bfc7b491-e553-4686-9531-a07b14a4d4b9?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Trump throws controversial US-Saudi Arabia nuclear pact into doubt",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "Also in today’s newsletter, where is the US keeping $13bn of Venezuela’s oil money?",
-        "url": "https://www.ft.com/content/3d5544cd-a1e5-4a33-8db5-1e95fbf17def?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/50793b37-e310-4d38-8f8d-4a2bdb5ee91a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump says Saudi nuclear deal depends on relations with Israel",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "Crown prince has insisted any rapprochement with Israel would depend on steps towards establishing Palestinian state",
-        "url": "https://www.ft.com/content/50793b37-e310-4d38-8f8d-4a2bdb5ee91a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "ECB holds interest rates at 2.25% after debating rise",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "Some members of governing council ‘asked themselves whether we should not consider a hike’",
-        "url": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Oil price surge drives global bond sell-off",
+        "title": "Hundreds settle with HMRC as crypto tax crackdown continues",
         "publicationDate": "2026-07-23",
         "category": "Economy",
-        "summary": "Brent crude’s rise to $100 threatens a prolonged surge in inflation and resetting interest rate expectations",
-        "url": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1"
+        "summary": "International reporting rules make it harder for investors to conceal gains",
+        "url": "https://www.ft.com/content/bfc7b491-e553-4686-9531-a07b14a4d4b9?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
@@ -275,17 +329,35 @@
         "title": "Oil hits $100 for first time since May",
         "publicationDate": "2026-07-23",
         "category": "Other",
-        "summary": "Attack by Houthis on Saudi Arabian tankers in Red Sea threatens further squeeze on energy supplies",
+        "summary": "Attack by Houthis on Saudi Arabian tankers combines with disappointing tech earnings to spark Wall Street stock sell-off",
         "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1"
     },
     {
-        "id": "IF13257",
-        "source": "Congressional Research Service",
-        "title": "The Role of U.S. In Situ Ocean Observation Networks: A Case Study of the Atlantic Meridional Overturning Circulation",
-        "publicationDate": "2026-07-22",
+        "id": "https://www.ft.com/content/c678eda2-9749-4c8b-8f25-21bcbf5d1acb?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Apple revives automotive ambitions with Ford deal for in-car software",
+        "publicationDate": "2026-07-23",
+        "category": "Technology",
+        "summary": "iPhone maker’s new technology comes two years after ending its own efforts to build an electric vehicle",
+        "url": "https://www.ft.com/content/c678eda2-9749-4c8b-8f25-21bcbf5d1acb?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/393e363c-a5ef-488b-9c7e-2a3e0d631125?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Palestinian economy on ‘cliff edge’ as Israeli banks cut ties",
+        "publicationDate": "2026-07-23",
         "category": "Economy",
-        "summary": "A climate tipping point generally refers to a “critical threshold” in an Earth system that when crossed can cause the system to shift into a new state. Scientists contend that crossing a tipping point may result in a new long-term or permanent state from which the system may be unable to rebound, even if the trigger for crossing the threshold is reversed. One potential tipping point is the “collapse” (i.e.,...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13257/IF13257.2.pdf"
+        "summary": "Move follows years of attempts by Israel’s far-right government to fatally undermine Palestinian Authority",
+        "url": "https://www.ft.com/content/393e363c-a5ef-488b-9c7e-2a3e0d631125?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/fff19dd8-4c7e-4120-a282-0cdf77c56d71",
+        "source": "Financial Times World",
+        "title": "Trump administration’s dealing in companies is on shaky ground",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Clearer rules are needed for when the US government takes equity stakes",
+        "url": "https://www.ft.com/content/fff19dd8-4c7e-4120-a282-0cdf77c56d71"
     },
     {
         "id": "https://www.hudson.org/defense-strategy/ukraine-military-situation-report-july-22-can-kasapoglu",
@@ -387,24 +459,6 @@
         "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation"
     },
     {
-        "id": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal",
-        "source": "NPR Politics",
-        "title": "Trump administration signs commercial nuclear deal with Saudi Arabia",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "The agreement gives American companies priority access to nuclear reactors and fuel to Saudi Arabia. It's expected to last decades and be worth billions of dollars.",
-        "url": "https://www.npr.org/2026/07/22/nx-s1-5903293/trump-saudi-arabia-nuclear-deal"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers",
-        "source": "NPR Politics",
-        "title": "People are watching the Reflecting Pool like reality TV. What does that say about us?",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "It's not just watching paint dry. The twists and turns of the Reflecting Pool repairs, originally a two-week project, have kept bloggers and viewers busy all summer.",
-        "url": "https://www.npr.org/2026/07/22/nx-s1-5897383/dc-reflecting-pool-saga-influencers"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/house-votes-to-adopt-department-of-war-renaming-as-part-of-annual-defense-bill",
         "source": "PBS NewsHour Politics",
         "title": "House votes to adopt Department of War renaming as part of annual defense bill",
@@ -432,24 +486,6 @@
         "url": "https://www.pbs.org/newshour/show/the-implications-of-trump-loyalists-and-election-deniers-winning-gop-primaries"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race",
-        "source": "PBS NewsHour Politics",
-        "title": "Breakthroughs in Chinese AI models threaten U.S. lead in tech race",
-        "publicationDate": "2026-07-22",
-        "category": "AI",
-        "summary": "Breakthroughs in Chinese AI models are sending shockwaves through Washington and Silicon Valley. Chinese companies are narrowing the AI gap despite vast differences in computing power and resources. It comes as the White House is planning to redirect billions in funding from universities to individuals in a bid to accelerate AI innovation. Geoff Bennett discussed more with Amrith Ramkumar.",
-        "url": "https://www.pbs.org/newshour/show/breakthroughs-in-chinese-ai-models-threaten-u-s-lead-in-tech-race"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/this-is-about-the-rule-of-law-u-s-attorney-fired-by-trump-sues-to-overturn-dismissal",
-        "source": "PBS NewsHour Politics",
-        "title": "'This is about the rule of law': U.S. attorney fired by Trump sues to overturn dismissal",
-        "publicationDate": "2026-07-22",
-        "category": "Department of Justice",
-        "summary": "A U.S. attorney in Washington state who was fired by the Trump administration is suing the government over his dismissal. Roger Rogoff was sworn in after a panel of judges unanimously selected him. Less than an hour later, he was fired via email. His lawsuit highlights the legal fight over Trump's power to shape the judiciary. Rogoff joined Justice correspondent Ali Rogin to discuss more.",
-        "url": "https://www.pbs.org/newshour/show/this-is-about-the-rule-of-law-u-s-attorney-fired-by-trump-sues-to-overturn-dismissal"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/",
         "source": "Washington Post Politics",
         "title": "Latest combat deaths show risk has shifted to troops far from Iran’s borders",
@@ -459,22 +495,13 @@
         "url": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/",
-        "source": "Washington Post Politics",
-        "title": "Mamdani says New York doesn’t have authority to arrest Netanyahu, urges feds to act",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "The mayor had said the city might enforce a warrant against the Israeli leader, drawing Democratic criticism. On Tuesday, he urged the U.S. government to do so.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/07/22/gop-retains-cash-lead-ahead-midterms-democrats-narrowed-gap/",
-        "source": "Washington Post Politics",
-        "title": "Democrats chip away at GOP cash lead centered on Trump",
-        "publicationDate": "2026-07-22",
-        "category": "Other",
-        "summary": "Republicans stockpiled money from big donors in national groups heading into the fall campaign season, while individual Democrats have drawn on stronger voter enthusiasm.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/22/gop-retains-cash-lead-ahead-midterms-democrats-narrowed-gap/"
+        "id": "IF10155",
+        "source": "Congressional Research Service",
+        "title": "Somalia",
+        "publicationDate": "2026-07-21",
+        "category": "Defense",
+        "summary": "Instability and humanitarian crises have beset Somalia for decades. After the authoritarian Siad Barre regime fell amid civil war in 1991, the country was widely viewed for years as a “failed state.” The formation of a new federal government in 2012 was a turning point, and Somalia, with international support, made halting progress against a violent Islamist insurgency led by Al Shabaab. Political infighting, clan...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10155/IF10155.17.pdf"
     },
     {
         "id": "IF11556",
@@ -493,15 +520,6 @@
         "category": "Defense",
         "summary": "Every two years, the Federal Emergency Management Agency (FEMA) conducts a National Level Exercise (NLE) to evaluate the nation’s progress toward preparedness for catastrophic events. These exercises have multiple components, and culminate in a large, full-scale exercise with thousands of participants from multiple federal agencies, state, local, tribal, and territorial (SLTT) governments, industry partners, and...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11879/IF11879.5.pdf"
-    },
-    {
-        "id": "R45576",
-        "source": "Congressional Research Service",
-        "title": "An Overview of Small Business Contracting",
-        "publicationDate": "2026-07-21",
-        "category": "Defense",
-        "summary": "Congress has broad authority to impact the federal procurement process and how agencies purchase goods and services from private sector firms. One way in which Congress has exercised this authority is by adopting measures to promote contracts and subcontracts with “small businesses.” This report discusses federal contracting preferences for firms that meet the Small Business Administration’s definition of “small.”...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45576/R45576.36.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
@@ -601,24 +619,6 @@
         "category": "Economy",
         "summary": "Though recent events have made Americans in all parts of the country acutely aware of energy issues, stubbornly high prices in blue states illuminate policy challenges that have become impossible to ignore. Particularly, overly regulated California and New York face persistently high costs due to burdensome state-level energy policies. Residents are paying more because state governments have layered costly climate...",
         "url": "https://www.heritage.org/energy/commentary/the-red-blue-energy-divide-how-overregulation-inflates-prices"
-    },
-    {
-        "id": "https://ecfr.eu/article/the-fallout-of-the-fallout-zelenskys-reshuffle-and-protests-in-ukraine/",
-        "source": "European Council on Foreign Relations",
-        "title": "The fallout of the fallout: Zelensky’s reshuffle and protests in Ukraine",
-        "publicationDate": "2026-07-17",
-        "category": "Defense",
-        "summary": "Zelensky’s outgoing defence minister did not hold back in his criticism of military commanders—and his allegations deserve proper scrutiny",
-        "url": "https://ecfr.eu/article/the-fallout-of-the-fallout-zelenskys-reshuffle-and-protests-in-ukraine/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/lebanon-on-the-brink-of-war-or-peace/",
-        "source": "European Council on Foreign Relations",
-        "title": "Lebanon: On the brink of war or peace?",
-        "publicationDate": "2026-07-17",
-        "category": "Middle East and North Africa",
-        "summary": "Ellie Geranmayeh is joined by Alia Moubayed, Randa Slim and Maha Yahya to discuss what the trilateral framework deal signed by Israel, the US and Lebanon means for the Lebanese stability",
-        "url": "https://ecfr.eu/podcasts/episode/lebanon-on-the-brink-of-war-or-peace/"
     },
     {
         "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
