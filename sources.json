@@ -49,7 +49,7 @@
         "source": "New York Times Politics",
         "title": "Amish Shah Wins Democratic Primary in Swing Arizona House District",
         "publicationDate": "2026-07-23",
-        "category": "United States Politics and Government",
+        "category": "Arizona",
         "summary": "Dr. Amish Shah, who beat the choice of the party’s House campaign arm, will face Jay Feely, a Republican, in a battleground district that covers parts of Phoenix.",
         "url": "https://www.nytimes.com/2026/07/22/us/politics/amish-shah-arizona-house-democrats.html"
     },
@@ -99,13 +99,40 @@
         "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump threatens to destroy Iranian bridges and power plants",
+        "id": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
         "publicationDate": "2026-07-23",
         "category": "Foreign Policy",
-        "summary": "US president’s warning marks latest attempts to assert American control over Strait of Hormuz",
-        "url": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1"
+        "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+        "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/851290c9-b788-4987-a6da-c084d83a6313?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Modi vows ‘swift’ justice for India exam leaks",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Prime minister makes first comments on scandal that triggered protests in Delhi this week",
+        "url": "https://www.ft.com/content/851290c9-b788-4987-a6da-c084d83a6313?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/97055c78-cee8-448f-8c49-db91c1e80763?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "BASF warns EU carbon plans risk accelerating industrial decline",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Also in this newsletter: Death during police arrest fuels security debate in Italy",
+        "url": "https://www.ft.com/content/97055c78-cee8-448f-8c49-db91c1e80763?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/0912c49b-13f1-4421-b52f-e82953cc94ae",
+        "source": "Financial Times World",
+        "title": "A practical problem with Andy Burnham’s postcode power-up plan",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "We need stats, stat",
+        "url": "https://www.ft.com/content/0912c49b-13f1-4421-b52f-e82953cc94ae"
     },
     {
         "id": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926",
@@ -117,31 +144,13 @@
         "url": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926"
     },
     {
-        "id": "https://www.ft.com/content/dc9bfa96-10af-4d22-95f5-0472f07221ed?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/874d9482-dedd-4c53-a6c1-af6f9148bd06?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "DC’s new National Geographic Museum of Exploration is a triumph",
+        "title": "FirstFT: Google burns through $6bn in cash amid AI infrastructure splurge",
         "publicationDate": "2026-07-23",
         "category": "Other",
-        "summary": "The reimagined showcase for the work of the revered society and magazine inspires both childlike wonder at the natural world and a desire to protect it",
-        "url": "https://www.ft.com/content/dc9bfa96-10af-4d22-95f5-0472f07221ed?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/4b9d0e1a-c423-4b14-a7fe-d4988e24c7c0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US and Japan clash over meltdown liability in $40bn nuclear power deal",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "Project is part of Tokyo’s commitment to invest $550bn in return for lower tariffs",
-        "url": "https://www.ft.com/content/4b9d0e1a-c423-4b14-a7fe-d4988e24c7c0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/d9d7ff54-a04c-4d5a-ad70-a249fcd761a4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "New Zealand’s ‘rocket man’ takes on Musk and Bezos",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "Peter Beck’s Rocket Lab builds out internet satellite business to rival Starlink and Amazon Leo",
-        "url": "https://www.ft.com/content/d9d7ff54-a04c-4d5a-ad70-a249fcd761a4?syn-25a6b1a6=1"
+        "summary": "Also in today’s newsletter: Houthis attack two Saudi tankers and Jes Staley on Capitol Hill",
+        "url": "https://www.ft.com/content/874d9482-dedd-4c53-a6c1-af6f9148bd06?syn-25a6b1a6=1"
     },
     {
         "id": "IF13257",
@@ -412,15 +421,6 @@
         "category": "Other",
         "summary": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
         "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-        "publicationDate": "2026-07-22",
-        "category": "Foreign Policy",
-        "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-        "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
