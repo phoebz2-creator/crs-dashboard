@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://ecfr.eu/podcasts/episode/the-china-native-generation/",
+        "source": "European Council on Foreign Relations",
+        "title": "The China-native generation",
+        "publicationDate": "2026-07-24",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Loubna El Amin and Cobus van Staden to explore how younger generations in Africa and the Middle East are shaping perceptions of China, the West and the future",
+        "url": "https://ecfr.eu/podcasts/episode/the-china-native-generation/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/5987673-justice-kagan-defends-supreme-court-rubber-stamp/",
+        "source": "The Hill",
+        "title": "Kagan says Supreme Court is not a ‘rubber stamp’ for Trump",
+        "publicationDate": "2026-07-24",
+        "category": "Court Battles",
+        "summary": "Supreme Court Justice Elena Kagan said Thursday that while the nation’s highest court has a conservative majority, it is not a “rubber stamp” for President Trump despite multiple rulings in his favor in major cases. Speaking at a judicial conference hosted by the 9th U.S. Circuit Court of Appeals, Kagan said the court has maintained...",
+        "url": "https://thehill.com/regulation/court-battles/5987673-justice-kagan-defends-supreme-court-rubber-stamp/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/5987641-memphis-district-split-federal-judges/",
+        "source": "The Hill",
+        "title": "Federal judges allow Tennessee congressional map dividing majority-Black Memphis district",
+        "publicationDate": "2026-07-24",
+        "category": "Campaign",
+        "summary": "A federal judicial panel on Thursday allowed Tennessee to use a new congressional map that divides a majority-Black district in Memphis, rejecting an effort to block the plan ahead of the state’s primary elections in August. A three-judge panel declined to issue a preliminary injunction against the new map, clearing the way for the new...",
+        "url": "https://thehill.com/homenews/campaign/5987641-memphis-district-split-federal-judges/"
+    },
+    {
         "id": "https://thehill.com/newsletters/defense-national-security/5987571-trump-ramps-up-threats-of-major-operations-in-iran/",
         "source": "The Hill",
         "title": "Trump ramps up threats of major operations in Iran",
@@ -29,11 +56,20 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
         "publicationDate": "2026-07-24",
         "category": "Other",
-        "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "summary": "The tariffs target 60 trading partners over claims they failed to properly stop forced labour.",
         "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US hits 60 countries with new duties as Trump rebuilds tariff wall",
+        "publicationDate": "2026-07-24",
+        "category": "Other",
+        "summary": "Administration pins measures on forced labour probe after Supreme Court struck down blanket levies",
+        "url": "https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1",
@@ -45,22 +81,31 @@
         "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/c529dc01-ad31-4f1b-a8df-14eff1e4579b?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/1e18ad77-8ef1-4ed8-891d-a43a901febf7?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Why India’s student protests are different",
+        "title": "FirstFT: US hits 60 countries with new tariffs",
         "publicationDate": "2026-07-24",
         "category": "Other",
-        "summary": "Also in this newsletter: Trump’s new pharmaceutical tariffs",
-        "url": "https://www.ft.com/content/c529dc01-ad31-4f1b-a8df-14eff1e4579b?syn-25a6b1a6=1"
+        "summary": "Also in today’s newsletter: Intel’s revenue jump and oil breaches $100 a barrel",
+        "url": "https://www.ft.com/content/1e18ad77-8ef1-4ed8-891d-a43a901febf7?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/48f0a410-daae-420b-93fc-216c3a2f1184?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/70fcf3e8-1fec-4af8-8fe2-5bc2cd604b21",
         "source": "Financial Times World",
-        "title": "Intel posts fastest growth in 15 years as AI data centres demand fuels sales",
+        "title": "Monetary Policy Radar preview: Federal Reserve’s July meeting",
         "publicationDate": "2026-07-24",
         "category": "Other",
-        "summary": "Chipmaker’s revenue jumped 25% in the second quarter",
-        "url": "https://www.ft.com/content/48f0a410-daae-420b-93fc-216c3a2f1184?syn-25a6b1a6=1"
+        "summary": "The FT’s guide on what to look out for in Wednesday’s session",
+        "url": "https://www.ft.com/content/70fcf3e8-1fec-4af8-8fe2-5bc2cd604b21"
+    },
+    {
+        "id": "https://www.ft.com/content/8bf64e52-3e00-4305-8c1d-afd7e5591055?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Blackstone’s Stephen Schwarzman: ‘Our stock is on sale’",
+        "publicationDate": "2026-07-24",
+        "category": "Other",
+        "summary": "Private capital group’s chief says company’s shares offer cheap exposure to AI",
+        "url": "https://www.ft.com/content/8bf64e52-3e00-4305-8c1d-afd7e5591055?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
@@ -225,6 +270,15 @@
         "url": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/"
     },
     {
+        "id": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
+        "source": "NPR Politics",
+        "title": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "The Justice Department is dropping the subpoenas it filed demanding grand jury testimony and phone records from New York Times journalists after sharp questioning Thursday from a federal judge.",
+        "url": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security"
+    },
+    {
         "id": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
         "source": "NPR Politics",
         "title": "Trump to impose double-digit tariffs on dozens of countries",
@@ -259,15 +313,6 @@
         "category": "Other",
         "summary": "The former special counsel led two criminal investigations of President Trump and has been a frequent target of Trump's ire on social media.",
         "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
-        "source": "NPR Politics",
-        "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "After a Saudi nuclear power deal raised alarm in Israel, President Trump announced online that the arrangement is subject to the kingdom normalizing relations with Israel through the Abraham Accords.",
-        "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran"
     },
     {
         "id": "https://www.pbs.org/newshour/health/watch-live-day-2-of-fda-advisory-panel-meeting-to-consider-use-of-peptides",
@@ -322,24 +367,6 @@
         "category": "Healthcare",
         "summary": "On Thursday, the Food and Drug Administration's (FDA) committee on compounded drugs broke with agency scientists and voted in favor of adding peptides to the list of substances compounding pharmacies can make, despite concerns being raised over the lack of demonstrated benefits. The FDA's Pharmacy Compounding Advisory Committee (PCAC) heard public comments and saw presentations by agency staffers concerning the...",
         "url": "https://thehill.com/homenews/5987510-fda-committee-votes-peptides/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/healthcare/5987482-cassidy-cites-autism-website-change-in-support-of-cdc-nominee/",
-        "source": "The Hill",
-        "title": "Cassidy cites autism website change in support of CDC nominee",
-        "publicationDate": "2026-07-23",
-        "category": "Healthcare",
-        "summary": "Presented by PhRMA {beacon}",
-        "url": "https://thehill.com/newsletters/healthcare/5987482-cassidy-cites-autism-website-change-in-support-of-cdc-nominee/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/5987342-fetterman-calls-mamdani-clown/",
-        "source": "The Hill",
-        "title": "Fetterman labels Mamdani 'clown' over Netanyahu arrest threat",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "Sen. John Fetterman (D-Pa.) on Wednesday called New York City Mayor Zohran Mamdani (D) a \"clown\" for floating the idea of arresting Israeli Prime Minister Benjamin Netanyahu for war crimes allegations. \"You are a mayor, dude,\" Fetterman said about Mamdani in an interview with Fox News's Sean Hannity. \"You’re a mayor. You can fix a...",
-        "url": "https://thehill.com/policy/international/5987342-fetterman-calls-mamdani-clown/"
     },
     {
         "id": "https://www.nytimes.com/2026/07/23/us/politics/elena-kagan-supreme-court-trump.html",
@@ -450,24 +477,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/1fd567d6-1591-4256-8976-95fac46f522b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Sewage discharges flout guidance near 65 beaches in England since May",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "Overflows at bathing sites come as tourists flock to coastal areas for summer holidays",
-        "url": "https://www.ft.com/content/1fd567d6-1591-4256-8976-95fac46f522b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/856296a6-abab-4dba-ac39-9b74f9b137f1?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Sun, football and Burnham push UK consumer confidence higher",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "Survey was conducted in first half of July before new prime minister took office and ahead of latest escalation in US-Iran conflict",
-        "url": "https://www.ft.com/content/856296a6-abab-4dba-ac39-9b74f9b137f1?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/",
         "source": "European Council on Foreign Relations",
         "title": "How better climate diplomacy can save Europe’s green ambitions",
@@ -538,15 +547,6 @@
         "category": "ECFR",
         "summary": "Whether you’re heading off on holiday or staying home this summer, ECFR’s entertainment recommendations—spanning books, podcasts and tv series—will help you reconnect with your internal and external wellbeing",
         "url": "https://ecfr.eu/article/ecfrs-summer-entertainment-list-2026/"
-    },
-    {
-        "id": "https://ecfr.eu/publication/managed-disorder-the-hard-road-to-a-modest-peace-with-russia-after-ukraine/",
-        "source": "European Council on Foreign Relations",
-        "title": "Managed disorder: The hard road to a modest peace with Russia after Ukraine",
-        "publicationDate": "2026-07-21",
-        "category": "Foreign Policy",
-        "summary": "When the fighting in Ukraine stops, America and Europe will likely end up facing Russia in a low-grade rivalry for years to come. Here is how to prevent that disordered rivalry from sliding into another war",
-        "url": "https://ecfr.eu/publication/managed-disorder-the-hard-road-to-a-modest-peace-with-russia-after-ukraine/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4418-1.html",
@@ -630,48 +630,48 @@
         "url": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement"
     },
     {
-        "id": "R43543",
+        "id": "RL34391",
         "source": "Congressional Research Service",
-        "title": "Navy LPD-17 Flight II and LHA Amphibious Ship Programs: Background and Issues for Congress",
-        "publicationDate": "2026-01-12",
+        "title": "Coast Guard Polar Security Cutter (PSC) and Arctic Security Cutter (ASC) Icebreaker Programs: Background and Issues for Congress",
+        "publicationDate": "2026-01-21",
         "category": "Defense",
-        "summary": "The Navy is procuring two types of larger amphibious ships: LHA-type “big-deck” amphibious assault ships and LPD-17 Flight II class amphibious ships. Both types are built by Huntington Ingalls Industries/Ingalls Shipbuilding (HII/Ingalls) of Pascagoula, MS. Four LPD-17 Flight II ships were procured in FY2018-FY2025. The Navy’s FY2026 budget requests the procurement of the fifth LPD-17 Flight II class ship and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43543/R43543.151.pdf"
+        "summary": "The size of the Coast Guard’s polar icebreaker fleet and Coast Guard programs for building new polar icebreakers have been oversight matters for Congress for many years. A 2023 Coast Guard fleet mix analysis concluded that the service will require a total of eight to nine polar icebreakers, including four to five heavy polar icebreakers and four to five medium polar icebreakers, to perform the Coast Guard’s polar...",
+        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL34391/RL34391.298.pdf"
     },
     {
-        "id": "RL32109",
+        "id": "RL32665",
         "source": "Congressional Research Service",
-        "title": "Navy DDG-51 and DDG-1000 Destroyer Programs: Background and Issues for Congress",
-        "publicationDate": "2025-12-05",
+        "title": "Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress",
+        "publicationDate": "2026-01-20",
         "category": "Defense",
-        "summary": "The Arleigh Burke (DDG-51) class destroyer program is one of the longest-running shipbuilding programs in Navy history. The Navy began procuring DDG-51s, also known as Aegis destroyers, in FY1985, and a total of 97 have been procured through FY2025, including three in FY2025. From FY1989 through FY2005, DDG-51s were procured in annual quantities of two to five ships per year. Since FY2010, they have been procured...",
-        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL32109/RL32109.284.pdf"
+        "summary": "The current and future size and composition of the Navy, the annual rate of Navy ship procurement, the prospective affordability of the Navy’s shipbuilding plans, the capacity of the U.S. shipbuilding industry to execute the Navy’s shipbuilding plans, and Navy proposals for retiring existing ships have been oversight matters for the congressional defense committees for many years. Congressional focus on these...",
+        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL32665/RL32665.427.pdf"
     },
     {
-        "id": "RS20643",
+        "id": "R44972",
         "source": "Congressional Research Service",
-        "title": "Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress",
-        "publicationDate": "2025-12-04",
+        "title": "Navy Constellation (FFG-62) and FF(X) Class Frigate Programs: Background and Issues for Congress",
+        "publicationDate": "2026-01-20",
         "category": "Defense",
-        "summary": "The aircraft carriers CVN-78, CVN-79, CVN-80, CVN-81, CVN-82, and CVN-83 are the first six ships in the Navy’s new Gerald R. Ford (CVN-78) class of nuclear-powered aircraft carriers (CVNs). The Navy’s proposed FY2026 budget requests $3,431.6 million (i.e., about $3.4 billion) in advance procurement (AP), procurement, and cost-to-complete (CTC) funding for Ford-class ships, as detailed below. CVN-78 (Gerald R. Ford)...",
-        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS20643/RS20643.302.pdf"
+        "summary": "Constellation (FFG-62) class program. The Navy began procuring Constellation (FFG-62) class frigates in FY2020. Prior to November 2025, Navy plans called for procuring a total of at least 20. Six were procured through FY2025, including one per year in FY2020-FY2023, two in FY2024, and none in FY2025. The Navy’s proposed FY2026 budget did not request the procurement of any additional FFG-62s. FFG-62s are being built...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44972/R44972.136.pdf"
     },
     {
-        "id": "RS22478",
+        "id": "RL33745",
         "source": "Congressional Research Service",
-        "title": "Navy Ship Names: Background for Congress",
-        "publicationDate": "2025-12-04",
+        "title": "Navy Aegis Ballistic Missile Defense (BMD) Program: Background and Issues for Congress",
+        "publicationDate": "2026-01-20",
         "category": "Defense",
-        "summary": "Names for Navy ships traditionally have been chosen and announced by the Secretary of the Navy, under the direction of the President and in accordance with rules prescribed by Congress. Rules for giving certain types of names to certain types of Navy ships have evolved over time. There have been exceptions to the Navy’s ship-naming rules, particularly for the purpose of naming a ship for a person when the rule for...",
-        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS22478/RS22478.298.pdf"
+        "summary": "The Aegis ballistic missile defense (BMD) program, which is carried out by the Missile Defense Agency (MDA) and the Navy, gives Navy Aegis cruisers and destroyers a capability for conducting BMD operations. BMD-capable Aegis ships operate in European waters to defend Europe from potential ballistic missile attacks from countries such as Iran, and in in the Western Pacific and the Persian Gulf to provide regional...",
+        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL33745/RL33745.263.pdf"
     },
     {
-        "id": "R41129",
+        "id": "R45757",
         "source": "Congressional Research Service",
-        "title": "Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress",
-        "publicationDate": "2025-09-25",
+        "title": "Navy Large Unmanned Surface Vessels (USVs): Background and Issues for Congress",
+        "publicationDate": "2026-01-16",
         "category": "Defense",
-        "summary": "The Navy’s Columbia (SSBN-826) class ballistic missile submarine (SSBN) aims to design and build a class of 12 new SSBNs to replace the Navy’s current force of 14 aging Ohio-class SSBNs. Since 2013, the Navy has consistently identified the Columbia-class program as the Navy’s top priority program. The Navy procured the first Columbia-class boat in FY2021 and the second in FY2024. The Navy wants to procure the third...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R41129/R41129.283.pdf"
+        "summary": "Among the Navy’s programs for acquiring unmanned surface vessels (USVs) of various sizes are programs for acquiring large USVs that would be about the size of a large patrol craft, and which would deploy directly from pier rather than from the deck of a crewed Navy warship. Navy plans call for equipping large USVs with weapons and/or sensors or other electronic payloads and operating them in conjunction with crewed...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45757/R45757.82.pdf"
     }
 ]
