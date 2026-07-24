@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/",
+        "source": "European Council on Foreign Relations",
+        "title": "Serbia: Inside the leaderless movement",
+        "publicationDate": "2026-07-24",
+        "category": "Serbia",
+        "summary": "Jessica Hendrick welcomes Igor Bandović and Luka Filipović to discuss Serbia’s biggest protest movement in decades",
+        "url": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/"
+    },
+    {
         "id": "https://ecfr.eu/podcasts/episode/the-china-native-generation/",
         "source": "European Council on Foreign Relations",
         "title": "The China-native generation",
@@ -27,49 +36,58 @@
         "url": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters"
     },
     {
-        "id": "https://thehill.com/opinion/judiciary/5983829-flight-attendants-win-discrimination-lawsuit/",
-        "source": "The Hill",
-        "title": "Union helps employer persecute its own members, then finds out",
-        "publicationDate": "2026-07-24",
-        "category": "Opinions - Judiciary",
-        "summary": "Rather than serve its purpose by standing up for these two members, union leadership joined the airline in its hostility toward their beliefs.",
-        "url": "https://thehill.com/opinion/judiciary/5983829-flight-attendants-win-discrimination-lawsuit/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/morning-report/5987821-donald-trump-senate-republicans-headaches-midterms-save-america-act/",
-        "source": "The Hill",
-        "title": "Disgruntled Senate GOP causes headaches for Trump",
-        "publicationDate": "2026-07-24",
-        "category": "Morning Report",
-        "summary": "In today's issue: ▪ Trump faces roadblocks in Senate ▪ Mixed war powers votes ▪ Saudi Arabia nuclear deal confusion ▪ Google receives major EU fine President Trump’s damaged relationship with Senate Republicans is obstructing his agenda in what could be the final months of full GOP control during his second term. The House left town on...",
-        "url": "https://thehill.com/newsletters/morning-report/5987821-donald-trump-senate-republicans-headaches-midterms-save-america-act/"
-    },
-    {
-        "id": "https://thehill.com/opinion/campaign/5986159-trump-authoritarian-midterm-tactics/",
-        "source": "The Hill",
-        "title": "Trump's authoritarian midterm tactics",
-        "publicationDate": "2026-07-24",
-        "category": "Opinions - Campaign",
-        "summary": "Trump is undermining faith in our elections long before the voting begins.",
-        "url": "https://thehill.com/opinion/campaign/5986159-trump-authoritarian-midterm-tactics/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/5987397-openai-hugging-face-hack/",
-        "source": "The Hill",
-        "title": "OpenAI’s breach of Hugging Face stokes fears about what’s next for AI",
+        "id": "https://www.pbs.org/newshour/nation/democrats-seize-on-ai-data-center-backlash-thats-dividing-rural-republicans-in-places-like-texas",
+        "source": "PBS NewsHour Politics",
+        "title": "Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas",
         "publicationDate": "2026-07-24",
         "category": "Defense",
-        "summary": "Washington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology start-up Hugging Face. The incident bore out years of warnings from the tech and cybersecurity community about the growing capabilities and hypothetical risks artificial intelligence could...",
-        "url": "https://thehill.com/policy/technology/5987397-openai-hugging-face-hack/"
+        "summary": "When Gina Hinojosa, the Democratic nominee for Texas governor, began her campaign last year, candidates weren't talking about — or hearing about — data centers that power artificial intelligence.",
+        "url": "https://www.pbs.org/newshour/nation/democrats-seize-on-ai-data-center-backlash-thats-dividing-rural-republicans-in-places-like-texas"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5987225-democrats-democratic-socialists-midterms/",
+        "id": "https://thehill.com/opinion/national-security/5984821-burnham-government-military-funding/",
         "source": "The Hill",
-        "title": "Democrats brush off fears within party about threat of democratic socialists",
+        "title": "Will John Healey fund the UK defense increases he previously demanded?",
         "publicationDate": "2026-07-24",
-        "category": "Campaign",
-        "summary": "Democrats in the House and Senate are pushing back at any idea their party is in trouble because of a debate between the left and center over its direction, saying wins by democratic socialists in primaries don’t mean the party is being taken over. While divisions over Israel in particular are pitting Democrats against one...",
-        "url": "https://thehill.com/homenews/campaign/5987225-democrats-democratic-socialists-midterms/"
+        "category": "Defense",
+        "summary": "Healey has moved from defense minister seeking an increase in his agency's budget to leading the ministry that traditionally pushes for reductions in defense spending.",
+        "url": "https://thehill.com/opinion/national-security/5984821-burnham-government-military-funding/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/5988248-doge-initiative-shut-down/",
+        "source": "The Hill",
+        "title": "Musk on his involvement in politics: 'I got carried away'",
+        "publicationDate": "2026-07-24",
+        "category": "Technology",
+        "summary": "Tech mogul Elon Musk reflected on his brief venture into politics in a new interview released Thursday, suggesting he \"got carried away.\" \"I think I got a little too involved in politics,\" the Tesla and SpaceX CEO told The Economist. \"I got carried away frankly.\" Musk took an increased interest in politics amid the 2024...",
+        "url": "https://thehill.com/policy/technology/5988248-doge-initiative-shut-down/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/5987311-retirees-health-insurance-long-term-care-fidelity-study/",
+        "source": "The Hill",
+        "title": "Retirees may need $185K for healthcare, Fidelity estimates",
+        "publicationDate": "2026-07-24",
+        "category": "Healthcare",
+        "summary": "The new estimate from Fidelity Investments is up 7.5% from a year ago.",
+        "url": "https://thehill.com/policy/healthcare/5987311-retirees-health-insurance-long-term-care-fidelity-study/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/5988157-trump-ally-supports-ukraine/",
+        "source": "The Hill",
+        "title": "Loomer meets Zelensky after turnaround on war",
+        "publicationDate": "2026-07-24",
+        "category": "Defense",
+        "summary": "Far-right influencer Laura Loomer met with Ukrainian President Volodymyr Zelensky on Thursday after publicly reversing her long-held and outspoken opposition to backing Ukraine in its war with Russia, expressing support for the country in a visit to Kyiv. Loomer, who is a loyal ally of President Trump, has frequently criticized U.S. military aid to Ukraine...",
+        "url": "https://thehill.com/policy/international/5988157-trump-ally-supports-ukraine/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/5986855-glp-1-drugs-sick-leave-use-reduction-economic-study/",
+        "source": "The Hill",
+        "title": "GLP-1 drugs could reduce long-term sick leave: Study",
+        "publicationDate": "2026-07-24",
+        "category": "Healthcare",
+        "summary": "Based on Danish data, the study found those on GLP-1s had 17% less long-term absences.",
+        "url": "https://thehill.com/policy/healthcare/5986855-glp-1-drugs-sick-leave-use-reduction-economic-study/"
     },
     {
         "id": "https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html",
@@ -144,6 +162,15 @@
         "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+        "publicationDate": "2026-07-24",
+        "category": "Other",
+        "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
@@ -153,49 +180,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/43c3d467-db73-44d8-b3a5-0a829268181b",
+        "id": "https://www.ft.com/content/a39adcc1-44fb-40e0-92b9-30d769f8e4ca?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Is a second home in New York or London more trouble than it’s worth?",
-        "publicationDate": "2026-07-24",
-        "category": "Economy",
-        "summary": "New York’s new tax on second homes is prompting owners to rethink. Are these city pads still worth it? It’s a question that those in London have long been asking",
-        "url": "https://www.ft.com/content/43c3d467-db73-44d8-b3a5-0a829268181b"
-    },
-    {
-        "id": "https://www.ft.com/content/2c473393-35fb-479d-8bba-236a1a98087c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump tracker: the latest data on US tariffs, trade and economy",
-        "publicationDate": "2026-07-24",
-        "category": "Economy",
-        "summary": "Follow the latest impact of tariffs amid the president’s ongoing trade war",
-        "url": "https://www.ft.com/content/2c473393-35fb-479d-8bba-236a1a98087c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1e18ad77-8ef1-4ed8-891d-a43a901febf7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: US hits 60 countries with new tariffs",
+        "title": "Carmakers are the rare example of tariffs as the least bad option",
         "publicationDate": "2026-07-24",
         "category": "Other",
-        "summary": "Also in today’s newsletter: Intel’s revenue jump and oil breaches $100 a barrel",
-        "url": "https://www.ft.com/content/1e18ad77-8ef1-4ed8-891d-a43a901febf7?syn-25a6b1a6=1"
+        "summary": "Protectionism is rarely cost-free but the profitability of US auto groups shows why the allure of tariffs persists",
+        "url": "https://www.ft.com/content/a39adcc1-44fb-40e0-92b9-30d769f8e4ca?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/3db2e890-a9e9-42f4-9c9c-0f5ecf7ac621",
         "source": "Financial Times World",
-        "title": "Wildfires force evacuation of Cap Ferret resort on Atlantic coast",
+        "title": "Zooming in on UK growth",
         "publicationDate": "2026-07-24",
         "category": "Other",
-        "summary": "Tens of thousands ordered to safety in France and Spain as fires rage in summer of extreme heat",
-        "url": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1"
+        "summary": "Maps power",
+        "url": "https://www.ft.com/content/3db2e890-a9e9-42f4-9c9c-0f5ecf7ac621"
     },
     {
-        "id": "https://www.ft.com/content/886d5a1b-f195-4966-9cc3-364ee09a1343?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/1dcd935a-45ce-42ba-a6b0-6994eae1cb86?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Hong Kong stock exchange relaxes listing rules to compete with US rivals",
+        "title": "In praise of the free flow of human ingenuity",
         "publicationDate": "2026-07-24",
         "category": "Other",
-        "summary": "Global competitiveness drive comes despite bourse being increasingly dominated by Chinese companies",
-        "url": "https://www.ft.com/content/886d5a1b-f195-4966-9cc3-364ee09a1343?syn-25a6b1a6=1"
+        "summary": "Apple is suing OpenAI for alleged theft but Silicon Valley is founded on the exchange of ideas",
+        "url": "https://www.ft.com/content/1dcd935a-45ce-42ba-a6b0-6994eae1cb86?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/07e7e839-6d7c-4da3-a207-de5bbfb67746?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Submit your questions: Has the market lost its mind over AI?",
+        "publicationDate": "2026-07-24",
+        "category": "Other",
+        "summary": "Take part in a live Ask an Expert Q&A with Lex head John Foley and tech comment editor Elaine Moore on Thursday July 30 at 1pm (BST)",
+        "url": "https://www.ft.com/content/07e7e839-6d7c-4da3-a207-de5bbfb67746?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1a98a3e5-34f3-4bb6-936a-241ab72aaeed?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "When a president’s thoughts are for sale",
+        "publicationDate": "2026-07-24",
+        "category": "Other",
+        "summary": "Trump is openly monetising privileged access to his musings",
+        "url": "https://www.ft.com/content/1a98a3e5-34f3-4bb6-936a-241ab72aaeed?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
@@ -423,15 +450,6 @@
         "url": "https://www.pbs.org/newshour/show/trump-threatens-major-military-punishment-after-houthi-attacks-on-tankers-in-red-sea"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/former-u-s-diplomat-breaks-down-houthi-attacks-on-red-sea-shipping",
-        "source": "PBS NewsHour Politics",
-        "title": "Former U.S. diplomat breaks down Houthi attacks on Red Sea shipping",
-        "publicationDate": "2026-07-23",
-        "category": "Donald Trump news",
-        "summary": "For perspective on the Houthis' efforts to block shipping in the Red Sea, Amna Nawaz spoke with Timothy Lenderking. During his decades-long career as a U.S. diplomat, he served as special envoy to Yemen and as acting assistant secretary for Near East Affairs. He's now at the law firm Squire Patton Boggs.",
-        "url": "https://www.pbs.org/newshour/show/former-u-s-diplomat-breaks-down-houthi-attacks-on-red-sea-shipping"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/",
         "source": "Washington Post Politics",
         "title": "House votes to limit Trump on Iran; Senate fails to advance similar measure",
@@ -457,15 +475,6 @@
         "category": "Other",
         "summary": "Rep. Andy Biggs, who voted to overturn the 2020 election results, won the GOP nomination for governor. Among Democrats, a left-wing challenger failed to unseat Rep. Greg Stanton.",
         "url": "https://www.washingtonpost.com/politics/2026/07/22/takeaways-arizona-primaries-republican-2020-election-deniers-advance/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/",
@@ -538,15 +547,6 @@
         "category": "Foreign Policy",
         "summary": "Praise is due to a recent Trump administration push to nail immigration lawyers for the broadly undeterred crime of running mass asylum fraud schemes, which have let huge volumes of ineligible illegal aliens into the country. The asylum system has long acted as a powerful magnet for aspiring illegal border crossers and visa overstayers, because, until President Donald Trump sharply curtailed its use, merely...",
         "url": "https://www.heritage.org/border-security/commentary/should-be-the-next-enforcement-tool-secure-americas-borders"
-    },
-    {
-        "id": "https://ecfr.eu/article/ecfrs-summer-entertainment-list-2026/",
-        "source": "European Council on Foreign Relations",
-        "title": "ECFR’s summer entertainment list 2026",
-        "publicationDate": "2026-07-21",
-        "category": "ECFR",
-        "summary": "Whether you’re heading off on holiday or staying home this summer, ECFR’s entertainment recommendations—spanning books, podcasts and tv series—will help you reconnect with your internal and external wellbeing",
-        "url": "https://ecfr.eu/article/ecfrs-summer-entertainment-list-2026/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4418-1.html",
@@ -630,48 +630,48 @@
         "url": "https://www.cer.eu/media/cer-podcast-unpacking-europe-path-eu-enlargement"
     },
     {
-        "id": "R44972",
+        "id": "RS20643",
         "source": "Congressional Research Service",
-        "title": "Navy Constellation (FFG-62) and FF(X) Class Frigate Programs: Background and Issues for Congress",
-        "publicationDate": "2026-01-20",
+        "title": "Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress",
+        "publicationDate": "2025-12-04",
         "category": "Defense",
-        "summary": "Constellation (FFG-62) class program. The Navy began procuring Constellation (FFG-62) class frigates in FY2020. Prior to November 2025, Navy plans called for procuring a total of at least 20. Six were procured through FY2025, including one per year in FY2020-FY2023, two in FY2024, and none in FY2025. The Navy’s proposed FY2026 budget did not request the procurement of any additional FFG-62s. FFG-62s are being built...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44972/R44972.136.pdf"
+        "summary": "The aircraft carriers CVN-78, CVN-79, CVN-80, CVN-81, CVN-82, and CVN-83 are the first six ships in the Navy’s new Gerald R. Ford (CVN-78) class of nuclear-powered aircraft carriers (CVNs). The Navy’s proposed FY2026 budget requests $3,431.6 million (i.e., about $3.4 billion) in advance procurement (AP), procurement, and cost-to-complete (CTC) funding for Ford-class ships, as detailed below. CVN-78 (Gerald R. Ford)...",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS20643/RS20643.302.pdf"
     },
     {
-        "id": "RL33745",
+        "id": "RS22478",
         "source": "Congressional Research Service",
-        "title": "Navy Aegis Ballistic Missile Defense (BMD) Program: Background and Issues for Congress",
-        "publicationDate": "2026-01-20",
+        "title": "Navy Ship Names: Background for Congress",
+        "publicationDate": "2025-12-04",
         "category": "Defense",
-        "summary": "The Aegis ballistic missile defense (BMD) program, which is carried out by the Missile Defense Agency (MDA) and the Navy, gives Navy Aegis cruisers and destroyers a capability for conducting BMD operations. BMD-capable Aegis ships operate in European waters to defend Europe from potential ballistic missile attacks from countries such as Iran, and in in the Western Pacific and the Persian Gulf to provide regional...",
-        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL33745/RL33745.263.pdf"
+        "summary": "Names for Navy ships traditionally have been chosen and announced by the Secretary of the Navy, under the direction of the President and in accordance with rules prescribed by Congress. Rules for giving certain types of names to certain types of Navy ships have evolved over time. There have been exceptions to the Navy’s ship-naming rules, particularly for the purpose of naming a ship for a person when the rule for...",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS22478/RS22478.298.pdf"
     },
     {
-        "id": "R45757",
+        "id": "R41909",
         "source": "Congressional Research Service",
-        "title": "Navy Large Unmanned Surface Vessels (USVs): Background and Issues for Congress",
-        "publicationDate": "2026-01-16",
+        "title": "Multiyear Procurement (MYP) and Block Buy Contracting in Defense Acquisition: Background and Issues for Congress",
+        "publicationDate": "2025-12-04",
         "category": "Defense",
-        "summary": "Among the Navy’s programs for acquiring unmanned surface vessels (USVs) of various sizes are programs for acquiring large USVs that would be about the size of a large patrol craft, and which would deploy directly from pier rather than from the deck of a crewed Navy warship. Navy plans call for equipping large USVs with weapons and/or sensors or other electronic payloads and operating them in conjunction with crewed...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45757/R45757.82.pdf"
+        "summary": "Multiyear procurement (MYP) and block buy contracting (BBC) are special contracting mechanisms that Congress permits the Department of Defense (DOD) to use for a limited number of defense acquisition programs. Compared to the standard or default approach of annual contracting, MYP and BBC have the potential for reducing weapon procurement costs by a few or several percent, and for providing a more stable or...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R41909/R41909.145.pdf"
     },
     {
-        "id": "R42567",
+        "id": "IF11838",
         "source": "Congressional Research Service",
-        "title": "Coast Guard Cutter Procurement: Background and Issues for Congress",
-        "publicationDate": "2026-01-13",
+        "title": "Navy TAGOS-25 Ocean Surveillance Shipbuilding Program: Background and Issues for Congress",
+        "publicationDate": "2025-07-24",
         "category": "Defense",
-        "summary": "The Coast Guard is procuring a combination of National Security Cutters (NSCs), Offshore Patrol Cutters (OPCs) and Fast Response Cutters (FRCs) as replacements for 90 earlier-generation Coast Guard high-endurance cutters, medium-endurance cutters, and patrol craft, respectively. National Security Cutters are the Coast Guard’s largest and most capable general-purpose cutters; they replaced the Coast Guard’s 12...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42567/R42567.183.pdf"
+        "summary": "Introduction The Navy in FY2022 procured the first of a planned class of seven new TAGOS-25 class ocean surveillance ships. The Navy’s proposed FY2026 budget requests $612.2 million for the procurement of the second ship in the class. Meaning of TAGOS Designation In the designation TAGOS (also written as T-AGOS), the T means the ships are operated by the Military Sealift Command (MSC); the A means they are...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11838/IF11838.40.pdf"
     },
     {
-        "id": "IF10484",
+        "id": "IF11826",
         "source": "Congressional Research Service",
-        "title": "Defense Primer: Department of the Navy",
-        "publicationDate": "2025-07-07",
+        "title": "Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress",
+        "publicationDate": "2025-07-14",
         "category": "Defense",
-        "summary": "One Military Department with Two Military Services The Department of the Navy (DON) is a single military department that includes two military services—the Navy and the Marine Corps. As such, DON has a single civilian leader, the Secretary of the Navy, and two four-star military service chiefs—an admiral whose title is the Chief of Naval Operations (CNO), and a general whose title is the Commandant of the Marine...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10484/IF10484.50.pdf"
+        "summary": "Introduction The Navy has been procuring Virginia-class nuclear powered attack submarines (SSNs) since FY1998. The Navy’s envisaged successor to the Virginia-class design is the Next-Generation Attack Submarine, or SSN(X). The Navy’s FY2025 budget submission deferred the envisaged procurement of the first SSN(X) from FY2035 to FY2040 due, the Navy stated, to limitations on the Navy’s total budget. The Navy’s...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11826/IF11826.42.pdf"
     }
 ]
