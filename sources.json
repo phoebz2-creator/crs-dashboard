@@ -1,5 +1,59 @@
 [
     {
+        "id": "https://thehill.com/policy/healthcare/5989772-ex-fda-criticizes-cyclospora-outbreak/",
+        "source": "The Hill",
+        "title": "Former Trump food official calls for independent review of federal government response to Cyclospora outbreak",
+        "publicationDate": "2026-07-25",
+        "category": "Healthcare",
+        "summary": "Former Food and Drug Administration (FDA) Deputy Commissioner Frank Yiannas, who served under both President Trump and former President Biden, criticized the federal government’s handling of a Cyclospora outbreak that has impacted thousands of Americans. In an interview with Politico, Yiannas called for an independent review of the government’s response to this outbreak and cited...",
+        "url": "https://thehill.com/policy/healthcare/5989772-ex-fda-criticizes-cyclospora-outbreak/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html",
+        "source": "New York Times Politics",
+        "title": "Trump on LeBron James: ‘Maybe He’s a Racist’",
+        "publicationDate": "2026-07-25",
+        "category": "United States Politics and Government",
+        "summary": "President Trump has lashed out over the years at NBA star LeBron James, who has been critical of the president in the past.",
+        "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html",
+        "source": "New York Times Politics",
+        "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
+        "publicationDate": "2026-07-25",
+        "category": "Defense",
+        "summary": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
+        "url": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "publicationDate": "2026-07-25",
+        "category": "Other",
+        "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "publicationDate": "2026-07-25",
+        "category": "Foreign Policy",
+        "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+        "publicationDate": "2026-07-25",
+        "category": "Other",
+        "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+        "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "LSB11351",
         "source": "Congressional Research Service",
         "title": "High Court Rejects Private Challenges to Medicaid Provider Requirements",
@@ -9,15 +63,6 @@
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11351/LSB11351.3.pdf"
     },
     {
-        "id": "IF12898",
-        "source": "Congressional Research Service",
-        "title": "NOAA’s Future Geostationary Extended Observations (GeoXO) Mission",
-        "publicationDate": "2026-07-24",
-        "category": "Other",
-        "summary": "About every two decades since 1975, the National Oceanic and Atmospheric Administration (NOAA) has deployed a new generation of geostationary satellites. NOAA depends on continuous geostationary observational coverage over the United States to inform its weather forecasts. Given the high cost and long timeframe to develop a major satellite program (as defined in 33 U.S.C. §878a), Congress may be interested in...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12898/IF12898.2.pdf"
-    },
-    {
         "id": "IF13274",
         "source": "Congressional Research Service",
         "title": "Access to Retirement Benefits in the Private Sector: 2010-2025",
@@ -25,6 +70,15 @@
         "category": "Economy",
         "summary": "Access to employer-sponsored pensions among private sector workers increased by seven percentage points from 2010 to 2025. Bureau of Labor Statistics (BLS) data indicated that 65% of private sector workers had access to all retirement benefits (either a defined benefit [DB] or defined contribution [DC] plan or both) in 2010 and that 72% had access in 2025. DB and DC plans are the two types of retirement plans that...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13274/IF13274.1.pdf"
+    },
+    {
+        "id": "IF12898",
+        "source": "Congressional Research Service",
+        "title": "NOAA’s Future Geostationary Extended Observations (GeoXO) Mission",
+        "publicationDate": "2026-07-24",
+        "category": "Other",
+        "summary": "About every two decades since 1975, the National Oceanic and Atmospheric Administration (NOAA) has deployed a new generation of geostationary satellites. NOAA depends on continuous geostationary observational coverage over the United States to inform its weather forecasts. Given the high cost and long timeframe to develop a major satellite program (as defined in 33 U.S.C. §878a), Congress may be interested in...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12898/IF12898.2.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/how-does-the-iran-war-end",
@@ -115,6 +169,24 @@
         "category": "Other",
         "summary": "Hoover Institution fellow Daron Shaw said, “The best estimates I’ve seen suggest the GOP could retain the House even if the Democrats win the national vote by 2 to 3 points, but if Democrats win by 6 to 7 points, they probably take the House.”",
         "url": "https://cms.hoover.org/research/trump-warns-he-may-be-crying-new-poll-shows-very-bad-news"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/",
+        "source": "European Council on Foreign Relations",
+        "title": "Serbia: Inside the leaderless movement",
+        "publicationDate": "2026-07-24",
+        "category": "Serbia",
+        "summary": "Jessica Hendrick welcomes Igor Bandović and Luka Filipović to discuss Serbia’s biggest protest movement in decades",
+        "url": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/the-china-native-generation/",
+        "source": "European Council on Foreign Relations",
+        "title": "The China-native generation",
+        "publicationDate": "2026-07-24",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Loubna El Amine and Cobus van Staden to explore how younger generations in Africa and the Middle East are shaping perceptions of China, the West and the future",
+        "url": "https://ecfr.eu/podcasts/episode/the-china-native-generation/"
     },
     {
         "id": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028",
@@ -243,24 +315,6 @@
         "url": "https://thehill.com/policy/energy-environment/5989622-trump-administration-federal-grant-cancellations-blue-states/"
     },
     {
-        "id": "https://thehill.com/newsletters/healthcare/5989577-fda-panel-rejects-only-1-peptide-despite-backlash/",
-        "source": "The Hill",
-        "title": "FDA panel rejects only 1 peptide despite backlash",
-        "publicationDate": "2026-07-24",
-        "category": "Healthcare",
-        "summary": "Presented by PhRMA {beacon} >",
-        "url": "https://thehill.com/newsletters/healthcare/5989577-fda-panel-rejects-only-1-peptide-despite-backlash/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html",
-        "source": "New York Times Politics",
-        "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
-        "publicationDate": "2026-07-24",
-        "category": "Defense",
-        "summary": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
-        "url": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html"
-    },
-    {
         "id": "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html",
         "source": "New York Times Politics",
         "title": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces",
@@ -286,15 +340,6 @@
         "category": "Peptides",
         "summary": "The committee endorsed broader use of the peptides in lightly regulated compounding pharmacies that have grown into a multibillion-dollar business.",
         "url": "https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/24/us/politics/national-guard-troop-housing-dc-trump.html",
-        "source": "New York Times Politics",
-        "title": "Trump Administration Signs Contract for Long-Term National Guard Housing in D.C.",
-        "publicationDate": "2026-07-24",
-        "category": "Defense",
-        "summary": "The move was the latest sign that President Trump intends to keep armed Guard members deployed in the capital through the end of his term.",
-        "url": "https://www.nytimes.com/2026/07/24/us/politics/national-guard-troop-housing-dc-trump.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/24/identify-government-leakers-trump-supports-pursuing-journalists/",
@@ -333,24 +378,6 @@
         "url": "https://www.washingtonpost.com/world/2026/07/24/malis-government-does-not-rule-out-us-military-intervention/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-        "publicationDate": "2026-07-24",
-        "category": "Other",
-        "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
-        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "publicationDate": "2026-07-24",
-        "category": "Foreign Policy",
-        "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
@@ -367,15 +394,6 @@
         "category": "Other",
         "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
         "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-        "publicationDate": "2026-07-24",
-        "category": "Foreign Policy",
-        "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
-        "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/a08c02e1-8d20-4001-ab9b-1dbfea7acedc?syn-25a6b1a6=1",
@@ -522,6 +540,24 @@
         "url": "https://www.hudson.org/technology/us-china-rivalry-heats-ai-becomes-new-battleground-jason-hsu"
     },
     {
+        "id": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/",
+        "source": "European Council on Foreign Relations",
+        "title": "The magnificent ten: A coalition of the willing to drive the EU’s next enlargement",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "A Team Enlargement coalition of EU member states can drive the changes needed to bring Ukraine and others into the bloc.",
+        "url": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/"
+    },
+    {
+        "id": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/",
+        "source": "European Council on Foreign Relations",
+        "title": "One foot out: Understanding Bulgaria’s geopolitical shift under Radev",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "Rumen Radev is steering Bulgaria towards a more transactional foreign policy. The EU needs to engage with Sofia and push back on such hedging to secure future European cohesion",
+        "url": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/"
+    },
+    {
         "id": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/",
         "source": "Washington Post Politics",
         "title": "House votes to limit Trump on Iran; Senate fails to advance similar measure",
@@ -529,6 +565,15 @@
         "category": "Defense",
         "summary": "The votes marked the first test of Republican support for the conflict since President Donald Trump resumed military strikes against Tehran this month.",
         "url": "https://www.washingtonpost.com/national-security/2026/07/23/house-passes-measure-restrain-trump-iran/"
+    },
+    {
+        "id": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/",
+        "source": "European Council on Foreign Relations",
+        "title": "How better climate diplomacy can save Europe’s green ambitions",
+        "publicationDate": "2026-07-22",
+        "category": "Economy",
+        "summary": "The EU needs to align climate diplomacy with industrial strategy to accelerate Europe’s transition to a competitive low-carbon economy",
+        "url": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
