@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
+        "source": "NPR Politics",
+        "title": "Biden ghostwriter tapes to be released",
+        "publicationDate": "2026-07-25",
+        "category": "Other",
+        "summary": "Former President Joe Biden is declining to appeal a court ruling that allows the Justice Department to publicize recordings of conversations between him and a writer collaborating on his memoir.",
+        "url": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate"
+    },
+    {
         "id": "https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia",
         "source": "NPR Politics",
         "title": "Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia",
@@ -36,13 +45,31 @@
         "url": "https://www.pbs.org/newshour/politics/fact-checking-mullins-claim-that-foreign-adversaries-can-access-voting-machines-in-u-s-elections"
     },
     {
-        "id": "https://thehill.com/homenews/5990471-zelensky-says-us-ukraine-moving-forward-on-joint-drone-production/",
+        "id": "https://thehill.com/homenews/5990510-cyclospora-cases-mounting-in-michigan/",
+        "source": "The Hill",
+        "title": "Cyclospora cases mounting in Michigan",
+        "publicationDate": "2026-07-25",
+        "category": "Healthcare",
+        "summary": "As cyclospora cases continue to rise, Michigan is facing a disproportionately large outbreak of the disease that causes gastrointestinal illness in those affected. The CDC said it is aware of ⁠at least 7,400 more cases reported by state and local health departments that are not yet laboratory confirmed and still requires analysis, with many of the...",
+        "url": "https://thehill.com/homenews/5990510-cyclospora-cases-mounting-in-michigan/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/5990484-france-spain-fire-response/",
+        "source": "The Hill",
+        "title": "More than 260K forced to flee amid European wildfires: What to know",
+        "publicationDate": "2026-07-25",
+        "category": "Foreign Policy",
+        "summary": "Hundreds of thousands of people have been forced to leave their homes due to raging wildfires across southwest Europe. Over 250,000 people have been evacuated in France and Spain, according to authorities from both countries. No deaths have been tied to these fires, but strong winds and extreme heat have propelled the flames through thousands...",
+        "url": "https://thehill.com/policy/international/5990484-france-spain-fire-response/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/5990471-zelensky-says-us-ukraine-moving-forward-on-joint-drone-production/",
         "source": "The Hill",
         "title": "Zelensky says US, Ukraine moving forward on joint drone production",
         "publicationDate": "2026-07-25",
         "category": "Defense",
         "summary": "Ukrainian President Volodymyr Zelensky said that the U.S. and Ukraine plan to build a drone factory in the U.S. as part of a new defense partnership combining American manufacturing with Ukraine’s battlefield-tested drone technology. Speaking in an interview with far-right influencer Laura Zoomer, Zelensky said the agreement would expand on an initial drone cooperation deal...",
-        "url": "https://thehill.com/homenews/5990471-zelensky-says-us-ukraine-moving-forward-on-joint-drone-production/"
+        "url": "https://thehill.com/policy/international/5990471-zelensky-says-us-ukraine-moving-forward-on-joint-drone-production/"
     },
     {
         "id": "https://thehill.com/policy/technology/5990412-kalshi-threatens-netflix-legal-action-documentary-trailer/",
@@ -61,24 +88,6 @@
         "category": "Foreign Policy",
         "summary": "Pop singer Katy Perry on Saturday criticized the unauthorized use of her music in the background of a White House TikTok video showing strikes on Iranian targets. The White House used her viral song “Firework” in the background of a video showing a missile blowing up a naval ship in Iran. It has garnered over...",
         "url": "https://thehill.com/blogs/in-the-know/5990408-katy-perry-criticizes-white-house-tiktok-iran-strike-video/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/5989977-live-updates-trump-iran-warm-maine-democrats-senate-race-whcd/",
-        "source": "The Hill",
-        "title": "Live updates: Troy Jackson takes Platner's place in Maine Senate race; Middle East conflict persists",
-        "publicationDate": "2026-07-25",
-        "category": "Campaign",
-        "summary": "Former Maine Senate President Troy Jackson (D) officially clinched the nomination to take on incumbent Sen. Susan Collins (R-Maine) on Saturday. Democrats in the state voted 566-5 on Jackson to replace Graham Platner at the top of the ticket. Platner withdrew his bid earlier this month following allegations of sexual abuse. Meanwhile, Houthi rebels backed...",
-        "url": "https://thehill.com/homenews/campaign/5989977-live-updates-trump-iran-warm-maine-democrats-senate-race-whcd/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/5990297-us-sanctions-babak-zanjani-businesses-iran/",
-        "source": "The Hill",
-        "title": "New US sanctions target billionaire Iranian financier Babak Zanjani",
-        "publicationDate": "2026-07-25",
-        "category": "Foreign Policy",
-        "summary": "The United States Treasury Department announced on Friday it will be implementing sanctions against key businesses and associates of sanctioned Iranian financier Babak Zanjani for attempting to evade sanctions. The sanctions affect nine firms and four people in the business network of Zanjani. The Treasury Department said in a statement Friday that firms being targeted...",
-        "url": "https://thehill.com/policy/international/5990297-us-sanctions-babak-zanjani-businesses-iran/"
     },
     {
         "id": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
@@ -180,6 +189,33 @@
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Top Democrat says Trump administration is worsening chip shortage",
+        "publicationDate": "2026-07-25",
+        "category": "Technology",
+        "summary": "Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI",
+        "url": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/fa785a9b-f136-43ab-91d5-f20742291331?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Brazil denies visas to US officials over alleged election interference",
+        "publicationDate": "2026-07-25",
+        "category": "Other",
+        "summary": "Government claims Trump appointees sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro",
+        "url": "https://www.ft.com/content/fa785a9b-f136-43ab-91d5-f20742291331?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f4a5d8da-c950-49d3-b847-6281d2087e4c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine",
+        "publicationDate": "2026-07-25",
+        "category": "Foreign Policy",
+        "summary": "Most overt intervention so far from one of Moscow’s closest partners comes as Kyiv piles on pressure with drone attacks",
+        "url": "https://www.ft.com/content/f4a5d8da-c950-49d3-b847-6281d2087e4c?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "France and Spain evacuate 260,000 as ‘unprecedented’ wildfires spread",
@@ -198,33 +234,6 @@
         "url": "https://www.ft.com/content/5f267b7d-9e57-40f6-9bb5-6fe5d6cf9d1d?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
-        "publicationDate": "2026-07-25",
-        "category": "Foreign Policy",
-        "summary": "Tit-for-tat attacks risk expanding the regional war in the Middle East",
-        "url": "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6359b7ba-494f-4c80-b3f7-a64b3224ba9e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Washington and London discuss plan for meeting to resolve Hormuz crisis",
-        "publicationDate": "2026-07-25",
-        "category": "Foreign Policy",
-        "summary": "Gathering to consider forming an international maritime coalition to safeguard shipping",
-        "url": "https://www.ft.com/content/6359b7ba-494f-4c80-b3f7-a64b3224ba9e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1a7cdff0-5e52-4fa1-8b21-978e501eb791?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Maha Inc: how companies tied to Kennedy’s movement are poised to benefit",
-        "publicationDate": "2026-07-25",
-        "category": "Healthcare",
-        "summary": "Kaleidoscope of industries emerge as early winners from administration’s health regulation overhaul",
-        "url": "https://www.ft.com/content/1a7cdff0-5e52-4fa1-8b21-978e501eb791?syn-25a6b1a6=1"
-    },
-    {
         "id": "LSB11351",
         "source": "Congressional Research Service",
         "title": "High Court Rejects Private Challenges to Medicaid Provider Requirements",
@@ -232,15 +241,6 @@
         "category": "Healthcare",
         "summary": "In June 2025, the Supreme Court issued its decision in Medina v. Planned Parenthood South Atlantic, holding that private litigants cannot sue under 42 U.S.C. § 1983 (Section 1983) to challenge a state’s decision to exclude health care providers that offer certain abortion services from participation in a state’s Medicaid program. In Medina, the Supreme Court held that Section 1983, a federal statute that allows a...",
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11351/LSB11351.3.pdf"
-    },
-    {
-        "id": "IF13274",
-        "source": "Congressional Research Service",
-        "title": "Access to Retirement Benefits in the Private Sector: 2010-2025",
-        "publicationDate": "2026-07-24",
-        "category": "Economy",
-        "summary": "Access to employer-sponsored pensions among private sector workers increased by seven percentage points from 2010 to 2025. Bureau of Labor Statistics (BLS) data indicated that 65% of private sector workers had access to all retirement benefits (either a defined benefit [DB] or defined contribution [DC] plan or both) in 2010 and that 72% had access in 2025. DB and DC plans are the two types of retirement plans that...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13274/IF13274.1.pdf"
     },
     {
         "id": "IF12898",
@@ -342,24 +342,6 @@
         "url": "https://cms.hoover.org/research/trump-warns-he-may-be-crying-new-poll-shows-very-bad-news"
     },
     {
-        "id": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/",
-        "source": "European Council on Foreign Relations",
-        "title": "Serbia: Inside the leaderless movement",
-        "publicationDate": "2026-07-24",
-        "category": "Serbia",
-        "summary": "Jessica Hendrick welcomes Igor Bandović and Luka Filipović to discuss Serbia’s biggest protest movement in decades",
-        "url": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/the-china-native-generation/",
-        "source": "European Council on Foreign Relations",
-        "title": "The China-native generation",
-        "publicationDate": "2026-07-24",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes Loubna El Amine and Cobus van Staden to explore how younger generations in Africa and the Middle East are shaping perceptions of China, the West and the future",
-        "url": "https://ecfr.eu/podcasts/episode/the-china-native-generation/"
-    },
-    {
         "id": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028",
         "source": "NPR Politics",
         "title": "Democrats approve new primary election calendar, putting South Carolina first",
@@ -367,15 +349,6 @@
         "category": "Other",
         "summary": "Democrats chose South Carolina for the first 2028 presidential primary, then Nevada, prioritizing Black and Latino voters. New Hampshire, New Mexico, Michigan and Virginia also hold early contests.",
         "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/24/nx-s1-5903070/st-louis-democratic-house-primary-exposes-party-rifts-over-israel",
-        "source": "NPR Politics",
-        "title": "St. Louis Democratic House primary exposes party rifts over Israel",
-        "publicationDate": "2026-07-24",
-        "category": "Other",
-        "summary": "St. Louis Public Radio hosted one of the first media appearances this year between Rep. Wesley Bell and former Congresswoman Cori Bush. The primary race is a rematch of a race Bush lost last year to Bell.",
-        "url": "https://www.npr.org/2026/07/24/nx-s1-5903070/st-louis-democratic-house-primary-exposes-party-rifts-over-israel"
     },
     {
         "id": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war",
@@ -549,33 +522,6 @@
         "url": "https://www.hudson.org/technology/us-china-rivalry-heats-ai-becomes-new-battleground-jason-hsu"
     },
     {
-        "id": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/",
-        "source": "European Council on Foreign Relations",
-        "title": "The magnificent ten: A coalition of the willing to drive the EU’s next enlargement",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "A Team Enlargement coalition of EU member states can drive the changes needed to bring Ukraine and others into the bloc.",
-        "url": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/"
-    },
-    {
-        "id": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/",
-        "source": "European Council on Foreign Relations",
-        "title": "One foot out: Understanding Bulgaria’s geopolitical shift under Radev",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "Rumen Radev is steering Bulgaria towards a more transactional foreign policy. The EU needs to engage with Sofia and push back on such hedging to secure future European cohesion",
-        "url": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/"
-    },
-    {
-        "id": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/",
-        "source": "European Council on Foreign Relations",
-        "title": "How better climate diplomacy can save Europe’s green ambitions",
-        "publicationDate": "2026-07-22",
-        "category": "Economy",
-        "summary": "The EU needs to align climate diplomacy with industrial strategy to accelerate Europe’s transition to a competitive low-carbon economy",
-        "url": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
         "source": "RAND Corporation",
         "title": "China's strategic petroleum reserve as a geoeconomic tool",
@@ -673,5 +619,14 @@
         "category": "Defense",
         "summary": "The Federal Contested Election Act (FCEA; 2 U.S.C. §§381-396), enacted in 1969 (P.L. 91-138, as amended by P.L. 104-186) rests at the intersection of federal election law and policy, legislative procedure, and constitutional provisions regarding congressional authority over House elections and membership. FCEA contests rarely change election results, as doing so typically requires the House to overturn a...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11734/IF11734.3.pdf"
+    },
+    {
+        "id": "R42862",
+        "source": "Congressional Research Service",
+        "title": "Chemical Weapons: A Summary Report of Characteristics and Effects",
+        "publicationDate": "2013-09-13",
+        "category": "Defense",
+        "summary": "The potential for terrorist use of chemical agents is a noted concern highlighted by the Tokyo sarin gas attacks of 1995. The events of September 11, 2001, increased congressional attention towards reducing the vulnerability of the United States to such unconventional attacks. The possibility that terrorist groups might obtain insecure chemical weapons led to increased scrutiny of declared Libyan chemical weapon...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42862/R42862.5.pdf"
     }
 ]
