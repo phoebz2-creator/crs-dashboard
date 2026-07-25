@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia",
+        "source": "NPR Politics",
+        "title": "Week in Politics: Iran War; Trump attends solemn ritual; nuclear deal with Saudi Arabia",
+        "publicationDate": "2026-07-25",
+        "category": "Foreign Policy",
+        "summary": "The Trump administration is seeking tens of billions of dollars in supplemental appropriations for the Iran War, a war which the president and allies have repeatedly claimed is already won.",
+        "url": "https://www.npr.org/2026/07/25/nx-s1-5903811/week-in-politics-iran-war-trump-attends-solemn-ritual-nuclear-deal-with-saudi-arabia"
+    },
+    {
         "id": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
         "source": "NPR Politics",
         "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
@@ -126,9 +135,27 @@
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/1a7cdff0-5e52-4fa1-8b21-978e501eb791?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Maha Inc: how companies tied to Kennedy’s movement are poised to benefit",
+        "publicationDate": "2026-07-25",
+        "category": "Healthcare",
+        "summary": "Kaleidoscope of industries emerge as early winners from administration’s health regulation overhaul",
+        "url": "https://www.ft.com/content/1a7cdff0-5e52-4fa1-8b21-978e501eb791?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5f267b7d-9e57-40f6-9bb5-6fe5d6cf9d1d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "India’s education minister resigns after weeks of student protests",
+        "publicationDate": "2026-07-25",
+        "category": "Other",
+        "summary": "Dharmendra Pradhan’s departure was a key demand of the growing student movement",
+        "url": "https://www.ft.com/content/5f267b7d-9e57-40f6-9bb5-6fe5d6cf9d1d?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Investors bet on Federal Reserve rate rise after oil price surge",
+        "title": "Investors increase bets on Federal Reserve rate rise after oil price surge",
         "publicationDate": "2026-07-25",
         "category": "Other",
         "summary": "Sharp increase in energy prices means next week’s US central bank meeting is ‘live’, investors say",
@@ -153,24 +180,6 @@
         "url": "https://www.ft.com/content/38a18d43-5b01-4c08-ab85-c1695f10c1e3?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Saudi Arabia strikes Houthis after Iran-backed rebels target tankers",
-        "publicationDate": "2026-07-25",
-        "category": "Foreign Policy",
-        "summary": "Kingdom’s civil defence forces warn key energy sites at risk of retaliatory attacks",
-        "url": "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/ec5c4433-b17d-4116-b2fb-0fce61a261bd?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Who owns shares?",
-        "publicationDate": "2026-07-25",
-        "category": "Other",
-        "summary": "Household exposure to stocks varies dramatically across countries",
-        "url": "https://www.ft.com/content/ec5c4433-b17d-4116-b2fb-0fce61a261bd?syn-25a6b1a6=1"
-    },
-    {
         "id": "LSB11351",
         "source": "Congressional Research Service",
         "title": "High Court Rejects Private Challenges to Medicaid Provider Requirements",
@@ -180,15 +189,6 @@
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11351/LSB11351.3.pdf"
     },
     {
-        "id": "IF13274",
-        "source": "Congressional Research Service",
-        "title": "Access to Retirement Benefits in the Private Sector: 2010-2025",
-        "publicationDate": "2026-07-24",
-        "category": "Economy",
-        "summary": "Access to employer-sponsored pensions among private sector workers increased by seven percentage points from 2010 to 2025. Bureau of Labor Statistics (BLS) data indicated that 65% of private sector workers had access to all retirement benefits (either a defined benefit [DB] or defined contribution [DC] plan or both) in 2010 and that 72% had access in 2025. DB and DC plans are the two types of retirement plans that...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13274/IF13274.1.pdf"
-    },
-    {
         "id": "IF12898",
         "source": "Congressional Research Service",
         "title": "NOAA’s Future Geostationary Extended Observations (GeoXO) Mission",
@@ -196,6 +196,15 @@
         "category": "Other",
         "summary": "About every two decades since 1975, the National Oceanic and Atmospheric Administration (NOAA) has deployed a new generation of geostationary satellites. NOAA depends on continuous geostationary observational coverage over the United States to inform its weather forecasts. Given the high cost and long timeframe to develop a major satellite program (as defined in 33 U.S.C. §878a), Congress may be interested in...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12898/IF12898.2.pdf"
+    },
+    {
+        "id": "IF13274",
+        "source": "Congressional Research Service",
+        "title": "Access to Retirement Benefits in the Private Sector: 2010-2025",
+        "publicationDate": "2026-07-24",
+        "category": "Economy",
+        "summary": "Access to employer-sponsored pensions among private sector workers increased by seven percentage points from 2010 to 2025. Bureau of Labor Statistics (BLS) data indicated that 65% of private sector workers had access to all retirement benefits (either a defined benefit [DB] or defined contribution [DC] plan or both) in 2010 and that 72% had access in 2025. DB and DC plans are the two types of retirement plans that...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13274/IF13274.1.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/how-does-the-iran-war-end",
@@ -322,15 +331,6 @@
         "category": "Other",
         "summary": "St. Louis Public Radio hosted one of the first media appearances this year between Rep. Wesley Bell and former Congresswoman Cori Bush. The primary race is a rematch of a race Bush lost last year to Bell.",
         "url": "https://www.npr.org/2026/07/24/nx-s1-5903070/st-louis-democratic-house-primary-exposes-party-rifts-over-israel"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy",
-        "source": "NPR Politics",
-        "title": "Trump's replacement tariffs continue to put pressure on U.S. economy",
-        "publicationDate": "2026-07-24",
-        "category": "Economy",
-        "summary": "President Trump slapped replacement tariffs on 59 countries and the European Union to replace expiring ones.",
-        "url": "https://www.npr.org/2026/07/24/nx-s1-5904620/trumps-replacement-tariffs-continue-to-put-pressure-on-u-s-economy"
     },
     {
         "id": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war",
