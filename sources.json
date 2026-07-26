@@ -1,5 +1,50 @@
 [
     {
+        "id": "https://thehill.com/homenews/state-watch/5990722-dangerous-heat-dome-grips-central-us/",
+        "source": "The Hill",
+        "title": "Dangerous heat dome grips central US",
+        "publicationDate": "2026-07-26",
+        "category": "State Watch",
+        "summary": "Dangerously hot temperatures spanned across much of the central U.S. on Saturday as a sprawling heat dome, in which a high-pressure atmospheric system traps hot air over a large area keeping temperatures high, settled over the region that could persist into next week. Heat advisories went out for roughly 80 million people after the National...",
+        "url": "https://thehill.com/homenews/state-watch/5990722-dangerous-heat-dome-grips-central-us/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html",
+        "source": "New York Times Politics",
+        "title": "Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting",
+        "publicationDate": "2026-07-26",
+        "category": "United States Politics and Government",
+        "summary": "The ruling on Saturday was the latest rebuke to President Trump’s attacks on mail-in voting. The government says it may take the case to the Supreme Court.",
+        "url": "https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
+        "source": "New York Times Politics",
+        "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
+        "publicationDate": "2026-07-26",
+        "category": "Defense",
+        "summary": "Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.",
+        "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "More than 300,000 flee wildfires in France and Spain",
+        "publicationDate": "2026-07-26",
+        "category": "Other",
+        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/fa785a9b-f136-43ab-91d5-f20742291331?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Brazil denies visas to US officials over alleged election interference",
+        "publicationDate": "2026-07-26",
+        "category": "Other",
+        "summary": "Government claims Trump envoys sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro",
+        "url": "https://www.ft.com/content/fa785a9b-f136-43ab-91d5-f20742291331?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
         "source": "NPR Politics",
         "title": "Biden ghostwriter tapes to be released",
@@ -81,24 +126,6 @@
         "url": "https://thehill.com/homenews/administration/5990184-donald-trump-white-house-correspondents-dinner-speech-fiery-moments/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5989368-canada-tariff-impact-republicans/",
-        "source": "The Hill",
-        "title": "Trump tariffs come back to haunt GOP as elections near",
-        "publicationDate": "2026-07-25",
-        "category": "Administration",
-        "summary": "President Trump’s newly announced tariffs could put Republican candidates at risk going into the midterms as Democrats seek to go on the offensive over the economic impact of Trump’s trade agenda. The Trump administration announced Thursday it will impose double-digit tariffs on imports from 60 trading partners over forced labor violations. Those duties went into...",
-        "url": "https://thehill.com/homenews/administration/5989368-canada-tariff-impact-republicans/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html",
-        "source": "New York Times Politics",
-        "title": "Trump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns",
-        "publicationDate": "2026-07-25",
-        "category": "Defense",
-        "summary": "Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.",
-        "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html"
-    },
-    {
         "id": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
         "source": "New York Times Politics",
         "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
@@ -126,15 +153,6 @@
         "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/25/us/politics/elizabeth-warren-housing-bill-trump.html",
-        "source": "New York Times Politics",
-        "title": "How a Housing Bill Trump Spurned Became Law",
-        "publicationDate": "2026-07-25",
-        "category": "United States Politics and Government",
-        "summary": "Despite partisan differences, intraparty feuds and the president’s lack of interest, Congress delivered the first major housing bill in a generation.",
-        "url": "https://www.nytimes.com/2026/07/25/us/politics/elizabeth-warren-housing-bill-trump.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/25/democrats-pick-new-senate-candidate-maine-aftermath-platner-debacle/",
         "source": "Washington Post Politics",
         "title": "Democrats pick new Senate candidate in Maine in aftermath of Platner debacle",
@@ -142,15 +160,6 @@
         "category": "Other",
         "summary": "Troy Jackson won his party's nomination by commandeering the progressive movement that fueled Graham Platner's rise. He will face off against GOP Sen. Susan Collins in November.",
         "url": "https://www.washingtonpost.com/politics/2026/07/25/democrats-pick-new-senate-candidate-maine-aftermath-platner-debacle/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "More than 250,000 flee wildfires in France and Spain",
-        "publicationDate": "2026-07-25",
-        "category": "Other",
-        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-        "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
@@ -205,15 +214,6 @@
         "category": "Technology",
         "summary": "Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI",
         "url": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/fa785a9b-f136-43ab-91d5-f20742291331?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Brazil denies visas to US officials over alleged election interference",
-        "publicationDate": "2026-07-25",
-        "category": "Other",
-        "summary": "Government claims Trump envoys sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro",
-        "url": "https://www.ft.com/content/fa785a9b-f136-43ab-91d5-f20742291331?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/f4a5d8da-c950-49d3-b847-6281d2087e4c?syn-25a6b1a6=1",
