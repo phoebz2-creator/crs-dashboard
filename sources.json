@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://thehill.com/policy/international/5990740-israeli-forces-arrest-west-bank/",
+        "source": "The Hill",
+        "title": "Israel detains more than 70 in West Bank after deadly clashes",
+        "publicationDate": "2026-07-26",
+        "category": "Defense",
+        "summary": "Israeli forces detained more than 70 people across the occupied West Bank overnight Friday and into Saturday after violence in a northern Palestinian village killed two Israeli soldiers and four Palestinians. According to The Associated Press, the Israeli military said in a statement that troops searched more than 300 locations and arrested people it described...",
+        "url": "https://thehill.com/policy/international/5990740-israeli-forces-arrest-west-bank/"
+    },
+    {
         "id": "https://thehill.com/homenews/state-watch/5990722-dangerous-heat-dome-grips-central-us/",
         "source": "The Hill",
         "title": "Dangerous heat dome grips central US",
@@ -36,13 +45,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/fa785a9b-f136-43ab-91d5-f20742291331?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Brazil denies visas to US officials over alleged election interference",
+        "title": "Investors use crypto exchanges to avoid Chinese controls on AI stocks",
+        "publicationDate": "2026-07-26",
+        "category": "Foreign Policy",
+        "summary": "Perpetual futures let investors circumvent restrictions on foreign access to China’s equity market",
+        "url": "https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Deadly storm in Chile disrupts copper mines and raises AI supply concerns",
         "publicationDate": "2026-07-26",
         "category": "Other",
-        "summary": "Government claims Trump envoys sought to cast doubt over integrity of voting system to aid ally Flávio Bolsonaro",
-        "url": "https://www.ft.com/content/fa785a9b-f136-43ab-91d5-f20742291331?syn-25a6b1a6=1"
+        "summary": "Metals boom is reliant on high-altitude, declining mines that are exposed to increasing weather volatility",
+        "url": "https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Defence giants provide record backing for military start-ups",
+        "publicationDate": "2026-07-26",
+        "category": "Defense",
+        "summary": "As drones and autonomous systems transform the battlefield, traditional defence companies start to act more like venture capitalists",
+        "url": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5b789a38-c9ca-4b23-8e61-8f9e2e589396?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Chips and drones to be at heart of Burnham’s push to ‘reindustrialise’, AI minister says",
+        "publicationDate": "2026-07-26",
+        "category": "Technology",
+        "summary": "Kanishka Narayan tells FT that new prime minister views technology as way for Britain ‘to get its mojo back’",
+        "url": "https://www.ft.com/content/5b789a38-c9ca-4b23-8e61-8f9e2e589396?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/fc7ac23f-5a0b-4114-9f6c-8089fb20ce9f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The British state school that is the first to open an overseas branch",
+        "publicationDate": "2026-07-26",
+        "category": "Other",
+        "summary": "Queen Elizabeth’s School thinks it can be a model for others as it hunts for new revenue in Dubai and Delhi",
+        "url": "https://www.ft.com/content/fc7ac23f-5a0b-4114-9f6c-8089fb20ce9f?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
@@ -117,15 +162,6 @@
         "url": "https://thehill.com/homenews/sunday-talk-shows/5990587-sunday-shows-preview-july-26/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5990184-donald-trump-white-house-correspondents-dinner-speech-fiery-moments/",
-        "source": "The Hill",
-        "title": "5 standout moments from Trump's fiery WHCA dinner speech",
-        "publicationDate": "2026-07-25",
-        "category": "Administration",
-        "summary": "President Trump was given a second chance Friday evening to deliver a speech before the White House Correspondents' Association (WHCA) dinner — his first time addressing the crowd as president. Three months after the first event was derailed by an assassination attempt, Trump took to the podium at the Waldorf Astoria hotel in Washington, acknowledging...",
-        "url": "https://thehill.com/homenews/administration/5990184-donald-trump-white-house-correspondents-dinner-speech-fiery-moments/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
         "source": "New York Times Politics",
         "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
@@ -196,42 +232,6 @@
         "category": "Foreign Policy",
         "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
-        "publicationDate": "2026-07-25",
-        "category": "Foreign Policy",
-        "summary": "Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region",
-        "url": "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Top Democrat says Trump administration is worsening chip shortage",
-        "publicationDate": "2026-07-25",
-        "category": "Technology",
-        "summary": "Apple wants clearance to buy semiconductors from blacklisted Chinese company amid surging demand from AI",
-        "url": "https://www.ft.com/content/5bd259ca-d278-498a-a03d-7b4556d9fa8f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/f4a5d8da-c950-49d3-b847-6281d2087e4c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Kazakhstan’s president urges Putin to ‘freeze’ the war in Ukraine",
-        "publicationDate": "2026-07-25",
-        "category": "Foreign Policy",
-        "summary": "Most overt intervention so far from one of Moscow’s closest partners comes as Kyiv piles on pressure with drone attacks",
-        "url": "https://www.ft.com/content/f4a5d8da-c950-49d3-b847-6281d2087e4c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "France and Spain evacuate 260,000 as ‘unprecedented’ wildfires spread",
-        "publicationDate": "2026-07-25",
-        "category": "Other",
-        "summary": "Latest orders to leave extend to suburbs within 30km of the centre of Bordeaux",
-        "url": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1"
     },
     {
         "id": "LSB11351",
