@@ -1,5 +1,14 @@
 [
     {
+        "id": "R43122",
+        "source": "Congressional Research Service",
+        "title": "Medicare’s Financial Status",
+        "publicationDate": "2026-07-27",
+        "category": "Economy",
+        "summary": "Medicare, the federal health insurance program that pays for covered health services for enrolled beneficiaries, provided coverage to approximately 70.7 million beneficiaries in 2026 and incurred total expenditures of approximately $1.30 trillion. The Hospital Insurance (HI) trust fund, which finances Medicare Part A, is funded primarily through payroll taxes and accumulated trust fund assets. The Supplemental...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43122/R43122.34.pdf"
+    },
+    {
         "id": "https://cms.hoover.org/research/savage-landscapes-featuring-cal-flyn",
         "source": "Hoover Institution",
         "title": "Savage Landscapes Featuring Cal Flyn",
@@ -18,6 +27,24 @@
         "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
     },
     {
+        "id": "https://www.npr.org/2026/07/27/nx-s1-5908492/with-less-than-100-days-left-until-election-day-how-the-midterms-are-shaping-up",
+        "source": "NPR Politics",
+        "title": "With less than 100 days left until Election Day, how the midterms are shaping up",
+        "publicationDate": "2026-07-27",
+        "category": "Other",
+        "summary": "There are now fewer than 100 days until Election Day in November. Here's how NPR's Mara Liasson sees the midterm campaign shaping up.",
+        "url": "https://www.npr.org/2026/07/27/nx-s1-5908492/with-less-than-100-days-left-until-election-day-how-the-midterms-are-shaping-up"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
+        "source": "NPR Politics",
+        "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
+        "publicationDate": "2026-07-27",
+        "category": "Other",
+        "summary": "The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.",
+        "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets"
+    },
+    {
         "id": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
         "source": "NPR Politics",
         "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
@@ -25,15 +52,6 @@
         "category": "Other",
         "summary": "The influx of federal agents into the city last fall led to widespread immigration arrests – a majority without criminal convictions. President Trump has said he wants to replicate it elsewhere.",
         "url": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
-        "source": "NPR Politics",
-        "title": "Kalshi attacks Wisconsin law banning election bets as 'voter suppression'",
-        "publicationDate": "2026-07-27",
-        "category": "Other",
-        "summary": "The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.",
-        "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets"
     },
     {
         "id": "https://www.npr.org/2026/07/27/nx-s1-5903160/maine-democrats-pick-troy-jackson-to-replace-graham-platner-in-senate-race",
@@ -50,44 +68,53 @@
         "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
         "publicationDate": "2026-07-27",
         "category": "Defense",
-        "summary": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
+        "summary": "For Democrats to take control of the U.S. Senate, they have to flip four seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
         "url": "https://www.npr.org/2026/07/27/nx-s1-5907379/2026-midterm-election-senate-races"
     },
     {
-        "id": "https://thehill.com/policy/technology/5988877-democrats-balk-crypto-bill/",
+        "id": "https://thehill.com/homenews/media/5991794-hasan-piker-sean-hannity/",
         "source": "The Hill",
-        "title": "Crypto bill faces Democratic backlash over new ethics rules",
+        "title": "Piker challenges Hannity to book him for appearance",
         "publicationDate": "2026-07-27",
-        "category": "Economy",
-        "summary": "Key Senate Democrats are balking at the latest version of a cryptocurrency regulation bill over a White House-approved ethics provision that they argue falls short, complicating the bill's chances of passing in the narrow window before lawmakers leave town next month. Sen. Cynthia Lummis (R-Wyo.), who leads the Senate Banking digital assets subcommittee, unveiled an...",
-        "url": "https://thehill.com/policy/technology/5988877-democrats-balk-crypto-bill/"
+        "category": "Media",
+        "summary": "Streamer Hasan Piker is challenging Fox News host Sean Hannity to have him on for a debate. “It’s true. Facts. Here, post this clip too, Sean. Why won’t Sean Hannity have me on to discuss this stuff? He said he was supposed to, and instead he chose not to have me on and talk about...",
+        "url": "https://thehill.com/homenews/media/5991794-hasan-piker-sean-hannity/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5991559-odni-releases-election-threat-docs/",
+        "id": "https://thehill.com/homenews/campaign/5991792-jeffries-supports-dnc-chair-ken-martin/",
         "source": "The Hill",
-        "title": "Pulte says he completed fourth round of layoffs as acting DNI",
-        "publicationDate": "2026-07-27",
-        "category": "Defense",
-        "summary": "Acting Director of National Intelligence (DNI) Bill Pulte said Sunday his office completed a fourth round of layoffs since he took over on June 19. “Since becoming Acting Director of National Intelligence, our team has been smartly, and carefully, reducing the size of [the office of the director of national intelligence (ODNI)], re-focusing ODNI on...",
-        "url": "https://thehill.com/homenews/administration/5991559-odni-releases-election-threat-docs/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/5991541-lindsey-graham-trump-netanyahu/",
-        "source": "The Hill",
-        "title": "Graham compared Trump and Netanyahu to FDR and Churchill, new footage shows",
-        "publicationDate": "2026-07-27",
-        "category": "Foreign Policy",
-        "summary": "New documentary footage shows the late Sen. Lindsey Graham (R-S.C.) staunchly backing the war in Iran, even going so far as to compare President Trump and Israeli Prime Minister Benjamin Netanyahu to Franklin D. Roosevelt and Winston Churchill. The footage, which filmmaker Alex Holder captured by spending hundreds of hours with Graham dating back to...",
-        "url": "https://thehill.com/homenews/senate/5991541-lindsey-graham-trump-netanyahu/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/5991507-jeffries-target-gop-control/",
-        "source": "The Hill",
-        "title": "Hakeem Jeffries doubles down on Dems' and affordability ahead of midterms",
+        "title": "Jeffries says DNC chief 'has my full support' amid scrutiny",
         "publicationDate": "2026-07-27",
         "category": "Campaign",
-        "summary": "House Democratic Leader Hakeem Jeffries (N.Y.) kicked off the 100-day sprint to the midterms on Sunday, arguing his party will address the cost of living if it wrestles back control of Congress. “In 100 days, you can vote for an America that is affordable and lower the cost of groceries, gas, and housing. In 100...",
-        "url": "https://thehill.com/homenews/campaign/5991507-jeffries-target-gop-control/"
+        "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) told reporters on Sunday that Democratic National Committee (DNC) Chair Ken Martin “has my full support” after multiple news outlets detailed an increasingly stressed national party chairman struggling with morale. “The chairman has my full support,” the top House Democrat said while campaigning in Pennsylvania, according to NOTUS. “We look forward to our continued...",
+        "url": "https://thehill.com/homenews/campaign/5991792-jeffries-supports-dnc-chair-ken-martin/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5991366-trump-pulls-iran-strikes/",
+        "source": "The Hill",
+        "title": "Live updates: US, Iran back off attacks; Trump heads to Michigan to tout manufacturing",
+        "publicationDate": "2026-07-27",
+        "category": "Foreign Policy",
+        "summary": "The U.S. pulled back on its daily strikes on Iran over the weekend to both give more time for negotiations and conserve munitions. President Trump is \"giving it a little bit of room,” Mike Waltz, United Nations ambassador, said Sunday. Reports also bubbled up over the weekend that the U.S. campaign in the Strait of Hormuz...",
+        "url": "https://thehill.com/homenews/administration/5991366-trump-pulls-iran-strikes/"
+    },
+    {
+        "id": "https://thehill.com/opinion/campaign/5989290-sacramento-sheriff-newsom-crime/",
+        "source": "The Hill",
+        "title": "Soft on crime? Not Gavin Newsom.",
+        "publicationDate": "2026-07-27",
+        "category": "Opinions - Campaign",
+        "summary": "A look at the record suggests that the governor has been anything but soft on crime.",
+        "url": "https://thehill.com/opinion/campaign/5989290-sacramento-sheriff-newsom-crime/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/5991716-senate-thune-shutdown-pressure/",
+        "source": "The Hill",
+        "title": "Key Senate Republican: Passing reconciliation 3.0 'a very small needle to thread'",
+        "publicationDate": "2026-07-27",
+        "category": "Senate",
+        "summary": "Sen. Ron Johnson (R-Wis.) on Sunday said that passing the latest iteration of a reconciliation bill through the Senate is \"a very small needle to thread.\" \"America's expecting us to govern and we're going to have to recognize Democrats will not help us do it, and we're going to do things on our own,\" Johnson...",
+        "url": "https://thehill.com/homenews/senate/5991716-senate-thune-shutdown-pressure/"
     },
     {
         "id": "https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html",
@@ -135,15 +162,6 @@
         "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html"
     },
     {
-        "id": "https://www.washingtonpost.com/world/2026/07/27/operation-southern-spear-has-not-slowed-cocaine-entering-us/",
-        "source": "Washington Post Politics",
-        "title": "67 boat strikes. 221 dead. The cocaine hasn’t slowed, officials report.",
-        "publicationDate": "2026-07-27",
-        "category": "Healthcare",
-        "summary": "The president says Operation Southern Spear has virtually ended drug trafficking by sea. Pentagon and DEA analysts have concluded otherwise.",
-        "url": "https://www.washingtonpost.com/world/2026/07/27/operation-southern-spear-has-not-slowed-cocaine-entering-us/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/27/source-bogus-buttigieg-allegation-appeared-mentally-unstable-records-show/",
         "source": "Washington Post Politics",
         "title": "Source of false Buttigieg allegation appeared ‘mentally unstable,’ records show",
@@ -153,76 +171,103 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/27/source-bogus-buttigieg-allegation-appeared-mentally-unstable-records-show/"
     },
     {
+        "id": "https://www.washingtonpost.com/world/2026/07/27/operation-southern-spear-has-not-slowed-cocaine-entering-us/",
+        "source": "Washington Post Politics",
+        "title": "67 boat strikes. 221 dead. The cocaine hasn’t slowed, officials report.",
+        "publicationDate": "2026-07-27",
+        "category": "Healthcare",
+        "summary": "The president says Operation Southern Spear has virtually ended drug trafficking by sea. Pentagon and DEA analysts have concluded otherwise.",
+        "url": "https://www.washingtonpost.com/world/2026/07/27/operation-southern-spear-has-not-slowed-cocaine-entering-us/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Oil price dives as US and Iran pause attacks",
+        "publicationDate": "2026-07-27",
+        "category": "Foreign Policy",
+        "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+        "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "publicationDate": "2026-07-27",
+        "category": "Other",
+        "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
         "publicationDate": "2026-07-27",
         "category": "Other",
-        "summary": "Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody.",
+        "summary": "Police say two suspects were shooting at each other and one of them is in custody and one at large.",
         "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+        "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
         "publicationDate": "2026-07-27",
         "category": "Foreign Policy",
-        "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
-        "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss"
+        "summary": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
+        "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
         "publicationDate": "2026-07-27",
         "category": "Foreign Policy",
-        "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
-        "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss"
+        "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Oil falls 8% as Iran and US pause strikes over Strait of Hormuz",
-        "publicationDate": "2026-07-27",
-        "category": "Foreign Policy",
-        "summary": "Brent lower after two weeks of escalating violence had pushed crude to more than $100 a barrel",
-        "url": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/cb0f0e8b-cb17-4a7b-9875-d34da635cb88?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Oil prices plunge as Trump calls off strikes",
+        "title": "France and Spain brace for more extreme heat as wildfires rage",
         "publicationDate": "2026-07-27",
         "category": "Other",
-        "summary": "Also in today’s newsletter: Chinese chipmaker soars on market debut, and fires rage in Europe",
-        "url": "https://www.ft.com/content/cb0f0e8b-cb17-4a7b-9875-d34da635cb88?syn-25a6b1a6=1"
+        "summary": "Blazes ‘far from being under control’ as another heatwave approaches, says France’s civil security agency",
+        "url": "https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/e6b8ad11-fd4a-4f3e-9b57-ffb81b39f9e1",
+        "id": "https://www.ft.com/content/06c0ded7-8a5c-4429-955d-50df7e0c2438?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "ECB on course to raise rates again in September",
+        "title": "Size matters when it comes to tariff threats",
         "publicationDate": "2026-07-27",
-        "category": "Other",
-        "summary": "Read the July forecast from the FT’s Monetary Policy Radar team",
-        "url": "https://www.ft.com/content/e6b8ad11-fd4a-4f3e-9b57-ffb81b39f9e1"
+        "category": "Technology",
+        "summary": "European leaders are calling for more technology supply chain independence for security reasons",
+        "url": "https://www.ft.com/content/06c0ded7-8a5c-4429-955d-50df7e0c2438?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/7007005d-33b0-4d7a-83b9-76a53d498769?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/5374bf31-0d6d-4ebd-a4ae-28b399f39cc3?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "The good, the bad and the mixed of Burnham’s government overhaul",
+        "title": "Burnham looks to cut welfare bill by linking up schools and employers",
         "publicationDate": "2026-07-27",
         "category": "Other",
-        "summary": "PM should have gone further in scrapping Cabinet Office, while handing Lisa Nandy an expanded brief is a gamble",
-        "url": "https://www.ft.com/content/7007005d-33b0-4d7a-83b9-76a53d498769?syn-25a6b1a6=1"
+        "summary": "PM draws on experience as Greater Manchester mayor in bid to get more young people into work",
+        "url": "https://www.ft.com/content/5374bf31-0d6d-4ebd-a4ae-28b399f39cc3?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/7c534c2f-07f0-4148-ab59-69f84e1dbfcb?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Italy’s search for national football coach marred by Russia links",
+        "title": "Italy’s search for national football coach stumbles over Russia links",
         "publicationDate": "2026-07-27",
         "category": "Foreign Policy",
-        "summary": "Andrea Pirlo, tipped to revive struggling team, has acted as global ambassador for Russian betting company",
+        "summary": "Andrea Pirlo, tipped to revive struggling team, is a global ambassador for Russian betting company",
         "url": "https://www.ft.com/content/7c534c2f-07f0-4148-ab59-69f84e1dbfcb?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/0e84911a-f4a1-4a9d-9bd2-b4bc07e72921?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Brexit ‘reset’ could constrain UK’s freedom of movement on trade",
+        "publicationDate": "2026-07-27",
+        "category": "Other",
+        "summary": "If Brussels pursues economic defences against Beijing, London might feel pressure to follow suit",
+        "url": "https://www.ft.com/content/0e84911a-f4a1-4a9d-9bd2-b4bc07e72921?syn-25a6b1a6=1"
     },
     {
         "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-28",
@@ -261,15 +306,6 @@
         "url": "https://cms.hoover.org/research/philippines-accuses-chinese-coast-guard-injuring-filipino-sailor-disputed-shoal"
     },
     {
-        "id": "https://www.npr.org/2026/07/26/nx-s1-5906372/troy-jackson-replaces-graham-platner-as-democratic-candidate-in-maines-senate-race",
-        "source": "NPR Politics",
-        "title": "Troy Jackson replaces Graham Platner as Democratic candidate in Maine's Senate Race",
-        "publicationDate": "2026-07-26",
-        "category": "Other",
-        "summary": "Maine Democrats have chosen their candidate to run against incumbent GOP Sen. Susan Collins. Troy Jackson, former state lawmaker, steps in where the scandal-plagued Graham Platner stepped out.",
-        "url": "https://www.npr.org/2026/07/26/nx-s1-5906372/troy-jackson-replaces-graham-platner-as-democratic-candidate-in-maines-senate-race"
-    },
-    {
         "id": "https://www.pbs.org/newshour/health/as-hegseth-pursues-a-high-t-military-heres-what-to-know-about-testosterone-replacement",
         "source": "PBS NewsHour Politics",
         "title": "As Hegseth pursues a 'High-T' military, here's what to know about testosterone replacement",
@@ -279,15 +315,6 @@
         "url": "https://www.pbs.org/newshour/health/as-hegseth-pursues-a-high-t-military-heres-what-to-know-about-testosterone-replacement"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/5991428-gottlieb-fda-cyclospaoriasis-outbreak/",
-        "source": "The Hill",
-        "title": "Cyclospora outbreak not under control yet, says former FDA commissioner",
-        "publicationDate": "2026-07-26",
-        "category": "Healthcare",
-        "summary": "Scott Gottlieb, the former commissioner of the Food and Drug Administration (FDA), said Sunday the agency does not yet have the outbreak of cyclosporiasis under control. “I don't think it's under control yet, per se. I think that they've done a good job, FDA has, isolating this to central Mexico and some specific farms as...",
-        "url": "https://thehill.com/policy/healthcare/5991428-gottlieb-fda-cyclospaoriasis-outbreak/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/26/republican-enthusiasm-problem-hits-even-core-voters/",
         "source": "Washington Post Politics",
         "title": "Republicans see ‘scary’ lack of enthusiasm among core voters ahead of midterms",
@@ -295,24 +322,6 @@
         "category": "Other",
         "summary": "Pollsters and GOP groups are raising the alarm about an unmotivated base in an election year that would be tough no matter what, given the president’s low approval.",
         "url": "https://www.washingtonpost.com/politics/2026/07/26/republican-enthusiasm-problem-hits-even-core-voters/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Berlin Pride attack suspect shot and killed during police operation",
-        "publicationDate": "2026-07-26",
-        "category": "Other",
-        "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
-        "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-        "publicationDate": "2026-07-26",
-        "category": "Other",
-        "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
-        "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/fact-checking-mullins-claim-that-foreign-adversaries-can-access-voting-machines-in-u-s-elections",
@@ -385,24 +394,6 @@
         "category": "Defense",
         "summary": "Don’t Give Up on Jimmy Lai acabral-sanche… Fri, 07/24/2026 - 09:54 SVG Commentary Jul 24, 2026 National Review Don’t Give Up on Jimmy Lai Pastor Ezra Jin’s release is a reason to celebrate, but the US shouldn’t rest until Lai is freed. Nina Shea Senior Fellow and Director, Center for Religious Freedom Nina Shea Commentary Caption Jimmy Lai arrives at the West Kowloon Magistrates' Court on May 18, 2020, in Hong...",
         "url": "https://www.hudson.org/human-rights/dont-give-jimmy-lai-nina-shea"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/",
-        "source": "European Council on Foreign Relations",
-        "title": "Serbia: Inside the leaderless movement",
-        "publicationDate": "2026-07-24",
-        "category": "Serbia",
-        "summary": "Jessica Hendrick welcomes Igor Bandović and Luka Filipović to discuss Serbia’s biggest protest movement in decades",
-        "url": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/the-china-native-generation/",
-        "source": "European Council on Foreign Relations",
-        "title": "The China-native generation",
-        "publicationDate": "2026-07-24",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes Loubna El Amine and Cobus van Staden to explore how younger generations in Africa and the Middle East are shaping perceptions of China, the West and the future",
-        "url": "https://ecfr.eu/podcasts/episode/the-china-native-generation/"
     },
     {
         "id": "https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-iran-conflict-becoming-a-forever-war",
@@ -531,33 +522,6 @@
         "url": "https://www.hudson.org/technology/us-china-rivalry-heats-ai-becomes-new-battleground-jason-hsu"
     },
     {
-        "id": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/",
-        "source": "European Council on Foreign Relations",
-        "title": "The magnificent ten: A coalition of the willing to drive the EU’s next enlargement",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "A Team Enlargement coalition of EU member states can drive the changes needed to bring Ukraine and others into the bloc.",
-        "url": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/"
-    },
-    {
-        "id": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/",
-        "source": "European Council on Foreign Relations",
-        "title": "One foot out: Understanding Bulgaria’s geopolitical shift under Radev",
-        "publicationDate": "2026-07-23",
-        "category": "Foreign Policy",
-        "summary": "Rumen Radev is steering Bulgaria towards a more transactional foreign policy. The EU needs to engage with Sofia and push back on such hedging to secure future European cohesion",
-        "url": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/"
-    },
-    {
-        "id": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/",
-        "source": "European Council on Foreign Relations",
-        "title": "How better climate diplomacy can save Europe’s green ambitions",
-        "publicationDate": "2026-07-22",
-        "category": "Economy",
-        "summary": "The EU needs to align climate diplomacy with industrial strategy to accelerate Europe’s transition to a competitive low-carbon economy",
-        "url": "https://ecfr.eu/article/how-better-climate-diplomacy-can-save-europes-green-ambitions/"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
         "source": "RAND Corporation",
         "title": "China's strategic petroleum reserve as a geoeconomic tool",
@@ -637,15 +601,6 @@
         "category": "Defense",
         "summary": "The Federal Contested Election Act (FCEA; 2 U.S.C. §§381-396), enacted in 1969 (P.L. 91-138, as amended by P.L. 104-186) rests at the intersection of federal election law and policy, legislative procedure, and constitutional provisions regarding congressional authority over House elections and membership. FCEA contests rarely change election results, as doing so typically requires the House to overturn a...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11734/IF11734.3.pdf"
-    },
-    {
-        "id": "R42918",
-        "source": "Congressional Research Service",
-        "title": "Chemical Facility Security: Issues and Options for the 113th Congress",
-        "publicationDate": "2014-12-12",
-        "category": "Other",
-        "summary": "The Department of Homeland Security (DHS) has had statutory authority to regulate chemical facilities for security purposes since the 109th Congress. The 113th Congress extended this authority through December 13, 2014, and has passed H.R. 4007, which provides new statutory authority. Congressional policy makers have debated the scope and details of reauthorization and continue to consider establishing an authority...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42918/R42918.38.pdf"
     },
     {
         "id": "R43064",
