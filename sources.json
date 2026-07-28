@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://thehill.com/homenews/administration/5993220-trump-new-air-force-one-scheme/",
+        "source": "The Hill",
+        "title": "Air Force One features new color scheme",
+        "publicationDate": "2026-07-28",
+        "category": "Defense",
+        "summary": "President Trump flew out of Michigan on Monday inside the Air Force One 757, which now features a new painted color scheme. The plane is now dark blue with a gold stripe and red trim, according to a pool report from Ana Ceballos, a Washington Correspondent for the Los Angeles Times. It now matches the...",
+        "url": "https://thehill.com/homenews/administration/5993220-trump-new-air-force-one-scheme/"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/5993136-el-sayed-stevens-michigan-democratic-senate-primary-debate/",
         "source": "The Hill",
         "title": "Fiery Michigan Senate primary reaches final stretch: Takeaways from El-Sayed, Stevens debate",
@@ -18,6 +27,24 @@
         "url": "https://thehill.com/policy/technology/5993164-federal-judge-halts-minnesota-prediction-market-ban/"
     },
     {
+        "id": "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html",
+        "source": "New York Times Politics",
+        "title": "Fauci, in Private Diary, Reflected on Covid’s Origins and His Own Fame",
+        "publicationDate": "2026-07-28",
+        "category": "Classified Information and State Secrets",
+        "summary": "Private entries, released by a Republican senator, have reignited a furious debate over whether Covid-19 leaked from a lab.",
+        "url": "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html",
+        "source": "New York Times Politics",
+        "title": "6 Takeaways From Michigan’s Senate Debate Between Abdul El-Sayed and Haley Stevens",
+        "publicationDate": "2026-07-28",
+        "category": "Elections",
+        "summary": "At the final debate before next week’s Democratic primary for Senate, Dr. Abdul El-Sayed and Representative Haley Stevens showcased their wildly different ideological stances and political styles.",
+        "url": "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html",
         "source": "New York Times Politics",
         "title": "Trump Backs New Talks but It’s Unclear What He Hopes to Achieve This Time",
@@ -27,13 +54,76 @@
         "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html"
     },
     {
-        "id": "https://www.ft.com/content/1800479f-1ec0-4806-bcba-984c722966a8?syn-25a6b1a6=1",
+        "id": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "Temperatures are expected to soar past 40C in some regions as a heatwave builds, further hampering firefighting efforts.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+        "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+        "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Amazon wins as India allows foreign money into consumer ecommerce",
+        "title": "AI stock sell-off deepens as investors dump chipmakers",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "SK Hynix and Samsung shares slide and trading halt triggered by fall in South Korea’s Kospi",
+        "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/39c96379-0797-43f0-ae01-6711dd8986dc?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU keeps firefighting planes on standby as France and Spain battle blazes",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "Also in this newsletter: Meloni doubles down on tough-on-crime agenda",
+        "url": "https://www.ft.com/content/39c96379-0797-43f0-ae01-6711dd8986dc?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/487d9a9f-5709-4fcb-9d75-45c16d6d1cfa?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: TotalEnergies to benefit from Russian sanctions U-turn",
         "publicationDate": "2026-07-28",
         "category": "Foreign Policy",
-        "summary": "Also in this newsletter, first legal win for OpenAI",
-        "url": "https://www.ft.com/content/1800479f-1ec0-4806-bcba-984c722966a8?syn-25a6b1a6=1"
+        "summary": "Also in today’s newsletter: AI’s rising risk gauge and the storms intensifying wildfires",
+        "url": "https://www.ft.com/content/487d9a9f-5709-4fcb-9d75-45c16d6d1cfa?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b11cae2f-e210-48ad-8665-3243c7b86e13",
+        "source": "Financial Times World",
+        "title": "Bank of England to raise rates this year if energy prices stay high",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "Read the July forecast from the FT’s Monetary Policy Radar team",
+        "url": "https://www.ft.com/content/b11cae2f-e210-48ad-8665-3243c7b86e13"
+    },
+    {
+        "id": "https://www.ft.com/content/c6e66af7-5ffe-46ff-8936-78d742c1cdfd?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "BYD takes on Japan’s ‘kei’ car market with tiny EV",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "Chinese company challenges Toyota on home turf in bid to become world’s largest carmaker in five years",
+        "url": "https://www.ft.com/content/c6e66af7-5ffe-46ff-8936-78d742c1cdfd?syn-25a6b1a6=1"
     },
     {
         "id": "R49046",
@@ -333,15 +423,6 @@
         "url": "https://thehill.com/blogs/in-the-know/5992992-cumberbatch-cumming-wong-warn-consolidation/"
     },
     {
-        "id": "https://thehill.com/newsletters/defense-national-security/5993089-pentagon-mum-as-us-casualties-in-iran-war-rise/",
-        "source": "The Hill",
-        "title": "Pentagon mum as US casualties in Iran war rise",
-        "publicationDate": "2026-07-27",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Pentagon mum as US casualties in Iran war rise The Pentagon’s Iran war casualty count topped 600 over the weekend, following a quiet update as the department faces questions about the absence of transparency. © AP...",
-        "url": "https://thehill.com/newsletters/defense-national-security/5993089-pentagon-mum-as-us-casualties-in-iran-war-rise/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html",
         "source": "New York Times Politics",
         "title": "Trump Blames Affordability Problems on Biden in Michigan Speech",
@@ -358,24 +439,6 @@
         "category": "United States Politics and Government",
         "summary": "The Trump administration asks justices to intervene after an appeals court blocked key parts of a mail-in voting executive order.",
         "url": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/27/us/politics/troy-jackson-maine-senate-democrats.html",
-        "source": "New York Times Politics",
-        "title": "Maine Democrats Have a New Working-Class Hero in Troy Jackson. Can He Deliver?",
-        "publicationDate": "2026-07-27",
-        "category": "Politics and Government",
-        "summary": "Troy Jackson, a former logger, faces the tall task of taking down Susan Collins.",
-        "url": "https://www.nytimes.com/2026/07/27/us/politics/troy-jackson-maine-senate-democrats.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html",
-        "source": "New York Times Politics",
-        "title": "Iran War Enters 6th Month and a Period of Greater Uncertainty",
-        "publicationDate": "2026-07-27",
-        "category": "Foreign Policy",
-        "summary": "Here is a rundown of the major events of the war, as both sides consider their next moves.",
-        "url": "https://www.nytimes.com/2026/07/27/us/politics/iran-war-timeline.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/27/source-bogus-buttigieg-allegation-appeared-mentally-unstable-records-show/",
@@ -396,15 +459,6 @@
         "url": "https://www.washingtonpost.com/world/2026/07/27/operation-southern-spear-has-not-slowed-cocaine-entering-us/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-        "publicationDate": "2026-07-27",
-        "category": "Other",
-        "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-        "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Trump says Iran war talks taking place during lull in strikes",
@@ -414,15 +468,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "publicationDate": "2026-07-27",
-        "category": "Foreign Policy",
-        "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
-        "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "China's new challenge as natural disasters strike - fake AI videos",
@@ -430,51 +475,6 @@
         "category": "Foreign Policy",
         "summary": "Storms and flooding incidents over the last few months have seen fake videos inundating social media.",
         "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "A Japanese town wrestles with identity after protests over its first mosque",
-        "publicationDate": "2026-07-27",
-        "category": "Foreign Policy",
-        "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
-        "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/66678363-382d-4659-b093-e61a2b6bcd6a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump seeks to revive his bond with blue-collar America",
-        "publicationDate": "2026-07-27",
-        "category": "Other",
-        "summary": "President aims to court voters in industrial heartland as his support flags ahead of November midterms",
-        "url": "https://www.ft.com/content/66678363-382d-4659-b093-e61a2b6bcd6a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/487d9a9f-5709-4fcb-9d75-45c16d6d1cfa?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Chinese chip champion CXMT surges 466% in market debut",
-        "publicationDate": "2026-07-27",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: Indonesia’s central bank chief resigns and Nvidia bets $5bn on Ilya Sutskever’s AI breakthrough",
-        "url": "https://www.ft.com/content/487d9a9f-5709-4fcb-9d75-45c16d6d1cfa?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/fbfd2caf-695f-493c-9ea2-56ef39373e4d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "What next for India’s protesters?",
-        "publicationDate": "2026-07-27",
-        "category": "Other",
-        "summary": "Opponents of ruling BJP’s imposition of ethanol-blended fuel launch campaign inspired by student-led movement",
-        "url": "https://www.ft.com/content/fbfd2caf-695f-493c-9ea2-56ef39373e4d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Big Tech credit risks rise sharply as AI spending soars",
-        "publicationDate": "2026-07-27",
-        "category": "Other",
-        "summary": "Investors are increasingly concerned over rush of borrowing to fund huge investments in data centres",
-        "url": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/26/republican-enthusiasm-problem-hits-even-core-voters/",
@@ -585,6 +585,15 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5069-1.html"
     },
     {
+        "id": "LSB11461",
+        "source": "Congressional Research Service",
+        "title": "Natural Gas Appliances, Energy Policy, and Federalism: Who Is in Charge?",
+        "publicationDate": "2026-07-20",
+        "category": "Other",
+        "summary": "To address climate change and other concerns related to emission of greenhouse gases, multiple jurisdictions in the United States have enacted new laws banning the construction and use of new products or infrastructure that burn natural gas. The most prominent of these are Local Law 154, adopted by the New York City Council in 2021, and a statewide effort in California to limit use of appliances and machinery that...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11461/LSB11461.1.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4418-1.html",
         "source": "RAND Corporation",
         "title": "Living with Wet Basements",
@@ -646,14 +655,5 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
-    },
-    {
-        "id": "IF13244",
-        "source": "Congressional Research Service",
-        "title": "Health Savings Account Contributions: By the Numbers",
-        "publicationDate": "2026-06-05",
-        "category": "Economy",
-        "summary": "A health savings account (HSA) is a tax-advantaged account that eligible individuals can use to save and pay for qualified medical expenses. Eligibility to contribute to an HSA is generally associated with enrollment in a high-deductible health plan (HDHP). An HSA is a trust or custodial account and not health insurance. HSAs have several tax advantages: individual contributions are tax deductible when not made...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13244/IF13244.2.pdf"
     }
 ]
