@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
+        "source": "RAND Corporation",
+        "title": "Veterans’ Participation in Public Programs",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "The authors analyze why veterans participate in social safety net programs at different rates than nonveterans, and how, specifically, receipt of disability compensation benefits drives these differences.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4405-5.html"
+    },
+    {
+        "id": "https://www.cfr.org/podcasts/spillover/the-real-ai-race-isnt-about-models-its-about-compute",
+        "source": "Council on Foreign Relations",
+        "title": "The Real AI Race Isn’t About Models. It’s About Compute.",
+        "publicationDate": "2026-07-28",
+        "category": "Foreign Policy",
+        "summary": "In this episode of The Spillover, host Sebastian Mallaby sits down with Jordan Schneider, founder and editor-in-chief of the ChinaTalk podcast and newsletter, to discuss AI progress and security, as well as the U.S.-China AI rivalry. Mentioned on the Episode: Jordan Schneider, “ChinaTalk” podcast and newsletter “DeepSeek: The Quiet Giant Leading China’s AI Race,” translation […]",
+        "url": "https://www.cfr.org/podcasts/spillover/the-real-ai-race-isnt-about-models-its-about-compute"
+    },
+    {
         "id": "https://ecfr.eu/article/shoring-up-the-red-sea-why-the-next-crisis-may-begin-in-the-horn-of-africa/",
         "source": "European Council on Foreign Relations",
         "title": "Shoring up the Red Sea: Why the next crisis may begin in the Horn of Africa",
@@ -45,49 +63,67 @@
         "url": "https://www.npr.org/2026/07/28/nx-s1-5906784/survey-finds-most-americans-believe-corruption-is-a-problem-in-politics"
     },
     {
-        "id": "https://thehill.com/homenews/5993192-thyroid-medicine-recalled-nationwide-fda/",
-        "source": "The Hill",
-        "title": "Thyroid medicine recalled nationwide: FDA",
+        "id": "https://www.pbs.org/newshour/politics/watch-live-sen-lindsey-graham-remembered-in-funeral-service-at-washington-national-cathedral",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Sen. Lindsey Graham remembered in funeral service at Washington National Cathedral",
         "publicationDate": "2026-07-28",
-        "category": "News",
-        "summary": "The Levothyroxine Sodium Tablets were recalled because they aren't fully effective, said the FDA.",
-        "url": "https://thehill.com/homenews/5993192-thyroid-medicine-recalled-nationwide-fda/"
+        "category": "Donald Trump news",
+        "summary": "President Donald Trump is expected to deliver remarks at the cathedral, alongside Fox News' Sean Hannity and other conservative leaders.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-sen-lindsey-graham-remembered-in-funeral-service-at-washington-national-cathedral"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/5993349-alzheimers-disease-study-watching-tv/",
+        "id": "https://thehill.com/homenews/5993647-zelensky-trump-meeting-washington/",
         "source": "The Hill",
-        "title": "Study links heavy TV watching to brain changes tied to Alzheimer's",
+        "title": "Zelensky arrives in US for Trump meeting, Graham funeral",
         "publicationDate": "2026-07-28",
-        "category": "Healthcare",
-        "summary": "Heavy TV viewers had smaller brain volumes and white matter damage tied to cognitive decline.",
-        "url": "https://thehill.com/policy/healthcare/5993349-alzheimers-disease-study-watching-tv/"
+        "category": "Defense",
+        "summary": "Ukrainian President Volodymyr Zelensky arrived in Washington, D.C. early Tuesday morning for a meeting with President Trump and to attend the funeral for Sen. Lindsey Graham (R-S.C.). “Our number-one priority is anti-ballistic defense and strategic cooperation with America. Peace needs to be brought closer,” Zelensky wrote in a post on X at 1:30 a.m. EDT. ...",
+        "url": "https://thehill.com/homenews/5993647-zelensky-trump-meeting-washington/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/5993113-save-america-act-recess-fight/",
+        "id": "https://thehill.com/policy/national-security/5993746-acting-dni-pulte-staff-layoffs/",
         "source": "The Hill",
-        "title": "Trump, Thune clash over canceling August recess to debate SAVE America Act",
+        "title": "Pulte completes more intelligence community layoffs ahead of Clayton confirmation vote",
         "publicationDate": "2026-07-28",
-        "category": "Senate",
-        "summary": "President Trump and Senate Majority Leader John Thune (R-S.D.) clashed on Monday over the idea of canceling the Senate’s August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act, Trump’s No. 1 legislative priority. Thune warned against wasting time on a bill that has already failed multiple times on the Senate floor, while...",
-        "url": "https://thehill.com/homenews/senate/5993113-save-america-act-recess-fight/"
+        "category": "Defense",
+        "summary": "Acting Director of National Intelligence (DNI) Bill Pulte used what are expected to be his final hours in the role to complete a fifth round of layoffs. Pulte said the layoffs will have resulted in a 30 percent reduction of staff at the Office of the Director of National Intelligence (ODNI) carried out over a...",
+        "url": "https://thehill.com/policy/national-security/5993746-acting-dni-pulte-staff-layoffs/"
     },
     {
-        "id": "https://thehill.com/homenews/media/5992805-chris-cuomo-tech-event/",
+        "id": "https://thehill.com/homenews/administration/5993734-trump-on-graham-military-hawk/",
         "source": "The Hill",
-        "title": "NewsNation to host town hall on future of technology as AI concerns grow",
+        "title": "Trump ahead of Graham funeral: ‘He's never seen a war that he didn't like’",
         "publicationDate": "2026-07-28",
-        "category": "Technology",
-        "summary": "On Tuesday, cable news channel NewsNation will host a town hall event focusing on the future of technology and how its evolution will impact all facets of human life for years to come. The event, to be broadcast at 8 p.m. EDT and moderated by NewsNation anchor Chris Cuomo, is slated to feature in-depth conversations with leading innovators, tech leaders, scientists and other cultural voices, the network said this...",
-        "url": "https://thehill.com/homenews/media/5992805-chris-cuomo-tech-event/"
+        "category": "Defense",
+        "summary": "President Trump said the late Sen. Lindsey Graham (R-S.C.) “liked war” and was “very strong on the military” ahead of his funeral Tuesday. “Lindsey liked war,” Trump said on “Fox and Friends.” “I jokingly say, and there’s nothing funny about it, but he’s never seen a war he didn’t like. He was very much into...",
+        "url": "https://thehill.com/homenews/administration/5993734-trump-on-graham-military-hawk/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5992413-new-hampshire-primary-legacy/",
+        "id": "https://thehill.com/homenews/administration/5993687-donald-trump-rand-paul-anthony-fauci-diaries/",
         "source": "The Hill",
-        "title": "Democrats still suffering from Bernie burnout",
+        "title": "Trump responds to Fauci diaries: ‘I grew tired of him'",
         "publicationDate": "2026-07-28",
-        "category": "Campaign",
-        "summary": "Sen. Bernie Sanders (I-Vt.) may not have accomplished very much in terms of policy in 35 years in Congress and two presidential runs, but Democrats are very much living in a party that is the creation of the independent senator from Vermont. As members of the Democratic National Committee’s (DNC) Rules and Bylaws Committee gathered...",
-        "url": "https://thehill.com/homenews/campaign/5992413-new-hampshire-primary-legacy/"
+        "category": "Administration",
+        "summary": "President Trump responded to recently released entries from Dr. Anthony Fauci on Tuesday, saying he grew tired of the former White House medical adviser. \"He was a much bigger player in the Biden administration. I grew tired of him,” Trump said in an interview with Fox News. “He wanted to close everything down. I allowed...",
+        "url": "https://thehill.com/homenews/administration/5993687-donald-trump-rand-paul-anthony-fauci-diaries/"
+    },
+    {
+        "id": "https://thehill.com/opinion/campaign/5992874-ai-growth-strains-electric-grid/",
+        "source": "The Hill",
+        "title": "Welcome to a data center near you",
+        "publicationDate": "2026-07-28",
+        "category": "Opinions - Campaign",
+        "summary": "Data centers have emerged as a major political issue heading into the 2026 midterm elections due to concerns regarding job creation, water consumption, and the strain on the national electric grid.",
+        "url": "https://thehill.com/opinion/campaign/5992874-ai-growth-strains-electric-grid/"
+    },
+    {
+        "id": "https://www.nytimes.com/live/2026/07/28/us/lindsey-graham-funeral-services/heres-what-to-know",
+        "source": "New York Times Politics",
+        "title": "Here’s what to know.",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://www.nytimes.com/live/2026/07/28/us/lindsey-graham-funeral-services/heres-what-to-know"
     },
     {
         "id": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-watch.html",
@@ -126,15 +162,6 @@
         "url": "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html",
-        "source": "New York Times Politics",
-        "title": "6 Takeaways From Michigan’s Senate Debate Between Abdul El-Sayed and Haley Stevens",
-        "publicationDate": "2026-07-28",
-        "category": "Elections",
-        "summary": "At the final debate before next week’s Democratic primary for Senate, Dr. Abdul El-Sayed and Representative Haley Stevens showcased their wildly different ideological stances and political styles.",
-        "url": "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/lifestyle/2026/07/28/grandma-fought-bill-allow-happy-hour-minnesota-senior-homes/",
         "source": "Washington Post Politics",
         "title": "This grandma fought for a bill to allow happy hour at retirement homes",
@@ -142,15 +169,6 @@
         "category": "Other",
         "summary": "Anita LeBrun said she hoped to enjoy a drink with her friends, but it was also a matter of independence.",
         "url": "https://www.washingtonpost.com/lifestyle/2026/07/28/grandma-fought-bill-allow-happy-hour-minnesota-senior-homes/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Zelensky to press Trump on air defences while in Washington",
-        "publicationDate": "2026-07-28",
-        "category": "Foreign Policy",
-        "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
-        "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
@@ -171,6 +189,15 @@
         "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Zidane confirmed as France head coach",
@@ -189,13 +216,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/c73bed01-2386-41a8-8db8-88069b558797?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "AI boom raises risks of monetary policy mistakes, warn BIS economists",
+        "title": "US tech stocks enter correction as AI sell-off deepens",
         "publicationDate": "2026-07-28",
-        "category": "Economy",
-        "summary": "Assessing strength and timing of technology’s effect on GDP and inflation a challenge for central banks",
-        "url": "https://www.ft.com/content/c73bed01-2386-41a8-8db8-88069b558797?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Nasdaq 100 has lost more than 10% since June high as chipmakers tumble",
+        "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/568eb170-a4c1-445d-8edb-67fa51f7a134?syn-25a6b1a6=1",
@@ -203,62 +230,62 @@
         "title": "Powerful earthquake hits Japan’s southern Kumamoto prefecture",
         "publicationDate": "2026-07-28",
         "category": "Other",
-        "summary": "Buildings and bridges collapse and blast reported at shopping centre as chipmaker TSMC evacuates workers from plant",
+        "summary": "Reports of multiple deaths from blast at shopping centre and widespread damage to buildings and infrastructure",
         "url": "https://www.ft.com/content/568eb170-a4c1-445d-8edb-67fa51f7a134?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/ba86f426-0386-4afb-acb8-cdd56371a5a8?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "AI stock sell-off deepens as investors dump chipmakers",
+        "title": "Trump sets stage for Netanyahu meeting amid tensions with Israeli PM",
         "publicationDate": "2026-07-28",
         "category": "Other",
-        "summary": "South Korea’s tech-heavy Kospi leads declines in Asia",
-        "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1"
+        "summary": "Also in today’s newsletter, an uphill financial battle for Democrats in Maine Senate race",
+        "url": "https://www.ft.com/content/ba86f426-0386-4afb-acb8-cdd56371a5a8?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/895d9928-4b9f-4401-91c0-760752dcb4d1",
+        "id": "https://www.ft.com/content/e8a4b77a-f420-409a-938f-17521c5ba7bf?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Sorry, but Spanish olive oil is far superior to Italian",
+        "title": "Air Force One refurbishment costs weigh on Boeing results",
         "publicationDate": "2026-07-28",
-        "category": "Other",
-        "summary": "One grower makes a case",
-        "url": "https://www.ft.com/content/895d9928-4b9f-4401-91c0-760752dcb4d1"
-    },
-    {
-        "id": "https://www.ft.com/content/487d9a9f-5709-4fcb-9d75-45c16d6d1cfa?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Tech stocks spiral lower",
-        "publicationDate": "2026-07-28",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: AI’s rising risk gauge and the storms intensifying wildfires",
-        "url": "https://www.ft.com/content/487d9a9f-5709-4fcb-9d75-45c16d6d1cfa?syn-25a6b1a6=1"
-    },
-    {
-        "id": "R49046",
-        "source": "Congressional Research Service",
-        "title": "Energy and Water Development and Related Agencies Appropriations: Funding History and Agency Descriptions",
-        "publicationDate": "2026-07-27",
         "category": "Defense",
-        "summary": "The Energy and Water Development and Related Agencies appropriations (E&W) bill, typically enacted on an annual basis, funds civil works activities of the U.S. Army Corps of Engineers (USACE) in the Department of Defense; the Department of the Interior’s Bureau of Reclamation (Reclamation) and Central Utah Project (CUP); the Department of Energy (DOE); the Nuclear Regulatory Commission (NRC); the Appalachian...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49046/R49046.1.pdf"
+        "summary": "Overhaul of presidential jet offsets continued improvement in group’s commercial airliner business",
+        "url": "https://www.ft.com/content/e8a4b77a-f420-409a-938f-17521c5ba7bf?syn-25a6b1a6=1"
     },
     {
-        "id": "IN12719",
-        "source": "Congressional Research Service",
-        "title": "Technology-Neutral Clean Electricity Tax Credits Under the IRA and the OBBBA",
-        "publicationDate": "2026-07-27",
+        "id": "https://www.ft.com/content/3c62f28e-d7bc-409e-af17-61002472f3f7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "A truly progressive VAT would solve a lot of UK tax problems",
+        "publicationDate": "2026-07-28",
         "category": "Economy",
-        "summary": "When the FY2022 reconciliation law, also known as the Inflation Reduction Act (IRA), was enacted, it brought about a shift in the energy tax credit landscape. Among other changes, the IRA scheduled the two largest renewable energy tax credits to begin phasing out after 2024, thereafter replacing them with technology-neutral credits. In energy tax policy, technological neutrality refers to the idea of giving the...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12719/IN12719.3.pdf"
+        "summary": "Ending exemptions while excluding low-income households would be fairer and bring in far more revenue",
+        "url": "https://www.ft.com/content/3c62f28e-d7bc-409e-af17-61002472f3f7?syn-25a6b1a6=1"
     },
     {
-        "id": "R48845",
+        "id": "IF12700",
         "source": "Congressional Research Service",
-        "title": "Surface Transportation Reauthorization: Federal Highway Programs",
+        "title": "“Skinny Labels” for Generic Drugs Under Hatch-Waxman",
+        "publicationDate": "2026-07-27",
+        "category": "Healthcare",
+        "summary": "New “brand-name” drugs are often protected from generic competition by patents. In general, a drug manufacturer intending to market a generic version of a brand-name drug must either wait for those patents to expire or challenge the validity or applicability of the patents in court. While some drug patents cover the active ingredient itself, other patents cover different things related to the drug, such as methods...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12700/IF12700.6.pdf"
+    },
+    {
+        "id": "LSB11459",
+        "source": "Congressional Research Service",
+        "title": "Fifth and Sixth Circuits Divided on Whether the Necessary and Proper Clause Authorizes Federal Ban on At-Home Spirit Distilling",
         "publicationDate": "2026-07-27",
         "category": "Economy",
-        "summary": "Federal funding for public roads is provided primarily through highway programs administered by the Department of Transportation’s (DOT’s) Federal Highway Administration (FHWA). Congress most recently authorized the federal highway programs for FY2022-FY2026 as part of the Infrastructure Investment and Jobs Act (IIJA; P.L. 117-58), a five-year surface transportation authorization act. Congress may consider future...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48845/R48845.9.pdf"
+        "summary": "For more than 150 years, federal law has banned individuals from distilling spirits at home. Internal Revenue Code (IRC) §§ 5601(a)(6) and 5178(a)(1)(B) prohibit individuals from producing spirits at home for personal consumption by restricting a spirit distillery’s location and attaching criminal penalties to noncompliance. In the past few years, persons seeking to engage in at-home distilling have filed federal...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11459/LSB11459.2.pdf"
+    },
+    {
+        "id": "LSB11462",
+        "source": "Congressional Research Service",
+        "title": "Supreme Court Limits Patent Infringement Liability for “Skinny Label” Generic Drugs",
+        "publicationDate": "2026-07-27",
+        "category": "Healthcare",
+        "summary": "On June 4, 2026, the Supreme Court issued its decision in Hikma Pharmaceuticals USA Inc. v. Amarin Pharma, Inc., a closely watched patent-infringement case with significant consequences for the generic-drug industry. Hikma v. Amarin concerned what are sometimes called the “skinny label” provisions of the Hatch-Waxman Act of 1984, which created accelerated pathways for the approval of generic drugs by the U.S. Food...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11462/LSB11462.1.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/trump-administrations-dealing-in-companies-is-on-shaky-ground-2",
@@ -468,15 +495,6 @@
         "url": "https://www.pbs.org/newshour/politics/show-me-how-this-ends-thune-responds-to-trumps-escalated-calls-to-pass-save-america-act"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/trump-administration-urges-supreme-court-to-allow-order-targeting-mail-in-voting-before-midterms",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms",
-        "publicationDate": "2026-07-27",
-        "category": "Department of Justice",
-        "summary": "The Trump administration asked the Supreme Court on Monday to clear the way for an executive order from President Donald Trump that could dramatically change mail-in voting.",
-        "url": "https://www.pbs.org/newshour/politics/trump-administration-urges-supreme-court-to-allow-order-targeting-mail-in-voting-before-midterms"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/27/source-bogus-buttigieg-allegation-appeared-mentally-unstable-records-show/",
         "source": "Washington Post Politics",
         "title": "Police vetted dubious allegation only after Buttigieg was separated from children",
@@ -493,24 +511,6 @@
         "category": "Healthcare",
         "summary": "The president says Operation Southern Spear has virtually ended drug trafficking by sea. Pentagon and DEA analysts have concluded otherwise.",
         "url": "https://www.washingtonpost.com/world/2026/07/27/operation-southern-spear-has-not-slowed-cocaine-entering-us/"
-    },
-    {
-        "id": "R47911",
-        "source": "Congressional Research Service",
-        "title": "Freight Rail Safety Issues in the 119th Congress",
-        "publicationDate": "2026-07-24",
-        "category": "Technology",
-        "summary": "The February 3, 2023, train derailment and chemical spill in East Palestine, OH, raised the profile of rail safety issues. Railroad labor organizations and some state and local governments have voiced concerns about railroad business practices that, in their view, put employees and communities at unnecessary risk. Railroad companies, meanwhile, have characterized more stringent safety requirements as unnecessary...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47911/R47911.8.pdf"
-    },
-    {
-        "id": "https://www.cfr.org/articles/how-does-the-iran-war-end",
-        "source": "Council on Foreign Relations",
-        "title": "How Does the Iran War End?",
-        "publicationDate": "2026-07-24",
-        "category": "Foreign Policy",
-        "summary": "CFR President Michael Froman analyzes three potential outcomes of the Iran War.",
-        "url": "https://www.cfr.org/articles/how-does-the-iran-war-end"
     },
     {
         "id": "https://www.heritage.org/global-politics/report/state-department-must-stop-funding-radical-un-humanitarian-agency",
@@ -540,6 +540,15 @@
         "url": "https://ecfr.eu/podcasts/episode/the-china-native-generation/"
     },
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
+        "source": "RAND Corporation",
+        "title": "Sustaining Agile Operations",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "This report analyzes emerging energy and water technologies that could improve operational agility in contested environments. It evaluates advances in portable power, storage, and purification to enhance sustainability and reduce logistics risk.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA3582-2.html"
+    },
+    {
         "id": "https://www.heritage.org/courts/commentary/nino-the-federalist-society-falstaff",
         "source": "Heritage Foundation",
         "title": "Nino, the Federalist Society Falstaff",
@@ -567,13 +576,31 @@
         "url": "https://ecfr.eu/article/one-foot-out-understanding-bulgarias-geopolitical-shift-under-radev/"
     },
     {
-        "id": "LSB11459",
-        "source": "Congressional Research Service",
-        "title": "Fifth and Sixth Circuits Divided on Whether the Necessary and Proper Clause Authorizes Federal Ban on At-Home Spirit Distilling",
+        "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
+        "source": "RAND Corporation",
+        "title": "China's strategic petroleum reserve as a geoeconomic tool",
+        "publicationDate": "2026-07-21",
+        "category": "Foreign Policy",
+        "summary": "Chinese policy around the use of their SPR as a geoeconomic tool, particularly in crisis scenarios, is not well understood. This project investigates potential ways for China to do so, but not whether China actually intends to use it in this way.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5069-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4418-1.html",
+        "source": "RAND Corporation",
+        "title": "Living with Wet Basements",
         "publicationDate": "2026-07-20",
-        "category": "Economy",
-        "summary": "For more than 150 years, federal law has banned individuals from distilling spirits at home. Internal Revenue Code (IRC) §§ 5601(a)(6) and 5178(a)(1)(B) prohibit individuals from producing spirits at home for personal consumption by restricting a spirit distillery’s location and attaching criminal penalties to noncompliance. In the past few years, persons seeking to engage in at-home distilling have filed federal...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11459/LSB11459.1.pdf"
+        "category": "Other",
+        "summary": "This report presents findings from a study conducted in Pittsburgh to document the prevalence of and experiences with basement wetness, the barriers that residents face in addressing it, and options available to solve the problem.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4418-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4256-1.html",
+        "source": "RAND Corporation",
+        "title": "Examining the Impact of Senate Bill 1160 on Utilization Review and Medical Treatment in California Workers' Compensation",
+        "publicationDate": "2026-07-20",
+        "category": "Other",
+        "summary": "Senate Bill 1160 reduced utilization review (UR) requirements for some treatments during the first 30 days after a work-related injury. The authors examined effects on UR processes and medical treatment in California’s workers’ compensation system.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4256-1.html"
     },
     {
         "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
@@ -583,6 +610,15 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
+    },
+    {
+        "id": "TE10124",
+        "source": "Congressional Research Service",
+        "title": "Election Observation: Best Practices and Congress’s Role",
+        "publicationDate": "2026-07-15",
+        "category": "Other",
+        "summary": "Article I, Section 4 Article I, Section 5 COCOA Confirmation of Congressional Observer Access Act of 2024 Congressional authority Elections Elections Clause Election Observer Election Monitor Roudebush v. Hartke",
+        "url": "https://www.congress.gov/crs_external_products/TE/PDF/TE10124/TE10124.1.pdf"
     },
     {
         "id": "https://www.cer.eu/media/times-radio-nato-summit",
@@ -610,5 +646,14 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
+    },
+    {
+        "id": "R44525",
+        "source": "Congressional Research Service",
+        "title": "Fannie Mae and Freddie Mac in Conservatorship: Frequently Asked Questions",
+        "publicationDate": "2020-07-22",
+        "category": "Economy",
+        "summary": "Congress chartered Fannie Mae and Freddie Mac as government-sponsored enterprises (GSEs) to provide liquidity in the mortgage market and promote homeownership for underserved groups and locations. The GSEs purchase mortgages, retain the credit risk (for a fee), and package them into mortgage-backed securities (MBSs) that they either keep as investments or sell to institutional investors. In the years following the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44525/R44525.8.pdf"
     }
 ]
