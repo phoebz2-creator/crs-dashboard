@@ -9,15 +9,6 @@
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13278/IF13278.1.pdf"
     },
     {
-        "id": "IF13277",
-        "source": "Congressional Research Service",
-        "title": "U.S. Refugee Admissions Program in FY2025 and FY2026",
-        "publicationDate": "2026-07-28",
-        "category": "Foreign Policy",
-        "summary": "The U.S. Refugee Admissions Program (USRAP) is in uncharted territory. It has been suspended since late January 2025. Under the suspension, only refugees who qualify for an exception are being admitted to the United States. The refugee ceiling (the maximum number of refugees that can be admitted) for FY2026 is currently 17,500, the lowest in the history of the USRAP. As of June 30, 2026, FY2026 refugee admissions...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13277/IF13277.1.pdf"
-    },
-    {
         "id": "IF10767",
         "source": "Congressional Research Service",
         "title": "Farm Credit Administration and Its Board Members",
@@ -25,6 +16,15 @@
         "category": "Economy",
         "summary": "Overview Congress oversees the Farm Credit Administration (FCA), which is the federal financial regulator responsible for ensuring the safety and soundness of Farm Credit System (FCS) institutions and the Federal Agricultural Mortgage Corporation (Farmer Mac). FCA is directed by a three-member board of directors nominated by the President and confirmed by the Senate (12 U.S.C. §2242). Currently, one position is...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10767/IF10767.20.pdf"
+    },
+    {
+        "id": "IF13277",
+        "source": "Congressional Research Service",
+        "title": "U.S. Refugee Admissions Program in FY2025 and FY2026",
+        "publicationDate": "2026-07-28",
+        "category": "Foreign Policy",
+        "summary": "The U.S. Refugee Admissions Program (USRAP) is in uncharted territory. It has been suspended since late January 2025. Under the suspension, only refugees who qualify for an exception are being admitted to the United States. The refugee ceiling (the maximum number of refugees that can be admitted) for FY2026 is currently 17,500, the lowest in the history of the USRAP. As of June 30, 2026, FY2026 refugee admissions...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13277/IF13277.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
@@ -99,6 +99,15 @@
         "url": "https://www.hudson.org/national-security-defense/unconventional-warfare-escalation-across-eurasia-specific-risks-within-husain-haqqani"
     },
     {
+        "id": "https://cms.hoover.org/research/cockroach-machine-how-gen-z-rattling-south-asias-elites",
+        "source": "Hoover Institution",
+        "title": "The 'Cockroach' In The Machine: How Gen Z Is Rattling South Asia's Elites",
+        "publicationDate": "2026-07-28",
+        "category": "Other",
+        "summary": "In September 2025, Nepal's government banned 26 popular social media platforms, alleging the companies had failed to comply with new regulations aimed at curbing misinformation and online hate speech. Critics, however, viewed the move as an attempt to suppress viral videos showcasing the lavish lifestyles of politicians and their \"nepo kids.\" Mass protests followed, and within days, Prime Minister K.P. Sharma Oli...",
+        "url": "https://cms.hoover.org/research/cockroach-machine-how-gen-z-rattling-south-asias-elites"
+    },
+    {
         "id": "https://cms.hoover.org/research/will-we-ever-learn",
         "source": "Hoover Institution",
         "title": "Will We Ever Learn?",
@@ -135,13 +144,22 @@
         "url": "https://cms.hoover.org/research/warshs-task-forces-have-big-job-hand-it-may-need-get-even-bigger"
     },
     {
-        "id": "https://cms.hoover.org/news/todays-battlegrounds-marks-its-100th-episode-singapore-foreign-minister-vivian-balakrishnan",
-        "source": "Hoover Institution",
-        "title": "Today’s Battlegrounds Marks Its 100th Episode with Singapore Foreign Minister Vivian Balakrishnan",
+        "id": "https://ecfr.eu/article/the-saudi-dilemma-how-yemen-could-shape-the-next-phase-of-the-iran-war/",
+        "source": "European Council on Foreign Relations",
+        "title": "The Saudi dilemma: How Yemen could shape the next phase of the Iran war",
         "publicationDate": "2026-07-28",
         "category": "Foreign Policy",
-        "summary": "The Hoover Institution's Today's Battlegrounds with H.R. McMaster has reached its 100th episode, marking a major milestone for a series devoted to thoughtful conversations about the challenges shaping global security, freedom, and prosperity.",
-        "url": "https://cms.hoover.org/news/todays-battlegrounds-marks-its-100th-episode-singapore-foreign-minister-vivian-balakrishnan"
+        "summary": "As the Houthis attack Saudi ships and infrastructure, Riyadh faces an increasingly difficult choice: absorb the blows to stay out of the Iran war or retaliate and risk a dangerous escalation.",
+        "url": "https://ecfr.eu/article/the-saudi-dilemma-how-yemen-could-shape-the-next-phase-of-the-iran-war/"
+    },
+    {
+        "id": "https://ecfr.eu/article/shoring-up-the-red-sea-why-the-next-crisis-may-begin-in-the-horn-of-africa/",
+        "source": "European Council on Foreign Relations",
+        "title": "Shoring up the Red Sea: Why the next crisis may begin in the Horn of Africa",
+        "publicationDate": "2026-07-28",
+        "category": "Africa",
+        "summary": "The Red Sea is becoming more dangerous, and not only because of the Houthis. Conflicts in the Horn of Africa are converging and drawing in external powers, creating new threats to a maritime corridor vital to global trade.",
+        "url": "https://ecfr.eu/article/shoring-up-the-red-sea-why-the-next-crisis-may-begin-in-the-horn-of-africa/"
     },
     {
         "id": "https://www.npr.org/2026/07/28/nx-s1-5903108/democrats-are-focused-on-affordability-some-say-they-should-focus-on-democracy-too",
@@ -189,94 +207,121 @@
         "url": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/what-to-know-about-south-dakotas-midterm-primary-runoff",
+        "id": "https://www.pbs.org/newshour/show/what-netanyahu-and-zelenskyy-are-hoping-to-accomplish-after-meetings-with-trump",
         "source": "PBS NewsHour Politics",
-        "title": "What to know about South Dakota's midterm primary runoff",
+        "title": "What Netanyahu and Zelenskyy are hoping to accomplish after meetings with Trump",
         "publicationDate": "2026-07-28",
-        "category": "Donald Trump news",
-        "summary": "South Dakota Republicans will decide in a primary runoff Tuesday whether to nominate Gov. Larry Rhoden for a full term or to instead tap businessman Toby Doeden to represent the party on the ballot in November.",
-        "url": "https://www.pbs.org/newshour/politics/what-to-know-about-south-dakotas-midterm-primary-runoff"
+        "category": "Foreign Policy",
+        "summary": "The late Sen. Lindsey Graham was remembered as a tireless fighter for South Carolina and an influential fixture on the world stage during a memorial service in Washington. President Trump eulogized Graham after hosting two of Graham's strongest international allies, Israeli Prime Minister Netanyahu and Ukrainian President Zelenskyy. Nick Schifrin reports.",
+        "url": "https://www.pbs.org/newshour/show/what-netanyahu-and-zelenskyy-are-hoping-to-accomplish-after-meetings-with-trump"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-trump-pays-tribute-to-sen-graham-during-national-cathedral-funeral-service",
+        "id": "https://www.pbs.org/newshour/show/lindsey-graham-remembered-for-impact-on-south-carolina-and-the-world",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump pays tribute to Sen. Graham during National Cathedral funeral service",
+        "title": "Lindsey Graham remembered for impact on South Carolina and the world",
         "publicationDate": "2026-07-28",
-        "category": "Donald Trump news",
-        "summary": "President Donald Trump paid tribute to the late Sen. Lindsay Graham, R-S.C., at a memorial service Tuesday at the Washington National Cathedral. Watch the president's full remarks in the video player above. \"For more than 30 years, nothing of consequence happened in this capital without Lindsey Graham knowing about it. Nothing of significance happened anywhere in the world without Lindsey Graham having a view on...",
-        "url": "https://www.pbs.org/newshour/politics/watch-trump-pays-tribute-to-sen-graham-during-national-cathedral-funeral-service"
+        "category": "Foreign Policy",
+        "summary": "Sen. Lindsey Graham's memorial brought together presidents, prime ministers, senators and more. The day began at the Capitol, where the late congressman and senator served for 30 years and became known as a foreign policy hawk, a key presence on the Senate Judiciary Committee and ultimately, a strong ally of President Trump. Geoff Bennett spoke with Gavin Jackson of South Carolina ETV.",
+        "url": "https://www.pbs.org/newshour/show/lindsey-graham-remembered-for-impact-on-south-carolina-and-the-world"
     },
     {
-        "id": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/what-we-get-wrong-about-appalachia",
+        "id": "https://www.pbs.org/newshour/world/u-s-looks-to-boost-anti-china-spending-worldwide-by-hundreds-of-millions-of-dollars-documents-say",
         "source": "PBS NewsHour Politics",
-        "title": "What we get wrong about Appalachia",
+        "title": "U.S. looks to boost anti-China spending worldwide by hundreds of millions of dollars, documents say",
         "publicationDate": "2026-07-28",
-        "category": "Other",
-        "summary": "Emilee Hackney grew up in small-town Appalachia in a church that taught her men were meant to lead. In this episode of Settle In, she spoke with Amna Nawaz about her debut memoir, \"All That's Unseen: An Appalachian Memoir,\" the world she grew up in and reconciling it with everything she encountered since.",
-        "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/what-we-get-wrong-about-appalachia"
+        "category": "Foreign Policy",
+        "summary": "Many of the proposed programs are designed to \"reclaim diplomatic leverage\" through investments in areas where the U.S. had previously been spending money but stopped.",
+        "url": "https://www.pbs.org/newshour/world/u-s-looks-to-boost-anti-china-spending-worldwide-by-hundreds-of-millions-of-dollars-documents-say"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/pennsylvania-democrat-targets-data-centers-in-drive-to-oust-republican-from-house-seat",
+        "id": "https://www.pbs.org/newshour/show/why-doctors-say-abortion-bans-are-worsening-medical-care-during-miscarriages",
         "source": "PBS NewsHour Politics",
-        "title": "Pennsylvania Democrat targets data centers in drive to oust Republican from House seat",
-        "publicationDate": "2026-07-28",
-        "category": "data center",
-        "summary": "Democrat Paige Cognetti is taking a shot at data centers in her challenge to freshman Republican Rep. Rob Bresnahan, saying \"we're not for sale\" in a new TV ad.",
-        "url": "https://www.pbs.org/newshour/politics/pennsylvania-democrat-targets-data-centers-in-drive-to-oust-republican-from-house-seat"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/early-voting-begins-in-wisconsin-primary-featuring-chaotic-democratic-governors-race",
-        "source": "PBS NewsHour Politics",
-        "title": "Early voting begins in Wisconsin primary featuring chaotic Democratic governor's race",
-        "publicationDate": "2026-07-28",
-        "category": "Democratic Party",
-        "summary": "Early in-person voting is beginning in swing state Wisconsin's chaotic Democratic primary for governor, with a democratic socialist trying to overcome the incumbent governor's pick.",
-        "url": "https://www.pbs.org/newshour/politics/early-voting-begins-in-wisconsin-primary-featuring-chaotic-democratic-governors-race"
-    },
-    {
-        "id": "https://thehill.com/newsletters/healthcare/5995370-cyclospora-concerns-raise-questions-about-produce-safety/",
-        "source": "The Hill",
-        "title": "Cyclospora concerns raise questions about produce safety",
+        "title": "Why doctors say abortion bans are worsening medical care during miscarriages",
         "publicationDate": "2026-07-28",
         "category": "Healthcare",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Health Care The Big Story Cyclospora concerns continue to dominate As federal health officials insist the U.S. food health supply is \"safe\" amid the ongoing cyclospora outbreak, concerns continue to sway American lawmakers and consumers alike. © David Paul Morris/Bloomberg via Getty Images Donald Prater,...",
-        "url": "https://thehill.com/newsletters/healthcare/5995370-cyclospora-concerns-raise-questions-about-produce-safety/"
+        "summary": "It's been four years since the Supreme Court's Dobbs decision opened the door to state abortion bans. Now, a new study finds those bans are hurting women who aren't seeking abortions at all. Researchers found delays in miscarriage treatment increase the risk to a woman's health and fertility and prolong the grief of a lost pregnancy. Special correspondent Sarah Varney reports.",
+        "url": "https://www.pbs.org/newshour/show/why-doctors-say-abortion-bans-are-worsening-medical-care-during-miscarriages"
     },
     {
-        "id": "https://thehill.com/homenews/media/5995303-new-york-times-douthat-cbs-60-minutes/",
-        "source": "The Hill",
-        "title": "New York Times's Douthat moving to CBS News's ‘60 Minutes'",
+        "id": "https://www.pbs.org/newshour/show/board-packed-with-trump-allies-votes-to-weaken-protections-for-historic-sites",
+        "source": "PBS NewsHour Politics",
+        "title": "Board packed with Trump allies votes to weaken protections for historic sites",
         "publicationDate": "2026-07-28",
-        "category": "Media",
-        "summary": "New York Times opinion journalist Ross Douthat is reportedly set to join CBS News and \"60 Minutes\" as a correspondent. Douthat, a columnist at the Times and one of the leading voices of its opinion section, is reportedly one of a handful of new journalists who will join CBS ahead of the new season of...",
-        "url": "https://thehill.com/homenews/media/5995303-new-york-times-douthat-cbs-60-minutes/"
+        "category": "Other",
+        "summary": "An advisory council packed with Trump allies voted to weaken federal oversight of construction projects affecting historic sites. Critics are concerned that this move will open the floodgates to endangering preservation of historic and cultural places across the country. Jeffrey Brown discussed more with Phillip Kennicott of The Washington Post. It's for our arts and culture series, CANVAS.",
+        "url": "https://www.pbs.org/newshour/show/board-packed-with-trump-allies-votes-to-weaken-protections-for-historic-sites"
     },
     {
-        "id": "https://thehill.com/business/5995257-corporate-boardroom-diversity-sinks-to-lowest-in-more-than-a-decade-analysis/",
+        "id": "https://thehill.com/homenews/5995368-comer-warns-fauci-congress/",
         "source": "The Hill",
-        "title": "Corporate boardroom diversity sinks to lowest in more than a decade: Analysis",
+        "title": "Comer warns Fauci: Biden's pardon doesn't cover testimony this week",
         "publicationDate": "2026-07-28",
-        "category": "Business",
-        "summary": "A new analysis released Tuesday shows corporate boardroom diversity among S&P 500 companies has dropped to its lowest level in more than a decade. The analysis from global advisory search firm Spencer Stuart found that diverse board appointments among S&P 500 companies have been on the decline since 2021 when it peaked at 72 percent....",
-        "url": "https://thehill.com/business/5995257-corporate-boardroom-diversity-sinks-to-lowest-in-more-than-a-decade-analysis/"
+        "category": "House",
+        "summary": "House Oversight Committee Chairman James Comer (R-Ky.) warned Dr. Anthony Fauci that the presidential pardon he received does not extend to his awaited hearing at Capitol Hill. The former director of the National Institute of Allergy and Infectious Diseases is set to testify before a Senate panel Wednesday, following Sen. Rand Paul’s (R-Ky.) release of...",
+        "url": "https://thehill.com/homenews/5995368-comer-warns-fauci-congress/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/5995138-judge-orders-dhs-release-witness/",
+        "id": "https://thehill.com/policy/defense/5995522-iran-missile-attack-us-base/",
         "source": "The Hill",
-        "title": "Judge orders release of Houston ICE shooting witness",
+        "title": "Iran launches 'surprise attack' on US forces in Middle East",
         "publicationDate": "2026-07-28",
-        "category": "Court Battles",
-        "summary": "A federal judge in Houston ordered the Department of Homeland Security (DHS) on Monday to release a man who witnessed federal immigration officers fatally shooting Lorenzo Salgado Araujo earlier this month. U.S. District Judge Keith P. Ellison wrote that the continued detention of Jose Trinidad Rojas Pliego constitutes an “unconstitutional deprivation” of his liberty. Ellison,...",
-        "url": "https://thehill.com/regulation/court-battles/5995138-judge-orders-dhs-release-witness/"
+        "category": "Defense",
+        "summary": "Iran fired multiple ballistic missiles at a U.S. base in the Middle East on Tuesday evening, in what U.S. Central Command (Centcom) called an attempted surprise attack. It was the first publicly disclosed attack on U.S. service members in the region since President Trump ordered a halt on attacks against Iran last week. The missiles,...",
+        "url": "https://thehill.com/policy/defense/5995522-iran-missile-attack-us-base/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5983409-live-results-south-dakota-governor-gop-runoff-rhoden-doeden/",
+        "id": "https://thehill.com/newsletters/technology/5995493-jensen-hits-the-hill/",
         "source": "The Hill",
-        "title": "Live results: Rhoden fights to hang on to South Dakota governor's mansion in GOP primary runoff",
+        "title": "Jensen hits the Hill",
         "publicationDate": "2026-07-28",
-        "category": "Campaign",
-        "summary": "Republican voters in South Dakota will once again head to the polls Tuesday to weigh in on a heated gubernatorial primary runoff. Gov. Larry Rhoden (R) is vying for a full term leading the Mount Rushmore State against Republican businessman Toby Doeden. Neither candidate secured over half of the vote in a June 2 primary to avoid runoff....",
-        "url": "https://thehill.com/homenews/campaign/5983409-live-results-south-dakota-governor-gop-runoff-rhoden-doeden/"
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story Nvidia's Huang hits Capitol Hill amid open-source debate Nvidia CEO Jensen Huang made a trip to Capitol Hill on Tuesday, as his company has become a key voice advocating for open-source models. © Jeffrey McWhorter, Associated Press Huang met with Sen. Mark Warner (D-Va.), who serves as vice...",
+        "url": "https://thehill.com/newsletters/technology/5995493-jensen-hits-the-hill/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/5995285-fauci-diary-senate-hearing-rand-paul/",
+        "source": "The Hill",
+        "title": "Fauci set for high-profile hearing after Paul released diaries",
+        "publicationDate": "2026-07-28",
+        "category": "Healthcare",
+        "summary": "Former chief White House medical adviser Anthony Fauci is set to be under the microscope for a tough Senate hearing on Wednesday, just days after Sen. Rand Paul (R-Ky.) released more than 1,000 pages of Fauci's diary entries from the early days of the COVID-19 pandemic. In the weekend leading up to the hearing before the Senate...",
+        "url": "https://thehill.com/policy/healthcare/5995285-fauci-diary-senate-hearing-rand-paul/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/energy-environment/5995392-doe-identifies-five-states-to-hold-nuclear-waste/",
+        "source": "The Hill",
+        "title": "DOE identifies five states to hold nuclear waste",
+        "publicationDate": "2026-07-28",
+        "category": "Energy & Environment Newsletter",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Energy eyes nuclear waste deal with five states The Trump administration is eyeing five states that could accept nuclear waste, disposal of which has been a longtime issue with nuclear power. AP Photo/Mark Schiefelbein The Energy Department said Tuesday that it signed memorandums of...",
+        "url": "https://thehill.com/newsletters/energy-environment/5995392-doe-identifies-five-states-to-hold-nuclear-waste/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/28/us/politics/at-grahams-farewell-a-glimpse-into-power-in-trumps-washington.html",
+        "source": "New York Times Politics",
+        "title": "At Graham’s Farewell, a Glimpse Into Power in Trump’s Washington",
+        "publicationDate": "2026-07-28",
+        "category": "United States Politics and Government",
+        "summary": "The political evolution of Lindsey Graham, the South Carolina senator, both captivated and confused many of his old friends but reflected the changing order in the nation’s capital.",
+        "url": "https://www.nytimes.com/2026/07/28/us/politics/at-grahams-farewell-a-glimpse-into-power-in-trumps-washington.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html",
+        "source": "New York Times Politics",
+        "title": "Domestic Abuse Allegations Rock Max Miller’s Ohio House Race",
+        "publicationDate": "2026-07-28",
+        "category": "United States Politics and Government",
+        "summary": "Representative Max Miller, a Republican, is facing accusations of abuse from his ex-wife in a bitter family feud that might put his otherwise safe seat in play.",
+        "url": "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/28/us/politics/mitch-mcconnell-andy-beshear.html",
+        "source": "New York Times Politics",
+        "title": "What’s Going on With Mitch McConnell? Kentucky’s Governor Has Questions.",
+        "publicationDate": "2026-07-28",
+        "category": "Healthcare",
+        "summary": "Gov. Andy Beshear called on Senator McConnell, who has been hospitalized since June, to prove his capacity to serve, or resign.",
+        "url": "https://www.nytimes.com/2026/07/28/us/politics/mitch-mcconnell-andy-beshear.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html",
@@ -297,31 +342,13 @@
         "url": "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html",
-        "source": "New York Times Politics",
-        "title": "Behind Closed Doors, Trump Huddles With Netanyahu and Zelensky",
+        "id": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/",
+        "source": "Washington Post Politics",
+        "title": "Conservatives tout Biden tapes as proof of his decline. The audio is more nuanced.",
         "publicationDate": "2026-07-28",
-        "category": "Foreign Policy",
-        "summary": "The visits by the leaders of Israel and Ukraine underscored just how deeply President Trump was enmeshed in conflicts he had promised — and failed — to end quickly.",
-        "url": "https://www.nytimes.com/2026/07/28/us/politics/trump-zelensky-netanyahu-wars.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/28/us/politics/democrats-2028-primary-calendar.html",
-        "source": "New York Times Politics",
-        "title": "Who Wins (and Who Loses) in the Democrats’ New 2028 Primary Calendar?",
-        "publicationDate": "2026-07-28",
-        "category": "Presidential Election of 2028",
-        "summary": "Democratic Party officials have approved a new calendar that puts South Carolina at the head of the line. Black and Latino voters will gain new clout.",
-        "url": "https://www.nytimes.com/2026/07/28/us/politics/democrats-2028-primary-calendar.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/28/business/media/60-minutes-ross-douthat.html",
-        "source": "New York Times Politics",
-        "title": "Ross Douthat Joins ‘60 Minutes’ as a Correspondent",
-        "publicationDate": "2026-07-28",
-        "category": "News and News Media",
-        "summary": "Mr. Douthat, an opinion columnist at The New York Times, will join the CBS News program, along with several other journalists.",
-        "url": "https://www.nytimes.com/2026/07/28/business/media/60-minutes-ross-douthat.html"
+        "category": "Other",
+        "summary": "Audio of Joe Biden's interviews with a ghostwriter in 2016 and 2017 show him referencing classified materials and occasionally struggling to recall details.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/"
     },
     {
         "id": "https://www.washingtonpost.com/lifestyle/2026/07/28/grandma-fought-bill-allow-happy-hour-minnesota-senior-homes/",
@@ -531,6 +558,24 @@
         "url": "https://www.heritage.org/global-politics/report/state-department-must-stop-funding-radical-un-humanitarian-agency"
     },
     {
+        "id": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/",
+        "source": "European Council on Foreign Relations",
+        "title": "Serbia: Inside the leaderless movement",
+        "publicationDate": "2026-07-24",
+        "category": "Serbia",
+        "summary": "Jessica Hendrick welcomes Igor Bandović and Luka Filipović to discuss Serbia’s biggest protest movement in decades",
+        "url": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/the-china-native-generation/",
+        "source": "European Council on Foreign Relations",
+        "title": "The China-native generation",
+        "publicationDate": "2026-07-24",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Loubna El Amine and Cobus van Staden to explore how younger generations in Africa and the Middle East are shaping perceptions of China, the West and the future",
+        "url": "https://ecfr.eu/podcasts/episode/the-china-native-generation/"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
         "source": "RAND Corporation",
         "title": "Sustaining Agile Operations",
@@ -547,6 +592,15 @@
         "category": "Other",
         "summary": "Justice Antonin Scalia, dead now more than a decade, was a rare sage whose personality outran even his considerable jurisprudential achievement. James Rosen’s new volume, “ Scalia: The Supreme Court Years, 1986—2001 ,” gives us the man in full: loud, learned, combative, and, I submit, essentially good. Heavyset and hilarious, Nino—his nickname—was Falstaff without the vices, shorn of Fat Jack’s cowardice and moral...",
         "url": "https://www.heritage.org/courts/commentary/nino-the-federalist-society-falstaff"
+    },
+    {
+        "id": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/",
+        "source": "European Council on Foreign Relations",
+        "title": "The magnificent ten: A coalition of the willing to drive the EU’s next enlargement",
+        "publicationDate": "2026-07-23",
+        "category": "Foreign Policy",
+        "summary": "A Team Enlargement coalition of EU member states can drive the changes needed to bring Ukraine and others into the bloc.",
+        "url": "https://ecfr.eu/publication/the-magnificent-ten-a-coalition-of-the-willing-to-drive-the-eus-next-enlargement/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
