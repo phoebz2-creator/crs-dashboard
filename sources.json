@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://thehill.com/policy/healthcare/5995754-collins-says-gavi-funding-reinstated/",
+        "source": "The Hill",
+        "title": "Collins says State Department will reinstate funding for global humanitarian vaccine alliance",
+        "publicationDate": "2026-07-29",
+        "category": "Healthcare",
+        "summary": "Sen. Susan Collins (R-Maine) said Tuesday that the State Department is set to reinstate funding for a global humanitarian vaccine program after the Trump administration previously paused the program. “It is welcome news that following our recent outreach, the State Department has committed to contributing the full $600 million for GAVI, the Vaccine Alliance,” Collins...",
+        "url": "https://thehill.com/policy/healthcare/5995754-collins-says-gavi-funding-reinstated/"
+    },
+    {
         "id": "https://thehill.com/policy/healthcare/5995694-giroir-slams-fauci-diary/",
         "source": "The Hill",
         "title": "Ex-Trump health official shocked by Fauci's 'unabashed narcissism' from diaries",
@@ -36,15 +45,6 @@
         "url": "https://thehill.com/policy/international/5995622-zelensky-senate-russia-ukraine-war-sanctions-missiles/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/5994964-senate-advances-russia-iran-sanctions/",
-        "source": "The Hill",
-        "title": "Senate advances Graham bill to put harsher sanctions on Russia, Iran",
-        "publicationDate": "2026-07-29",
-        "category": "Defense",
-        "summary": "The Senate, in a rare bipartisan vote Tuesday night, advanced a bill that would impose harsher sanctions on Russia and buyers of Russian oil and gas than the U.S. has previously enforced and extend existing sanctions on Iran, aiming to economically squeeze the two countries amid ongoing military conflicts. The bill, named for its co-author,...",
-        "url": "https://thehill.com/homenews/senate/5994964-senate-advances-russia-iran-sanctions/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html",
         "source": "New York Times Politics",
         "title": "The Doctor and His Diary: What Fauci’s Innermost Musings Reveal",
@@ -61,6 +61,15 @@
         "category": "Defense",
         "summary": "Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intelligence from Bill Pulte.",
         "url": "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/07/28/trump-asks-supreme-court-overturn-83-million-verdict-e-jean-carroll-case/",
+        "source": "Washington Post Politics",
+        "title": "Trump asks Supreme Court to overturn $83 million verdict in E. Jean Carroll case",
+        "publicationDate": "2026-07-29",
+        "category": "Other",
+        "summary": "Trump’s attorneys asserted a 2024 high court decision granting presidents sweeping immunity for actions taken in office shields him from liability in the case.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/28/trump-asks-supreme-court-overturn-83-million-verdict-e-jean-carroll-case/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -81,49 +90,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine",
-        "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "Kyiv hopes White House talks will result in fresh US backing against Russia",
-        "url": "https://www.ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/28e9fc2c-cf51-46d6-87ff-efa0e61dcb9b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Japan’s Takaichi warns of ‘race against time’ to rescue earthquake survivors",
+        "id": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "Powerful tremor in Kumamoto prefecture has left at least 13 people dead",
-        "url": "https://www.ft.com/content/28e9fc2c-cf51-46d6-87ff-efa0e61dcb9b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/509a6a94-8342-49c1-965f-66abff88b977?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US says it intercepted ‘surprise’ Iranian missile attack",
-        "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "Incident ends a days-long pause in direct air strikes",
-        "url": "https://www.ft.com/content/509a6a94-8342-49c1-965f-66abff88b977?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/612c3693-6b2e-483d-a0f4-ac649ab7d191?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US poised to impose new Russia sanctions package",
-        "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "Measures are the latest sign of Washington’s warming relations with Ukrainian President Volodymyr Zelenskyy",
-        "url": "https://www.ft.com/content/612c3693-6b2e-483d-a0f4-ac649ab7d191?syn-25a6b1a6=1"
+        "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "SK Hynix profits soar sixfold on AI boom",
+        "title": "Tech rout roils markets after SK Hynix profits disappoint",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "Second-largest memory-chip maker says it won multiyear contracts with about 10 customers",
+        "summary": "South Korean chip giant misses analyst expectations but insists risk of memory oversupply remains ‘limited’",
         "url": "https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/12fda371-31f6-4c88-899f-36d2cf147e00?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU crisis chief warns wildfires are a risk from scaling back green agenda",
+        "publicationDate": "2026-07-29",
+        "category": "Foreign Policy",
+        "summary": "Also in this newsletter: Hungary slows Ukraine’s EU accession despite Orbán’s departure",
+        "url": "https://www.ft.com/content/12fda371-31f6-4c88-899f-36d2cf147e00?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5f41c99b-a866-45d5-844b-1114969175fc",
+        "source": "Financial Times World",
+        "title": "Bank of Japan normalisation will continue amid market tensions",
+        "publicationDate": "2026-07-29",
+        "category": "Other",
+        "summary": "Read the BoJ’s July forecast from the FT’s Monetary Policy Radar team",
+        "url": "https://www.ft.com/content/5f41c99b-a866-45d5-844b-1114969175fc"
+    },
+    {
+        "id": "https://www.ft.com/content/1c90934c-80c1-422c-b95b-5821a6fa9ec7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: AI sell-off sparks hedge fund collateral calls",
+        "publicationDate": "2026-07-29",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: anger at Fifa plan and firefighting aircraft shortages",
+        "url": "https://www.ft.com/content/1c90934c-80c1-422c-b95b-5821a6fa9ec7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/tsom?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The Story of Money",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "Watch the latest episode from the FT podcast exploring the history of finance",
+        "url": "https://www.ft.com/tsom?syn-25a6b1a6=1"
     },
     {
         "id": "IF13278",
@@ -135,15 +153,6 @@
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13278/IF13278.1.pdf"
     },
     {
-        "id": "IF13277",
-        "source": "Congressional Research Service",
-        "title": "U.S. Refugee Admissions Program in FY2025 and FY2026",
-        "publicationDate": "2026-07-28",
-        "category": "Foreign Policy",
-        "summary": "The U.S. Refugee Admissions Program (USRAP) is in uncharted territory. It has been suspended since late January 2025. Under the suspension, only refugees who qualify for an exception are being admitted to the United States. The refugee ceiling (the maximum number of refugees that can be admitted) for FY2026 is currently 17,500, the lowest in the history of the USRAP. As of June 30, 2026, FY2026 refugee admissions...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13277/IF13277.1.pdf"
-    },
-    {
         "id": "IF10767",
         "source": "Congressional Research Service",
         "title": "Farm Credit Administration and Its Board Members",
@@ -151,6 +160,15 @@
         "category": "Economy",
         "summary": "Overview Congress oversees the Farm Credit Administration (FCA), which is the federal financial regulator responsible for ensuring the safety and soundness of Farm Credit System (FCS) institutions and the Federal Agricultural Mortgage Corporation (Farmer Mac). FCA is directed by a three-member board of directors nominated by the President and confirmed by the Senate (12 U.S.C. §2242). Currently, one position is...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10767/IF10767.20.pdf"
+    },
+    {
+        "id": "IF13277",
+        "source": "Congressional Research Service",
+        "title": "U.S. Refugee Admissions Program in FY2025 and FY2026",
+        "publicationDate": "2026-07-28",
+        "category": "Foreign Policy",
+        "summary": "The U.S. Refugee Admissions Program (USRAP) is in uncharted territory. It has been suspended since late January 2025. Under the suspension, only refugees who qualify for an exception are being admitted to the United States. The refugee ceiling (the maximum number of refugees that can be admitted) for FY2026 is currently 17,500, the lowest in the history of the USRAP. As of June 30, 2026, FY2026 refugee admissions...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13277/IF13277.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
@@ -225,6 +243,15 @@
         "url": "https://www.hudson.org/national-security-defense/unconventional-warfare-escalation-across-eurasia-specific-risks-within-husain-haqqani"
     },
     {
+        "id": "https://cms.hoover.org/research/maritime-chokepoints-lessons-black-sea",
+        "source": "Hoover Institution",
+        "title": "Maritime Chokepoints: Lessons From The Black Sea",
+        "publicationDate": "2026-07-28",
+        "category": "Economy",
+        "summary": "Maritime chokepoints are critical arteries of the global economy: when they close, energy, food, and trade can be disrupted worldwide. The Black Sea and the Turkish Straits show that keeping them open during wartime requires enforceable rules, capable regional partners, and sustained allied vigilance",
+        "url": "https://cms.hoover.org/research/maritime-chokepoints-lessons-black-sea"
+    },
+    {
         "id": "https://cms.hoover.org/research/cockroach-machine-how-gen-z-rattling-south-asias-elites",
         "source": "Hoover Institution",
         "title": "The 'Cockroach' In The Machine: How Gen Z Is Rattling South Asia's Elites",
@@ -259,15 +286,6 @@
         "category": "Other",
         "summary": "Why policymakers should not rush to regulate AI.",
         "url": "https://cms.hoover.org/research/open-letter-steer-ai"
-    },
-    {
-        "id": "https://cms.hoover.org/research/warshs-task-forces-have-big-job-hand-it-may-need-get-even-bigger",
-        "source": "Hoover Institution",
-        "title": "Warsh’s Task Forces Have A Big Job At Hand. It May Need Get Even Bigger.",
-        "publicationDate": "2026-07-28",
-        "category": "Other",
-        "summary": "Over time, even successful organizations can slide into an overreliance on outdated frameworks and lose a willingness to revisit long-held practices. The Federal Reserve is one such institution.",
-        "url": "https://cms.hoover.org/research/warshs-task-forces-have-big-job-hand-it-may-need-get-even-bigger"
     },
     {
         "id": "https://ecfr.eu/article/the-saudi-dilemma-how-yemen-could-shape-the-next-phase-of-the-iran-war/",
@@ -439,15 +457,6 @@
         "category": "Healthcare",
         "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
         "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-        "publicationDate": "2026-07-28",
-        "category": "Other",
-        "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-        "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R49046",
