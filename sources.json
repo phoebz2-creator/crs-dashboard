@@ -1,5 +1,23 @@
 [
     {
+        "id": "IN12720",
+        "source": "Congressional Research Service",
+        "title": "Reconciliation 4.0: How Many Opportunities Does Congress Have to Use Reconciliation?",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "Reconciliation legislation is unique in that it is considered under expedited parliamentary procedures that do not require the support of three-fifths of Senators to end debate, allowing the Senate to pass spending, tax, and debt limit reconciliation legislation by a simple majority vote. This makes the reconciliation process particularly attractive to the majority party, which may seek to maximize the number of...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12720/IN12720.1.pdf"
+    },
+    {
+        "id": "R48641",
+        "source": "Congressional Research Service",
+        "title": "Proposals to Limit Member of Congress Financial Activities: Analysis of Introduced Legislation in the 119th Congress",
+        "publicationDate": "2026-07-29",
+        "category": "Other",
+        "summary": "In recent years, some Members of Congress have proposed reforms that would prohibit the purchase, sale, ownership, or holding of certain financial instruments by Members of Congress and other specified congressional officers and employees. In the 119th Congress (2025-2026), the Senate agreed to a resolution to prohibit Senators, Senate officers, and Senate employees from engaging in prediction market trading....",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48641/R48641.16.pdf"
+    },
+    {
         "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-andrea-r-flores",
         "source": "Council on Foreign Relations",
         "title": "How I Got My Career in Foreign Policy: Andrea R. Flores",
@@ -16,6 +34,15 @@
         "category": "Foreign Policy",
         "summary": "The race for AI dominance often focuses on the United States and China, but other countries are key players—and winning depends on many factors.",
         "url": "https://www.cfr.org/articles/ais-economic-winners"
+    },
+    {
+        "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
+        "source": "European Council on Foreign Relations",
+        "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
+        "publicationDate": "2026-07-29",
+        "category": "European Security",
+        "summary": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
+        "url": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/"
     },
     {
         "id": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/",
@@ -72,6 +99,24 @@
         "url": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class"
     },
     {
+        "id": "https://www.pbs.org/newshour/world/iran-resumes-missile-attacks-as-u-s-and-saudis-strike-tehran-backed-militias-in-iraq",
+        "source": "PBS NewsHour Politics",
+        "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+        "publicationDate": "2026-07-29",
+        "category": "Foreign Policy",
+        "summary": "Iran launched a barrage of missiles at American forces in the Middle East early Wednesday as the U.S. partnered with Saudi Arabia to strike Tehran-backed militias in neighboring Iraq, killing at least 20 fighters.",
+        "url": "https://www.pbs.org/newshour/world/iran-resumes-missile-attacks-as-u-s-and-saudis-strike-tehran-backed-militias-in-iraq"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-warsh-holds-news-conference-after-latest-interest-rate-decision",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Fed chair Warsh holds news conference after latest interest rate decision",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "Federal Reserve policymakers are losing patience with inflation, but they may not be ready to turn their frustration into action -- not this week anyway.",
+        "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-warsh-holds-news-conference-after-latest-interest-rate-decision"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/watch-fauci-invokes-5th-amendment-declining-to-answer-questions-in-gop-led-hearing-on-covid-19",
         "source": "PBS NewsHour Politics",
         "title": "WATCH: Fauci invokes 5th Amendment, declining to answer questions in GOP-led hearing on COVID-19",
@@ -90,49 +135,76 @@
         "url": "https://www.pbs.org/newshour/politics/watch-live-senate-panel-questions-fauci-on-diary-entries-about-covid-19-origins"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/5996273-rand-paul-removes-fauci-attorney/",
+        "id": "https://thehill.com/homenews/senate/5996798-cornyn-blanche-meeting-attorney-general-vote/",
         "source": "The Hill",
-        "title": "Paul has one of Fauci's attorneys removed from hearing room",
+        "title": "Cornyn meeting with Blanche canceled ahead of key Judiciary Committee vote",
         "publicationDate": "2026-07-29",
-        "category": "Healthcare",
-        "summary": "Sen. Rand Paul (R-Ky.), chair of the Senate Homeland Security and Governmental Affairs Committee, ordered security to remove one of Dr. Anthony Fauci’s attorneys from the committee's hearing room on Wednesday after the longtime infectious disease expert invoked his Fifth Amendment right. The attorney attempted to speak several times, but Paul would not officially recognize...",
-        "url": "https://thehill.com/policy/healthcare/5996273-rand-paul-removes-fauci-attorney/"
+        "category": "Senate",
+        "summary": "Sen. John Cornyn (R-Texas) on Wednesday said his scheduled meeting with attorney general nominee Todd Blanche was canceled and that he's \"not prepared to vote yes\" on advancing Blanche out of the Judiciary Committee Thursday. Cornyn, who has been pressing for a resolution to a controversial Department of Justice \"anti-weaponization\" fund, told reporters that Senate...",
+        "url": "https://thehill.com/homenews/senate/5996798-cornyn-blanche-meeting-attorney-general-vote/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5996340-donald-trump-vows-retaliation-iran-strikes-jordan-us/",
+        "id": "https://thehill.com/homenews/senate/5996967-thune-gop-budget-resolution-votes-trump/",
         "source": "The Hill",
-        "title": "Trump vows to 'beat the f---ing s---' out of Iran following attack on US forces in Jordan",
+        "title": "Thune warns there aren’t 50 votes to advance budget resolution after Trump demands action",
         "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "President Trump on Wednesday issued a forceful response to Iran’s surprise attack overnight targeting U.S. forces in Jordan, vowing to “beat the f---ing s--- out of them.” Trump made the comment in an interview with Fox News, adding that the U.S. will be hitting Iran “hard.” “They’re going to get a beating,” the president added,...",
-        "url": "https://thehill.com/homenews/administration/5996340-donald-trump-vows-retaliation-iran-strikes-jordan-us/"
+        "category": "Economy",
+        "summary": "Senate Majority Leader John Thune (R-S.D.) warned Wednesday he does not currently see 50 Republican votes for advancing a budget resolution, after President Trump renewed his call for the Senate to advance a budget framework to fund the war in Iran and perhaps raise the national debt limit. “We’ll have a more fulsome conversation about that...",
+        "url": "https://thehill.com/homenews/senate/5996967-thune-gop-budget-resolution-votes-trump/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/5996345-comey-86-seashell-case-trump-doj-blanche/",
+        "id": "https://thehill.com/homenews/administration/5995332-live-updates-fauci-senate-rand-paul-trump-iran/",
         "source": "The Hill",
-        "title": "Comey seeks to toss seashell '86' case, accusing Trump, DOJ of vindictive prosecution",
-        "publicationDate": "2026-07-29",
-        "category": "Court Battles",
-        "summary": "Former FBI Director James Comey asked a judge late Tuesday to dismiss the case against him over sharing a photo of seashells spelling “86 47,” arguing it amounts to a selective and vindictive prosecution ordered by President Trump. Another late night filing also asks for a Franks hearing — a bid to review whether law...",
-        "url": "https://thehill.com/regulation/court-battles/5996345-comey-86-seashell-case-trump-doj-blanche/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/5996311-abigail-jackson-white-house-onmessage/",
-        "source": "The Hill",
-        "title": "Abigail Jackson to leave White House deputy press secretary role",
+        "title": "Live updates: Fauci invokes Fifth at Senate COVID hearing; Paul says panel will consider contempt",
         "publicationDate": "2026-07-29",
         "category": "Administration",
-        "summary": "White House deputy press secretary Abigail Jackson is leaving for a role at OnMessage Public Strategies. “President Trump is the greatest President of my lifetime – it’s been a tremendous honor to work for his Administration and alongside such talented colleagues on behalf of the American people,” Jackson wrote on X. “Looking forward to this...",
-        "url": "https://thehill.com/homenews/administration/5996311-abigail-jackson-white-house-onmessage/"
+        "summary": "Dr. Anthony Fauci, a face of the government's pandemic response, invoked his Fifth Amendment right to decline to answer questions before the Senate Homeland Security panel and a critical Sen. Rand Paul (R-Ky.) on COVID-19's origins. Ahead of questioning, Sen. Gary Peters (D-Mich.) blasted Paul for \"relitigating the past\" by holding the hearing. Fauci repeatedly...",
+        "url": "https://thehill.com/homenews/administration/5995332-live-updates-fauci-senate-rand-paul-trump-iran/"
     },
     {
-        "id": "https://thehill.com/opinion/congress-blog/homeland-security/5994449-ideological-violence-public-servants/",
+        "id": "https://thehill.com/homenews/administration/5996553-aclu-socall-immigration-video-slurs/",
         "source": "The Hill",
-        "title": "California's hostage crisis shows political violence is at a breaking point",
+        "title": "Immigration officers called Latinos racial slurs during stops: Video",
         "publicationDate": "2026-07-29",
-        "category": "Congress Blog - Homeland Security",
-        "summary": "Ideological violence in the United States continues to evolve in ways that make ordinary Americans increasingly vulnerable.",
-        "url": "https://thehill.com/opinion/congress-blog/homeland-security/5994449-ideological-violence-public-servants/"
+        "category": "Administration",
+        "summary": "Videos obtained by the American Civil Liberties Union of Southern California (ACLU SoCal) show federal immigration officers using racial slurs to refer to Latinos they encountered at traffic stops. The ACLU SoCal included the videos along with text messages and other transcripts in a court filing to block \"the Trump administration from conducting suspicionless and...",
+        "url": "https://thehill.com/homenews/administration/5996553-aclu-socall-immigration-video-slurs/"
+    },
+    {
+        "id": "https://thehill.com/opinion/technology/5994811-dc-stakes-ai-wealth/",
+        "source": "The Hill",
+        "title": "AI should answer to users, not Washington",
+        "publicationDate": "2026-07-29",
+        "category": "Defense",
+        "summary": "Critics argue that proposed government ownership stakes in the artificial intelligence industry would compromise market neutrality by making regulators also shareholders in the sector.",
+        "url": "https://thehill.com/opinion/technology/5994811-dc-stakes-ai-wealth/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/29/us/politics/fauci-biden-pardon-covid-hearing.html",
+        "source": "New York Times Politics",
+        "title": "Fauci’s Pardon From Biden Would Not Shield Him From New Offenses",
+        "publicationDate": "2026-07-29",
+        "category": "Coronavirus (2019-nCoV)",
+        "summary": "Republicans have argued that the pre-emptive pardon Dr. Fauci received from former President Biden ought to preclude him from invoking the Fifth Amendment. But the pardon applies only to what happened before it was issued.",
+        "url": "https://www.nytimes.com/2026/07/29/us/politics/fauci-biden-pardon-covid-hearing.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/29/us/politics/michelle-obama-justice-jackson-podcast.html",
+        "source": "New York Times Politics",
+        "title": "Michelle Obama and Justice Jackson Talk Work-Life Balance and Public Service",
+        "publicationDate": "2026-07-29",
+        "category": "United States Politics and Government",
+        "summary": "Justice Ketanji Brown Jackson’s appearance on the former first lady’s podcast was a rare meeting of the two powerful, popular Black women.",
+        "url": "https://www.nytimes.com/2026/07/29/us/politics/michelle-obama-justice-jackson-podcast.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/29/us/politics/trump-cuban-deportees-uruguay.html",
+        "source": "New York Times Politics",
+        "title": "As Trump Squeezes Cuba, He Plans to Send Cuban Deportees to Uruguay",
+        "publicationDate": "2026-07-29",
+        "category": "Illegal Immigration",
+        "summary": "The State Department under Secretary of State Marco Rubio has deported Cubans to Africa. Now it’s negotiating with a South American country.",
+        "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-cuban-deportees-uruguay.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/29/us/politics/texas-senate-paxton-fund-raising.html",
@@ -151,24 +223,6 @@
         "category": "United States Politics and Government",
         "summary": "The panel’s chairman, Rand Paul, has long accused Dr. Fauci of funding research that triggered the Covid pandemic and lying about it to Congress — charges Dr. Fauci denies.",
         "url": "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html",
-        "source": "New York Times Politics",
-        "title": "The Doctor and His Diary: What Fauci’s Innermost Musings Reveal",
-        "publicationDate": "2026-07-29",
-        "category": "United States Politics and Government",
-        "summary": "Dr. Anthony S. Fauci seemed to be the life of the party, even in the midst of a deadly pandemic.",
-        "url": "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html",
-        "source": "New York Times Politics",
-        "title": "Senate Confirms Jay Clayton to Lead U.S. Intelligence Community",
-        "publicationDate": "2026-07-29",
-        "category": "Defense",
-        "summary": "Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intelligence from Bill Pulte.",
-        "url": "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/28/trump-asks-supreme-court-overturn-83-million-verdict-e-jean-carroll-case/",
@@ -212,7 +266,7 @@
         "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
         "publicationDate": "2026-07-29",
         "category": "Healthcare",
-        "summary": "The former top US health official is invoking his right to remain silent as senators grill him under oath about the pandemic.",
+        "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
         "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -225,85 +279,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/7a33e045-57c0-4cf7-bb1b-a7f4ecdc1e30?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/e1725176-ebe2-4d29-abe9-a27e11e8c1a8?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Brookfield to turn former nuclear weapons site into AI campus",
+        "title": "Elon Musk settles long-running legal battle with X advertising group",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "Canadian investment group to partner utility NextEra on data centre in Kentucky",
-        "url": "https://www.ft.com/content/7a33e045-57c0-4cf7-bb1b-a7f4ecdc1e30?syn-25a6b1a6=1"
+        "summary": "Billionaire had accused brands of organising an illegal boycott",
+        "url": "https://www.ft.com/content/e1725176-ebe2-4d29-abe9-a27e11e8c1a8?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/1ceeddf1-0948-4640-aa2c-392ce96fab5a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Trump vows to deliver ‘beating’ to Iran in retaliation for latest attack",
-        "publicationDate": "2026-07-29",
-        "category": "Defense",
-        "summary": "Washington says Tehran launched ballistic missiles at US military installations in the Middle East",
-        "url": "https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/749bb6e9-35fe-45d9-b359-bf457884ca7c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Assisted dying debate should wait until social care is fixed, says Burnham",
+        "title": "Wildfire evacuations hurt France’s oyster capital",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "Prime minister’s comments dash Labour MPs’ hopes of reviving contentious legislation later this year",
-        "url": "https://www.ft.com/content/749bb6e9-35fe-45d9-b359-bf457884ca7c?syn-25a6b1a6=1"
+        "summary": "About half of shellfish farms in Cap Ferret affected, according to industry officials",
+        "url": "https://www.ft.com/content/1ceeddf1-0948-4640-aa2c-392ce96fab5a?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/e185a6f7-afa6-4b9e-8d6e-278c47095a67?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/38420819-2073-42d6-a14f-2c9a28e5970d?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Half of England declared in drought after heatwaves",
+        "title": "South Korea cracks down on risky retail funds after tech rout",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "Second summer drought in two years is ‘exceptionally serious’, says Environment Agency",
-        "url": "https://www.ft.com/content/e185a6f7-afa6-4b9e-8d6e-278c47095a67?syn-25a6b1a6=1"
+        "summary": "Regulators move to limit access to leveraged ETF products after Kospi falls by a third this month",
+        "url": "https://www.ft.com/content/38420819-2073-42d6-a14f-2c9a28e5970d?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/cd190fd5-5675-4896-87f5-1b3e985e4dde?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/ca8893d3-41c2-474f-b140-85072149a5e5?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "CMA drops pursuit of private equity executives over price gouging",
+        "title": "EU warns it will investigate Fifa’s $20bn commercial venture",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "UK regulator decides not to pursue ban against two former Cinven executives",
-        "url": "https://www.ft.com/content/cd190fd5-5675-4896-87f5-1b3e985e4dde?syn-25a6b1a6=1"
+        "summary": "Bloc joins protests against plans by football’s governing body to raise billions from outside investors",
+        "url": "https://www.ft.com/content/ca8893d3-41c2-474f-b140-85072149a5e5?syn-25a6b1a6=1"
     },
     {
-        "id": "R49047",
-        "source": "Congressional Research Service",
-        "title": "The Social Security Administration’s (SSA’s) FY2027 Annual LAE Appropriation: In Brief",
-        "publicationDate": "2026-07-28",
+        "id": "https://www.ft.com/content/ed644365-4902-4f62-b57a-089ef243eef1?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Burnham opens door to tax rises to pay for social care overhaul",
+        "publicationDate": "2026-07-29",
         "category": "Economy",
-        "summary": "The Social Security Administration (SSA) is responsible for administering Social Security and Supplemental Security Income, which are the nation’s primary income support programs for older adults and individuals with disabilities. As part of its duties, SSA receives benefit applications and determines program entitlement or eligibility, holds hearings and other appeals, completes program integrity (PI) reviews of...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49047/R49047.1.pdf"
-    },
-    {
-        "id": "IF13278",
-        "source": "Congressional Research Service",
-        "title": "Enhanced Geothermal Systems (EGS) Commercialization",
-        "publicationDate": "2026-07-28",
-        "category": "Technology",
-        "summary": "Enhanced geothermal systems (EGS) use directional drilling and hydraulic stimulation technologies to add porosity and fluid circulation to locations of naturally occurring underground heat to create conditions necessary for geothermal energy production. Related closed-loop systems use some of the same technologies and, along with EGS, can be collectively referred to as “next-generation geothermal.” Of available...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13278/IF13278.1.pdf"
-    },
-    {
-        "id": "IF10767",
-        "source": "Congressional Research Service",
-        "title": "Farm Credit Administration and Its Board Members",
-        "publicationDate": "2026-07-28",
-        "category": "Economy",
-        "summary": "Overview Congress oversees the Farm Credit Administration (FCA), which is the federal financial regulator responsible for ensuring the safety and soundness of Farm Credit System (FCS) institutions and the Federal Agricultural Mortgage Corporation (Farmer Mac). FCA is directed by a three-member board of directors nominated by the President and confirmed by the Senate (12 U.S.C. §2242). Currently, one position is...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10767/IF10767.20.pdf"
-    },
-    {
-        "id": "IF13277",
-        "source": "Congressional Research Service",
-        "title": "U.S. Refugee Admissions Program in FY2025 and FY2026",
-        "publicationDate": "2026-07-28",
-        "category": "Foreign Policy",
-        "summary": "The U.S. Refugee Admissions Program (USRAP) is in uncharted territory. It has been suspended since late January 2025. Under the suspension, only refugees who qualify for an exception are being admitted to the United States. The refugee ceiling (the maximum number of refugees that can be admitted) for FY2026 is currently 17,500, the lowest in the history of the USRAP. As of June 30, 2026, FY2026 refugee admissions...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13277/IF13277.1.pdf"
+        "summary": "Prime minister says he wants to avoid people having to sell their homes to pay for care",
+        "url": "https://www.ft.com/content/ed644365-4902-4f62-b57a-089ef243eef1?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
@@ -328,8 +346,8 @@
         "source": "Council on Foreign Relations",
         "title": "The Real AI Race Isn’t About Models. It’s About Compute.",
         "publicationDate": "2026-07-28",
-        "category": "Foreign Policy",
-        "summary": "In this episode of The Spillover, host Sebastian Mallaby sits down with Jordan Schneider, founder and editor-in-chief of the ChinaTalk podcast and newsletter, to discuss AI progress and security, as well as the U.S.-China AI rivalry. Mentioned on the Episode: Jordan Schneider, “ChinaTalk” podcast and newsletter “DeepSeek: The Quiet Giant Leading China’s AI Race,” translation […]",
+        "category": "Defense",
+        "summary": "On this episode of The Spillover, Sebastian Mallaby sits down with Jordan Schneider of ChinaTalk to unpack a frantic month in artificial intelligence. The conversation turns on whether the U.S. can actually “win” the AI race, with Schneider arguing that the most durable competitive edge will come from compute rather than model quality. The two […]",
         "url": "https://www.cfr.org/podcasts/spillover/the-real-ai-race-isnt-about-models-its-about-compute"
     },
     {
@@ -450,33 +468,6 @@
         "url": "https://www.pbs.org/newshour/show/what-netanyahu-and-zelenskyy-are-hoping-to-accomplish-after-meetings-with-trump"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/lindsey-graham-remembered-for-impact-on-south-carolina-and-the-world",
-        "source": "PBS NewsHour Politics",
-        "title": "Lindsey Graham remembered for impact on South Carolina and the world",
-        "publicationDate": "2026-07-28",
-        "category": "Foreign Policy",
-        "summary": "Sen. Lindsey Graham's memorial brought together presidents, prime ministers, senators and more. The day began at the Capitol, where the late congressman and senator served for 30 years and became known as a foreign policy hawk, a key presence on the Senate Judiciary Committee and ultimately, a strong ally of President Trump. Geoff Bennett spoke with Gavin Jackson of South Carolina ETV.",
-        "url": "https://www.pbs.org/newshour/show/lindsey-graham-remembered-for-impact-on-south-carolina-and-the-world"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/world/u-s-looks-to-boost-anti-china-spending-worldwide-by-hundreds-of-millions-of-dollars-documents-say",
-        "source": "PBS NewsHour Politics",
-        "title": "U.S. looks to boost anti-China spending worldwide by hundreds of millions of dollars, documents say",
-        "publicationDate": "2026-07-28",
-        "category": "Foreign Policy",
-        "summary": "Many of the proposed programs are designed to \"reclaim diplomatic leverage\" through investments in areas where the U.S. had previously been spending money but stopped.",
-        "url": "https://www.pbs.org/newshour/world/u-s-looks-to-boost-anti-china-spending-worldwide-by-hundreds-of-millions-of-dollars-documents-say"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html",
-        "source": "New York Times Politics",
-        "title": "Trump Will End Subsidies for Medicare Drug Premiums",
-        "publicationDate": "2026-07-28",
-        "category": "Healthcare",
-        "summary": "Millions of older Americans could pay more for their prescription drug coverage next year.",
-        "url": "https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/",
         "source": "Washington Post Politics",
         "title": "Conservatives tout Biden tapes as proof of his decline. The audio is more nuanced.",
@@ -493,15 +484,6 @@
         "category": "Other",
         "summary": "Anita LeBrun said she hoped to enjoy a drink with her friends, but it was also a matter of independence.",
         "url": "https://www.washingtonpost.com/lifestyle/2026/07/28/grandma-fought-bill-allow-happy-hour-minnesota-senior-homes/"
-    },
-    {
-        "id": "R49046",
-        "source": "Congressional Research Service",
-        "title": "Energy and Water Development and Related Agencies Appropriations: Funding History and Agency Descriptions",
-        "publicationDate": "2026-07-27",
-        "category": "Defense",
-        "summary": "The Energy and Water Development and Related Agencies appropriations (E&W) bill, typically enacted on an annual basis, funds civil works activities of the U.S. Army Corps of Engineers (USACE) in the Department of Defense; the Department of the Interior’s Bureau of Reclamation (Reclamation) and Central Utah Project (CUP); the Department of Energy (DOE); the Nuclear Regulatory Commission (NRC); the Appalachian...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49046/R49046.4.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/trump-administrations-dealing-in-companies-is-on-shaky-ground-2",
@@ -574,15 +556,6 @@
         "category": "Serbia",
         "summary": "Jessica Hendrick welcomes Igor Bandović and Luka Filipović to discuss Serbia’s biggest protest movement in decades",
         "url": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/the-china-native-generation/",
-        "source": "European Council on Foreign Relations",
-        "title": "The China-native generation",
-        "publicationDate": "2026-07-24",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes Loubna El Amine and Cobus van Staden to explore how younger generations in Africa and the Middle East are shaping perceptions of China, the West and the future",
-        "url": "https://ecfr.eu/podcasts/episode/the-china-native-generation/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
@@ -664,5 +637,32 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
+    },
+    {
+        "id": "R47688",
+        "source": "Congressional Research Service",
+        "title": "Department of Homeland Security Appropriations: FY2024 State of Play",
+        "publicationDate": "2024-05-15",
+        "category": "Other",
+        "summary": "FY2024 marks the 21st annual appropriations cycle with a Department of Homeland Security (DHS) appropriations measure. In six of the first seven years of its existence, the annual appropriations measure for DHS was enacted within a month of the beginning of the fiscal year it covered. Since FY2010, however, no annual DHS appropriations measure was enacted within two months of the start of its fiscal year, and only...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47688/R47688.18.pdf"
+    },
+    {
+        "id": "R47239",
+        "source": "Congressional Research Service",
+        "title": "Department of Homeland Security Appropriations: FY2023 State of Play",
+        "publicationDate": "2023-08-28",
+        "category": "Other",
+        "summary": "FY2023 marks the 20th annual appropriations cycle with a Department of Homeland Security (DHS) appropriations measure. Six of the first seven annual appropriations measures for DHS were enacted within the first month following the end of the fiscal year. Since FY2010, however, no annual appropriations measure for DHS was resolved within two months of the end of the fiscal year, and DHS received its annual...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47239/R47239.16.pdf"
+    },
+    {
+        "id": "R43326",
+        "source": "Congressional Research Service",
+        "title": "Legislation to Repeal the Private Equity Fund Adviser Registration Requirement in the Dodd-Frank Act: In Brief",
+        "publicationDate": "2013-12-03",
+        "category": "Defense",
+        "summary": "Hedge funds, private equity funds, and venture capital funds are pooled investment vehicles that channel capital from investors to emerging and mature corporations through outright acquisition or through the acquisition of partial stakes in the firms. From the standpoint of federal securities laws and regulations, historically these funds, which are known as private funds or private investment funds, have largely...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43326/R43326.4.pdf"
     }
 ]
