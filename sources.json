@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-andrea-r-flores",
+        "source": "Council on Foreign Relations",
+        "title": "How I Got My Career in Foreign Policy: Andrea R. Flores",
+        "publicationDate": "2026-07-29",
+        "category": "Foreign Policy",
+        "summary": "Andrea Flores has spent more than fifteen years working on immigration policy, including at DHS, the White House, and the ACLU. She spoke with CFR about how her 360-degree perspective has shaped her understanding of the issue and the challenges of advancing immigration reform.",
+        "url": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-andrea-r-flores"
+    },
+    {
         "id": "https://www.cfr.org/articles/ais-economic-winners",
         "source": "Council on Foreign Relations",
         "title": "AI’s Economic Winners",
@@ -56,64 +65,91 @@
     {
         "id": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
         "source": "NPR Politics",
-        "title": "To win over working class voters, Democrats need to stop talking about democracy",
+        "title": "To win over working-class voters, Democrats need to stop talking about democracy",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "Working class voters have moved away from the Democratic Party. Winning them back is key to the party's future, a new reports shows. But first, the messaging has to change.",
+        "summary": "Working-class voters have moved away from the Democratic Party. Winning them back is key to the party's future, a new reports shows. But first, the messaging has to change.",
         "url": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class"
     },
     {
-        "id": "https://thehill.com/opinion/international/5991933-russia-shifts-ukraine-propaganda/",
+        "id": "https://www.pbs.org/newshour/politics/watch-fauci-invokes-5th-amendment-declining-to-answer-questions-in-gop-led-hearing-on-covid-19",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Fauci invokes 5th Amendment, declining to answer questions in GOP-led hearing on COVID-19",
+        "publicationDate": "2026-07-29",
+        "category": "Anthony Fauci",
+        "summary": "Dr. Anthony Fauci described Sen. Rand Paul as having an \"unhinged obsession\" with him and said \"any reasonable person\" would come to the same conclusion about refusing to answer the committee's questions.",
+        "url": "https://www.pbs.org/newshour/politics/watch-fauci-invokes-5th-amendment-declining-to-answer-questions-in-gop-led-hearing-on-covid-19"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-senate-panel-questions-fauci-on-diary-entries-about-covid-19-origins",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Fauci invokes 5th Amendment in GOP-led hearing about COVID-19 origins",
+        "publicationDate": "2026-07-29",
+        "category": "Anthony Fauci",
+        "summary": "Dr. Anthony Fauci was set to answer lawmakers' questions after being subpoenaed by Republican Sen. Rand Paul of Kentucky, who has long had a fraught relationship with the now-retired infectious-disease expert and led the charge seeking that he testify, again, under oath about his role in containing the pandemic.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-senate-panel-questions-fauci-on-diary-entries-about-covid-19-origins"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/5996273-rand-paul-removes-fauci-attorney/",
         "source": "The Hill",
-        "title": "Russia, losing in Ukraine, abruptly changes its propaganda narrative",
+        "title": "Paul has one of Fauci's attorneys removed from hearing room",
+        "publicationDate": "2026-07-29",
+        "category": "Healthcare",
+        "summary": "Sen. Rand Paul (R-Ky.), chair of the Senate Homeland Security and Governmental Affairs Committee, ordered security to remove one of Dr. Anthony Fauci’s attorneys from the committee's hearing room on Wednesday after the longtime infectious disease expert invoked his Fifth Amendment right. The attorney attempted to speak several times, but Paul would not officially recognize...",
+        "url": "https://thehill.com/policy/healthcare/5996273-rand-paul-removes-fauci-attorney/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5996340-donald-trump-vows-retaliation-iran-strikes-jordan-us/",
+        "source": "The Hill",
+        "title": "Trump vows to 'beat the f---ing s---' out of Iran following attack on US forces in Jordan",
         "publicationDate": "2026-07-29",
         "category": "Foreign Policy",
-        "summary": "Russian propagandists have been forced to take a sharp turn.",
-        "url": "https://thehill.com/opinion/international/5991933-russia-shifts-ukraine-propaganda/"
+        "summary": "President Trump on Wednesday issued a forceful response to Iran’s surprise attack overnight targeting U.S. forces in Jordan, vowing to “beat the f---ing s--- out of them.” Trump made the comment in an interview with Fox News, adding that the U.S. will be hitting Iran “hard.” “They’re going to get a beating,” the president added,...",
+        "url": "https://thehill.com/homenews/administration/5996340-donald-trump-vows-retaliation-iran-strikes-jordan-us/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/5995254-trump-senate-gop-recess/",
+        "id": "https://thehill.com/regulation/court-battles/5996345-comey-86-seashell-case-trump-doj-blanche/",
         "source": "The Hill",
-        "title": "Trump demands throw Senate GOP into disarray",
+        "title": "Comey seeks to toss seashell '86' case, accusing Trump, DOJ of vindictive prosecution",
         "publicationDate": "2026-07-29",
-        "category": "Economy",
-        "summary": "President Trump’s demands that the Senate cancel its August recess to debate the Safeguard American Voter Eligibility (SAVE America) Act and advance a budget reconciliation package to fund the Iran war have thrown Senate Republicans into disarray. GOP senators are divided over whether to cut short the five-week break, which would take vulnerable Republican incumbent...",
-        "url": "https://thehill.com/homenews/senate/5995254-trump-senate-gop-recess/"
+        "category": "Court Battles",
+        "summary": "Former FBI Director James Comey asked a judge late Tuesday to dismiss the case against him over sharing a photo of seashells spelling “86 47,” arguing it amounts to a selective and vindictive prosecution ordered by President Trump. Another late night filing also asks for a Franks hearing — a bid to review whether law...",
+        "url": "https://thehill.com/regulation/court-battles/5996345-comey-86-seashell-case-trump-doj-blanche/"
     },
     {
-        "id": "https://thehill.com/homenews/house/5995360-congressional-sexual-misconduct-reform-push/",
+        "id": "https://thehill.com/homenews/administration/5996311-abigail-jackson-white-house-onmessage/",
         "source": "The Hill",
-        "title": "Lawmakers eye reforms as sexual misconduct allegations, relationship revelations shake Capitol Hill",
+        "title": "Abigail Jackson to leave White House deputy press secretary role",
         "publicationDate": "2026-07-29",
-        "category": "House",
-        "summary": "Capitol Hill may be headed for another reckoning as sexual misconduct allegations against lawmakers — coupled with new revelations of consensual relationships between lawmakers and staffers — have reignited questions about accountability and workplace culture in Congress. Lawmakers in both parties are now weighing potential reforms to address those power dynamics, including whether to prohibit...",
-        "url": "https://thehill.com/homenews/house/5995360-congressional-sexual-misconduct-reform-push/"
+        "category": "Administration",
+        "summary": "White House deputy press secretary Abigail Jackson is leaving for a role at OnMessage Public Strategies. “President Trump is the greatest President of my lifetime – it’s been a tremendous honor to work for his Administration and alongside such talented colleagues on behalf of the American people,” Jackson wrote on X. “Looking forward to this...",
+        "url": "https://thehill.com/homenews/administration/5996311-abigail-jackson-white-house-onmessage/"
     },
     {
-        "id": "https://thehill.com/policy/defense/5995444-pentagon-scrutiny-iran-war-transparency/",
+        "id": "https://thehill.com/opinion/congress-blog/homeland-security/5994449-ideological-violence-public-servants/",
         "source": "The Hill",
-        "title": "Pentagon, under Trump, Hegseth, draws curtain tighter around Iran War",
+        "title": "California's hostage crisis shows political violence is at a breaking point",
         "publicationDate": "2026-07-29",
-        "category": "Defense",
-        "summary": "The Pentagon is drawing wide-ranging scrutiny over its increasing opacity about the mounting toll from the Iran war. From reclassifying the deaths and injuries of service members and not disclosing how many targets were hit during recent airstrikes against Iran, to refusing to hold press conferences, the department is coming under scrutiny for not being...",
-        "url": "https://thehill.com/policy/defense/5995444-pentagon-scrutiny-iran-war-transparency/"
+        "category": "Congress Blog - Homeland Security",
+        "summary": "Ideological violence in the United States continues to evolve in ways that make ordinary Americans increasingly vulnerable.",
+        "url": "https://thehill.com/opinion/congress-blog/homeland-security/5994449-ideological-violence-public-servants/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/5995289-romer-fox-news-interview-blowback/",
-        "source": "The Hill",
-        "title": "Democrats fear viral DSA interview on Fox News will leave a scar",
+        "id": "https://www.nytimes.com/2026/07/29/us/politics/texas-senate-paxton-fund-raising.html",
+        "source": "New York Times Politics",
+        "title": "Can Anyone Spare a Buck For Texas?",
         "publicationDate": "2026-07-29",
-        "category": "Campaign",
-        "summary": "Democrats are worried that widely circulated comments from a Democratic Socialists of America (DSA) leader outlining the group's priorities could become Republican attack fodder as the midterm elections draw closer. The unease from moderate Democrats intensified after Megan Romer, DSA co-chair, was asked a lightning round of questions on Sunday during a Fox News interview about...",
-        "url": "https://thehill.com/homenews/campaign/5995289-romer-fox-news-interview-blowback/"
+        "category": "Elections",
+        "summary": "One of America’s most competitive Senate races features a surprising dynamic: The big Republican committees aren’t spending yet.",
+        "url": "https://www.nytimes.com/2026/07/29/us/politics/texas-senate-paxton-fund-raising.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html",
         "source": "New York Times Politics",
-        "title": "Fauci and His Senate Nemesis Rand Paul to Face Off in Hearing",
+        "title": "Fauci Invokes the Fifth Amendment, Refusing to Answer Senate Committee Questions",
         "publicationDate": "2026-07-29",
         "category": "United States Politics and Government",
-        "summary": "The Kentucky Republican has accused Dr. Anthony Fauci of funding research that triggered the Covid pandemic and lying about it to Congress — charges Dr. Fauci denies.",
+        "summary": "The panel’s chairman, Rand Paul, has long accused Dr. Fauci of funding research that triggered the Covid pandemic and lying about it to Congress — charges Dr. Fauci denies.",
         "url": "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html"
     },
     {
@@ -146,20 +182,11 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "More than 100 aftershocks hit Japan after deadly quake that killed 13",
+        "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
         "publicationDate": "2026-07-29",
         "category": "Other",
         "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
         "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
-        "publicationDate": "2026-07-29",
-        "category": "Other",
-        "summary": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
-        "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -171,6 +198,24 @@
         "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
+        "publicationDate": "2026-07-29",
+        "category": "Other",
+        "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+        "publicationDate": "2026-07-29",
+        "category": "Healthcare",
+        "summary": "The former top US health official is invoking his right to remain silent as senators grill him under oath about the pandemic.",
+        "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Russia charges Telegram founder Durov with facilitating terrorism",
@@ -180,58 +225,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Four women accuse Jared Leto of criminal sexual conduct",
+        "id": "https://www.ft.com/content/7a33e045-57c0-4cf7-bb1b-a7f4ecdc1e30?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Brookfield to turn former nuclear weapons site into AI campus",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
+        "summary": "Canadian investment group to partner utility NextEra on data centre in Kentucky",
+        "url": "https://www.ft.com/content/7a33e045-57c0-4cf7-bb1b-a7f4ecdc1e30?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/ed644365-4902-4f62-b57a-089ef243eef1?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Burnham opens door to tax rises to pay for social care overhaul",
+        "title": "Trump vows to deliver ‘beating’ to Iran in retaliation for latest attack",
         "publicationDate": "2026-07-29",
+        "category": "Defense",
+        "summary": "Washington says Tehran launched ballistic missiles at US military installations in the Middle East",
+        "url": "https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/749bb6e9-35fe-45d9-b359-bf457884ca7c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Assisted dying debate should wait until social care is fixed, says Burnham",
+        "publicationDate": "2026-07-29",
+        "category": "Other",
+        "summary": "Prime minister’s comments dash Labour MPs’ hopes of reviving contentious legislation later this year",
+        "url": "https://www.ft.com/content/749bb6e9-35fe-45d9-b359-bf457884ca7c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/e185a6f7-afa6-4b9e-8d6e-278c47095a67?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Half of England declared in drought after heatwaves",
+        "publicationDate": "2026-07-29",
+        "category": "Other",
+        "summary": "Second summer drought in two years is ‘exceptionally serious’, says Environment Agency",
+        "url": "https://www.ft.com/content/e185a6f7-afa6-4b9e-8d6e-278c47095a67?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/cd190fd5-5675-4896-87f5-1b3e985e4dde?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "CMA drops pursuit of private equity executives over price gouging",
+        "publicationDate": "2026-07-29",
+        "category": "Other",
+        "summary": "UK regulator decides not to pursue ban against two former Cinven executives",
+        "url": "https://www.ft.com/content/cd190fd5-5675-4896-87f5-1b3e985e4dde?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R49047",
+        "source": "Congressional Research Service",
+        "title": "The Social Security Administration’s (SSA’s) FY2027 Annual LAE Appropriation: In Brief",
+        "publicationDate": "2026-07-28",
         "category": "Economy",
-        "summary": "Prime minister says he wants to avoid people having to sell their homes to pay for care",
-        "url": "https://www.ft.com/content/ed644365-4902-4f62-b57a-089ef243eef1?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/37052f58-e11f-46f7-99d7-5e850d176ef5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The thrill of South Korea’s ‘dopamine apps’",
-        "publicationDate": "2026-07-29",
-        "category": "Other",
-        "summary": "One faux delivery site allows users to select and order food without paying money or receiving anything",
-        "url": "https://www.ft.com/content/37052f58-e11f-46f7-99d7-5e850d176ef5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/ca8893d3-41c2-474f-b140-85072149a5e5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "EU warns it will investigate Fifa’s $20bn commercial venture",
-        "publicationDate": "2026-07-29",
-        "category": "Other",
-        "summary": "Bloc joins wave of indignation at Fifa’s plan to raise billions from outside investors",
-        "url": "https://www.ft.com/content/ca8893d3-41c2-474f-b140-85072149a5e5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/47560cb6-4804-460e-a0fc-2b89d556bee3?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Russia puts Telegram founder Pavel Durov on international wanted list",
-        "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "Kremlin’s fight with messaging app chief escalates as he is charged with ‘facilitating terrorist activities’",
-        "url": "https://www.ft.com/content/47560cb6-4804-460e-a0fc-2b89d556bee3?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/2e3048dc-e003-44be-957c-3f119bde3f48?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FTSE 100 hits all-time high as ‘anti-tech’ index shines in global chip rout",
-        "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "Banks and oil companies power UK stocks’ rebound from Iran war sell-off",
-        "url": "https://www.ft.com/content/2e3048dc-e003-44be-957c-3f119bde3f48?syn-25a6b1a6=1"
+        "summary": "The Social Security Administration (SSA) is responsible for administering Social Security and Supplemental Security Income, which are the nation’s primary income support programs for older adults and individuals with disabilities. As part of its duties, SSA receives benefit applications and determines program entitlement or eligibility, holds hearings and other appeals, completes program integrity (PI) reviews of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49047/R49047.1.pdf"
     },
     {
         "id": "IF13278",
@@ -423,24 +468,6 @@
         "url": "https://www.pbs.org/newshour/world/u-s-looks-to-boost-anti-china-spending-worldwide-by-hundreds-of-millions-of-dollars-documents-say"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/why-doctors-say-abortion-bans-are-worsening-medical-care-during-miscarriages",
-        "source": "PBS NewsHour Politics",
-        "title": "Why doctors say abortion bans are worsening medical care during miscarriages",
-        "publicationDate": "2026-07-28",
-        "category": "Healthcare",
-        "summary": "It's been four years since the Supreme Court's Dobbs decision opened the door to state abortion bans. Now, a new study finds those bans are hurting women who aren't seeking abortions at all. Researchers found delays in miscarriage treatment increase the risk to a woman's health and fertility and prolong the grief of a lost pregnancy. Special correspondent Sarah Varney reports.",
-        "url": "https://www.pbs.org/newshour/show/why-doctors-say-abortion-bans-are-worsening-medical-care-during-miscarriages"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/board-packed-with-trump-allies-votes-to-weaken-protections-for-historic-sites",
-        "source": "PBS NewsHour Politics",
-        "title": "Board packed with Trump allies votes to weaken protections for historic sites",
-        "publicationDate": "2026-07-28",
-        "category": "arts",
-        "summary": "An advisory council packed with Trump allies voted to weaken federal oversight of construction projects affecting historic sites. Critics are concerned that this move will open the floodgates to endangering preservation of historic and cultural places across the country. Jeffrey Brown discussed more with Phillip Kennicott of The Washington Post. It's for our arts and culture series, CANVAS.",
-        "url": "https://www.pbs.org/newshour/show/board-packed-with-trump-allies-votes-to-weaken-protections-for-historic-sites"
-    },
-    {
         "id": "https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html",
         "source": "New York Times Politics",
         "title": "Trump Will End Subsidies for Medicare Drug Premiums",
@@ -448,15 +475,6 @@
         "category": "Healthcare",
         "summary": "Millions of older Americans could pay more for their prescription drug coverage next year.",
         "url": "https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html",
-        "source": "New York Times Politics",
-        "title": "At Graham’s Farewell, a Glimpse Into Power in Trump’s Washington",
-        "publicationDate": "2026-07-28",
-        "category": "United States Politics and Government",
-        "summary": "The political evolution of Lindsey Graham, the South Carolina senator, both captivated and confused many of his old friends but reflected the changing order in the nation’s capital.",
-        "url": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/",
@@ -486,15 +504,6 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49046/R49046.4.pdf"
     },
     {
-        "id": "R43122",
-        "source": "Congressional Research Service",
-        "title": "Medicare’s Financial Status",
-        "publicationDate": "2026-07-27",
-        "category": "Economy",
-        "summary": "Medicare, the federal health insurance program that pays for covered health services for enrolled beneficiaries, provided coverage to approximately 70.7 million beneficiaries in 2026 and incurred total expenditures of approximately $1.30 trillion. The Hospital Insurance (HI) trust fund, which finances Medicare Part A, is funded primarily through payroll taxes and accumulated trust fund assets. The Supplemental...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43122/R43122.35.pdf"
-    },
-    {
         "id": "https://www.cfr.org/articles/trump-administrations-dealing-in-companies-is-on-shaky-ground-2",
         "source": "Council on Foreign Relations",
         "title": "Trump Administration’s Dealing in Companies Is on Shaky Ground",
@@ -502,15 +511,6 @@
         "category": "Article",
         "summary": "Intel’s shareholders are doing what Congress seems unable to do: push back on the administration’s interpretation of the law to justify grabbing ownership in companies.",
         "url": "https://www.cfr.org/articles/trump-administrations-dealing-in-companies-is-on-shaky-ground-2"
-    },
-    {
-        "id": "https://www.cfr.org/articles/as-zelenskyy-meets-trump-ukraines-political-crisis-reveals-a-silver-lining",
-        "source": "Council on Foreign Relations",
-        "title": "As Zelenskyy Meets Trump, Ukraine’s Political Crisis Reveals a Silver Lining",
-        "publicationDate": "2026-07-27",
-        "category": "Defense",
-        "summary": "Zelenskyy arrives in Washington carrying a political crisis of his own making, after the ouster of his popular defense minister triggered protests across Ukraine. But by forcing him to answer for it, Ukraine’s civil society has once again demonstrated the strength of Ukraine‘s democracy.",
-        "url": "https://www.cfr.org/articles/as-zelenskyy-meets-trump-ukraines-political-crisis-reveals-a-silver-lining"
     },
     {
         "id": "https://www.heritage.org/border-security/commentary/we-need-truth-commission-show-the-world-the-insanity-the-biden-border",
