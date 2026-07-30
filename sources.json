@@ -1,12 +1,39 @@
 [
     {
-        "id": "R48956",
+        "id": "IF12733",
         "source": "Congressional Research Service",
-        "title": "National Security, Department of State, and Related Programs: FY2027 Budget and Appropriations",
+        "title": "Extreme Heat and Climate Change",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "Scientific consensus supports a causal relationship between increasing global temperatures and the incidence of extreme heat. Extreme heat can have a range of serious consequences, with record-breaking temperatures and heatwaves occurring in recent years. For example, global temperature datasets from the National Aeronautics and Space Administration (NASA) and National Oceanic and Atmospheric Administration (NOAA)...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12733/IF12733.3.pdf"
+    },
+    {
+        "id": "IF13280",
+        "source": "Congressional Research Service",
+        "title": "The Universal Service Fund Contribution Base: Considerations for Congress",
         "publicationDate": "2026-07-30",
         "category": "Economy",
-        "summary": "Congress typically considers 12 distinct appropriations measures on an annual basis to fund federal programs and activities. Between FY2008 and FY2025, one of these measures was the Department of State, Foreign Operations, and Related Programs (SFOPS) appropriations. Beginning in FY2026, Congress retitled this measure as the National Security, Department of State, and Related Programs (NSRP) appropriations. The...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48956/R48956.3.pdf"
+        "summary": "Introduction The Universal Service Fund (USF), comprising four federal broadband-related programs, is funded by mandatory fees on telecommunications carriers. This funding method differs from those for other broadband programs, which are funded through appropriations. The “contribution factor”—the percentage of interstate and international telecommunications revenues that carriers pay as USF fees—has increased over...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13280/IF13280.1.pdf"
+    },
+    {
+        "id": "IF13226",
+        "source": "Congressional Research Service",
+        "title": "Seabed Mining on the U.S. Outer Continental Shelf: Recent Developments",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "As part of a national effort to secure reliable supplies of critical minerals, President Trump issued Executive Order (E.O.) 14285 of April 24, 2025, “Unleashing America’s Offshore Critical Minerals and Resources.” One potential source of offshore critical minerals is the federally managed U.S. outer continental shelf (OCS; Figure 1). The Department of the Interior (DOI) has authority under the Outer Continental...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13226/IF13226.4.pdf"
+    },
+    {
+        "id": "LSB11352",
+        "source": "Congressional Research Service",
+        "title": "Appellate Courts Divided on Scope of Title IX Liability for Schools in Cases of Sexual Harassment",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Title IX of the Education Amendments of 1972 (Title IX) prohibits sex discrimination in education programs and activities that receive federal financial assistance. Recipient schools can be liable under Title IX for an insufficient response to sexual harassment by a teacher or between students in certain circumstances. Federal appellate courts have taken diverging positions over when a school may be liable for its...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11352/LSB11352.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4983-1.html",
@@ -34,6 +61,15 @@
         "category": "Healthcare",
         "summary": "The authors assessed models of care developed by clinics to integrate Adverse Childhood Experiences (ACE) education, screening, and response. Findings provide evidence of the effects of pediatric ACE screening on health care utilization and quality.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4408-2.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/council-of-councils-fourteenth-virtual-conference",
+        "source": "Council on Foreign Relations",
+        "title": "Council of Councils Fourteenth Virtual Conference",
+        "publicationDate": "2026-07-30",
+        "category": "Article",
+        "summary": "via Zoom July 22, 2026",
+        "url": "https://www.cfr.org/articles/council-of-councils-fourteenth-virtual-conference"
     },
     {
         "id": "https://www.cfr.org/articles/washingtons-growing-portfolio-tracking-u-s-government-investments",
@@ -70,15 +106,6 @@
         "category": "Defense",
         "summary": "The rise of artificial intelligence (AI) means policymakers need to navigate a future defined by technological uncertainty. To help them do so, CFR asked foreign policy experts to predict how frontier AI capabilities and the governance structures that could emerge around them will affect the global order.",
         "url": "https://www.cfr.org/articles/how-experts-think-ai-will-change-the-global-balance-of-power-by-2035"
-    },
-    {
-        "id": "https://www.cfr.org/articles/the-shareholder-state-washingtons-improvised-bet-on-critical-minerals",
-        "source": "Council on Foreign Relations",
-        "title": "The Shareholder State: Washington’s Improvised Bet on Critical Minerals",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "The United States needs to use equity strategically, as part of a broader architecture designed to build commercially sustainable supply chains that serve national security interests while keeping markets free but not defenseless.",
-        "url": "https://www.cfr.org/articles/the-shareholder-state-washingtons-improvised-bet-on-critical-minerals"
     },
     {
         "id": "https://www.heritage.org/global-politics/report/japanese-national-security-strategy-and-spending",
@@ -144,6 +171,24 @@
         "url": "https://cms.hoover.org/research/immigration"
     },
     {
+        "id": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
+        "source": "NPR Politics",
+        "title": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
+        "publicationDate": "2026-07-30",
+        "category": "Healthcare",
+        "summary": "The accusations against Dr. Anthony Fauci, once the nation's leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S.",
+        "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/30/nx-s1-5913714/trumps-attorney-general-pick-hits-resistance-from-republicans",
+        "source": "NPR Politics",
+        "title": "Trump's attorney general pick hits resistance from Republicans",
+        "publicationDate": "2026-07-30",
+        "category": "Economy",
+        "summary": "Todd Blanche's attorney general nomination has run into resistance from Republicans demanding answers about a Justice Department settlement tied to Trump's tax returns.",
+        "url": "https://www.npr.org/2026/07/30/nx-s1-5913714/trumps-attorney-general-pick-hits-resistance-from-republicans"
+    },
+    {
         "id": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million",
         "source": "NPR Politics",
         "title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
@@ -171,22 +216,22 @@
         "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot"
     },
     {
-        "id": "https://www.npr.org/2026/07/30/nx-s1-5911922/senate-panel-delays-vote-on-blanches-ag-nomination-as-key-republicans-voice-concerns",
-        "source": "NPR Politics",
-        "title": "Senate panel delays vote on Blanche's AG nomination as key Republicans voice concerns",
+        "id": "https://www.pbs.org/newshour/politics/how-views-on-trumps-handling-of-iran-have-shifted-according-to-this-poll",
+        "source": "PBS NewsHour Politics",
+        "title": "How views on Trump's handling of Iran have shifted, according to this poll",
         "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Todd Blanche's nomination for attorney general is up in the air after concerns from two Republicans on the committee that must advance his nomination.",
-        "url": "https://www.npr.org/2026/07/30/nx-s1-5911922/senate-panel-delays-vote-on-blanches-ag-nomination-as-key-republicans-voice-concerns"
+        "category": "Foreign Policy",
+        "summary": "Most Americans say the war in Iran has not been worth fighting, and President Donald Trump's approval rating on Iran has fallen slightly since last month, according to a new AP-NORC poll.",
+        "url": "https://www.pbs.org/newshour/politics/how-views-on-trumps-handling-of-iran-have-shifted-according-to-this-poll"
     },
     {
-        "id": "https://www.npr.org/2026/07/30/nx-s1-5912213/sen-richard-blumenthal-talks-about-anthony-faucis-contentious-senate-hearing",
-        "source": "NPR Politics",
-        "title": "Sen. Richard Blumenthal talks about Anthony Fauci's contentious Senate hearing",
+        "id": "https://www.pbs.org/newshour/politics/trumps-attacks-on-mail-balloting-and-concerns-over-delays-turn-midterms-spotlight-on-postal-service",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump's attacks on mail balloting and concerns over delays turn midterms spotlight on Postal Service",
         "publicationDate": "2026-07-30",
-        "category": "Healthcare",
-        "summary": "NPR's Michel Martin asks U.S. Sen. Richard Blumenthal, D-Conn., for his takeaways from Wednesday's confrontational Senate committee hearing with former top U.S. health official Dr. Anthony Fauci.",
-        "url": "https://www.npr.org/2026/07/30/nx-s1-5912213/sen-richard-blumenthal-talks-about-anthony-faucis-contentious-senate-hearing"
+        "category": "Donald Trump news",
+        "summary": "Roughly six weeks before the first midterm ballots are mailed out, the U.S. Postal Service is emerging as a pivotal player in an election season that will determine control of Congress.",
+        "url": "https://www.pbs.org/newshour/politics/trumps-attacks-on-mail-balloting-and-concerns-over-delays-turn-midterms-spotlight-on-postal-service"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/mandela-barnes-drops-out-of-democratic-primary-race-for-wisconsin-governor",
@@ -216,112 +261,94 @@
         "url": "https://www.pbs.org/newshour/politics/watch-live-trump-announces-effort-to-train-veterans-as-truckers-amid-undocumented-driver-crackdown"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/senate-committee-advances-nomination-of-dr-erica-schwartz-for-cdc-director",
-        "source": "PBS NewsHour Politics",
-        "title": "Senate committee advances nomination of Dr. Erica Schwartz for CDC director",
-        "publicationDate": "2026-07-30",
-        "category": "Healthcare",
-        "summary": "Dr. Erica Schwartz's nomination to be director of the nation's top public health agency advanced on Thursday, setting aside concerns that she will not stand up to political meddling.",
-        "url": "https://www.pbs.org/newshour/politics/senate-committee-advances-nomination-of-dr-erica-schwartz-for-cdc-director"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-says-he-may-temporarily-pull-blanches-nomination-for-attorney-general-as-republicans-seek-concessions",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump says he may temporarily pull Blanche's nomination for attorney general as Republicans seek concessions",
-        "publicationDate": "2026-07-30",
-        "category": "Donald Trump news",
-        "summary": "President Donald Trump said Thursday he may pull acting Attorney General Todd Blanche's nomination for attorney general, looking to avoid concessions to holdout Republicans.",
-        "url": "https://www.pbs.org/newshour/politics/trump-says-he-may-temporarily-pull-blanches-nomination-for-attorney-general-as-republicans-seek-concessions"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6000418-urban-league-black-america-report/",
+        "id": "https://thehill.com/policy/energy-environment/6000760-oil-refineries-st-croix-gas-prices/",
         "source": "The Hill",
-        "title": "Black Americans' prospects worse under Trump administration: Urban League",
+        "title": "White House eyes reopening oil refineries amid high gasoline prices",
         "publicationDate": "2026-07-30",
-        "category": "Administration",
-        "summary": "The National Urban League released its annual “State of Black America” report on Thursday concluding that prospects for minorities in the U.S. are under threat due to a second Trump administration. The report was not only authored by the 116 year old civil rights organization but a range of lawmakers and business leaders, who said...",
-        "url": "https://thehill.com/homenews/administration/6000418-urban-league-black-america-report/"
+        "category": "Foreign Policy",
+        "summary": "The Trump administration is looking to reopen closed oil refineries, including an embattled one in the Virgin Islands, amid high gasoline prices spurred by the Iran war. A White House official confirmed to The Hill in an email Thursday that the Trump administration “would like to see refineries across the country reopen, especially the St....",
+        "url": "https://thehill.com/policy/energy-environment/6000760-oil-refineries-st-croix-gas-prices/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6000188-will-cyclospora-spike-again-expert-warns-diarrhea-parasite-may-spread-through-summer/",
+        "id": "https://thehill.com/policy/technology/6000542-musk-plans-big-political-ad-buy-in-8-states-report/",
         "source": "The Hill",
-        "title": "Will cyclospora spike again? Expert warns diarrhea parasite may spread through summer",
+        "title": "Musk's super PAC to pour at least $100M into voter turnout initiative: Report",
         "publicationDate": "2026-07-30",
-        "category": "Healthcare",
-        "summary": "While the largest cyclospora outbreak appears to be winding down, others with unknown sources keep popping up.",
-        "url": "https://thehill.com/policy/healthcare/6000188-will-cyclospora-spike-again-expert-warns-diarrhea-parasite-may-spread-through-summer/"
+        "category": "Technology",
+        "summary": "Elon Musk is jumping back into the political spending arena ahead of the 2026 midterms with a new field program to help elect Republicans in at least eight states. The Tesla and SpaceX CEO authorized his super PAC, America PAC, to spend $100 million to $120 million for a new field program focused on conservative...",
+        "url": "https://thehill.com/policy/technology/6000542-musk-plans-big-political-ad-buy-in-8-states-report/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6000320-veterans-to-replace-illegal-truckers/",
+        "id": "https://thehill.com/policy/defense/6000739-lockheed-martin-contract-patriot-interceptor-missiles-stockpile/",
         "source": "The Hill",
-        "title": "Trump announces 'Freedom Haulers' initiative",
+        "title": "Lockheed Martin wins $58.6B contract to produce Patriot interceptors",
         "publicationDate": "2026-07-30",
         "category": "Defense",
-        "summary": "President Trump on Thursday rolled out a new initiative dubbed “Freedom Haulers” aimed at replacing illegal immigrant truck drivers with U.S. military veterans. The president made the announcement alongside Transportation Secretary Sean Duffy and Acting Labor Secretary Keith Sonderling. The administration said the initiative is aimed at connecting veterans with employment opportunities while bolstering the...",
-        "url": "https://thehill.com/homenews/administration/6000320-veterans-to-replace-illegal-truckers/"
+        "summary": "The Army has awarded Lockheed Martin a seven-year contract worth up to $58.6 billion to churn out Patriot interceptor missiles in an effort to replenish quickly diminishing U.S. munitions stockpiles. The deal, announced Wednesday, converts a previous one-year contract worth $4.7 ​billion awarded to Lockheed in April. The alteration means the U.S. military can receive...",
+        "url": "https://thehill.com/policy/defense/6000739-lockheed-martin-contract-patriot-interceptor-missiles-stockpile/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6000331-fox-legal-expert-fauci-contempt-unlikely/",
+        "id": "https://thehill.com/business/6000693-fed-holds-rates-iran-war/",
         "source": "The Hill",
-        "title": "Fox News legal contributor: Senate will lose Fauci contempt fight",
+        "title": "Markets whipsaw as Trump, Fed face new inflation risks",
         "publicationDate": "2026-07-30",
-        "category": "Court Battles",
-        "summary": "Fox News legal contributor Solomon Wisenberg said Thursday that the Senate would lose a legal battle over trying to hold Dr. Anthony Fauci in contempt. “It’s really not going to be a close question, he is going to — the Senate, if they try to have the Department of Justice hold him in contempt —...",
-        "url": "https://thehill.com/regulation/court-battles/6000331-fox-legal-expert-fauci-contempt-unlikely/"
+        "category": "Economy",
+        "summary": "Financial markets are uneasy as President Trump and Federal Reserve Chair Kevin Warsh face rising inflation risks driven by the war in Iran. Stocks and bond yields have whipsawed amid uncertainty over how the Fed will tackle higher energy prices and their impact on the broader economy. The stock market took heavy losses and...",
+        "url": "https://thehill.com/business/6000693-fed-holds-rates-iran-war/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6000367-mandela-barnes-drops-out-wisconsin-governor/",
+        "id": "https://thehill.com/homenews/campaign/6000626-democrats-lead-gop-midterm-poll/",
         "source": "The Hill",
-        "title": "Mandela Barnes drops out of Wisconsin governor's race",
+        "title": "Democrats top Republicans by 8 points ahead of midterms: Poll",
         "publicationDate": "2026-07-30",
         "category": "Campaign",
-        "summary": "Former Lt. Gov. Mandela Barnes (D) dropped out of the Wisconsin governor's race Thursday as he struggled to gain traction in the polls. \"It's become very clear who our nominee is going to be,\" Barnes said in a video posted to the social media platform X, later adding, \"We have to do everything we possibly...",
-        "url": "https://thehill.com/homenews/campaign/6000367-mandela-barnes-drops-out-wisconsin-governor/"
+        "summary": "Democrats are leading Republicans by 8 points with the midterms just a little more than three months away, according to a new poll released Thursday. In the CNN survey, 47 percent of respondents said they would cast their ballot for a Democratic candidate if congressional elections happened that day, with 39 percent saying the same...",
+        "url": "https://thehill.com/homenews/campaign/6000626-democrats-lead-gop-midterm-poll/"
+    },
+    {
+        "id": "https://www.nytimes.com/video/us/politics/100000011061667/does-congress-have-the-power-to-stop-the-iran-war.html",
+        "source": "New York Times Politics",
+        "title": "Does Congress Have the Power to Stop the Iran War?",
+        "publicationDate": "2026-07-30",
+        "category": "Foreign Policy",
+        "summary": "In theory, the War Powers Act gives Congress the power to end a war. But our chief White House correspondent, Peter Baker, describes how President Trump is the latest president to find ways to engage in war without congressional approval.",
+        "url": "https://www.nytimes.com/video/us/politics/100000011061667/does-congress-have-the-power-to-stop-the-iran-war.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/trump-voa-news-sarah-rogers.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s Nominee to Oversee VOA, Sarah B. Rogers, Suggests Return of Journalists on Leave",
+        "publicationDate": "2026-07-30",
+        "category": "News and News Media",
+        "summary": "The statement by the nominee, Sarah B. Rogers, signaled a stark reversal of the president’s earlier efforts to shutter Voice of America and other federally funded news groups.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-voa-news-sarah-rogers.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
+        "source": "New York Times Politics",
+        "title": "After Claiming ‘Bias’ at Smithsonian, Trump Officials Stage Patriotic Exhibition",
+        "publicationDate": "2026-07-30",
+        "category": "Art",
+        "summary": "Trump officials have promised to “make visual arts great,” with a museum exhibition that includes artwork by several people with personal connections to the planners.",
+        "url": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/senate-committee-education-dept.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s Effort to Gut Education Dept. Rebuked by Senate Committee",
+        "publicationDate": "2026-07-30",
+        "category": "United States Politics and Government",
+        "summary": "The bipartisan bill is a long way from becoming law, but it represents the strongest opposition yet from Congress to the administration’s agenda.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/senate-committee-education-dept.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
         "source": "New York Times Politics",
-        "title": "State Department Map Mislabels African Countries at AIDS Conference",
+        "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
         "publicationDate": "2026-07-30",
         "category": "Maps",
         "summary": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”",
         "url": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html",
-        "source": "New York Times Politics",
-        "title": "Why Democrats Won’t Stop Forcing Votes On Trump’s Iran War Powers",
-        "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "Even after winning approval of a measure calling on President Trump to end the war, they continue to call votes to force Republicans to answer for it.",
-        "url": "https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/us/politics/elon-musk-midterms-republicans.html",
-        "source": "New York Times Politics",
-        "title": "Elon Musk Plans at Least $100 Million in Midterm Spending to Help Republicans",
-        "publicationDate": "2026-07-30",
-        "category": "Musk",
-        "summary": "Elon Musk, a year after a huge blowup with President Trump and the Republican Party, is said to be planning to spend in at least eight states to help them in November.",
-        "url": "https://www.nytimes.com/2026/07/30/us/politics/elon-musk-midterms-republicans.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/us/politics/the-docket-alien-removal-court.html",
-        "source": "New York Times Politics",
-        "title": "A ‘Zombie Court’ for Terror Cases Awakens",
-        "publicationDate": "2026-07-30",
-        "category": "United States Politics and Government",
-        "summary": "Dormant for 30 years, a little-known tribunal is hearing its first case.",
-        "url": "https://www.nytimes.com/2026/07/30/us/politics/the-docket-alien-removal-court.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html",
-        "source": "New York Times Politics",
-        "title": "Trump Says He May Drop Blanche’s Attorney General Nomination, for Now",
-        "publicationDate": "2026-07-30",
-        "category": "United States Politics and Government",
-        "summary": "President Trump’s threat followed a day of fruitless negotiations with two Republican holdouts, Senators John Cornyn and Thom Tillis.",
-        "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/",
@@ -340,6 +367,15 @@
         "category": "Other",
         "summary": "GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are leaving the Senate after this year.",
         "url": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Uefa to boycott World Cups if Fifa plans approved",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
@@ -378,13 +414,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+        "id": "https://www.ft.com/content/aa292d6f-3b12-4b7a-b558-7306e8d03b9e",
+        "source": "Financial Times World",
+        "title": "Skirts and sandwiches fail to excite cautious IPO investors",
         "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-        "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures",
+        "url": "https://www.ft.com/content/aa292d6f-3b12-4b7a-b558-7306e8d03b9e"
+    },
+    {
+        "id": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Microsoft adds record $450bn in market cap as results cheer investors",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn",
+        "url": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/5546b044-0582-4ed9-8e61-bd1732f3063e?syn-25a6b1a6=1",
@@ -412,42 +457,6 @@
         "category": "Other",
         "summary": "Deal comes after Leopold Aschenbrenner’s investment firm held overnight crunch talks with investors",
         "url": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3cbee183-fd1f-4afc-8376-2115e66dda6c",
-        "source": "Financial Times World",
-        "title": "Kevin Warsh’s concerning communication style",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Fed chair’s press conference exposes the shortcomings of his approach",
-        "url": "https://www.ft.com/content/3cbee183-fd1f-4afc-8376-2115e66dda6c"
-    },
-    {
-        "id": "https://www.ft.com/content/d6df67d4-b8be-4e14-b856-29852e249577",
-        "source": "Financial Times World",
-        "title": "China is not the solution to the US chipflation problem",
-        "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "Buying memory chips from companies like CXMT could lower costs but risks dependence",
-        "url": "https://www.ft.com/content/d6df67d4-b8be-4e14-b856-29852e249577"
-    },
-    {
-        "id": "R44692",
-        "source": "Congressional Research Service",
-        "title": "Five-Year Offshore Oil and Gas Leasing Program: Status and Issues in Brief",
-        "publicationDate": "2026-07-29",
-        "category": "Economy",
-        "summary": "Under the Outer Continental Shelf Lands Act (OCSLA), as amended, the Bureau of Ocean Energy Management (BOEM) within the Department of the Interior (DOI) must prepare and maintain forward-looking five-year plans—referred to by BOEM as national programs or five-year programs—to schedule proposed oil and gas lease sales on the U.S. outer continental shelf (OCS). (Pursuant to a DOI secretarial order of July 10, 2026,...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44692/R44692.49.pdf"
-    },
-    {
-        "id": "IN12684",
-        "source": "Congressional Research Service",
-        "title": "Changes to CDC Vaccine Recommendations in 2025 and 2026",
-        "publicationDate": "2026-07-29",
-        "category": "Healthcare",
-        "summary": "Since U.S. Department of Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. (hereinafter, HHS Secretary) was sworn in on February 13, 2025, HHS and one of its operating divisions, the Centers for Disease Control and Prevention (CDC), have changed several long-standing federal vaccine recommendations. In addition, HHS/CDC have issued recommendations for vaccines newly licensed (i.e., approved) by the...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12684/IN12684.7.pdf"
     },
     {
         "id": "https://www.heritage.org/border-security/commentary/birthright-citizenship-upheld-now-what",
@@ -513,6 +522,24 @@
         "url": "https://cms.hoover.org/research/lawsuit-over-social-media-allegations-hair-accessory-design-theft-race-dimension-can-go"
     },
     {
+        "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
+        "source": "European Council on Foreign Relations",
+        "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
+        "publicationDate": "2026-07-29",
+        "category": "European Security",
+        "summary": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
+        "url": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/"
+    },
+    {
+        "id": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/",
+        "source": "European Council on Foreign Relations",
+        "title": "Two of a kind: How France and Italy can show the way for Europe’s Africa policy",
+        "publicationDate": "2026-07-29",
+        "category": "Africa",
+        "summary": "Rome and Paris have each overhauled their economic strategies towards Africa in the past few years, competing openly for influence on the continent. Here is how the EU can use that rivalry to sharpen Europe’s offer to Africa",
+        "url": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/",
         "source": "Washington Post Politics",
         "title": "Mamdani says New York doesn’t have authority to arrest Netanyahu, urges feds to act",
@@ -531,13 +558,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/28/trump-asks-supreme-court-overturn-83-million-verdict-e-jean-carroll-case/"
     },
     {
-        "id": "IF13277",
+        "id": "R49047",
         "source": "Congressional Research Service",
-        "title": "U.S. Refugee Admissions Program in FY2025 and FY2026",
+        "title": "The Social Security Administration’s (SSA’s) FY2027 Annual LAE Appropriation: In Brief",
         "publicationDate": "2026-07-28",
-        "category": "Foreign Policy",
-        "summary": "The U.S. Refugee Admissions Program (USRAP) is in uncharted territory. It has been suspended since late January 2025. Under the suspension, only refugees who qualify for an exception are being admitted to the United States. The refugee ceiling (the maximum number of refugees that can be admitted) for FY2026 is currently 17,500, the lowest in the history of the USRAP. As of June 30, 2026, FY2026 refugee admissions...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13277/IF13277.3.pdf"
+        "category": "Economy",
+        "summary": "The Social Security Administration (SSA) is responsible for administering Social Security and Supplemental Security Income, which are the nation’s primary income support programs for older adults and individuals with disabilities. As part of its duties, SSA receives benefit applications and determines program entitlement or eligibility, holds hearings and other appeals, completes program integrity (PI) reviews of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49047/R49047.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
@@ -558,6 +585,24 @@
         "url": "https://www.heritage.org/education/commentary/randi-weingartens-convention-exposes-the-teachers-union-political-machine"
     },
     {
+        "id": "https://ecfr.eu/article/the-saudi-dilemma-how-yemen-could-shape-the-next-phase-of-the-iran-war/",
+        "source": "European Council on Foreign Relations",
+        "title": "The Saudi dilemma: How Yemen could shape the next phase of the Iran war",
+        "publicationDate": "2026-07-28",
+        "category": "Foreign Policy",
+        "summary": "As the Houthis attack Saudi ships and infrastructure, Riyadh faces an increasingly difficult choice: absorb the blows to stay out of the Iran war or retaliate and risk a dangerous escalation.",
+        "url": "https://ecfr.eu/article/the-saudi-dilemma-how-yemen-could-shape-the-next-phase-of-the-iran-war/"
+    },
+    {
+        "id": "https://ecfr.eu/article/shoring-up-the-red-sea-why-the-next-crisis-may-begin-in-the-horn-of-africa/",
+        "source": "European Council on Foreign Relations",
+        "title": "Shoring up the Red Sea: Why the next crisis may begin in the Horn of Africa",
+        "publicationDate": "2026-07-28",
+        "category": "Africa",
+        "summary": "The Red Sea is becoming more dangerous, and not only because of the Houthis. Conflicts in the Horn of Africa are converging and drawing in external powers, creating new threats to a maritime corridor vital to global trade.",
+        "url": "https://ecfr.eu/article/shoring-up-the-red-sea-why-the-next-crisis-may-begin-in-the-horn-of-africa/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/",
         "source": "Washington Post Politics",
         "title": "Conservatives tout Biden tapes as proof of his decline. The audio is more nuanced.",
@@ -574,6 +619,15 @@
         "category": "Foreign Policy",
         "summary": "Ökonom Sander Tordoir warnt vor einem „China-Schock 2.0“: Chinas massive Subventionen, Überkapazitäten und Exportoffensive setzen zentrale deutsche Branchen wie Autoindustrie, Maschinenbau und Chemie zunehmend unter Druck. Im Gespräch mit Paul Ronzheimer erklärt er, warum Deutschland diesmal im Zentrum des wirtschaftlichen Schocks steht, Hunderttausende Industriearbeitsplätze gefährdet sein könnten – und warum...",
         "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/",
+        "source": "European Council on Foreign Relations",
+        "title": "Serbia: Inside the leaderless movement",
+        "publicationDate": "2026-07-24",
+        "category": "Serbia",
+        "summary": "Jessica Hendrick welcomes Igor Bandović and Luka Filipović to discuss Serbia’s biggest protest movement in decades",
+        "url": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
@@ -619,14 +673,5 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
-    },
-    {
-        "id": "R44796",
-        "source": "Congressional Research Service",
-        "title": "The ACA Prevention and Public Health Fund: In Brief",
-        "publicationDate": "2017-06-09",
-        "category": "Economy",
-        "summary": "Section 4002 of the Affordable Care Act (ACA, P.L. 111-148, as amended), Prevention and Public Health Fund (PPHF) a permanent annual appropriation to be administered by the Secretary of Health and Human Services (HHS). PPHF was intended to support an “expanded and sustained national investment in prevention and public health programs.” (42 U.S.C. 300u-11) PPHF amounts for each fiscal year are available to the...",
-        "url": "https://www.congress.gov/crs_external_products/R/HTML/R44796.html"
     }
 ]
