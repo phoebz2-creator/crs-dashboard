@@ -1,39 +1,12 @@
 [
     {
-        "id": "IF12733",
+        "id": "R49052",
         "source": "Congressional Research Service",
-        "title": "Extreme Heat and Climate Change",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "Scientific consensus supports a causal relationship between increasing global temperatures and the incidence of extreme heat. Extreme heat can have a range of serious consequences, with record-breaking temperatures and heatwaves occurring in recent years. For example, global temperature datasets from the National Aeronautics and Space Administration (NASA) and National Oceanic and Atmospheric Administration (NOAA)...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12733/IF12733.3.pdf"
-    },
-    {
-        "id": "IF13280",
-        "source": "Congressional Research Service",
-        "title": "The Universal Service Fund Contribution Base: Considerations for Congress",
+        "title": "A Comparison of Two Open-Source Tax Microsimulation Models",
         "publicationDate": "2026-07-30",
         "category": "Economy",
-        "summary": "Introduction The Universal Service Fund (USF), comprising four federal broadband-related programs, is funded by mandatory fees on telecommunications carriers. This funding method differs from those for other broadband programs, which are funded through appropriations. The “contribution factor”—the percentage of interstate and international telecommunications revenues that carriers pay as USF fees—has increased over...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13280/IF13280.1.pdf"
-    },
-    {
-        "id": "IF13226",
-        "source": "Congressional Research Service",
-        "title": "Seabed Mining on the U.S. Outer Continental Shelf: Recent Developments",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "As part of a national effort to secure reliable supplies of critical minerals, President Trump issued Executive Order (E.O.) 14285 of April 24, 2025, “Unleashing America’s Offshore Critical Minerals and Resources.” One potential source of offshore critical minerals is the federally managed U.S. outer continental shelf (OCS; Figure 1). The Department of the Interior (DOI) has authority under the Outer Continental...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13226/IF13226.4.pdf"
-    },
-    {
-        "id": "LSB11352",
-        "source": "Congressional Research Service",
-        "title": "Appellate Courts Divided on Scope of Title IX Liability for Schools in Cases of Sexual Harassment",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Title IX of the Education Amendments of 1972 (Title IX) prohibits sex discrimination in education programs and activities that receive federal financial assistance. Recipient schools can be liable under Title IX for an insufficient response to sexual harassment by a teacher or between students in certain circumstances. Federal appellate courts have taken diverging positions over when a school may be liable for its...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11352/LSB11352.3.pdf"
+        "summary": "CRS has recently begun using two open-source microsimulation tax models to estimate the revenue effects of changes to federal tax law: the Budget Lab at Yale’s (TBL’s) Tax-Simulator and the Policy Simulation Library’s (PSL’s) Tax-Calculator. CRS uses these models to assist congressional offices early in the legislative process during work to inform congressional deliberations on tax policy. Any estimates produced...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49052/R49052.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4983-1.html",
@@ -216,6 +189,33 @@
         "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot"
     },
     {
+        "id": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
+        "source": "PBS NewsHour Politics",
+        "title": "How shipping risks from Ukraine and Iran wars are converging",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "The blockade of the Strait of Hormuz, through which nearly all Middle Eastern oil flows, has prompted Saudi Arabia to call for a maritime defense coalition to protect Red Sea shipping. For perspective on the proposal, Geoff Bennett spoke with Ian Ralby. He's a global maritime security expert, president of Auxilium Worldwide, and a senior fellow at the Center for Maritime Strategy.",
+        "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/missouri-couple-murdered-in-guatemala-after-husband-was-deported",
+        "source": "PBS NewsHour Politics",
+        "title": "Missouri couple murdered in Guatemala after husband was deported",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Acting Attorney General Todd Blanche's nomination to lead the Department of Justice full-time is in limbo. Two Republican senators, John Cornyn of Texas and Thom Tillis of North Carolina, say they will oppose Blanche's nomination unless the DOJ kills a $1.8 billion fund to provide payments to people who believe they have been wrongfully prosecuted. Geoff Bennett discussed more with Devlin Barrett.",
+        "url": "https://www.pbs.org/newshour/show/missouri-couple-murdered-in-guatemala-after-husband-was-deported"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/missouri-couple-murdered-in-guatemala-after-husband-was-deported-2",
+        "source": "PBS NewsHour Politics",
+        "title": "Missouri couple murdered in Guatemala after husband was deported",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "A Missouri couple who had illegally immigrated to the United States was killed in Guatemala after the husband was deported and the wife self-deported. Now two communities in two countries are reeling and searching for answers. Lisa Desjardins discussed more with Brian Munoz of St. Louis Public Radio, who broke this story.",
+        "url": "https://www.pbs.org/newshour/show/missouri-couple-murdered-in-guatemala-after-husband-was-deported-2"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/how-views-on-trumps-handling-of-iran-have-shifted-according-to-this-poll",
         "source": "PBS NewsHour Politics",
         "title": "How views on Trump's handling of Iran have shifted, according to this poll",
@@ -234,76 +234,58 @@
         "url": "https://www.pbs.org/newshour/politics/trumps-attacks-on-mail-balloting-and-concerns-over-delays-turn-midterms-spotlight-on-postal-service"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/mandela-barnes-drops-out-of-democratic-primary-race-for-wisconsin-governor",
-        "source": "PBS NewsHour Politics",
-        "title": "Mandela Barnes drops out of Democratic primary race for Wisconsin governor",
-        "publicationDate": "2026-07-30",
-        "category": "Mandela Barnes",
-        "summary": "The former lieutenant governor made the announcement in a video posted on his Facebook page as democratic socialist Francesca Hong has garnered strong support from the liberal wing of the party.",
-        "url": "https://www.pbs.org/newshour/politics/mandela-barnes-drops-out-of-democratic-primary-race-for-wisconsin-governor"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/urban-league-report-says-trump-administration-is-harming-black-americans-chances-at-american-dream",
-        "source": "PBS NewsHour Politics",
-        "title": "Urban League report says Trump administration is harming Black Americans' chances at American Dream",
-        "publicationDate": "2026-07-30",
-        "category": "american dream",
-        "summary": "Released on Thursday, the annual \"State of Black America\" report grimly describes Black Americans' economic and political prospects as having worsened due to policy changes from President Donald Trump's administration.",
-        "url": "https://www.pbs.org/newshour/politics/urban-league-report-says-trump-administration-is-harming-black-americans-chances-at-american-dream"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-announces-effort-to-train-veterans-as-truckers-amid-undocumented-driver-crackdown",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump announces effort to train veterans as truckers amid immigrant driver crackdown",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "The Trump administration wants soldiers to consider becoming truck drivers when they leave the military to help replace the tens of thousands of immigrant drivers who lost their licenses in a crackdown this year.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-announces-effort-to-train-veterans-as-truckers-amid-undocumented-driver-crackdown"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6000760-oil-refineries-st-croix-gas-prices/",
+        "id": "https://thehill.com/homenews/campaign/6001075-wi-governor-primary-ballot-ruling/",
         "source": "The Hill",
-        "title": "White House eyes reopening oil refineries amid high gasoline prices",
-        "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "The Trump administration is looking to reopen closed oil refineries, including an embattled one in the Virgin Islands, amid high gasoline prices spurred by the Iran war. A White House official confirmed to The Hill in an email Thursday that the Trump administration “would like to see refineries across the country reopen, especially the St....",
-        "url": "https://thehill.com/policy/energy-environment/6000760-oil-refineries-st-croix-gas-prices/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6000542-musk-plans-big-political-ad-buy-in-8-states-report/",
-        "source": "The Hill",
-        "title": "Musk's super PAC to pour at least $100M into voter turnout initiative: Report",
-        "publicationDate": "2026-07-30",
-        "category": "Technology",
-        "summary": "Elon Musk is jumping back into the political spending arena ahead of the 2026 midterms with a new field program to help elect Republicans in at least eight states. The Tesla and SpaceX CEO authorized his super PAC, America PAC, to spend $100 million to $120 million for a new field program focused on conservative...",
-        "url": "https://thehill.com/policy/technology/6000542-musk-plans-big-political-ad-buy-in-8-states-report/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6000739-lockheed-martin-contract-patriot-interceptor-missiles-stockpile/",
-        "source": "The Hill",
-        "title": "Lockheed Martin wins $58.6B contract to produce Patriot interceptors",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "The Army has awarded Lockheed Martin a seven-year contract worth up to $58.6 billion to churn out Patriot interceptor missiles in an effort to replenish quickly diminishing U.S. munitions stockpiles. The deal, announced Wednesday, converts a previous one-year contract worth $4.7 ​billion awarded to Lockheed in April. The alteration means the U.S. military can receive...",
-        "url": "https://thehill.com/policy/defense/6000739-lockheed-martin-contract-patriot-interceptor-missiles-stockpile/"
-    },
-    {
-        "id": "https://thehill.com/business/6000693-fed-holds-rates-iran-war/",
-        "source": "The Hill",
-        "title": "Markets whipsaw as Trump, Fed face new inflation risks",
-        "publicationDate": "2026-07-30",
-        "category": "Economy",
-        "summary": "Financial markets are uneasy as President Trump and Federal Reserve Chair Kevin Warsh face rising inflation risks driven by the war in Iran. Stocks and bond yields have whipsawed amid uncertainty over how the Fed will tackle higher energy prices and their impact on the broader economy. The stock market took heavy losses and...",
-        "url": "https://thehill.com/business/6000693-fed-holds-rates-iran-war/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6000626-democrats-lead-gop-midterm-poll/",
-        "source": "The Hill",
-        "title": "Democrats top Republicans by 8 points ahead of midterms: Poll",
+        "title": "Judge rules Wisconsin voters can't recast ballots after governor race shakeup",
         "publicationDate": "2026-07-30",
         "category": "Campaign",
-        "summary": "Democrats are leading Republicans by 8 points with the midterms just a little more than three months away, according to a new poll released Thursday. In the CNN survey, 47 percent of respondents said they would cast their ballot for a Democratic candidate if congressional elections happened that day, with 39 percent saying the same...",
-        "url": "https://thehill.com/homenews/campaign/6000626-democrats-lead-gop-midterm-poll/"
+        "summary": "A Dane County Circuit Judge ruled Wednesday that Wisconsin voters cannot request new ballots for the Democratic primary in the governor’s race following a string of candidates dropping out or reentering the race in the closing weeks. Judge David Conway’s ruling ended a lawsuit by the state’s Democratic Party against the Wisconsin Elections Commission (WEC)...",
+        "url": "https://thehill.com/homenews/campaign/6001075-wi-governor-primary-ballot-ruling/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6001060-state-department-expands-patriot-passport/",
+        "source": "The Hill",
+        "title": "'Patriot' passports with Trump's image expanding across US",
+        "publicationDate": "2026-07-30",
+        "category": "Administration",
+        "summary": "The State Department on Thursday announced it is expanding access to the new U.S. passport featuring President Trump’s likeness. In a release, the department said it is making an additional 250,000 copies of the commemorative “Patriot Passport” available “in response to overwhelming demand” from the public. Americans had previously only been able to receive the...",
+        "url": "https://thehill.com/homenews/administration/6001060-state-department-expands-patriot-passport/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6000726-gop-blanche-nomination-cornyn-tillis/",
+        "source": "The Hill",
+        "title": "Senate 'YOLO Caucus' bucks Trump on Blanche: What to know",
+        "publicationDate": "2026-07-30",
+        "category": "Senate",
+        "summary": "President Trump’s pick for the next U.S. attorney general is on shaky ground as two GOP lawmakers on the Senate Judiciary Committee demand a written guarantee that a proposed Justice Department \"anti-weaponization\" fund is dead. A \"no\" vote in committee from either Sen. John Cornyn (R-Texas) or Sen. Thom Tillis (R-N.C.) could block acting Attorney...",
+        "url": "https://thehill.com/homenews/senate/6000726-gop-blanche-nomination-cornyn-tillis/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/technology/6000958-commerce-takes-new-equity-stakes-in-seven-firms/",
+        "source": "The Hill",
+        "title": "Commerce takes new equity stakes in 7 firms",
+        "publicationDate": "2026-07-30",
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story Commerce takes new equity stakes in 7 firms The Department of Commerce quietly announced this week it will designate more than $870 million in federal incentives for semiconductor manufacturing in exchange for a minority equity stake in seven companies. © Greg Nash In a blog post Wednesday, the...",
+        "url": "https://thehill.com/newsletters/technology/6000958-commerce-takes-new-equity-stakes-in-seven-firms/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6000956-iowa-senate-candidate-turek-schumer/",
+        "source": "The Hill",
+        "title": "Turek declines to say he'd back Schumer",
+        "publicationDate": "2026-07-30",
+        "category": "Campaign",
+        "summary": "Iowa state Rep. Josh Turek (D) declined to answer whether he would support Senate Minority Leader Chuck Schumer (D-N.Y.) to lead Democrats in the next Congress as midterms come closer. In a Wednesday interview with former White House press secretary Jen Psaki on MS NOW, Turek did not answer whether he would support Schumer’s leadership...",
+        "url": "https://thehill.com/homenews/6000956-iowa-senate-candidate-turek-schumer/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/appeals-courts-immigrant-detention-policy.html",
+        "source": "New York Times Politics",
+        "title": "Two More Appeals Courts Rule Against Trump’s Detention Policy",
+        "publicationDate": "2026-07-30",
+        "category": "Decisions and Verdicts",
+        "summary": "The rulings deepen a split across the judiciary, making it more likely that the Supreme Court will consider the legality of detaining undocumented immigrants indefinitely.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/appeals-courts-immigrant-detention-policy.html"
     },
     {
         "id": "https://www.nytimes.com/video/us/politics/100000011061667/does-congress-have-the-power-to-stop-the-iran-war.html",
@@ -340,15 +322,6 @@
         "category": "United States Politics and Government",
         "summary": "The bipartisan bill is a long way from becoming law, but it represents the strongest opposition yet from Congress to the administration’s agenda.",
         "url": "https://www.nytimes.com/2026/07/30/us/politics/senate-committee-education-dept.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
-        "source": "New York Times Politics",
-        "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
-        "publicationDate": "2026-07-30",
-        "category": "Maps",
-        "summary": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”",
-        "url": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/",
@@ -414,49 +387,67 @@
         "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/aa292d6f-3b12-4b7a-b558-7306e8d03b9e",
+        "id": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Skirts and sandwiches fail to excite cautious IPO investors",
+        "title": "Amazon increases AI infrastructure spending to $220bn this year",
         "publicationDate": "2026-07-30",
         "category": "Other",
-        "summary": "Reformation and Jersey Mike’s test market appetite for consumer sector that has faced twin pressures",
-        "url": "https://www.ft.com/content/aa292d6f-3b12-4b7a-b558-7306e8d03b9e"
+        "summary": "Seattle-based group had in April expected to spend $200bn in 2026",
+        "url": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/8455ec94-0182-46a6-b5dd-2bb5b0a75a6c?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Microsoft adds record $450bn in market cap as results cheer investors",
+        "title": "Japan’s yen jumps 3% as speculation over intervention swirls",
         "publicationDate": "2026-07-30",
         "category": "Other",
-        "summary": "Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn",
-        "url": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1"
+        "summary": "Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide",
+        "url": "https://www.ft.com/content/8455ec94-0182-46a6-b5dd-2bb5b0a75a6c?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/5546b044-0582-4ed9-8e61-bd1732f3063e?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Madrid deploys army as thousands of Moroccans swim to Spanish enclave",
+        "title": "Spain’s migrant crisis triggers Italian call for EU travel restrictions",
         "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "Mass arrivals in Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez",
+        "category": "Other",
+        "summary": "Mass arrivals in North African enclave of Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez",
         "url": "https://www.ft.com/content/5546b044-0582-4ed9-8e61-bd1732f3063e?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/6d206b85-bc50-4c89-973b-f18cd84e2a15?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/6f656daa-f9a4-4a3f-87a7-2c720b3305a6?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Mark Zuckerberg is becoming the king of the ‘side quest’",
+        "title": "Labour readmits veteran MP Diane Abbott after disciplinary process",
         "publicationDate": "2026-07-30",
         "category": "Other",
-        "summary": "Meta is working on a plethora of products outside its comfort zone — and the side hustles come with high stakes",
-        "url": "https://www.ft.com/content/6d206b85-bc50-4c89-973b-f18cd84e2a15?syn-25a6b1a6=1"
+        "summary": "Scottish MP Joani Reid also returns to party just a fortnight into Andy Burnham’s new premiership",
+        "url": "https://www.ft.com/content/6f656daa-f9a4-4a3f-87a7-2c720b3305a6?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Citadel buys Situational Awareness equity holdings after steep AI losses",
+        "title": "Apple forecasts slower growth as AI build-out strains tech supply chains",
         "publicationDate": "2026-07-30",
         "category": "Other",
-        "summary": "Deal comes after Leopold Aschenbrenner’s investment firm held overnight crunch talks with investors",
-        "url": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1"
+        "summary": "Smartphone revenue rose more than a fifth as rivals struggle",
+        "url": "https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "IN12720",
+        "source": "Congressional Research Service",
+        "title": "Reconciliation 4.0: How Many Opportunities Does Congress Have to Use Reconciliation?",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "Reconciliation legislation is unique in that it is considered under expedited parliamentary procedures that do not require the support of three-fifths of Senators to end debate, allowing the Senate to pass spending, tax, and debt limit reconciliation legislation by a simple majority vote. This makes the reconciliation process particularly attractive to the majority party, which may seek to maximize the number of...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12720/IN12720.1.pdf"
+    },
+    {
+        "id": "R48918",
+        "source": "Congressional Research Service",
+        "title": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "The farm bill is an omnibus, multiyear law and is the primary piece of legislation that governs an array of agricultural and food programs. The most recent farm bill is the Agriculture Improvement Act of 2018 (2018 farm bill; P.L. 115-334). The Farm, Food, and National Security Act of 2026 (H.R. 7567) would add, amend, and reauthorize some of the programs in the 2018 farm bill. The Senate Agriculture Committee...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48918/R48918.6.pdf"
     },
     {
         "id": "https://www.heritage.org/border-security/commentary/birthright-citizenship-upheld-now-what",
@@ -603,15 +594,6 @@
         "url": "https://ecfr.eu/article/shoring-up-the-red-sea-why-the-next-crisis-may-begin-in-the-horn-of-africa/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/",
-        "source": "Washington Post Politics",
-        "title": "Conservatives tout Biden tapes as proof of his decline. The audio is more nuanced.",
-        "publicationDate": "2026-07-28",
-        "category": "Other",
-        "summary": "Audio of Joe Biden's interviews with a ghostwriter in 2016 and 2017 show him referencing classified materials and occasionally struggling to recall details.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/"
-    },
-    {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
         "source": "Centre for European Reform",
         "title": "Bild: Die größte Gefahr für unseren Wohlstand: Ronzheimer trifft Sander Tordoir",
@@ -673,5 +655,14 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
+    },
+    {
+        "id": "R48942",
+        "source": "Congressional Research Service",
+        "title": "Yemen: In Brief",
+        "publicationDate": "2026-05-12",
+        "category": "Defense",
+        "summary": "Yemen has been politically, economically, and militarily divided for more than a decade; its slow-burning internal conflicts are at risk of reigniting amid multisided confrontations between regional and global actors. Yemen descended into conflict in 2014 prompting years of foreign military interventions, regional security disruptions, and lingering confrontations that have posed national security challenges for...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48942/R48942.3.pdf"
     }
 ]
