@@ -184,7 +184,7 @@
         "source": "PBS NewsHour Politics",
         "title": "Fauci invokes 5th Amendment right during GOP-led hearing on COVID origins",
         "publicationDate": "2026-07-29",
-        "category": "Other",
+        "category": "Anthony Fauci",
         "summary": "Dr. Anthony Fauci, the face of America's COVID response, repeatedly invoked his Fifth Amendment right before a Senate committee on Wednesday. The hearing, chaired by Republican Sen. Rand Paul, was meant to probe the origins of COVID-19 and whether Fauci misled Congress and the public. Fauci called Paul's pursuit of him an \"unhinged obsession.\" Ali Rogin reports.",
         "url": "https://www.pbs.org/newshour/show/fauci-invokes-5th-amendment-right-during-gop-led-hearing-on-covid-origins"
     },
@@ -193,7 +193,7 @@
         "source": "PBS NewsHour Politics",
         "title": "The campaign against Fauci and what brought him back before Congress",
         "publicationDate": "2026-07-29",
-        "category": "Other",
+        "category": "Anthony Fauci",
         "summary": "Dr. Anthony Fauci helped lead the White House pandemic response for Presidents Trump and Biden and is now retired from government service. He appeared under congressional subpoena and invoked his Fifth Amendment rights more than 100 times during questioning. Amna Nawaz discussed the hearing and Fauci's legacy with Katherine Wu, who wrote \"The Unmaking of Anthony Fauci\" for The Atlantic.",
         "url": "https://www.pbs.org/newshour/show/the-campaign-against-fauci-and-what-brought-him-back-before-congress"
     },
@@ -216,13 +216,31 @@
         "url": "https://www.pbs.org/newshour/show/former-iraqi-diplomat-on-forces-driving-iran-war-across-region"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/judge-weighs-bid-to-block-or-reverse-transfers-of-transgender-inmates-into-a-segregated-prison-unit",
+        "id": "https://www.pbs.org/newshour/show/journalist-details-weekend-spent-with-far-right-proud-boys",
         "source": "PBS NewsHour Politics",
-        "title": "Judge weighs bid to block or reverse transfers of transgender inmates into a segregated prison unit",
+        "title": "Journalist details weekend spent with far-right Proud Boys",
         "publicationDate": "2026-07-29",
-        "category": "Donald Trump news",
-        "summary": "The Trump administration has violated a court order by transferring several incarcerated transgender women to a segregated prison unit, an attorney for the inmates argued on Wednesday in urging a federal judge to enforce the order.",
-        "url": "https://www.pbs.org/newshour/politics/judge-weighs-bid-to-block-or-reverse-transfers-of-transgender-inmates-into-a-segregated-prison-unit"
+        "category": "Other",
+        "summary": "The Proud Boys were founded a decade ago, but the far-right group gained notoriety for being heavily involved in the Jan. 6 attack at the Capitol. Jen Golbeck, a University of Maryland professor whose research focuses on social media and online extremism, spent a weekend with the Cape Fear chapter of the Proud Boys. She wrote about the experience in Esquire and joined Amna Nawaz to discuss more.",
+        "url": "https://www.pbs.org/newshour/show/journalist-details-weekend-spent-with-far-right-proud-boys"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/5998412-hadi-matar-guilty-rushdie-stabbing-federal-terrorism/",
+        "source": "The Hill",
+        "title": "Man found guilty in federal terrorism prosecution tied to Salman Rushdie stabbing",
+        "publicationDate": "2026-07-29",
+        "category": "Court Battles",
+        "summary": "A man has been found guilty in a federal terrorism prosecution tied to the stabbing of author Salman Rushdie four years ago, according to the Department of Justice (DOJ). The DOJ said in a Wednesday press release that 28-year-old Hadi Matar of Fairview, N.J. had been convicted by a federal jury of trying to give...",
+        "url": "https://thehill.com/regulation/court-battles/5998412-hadi-matar-guilty-rushdie-stabbing-federal-terrorism/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/5995332-live-updates-fauci-senate-rand-paul-trump-iran/",
+        "source": "The Hill",
+        "title": "Live updates: Fauci invokes Fifth at Senate COVID hearing; Blanche nomination at stand-still",
+        "publicationDate": "2026-07-29",
+        "category": "Administration",
+        "summary": "Dr. Anthony Fauci, a face of the government's pandemic response, invoked his Fifth Amendment right to decline to answer questions before the Senate Homeland Security panel and a critical Sen. Rand Paul (R-Ky.) on COVID-19's origins. Fauci repeatedly took the Fifth under questioning on queries related to COVID and not. In concluding the hearing, Paul...",
+        "url": "https://thehill.com/homenews/administration/5995332-live-updates-fauci-senate-rand-paul-trump-iran/"
     },
     {
         "id": "https://thehill.com/blogs/in-the-know/5998339-obama-summer-reading-list/",
@@ -230,7 +248,7 @@
         "title": "Obama offers his summer reading suggestions",
         "publicationDate": "2026-07-29",
         "category": "In The Know",
-        "summary": "Former President Obama unveiled his summer reading list on Wednesday, a list that featuring 11 books with genres ranging from history to fiction. “It’s that time of year again: here are some of the books I’ve enjoyed this summer. If you’ve read any good ones, let me know!” the former president said in a post...",
+        "summary": "Former President Obama unveiled his summer reading list Wednesday, featuring 11 books with genres ranging from history to fiction. “It’s that time of year again: here are some of the books I’ve enjoyed this summer. If you’ve read any good ones, let me know!” the former president said in a post on the social platform...",
         "url": "https://thehill.com/blogs/in-the-know/5998339-obama-summer-reading-list/"
     },
     {
@@ -252,27 +270,18 @@
         "url": "https://thehill.com/homenews/administration/5998179-trump-respects-biden-fauci-pardon/"
     },
     {
-        "id": "https://thehill.com/policy/defense/5998256-trump-threatens-iran-retaliation/",
-        "source": "The Hill",
-        "title": "Iran’s surprise attack in Jordan blows up pause in fighting",
+        "id": "https://www.nytimes.com/2026/07/29/us/politics/lindsey-graham-funeral-south-carolina.html",
+        "source": "New York Times Politics",
+        "title": "Tributes, and Politics Too, at Lindsey Graham’s Funeral in South Carolina",
         "publicationDate": "2026-07-29",
-        "category": "Defense",
-        "summary": "Iran’s surprise attack on U.S. forces in Jordan is threatening to blow up the temporary pause in fighting between the two sides. The Iranian Revolutionary Guard Corps (IRGC) fired ballistic missiles at U.S. forces in Jordan on Tuesday evening, before the U.S. and Saudi Arabia hours later launched strikes on Tehran-backed militias in Iraq, raising...",
-        "url": "https://thehill.com/policy/defense/5998256-trump-threatens-iran-retaliation/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/defense-national-security/5998246-the-most-transparent-pentagon-ever-draws-curtain-tighter-around-iran-war/",
-        "source": "The Hill",
-        "title": "The 'most transparent' Pentagon ever draws curtain tighter around Iran war",
-        "publicationDate": "2026-07-29",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story The 'most transparent' Pentagon ever draws curtain tighter around Iran war The Pentagon is drawing wide-ranging scrutiny over its increasing opacity about the mounting toll from the Iran war. © Kevin Wolf, The Associated Press From...",
-        "url": "https://thehill.com/newsletters/defense-national-security/5998246-the-most-transparent-pentagon-ever-draws-curtain-tighter-around-iran-war/"
+        "category": "Elections",
+        "summary": "A gathering of South Carolina’s political elite paid tribute to the late senator’s career against a backdrop of a highly competitive race to replace him.",
+        "url": "https://www.nytimes.com/2026/07/29/us/politics/lindsey-graham-funeral-south-carolina.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/29/us/politics/foia-public-document-requests.html",
         "source": "New York Times Politics",
-        "title": "Record Numbers of Public Document Requests Are in Limbo or Unfulfilled",
+        "title": "Record Numbers of FOIA Public Document Requests Are in Limbo or Unfulfilled",
         "publicationDate": "2026-07-29",
         "category": "Freedom of Information Act",
         "summary": "A Times analysis of 16 years of available federal data shows federal agencies lag in processing requests for government records.",
@@ -304,15 +313,6 @@
         "category": "Coronavirus (2019-nCoV)",
         "summary": "Republicans have argued that the pre-emptive pardon Dr. Fauci received from former President Biden ought to preclude him from invoking the Fifth Amendment. But the pardon applies only to what happened before it was issued.",
         "url": "https://www.nytimes.com/2026/07/29/us/politics/fauci-biden-pardon-covid-hearing.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
-        "source": "New York Times Politics",
-        "title": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump’s IRS Deal",
-        "publicationDate": "2026-07-29",
-        "category": "United States Politics and Government",
-        "summary": "John Cornyn and Thom Tillis accused the attorney general nominee of refusing to put on paper his promise to kill aspects of the deal he cut to settle President Trump’s suit against the agency.",
-        "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/",
@@ -378,49 +378,49 @@
         "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Qualcomm posts shrinking sales and profits as rising costs hit smartphone market",
-        "publicationDate": "2026-07-29",
-        "category": "Other",
-        "summary": "Net income falls 25% as higher memory chip prices hurt device business",
-        "url": "https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Meta shares tumble 10% as Zuckerberg tries to sell his vision for AI ‘agents’",
+        "title": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’",
         "publicationDate": "2026-07-29",
         "category": "Other",
         "summary": "Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint",
         "url": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/5035f634-7d47-483a-b8e9-722ded88a672?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/e18c380f-c25d-4e91-8135-d9c2424ab720?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "FirstFT: US borrowing costs hit 19-year high after Fed holds rates steady",
+        "title": "Digital avatar of Jair Bolsonaro tests Brazil’s AI election rules",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "Also in today’s newsletter: Mark Zuckerberg says US should not ban Chinese AI and SK Hynix profits disappoint",
-        "url": "https://www.ft.com/content/5035f634-7d47-483a-b8e9-722ded88a672?syn-25a6b1a6=1"
+        "summary": "Lawyers for former president insist he did not authorise the projection following legal challenge from leftwing groups",
+        "url": "https://www.ft.com/content/e18c380f-c25d-4e91-8135-d9c2424ab720?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/f8d3ad2e-83bb-41a9-99d2-8004a2e8c22a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Microsoft’s cloud business boosts sales as capex climbs to $41bn",
+        "title": "MoD’s Afghan data leak was ‘foreseeable systemic failure’, say MPs",
         "publicationDate": "2026-07-29",
         "category": "Other",
-        "summary": "Revenue in tech group’s intelligent cloud segment surges 32% to $39.3bn",
-        "url": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1"
+        "summary": "Soldier accidentally disclosed the personal details of 25,000 people who had applied for relocation to Britain",
+        "url": "https://www.ft.com/content/f8d3ad2e-83bb-41a9-99d2-8004a2e8c22a?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/febdecc9-0c44-4153-9b13-60cb9df357e3?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "US borrowing costs hit 19-year high as Fed defies inflation fears",
+        "title": "Summer slowdown ‘sharper than usual’ for UK property sales",
         "publicationDate": "2026-07-29",
-        "category": "Economy",
-        "summary": "Central bank stands pat on rates even as investors worry Trump’s Iran war will ignite jolt of price growth",
-        "url": "https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Higher mortgage rates and economic uncertainty have led to a market favouring buyers, new data suggests",
+        "url": "https://www.ft.com/content/febdecc9-0c44-4153-9b13-60cb9df357e3?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Qualcomm posts shrinking sales and profits as chip costs hurt smartphone market",
+        "publicationDate": "2026-07-29",
+        "category": "Other",
+        "summary": "Net income falls 25% as higher memory chip prices hit device business",
+        "url": "https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0?syn-25a6b1a6=1"
     },
     {
         "id": "R47884",
