@@ -1,12 +1,30 @@
 [
     {
+        "id": "R49049",
+        "source": "Congressional Research Service",
+        "title": "Legislative Branch: FY2027 Appropriations",
+        "publicationDate": "2026-07-30",
+        "category": "Economy",
+        "summary": "The legislative branch appropriations bill provides funding for the Senate; House of Representatives; Joint Items; Capitol Police; Office of Congressional Workplace Rights; Congressional Budget Office; Architect of the Capitol; Library of Congress, including the Congressional Research Service; Government Publishing Office; Government Accountability Office; Congressional Office for International Leadership; and John...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49049/R49049.1.pdf"
+    },
+    {
+        "id": "LSB11464",
+        "source": "Congressional Research Service",
+        "title": "The Uniform Grants Regulation: OMB’s Relation to Federal Grantmaking Agencies",
+        "publicationDate": "2026-07-30",
+        "category": "Economy",
+        "summary": "On May 29, 2026, the Office of Management and Budget (OMB) and 41 executive branch grantmaking agencies published in the Federal Register a proposed joint interagency rule. The proposed rule would establish a Uniform Grants Regulation (UGR) that would change how executive branch agencies make and administer federal financial assistance awards. The UGR would replace OMB’s Uniform Administrative Requirements (Uniform...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11464/LSB11464.1.pdf"
+    },
+    {
         "id": "R49048",
         "source": "Congressional Research Service",
         "title": "Presidential Authority Under the Antiquities Act",
         "publicationDate": "2026-07-30",
         "category": "Other",
         "summary": "The Antiquities Act of 1906, codified at 54 U.S.C. §§ 320301–320303, empowers the President to create national monuments by “public proclamation.” The act provides that monuments may consist of “historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated on land owned or controlled by the Federal Government.” The President may reserve surrounding...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49048/R49048.1.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49048/R49048.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4983-1.html",
@@ -47,7 +65,7 @@
     {
         "id": "https://www.cfr.org/articles/cfr-surveyed-350-experts-about-ais-future-most-think-governance-is-failing",
         "source": "Council on Foreign Relations",
-        "title": "CFR Surveyed 350 Experts About AI's Future. Most Think Governance Is Failing.",
+        "title": "CFR Surveyed 350 Experts About AI’s Future. Here Are the Takeaways.",
         "publicationDate": "2026-07-30",
         "category": "Defense",
         "summary": "CFR asked experts to predict how artificial intelligence (AI) and governance will affect the global order in 2035. Almost all agreed that governments are failing to keep pace with AI, the future of frontier AI capabilities is highly uncertain, and AI labs are already gaining power relative to the public sector.",
@@ -117,49 +135,112 @@
         "url": "https://www.npr.org/2026/07/30/nx-s1-5911873/sen-rand-paul-says-hell-move-to-hold-fauci-in-contempt-after-combative-hearing"
     },
     {
-        "id": "https://thehill.com/homenews/senate/5998896-o-reilly-blasts-fauci-fifth-amendment/",
-        "source": "The Hill",
-        "title": "O’Reilly: Fauci ‘purely a swamp creature’",
+        "id": "https://www.pbs.org/newshour/politics/trump-says-he-may-temporarily-pull-blanches-nomination-for-attorney-general-as-republicans-seek-concessions",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump says he may temporarily pull Blanche's nomination for attorney general as Republicans seek concessions",
         "publicationDate": "2026-07-30",
-        "category": "Senate",
-        "summary": "Political commentator Bill O’Reilly blasted former chief White House medical adviser Antony Fauci following his hostile Senate hearing on Wednesday, where he invoked the Fifth Amendment 111 times as Republicans aired their criticisms over his handling of the COVID-19 pandemic. In an interview with NewsNation’s “Katie Pavlich Tonight,” O’Reilly argued Fauci’s refusal to answer any...",
-        "url": "https://thehill.com/homenews/senate/5998896-o-reilly-blasts-fauci-fifth-amendment/"
+        "category": "Donald Trump news",
+        "summary": "President Donald Trump said Thursday he may pull acting Attorney General Todd Blanche's nomination for attorney general, looking to avoid concessions to holdout Republicans.",
+        "url": "https://www.pbs.org/newshour/politics/trump-says-he-may-temporarily-pull-blanches-nomination-for-attorney-general-as-republicans-seek-concessions"
     },
     {
-        "id": "https://thehill.com/opinion/healthcare/5998121-strengthen-public-health-infrastructure/",
+        "id": "https://www.pbs.org/newshour/podcasts/in-pursuit-of-happiness-with-judy-woodruff/the-music-thats-shaped-america",
+        "source": "PBS NewsHour Politics",
+        "title": "The music that's shaped America",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Music has long been one of America's most influential cultural exports. In this episode of \"In Pursuit of Happiness,\" Judy Woodruff talks with music historian Ted Gioia and journalist Sidney Madden about the Black and Indigenous roots of American music, the power of protest songs and how music continues to shape our understanding of who we are.",
+        "url": "https://www.pbs.org/newshour/podcasts/in-pursuit-of-happiness-with-judy-woodruff/the-music-thats-shaped-america"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-touted-his-tariffs-in-michigan-despite-rising-costs-even-some-of-his-supporters-are-worried",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump touted his tariffs in Michigan despite rising costs. Even some of his supporters are worried",
+        "publicationDate": "2026-07-30",
+        "category": "Donald Trump news",
+        "summary": "During President Donald Trump's rally in Milford, the crowd was adoring. But even some of his ardent supporters said prices are too high and tariffs had caused short-term economic pain.",
+        "url": "https://www.pbs.org/newshour/politics/trump-touted-his-tariffs-in-michigan-despite-rising-costs-even-some-of-his-supporters-are-worried"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/5999703-democratic-socialism-presidential-support-low/",
         "source": "The Hill",
-        "title": "A strong public health system is a national asset and a political opportunity",
+        "title": "Most say they wouldn't back democratic socialist presidential candidate: Survey",
+        "publicationDate": "2026-07-30",
+        "category": "Campaign",
+        "summary": "Most Americans say they wouldn’t support a democratic socialist presidential candidate, according to a new poll. In The Washington Post/Ipsos poll, 55 percent of respondents said they wouldn’t “consider” casting their ballot for a self-identified democratic socialist presidential candidate, while 39 percent said the opposite and 6 percent did not respond. Democratic socialists have recently...",
+        "url": "https://thehill.com/homenews/campaign/5999703-democratic-socialism-presidential-support-low/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/5999572-red-cross-blood-supply-crisis/",
+        "source": "The Hill",
+        "title": "Red Cross declares second-ever 'blood supply crisis' as healthcare providers deal with shortage",
         "publicationDate": "2026-07-30",
         "category": "Healthcare",
-        "summary": "Former governors John Kasich and Steve Beshear, along with CEO Brian C. Castrucci, advocate for strengthening America's public health system through new recommendations from the National Commission on Local Public Health Leadership.",
-        "url": "https://thehill.com/opinion/healthcare/5998121-strengthen-public-health-infrastructure/"
+        "summary": "Earlier this week, the Red Cross said it had less than a one-day supply of type O positive blood, which is \"the most commonly transfused blood type.\"",
+        "url": "https://thehill.com/policy/healthcare/5999572-red-cross-blood-supply-crisis/"
     },
     {
-        "id": "https://thehill.com/policy/international/5998807-us-iran-war-worth-risk-ap-norc-survey/",
+        "id": "https://thehill.com/opinion/international/5997597-tackling-illicit-gold-mining/",
         "source": "The Hill",
-        "title": "About two-thirds say Iran war not worth fighting: Survey",
+        "title": "Illicit gold is a global security threat the US must address",
         "publicationDate": "2026-07-30",
         "category": "Foreign Policy",
-        "summary": "New polling shows that about two-thirds of Americans say the U.S.-Israeli conflict in Iran is not worth fighting. The Associated Press-NORC Research Center survey, released Thursday, found 64 percent of U.S. adults believe the ongoing fighting is not worth the risks. Another 33 percent said the opposite. Majorities of Democrats and independents, at 87 percent...",
-        "url": "https://thehill.com/policy/international/5998807-us-iran-war-worth-risk-ap-norc-survey/"
+        "summary": "Every untraceable ounce of gold represents lost revenue, weakened governance and increased security and environmental risks.",
+        "url": "https://thehill.com/opinion/international/5997597-tackling-illicit-gold-mining/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/5998546-live-updates-trump-iran-war-senate/",
+        "id": "https://thehill.com/homenews/campaign/5999669-democrats-identify-democratic-socialists/",
         "source": "The Hill",
-        "title": "Live updates: US retaliates against Iran; CDC, Labor nominees face Senate panel vote",
+        "title": "1 in 3 Democrats now consider themselves democratic socialists: Survey",
         "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "The U.S.-Iran conflict threatens to expand, as the American military retaliated late Wednesday after Tehran's surprise strikes the day prior. The U.S. launched a \"heavy\" barrage for two hours against several Iranian Revolutionary Guard Corps (IRGC) targets. The marquee event on Capitol Hill set for Thursday morning was canceled late Wednesday, as Senate Judiciary Committee...",
-        "url": "https://thehill.com/homenews/administration/5998546-live-updates-trump-iran-war-senate/"
+        "category": "Campaign",
+        "summary": "About a third of Democrats identify as democratic socialists, according to a new CNN poll conducted by SSRS, showing the growing influence of the party’s progressive wing. While they make up the minority of the party, the survey found that they are among Democrats’ most loyal supporters and are more likely than other Democrats to...",
+        "url": "https://thehill.com/homenews/campaign/5999669-democrats-identify-democratic-socialists/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/5998831-john-fetterman-anthony-fauci-covid-19-senate-hearing-diary-entries-fame/",
+        "id": "https://thehill.com/homenews/campaign/5999436-fox-news-poll-north-carolina-senate/",
         "source": "The Hill",
-        "title": "Fetterman says Fauci was 'a little fixated on his own fame'",
+        "title": "Cooper holds 9-point lead in North Carolina Senate race: Fox News poll",
         "publicationDate": "2026-07-30",
-        "category": "Senate",
-        "summary": "Sen. John Fetterman (D-Pa.) said Wednesday that Dr. Anthony Fauci, the former chief White House medical adviser, was “a little fixated on his own fame.” “I do think it's entirely appropriate to really hold Fauci accountable, but I don't think it's really appropriate to pound an 85-year-old man, 10 minutes, 10 minutes, 10 minutes, 10...",
-        "url": "https://thehill.com/homenews/senate/5998831-john-fetterman-anthony-fauci-covid-19-senate-hearing-diary-entries-fame/"
+        "category": "Campaign",
+        "summary": "Former North Carolina Gov. Roy Cooper (D) has a 9-point lead over his challenger, ex-Republican National Committee Chair Michael Whatley, in the North Carolina Senate race, according to a new poll. Fox News found that 53 percent of voters in the Tar Heel State prefer Cooper over Whatley as the race to replace incumbent Sen....",
+        "url": "https://thehill.com/homenews/campaign/5999436-fox-news-poll-north-carolina-senate/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/trump-cdc-erica-schwartz.html",
+        "source": "New York Times Politics",
+        "title": "Erica Schwartz, Trump’s Nominee for C.D.C. Director, Advances to Full Senate Vote",
+        "publicationDate": "2026-07-30",
+        "category": "United States Politics and Government",
+        "summary": "A vote to confirm Dr. Erica Schwartz, who has publicly supported childhood vaccines, will take place in the full Senate.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-cdc-erica-schwartz.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/health/paho-us-pan-american-health-organization-withdrawal.html",
+        "source": "New York Times Politics",
+        "title": "Former Officials Protest U.S. Plan to Defund Pan American Health Organization",
+        "publicationDate": "2026-07-30",
+        "category": "Economy",
+        "summary": "The group of former health and national security officials warned that Americans will be more vulnerable to infectious disease threats.",
+        "url": "https://www.nytimes.com/2026/07/30/health/paho-us-pan-american-health-organization-withdrawal.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s Tariff Exemptions Include Diamonds, Oil and Gas, Copper and Other Items",
+        "publicationDate": "2026-07-30",
+        "category": "Foreign Policy",
+        "summary": "A new round of tariff carve-outs has raised familiar questions about who should receive the lucrative exceptions, and why.",
+        "url": "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html",
+        "source": "New York Times Politics",
+        "title": "U.S. Sees Iran as Likely Behind Cyberattack on Minnesota Water Systems",
+        "publicationDate": "2026-07-30",
+        "category": "Foreign Policy",
+        "summary": "Investigators cautioned that the assessment was preliminary. There were no indications that any water supply had been rendered unsafe to drink.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/30/us/politics/haley-stevens-accent-michigan-senate.html",
@@ -171,29 +252,20 @@
         "url": "https://www.nytimes.com/2026/07/30/us/politics/haley-stevens-accent-michigan-senate.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html",
-        "source": "New York Times Politics",
-        "title": "After Obamacare Cuts, Hospitals Are Treating More Uninsured Patients",
+        "id": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/",
+        "source": "Washington Post Politics",
+        "title": "What to know about Republican lame ducks defying Trump over Blanche nomination",
         "publicationDate": "2026-07-30",
-        "category": "Healthcare",
-        "summary": "More people who lost coverage after congressional Republicans ended enhanced federal subsidies are now seeking care in emergency rooms and unable to pay bills.",
-        "url": "https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/magazine/liberal-arts-degree-conservatives.html",
-        "source": "New York Times Politics",
-        "title": "Conservatives Like the Liberal Arts, Actually. They Just Don’t Like the Phrase.",
-        "publicationDate": "2026-07-30",
-        "category": "Colleges and Universities",
-        "summary": "Some people revere the “liberal arts” while others call them useless. They’re probably talking about different things.",
-        "url": "https://www.nytimes.com/2026/07/30/magazine/liberal-arts-degree-conservatives.html"
+        "category": "Other",
+        "summary": "GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are leaving the Senate after this year.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/",
         "source": "Washington Post Politics",
-        "title": "States cast doubt on Trump’s claim that China hacked their voter rolls",
+        "title": "Trump’s claims of election interference in doubt after release of declassified intelligence",
         "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
+        "category": "Defense",
         "summary": "Declassified evidence points to Beijing seeking personal data for espionage, not election interference.",
         "url": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/"
     },
@@ -218,47 +290,56 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Thousands evacuated in Crete as Europe battles wildfires",
+        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
         "publicationDate": "2026-07-30",
         "category": "Other",
         "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
         "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Nicaraguan leader proposes extending presidential term by another year",
+        "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
         "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
-        "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/8455ec94-0182-46a6-b5dd-2bb5b0a75a6c?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’",
+        "title": "Japan’s yen jumps 3% as speculation over intervention swirls",
         "publicationDate": "2026-07-30",
         "category": "Other",
-        "summary": "Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint",
-        "url": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1"
+        "summary": "Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide",
+        "url": "https://www.ft.com/content/8455ec94-0182-46a6-b5dd-2bb5b0a75a6c?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/4b39365f-841d-45d3-81ae-31db7f9d8f8f?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/6620ab3c-c46a-4d96-aede-0fce80a2b588?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "NYSE owner to buy bond platform MarketAxess in $5.7bn deal",
+        "title": "Saudi economy shrinks as Middle East conflict takes heavy toll",
         "publicationDate": "2026-07-30",
         "category": "Economy",
-        "summary": "Acquisition marks significant step by Intercontinental Exchange into fixed-income trading",
-        "url": "https://www.ft.com/content/4b39365f-841d-45d3-81ae-31db7f9d8f8f?syn-25a6b1a6=1"
+        "summary": "GDP contracted by 4.8% in second quarter compared with same period in 2025",
+        "url": "https://www.ft.com/content/6620ab3c-c46a-4d96-aede-0fce80a2b588?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/67238e48-57dd-4701-8294-0a11036c8742",
+        "id": "https://www.ft.com/content/fd75ca61-c9db-41c8-97d3-80069c25beb6",
         "source": "Financial Times World",
-        "title": "Can Vance square his Catholicism with Trump’s Republican Party?",
+        "title": "Declining PCE inflation in June likely to be reversed in July",
+        "publicationDate": "2026-07-30",
+        "category": "Economy",
+        "summary": "Higher energy prices this month will send the inflation gauge back up",
+        "url": "https://www.ft.com/content/fd75ca61-c9db-41c8-97d3-80069c25beb6"
+    },
+    {
+        "id": "https://www.ft.com/content/cc3a80fc-128b-4b46-a9a6-1a6a6988f31f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Reform UK stands by Farage aide George Cottrell amid financial scrutiny",
         "publicationDate": "2026-07-30",
         "category": "Other",
-        "summary": "The vice-president’s new book criticises the hypocrisy of the old religious right",
-        "url": "https://www.ft.com/content/67238e48-57dd-4701-8294-0a11036c8742"
+        "summary": "Metropolitan Police are investigating donations made by mother of long-term party figure",
+        "url": "https://www.ft.com/content/cc3a80fc-128b-4b46-a9a6-1a6a6988f31f?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/783dfe9a-4643-4b2b-b69c-a46e5229d707?syn-25a6b1a6=1",
@@ -270,15 +351,6 @@
         "url": "https://www.ft.com/content/783dfe9a-4643-4b2b-b69c-a46e5229d707?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/aca5b974-1447-4cd2-9d94-f4150c3d4d7e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Antwerp cocaine gangs sentenced in ‘exceptionally large’ case",
-        "publicationDate": "2026-07-30",
-        "category": "Healthcare",
-        "summary": "Belgian authorities tighten security at major port which is a key point for drug to enter Europe",
-        "url": "https://www.ft.com/content/aca5b974-1447-4cd2-9d94-f4150c3d4d7e?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-andrea-r-flores",
         "source": "Council on Foreign Relations",
         "title": "How I Got My Career in Foreign Policy: Andrea R. Flores",
@@ -286,6 +358,15 @@
         "category": "Foreign Policy",
         "summary": "Andrea Flores has spent more than fifteen years working on immigration policy, including at DHS, the White House, and the ACLU. She spoke with CFR about how her 360-degree perspective has shaped her understanding of the issue and the challenges of advancing immigration reform.",
         "url": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-andrea-r-flores"
+    },
+    {
+        "id": "https://www.heritage.org/border-security/commentary/birthright-citizenship-upheld-now-what",
+        "source": "Heritage Foundation",
+        "title": "With Birthright Citizenship Upheld, Now What?",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "In Trump v. Barbara , the Supreme Court held that the 14th Amendment guarantees birthright citizenship regardless of a child’s parents’ nationality—and that the president cannot change that by executive order . So what now? If U.S. citizenship means more than mere birth on our “ magic dirt ,” we must find other ways to protect it. One possible fix is for Congress to pass a law clarifying that under the 14th...",
+        "url": "https://www.heritage.org/border-security/commentary/birthright-citizenship-upheld-now-what"
     },
     {
         "id": "https://www.heritage.org/gender/commentary/the-quiet-way-gender-ideology-reaches-children",
@@ -432,51 +513,6 @@
         "url": "https://www.pbs.org/newshour/show/the-campaign-against-fauci-and-what-brought-him-back-before-congress"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/brief-pause-in-iran-war-ends-with-new-attacks-in-iraq-and-egypt",
-        "source": "PBS NewsHour Politics",
-        "title": "Brief pause in Iran war ends with new attacks in Iraq and Egypt",
-        "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "The brief pause in the war with Iran appears to be over. President Trump used blunt language to threaten Iran with further strikes in response to new Iranian attacks on a U.S. base in Jordan. The war also appears to be spreading, with a new explosion reported in Egypt, and joint U.S.-Saudi strikes in Iraq. Nick Schifrin reports.",
-        "url": "https://www.pbs.org/newshour/show/brief-pause-in-iran-war-ends-with-new-attacks-in-iraq-and-egypt"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/former-iraqi-diplomat-on-forces-driving-iran-war-across-region",
-        "source": "PBS NewsHour Politics",
-        "title": "Former Iraqi diplomat on forces driving Iran war across region",
-        "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "For perspective on the effects of the U.S. and Iran trading strikes and the widening war in the region, Geoff Bennett spoke with Feisal Istrabadi, a former Iraqi diplomat and the founding director of the Center for the Study of the Middle East at Indiana University Bloomington.",
-        "url": "https://www.pbs.org/newshour/show/former-iraqi-diplomat-on-forces-driving-iran-war-across-region"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/journalist-details-weekend-spent-with-far-right-proud-boys",
-        "source": "PBS NewsHour Politics",
-        "title": "Journalist details weekend spent with far-right Proud Boys",
-        "publicationDate": "2026-07-29",
-        "category": "Esquire",
-        "summary": "The Proud Boys were founded a decade ago, but the far-right group gained notoriety for being heavily involved in the Jan. 6 attack at the Capitol. Jen Golbeck, a University of Maryland professor whose research focuses on social media and online extremism, spent a weekend with the Cape Fear chapter of the Proud Boys. She wrote about the experience in Esquire and joined Amna Nawaz to discuss more.",
-        "url": "https://www.pbs.org/newshour/show/journalist-details-weekend-spent-with-far-right-proud-boys"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/29/us/politics/lindsey-graham-funeral-south-carolina.html",
-        "source": "New York Times Politics",
-        "title": "Tributes, and Politics Too, at Lindsey Graham’s Funeral in South Carolina",
-        "publicationDate": "2026-07-29",
-        "category": "Elections",
-        "summary": "A gathering of South Carolina’s political elite paid tribute to the late senator’s career against a backdrop of a highly competitive race to replace him.",
-        "url": "https://www.nytimes.com/2026/07/29/us/politics/lindsey-graham-funeral-south-carolina.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/29/us/politics/foia-public-document-requests.html",
-        "source": "New York Times Politics",
-        "title": "Record Numbers of FOIA Public Document Requests Are in Limbo or Unfulfilled",
-        "publicationDate": "2026-07-29",
-        "category": "Freedom of Information Act",
-        "summary": "A Times analysis of 16 years of available federal data shows federal agencies lag in processing requests for government records.",
-        "url": "https://www.nytimes.com/2026/07/29/us/politics/foia-public-document-requests.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/",
         "source": "Washington Post Politics",
         "title": "Mamdani says New York doesn’t have authority to arrest Netanyahu, urges feds to act",
@@ -504,13 +540,13 @@
         "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "R47884",
+        "id": "IF13277",
         "source": "Congressional Research Service",
-        "title": "Identifying Minors Online",
+        "title": "U.S. Refugee Admissions Program in FY2025 and FY2026",
         "publicationDate": "2026-07-28",
-        "category": "Technology",
-        "summary": "Concerns about potential harms to minors on the internet, particularly on social media platforms, have grown in recent years. Dating to the 1990s, policymakers have enacted legislation seeking to protect minors online, some of which create requirements for entities that provide websites, mobile applications, and online platforms (collectively, website operators). Website operators have developed various methods to...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47884/R47884.15.pdf"
+        "category": "Foreign Policy",
+        "summary": "The U.S. Refugee Admissions Program (USRAP) is in uncharted territory. It has been suspended since late January 2025. Under the suspension, only refugees who qualify for an exception are being admitted to the United States. The refugee ceiling (the maximum number of refugees that can be admitted) for FY2026 is currently 17,500, the lowest in the history of the USRAP. As of June 30, 2026, FY2026 refugee admissions...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13277/IF13277.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
@@ -522,22 +558,22 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4405-5.html"
     },
     {
-        "id": "https://www.heritage.org/energy/commentary/if-its-good-enough-wartime-its-good-enough-peacetime",
+        "id": "https://www.heritage.org/education/commentary/randi-weingartens-convention-exposes-the-teachers-union-political-machine",
         "source": "Heritage Foundation",
-        "title": "If It’s Good Enough for Wartime, It’s Good Enough for Peacetime",
+        "title": "Randi Weingarten’s Convention Exposes the Teachers’ Union as a Political Machine",
         "publicationDate": "2026-07-28",
         "category": "Economy",
-        "summary": "Since the re-escalation of the war with Iran, energy prices have zoomed higher again, straining families’ finances. The national average for gasoline is back over $4 a gallon and diesel has blown past $5. Brent crude, the price of roughly three-quarters of global oil, is over $90, and touched $100 during the last week. It’s a repeat of the war’s start. Back then, the Trump administration faced a genuine supply...",
-        "url": "https://www.heritage.org/energy/commentary/if-its-good-enough-wartime-its-good-enough-peacetime"
+        "summary": "The American Federation of Teachers gathered in Washington, D.C., this month for its biennial convention, and the proceedings left little doubt about the organization’s true priorities. Speakers consistently behaved as if they were addressing a political rally rather than an education event. House Democratic Leader Hakeem Jeffries told the audience to “throw MAGA extremists out of the Congress in November” and...",
+        "url": "https://www.heritage.org/education/commentary/randi-weingartens-convention-exposes-the-teachers-union-political-machine"
     },
     {
-        "id": "https://www.heritage.org/education/commentary/teachers-union-uses-felons-attack-school-choice-arizona",
+        "id": "https://www.heritage.org/progressivism/commentary/the-shakur-strategy-how-cuba-built-americas-radical-left",
         "source": "Heritage Foundation",
-        "title": "Teachers Union Uses Felons to Attack School Choice in Arizona",
+        "title": "The Shakur Strategy: How Cuba Built America’s Radical Left",
         "publicationDate": "2026-07-28",
-        "category": "Other",
-        "summary": "A teachers union and its allies are trying to undermine one of the nation’s top school choice programs via a deceptive ballot initiative. But its reliance on felons convicted of heinous crimes, including manslaughter, kidnapping, human trafficking, and sexual abuse of a minor, to gather signatures for their initiative may be their undoing. “This is a shameless attack on Arizona’s parents, funded by an out-of-state...",
-        "url": "https://www.heritage.org/education/commentary/teachers-union-uses-felons-attack-school-choice-arizona"
+        "category": "Defense",
+        "summary": "The histories and present realities of Cuba and the United States are so intricately interwoven that the State Department’s recent Cuba report is really about how, for 67 years, the island’s regime has tailored its peculiar form of Marxism to shape American politics. In an age when communists in their 20s are successfully eating one of America’s two major parties alive, this groundbreaking report about a foreign...",
+        "url": "https://www.heritage.org/progressivism/commentary/the-shakur-strategy-how-cuba-built-americas-radical-left"
     },
     {
         "id": "https://ecfr.eu/article/the-saudi-dilemma-how-yemen-could-shape-the-next-phase-of-the-iran-war/",
@@ -565,15 +601,6 @@
         "category": "Other",
         "summary": "Audio of Joe Biden's interviews with a ghostwriter in 2016 and 2017 show him referencing classified materials and occasionally struggling to recall details.",
         "url": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/"
-    },
-    {
-        "id": "https://www.heritage.org/border-security/commentary/we-need-truth-commission-show-the-world-the-insanity-the-biden-border",
-        "source": "Heritage Foundation",
-        "title": "We Need a Truth Commission to Show the World the Insanity of the Biden Border Crisis",
-        "publicationDate": "2026-07-27",
-        "category": "Defense",
-        "summary": "Nearly 18 months since President Donald Trump ended the worst mass migration border crisis in American history, terabytes of government emails and records that could teach future generations why and how it happened await liberation. The secrets in this trove beg discovery, exploitation and analysis about the great “ Biden Border Crisis ” that had millions of foreign nationals (at least 8 million) enter through the...",
-        "url": "https://www.heritage.org/border-security/commentary/we-need-truth-commission-show-the-world-the-insanity-the-biden-border"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
@@ -639,15 +666,6 @@
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
     },
     {
-        "id": "R45349",
-        "source": "Congressional Research Service",
-        "title": "The 2018 National Defense Strategy: Fact Sheet",
-        "publicationDate": "2018-02-05",
-        "category": "Defense",
-        "summary": "On January 19, 2018, Secretary of Defense Mattis released the unclassified summary of the Department of Defense’s (DOD) first congressionally mandated National Defense Strategy (NDS). In addition to stating DOD’s approach to contending with current and emerging national security challenges, the NDS is also intended to articulate the overall strategic rationale for programs and priorities contained within the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45349/R45349.3.pdf"
-    },
-    {
         "id": "R44796",
         "source": "Congressional Research Service",
         "title": "The ACA Prevention and Public Health Fund: In Brief",
@@ -655,14 +673,5 @@
         "category": "Economy",
         "summary": "Section 4002 of the Affordable Care Act (ACA, P.L. 111-148, as amended), Prevention and Public Health Fund (PPHF) a permanent annual appropriation to be administered by the Secretary of Health and Human Services (HHS). PPHF was intended to support an “expanded and sustained national investment in prevention and public health programs.” (42 U.S.C. 300u-11) PPHF amounts for each fiscal year are available to the...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R44796/R44796.7.pdf"
-    },
-    {
-        "id": "R43396",
-        "source": "Congressional Research Service",
-        "title": "The Hurricane Sandy Rebuilding Strategy: In Brief",
-        "publicationDate": "2014-12-04",
-        "category": "Other",
-        "summary": "On the evening of October 29, 2012, Hurricane Sandy, the second-largest Atlantic storm on record, made landfall in southern New Jersey. At a minimum, the consequences of the storm included the deaths of 159 people, over 23,000 people who required temporary shelters, 8.5 million customers who were left without power, approximately $65 billion in damages, and 650,000 homes that were damaged or destroyed. Hurricane...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43396/R43396.7.pdf"
     }
 ]
