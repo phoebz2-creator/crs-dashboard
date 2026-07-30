@@ -1,5 +1,86 @@
 [
     {
+        "id": "R49048",
+        "source": "Congressional Research Service",
+        "title": "Presidential Authority Under the Antiquities Act",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "The Antiquities Act of 1906, codified at 54 U.S.C. §§ 320301–320303, empowers the President to create national monuments by “public proclamation.” The act provides that monuments may consist of “historic landmarks, historic and prehistoric structures, and other objects of historic or scientific interest that are situated on land owned or controlled by the Federal Government.” The President may reserve surrounding...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49048/R49048.1.pdf"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4983-1.html",
+        "source": "RAND Corporation",
+        "title": "A Structured Approach to Identifying and Characterizing AI Vulnerabilities",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "RAND researchers present a structured framework for identifying and characterizing security weaknesses in generative artificial intelligence systems. They identify 31 distinct classes of vulnerabilities and offer practical mitigation strategies.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4983-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA5044-1.html",
+        "source": "RAND Corporation",
+        "title": "China’s Position on the Emerging Russia–North Korea Military Cooperation and Its Implications for the U.S.-ROK Alliance",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "China is watching carefully as Russia and North Korea deepen their military ties. In this report, the authors analyze Beijing’s response and what it means for the future of the U.S.–South Korea alliance and regional security.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5044-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4408-2.html",
+        "source": "RAND Corporation",
+        "title": "Examining the Implementation and Impact of Pediatric ACE Screening",
+        "publicationDate": "2026-07-30",
+        "category": "Healthcare",
+        "summary": "The authors assessed models of care developed by clinics to integrate Adverse Childhood Experiences (ACE) education, screening, and response. Findings provide evidence of the effects of pediatric ACE screening on health care utilization and quality.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4408-2.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-1916-black-tom-explosion-in-jersey-city",
+        "source": "Council on Foreign Relations",
+        "title": "The 1916 Black Tom Explosion in Jersey City",
+        "publicationDate": "2026-07-30",
+        "category": "Article",
+        "summary": "Before the United States entered World War I, U.S. officials mistook German sabotage for an industrial accident.",
+        "url": "https://www.cfr.org/articles/the-1916-black-tom-explosion-in-jersey-city"
+    },
+    {
+        "id": "https://www.cfr.org/articles/cfr-surveyed-350-experts-about-ais-future-most-think-governance-is-failing",
+        "source": "Council on Foreign Relations",
+        "title": "CFR Surveyed 350 Experts About AI's Future. Most Think Governance Is Failing.",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "CFR asked experts to predict how artificial intelligence (AI) and governance will affect the global order in 2035. Almost all agreed that governments are failing to keep pace with AI, the future of frontier AI capabilities is highly uncertain, and AI labs are already gaining power relative to the public sector.",
+        "url": "https://www.cfr.org/articles/cfr-surveyed-350-experts-about-ais-future-most-think-governance-is-failing"
+    },
+    {
+        "id": "https://www.cfr.org/articles/how-experts-think-ai-will-change-the-global-balance-of-power-by-2035",
+        "source": "Council on Foreign Relations",
+        "title": "How Experts Think AI Will Change the Global Balance of Power by 2035",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "The rise of artificial intelligence (AI) means policymakers need to navigate a future defined by technological uncertainty. To help them do so, CFR asked foreign policy experts to predict how frontier AI capabilities and the governance structures that could emerge around them will affect the global order.",
+        "url": "https://www.cfr.org/articles/how-experts-think-ai-will-change-the-global-balance-of-power-by-2035"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-shareholder-state-washingtons-improvised-bet-on-critical-minerals",
+        "source": "Council on Foreign Relations",
+        "title": "The Shareholder State: Washington’s Improvised Bet on Critical Minerals",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "The United States needs to use equity strategically, as part of a broader architecture designed to build commercially sustainable supply chains that serve national security interests while keeping markets free but not defenseless.",
+        "url": "https://www.cfr.org/articles/the-shareholder-state-washingtons-improvised-bet-on-critical-minerals"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
+        "source": "NPR Politics",
+        "title": "Alien Terrorist Removal Court to hold its first-ever hearing after 30 years",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Congress created the Alien Terrorist Removal Court in 1996 to make it easier for the Justice Department to use classified evidence to deport people from U.S. soil.",
+        "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot"
+    },
+    {
         "id": "https://www.npr.org/2026/07/30/nx-s1-5911922/senate-panel-delays-vote-on-blanches-ag-nomination-as-key-republicans-voice-concerns",
         "source": "NPR Politics",
         "title": "Senate panel delays vote on Blanche's AG nomination as key Republicans voice concerns",
@@ -36,58 +117,49 @@
         "url": "https://www.npr.org/2026/07/30/nx-s1-5911873/sen-rand-paul-says-hell-move-to-hold-fauci-in-contempt-after-combative-hearing"
     },
     {
-        "id": "https://www.npr.org/2026/07/30/nx-s1-5911854/infectious-disease-expert-on-faucis-senate-hearing-face-off-with-lawmakers",
-        "source": "NPR Politics",
-        "title": "Infectious disease expert on Fauci's Senate hearing face off with lawmakers",
+        "id": "https://thehill.com/homenews/senate/5998896-o-reilly-blasts-fauci-fifth-amendment/",
+        "source": "The Hill",
+        "title": "O’Reilly: Fauci ‘purely a swamp creature’",
+        "publicationDate": "2026-07-30",
+        "category": "Senate",
+        "summary": "Political commentator Bill O’Reilly blasted former chief White House medical adviser Antony Fauci following his hostile Senate hearing on Wednesday, where he invoked the Fifth Amendment 111 times as Republicans aired their criticisms over his handling of the COVID-19 pandemic. In an interview with NewsNation’s “Katie Pavlich Tonight,” O’Reilly argued Fauci’s refusal to answer any...",
+        "url": "https://thehill.com/homenews/senate/5998896-o-reilly-blasts-fauci-fifth-amendment/"
+    },
+    {
+        "id": "https://thehill.com/opinion/healthcare/5998121-strengthen-public-health-infrastructure/",
+        "source": "The Hill",
+        "title": "A strong public health system is a national asset and a political opportunity",
         "publicationDate": "2026-07-30",
         "category": "Healthcare",
-        "summary": "NPR's Michel Martin speaks with Dr. Céline Gounder about lawmakers' contentious questioning of former top U.S. health official Dr. Anthony Fauci Wednesday.",
-        "url": "https://www.npr.org/2026/07/30/nx-s1-5911854/infectious-disease-expert-on-faucis-senate-hearing-face-off-with-lawmakers"
+        "summary": "Former governors John Kasich and Steve Beshear, along with CEO Brian C. Castrucci, advocate for strengthening America's public health system through new recommendations from the National Commission on Local Public Health Leadership.",
+        "url": "https://thehill.com/opinion/healthcare/5998121-strengthen-public-health-infrastructure/"
     },
     {
-        "id": "https://thehill.com/opinion/energy-environment/5992684-fifa-world-cup-private-jet-emissions/",
+        "id": "https://thehill.com/policy/international/5998807-us-iran-war-worth-risk-ap-norc-survey/",
         "source": "The Hill",
-        "title": "Red card: World Cup fans and the public subsidize private jet polluters",
-        "publicationDate": "2026-07-30",
-        "category": "Opinions - Energy and Environment",
-        "summary": "Ordinary fans and the flying public subsidize the pollution spewing activity of the high-flying private jet class.",
-        "url": "https://thehill.com/opinion/energy-environment/5992684-fifa-world-cup-private-jet-emissions/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/morning-report/5998751-todd-blanche-confirmation-delay-cornyn-tillis-gop-scorn/",
-        "source": "The Hill",
-        "title": "Scorned senators force retreat on Blanche confirmation vote",
-        "publicationDate": "2026-07-30",
-        "category": "Morning Report",
-        "summary": "In today's issue: ▪ Blanche confirmation vote postponed ▪ Paul threatens Fauci with contempt ▪ Trump announces Dulles renovations ▪ Michigan Senate poll released Sens. John Cornyn (R-Texas) and Thom Tillis (R-N.C.) are showing no signs of backing down on their demands concerning Todd Blanche’s nomination to become permanent attorney general, throwing his confirmation into...",
-        "url": "https://thehill.com/newsletters/morning-report/5998751-todd-blanche-confirmation-delay-cornyn-tillis-gop-scorn/"
-    },
-    {
-        "id": "https://thehill.com/opinion/national-security/5997571-ai-drone-revolution-military/",
-        "source": "The Hill",
-        "title": "Ukraine is innovating war — and it's forcing us into a national drone emergency",
+        "title": "About two-thirds say Iran war not worth fighting: Survey",
         "publicationDate": "2026-07-30",
         "category": "Foreign Policy",
-        "summary": "The U.S. is at war, and the nature of the war will soon get away from us if we don't adapt quickly.",
-        "url": "https://thehill.com/opinion/national-security/5997571-ai-drone-revolution-military/"
+        "summary": "New polling shows that about two-thirds of Americans say the U.S.-Israeli conflict in Iran is not worth fighting. The Associated Press-NORC Research Center survey, released Thursday, found 64 percent of U.S. adults believe the ongoing fighting is not worth the risks. Another 33 percent said the opposite. Majorities of Democrats and independents, at 87 percent...",
+        "url": "https://thehill.com/policy/international/5998807-us-iran-war-worth-risk-ap-norc-survey/"
     },
     {
-        "id": "https://thehill.com/policy/transportation/5998226-delta-united-airlines-ban-humanoid-animal-robots-lithium-battery-risk/",
+        "id": "https://thehill.com/homenews/administration/5998546-live-updates-trump-iran-war-senate/",
         "source": "The Hill",
-        "title": "Delta, United ban humanoid and animal robots from flights",
+        "title": "Live updates: US retaliates against Iran; CDC, Labor nominees face Senate panel vote",
         "publicationDate": "2026-07-30",
-        "category": "Transportation",
-        "summary": "New policies from the airlines ban the robots from traveling in the passenger cabin or cargo hold.",
-        "url": "https://thehill.com/policy/transportation/5998226-delta-united-airlines-ban-humanoid-animal-robots-lithium-battery-risk/"
+        "category": "Defense",
+        "summary": "The U.S.-Iran conflict threatens to expand, as the American military retaliated late Wednesday after Tehran's surprise strikes the day prior. The U.S. launched a \"heavy\" barrage for two hours against several Iranian Revolutionary Guard Corps (IRGC) targets. The marquee event on Capitol Hill set for Thursday morning was canceled late Wednesday, as Senate Judiciary Committee...",
+        "url": "https://thehill.com/homenews/administration/5998546-live-updates-trump-iran-war-senate/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/5998277-cavities-dental-care-liquid-fluoride-drilling/",
+        "id": "https://thehill.com/homenews/senate/5998831-john-fetterman-anthony-fauci-covid-19-senate-hearing-diary-entries-fame/",
         "source": "The Hill",
-        "title": "Liquid could be answer to stop cavities without drilling, study finds",
+        "title": "Fetterman says Fauci was 'a little fixated on his own fame'",
         "publicationDate": "2026-07-30",
-        "category": "Healthcare",
-        "summary": "A study conducted by the University of Michigan found silver diamine fluoride stopped decay in more than half of treated baby teeth.",
-        "url": "https://thehill.com/policy/healthcare/5998277-cavities-dental-care-liquid-fluoride-drilling/"
+        "category": "Senate",
+        "summary": "Sen. John Fetterman (D-Pa.) said Wednesday that Dr. Anthony Fauci, the former chief White House medical adviser, was “a little fixated on his own fame.” “I do think it's entirely appropriate to really hold Fauci accountable, but I don't think it's really appropriate to pound an 85-year-old man, 10 minutes, 10 minutes, 10 minutes, 10...",
+        "url": "https://thehill.com/homenews/senate/5998831-john-fetterman-anthony-fauci-covid-19-senate-hearing-diary-entries-fame/"
     },
     {
         "id": "https://www.nytimes.com/2026/07/30/us/politics/haley-stevens-accent-michigan-senate.html",
@@ -140,13 +212,13 @@
         "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
         "publicationDate": "2026-07-30",
         "category": "Foreign Policy",
-        "summary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+        "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
         "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+        "title": "Thousands evacuated in Crete as Europe battles wildfires",
         "publicationDate": "2026-07-30",
         "category": "Other",
         "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
@@ -162,42 +234,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/c8e8502f-91c2-4dcd-b39c-e99c67b93826?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Blue Owl’s private credit fundraising falls to slowest pace in three years",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Demand for data centre investments helped bolster group as redemption requests weigh on credit arm",
-        "url": "https://www.ft.com/content/c8e8502f-91c2-4dcd-b39c-e99c67b93826?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/80274c4f-5a86-4ab6-b787-ed62e312971e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "BAE lifts profit and sales guidance following surge in orders",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "UK defence group benefits from higher military spending amid ‘highly volatile’ picture on global threats",
-        "url": "https://www.ft.com/content/80274c4f-5a86-4ab6-b787-ed62e312971e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/354bfe84-eb98-4607-ace7-c8231beafe7b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "France allows some wildfire evacuees to return as blazes stabilise",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "More than half of those affected have been permitted to go home in sign that worst fires in decades are under control",
-        "url": "https://www.ft.com/content/354bfe84-eb98-4607-ace7-c8231beafe7b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3936b8c9-8ce2-41f8-8687-90a2aa385e41?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "KKR profits soar as it cashes in record amount of private equity bets",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Private capital giant weathers turmoil that has curtailed asset sales and fundraising by other players",
-        "url": "https://www.ft.com/content/3936b8c9-8ce2-41f8-8687-90a2aa385e41?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’",
@@ -205,6 +241,42 @@
         "category": "Other",
         "summary": "Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint",
         "url": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/4b39365f-841d-45d3-81ae-31db7f9d8f8f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "NYSE owner to buy bond platform MarketAxess in $5.7bn deal",
+        "publicationDate": "2026-07-30",
+        "category": "Economy",
+        "summary": "Acquisition marks significant step by Intercontinental Exchange into fixed-income trading",
+        "url": "https://www.ft.com/content/4b39365f-841d-45d3-81ae-31db7f9d8f8f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/67238e48-57dd-4701-8294-0a11036c8742",
+        "source": "Financial Times World",
+        "title": "Can Vance square his Catholicism with Trump’s Republican Party?",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "The vice-president’s new book criticises the hypocrisy of the old religious right",
+        "url": "https://www.ft.com/content/67238e48-57dd-4701-8294-0a11036c8742"
+    },
+    {
+        "id": "https://www.ft.com/content/783dfe9a-4643-4b2b-b69c-a46e5229d707?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US economy grew less than expected at 1.5% rate in second quarter",
+        "publicationDate": "2026-07-30",
+        "category": "Economy",
+        "summary": "Slowdown comes amid continued impact from Middle East war",
+        "url": "https://www.ft.com/content/783dfe9a-4643-4b2b-b69c-a46e5229d707?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/aca5b974-1447-4cd2-9d94-f4150c3d4d7e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Antwerp cocaine gangs sentenced in ‘exceptionally large’ case",
+        "publicationDate": "2026-07-30",
+        "category": "Healthcare",
+        "summary": "Belgian authorities tighten security at major port which is a key point for drug to enter Europe",
+        "url": "https://www.ft.com/content/aca5b974-1447-4cd2-9d94-f4150c3d4d7e?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-andrea-r-flores",
@@ -216,13 +288,13 @@
         "url": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-andrea-r-flores"
     },
     {
-        "id": "https://www.cfr.org/articles/ais-economic-winners",
-        "source": "Council on Foreign Relations",
-        "title": "AI’s Economic Winners",
+        "id": "https://www.heritage.org/gender/commentary/the-quiet-way-gender-ideology-reaches-children",
+        "source": "Heritage Foundation",
+        "title": "The Quiet Way Gender Ideology Reaches Children",
         "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "The race for AI dominance often focuses on the United States and China, but other countries are key players—and winning depends on many factors.",
-        "url": "https://www.cfr.org/articles/ais-economic-winners"
+        "category": "Other",
+        "summary": "Imagine you are a parent concerned about your child viewing inappropriate content. You rely on the usual parental guidelines, such as “TV-MA,” to select age-appropriate shows. But what if those apparently age-appropriate shows essentially promote gender ideology and transgenderism without any warning? You might be forgiven for worrying that this is part of a plot to “trans the kids”—a component of a leftist agenda...",
+        "url": "https://www.heritage.org/gender/commentary/the-quiet-way-gender-ideology-reaches-children"
     },
     {
         "id": "https://www.heritage.org/gun-rights/commentary/second-amendment-freedom-guarantees-all-our-freedoms",
@@ -324,6 +396,24 @@
         "url": "https://cms.hoover.org/research/victor-davis-hanson-real-history-behind-homers-odyssey"
     },
     {
+        "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
+        "source": "European Council on Foreign Relations",
+        "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
+        "publicationDate": "2026-07-29",
+        "category": "European Security",
+        "summary": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
+        "url": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/"
+    },
+    {
+        "id": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/",
+        "source": "European Council on Foreign Relations",
+        "title": "Two of a kind: How France and Italy can show the way for Europe’s Africa policy",
+        "publicationDate": "2026-07-29",
+        "category": "Africa",
+        "summary": "Rome and Paris have each overhauled their economic strategies towards Africa in the past few years, competing openly for influence on the continent. Here is how the EU can use that rivalry to sharpen Europe’s offer to Africa",
+        "url": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/"
+    },
+    {
         "id": "https://www.pbs.org/newshour/show/fauci-invokes-5th-amendment-right-during-gop-led-hearing-on-covid-origins",
         "source": "PBS NewsHour Politics",
         "title": "Fauci invokes 5th Amendment right during GOP-led hearing on COVID origins",
@@ -423,15 +513,6 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R47884/R47884.15.pdf"
     },
     {
-        "id": "IF10767",
-        "source": "Congressional Research Service",
-        "title": "Farm Credit Administration and Its Board Members",
-        "publicationDate": "2026-07-28",
-        "category": "Economy",
-        "summary": "Overview Congress oversees the Farm Credit Administration (FCA), which is the federal financial regulator responsible for ensuring the safety and soundness of Farm Credit System (FCS) institutions and the Federal Agricultural Mortgage Corporation (Farmer Mac). FCA is directed by a three-member board of directors nominated by the President and confirmed by the Senate (12 U.S.C. §2242). Currently, one position is...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10767/IF10767.21.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
         "source": "RAND Corporation",
         "title": "Veterans’ Participation in Public Programs",
@@ -439,24 +520,6 @@
         "category": "Other",
         "summary": "The authors analyze why veterans participate in social safety net programs at different rates than nonveterans, and how, specifically, receipt of disability compensation benefits drives these differences.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4405-5.html"
-    },
-    {
-        "id": "https://www.cfr.org/articles/the-saudi-nuclear-deal-would-set-a-dangerous-new-proliferation-precedent",
-        "source": "Council on Foreign Relations",
-        "title": "The Saudi Nuclear Deal Would Set a Dangerous New Proliferation Precedent",
-        "publicationDate": "2026-07-28",
-        "category": "Technology",
-        "summary": "The recently announced agreement between the U.S. and Saudi governments to develop civilian nuclear energy has aroused concerns that the decades-old approach to sharing this technology has been upended.",
-        "url": "https://www.cfr.org/articles/the-saudi-nuclear-deal-would-set-a-dangerous-new-proliferation-precedent"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/spillover/the-real-ai-race-isnt-about-models-its-about-compute",
-        "source": "Council on Foreign Relations",
-        "title": "The Real AI Race Isn’t About Models. It’s About Compute.",
-        "publicationDate": "2026-07-28",
-        "category": "Defense",
-        "summary": "On this episode of The Spillover, Sebastian Mallaby sits down with Jordan Schneider of ChinaTalk to unpack a frantic month in artificial intelligence. The conversation turns on whether the U.S. can actually “win” the AI race, with Schneider arguing that the most durable competitive edge will come from compute rather than model quality. The two […]",
-        "url": "https://www.cfr.org/podcasts/spillover/the-real-ai-race-isnt-about-models-its-about-compute"
     },
     {
         "id": "https://www.heritage.org/energy/commentary/if-its-good-enough-wartime-its-good-enough-peacetime",
@@ -477,6 +540,24 @@
         "url": "https://www.heritage.org/education/commentary/teachers-union-uses-felons-attack-school-choice-arizona"
     },
     {
+        "id": "https://ecfr.eu/article/the-saudi-dilemma-how-yemen-could-shape-the-next-phase-of-the-iran-war/",
+        "source": "European Council on Foreign Relations",
+        "title": "The Saudi dilemma: How Yemen could shape the next phase of the Iran war",
+        "publicationDate": "2026-07-28",
+        "category": "Foreign Policy",
+        "summary": "As the Houthis attack Saudi ships and infrastructure, Riyadh faces an increasingly difficult choice: absorb the blows to stay out of the Iran war or retaliate and risk a dangerous escalation.",
+        "url": "https://ecfr.eu/article/the-saudi-dilemma-how-yemen-could-shape-the-next-phase-of-the-iran-war/"
+    },
+    {
+        "id": "https://ecfr.eu/article/shoring-up-the-red-sea-why-the-next-crisis-may-begin-in-the-horn-of-africa/",
+        "source": "European Council on Foreign Relations",
+        "title": "Shoring up the Red Sea: Why the next crisis may begin in the Horn of Africa",
+        "publicationDate": "2026-07-28",
+        "category": "Africa",
+        "summary": "The Red Sea is becoming more dangerous, and not only because of the Houthis. Conflicts in the Horn of Africa are converging and drawing in external powers, creating new threats to a maritime corridor vital to global trade.",
+        "url": "https://ecfr.eu/article/shoring-up-the-red-sea-why-the-next-crisis-may-begin-in-the-horn-of-africa/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/",
         "source": "Washington Post Politics",
         "title": "Conservatives tout Biden tapes as proof of his decline. The audio is more nuanced.",
@@ -484,15 +565,6 @@
         "category": "Other",
         "summary": "Audio of Joe Biden's interviews with a ghostwriter in 2016 and 2017 show him referencing classified materials and occasionally struggling to recall details.",
         "url": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/"
-    },
-    {
-        "id": "https://www.cfr.org/articles/trump-administrations-dealing-in-companies-is-on-shaky-ground-2",
-        "source": "Council on Foreign Relations",
-        "title": "Trump Administration’s Dealing in Companies Is on Shaky Ground",
-        "publicationDate": "2026-07-27",
-        "category": "Article",
-        "summary": "Intel’s shareholders are doing what Congress seems unable to do: push back on the administration’s interpretation of the law to justify grabbing ownership in companies.",
-        "url": "https://www.cfr.org/articles/trump-administrations-dealing-in-companies-is-on-shaky-ground-2"
     },
     {
         "id": "https://www.heritage.org/border-security/commentary/we-need-truth-commission-show-the-world-the-insanity-the-biden-border",
@@ -504,15 +576,6 @@
         "url": "https://www.heritage.org/border-security/commentary/we-need-truth-commission-show-the-world-the-insanity-the-biden-border"
     },
     {
-        "id": "https://www.heritage.org/taxes/commentary/progressives-want-tax-billionaires-first-and-youre-next-the-list",
-        "source": "Heritage Foundation",
-        "title": "Progressives Want to Tax Billionaires First, And You're Next On The List",
-        "publicationDate": "2026-07-27",
-        "category": "Economy",
-        "summary": "If you ever wished you could be counted among billionaires, your wish might come true soon if the socialists get their way. Of course, it’s not that you’ll have a billion-dollar net worth, but rather you’ll be subject to the same wealth tax that progressives say they want to foist onto billionaires. What Russian revolutionary Leon Trotsky said of war applies to the wealth tax: you may not care about it, but it...",
-        "url": "https://www.heritage.org/taxes/commentary/progressives-want-tax-billionaires-first-and-youre-next-the-list"
-    },
-    {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
         "source": "Centre for European Reform",
         "title": "Bild: Die größte Gefahr für unseren Wohlstand: Ronzheimer trifft Sander Tordoir",
@@ -522,6 +585,15 @@
         "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
     },
     {
+        "id": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/",
+        "source": "European Council on Foreign Relations",
+        "title": "Serbia: Inside the leaderless movement",
+        "publicationDate": "2026-07-24",
+        "category": "Serbia",
+        "summary": "Jessica Hendrick welcomes Igor Bandović and Luka Filipović to discuss Serbia’s biggest protest movement in decades",
+        "url": "https://ecfr.eu/podcasts/episode/inside-the-leaderless-movement/"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
         "source": "RAND Corporation",
         "title": "Sustaining Agile Operations",
@@ -529,33 +601,6 @@
         "category": "Other",
         "summary": "This report analyzes emerging energy and water technologies that could improve operational agility in contested environments. It evaluates advances in portable power, storage, and purification to enhance sustainability and reduce logistics risk.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3582-2.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5069-1.html",
-        "source": "RAND Corporation",
-        "title": "China's strategic petroleum reserve as a geoeconomic tool",
-        "publicationDate": "2026-07-21",
-        "category": "Foreign Policy",
-        "summary": "Chinese policy around the use of their SPR as a geoeconomic tool, particularly in crisis scenarios, is not well understood. This project investigates potential ways for China to do so, but not whether China actually intends to use it in this way.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5069-1.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4256-1.html",
-        "source": "RAND Corporation",
-        "title": "Examining the Impact of Senate Bill 1160 on Utilization Review and Medical Treatment in California Workers' Compensation",
-        "publicationDate": "2026-07-20",
-        "category": "Other",
-        "summary": "Senate Bill 1160 reduced utilization review (UR) requirements for some treatments during the first 30 days after a work-related injury. The authors examined effects on UR processes and medical treatment in California’s workers’ compensation system.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4256-1.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4418-1.html",
-        "source": "RAND Corporation",
-        "title": "Living with Wet Basements",
-        "publicationDate": "2026-07-20",
-        "category": "Other",
-        "summary": "This report presents findings from a study conducted in Pittsburgh to document the prevalence of and experiences with basement wetness, the barriers that residents face in addressing it, and options available to solve the problem.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4418-1.html"
     },
     {
         "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
