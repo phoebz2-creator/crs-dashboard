@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.npr.org/2026/07/30/nx-s1-5891889/trump-asylum-program-changes-charts",
+        "source": "NPR Politics",
+        "title": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "A new rule for asylum applications adds to the bevy of changes under the Trump administration to the core program for those fleeing persecution in their home countries.",
+        "url": "https://www.npr.org/2026/07/30/nx-s1-5891889/trump-asylum-program-changes-charts"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/30/nx-s1-5911873/sen-rand-paul-says-hell-move-to-hold-fauci-in-contempt-after-combative-hearing",
+        "source": "NPR Politics",
+        "title": "Sen. Rand Paul says he'll move to hold Fauci in contempt after combative hearing",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Dr. Anthony Fauci invoked the Fifth Amendment while appearing before a committee chaired by Sen. Rand Paul. Now, the senator is saying he will move to hold Fauci in contempt.",
+        "url": "https://www.npr.org/2026/07/30/nx-s1-5911873/sen-rand-paul-says-hell-move-to-hold-fauci-in-contempt-after-combative-hearing"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/30/nx-s1-5911854/infectious-disease-expert-on-faucis-senate-hearing-face-off-with-lawmakers",
+        "source": "NPR Politics",
+        "title": "Infectious disease expert on Fauci's Senate hearing face off with lawmakers",
+        "publicationDate": "2026-07-30",
+        "category": "Healthcare",
+        "summary": "NPR's Michel Martin speaks with Dr. Céline Gounder about lawmakers' contentious questioning of former top U.S. health official Dr. Anthony Fauci Wednesday.",
+        "url": "https://www.npr.org/2026/07/30/nx-s1-5911854/infectious-disease-expert-on-faucis-senate-hearing-face-off-with-lawmakers"
+    },
+    {
         "id": "https://thehill.com/homenews/senate/5998455-banks-kim-introduce-kidds-stuttering-act/",
         "source": "The Hill",
         "title": "Banks, Kim introduce stuttering legislation with backing of former NBA player",
@@ -45,13 +72,49 @@
         "url": "https://thehill.com/homenews/senate/5998411-blanche-attorney-general-nomination-cornyn-tillis/"
     },
     {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/haley-stevens-accent-michigan-senate.html",
+        "source": "New York Times Politics",
+        "title": "How Haley Stevens’s Accent Became a Flashpoint in Michigan’s Senate Race",
+        "publicationDate": "2026-07-30",
+        "category": "United States Politics and Government",
+        "summary": "How the politics of raised a’s and disappearing g’s briefly came to dominate the Michigan Senate race.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/haley-stevens-accent-michigan-senate.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html",
+        "source": "New York Times Politics",
+        "title": "After Obamacare Cuts, Hospitals Are Treating More Uninsured Patients",
+        "publicationDate": "2026-07-30",
+        "category": "Healthcare",
+        "summary": "More people who lost coverage after congressional Republicans ended enhanced federal subsidies are now seeking care in emergency rooms and unable to pay bills.",
+        "url": "https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/magazine/liberal-arts-degree-conservatives.html",
+        "source": "New York Times Politics",
+        "title": "Conservatives Like the Liberal Arts, Actually. They Just Don’t Like the Phrase.",
+        "publicationDate": "2026-07-30",
+        "category": "Colleges and Universities",
+        "summary": "Some people revere the “liberal arts” while others call them useless. They’re probably talking about different things.",
+        "url": "https://www.nytimes.com/2026/07/30/magazine/liberal-arts-degree-conservatives.html"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
         "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "The US military says it launched a \"heavy\" attack on Iran in retaliation for attempted Iranian ballistic missile strikes on American forces.",
+        "category": "Foreign Policy",
+        "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
         "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+        "publicationDate": "2026-07-30",
+        "category": "Foreign Policy",
+        "summary": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv.",
+        "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
@@ -63,49 +126,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/fe3fe258-62ab-4a71-8c8b-747f9559fd05?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Kevin Warsh is confusing markets",
+        "id": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
         "publicationDate": "2026-07-30",
         "category": "Other",
-        "summary": "The Fed is a player, not a referee",
-        "url": "https://www.ft.com/content/fe3fe258-62ab-4a71-8c8b-747f9559fd05?syn-25a6b1a6=1"
+        "summary": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
+        "url": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/5052b22e-aeca-4043-88af-dd7da3661a49?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/6710a395-0141-4c3f-9620-ccf249e18091?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Chinese stocks on track for worst month in decade",
+        "title": "Eurozone economy grew 0.4% in second quarter despite Middle East energy shock",
+        "publicationDate": "2026-07-30",
+        "category": "Economy",
+        "summary": "Economists had expected a slower pace of expansion",
+        "url": "https://www.ft.com/content/6710a395-0141-4c3f-9620-ccf249e18091?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "‘My life’s screwed’: Korean investors stress out after AI bubble bursts",
         "publicationDate": "2026-07-30",
         "category": "Other",
-        "summary": "Investors pull out of ‘picks and shovels’ suppliers to AI boom",
-        "url": "https://www.ft.com/content/5052b22e-aeca-4043-88af-dd7da3661a49?syn-25a6b1a6=1"
+        "summary": "Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock tumbles",
+        "url": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/9c33426e-d413-4d9b-b429-34dea508195e?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Winner of US-China AI rivalry falls 10% in Hong Kong debut",
+        "title": "BoE expected to ‘talk tough’ but leave rates on hold",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Decision comes against backdrop of renewed volatility in energy prices",
+        "url": "https://www.ft.com/content/9c33426e-d413-4d9b-b429-34dea508195e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US borrowing costs hit 19-year high as Fed defies inflation fears",
+        "publicationDate": "2026-07-30",
+        "category": "Economy",
+        "summary": "Central bank holds rates even as investors worry Iran war will ignite jolt of price growth",
+        "url": "https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/09e9be6a-9480-476f-8b3c-0b0f64e86f87?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Ukraine’s ex-defence minister blames procurement reforms for dismissal",
         "publicationDate": "2026-07-30",
         "category": "Foreign Policy",
-        "summary": "Shandong-based Innolight supplies data centre equipment to American and Chinese tech groups",
-        "url": "https://www.ft.com/content/cc7d24ec-abfe-440b-9e85-4d725567f278?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/480de423-de70-4bac-be56-f54502e29182?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Russia exploits Spain’s grounded firefighting helicopters as wildfires rage",
-        "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "Also in this newsletter: Austria imposes strict social media ban",
-        "url": "https://www.ft.com/content/480de423-de70-4bac-be56-f54502e29182?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5035f634-7d47-483a-b8e9-722ded88a672?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Meta and Microsoft kick off turbulent tech results",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: EDF’s nuclear venture and UK’s mobile network woes",
-        "url": "https://www.ft.com/content/5035f634-7d47-483a-b8e9-722ded88a672?syn-25a6b1a6=1"
+        "summary": "Fedorov interview offers his most detailed account of sacking that triggered wave of protest",
+        "url": "https://www.ft.com/content/09e9be6a-9480-476f-8b3c-0b0f64e86f87?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-andrea-r-flores",
@@ -261,33 +333,6 @@
         "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates"
     },
     {
-        "id": "https://www.npr.org/2026/07/29/nx-s1-5910692/ukrainian-president-zelenskyy-says-he-had-a-good-meeting-with-trump-in-washington",
-        "source": "NPR Politics",
-        "title": "Ukrainian President Zelenskyy says he had a 'good meeting' with Trump in Washington",
-        "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "Ukrainian President Volodymyr Zelenskyy said he had a \"good meeting\" with President Donald Trump Tuesday, as the country seeks to make more weapons in its fight against Russia.",
-        "url": "https://www.npr.org/2026/07/29/nx-s1-5910692/ukrainian-president-zelenskyy-says-he-had-a-good-meeting-with-trump-in-washington"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/29/nx-s1-5910639/did-zelenskyy-get-what-he-needed-from-his-d-c-visit-former-ambassador-weighs-in",
-        "source": "NPR Politics",
-        "title": "Did Zelenskyy get what he needed from his D.C. visit? Former ambassador weighs in",
-        "publicationDate": "2026-07-29",
-        "category": "Foreign Policy",
-        "summary": "NPR's Leila Fadel asks former U.S. Ambassador to Ukraine William Taylor about what President Volodymyr Zelenskyy obtained from his visit to Washington.",
-        "url": "https://www.npr.org/2026/07/29/nx-s1-5910639/did-zelenskyy-get-what-he-needed-from-his-d-c-visit-former-ambassador-weighs-in"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/29/nx-s1-5910749/senate-confirms-jay-clayton-as-director-of-national-intelligence",
-        "source": "NPR Politics",
-        "title": "Senate confirms Jay Clayton as director of national intelligence",
-        "publicationDate": "2026-07-29",
-        "category": "Defense",
-        "summary": "The Senate confirmed Jay Clayton to oversee the intelligence community, despite Democrats' concerns that he could politicize intelligence at President Trump's direction.",
-        "url": "https://www.npr.org/2026/07/29/nx-s1-5910749/senate-confirms-jay-clayton-as-director-of-national-intelligence"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/fauci-invokes-5th-amendment-right-during-gop-led-hearing-on-covid-origins",
         "source": "PBS NewsHour Politics",
         "title": "Fauci invokes 5th Amendment right during GOP-led hearing on COVID origins",
@@ -351,33 +396,6 @@
         "url": "https://www.nytimes.com/2026/07/29/us/politics/foia-public-document-requests.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/29/us/politics/trump-personal-wealth.html",
-        "source": "New York Times Politics",
-        "title": "Trump Has Made Billions in Office. Will His Party Pay Politically?",
-        "publicationDate": "2026-07-29",
-        "category": "Politics and Government",
-        "summary": "The president took in a staggering $2.2 billion last year while in office. Democrats are hoping to make it a campaign issue in the midterm elections.",
-        "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-personal-wealth.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/29/us/politics/trump-dulles-airport-redesign.html",
-        "source": "New York Times Politics",
-        "title": "Trump Unveils $22.5 Billion Redesign of Dulles Airport",
-        "publicationDate": "2026-07-29",
-        "category": "Airports",
-        "summary": "The project would make the airport easier to navigate and include a new United lounge, officials said. It’s part of the president’s plans to remake the Washington area.",
-        "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-dulles-airport-redesign.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/29/us/politics/fauci-biden-pardon-covid-hearing.html",
-        "source": "New York Times Politics",
-        "title": "Fauci’s Pardon From Biden Would Not Shield Him From New Offenses",
-        "publicationDate": "2026-07-29",
-        "category": "Coronavirus (2019-nCoV)",
-        "summary": "Republicans have argued that the pre-emptive pardon Dr. Fauci received from former President Biden ought to preclude him from invoking the Fifth Amendment. But the pardon applies only to what happened before it was issued.",
-        "url": "https://www.nytimes.com/2026/07/29/us/politics/fauci-biden-pardon-covid-hearing.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/",
         "source": "Washington Post Politics",
         "title": "Mamdani says New York doesn’t have authority to arrest Netanyahu, urges feds to act",
@@ -403,24 +421,6 @@
         "category": "Foreign Policy",
         "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
         "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-        "publicationDate": "2026-07-29",
-        "category": "Other",
-        "summary": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations.",
-        "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-        "publicationDate": "2026-07-29",
-        "category": "Other",
-        "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-        "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R47884",
@@ -511,15 +511,6 @@
         "category": "Other",
         "summary": "Audio of Joe Biden's interviews with a ghostwriter in 2016 and 2017 show him referencing classified materials and occasionally struggling to recall details.",
         "url": "https://www.washingtonpost.com/politics/2026/07/28/listen-biden-tapes-that-called-his-mental-fitness-into-question/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/lifestyle/2026/07/28/grandma-fought-bill-allow-happy-hour-minnesota-senior-homes/",
-        "source": "Washington Post Politics",
-        "title": "This grandma fought for a bill to allow happy hour at retirement homes",
-        "publicationDate": "2026-07-28",
-        "category": "Other",
-        "summary": "Anita LeBrun said she hoped to enjoy a drink with her friends, but it was also a matter of independence.",
-        "url": "https://www.washingtonpost.com/lifestyle/2026/07/28/grandma-fought-bill-allow-happy-hour-minnesota-senior-homes/"
     },
     {
         "id": "https://www.cfr.org/articles/trump-administrations-dealing-in-companies-is-on-shaky-ground-2",
