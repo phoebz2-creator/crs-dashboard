@@ -108,13 +108,13 @@
         "url": "https://www.hudson.org/national-security-defense/caspian-sea-security-luke-coffey"
     },
     {
-        "id": "https://cms.hoover.org/research/immigration-0",
+        "id": "https://cms.hoover.org/research/h-1b-worker-education-sectors-employment",
         "source": "Hoover Institution",
-        "title": "Immigration",
+        "title": "H-1B Worker Education & Sectors of Employment",
         "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/research/immigration-0"
+        "category": "Foreign Policy",
+        "summary": "The H-1B is the main U.S. work visa for college-educated foreign professionals. Records of every H-1B petition approved between FY2021 and FY2024 reveal a group that differs from the U.S. working-age population in many respects. Part two of this series examines what those workers studied and the type of work they do.",
+        "url": "https://cms.hoover.org/research/h-1b-worker-education-sectors-employment"
     },
     {
         "id": "https://cms.hoover.org/research/how-los-angeles-lost-war-homelessness",
@@ -126,31 +126,67 @@
         "url": "https://cms.hoover.org/research/how-los-angeles-lost-war-homelessness"
     },
     {
-        "id": "https://cms.hoover.org/node/390941",
+        "id": "https://cms.hoover.org/research/victor-davis-hanson-i-was-told-i-wouldnt-be-hired-because-i-was-white-male",
         "source": "Hoover Institution",
-        "title": "VFP at Five",
+        "title": "Victor Davis Hanson: 'I Was Told I Wouldn't Be Hired Because I Was A White Male'",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/node/390941"
+        "summary": "Hoover Institution fellow Victor Davis Hanson notes that from race-based hiring and admissions, to lowered academic standards, America’s universities are collapsing rather than seeking excellence.",
+        "url": "https://cms.hoover.org/research/victor-davis-hanson-i-was-told-i-wouldnt-be-hired-because-i-was-white-male"
     },
     {
-        "id": "https://cms.hoover.org/research/world-trade-organization-path-renewal",
+        "id": "https://cms.hoover.org/research/barry-strauss-secret-memoir-neros-court-and-4-other-ancient-works-we-never-got-read",
         "source": "Hoover Institution",
-        "title": "The World Trade Organization: A Path To Renewal",
+        "title": "Barry Strauss: A Secret Memoir Of Nero's Court? And 4 Other Ancient Works We Never Got To Read",
         "publicationDate": "2026-07-31",
-        "category": "Economy",
-        "summary": "Its economic logic endures. But keeping the benefits of a global economy also calls for new models of cooperation.",
-        "url": "https://cms.hoover.org/research/world-trade-organization-path-renewal"
+        "category": "Other",
+        "summary": "Hoover Institution fellow Barry Strauss joins leading historians making their case for the ancient book they'd rescue from oblivion — from a missing insider account of Nero’s court, to the untold epics that could rewrite the legend of the Trojan War. Each choice reveals a fascinating, mysterious story — and raises the question: how much knowledge of the ancient world are we missing without even knowing it?",
+        "url": "https://cms.hoover.org/research/barry-strauss-secret-memoir-neros-court-and-4-other-ancient-works-we-never-got-read"
     },
     {
-        "id": "https://cms.hoover.org/research/scripting-endgame-russia-ukraine-war",
+        "id": "https://cms.hoover.org/research/dr-scott-atlas-discusses-dr-anthony-faucis-diary-admission",
         "source": "Hoover Institution",
-        "title": "Scripting An Endgame In The Russia-Ukraine War",
+        "title": "Dr. Scott Atlas Discusses Dr. Anthony Fauci's Diary Admission",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Dr. Scott Atlas discusses Dr. Anthony Fauci's diary admission, where Dr. Fauci tells the truth about COVID.",
+        "url": "https://cms.hoover.org/research/dr-scott-atlas-discusses-dr-anthony-faucis-diary-admission"
+    },
+    {
+        "id": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
+        "source": "European Council on Foreign Relations",
+        "title": "Alone at the border: Ceuta and Europe’s solidarity failure",
+        "publicationDate": "2026-07-31",
+        "category": "Human Rights and Democracy",
+        "summary": "By failing to show solidarity with a member state under pressure, the EU is encouraging Morocco and others to keep using migration as a tool of coercion.",
+        "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/"
+    },
+    {
+        "id": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/",
+        "source": "European Council on Foreign Relations",
+        "title": "How splits on the right may threaten Poland’s pro-European camp",
+        "publicationDate": "2026-07-31",
+        "category": "European Power",
+        "summary": "More than 40 MPs have walked out of Law and Justice, Poland’s largest opposition party, and will court centre-right voters who put Donald Tusk in power in 2023. To win them back, Tusk should make the European argument he has spent years avoiding",
+        "url": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/",
+        "source": "European Council on Foreign Relations",
+        "title": "Defining modernity in South-East Asia",
         "publicationDate": "2026-07-31",
         "category": "Foreign Policy",
-        "summary": "Ukraine and its western partners can take a few concrete steps to make it harder for Putin to continue to underestimate Ukraine’s resilience.",
-        "url": "https://cms.hoover.org/research/scripting-endgame-russia-ukraine-war"
+        "summary": "Mark Leonard welcomes LuHan Gabel, Ooi Kee Beng and Chelsea Nguyen to explore how younger generations in China, Malaysia and Vietnam are rethinking the meaning of modernity in a post-Western world",
+        "url": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
+        "source": "NPR Politics",
+        "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "The government had accused David Hearn of ripping a piece of sealant after a $14 million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month.",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss"
     },
     {
         "id": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
@@ -189,40 +225,76 @@
         "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls"
     },
     {
-        "id": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-        "source": "NPR Politics",
-        "title": "Democrats show divisions on Israel amid competitive midterm elections",
+        "id": "https://www.pbs.org/newshour/show/whats-in-the-proposed-deal-to-disarm-hamas-and-withdraw-israeli-forces-from-gaza",
+        "source": "PBS NewsHour Politics",
+        "title": "What's in the proposed deal to disarm Hamas and withdraw Israeli forces from Gaza",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza.",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections"
+        "summary": "There is a major development in the effort to bring lasting peace to Gaza. Hamas says it has agreed to a U.S.-backed framework that would ultimately see the militant group give up its weapons and control of Gaza, while Israeli forces withdraw from the territory. Nick Shifrin reports.",
+        "url": "https://www.pbs.org/newshour/show/whats-in-the-proposed-deal-to-disarm-hamas-and-withdraw-israeli-forces-from-gaza"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/who-is-kathryn-ruemmler-former-obama-white-house-attorney-interviewed-about-epstein-emails",
+        "id": "https://www.pbs.org/newshour/politics/justice-department-drops-criminal-case-against-olympian-over-damaged-reflecting-pool",
         "source": "PBS NewsHour Politics",
-        "title": "Who is Kathryn Ruemmler? Former Obama White House attorney interviewed about Epstein emails",
+        "title": "Justice Department drops criminal case against Olympian over damaged Reflecting Pool",
         "publicationDate": "2026-07-31",
-        "category": "Ghislaine Maxwell",
-        "summary": "Ruemmler called Epstein, whom she first met in 2014, a \"masterful liar\" in her opening remarks to the panel, adding that she didn't see evidence of criminal conduct by Epstein.",
-        "url": "https://www.pbs.org/newshour/politics/who-is-kathryn-ruemmler-former-obama-white-house-attorney-interviewed-about-epstein-emails"
+        "category": "david hearn",
+        "summary": "Government lawyers said in a 20-page court filing that information provided since the indictment of David Hearn shows that the damage was the result of a \"flawed installation by the contractor\" as well as \"the rush to complete the project prior to events associated with the America 250 celebration in the weeks surrounding Independence Day 2026.\"",
+        "url": "https://www.pbs.org/newshour/politics/justice-department-drops-criminal-case-against-olympian-over-damaged-reflecting-pool"
     },
     {
-        "id": "https://www.pbs.org/newshour/economy/major-oil-companies-reap-massive-profits-as-u-s-and-iran-fighting-drives-energy-prices-higher",
+        "id": "https://www.pbs.org/newshour/show/how-iranians-are-living-through-months-of-war-and-government-crackdowns",
         "source": "PBS NewsHour Politics",
-        "title": "Major oil companies reap massive profits as U.S. and Iran fighting drives energy prices higher",
+        "title": "How Iranians are living through months of war and government crackdowns",
         "publicationDate": "2026-07-31",
-        "category": "Economy",
-        "summary": "American oil and gas giants raked in massive spring profits while fighting between Iran and the U.S. impeded petroleum shipments and consumers around the world paid more for fuel and confronted shortages.",
-        "url": "https://www.pbs.org/newshour/economy/major-oil-companies-reap-massive-profits-as-u-s-and-iran-fighting-drives-energy-prices-higher"
+        "category": "Foreign Policy",
+        "summary": "As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the lives of ordinary Iranians.",
+        "url": "https://www.pbs.org/newshour/show/how-iranians-are-living-through-months-of-war-and-government-crackdowns"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-cabinet-meeting-at-camp-david",
+        "id": "https://www.pbs.org/newshour/show/unaccompanied-migrant-children-at-risk-of-losing-legal-representation",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump hosts Cabinet meeting at Camp David",
+        "title": "Unaccompanied migrant children at risk of losing legal representation",
         "publicationDate": "2026-07-31",
-        "category": "cabinet meeting",
-        "summary": "President Donald Trump took Friday's Cabinet meeting on the road — to the Camp David presidential retreat in Maryland, a rustic backdrop for sessions that have come to be known for being overly long and consumed by administration officials' endless praise for their boss.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-cabinet-meeting-at-camp-david"
+        "category": "Other",
+        "summary": "Thousands of unaccompanied migrant children could lose legal representation, now that a federal contract with legal aid groups representing the minors is expiring. That contract, held by the non-profit Acacia Center for Justice, had funded legal services for unaccompanied children for the last five years. Ali Rogin discussed the developments with Shaina Aber, Acacia's executive director.",
+        "url": "https://www.pbs.org/newshour/show/unaccompanied-migrant-children-at-risk-of-losing-legal-representation"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-blanches-stalled-nomination-and-trumps-anti-weaponization-fund",
+        "source": "PBS NewsHour Politics",
+        "title": "Brooks and Capehart on Blanche's stalled nomination and Trump's 'anti-weaponization fund'",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including Todd Blanche's stalled confirmation to be attorney general, Trump's 'anti-weaponization fund,' turmoil inside the Democratic National Committee and the Reflection Poll vandalism charges dropped.",
+        "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-blanches-stalled-nomination-and-trumps-anti-weaponization-fund"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6003212-doj-drops-lincoln-memorial-reflecting-pool-case/",
+        "source": "The Hill",
+        "title": "DOJ will drop Reflecting Pool criminal case, citing 'flawed installation'",
+        "publicationDate": "2026-07-31",
+        "category": "Court Battles",
+        "summary": "The Department of Justice (DOJ) moved Friday to drop its criminal prosecution of a former Olympian charged with destroying the Lincoln Memorial Reflecting Pool, saying the damage was instead the result of a “rushed and botched installation.” U.S. Attorney Jeanine Pirro’s office blamed the contractor for overspraying and delamination. In a new court filing, the office...",
+        "url": "https://thehill.com/regulation/court-battles/6003212-doj-drops-lincoln-memorial-reflecting-pool-case/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6003155-fetterman-trump-blanche-confirmation-gop-senators/",
+        "source": "The Hill",
+        "title": "Fetterman: Trump has 'zero leverage' over lame-duck GOP senators",
+        "publicationDate": "2026-07-31",
+        "category": "Senate",
+        "summary": "Sen. John Fetterman (D-Pa.) pointed to weaknesses in President Trump’s influence in Congress amid opposition from three outgoing Republican senators to the president’s nomination of acting Attorney General Todd Blanche to a permanent role overseeing the Department of Justice (DOJ). Sens. Thom Tillis (N.C.), Bill Cassidy (La.) and John Cornyn (Texas) have all expressed skepticism...",
+        "url": "https://thehill.com/homenews/senate/6003155-fetterman-trump-blanche-confirmation-gop-senators/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/technology/6003160-silicon-valley-clashes-over-open-source-technology/",
+        "source": "The Hill",
+        "title": "Silicon Valley clashes over open-source technology",
+        "publicationDate": "2026-07-31",
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story ‘Rogue’ AI hacking incidents amplify debate over open-source tech Concerns over AI’s cybersecurity risks reached a fever pitch this week following two hacking incidents at OpenAI and Anthropic, sparking further debate in Silicon Valley over whether open-source could reduce these threats. Illustration / Samantha Wong; and Adobe Stock...",
+        "url": "https://thehill.com/newsletters/technology/6003160-silicon-valley-clashes-over-open-source-technology/"
     },
     {
         "id": "https://thehill.com/policy/technology/6003142-nvidia-launches-secure-ai-alliance/",
@@ -243,31 +315,22 @@
         "url": "https://thehill.com/newsletters/energy-environment/6003098-doi-proposes-potentially-major-water-cuts/"
     },
     {
-        "id": "https://thehill.com/newsletters/defense-national-security/6003097-us-stands-on-the-brink-of-a-regional-war/",
-        "source": "The Hill",
-        "title": "US stands on the brink of a regional war",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story US stands on the brink of a widening regional war The U.S. war with Iran is flaring up across the region, threatening to pull U.S. allies into a fight that Washington and Israel started five months...",
-        "url": "https://thehill.com/newsletters/defense-national-security/6003097-us-stands-on-the-brink-of-a-regional-war/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/6003064-ceuta-migration-spain-morocco-italy/",
-        "source": "The Hill",
-        "title": "Italy closes air and sea borders, suspends Schengen with Spain over Ceuta migrant crisis",
+        "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
+        "source": "New York Times Politics",
+        "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
         "publicationDate": "2026-07-31",
         "category": "Foreign Policy",
-        "summary": "The Italian government on Friday imposed border checks with Spain in response to an influx of tens of thousands of migrants in the Spanish North African enclave of Ceuta. The move will impact flights and maritime transport and temporarily suspends Spain’s Schengen border-free rights, an agreement that allows citizens of European member states to move...",
-        "url": "https://thehill.com/policy/international/6003064-ceuta-migration-spain-morocco-italy/"
+        "summary": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
+        "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html"
     },
     {
-        "id": "https://thehill.com/policy/technology/6003009-george-santos-cftc-settlement/",
-        "source": "The Hill",
-        "title": "George Santos settles with CFTC over Kalshi bets",
+        "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html",
+        "source": "New York Times Politics",
+        "title": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan",
         "publicationDate": "2026-07-31",
-        "category": "Technology",
-        "summary": "Former Rep. George Santos (R-N.Y.) has agreed to pay $35,000 to settle with the Commodity Futures Trading Commission (CFTC) over wagers he placed on the State of the Union earlier this year on Kalshi, the agency announced Friday. Santos placed bets on whether he would attend President Trump's address in February, while also posting on...",
-        "url": "https://thehill.com/policy/technology/6003009-george-santos-cftc-settlement/"
+        "category": "Foreign Policy",
+        "summary": "President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran.",
+        "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/31/us/politics/democrats-primary-elections-midterms.html",
@@ -295,24 +358,6 @@
         "category": "Healthcare",
         "summary": "The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.",
         "url": "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html",
-        "source": "New York Times Politics",
-        "title": "Trump Blames Minnesota, Not Iran, for Cyberattack, Despite Initial Investigation",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "President Trump claimed without evidence that Minnesota’s Democratic government was “behind” a cyberattack on the state’s own water systems. Investigators believe Iran is likely responsible.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html",
-        "source": "New York Times Politics",
-        "title": "Trump to Appeal Judge’s Ruling Denouncing I.R.S. Lawsuit as Exercise in Self-Dealing",
-        "publicationDate": "2026-07-31",
-        "category": "United States Politics and Government",
-        "summary": "It was the latest sign that the president was doubling down on his fight for aspects of a deal that brings him vast benefits, even though they have jeopardized the confirmation of his pick for attorney general.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/",
@@ -378,49 +423,49 @@
         "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/664f7b45-d92a-44c4-9824-9008001e887e?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/3350e4d1-1568-494d-8567-0363d6ef427b?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "KKR nears over $4bn deal to buy medical device maker Integer Holdings",
+        "title": "Trump doubles down on threat to hit Iran ‘very hard’",
         "publicationDate": "2026-07-31",
-        "category": "Healthcare",
-        "summary": "Healthcare company has been targeted by activist hedge fund established by an Elliott Management alumnus",
-        "url": "https://www.ft.com/content/664f7b45-d92a-44c4-9824-9008001e887e?syn-25a6b1a6=1"
+        "category": "Foreign Policy",
+        "summary": "US president’s remarks raise possibility Washington will launch new strikes",
+        "url": "https://www.ft.com/content/3350e4d1-1568-494d-8567-0363d6ef427b?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Bond sell-off sent warning on Fed’s credibility, says top central bank official",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Alberto Musalem says he supported dissenters’ calls for a quarter-point interest rate rise",
+        "url": "https://www.ft.com/content/2735a2b5-db87-4a7f-9484-20c1e429267d?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "US Treasury warns banks it may intervene in yen",
+        "title": "US Treasury undertakes historic intervention in yen market",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "Move comes amid speculation Tokyo intervened to support the currency",
+        "summary": "New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency",
         "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/06b7545b-94a0-4a5d-9c21-0c7852771b41?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/7f552580-4bd7-4124-982e-cb7745921234?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Google Earth AI tool pulled after spate of fake satellite images",
+        "title": "Labour holds Greater Manchester mayoralty vacated by Andy Burnham",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents",
-        "url": "https://www.ft.com/content/06b7545b-94a0-4a5d-9c21-0c7852771b41?syn-25a6b1a6=1"
+        "summary": "Council leader Bev Craig beats the Reform UK candidate in a second-round run-off",
+        "url": "https://www.ft.com/content/7f552580-4bd7-4124-982e-cb7745921234?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "How 60,000 people swam to Spanish territory",
+        "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "Migrants spent days preparing to reach the Spanish enclave of Ceuta from neighbouring Morocco",
-        "url": "https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/71f9031c-71a4-4e1b-ab25-216ff34dc87d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Healey looks for fiscal buffer in October’s UK Budget",
-        "publicationDate": "2026-07-31",
-        "category": "Economy",
-        "summary": "Chancellor to stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’",
-        "url": "https://www.ft.com/content/71f9031c-71a4-4e1b-ab25-216ff34dc87d?syn-25a6b1a6=1"
+        "summary": "Investors say the hedge fund deal reassured jittery traders in tech stocks",
+        "url": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1"
     },
     {
         "id": "R48956",
@@ -531,24 +576,6 @@
         "url": "https://www.hudson.org/foreign-policy/whats-trumps-next-move-iran-rebeccah-heinrichs"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/in-missouri-cori-bush-and-wesley-bells-primary-rematch-sets-up-key-test-for-democrats",
-        "source": "PBS NewsHour Politics",
-        "title": "In Missouri, Cori Bush and Wesley Bell's primary rematch sets up key test for Democrats",
-        "publicationDate": "2026-07-30",
-        "category": "cori bush",
-        "summary": "A progressive firebrand who started her political career as a Black Lives Matter organizer in Ferguson, Bush served two terms before losing a primary challenge to Wesley Bell, a moderate local prosecutor.",
-        "url": "https://www.pbs.org/newshour/politics/in-missouri-cori-bush-and-wesley-bells-primary-rematch-sets-up-key-test-for-democrats"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
-        "source": "PBS NewsHour Politics",
-        "title": "How shipping risks from Ukraine and Iran wars are converging",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "The blockade of the Strait of Hormuz, through which nearly all Middle Eastern oil flows, has prompted Saudi Arabia to call for a maritime defense coalition to protect Red Sea shipping. For perspective on the proposal, Geoff Bennett spoke with Ian Ralby. He's a global maritime security expert, president of Auxilium Worldwide, and a senior fellow at the Center for Maritime Strategy.",
-        "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/",
         "source": "Washington Post Politics",
         "title": "Trump’s claims of election interference in doubt after release of declassified intelligence",
@@ -556,6 +583,24 @@
         "category": "Defense",
         "summary": "Declassified evidence points to Beijing seeking personal data for espionage, not election interference.",
         "url": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/"
+    },
+    {
+        "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
+        "source": "European Council on Foreign Relations",
+        "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
+        "publicationDate": "2026-07-29",
+        "category": "European Security",
+        "summary": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
+        "url": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/"
+    },
+    {
+        "id": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/",
+        "source": "European Council on Foreign Relations",
+        "title": "Two of a kind: How France and Italy can show the way for Europe’s Africa policy",
+        "publicationDate": "2026-07-29",
+        "category": "Africa",
+        "summary": "Rome and Paris have each overhauled their economic strategies towards Africa in the past few years, competing openly for influence on the continent. Here is how the EU can use that rivalry to sharpen Europe’s offer to Africa",
+        "url": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
