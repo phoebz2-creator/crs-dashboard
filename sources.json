@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://cms.hoover.org/research/space-safety-first-simone-damico-safeguarding-earths-lower-orbit",
+        "source": "Hoover Institution",
+        "title": "(Space) Safety First: Simone D’Amico On Safeguarding Earth’s Lower Orbit",
+        "publicationDate": "2026-07-31",
+        "category": "Technology",
+        "summary": "Outer space isn’t as empty as you might imagine – especially the low-orbiting space around Planet Earth heavily populated by orbiting satellites and space debris. Hoover Institution science fellow Simone D’Amico discusses how to make the “space highway” safer, more secure, and its platforms more sustainable.",
+        "url": "https://cms.hoover.org/research/space-safety-first-simone-damico-safeguarding-earths-lower-orbit"
+    },
+    {
         "id": "https://cms.hoover.org/research/minorities-new-syrian-order",
         "source": "Hoover Institution",
         "title": "Minorities in the New Syrian Order",
@@ -11,7 +20,7 @@
     {
         "id": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/",
         "source": "European Council on Foreign Relations",
-        "title": "How the split on Poland’s right may threaten its pro-European camp",
+        "title": "How splits on the right may threaten Poland’s pro-European camp",
         "publicationDate": "2026-07-31",
         "category": "European Power",
         "summary": "More than 40 MPs have walked out of Law and Justice, Poland’s largest opposition party, and will court centre-right voters who put Donald Tusk in power in 2023. To win them back, Tusk should make the European argument he has spent years avoiding",
@@ -27,13 +36,31 @@
         "url": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/"
     },
     {
-        "id": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+        "id": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
         "source": "NPR Politics",
-        "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+        "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
         "publicationDate": "2026-07-31",
-        "category": "Healthcare",
-        "summary": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms"
+        "category": "Economy",
+        "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
+        "url": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/31/nx-s1-5913860/trump-says-he-may-pull-todd-blanches-nomination-to-circumvent-gop-holdouts",
+        "source": "NPR Politics",
+        "title": "Trump says he may pull Todd Blanche's nomination to circumvent GOP holdouts",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "President Trump says he's willing to hold his nomination of Attorney General Todd Blanche until January, when he says he'll have an easier political calculation in the Senate.",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5913860/trump-says-he-may-pull-todd-blanches-nomination-to-circumvent-gop-holdouts"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/31/nx-s1-5913739/former-sen-flake-on-what-gop-objections-over-blanches-nomination-means-for-trump",
+        "source": "NPR Politics",
+        "title": "Former Sen. Flake on what GOP objections over Blanche's nomination means for Trump",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "NPR's Leila Fadel asks former Republican U.S. Sen. Jeff Flake what the GOP standoff over Todd Blanche's nomination suggests about the president's hold over his party in Congress.",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5913739/former-sen-flake-on-what-gop-objections-over-blanches-nomination-means-for-trump"
     },
     {
         "id": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
@@ -54,31 +81,49 @@
         "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls"
     },
     {
-        "id": "https://thehill.com/policy/technology/6001284-minnesota-water-facilities-cyberattack-investigation-us-iran/",
+        "id": "https://thehill.com/opinion/education/5998996-governors-invest-early-education/",
         "source": "The Hill",
-        "title": "US investigating if Iran launched cyberattack on Minnesota water facilities",
+        "title": "Governors are putting early childhood education ahead of partisanship",
+        "publicationDate": "2026-07-31",
+        "category": "Opinions - Education",
+        "summary": "In some states, early childhood has been one of the few issues where governors of different parties don’t cause their constituents political whiplash.",
+        "url": "https://thehill.com/opinion/education/5998996-governors-invest-early-education/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6001061-cyclospora-skinny-trend-warnings-weight-loss/",
+        "source": "The Hill",
+        "title": "Doctor warns against 'cyclospora skinny' trend",
+        "publicationDate": "2026-07-31",
+        "category": "Healthcare",
+        "summary": "\"This is a concerning trend.\"",
+        "url": "https://thehill.com/policy/healthcare/6001061-cyclospora-skinny-trend-warnings-weight-loss/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/morning-report/6001443-donald-trump-camp-david-cabinet-meeting-senate-gop-iran-war/",
+        "source": "The Hill",
+        "title": "Trump, fighting the Senate and Iran, takes team to Camp David",
         "publicationDate": "2026-07-31",
         "category": "Foreign Policy",
-        "summary": "A United States cybersecurity agency is investigating a coordinated cyberattack on over 30 municipal water facilities in Minnesota which contains details of possible Iranian hackers. The Minnesota Information Technology (MNIT) agency released an advisory Tuesday about the attacks, saying it was coordinating its investigation with federal agencies including the Cybersecurity and Infrastructure Security Agency...",
-        "url": "https://thehill.com/policy/technology/6001284-minnesota-water-facilities-cyberattack-investigation-us-iran/"
+        "summary": "In today's issue: ▪ Trump announces deal to disarm Hamas ▪ Blanche nomination may be withdrawn ▪ Max Miller under fire ▪ World Cup boycott President Trump will assemble his Cabinet at Camp David today as he faces mounting struggles with his legislative agenda, a vexing war with Iran and record low approval ratings with the midterm elections less...",
+        "url": "https://thehill.com/newsletters/morning-report/6001443-donald-trump-camp-david-cabinet-meeting-senate-gop-iran-war/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6001184-claude-models-anthropic-security-breach/",
+        "id": "https://thehill.com/opinion/technology/5994824-scientific-study-unidentified-anomalous-phenomena/",
         "source": "The Hill",
-        "title": "Anthropic says Claude models 'gained unauthorized access' to 3 companies during cyber test",
+        "title": "Are space aliens real, and have they visited us?",
         "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "Editor's Note: This story has been updated to reflect how Anthropic accessed different organizations. The artificial intelligence firm Anthropic revealed Thursday its Claude model accessed the systems of three different organizations during cybersecurity testing in recent months. Anthropic said in a blog post Thursday evening it reviewed more than 141,000 evaluations of Claude after one of...",
-        "url": "https://thehill.com/policy/technology/6001184-claude-models-anthropic-security-breach/"
+        "category": "Technology",
+        "summary": "Sometimes, \"unidentified\" means just what it sounds like.",
+        "url": "https://thehill.com/opinion/technology/5994824-scientific-study-unidentified-anomalous-phenomena/"
     },
     {
-        "id": "https://thehill.com/homenews/6001200-saudi-red-sea-coalition/",
+        "id": "https://thehill.com/policy/healthcare/6001317-glp-1-drugs-personalized-individuals-new-study/",
         "source": "The Hill",
-        "title": "Saudi Arabia forms Red Sea defense coalition to protect against Houthi attacks",
+        "title": "GLP-1 drugs could become personalized for individuals, study says",
         "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "Saudi Arabia is building an international coalition to protect key shipping routes that transport Saudi oil exports from repeated attacks by Yemeni Houthi militias. The Saudi Ministry of Defense met with nearly 50 countries in Riyadh to establish a multinational maritime defense coalition, the Saudi Arabian embassy in the United States wrote in a statement...",
-        "url": "https://thehill.com/homenews/6001200-saudi-red-sea-coalition/"
+        "category": "Healthcare",
+        "summary": "The higher-dosage GLP-1 agonists largely engendered greater cardiometabolic improvements.",
+        "url": "https://thehill.com/policy/healthcare/6001317-glp-1-drugs-personalized-individuals-new-study/"
     },
     {
         "id": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
@@ -126,6 +171,24 @@
         "url": "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/07/31/next-abortion-battle-is-over-kansass-highest-court/",
+        "source": "Washington Post Politics",
+        "title": "The next abortion battle is over Kansas’s highest court",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Voters will decide whether to replace a nearly 70-year-old appointment system with direct elections that could reshape the state Supreme Court for decades.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/31/next-abortion-battle-is-over-kansass-highest-court/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
@@ -144,15 +207,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "AC Milan and Italy great Baresi dies aged 66",
@@ -162,94 +216,67 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+        "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-        "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss"
+        "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/420ea1bc-6f85-4065-ad76-61e685aa1de2?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/613cd8b0-e8c5-45d2-a7f3-184e63d82e08?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "BP puts its UK North Sea business up for sale",
+        "title": "Top Infantino adviser quits over Fifa plan to sell stake in $20bn commercial arm",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "Decision to market assets comes after talks with Ithaca Energy",
-        "url": "https://www.ft.com/content/420ea1bc-6f85-4065-ad76-61e685aa1de2?syn-25a6b1a6=1"
+        "summary": "Resignation of ex-banker Carlos Cordeiro raises pressure on Gianni Infantino who has vowed to press ahead with scheme",
+        "url": "https://www.ft.com/content/613cd8b0-e8c5-45d2-a7f3-184e63d82e08?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/e5cb0cce-c2f5-4dae-8126-a2d3e9063dde?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Rhine drought strands ships and forces German production shutdowns",
+        "title": "Spain says 49,000 migrants entered Ceuta enclave in one day",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "Water level of crucial trade river has fallen to match 2018 record low after extreme heatwaves",
-        "url": "https://www.ft.com/content/e5cb0cce-c2f5-4dae-8126-a2d3e9063dde?syn-25a6b1a6=1"
+        "summary": "Record influx into North African territory is nearly five times higher than at peak of Europe’s 2015 migration crisis",
+        "url": "https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b",
+        "id": "https://www.ft.com/content/32951d1d-5402-406b-bfaf-a490bf1bff84?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Eurozone inflation rises to 2.9% in July",
-        "publicationDate": "2026-07-31",
-        "category": "Economy",
-        "summary": "Energy shock will keep the ECB on alert ahead of September rate decision",
-        "url": "https://www.ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b"
-    },
-    {
-        "id": "https://www.ft.com/content/77847a1c-de27-4bab-b7dc-3dd57e3d3e4d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "NatWest chief resists calls for tax rises on bank",
-        "publicationDate": "2026-07-31",
-        "category": "Economy",
-        "summary": "Bumper profits from the sector fuel demands for higher UK levies",
-        "url": "https://www.ft.com/content/77847a1c-de27-4bab-b7dc-3dd57e3d3e4d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/26da67f5-e630-4552-b327-f01d45b6c7c5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Mayoral scrutiny is a pressing issue",
+        "title": "Burnham’s policy bonanza",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "As Burnham devolves power, remember much of the country lacks Manchester’s media ecosystem",
-        "url": "https://www.ft.com/content/26da67f5-e630-4552-b327-f01d45b6c7c5?syn-25a6b1a6=1"
+        "summary": "Can the new PM succeed where so many have failed?",
+        "url": "https://www.ft.com/content/32951d1d-5402-406b-bfaf-a490bf1bff84?syn-25a6b1a6=1"
     },
     {
-        "id": "IF12733",
+        "id": "https://www.ft.com/content/67db9b64-ec26-442e-8356-6c4411eba66e",
+        "source": "Financial Times World",
+        "title": "Data centres vs housing: how London became a central battleground",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "The city has become the largest hub for AI power centres across Europe, competing with homes for energy, space and water. Its priorities are being called into question",
+        "url": "https://www.ft.com/content/67db9b64-ec26-442e-8356-6c4411eba66e"
+    },
+    {
+        "id": "https://www.ft.com/content/67e045bb-76cc-404f-a04c-073411eedfc5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: The fight for football’s future",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: Citadel bails out Situational Awareness and Claude hacks three organisations",
+        "url": "https://www.ft.com/content/67e045bb-76cc-404f-a04c-073411eedfc5?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R49052",
         "source": "Congressional Research Service",
-        "title": "Extreme Heat and Climate Change",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "Scientific consensus supports a causal relationship between increasing global temperatures and the incidence of extreme heat. Extreme heat can have a range of serious consequences, with record-breaking temperatures and heatwaves occurring in recent years. For example, global temperature datasets from the National Aeronautics and Space Administration (NASA) and National Oceanic and Atmospheric Administration (NOAA)...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12733/IF12733.3.pdf"
-    },
-    {
-        "id": "IF13280",
-        "source": "Congressional Research Service",
-        "title": "The Universal Service Fund Contribution Base: Considerations for Congress",
+        "title": "A Comparison of Two Open-Source Tax Microsimulation Models",
         "publicationDate": "2026-07-30",
         "category": "Economy",
-        "summary": "Introduction The Universal Service Fund (USF), comprising four federal broadband-related programs, is funded by mandatory fees on telecommunications carriers. This funding method differs from those for other broadband programs, which are funded through appropriations. The “contribution factor”—the percentage of interstate and international telecommunications revenues that carriers pay as USF fees—has increased over...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13280/IF13280.1.pdf"
-    },
-    {
-        "id": "IF13226",
-        "source": "Congressional Research Service",
-        "title": "Seabed Mining on the U.S. Outer Continental Shelf: Recent Developments",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "As part of a national effort to secure reliable supplies of critical minerals, President Trump issued Executive Order (E.O.) 14285 of April 24, 2025, “Unleashing America’s Offshore Critical Minerals and Resources.” One potential source of offshore critical minerals is the federally managed U.S. outer continental shelf (OCS; Figure 1). The Department of the Interior (DOI) has authority under the Outer Continental...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13226/IF13226.4.pdf"
-    },
-    {
-        "id": "LSB11352",
-        "source": "Congressional Research Service",
-        "title": "Appellate Courts Divided on Scope of Title IX Liability for Schools in Cases of Sexual Harassment",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Title IX of the Education Amendments of 1972 (Title IX) prohibits sex discrimination in education programs and activities that receive federal financial assistance. Recipient schools can be liable under Title IX for an insufficient response to sexual harassment by a teacher or between students in certain circumstances. Federal appellate courts have taken diverging positions over when a school may be liable for its...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11352/LSB11352.3.pdf"
+        "summary": "CRS has recently begun using two open-source microsimulation tax models to estimate the revenue effects of changes to federal tax law: the Budget Lab at Yale’s (TBL’s) Tax-Simulator and the Policy Simulation Library’s (PSL’s) Tax-Calculator. CRS uses these models to assist congressional offices early in the legislative process during work to inform congressional deliberations on tax policy. Any estimates produced...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49052/R49052.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4983-1.html",
@@ -405,33 +432,6 @@
         "url": "https://cms.hoover.org/research/dr-scott-atlas-fauci-tried-delegitimize-and-villainize-those-opposed-him"
     },
     {
-        "id": "https://cms.hoover.org/research/orin-kerr-reviewing-courts-criminal-law",
-        "source": "Hoover Institution",
-        "title": "Orin Kerr: Reviewing The Court's Criminal Law",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "(37:10) Hoover Institution fellow Orin Kerr discusses the Supreme Court’s criminal docket: The wildcard justices picking up Chief Justice John Roberts’ pro-defense assignments, the sweeping new Fourth Amendment ruling in Chatrie v. United States, and a 1978 law review argument that the modern plea-bargaining system is the descendant of medieval torture.",
-        "url": "https://cms.hoover.org/research/orin-kerr-reviewing-courts-criminal-law"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
-        "source": "NPR Politics",
-        "title": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
-        "publicationDate": "2026-07-30",
-        "category": "Healthcare",
-        "summary": "The accusations against Dr. Anthony Fauci, once the nation's leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S.",
-        "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/30/nx-s1-5913714/trumps-attorney-general-pick-hits-resistance-from-republicans",
-        "source": "NPR Politics",
-        "title": "Trump's attorney general pick hits resistance from Republicans",
-        "publicationDate": "2026-07-30",
-        "category": "Economy",
-        "summary": "Todd Blanche's attorney general nomination has run into resistance from Republicans demanding answers about a Justice Department settlement tied to Trump's tax returns.",
-        "url": "https://www.npr.org/2026/07/30/nx-s1-5913714/trumps-attorney-general-pick-hits-resistance-from-republicans"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/in-missouri-cori-bush-and-wesley-bells-primary-rematch-sets-up-key-test-for-democrats",
         "source": "PBS NewsHour Politics",
         "title": "In Missouri, Cori Bush and Wesley Bell's primary rematch sets up key test for Democrats",
@@ -477,24 +477,6 @@
         "url": "https://www.pbs.org/newshour/show/violence-surges-in-west-bank-as-israeli-settlers-escalate-attacks-on-palestinians"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6001151-trump-announces-deal-for-hamas-to-disarm-israel-skeptical/",
-        "source": "The Hill",
-        "title": "Trump announces deal for Hamas to disarm; Israel ‘skeptical’",
-        "publicationDate": "2026-07-30",
-        "category": "Administration",
-        "summary": "President Trump on Thursday evening announced a deal for Hamas to disarm in “carefully structured phases,” which, if carried out, would address one of the main sticking points for a broader peace deal in Gaza. “This agreement is a critical step towards Gaza finally being governed by a new Palestinian government that will work closely...",
-        "url": "https://thehill.com/homenews/administration/6001151-trump-announces-deal-for-hamas-to-disarm-israel-skeptical/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6001049-ancient-cottonwood-tree-destruction/",
-        "source": "The Hill",
-        "title": "Activists climb rare Arizona cottonwood to shield it from Trump border wall construction",
-        "publicationDate": "2026-07-30",
-        "category": "Energy & Environment",
-        "summary": "Activists are protesting the construction pathway for President Trump’s border wall in Arizona because it would require the removal of an ancient cottonwood tree. A demonstrator was arrested on Wednesday for trespassing after protesting plans that would include chopping down a Fremont cottonwood tree, estimated to be 200 to 250 years old. Three similar trees...",
-        "url": "https://thehill.com/policy/energy-environment/6001049-ancient-cottonwood-tree-destruction/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/",
         "source": "Washington Post Politics",
         "title": "Trump’s claims of election interference in doubt after release of declassified intelligence",
@@ -511,6 +493,15 @@
         "category": "Other",
         "summary": "GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are leaving the Senate after this year.",
         "url": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/"
+    },
+    {
+        "id": "IN12720",
+        "source": "Congressional Research Service",
+        "title": "Reconciliation 4.0: How Many Opportunities Does Congress Have to Use Reconciliation?",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "Reconciliation legislation is unique in that it is considered under expedited parliamentary procedures that do not require the support of three-fifths of Senators to end debate, allowing the Senate to pass spending, tax, and debt limit reconciliation legislation by a simple majority vote. This makes the reconciliation process particularly attractive to the majority party, which may seek to maximize the number of...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12720/IN12720.1.pdf"
     },
     {
         "id": "R48918",
@@ -574,6 +565,15 @@
         "category": "Other",
         "summary": "The mayor had said the city might enforce a warrant against the Israeli leader, drawing Democratic criticism. On Tuesday, he urged the U.S. government to do so.",
         "url": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/"
+    },
+    {
+        "id": "R49047",
+        "source": "Congressional Research Service",
+        "title": "The Social Security Administration’s (SSA’s) FY2027 Annual LAE Appropriation: In Brief",
+        "publicationDate": "2026-07-28",
+        "category": "Economy",
+        "summary": "The Social Security Administration (SSA) is responsible for administering Social Security and Supplemental Security Income, which are the nation’s primary income support programs for older adults and individuals with disabilities. As part of its duties, SSA receives benefit applications and determines program entitlement or eligibility, holds hearings and other appeals, completes program integrity (PI) reviews of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49047/R49047.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
@@ -655,5 +655,14 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
+    },
+    {
+        "id": "R48942",
+        "source": "Congressional Research Service",
+        "title": "Yemen: In Brief",
+        "publicationDate": "2026-05-12",
+        "category": "Defense",
+        "summary": "Yemen has been politically, economically, and militarily divided for more than a decade; its slow-burning internal conflicts are at risk of reigniting amid multisided confrontations between regional and global actors. Yemen descended into conflict in 2014 prompting years of foreign military interventions, regional security disruptions, and lingering confrontations that have posed national security challenges for...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48942/R48942.3.pdf"
     }
 ]
