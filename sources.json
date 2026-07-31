@@ -1,39 +1,21 @@
 [
     {
-        "id": "IF10543",
+        "id": "IF12945",
         "source": "Congressional Research Service",
-        "title": "Defense Primer: The Department of Defense",
+        "title": "U.S. Strategic Bombers",
         "publicationDate": "2026-07-31",
         "category": "Defense",
-        "summary": "The Department of Defense (DOD) was established after World War II by the 1947 National Security Act (P.L. 80-253). At the time, some policymakers, including former President Truman, took the view that the different components of the U.S. military had been insufficiently integrated to wage World War II effectively. Congress’s stated intent was to, inter alia, “provide a Department of Defense ... under the...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10543/IF10543.14.pdf"
+        "summary": "The U.S. Air Force deploys three strategic (or heavy) bombers—the B-52, B-1B, and B-2—to carry bombs or air-to-surface missiles for conventional and nuclear missions. Bombers carry heavy ordnance loads across long distances, for extended periods of time, to strike adversary targets of tactical and strategic importance. The Air Force is developing a new B-21 strategic bomber as a next-generation stealth aircraft to...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12945/IF12945.8.pdf"
     },
     {
-        "id": "R49056",
+        "id": "IF13281",
         "source": "Congressional Research Service",
-        "title": "Reserve Component Duty Statuses: Background and Issues for Congress",
+        "title": "TrumpRx: Background and Implementation",
         "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "The Reserve Components (RCs) of the Armed Forces (the Army National Guard, Army Reserve, Navy Reserve, Marine Corps Reserve, Air National Guard, Air Force Reserve, and Coast Guard Reserve) largely consist of personnel who hold full-time civilian positions and are called to duty on a periodic basis. Reservists serve under a range of duty statuses. The status under which a reservist performs duty depends on the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49056/R49056.1.pdf"
-    },
-    {
-        "id": "R49055",
-        "source": "Congressional Research Service",
-        "title": "Federal Brownfields Program: Background and Issues for Congress",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "The Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA; 42 U.S.C. §§9601 et seq.) provides the federal framework for the cleanup of contaminated sites for which the federal government is liable for cleanup and nonfederal sites elevated for federal attention. This framework includes the authorization of the federal Brownfields program, which provides grant assistance to state, local, and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49055/R49055.1.pdf"
-    },
-    {
-        "id": "IF13217",
-        "source": "Congressional Research Service",
-        "title": "Federal Government and Anthropic: Considerations for AI Innovation and Competition",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "On February 27, 2026, President Trump directed federal agencies to stop using technology developed by the U.S. artificial intelligence (AI) company Anthropic, and Secretary of Defense Pete Hegseth announced he was directing the Department of Defense (DOD) to designate Anthropic a “Supply-Chain Risk to National Security.” (DOD and the Secretary are now using “Department of War” and “Secretary of War,” respectively,...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13217/IF13217.3.pdf"
+        "category": "Foreign Policy",
+        "summary": "Introduction On February 5, 2026, the Trump Administration officially launched TrumpRx, a website that compiles discounts on brand-name and generic drugs through partnerships with drug manufacturers and direct-to-consumer (DTC) pharmacies. Since the launch, Congress has examined the website’s operations, the types of drugs available, consumer access to the advertised prices, and the impact on prescription drug...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13281/IF13281.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
@@ -90,13 +72,40 @@
         "url": "https://www.heritage.org/china/report/chinas-south-pacific-missile-test-strategic-signaling-and-regional-consequences"
     },
     {
-        "id": "https://cms.hoover.org/publications/freedom-frequency",
+        "id": "https://www.hudson.org/national-security-defense/abes-final-victory-japans-defense-revolution-end-postwar-pacifism-miles-yu",
+        "source": "Hudson Institute",
+        "title": "Abe’s Final Victory: Japan’s Defense Revolution and the End of Postwar Pacifism",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "Abe’s Final Victory: Japan’s Defense Revolution and the End of Postwar Pacifism tbragg@hudson.org Fri, 07/31/2026 - 13:16 SVG Commentary Jul 31, 2026 Hoover Institution Abe’s Final Victory: Japan’s Defense Revolution and the End of Postwar Pacifism Miles Yu Senior Fellow and Director, China Center Miles Yu Commentary Caption Former Japanese Prime Minister Shinzo Abe speaks at a news conference on May 25, 2020, in...",
+        "url": "https://www.hudson.org/national-security-defense/abes-final-victory-japans-defense-revolution-end-postwar-pacifism-miles-yu"
+    },
+    {
+        "id": "https://www.hudson.org/national-security-defense/caspian-sea-security-luke-coffey",
+        "source": "Hudson Institute",
+        "title": "Caspian Sea Security",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "Caspian Sea Security tbragg@hudson.org Fri, 07/31/2026 - 12:47 SVG Commentary Jul 31, 2026 Caspian Policy Center Caspian Sea Security Luke Coffey Senior Fellow, Center on Europe and Eurasia Luke Coffey Commentary Caption Warships from Azerbaijan and Iran take part in joint naval exercises in the Caspian Sea near Baku, Azerbaijan, on November 4, 2024. (Getty Images) Toggle Table of Contents Contents Contents Share...",
+        "url": "https://www.hudson.org/national-security-defense/caspian-sea-security-luke-coffey"
+    },
+    {
+        "id": "https://cms.hoover.org/node/390941",
         "source": "Hoover Institution",
-        "title": "Freedom Frequency",
+        "title": "VFP at Five",
         "publicationDate": "2026-07-31",
         "category": "Other",
         "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/publications/freedom-frequency"
+        "url": "https://cms.hoover.org/node/390941"
+    },
+    {
+        "id": "https://cms.hoover.org/research/world-trade-organization-path-renewal",
+        "source": "Hoover Institution",
+        "title": "The World Trade Organization: A Path To Renewal",
+        "publicationDate": "2026-07-31",
+        "category": "Economy",
+        "summary": "Its economic logic endures. But keeping the benefits of a global economy also calls for new models of cooperation.",
+        "url": "https://cms.hoover.org/research/world-trade-organization-path-renewal"
     },
     {
         "id": "https://cms.hoover.org/research/scripting-endgame-russia-ukraine-war",
@@ -124,15 +133,6 @@
         "category": "Technology",
         "summary": "Outer space isn’t as empty as you might imagine – especially the low-orbiting space around Planet Earth heavily populated by orbiting satellites and space debris. Hoover Institution science fellow Simone D’Amico discusses how to make the “space highway” safer, more secure, and its platforms more sustainable.",
         "url": "https://cms.hoover.org/research/space-safety-first-simone-damico-safeguarding-earths-lower-orbit"
-    },
-    {
-        "id": "https://cms.hoover.org/research/minorities-new-syrian-order",
-        "source": "Hoover Institution",
-        "title": "Minorities in the New Syrian Order",
-        "publicationDate": "2026-07-31",
-        "category": "Foreign Policy",
-        "summary": "For international policymakers and audiences, one of the foremost concerns regarding the post-Assad order in Syria is the status of the country's minorities and how they fit into this order.",
-        "url": "https://cms.hoover.org/research/minorities-new-syrian-order"
     },
     {
         "id": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
@@ -189,6 +189,15 @@
         "url": "https://www.npr.org/2026/07/31/nx-s1-5913739/former-sen-flake-on-what-gop-objections-over-blanches-nomination-means-for-trump"
     },
     {
+        "id": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+        "source": "NPR Politics",
+        "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
+        "publicationDate": "2026-07-31",
+        "category": "Healthcare",
+        "summary": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms"
+    },
+    {
         "id": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
         "source": "NPR Politics",
         "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
@@ -196,15 +205,6 @@
         "category": "Other",
         "summary": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
         "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-        "source": "NPR Politics",
-        "title": "Democrats show divisions on Israel amid competitive midterm elections",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza.",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/who-is-kathryn-ruemmler-former-obama-white-house-attorney-interviewed-about-epstein-emails",
@@ -234,49 +234,67 @@
         "url": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-cabinet-meeting-at-camp-david"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6002807-van-hollen-declines-to-say-schumer-endorsement/",
+        "id": "https://thehill.com/policy/technology/6003009-george-santos-cftc-settlement/",
         "source": "The Hill",
-        "title": "Senate Democrat declines to say whether Schumer should continue in leadership post",
+        "title": "George Santos settles with CFTC over Kalshi bets",
         "publicationDate": "2026-07-31",
-        "category": "Senate",
-        "summary": "Sen. Chris Van Hollen (D-Md.) declined to say Thursday whether he would support Senate Minority Leader Chuck Schumer (D-N.Y.) for continued Democratic leadership in the Senate. In an interview with CNN’s Kaitlan Collins, Van Hollen said he was “focused on the 2026 elections.” A Politico poll from June detailed that 47 percent of people who...",
-        "url": "https://thehill.com/homenews/senate/6002807-van-hollen-declines-to-say-schumer-endorsement/"
+        "category": "Technology",
+        "summary": "Former Rep. George Santos (R-N.Y.) has agreed to pay $35,000 to settle with the Commodity Futures Trading Commission (CFTC) over wagers he placed on the State of the Union earlier this year on Kalshi, the agency announced Friday. Santos placed bets on whether he would attend President Trump's address in February, while also posting on...",
+        "url": "https://thehill.com/policy/technology/6003009-george-santos-cftc-settlement/"
     },
     {
-        "id": "https://thehill.com/policy/defense/6002796-marine-corps-jet-crash-san-diego/",
+        "id": "https://thehill.com/homenews/administration/6003015-trump-appeals-irs-lawsuit-ruling/",
         "source": "The Hill",
-        "title": "F-35 fighter jet crashes near San Diego",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "A U.S. Marine Corps F-35 stealth fighter jet crashed at Marine Corps Air Station Miramar in San Diego, Calif., on Friday. Marine officials confirmed to The Hill that it was an F-35 “aircraft mishap” in the vicinity of MCAS Miramar. The pilot ejected, was recovered and is en route to a medical facility, officials said. It...",
-        "url": "https://thehill.com/policy/defense/6002796-marine-corps-jet-crash-san-diego/"
-    },
-    {
-        "id": "https://thehill.com/homenews/media/6002631-tony-romo-cbs-sports-suspension-owi-arrest-wisconsin/",
-        "source": "The Hill",
-        "title": "Tony Romo on leave from CBS Sports after arrest in Wisconsin",
-        "publicationDate": "2026-07-31",
-        "category": "Media",
-        "summary": "Romo, 46, was arrested last week on suspicion of operating a vehicle while under the influence.",
-        "url": "https://thehill.com/homenews/media/6002631-tony-romo-cbs-sports-suspension-owi-arrest-wisconsin/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6002597-ice-arrest-baltimore-johns-hopkins-professor-overstayed-visa/",
-        "source": "The Hill",
-        "title": "ICE arrests Johns Hopkins migrant researcher at Baltimore airport",
+        "title": "Trump appeals ruling finding he colluded with DOJ in $10B IRS suit",
         "publicationDate": "2026-07-31",
         "category": "Administration",
-        "summary": "Johns Hopkins officials say they are deeply concerned about the university employee was arrested during a personal trip",
-        "url": "https://thehill.com/homenews/administration/6002597-ice-arrest-baltimore-johns-hopkins-professor-overstayed-visa/"
+        "summary": "The Trump administration on Friday appealed a ruling from a federal judge in Florida who found the president effectively colluded with his own government in bringing a $10 billion suit against the Internal Revenue Service. That suit, which the Justice Department pointed to as the basis for creating its $1.776 billion anti-weaponization fund, was highly...",
+        "url": "https://thehill.com/homenews/administration/6003015-trump-appeals-irs-lawsuit-ruling/"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6002665-iran-targeted-minnesota-water-attacks/",
+        "id": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/",
         "source": "The Hill",
-        "title": "Cybersecurity expert: 'Moderate confidence' Iran attacked Minnesota water facilities",
+        "title": "Live updates: Trump laments Blanche caught in fight over IRS deal, says Iran didn't cause Minnesota cyberattack",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "President Trump and his Cabinet are gathered at Camp David for their 13th Cabinet meeting of his second term. Among the new faces at the table are Jay Clayton, incoming director of national intelligence, and Keith Sonderling, secretary of Labor. In questions with reporters, Trump lambasted the Senate, specifically Sen. John Cornyn (R-Texas), for not...",
+        "url": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6002876-foxs-dana-perino-grills-wisconsin-gubernatorial-candidate-francesca-hong-over-democratic-socialism/",
+        "source": "The Hill",
+        "title": "Fox's Dana Perino grills Wisconsin gubernatorial candidate Francesca Hong over democratic socialism",
+        "publicationDate": "2026-07-31",
+        "category": "Campaign",
+        "summary": "Fox News anchor Dana Perino on Friday pressed Francesca Hong, the Democratic primary front-runner in the Wisconsin governor's race, over her association with the Democratic Socialists of America (DSA) and past comments about law enforcement. In social media posts in 2020, the gubernatorial candidate called to “defund the police” and stated that she supported defunding...",
+        "url": "https://thehill.com/homenews/campaign/6002876-foxs-dana-perino-grills-wisconsin-gubernatorial-candidate-francesca-hong-over-democratic-socialism/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6002858-trump-blames-minnesota-for-cyberattacks-iran/",
+        "source": "The Hill",
+        "title": "Trump pooh-poohs Iran’s potential role in Minnesota water facility hacks",
         "publicationDate": "2026-07-31",
         "category": "Foreign Policy",
-        "summary": "National Center for Open and Unsolved Cases founder Morgan Wright said Thursday that there is “at least moderate confidence” that Iran is behind recent cybersecurity attacks on water facilities across Minnesota. “You know, there was an alert that was put out four days before this describing that they believed Iran was going to launch an...",
-        "url": "https://thehill.com/homenews/state-watch/6002665-iran-targeted-minnesota-water-attacks/"
+        "summary": "President Trump said Friday he doesn’t believe Iran was behind a cyberattack on Minnesota water systems and instead placed the blame on state officials for being “grossly incompetent.” His comments ran counter to reports that U.S. officials suspected Iranian involvement in the coordinated attack on 30 municipal water systems, according to a preliminary assessment shared...",
+        "url": "https://thehill.com/homenews/administration/6002858-trump-blames-minnesota-for-cyberattacks-iran/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html",
+        "source": "New York Times Politics",
+        "title": "Trump Administration Plans to Upend Head Start by Deregulating It",
+        "publicationDate": "2026-07-31",
+        "category": "Healthcare",
+        "summary": "The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.",
+        "url": "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html",
+        "source": "New York Times Politics",
+        "title": "Trump Blames Minnesota, Not Iran, for Cyberattack, Despite Initial Investigation",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "President Trump claimed without evidence that Minnesota’s Democratic government was “behind” a cyberattack on the state’s own water systems. Investigators believe Iran is likely responsible.",
+        "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html",
@@ -302,26 +320,8 @@
         "title": "State Dept. to Release 250,000 More Trump Passports With His Portrait",
         "publicationDate": "2026-07-31",
         "category": "United States Politics and Government",
-        "summary": "An additional 250,000 commemorative passports, featuring a portrait of President Trump and intended to honor the nation’s 250th anniversary, will be made available at in-person events.",
+        "summary": "An additional 250,000 commemorative passports, featuring a portrait of President Trump and intended to honor the nation’s 250th anniversary, will be available at in-person events.",
         "url": "https://www.nytimes.com/2026/07/31/travel/trump-passports-usa-250th-anniversary.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
-        "source": "New York Times Politics",
-        "title": "Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "Iran sent military aid to Russia for its war against Ukraine. Now the question is whether that conflict and the U.S.-Israeli war against Iran are converging.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/minnesota-ice-immigration-protests-justice-department-lemon-fort.html",
-        "source": "New York Times Politics",
-        "title": "Missteps Mount in Justice Dept.’s Case Against Minnesota Anti-ICE Protesters",
-        "publicationDate": "2026-07-31",
-        "category": "Demonstrations",
-        "summary": "The problems plaguing the case have not only hurt the government’s chances, lawyers say, but have also undermined the bonds of trust that prosecutors have traditionally enjoyed in court.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/minnesota-ice-immigration-protests-justice-department-lemon-fort.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/",
@@ -347,7 +347,7 @@
         "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+        "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
         "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -362,10 +362,10 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+        "title": "Body of US climber the latest recovered after Pakistan avalanche",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
+        "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
         "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -387,6 +387,42 @@
         "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/664f7b45-d92a-44c4-9824-9008001e887e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "KKR nears over $4bn deal to buy medical device maker Integer Holdings",
+        "publicationDate": "2026-07-31",
+        "category": "Healthcare",
+        "summary": "Healthcare company has been targeted by activist hedge fund established by an Elliott Management alumnus",
+        "url": "https://www.ft.com/content/664f7b45-d92a-44c4-9824-9008001e887e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US Treasury warns banks it may intervene in yen",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Move comes amid speculation Tokyo intervened to support the currency",
+        "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/06b7545b-94a0-4a5d-9c21-0c7852771b41?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Google Earth AI tool pulled after spate of fake satellite images",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Security experts say generative tools risk eroding trust in satellite images used to verify conflict damage and incidents",
+        "url": "https://www.ft.com/content/06b7545b-94a0-4a5d-9c21-0c7852771b41?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How 60,000 people swam to Spanish territory",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Migrants spent days preparing to reach the Spanish enclave of Ceuta from neighbouring Morocco",
+        "url": "https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/71f9031c-71a4-4e1b-ab25-216ff34dc87d?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Healey looks for fiscal buffer in October’s UK Budget",
@@ -396,49 +432,22 @@
         "url": "https://www.ft.com/content/71f9031c-71a4-4e1b-ab25-216ff34dc87d?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Manager of AI hedge fund Situational Awareness tells investors he will learn from ‘very expensive scars’",
-        "url": "https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/613cd8b0-e8c5-45d2-a7f3-184e63d82e08?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Fifa insiders turn on Infantino over controversial $20bn investment plan",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Interventions by two senior officials deepen crisis over president’s plan to create new commercial venture and sell 20% stake",
-        "url": "https://www.ft.com/content/613cd8b0-e8c5-45d2-a7f3-184e63d82e08?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Spain’s prime minister condemns influx of 60,000 migrants",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Mass arrival at enclave of Ceuta is ‘violation of . . . territorial integrity’, says Pedro Sánchez",
-        "url": "https://www.ft.com/content/34917d6f-c8ec-4e13-890a-4d8475806bb7?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/f02ce02b-fa33-49ad-b8c7-81ab5cec3de0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "NXP in talks to buy $3bn-plus designer of camera chips for self-driving cars",
-        "publicationDate": "2026-07-31",
-        "category": "Technology",
-        "summary": "Deal would land amid consolidation wave sweeping semiconductors as they position for AI revolution",
-        "url": "https://www.ft.com/content/f02ce02b-fa33-49ad-b8c7-81ab5cec3de0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "R49049",
+        "id": "R48956",
         "source": "Congressional Research Service",
-        "title": "Legislative Branch: FY2027 Appropriations",
+        "title": "National Security, Department of State, and Related Programs: FY2027 Budget and Appropriations",
         "publicationDate": "2026-07-30",
         "category": "Economy",
-        "summary": "The legislative branch appropriations bill provides funding for the Senate; House of Representatives; Joint Items; Capitol Police; Office of Congressional Workplace Rights; Congressional Budget Office; Architect of the Capitol; Library of Congress, including the Congressional Research Service; Government Publishing Office; Government Accountability Office; Congressional Office for International Leadership; and John...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49049/R49049.2.pdf"
+        "summary": "Congress typically considers 12 distinct appropriations measures on an annual basis to fund federal programs and activities. Between FY2008 and FY2025, one of these measures was the Department of State, Foreign Operations, and Related Programs (SFOPS) appropriations. Beginning in FY2026, Congress retitled this measure as the National Security, Department of State, and Related Programs (NSRP) appropriations. The...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48956/R48956.4.pdf"
+    },
+    {
+        "id": "IF13226",
+        "source": "Congressional Research Service",
+        "title": "Seabed Mining on the U.S. Outer Continental Shelf: Recent Developments",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "As part of a national effort to secure reliable supplies of critical minerals, President Trump issued Executive Order (EO) 14285 of April 24, 2025, “Unleashing America’s Offshore Critical Minerals and Resources.” One potential source of offshore critical minerals is the federally managed U.S. outer continental shelf (OCS; Figure 1). The Department of the Interior (DOI) has authority under the Outer Continental...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13226/IF13226.5.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4983-1.html",
@@ -538,24 +547,6 @@
         "category": "Defense",
         "summary": "What’s Trump’s Next Move with Iran? acabral-sanche… Thu, 07/30/2026 - 11:37 SVG Podcast Jul 29, 2026 Allen Jackson Now What’s Trump’s Next Move with Iran? Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs Podcast Caption (Screenshot via Youtube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn...",
         "url": "https://www.hudson.org/foreign-policy/whats-trumps-next-move-iran-rebeccah-heinrichs"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/what-did-netanyahu-get-trump-michael-doran",
-        "source": "Hudson Institute",
-        "title": "What Did Netanyahu Get from Trump?",
-        "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "What Did Netanyahu Get from Trump? acabral-sanche… Thu, 07/30/2026 - 11:03 SVG Podcast Jul 29, 2026 Israel Update What Did Netanyahu Get from Trump? Michael Doran Senior Fellow and Director, Center for Peace and Security in the Middle East Michael Doran Podcast Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn...",
-        "url": "https://www.hudson.org/foreign-policy/what-did-netanyahu-get-trump-michael-doran"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/crucial-caveat-trumps-saudi-nuclear-deal-intended-cut-china-russia-out-middle-east-zineb-riboua",
-        "source": "Hudson Institute",
-        "title": "Crucial Caveat in Trump’s Saudi Nuclear Deal Intended to Cut China, Russia out of the Middle East for Decades",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "Crucial Caveat in Trump’s Saudi Nuclear Deal Intended to Cut China, Russia out of the Middle East for Decades acabral-sanche… Thu, 07/30/2026 - 10:45 SVG Commentary Jul 30, 2026 News24 Crucial Caveat in Trump’s Saudi Nuclear Deal Intended to Cut China, Russia out of the Middle East for Decades Zineb Riboua Research Fellow, Center for Peace and Security in the Middle East Zineb Riboua Commentary Caption President...",
-        "url": "https://www.hudson.org/foreign-policy/crucial-caveat-trumps-saudi-nuclear-deal-intended-cut-china-russia-out-middle-east-zineb-riboua"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/in-missouri-cori-bush-and-wesley-bells-primary-rematch-sets-up-key-test-for-democrats",
@@ -664,5 +655,14 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
+    },
+    {
+        "id": "IF11175",
+        "source": "Congressional Research Service",
+        "title": "U.S.-Mexico Trade Relations",
+        "publicationDate": "2026-05-18",
+        "category": "Defense",
+        "summary": "The 119th Congress is engaged in a range of legislative and oversight activities related to trade policy toward Mexico, which in 2025 was the largest U.S. trading partner in total trade (exports plus imports) of goods and services. Mexico’s proximity to the United States and the extensive bilateral trade and investment relationship under the North American Free Trade Agreement (NAFTA) and its successor, the...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11175/IF11175.15.pdf"
     }
 ]
