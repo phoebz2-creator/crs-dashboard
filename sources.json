@@ -1,5 +1,122 @@
 [
     {
+        "id": "https://thehill.com/policy/technology/6001184-claude-models-anthropic-security-breach/",
+        "source": "The Hill",
+        "title": "Anthropic says Claude models 'gained unauthorized access' to 3 companies during cyber test",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "Editor's Note: This story has been updated to reflect how Anthropic accessed different organizations. The artificial intelligence firm Anthropic revealed Thursday its Claude model accessed the systems of three different organizations during cybersecurity testing in recent months. Anthropic said in a blog post Thursday evening it reviewed more than 141,000 evaluations of Claude after one of...",
+        "url": "https://thehill.com/policy/technology/6001184-claude-models-anthropic-security-breach/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6001200-saudi-red-sea-coalition/",
+        "source": "The Hill",
+        "title": "Saudi Arabia forms Red Sea defense coalition to protect against Houthi attacks",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "Saudi Arabia is building an international coalition to protect key shipping routes that transport Saudi oil exports from repeated attacks by Yemeni Houthi militias. The Saudi Ministry of Defense met with nearly 50 countries in Riyadh to establish a multinational maritime defense coalition, the Saudi Arabian embassy in the United States wrote in a statement...",
+        "url": "https://thehill.com/homenews/6001200-saudi-red-sea-coalition/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html",
+        "source": "New York Times Politics",
+        "title": "What We Know About Dr. Fauci Pleading the Fifth in Senate Hearing on Covid Origins",
+        "publicationDate": "2026-07-31",
+        "category": "United States Politics and Government",
+        "summary": "In a three-hour Senate hearing this week, Dr. Fauci invoked his constitutional right to stay silent, leaving people confused about many of the issues raised.",
+        "url": "https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html",
+        "source": "New York Times Politics",
+        "title": "What Is the Board of Peace? The Trump-Backed Group, Explained.",
+        "publicationDate": "2026-07-31",
+        "category": "Foreign Policy",
+        "summary": "President Trump created the international organization, aimed at resolving the long-running war in Gaza and other conflicts.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/what-is-the-board-of-peace.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/kennedy-center-tours.html",
+        "source": "New York Times Politics",
+        "title": "Kennedy Center Halts Free Public Tours After Five Decades of Service",
+        "publicationDate": "2026-07-31",
+        "category": "United States Politics and Government",
+        "summary": "The decision to suspend tours indefinitely came after a volunteer tour guide was featured in a Times article detailing President Trump’s dramatic revamp of the Kennedy Center.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/kennedy-center-tours.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html",
+        "source": "New York Times Politics",
+        "title": "Defying Trump, Cornyn Uses His Lame-Duck Power",
+        "publicationDate": "2026-07-31",
+        "category": "United States Politics and Government",
+        "summary": "In standing in the way of Todd Blanche, President Trump’s choice for attorney general, a liberated Senator John Cornyn is wielding his leverage.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/30/us/politics/trump-gaza-peace-board-hamas.html",
+        "source": "New York Times Politics",
+        "title": "Trump Claims Peace Board Has Plan for Gaza Disarmament",
+        "publicationDate": "2026-07-31",
+        "category": "United States Politics and Government",
+        "summary": "There was no immediate comment from Hamas or Israel, and officials gave few details on the plan.",
+        "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-gaza-peace-board-hamas.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+        "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+        "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+        "publicationDate": "2026-07-31",
+        "category": "Technology",
+        "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/e4cec5e1-a4e9-449b-a411-da1c025af2e8?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Donald Trump says Hamas has agreed to disarm over time",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "US president claims Board of Peace reached breakthrough in Gaza talks",
+        "url": "https://www.ft.com/content/e4cec5e1-a4e9-449b-a411-da1c025af2e8?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "The $20bn hedge fund manager’s wild ride ended with a call to Ken Griffin",
+        "url": "https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/cfe05113-3565-4497-bd24-c1d93311b032?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Chinese student high-flyers set sights on police and military academies",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "Weak economy boosts appeal of institutions that can offer more secure job prospects than even top-tier universities",
+        "url": "https://www.ft.com/content/cfe05113-3565-4497-bd24-c1d93311b032?syn-25a6b1a6=1"
+    },
+    {
         "id": "R49052",
         "source": "Congressional Research Service",
         "title": "A Comparison of Two Open-Source Tax Microsimulation Models",
@@ -135,13 +252,49 @@
         "url": "https://www.hudson.org/foreign-policy/crucial-caveat-trumps-saudi-nuclear-deal-intended-cut-china-russia-out-middle-east-zineb-riboua"
     },
     {
-        "id": "https://cms.hoover.org/research/immigration",
+        "id": "https://cms.hoover.org/node/390906",
         "source": "Hoover Institution",
-        "title": "Immigration",
+        "title": "Tom Siebel on Only in America",
         "publicationDate": "2026-07-30",
         "category": "Other",
         "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/research/immigration"
+        "url": "https://cms.hoover.org/node/390906"
+    },
+    {
+        "id": "https://cms.hoover.org/research/glenn-loury-did-dei-break-colleges",
+        "source": "Hoover Institution",
+        "title": "Glenn Loury: Did DEI Break Colleges?",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Glenn Loury talks about race, opportunity and ideological diversity in American life. Loury discusses the decline of the Black Lives Matter era, affirmative action after the Supreme Court’s ruling, why more Black men have supported Donald Trump, the political backlash facing higher education and whether government pressure on universities threatens academic freedom.",
+        "url": "https://cms.hoover.org/research/glenn-loury-did-dei-break-colleges"
+    },
+    {
+        "id": "https://cms.hoover.org/research/dr-scott-atlas-fauci-tried-delegitimize-and-villainize-those-opposed-him",
+        "source": "Hoover Institution",
+        "title": "Dr. Scott Atlas: Fauci Tried To 'Delegitimize And Villainize' Those Opposed To Him",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Dr. Scott Atlas discusses Dr. Anthony Fauci facing questioning at a Senate hearing regarding COVID-19 origins, mandates and personal earnings, even though Fauci invoked the Fifth Amendment 111 times, refusing to answer key inquiries.",
+        "url": "https://cms.hoover.org/research/dr-scott-atlas-fauci-tried-delegitimize-and-villainize-those-opposed-him"
+    },
+    {
+        "id": "https://cms.hoover.org/research/orin-kerr-reviewing-courts-criminal-law",
+        "source": "Hoover Institution",
+        "title": "Orin Kerr: Reviewing The Court's Criminal Law",
+        "publicationDate": "2026-07-30",
+        "category": "Defense",
+        "summary": "(37:10) Hoover Institution fellow Orin Kerr discusses the Supreme Court’s criminal docket: The wildcard justices picking up Chief Justice John Roberts’ pro-defense assignments, the sweeping new Fourth Amendment ruling in Chatrie v. United States, and a 1978 law review argument that the modern plea-bargaining system is the descendant of medieval torture.",
+        "url": "https://cms.hoover.org/research/orin-kerr-reviewing-courts-criminal-law"
+    },
+    {
+        "id": "https://cms.hoover.org/research/dr-scott-atlas-responds-dr-faucis-senate-hearing",
+        "source": "Hoover Institution",
+        "title": "Dr. Scott Atlas Responds To Dr. Fauci's Senate Hearing",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Dr. Scott Atlas responds to Dr. Anthony Fauci’s decision to plead the 5th Amendment while refusing to answer any questions at Wednesday’s COVID-19 Homeland Security Senate hearing.",
+        "url": "https://cms.hoover.org/research/dr-scott-atlas-responds-dr-faucis-senate-hearing"
     },
     {
         "id": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
@@ -189,6 +342,15 @@
         "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/in-missouri-cori-bush-and-wesley-bells-primary-rematch-sets-up-key-test-for-democrats",
+        "source": "PBS NewsHour Politics",
+        "title": "In Missouri, Cori Bush and Wesley Bell's primary rematch sets up key test for Democrats",
+        "publicationDate": "2026-07-30",
+        "category": "cori bush",
+        "summary": "A progressive firebrand who started her political career as a Black Lives Matter organizer in Ferguson, Bush served two terms before losing a primary challenge to Wesley Bell, a moderate local prosecutor.",
+        "url": "https://www.pbs.org/newshour/politics/in-missouri-cori-bush-and-wesley-bells-primary-rematch-sets-up-key-test-for-democrats"
+    },
+    {
         "id": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
         "source": "PBS NewsHour Politics",
         "title": "How shipping risks from Ukraine and Iran wars are converging",
@@ -198,130 +360,58 @@
         "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/missouri-couple-murdered-in-guatemala-after-husband-was-deported",
+        "id": "https://www.pbs.org/newshour/show/blanches-ag-nomination-on-hold-over-opposition-to-dojs-anti-weaponization-fund",
         "source": "PBS NewsHour Politics",
-        "title": "Missouri couple murdered in Guatemala after husband was deported",
+        "title": "Blanche's AG nomination on hold over opposition to DOJ's 'anti-weaponization fund'",
         "publicationDate": "2026-07-30",
-        "category": "Other",
+        "category": "attorney general",
         "summary": "Acting Attorney General Todd Blanche's nomination to lead the Department of Justice full-time is in limbo. Two Republican senators, John Cornyn of Texas and Thom Tillis of North Carolina, say they will oppose Blanche's nomination unless the DOJ kills a $1.8 billion fund to provide payments to people who believe they have been wrongfully prosecuted. Geoff Bennett discussed more with Devlin Barrett.",
-        "url": "https://www.pbs.org/newshour/show/missouri-couple-murdered-in-guatemala-after-husband-was-deported"
+        "url": "https://www.pbs.org/newshour/show/blanches-ag-nomination-on-hold-over-opposition-to-dojs-anti-weaponization-fund"
     },
     {
         "id": "https://www.pbs.org/newshour/show/missouri-couple-murdered-in-guatemala-after-husband-was-deported-2",
         "source": "PBS NewsHour Politics",
         "title": "Missouri couple murdered in Guatemala after husband was deported",
         "publicationDate": "2026-07-30",
-        "category": "Other",
+        "category": "deportations",
         "summary": "A Missouri couple who had illegally immigrated to the United States was killed in Guatemala after the husband was deported and the wife self-deported. Now two communities in two countries are reeling and searching for answers. Lisa Desjardins discussed more with Brian Munoz of St. Louis Public Radio, who broke this story.",
         "url": "https://www.pbs.org/newshour/show/missouri-couple-murdered-in-guatemala-after-husband-was-deported-2"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/how-views-on-trumps-handling-of-iran-have-shifted-according-to-this-poll",
+        "id": "https://www.pbs.org/newshour/show/violence-surges-in-west-bank-as-israeli-settlers-escalate-attacks-on-palestinians",
         "source": "PBS NewsHour Politics",
-        "title": "How views on Trump's handling of Iran have shifted, according to this poll",
+        "title": "Violence surges in West Bank as Israeli settlers escalate attacks on Palestinians",
         "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "Most Americans say the war in Iran has not been worth fighting, and President Donald Trump's approval rating on Iran has fallen slightly since last month, according to a new AP-NORC poll.",
-        "url": "https://www.pbs.org/newshour/politics/how-views-on-trumps-handling-of-iran-have-shifted-according-to-this-poll"
+        "category": "Israel",
+        "summary": "Violence surged in the West Bank this past weekend when Palestinians say Israeli settlers burned two mosques following deadly clashes. The UN accuses Israeli settlers of increasing their attacks and footprint in the West Bank, the land that Palestinians hope will be their future state. Israel says it is Palestinians committing the violence. Producer Karl Bostic and Nick Schifirn report.",
+        "url": "https://www.pbs.org/newshour/show/violence-surges-in-west-bank-as-israeli-settlers-escalate-attacks-on-palestinians"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/trumps-attacks-on-mail-balloting-and-concerns-over-delays-turn-midterms-spotlight-on-postal-service",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump's attacks on mail balloting and concerns over delays turn midterms spotlight on Postal Service",
-        "publicationDate": "2026-07-30",
-        "category": "Donald Trump news",
-        "summary": "Roughly six weeks before the first midterm ballots are mailed out, the U.S. Postal Service is emerging as a pivotal player in an election season that will determine control of Congress.",
-        "url": "https://www.pbs.org/newshour/politics/trumps-attacks-on-mail-balloting-and-concerns-over-delays-turn-midterms-spotlight-on-postal-service"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6001075-wi-governor-primary-ballot-ruling/",
+        "id": "https://thehill.com/homenews/administration/6001151-trump-announces-deal-for-hamas-to-disarm-israel-skeptical/",
         "source": "The Hill",
-        "title": "Judge rules Wisconsin voters can't recast ballots after governor race shakeup",
-        "publicationDate": "2026-07-30",
-        "category": "Campaign",
-        "summary": "A Dane County Circuit Judge ruled Wednesday that Wisconsin voters cannot request new ballots for the Democratic primary in the governor’s race following a string of candidates dropping out or reentering the race in the closing weeks. Judge David Conway’s ruling ended a lawsuit by the state’s Democratic Party against the Wisconsin Elections Commission (WEC)...",
-        "url": "https://thehill.com/homenews/campaign/6001075-wi-governor-primary-ballot-ruling/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6001060-state-department-expands-patriot-passport/",
-        "source": "The Hill",
-        "title": "'Patriot' passports with Trump's image expanding across US",
+        "title": "Trump announces deal for Hamas to disarm; Israel ‘skeptical’",
         "publicationDate": "2026-07-30",
         "category": "Administration",
-        "summary": "The State Department on Thursday announced it is expanding access to the new U.S. passport featuring President Trump’s likeness. In a release, the department said it is making an additional 250,000 copies of the commemorative “Patriot Passport” available “in response to overwhelming demand” from the public. Americans had previously only been able to receive the...",
-        "url": "https://thehill.com/homenews/administration/6001060-state-department-expands-patriot-passport/"
+        "summary": "President Trump on Thursday evening announced a deal for Hamas to disarm in “carefully structured phases,” which, if carried out, would address one of the main sticking points for a broader peace deal in Gaza. “This agreement is a critical step towards Gaza finally being governed by a new Palestinian government that will work closely...",
+        "url": "https://thehill.com/homenews/administration/6001151-trump-announces-deal-for-hamas-to-disarm-israel-skeptical/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6000726-gop-blanche-nomination-cornyn-tillis/",
+        "id": "https://thehill.com/policy/energy-environment/6001049-ancient-cottonwood-tree-destruction/",
         "source": "The Hill",
-        "title": "Senate 'YOLO Caucus' bucks Trump on Blanche: What to know",
+        "title": "Activists climb rare Arizona cottonwood to shield it from Trump border wall construction",
         "publicationDate": "2026-07-30",
-        "category": "Senate",
-        "summary": "President Trump’s pick for the next U.S. attorney general is on shaky ground as two GOP lawmakers on the Senate Judiciary Committee demand a written guarantee that a proposed Justice Department \"anti-weaponization\" fund is dead. A \"no\" vote in committee from either Sen. John Cornyn (R-Texas) or Sen. Thom Tillis (R-N.C.) could block acting Attorney...",
-        "url": "https://thehill.com/homenews/senate/6000726-gop-blanche-nomination-cornyn-tillis/"
+        "category": "Energy & Environment",
+        "summary": "Activists are protesting the construction pathway for President Trump’s border wall in Arizona because it would require the removal of an ancient cottonwood tree. A demonstrator was arrested on Wednesday for trespassing after protesting plans that would include chopping down a Fremont cottonwood tree, estimated to be 200 to 250 years old. Three similar trees...",
+        "url": "https://thehill.com/policy/energy-environment/6001049-ancient-cottonwood-tree-destruction/"
     },
     {
-        "id": "https://thehill.com/newsletters/technology/6000958-commerce-takes-new-equity-stakes-in-seven-firms/",
+        "id": "https://thehill.com/newsletters/healthcare/6001127-trumps-cdc-aspr-nominees-advance-out-of-senate-committee/",
         "source": "The Hill",
-        "title": "Commerce takes new equity stakes in 7 firms",
+        "title": "Trump's CDC, ASPR nominees advance out of Senate committee",
         "publicationDate": "2026-07-30",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story Commerce takes new equity stakes in 7 firms The Department of Commerce quietly announced this week it will designate more than $870 million in federal incentives for semiconductor manufacturing in exchange for a minority equity stake in seven companies. © Greg Nash In a blog post Wednesday, the...",
-        "url": "https://thehill.com/newsletters/technology/6000958-commerce-takes-new-equity-stakes-in-seven-firms/"
-    },
-    {
-        "id": "https://thehill.com/homenews/6000956-iowa-senate-candidate-turek-schumer/",
-        "source": "The Hill",
-        "title": "Turek declines to say he'd back Schumer",
-        "publicationDate": "2026-07-30",
-        "category": "Campaign",
-        "summary": "Iowa state Rep. Josh Turek (D) declined to answer whether he would support Senate Minority Leader Chuck Schumer (D-N.Y.) to lead Democrats in the next Congress as midterms come closer. In a Wednesday interview with former White House press secretary Jen Psaki on MS NOW, Turek did not answer whether he would support Schumer’s leadership...",
-        "url": "https://thehill.com/homenews/6000956-iowa-senate-candidate-turek-schumer/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/us/politics/appeals-courts-immigrant-detention-policy.html",
-        "source": "New York Times Politics",
-        "title": "Two More Appeals Courts Rule Against Trump’s Detention Policy",
-        "publicationDate": "2026-07-30",
-        "category": "Decisions and Verdicts",
-        "summary": "The rulings deepen a split across the judiciary, making it more likely that the Supreme Court will consider the legality of detaining undocumented immigrants indefinitely.",
-        "url": "https://www.nytimes.com/2026/07/30/us/politics/appeals-courts-immigrant-detention-policy.html"
-    },
-    {
-        "id": "https://www.nytimes.com/video/us/politics/100000011061667/does-congress-have-the-power-to-stop-the-iran-war.html",
-        "source": "New York Times Politics",
-        "title": "Does Congress Have the Power to Stop the Iran War?",
-        "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "In theory, the War Powers Act gives Congress the power to end a war. But our chief White House correspondent, Peter Baker, describes how President Trump is the latest president to find ways to engage in war without congressional approval.",
-        "url": "https://www.nytimes.com/video/us/politics/100000011061667/does-congress-have-the-power-to-stop-the-iran-war.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/us/politics/trump-voa-news-sarah-rogers.html",
-        "source": "New York Times Politics",
-        "title": "Trump’s Nominee to Oversee VOA, Sarah B. Rogers, Suggests Return of Journalists on Leave",
-        "publicationDate": "2026-07-30",
-        "category": "News and News Media",
-        "summary": "The statement by the nominee, Sarah B. Rogers, signaled a stark reversal of the president’s earlier efforts to shutter Voice of America and other federally funded news groups.",
-        "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-voa-news-sarah-rogers.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
-        "source": "New York Times Politics",
-        "title": "After Claiming ‘Bias’ at Smithsonian, Trump Officials Stage Patriotic Exhibition",
-        "publicationDate": "2026-07-30",
-        "category": "Art",
-        "summary": "Trump officials have promised to “make visual arts great,” with a museum exhibition that includes artwork by several people with personal connections to the planners.",
-        "url": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/30/us/politics/senate-committee-education-dept.html",
-        "source": "New York Times Politics",
-        "title": "Trump’s Effort to Gut Education Dept. Rebuked by Senate Committee",
-        "publicationDate": "2026-07-30",
-        "category": "United States Politics and Government",
-        "summary": "The bipartisan bill is a long way from becoming law, but it represents the strongest opposition yet from Congress to the administration’s agenda.",
-        "url": "https://www.nytimes.com/2026/07/30/us/politics/senate-committee-education-dept.html"
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Trump's CDC, ASPR nominees advance out of Senate committee The Senate Committee on Health, Education, Labor and Pensions (HELP) on Thursday voted to send two of President Trump's health nominees to a full Senate vote. © Natasha Kaiser The committee voted 12-10 to move...",
+        "url": "https://thehill.com/newsletters/healthcare/6001127-trumps-cdc-aspr-nominees-advance-out-of-senate-committee/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/",
@@ -342,33 +432,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/"
     },
     {
-        "id": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Uefa to boycott World Cups if Fifa plans approved",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-        "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-        "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "publicationDate": "2026-07-30",
-        "category": "Foreign Policy",
-        "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-        "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
@@ -378,49 +441,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+        "title": "Uefa to boycott World Cups if Fifa plans approved",
+        "publicationDate": "2026-07-30",
+        "category": "Other",
+        "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/d8c42f6b-4dba-4976-a907-c7c93bca0bbd?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump ‘not sure’ he will let Ukraine build Patriot missiles",
         "publicationDate": "2026-07-30",
         "category": "Foreign Policy",
-        "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-        "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Amazon increases AI infrastructure spending to $220bn this year",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Seattle-based group had in April expected to spend $200bn in 2026",
-        "url": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/8455ec94-0182-46a6-b5dd-2bb5b0a75a6c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Japan’s yen jumps 3% as speculation over intervention swirls",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Currency on track for one of its biggest moves in recent years amid growing calls for action to arrest slide",
-        "url": "https://www.ft.com/content/8455ec94-0182-46a6-b5dd-2bb5b0a75a6c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5546b044-0582-4ed9-8e61-bd1732f3063e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Spain’s migrant crisis triggers Italian call for EU travel restrictions",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Mass arrivals in North African enclave of Ceuta heap further pressure on embattled Prime Minister Pedro Sánchez",
-        "url": "https://www.ft.com/content/5546b044-0582-4ed9-8e61-bd1732f3063e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6f656daa-f9a4-4a3f-87a7-2c720b3305a6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Labour readmits veteran MP Diane Abbott after disciplinary process",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Scottish MP Joani Reid also returns to party just a fortnight into Andy Burnham’s new premiership",
-        "url": "https://www.ft.com/content/6f656daa-f9a4-4a3f-87a7-2c720b3305a6?syn-25a6b1a6=1"
+        "summary": "US president had earlier said he would allow the country to produce the weapon vital for its defence against Russia",
+        "url": "https://www.ft.com/content/d8c42f6b-4dba-4976-a907-c7c93bca0bbd?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1",
@@ -428,7 +464,7 @@
         "title": "Apple forecasts slower growth as AI build-out strains tech supply chains",
         "publicationDate": "2026-07-30",
         "category": "Other",
-        "summary": "Smartphone revenue rose more than a fifth as rivals struggle",
+        "summary": "CEO Tim Cook says impact of memory prices is set to worsen as he steps down",
         "url": "https://www.ft.com/content/762a504e-fca8-49d0-9f2e-b2f142fd749a?syn-25a6b1a6=1"
     },
     {
@@ -477,42 +513,6 @@
         "url": "https://www.heritage.org/gun-rights/commentary/second-amendment-freedom-guarantees-all-our-freedoms"
     },
     {
-        "id": "https://cms.hoover.org/research/lessons-recent-conflicts-future-war-china",
-        "source": "Hoover Institution",
-        "title": "Lessons From The Recent Conflicts For Future War With China",
-        "publicationDate": "2026-07-29",
-        "category": "Defense",
-        "summary": "The wars of the past four years have exposed more than weaknesses in Russia, Iran, or other regional powers. They have also exposed dangerous assumptions in Western military thinking. Ukraine demonstrated that precision weapons are no longer the exclusive domain of advanced militaries.",
-        "url": "https://cms.hoover.org/research/lessons-recent-conflicts-future-war-china"
-    },
-    {
-        "id": "https://cms.hoover.org/research/inaugural-retreat-highlights-exploring-unprecedented-futures",
-        "source": "Hoover Institution",
-        "title": "Inaugural Retreat Highlights: Exploring Unprecedented Futures",
-        "publicationDate": "2026-07-29",
-        "category": "Other",
-        "summary": "On June 23-24, 2026, the Hoover Institution’s Tech Futures Lab hosted its inaugural retreat, which brought together thought leaders from academia, industry, nonprofits, and governments to help anticipate and mitigate the risk of strategic technological surprises.",
-        "url": "https://cms.hoover.org/research/inaugural-retreat-highlights-exploring-unprecedented-futures"
-    },
-    {
-        "id": "https://cms.hoover.org/research/education-exchange-charters-lost-decade-found-again",
-        "source": "Hoover Institution",
-        "title": "The Education Exchange: Charters’ “Lost Decade” Found Again?",
-        "publicationDate": "2026-07-29",
-        "category": "Other",
-        "summary": "After a pre-pandemic dip in performance, charters are showing signs of recovery in Boston.",
-        "url": "https://cms.hoover.org/research/education-exchange-charters-lost-decade-found-again"
-    },
-    {
-        "id": "https://cms.hoover.org/research/lawsuit-over-social-media-allegations-hair-accessory-design-theft-race-dimension-can-go",
-        "source": "Hoover Institution",
-        "title": "Lawsuit Over Social Media Allegations Of Hair Accessory Design Theft (With A Race Dimension) Can Go Forward",
-        "publicationDate": "2026-07-29",
-        "category": "Other",
-        "summary": "A sample allegation: \"[T]his was orchestrated because at this point, you fucking know that this was not an original idea. You know that it was stolen from a black creator, and you are still doing backflips to make excuses for that.\"",
-        "url": "https://cms.hoover.org/research/lawsuit-over-social-media-allegations-hair-accessory-design-theft-race-dimension-can-go"
-    },
-    {
         "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
         "source": "European Council on Foreign Relations",
         "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
@@ -555,7 +555,7 @@
         "publicationDate": "2026-07-28",
         "category": "Economy",
         "summary": "The Social Security Administration (SSA) is responsible for administering Social Security and Supplemental Security Income, which are the nation’s primary income support programs for older adults and individuals with disabilities. As part of its duties, SSA receives benefit applications and determines program entitlement or eligibility, holds hearings and other appeals, completes program integrity (PI) reviews of...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49047/R49047.2.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49047/R49047.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
