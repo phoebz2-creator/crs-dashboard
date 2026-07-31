@@ -1,5 +1,23 @@
 [
     {
+        "id": "IF10543",
+        "source": "Congressional Research Service",
+        "title": "Defense Primer: The Department of Defense",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "The Department of Defense (DOD) was established after World War II by the 1947 National Security Act (P.L. 80-253). At the time, some policymakers, including former President Truman, took the view that the different components of the U.S. military had been insufficiently integrated to wage World War II effectively. Congress’s stated intent was to, inter alia, “provide a Department of Defense ... under the...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10543/IF10543.14.pdf"
+    },
+    {
+        "id": "R49056",
+        "source": "Congressional Research Service",
+        "title": "Reserve Component Duty Statuses: Background and Issues for Congress",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "The Reserve Components (RCs) of the Armed Forces (the Army National Guard, Army Reserve, Navy Reserve, Marine Corps Reserve, Air National Guard, Air Force Reserve, and Coast Guard Reserve) largely consist of personnel who hold full-time civilian positions and are called to duty on a periodic basis. Reservists serve under a range of duty statuses. The status under which a reservist performs duty depends on the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49056/R49056.1.pdf"
+    },
+    {
         "id": "R49055",
         "source": "Congressional Research Service",
         "title": "Federal Brownfields Program: Background and Issues for Congress",
@@ -18,15 +36,6 @@
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13217/IF13217.3.pdf"
     },
     {
-        "id": "IF12378",
-        "source": "Congressional Research Service",
-        "title": "Bank Failures: The FDIC’s Systemic Risk Exception",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "When Silicon Valley Bank (SVB) and Signature Bank failed in March 2023, the Federal Deposit Insurance Corporation (FDIC) guaranteed uninsured deposits at those banks under the statutory systemic risk exception to least-cost resolution (LCR; 12 U.S.C. §1823(c)(4)(G)). (The FDIC insures deposits up to a statutory limit of $250,000.) By invoking the exception, the FDIC estimates it absorbed losses of $16.7 billion...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12378/IF12378.4.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
         "source": "RAND Corporation",
         "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
@@ -34,6 +43,15 @@
         "category": "Other",
         "summary": "The authors of this report describe a strategy for the United States to prevent the creation of mirror life by anyone, anywhere.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-latest-in-u-s-china-ai-competition",
+        "source": "Council on Foreign Relations",
+        "title": "The Latest in U.S.-China AI Competition",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "CFR President Michael Froman and CFR Senior Fellow Chris McGuire discuss recent developments in artificial intelligence (AI), including Moonshot AI’s Kimi K3 model, and how the United States could maintain its technological advantage.",
+        "url": "https://www.cfr.org/articles/the-latest-in-u-s-china-ai-competition"
     },
     {
         "id": "https://www.cfr.org/articles/will-iran-turn-into-a-forever-war-2",
@@ -70,6 +88,24 @@
         "category": "Defense",
         "summary": "On July 6, 2026, the People’s Republic of China (PRC) tested an unarmed, nuclear-capable, intercontinental-range submarine-launched ballistic missile (SLBM) that landed in the South Pacific. Thomas “Tommy” Pigott, “China Launches Nuclear Capable Ballistic Missile into Pacific Ocean,” U.S. Department of State, July 6, 2026,...",
         "url": "https://www.heritage.org/china/report/chinas-south-pacific-missile-test-strategic-signaling-and-regional-consequences"
+    },
+    {
+        "id": "https://cms.hoover.org/publications/freedom-frequency",
+        "source": "Hoover Institution",
+        "title": "Freedom Frequency",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/publications/freedom-frequency"
+    },
+    {
+        "id": "https://cms.hoover.org/research/scripting-endgame-russia-ukraine-war",
+        "source": "Hoover Institution",
+        "title": "Scripting An Endgame In The Russia-Ukraine War",
+        "publicationDate": "2026-07-31",
+        "category": "Foreign Policy",
+        "summary": "Ukraine and its western partners can take a few concrete steps to make it harder for Putin to continue to underestimate Ukraine’s resilience.",
+        "url": "https://cms.hoover.org/research/scripting-endgame-russia-ukraine-war"
     },
     {
         "id": "https://cms.hoover.org/news/veteran-fellowship-program-five-hoover-veteran-fellows-take-point",
@@ -153,15 +189,6 @@
         "url": "https://www.npr.org/2026/07/31/nx-s1-5913739/former-sen-flake-on-what-gop-objections-over-blanches-nomination-means-for-trump"
     },
     {
-        "id": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-        "source": "NPR Politics",
-        "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
-        "publicationDate": "2026-07-31",
-        "category": "Healthcare",
-        "summary": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms"
-    },
-    {
         "id": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
         "source": "NPR Politics",
         "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
@@ -169,6 +196,24 @@
         "category": "Other",
         "summary": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
         "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls"
+    },
+    {
+        "id": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
+        "source": "NPR Politics",
+        "title": "Democrats show divisions on Israel amid competitive midterm elections",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza.",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/who-is-kathryn-ruemmler-former-obama-white-house-attorney-interviewed-about-epstein-emails",
+        "source": "PBS NewsHour Politics",
+        "title": "Who is Kathryn Ruemmler? Former Obama White House attorney interviewed about Epstein emails",
+        "publicationDate": "2026-07-31",
+        "category": "Ghislaine Maxwell",
+        "summary": "Ruemmler called Epstein, whom she first met in 2014, a \"masterful liar\" in her opening remarks to the panel, adding that she didn't see evidence of criminal conduct by Epstein.",
+        "url": "https://www.pbs.org/newshour/politics/who-is-kathryn-ruemmler-former-obama-white-house-attorney-interviewed-about-epstein-emails"
     },
     {
         "id": "https://www.pbs.org/newshour/economy/major-oil-companies-reap-massive-profits-as-u-s-and-iran-fighting-drives-energy-prices-higher",
@@ -189,49 +234,76 @@
         "url": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-cabinet-meeting-at-camp-david"
     },
     {
-        "id": "https://thehill.com/newsletters/1230-report/6002538-trump-camp-david-todd-blanche-white-house-fundraising/",
+        "id": "https://thehill.com/homenews/senate/6002807-van-hollen-declines-to-say-schumer-endorsement/",
         "source": "The Hill",
-        "title": "Friday, the 13th Trump Cabinet meeting",
+        "title": "Senate Democrat declines to say whether Schumer should continue in leadership post",
         "publicationDate": "2026-07-31",
-        "category": "12:30 Report",
-        "summary": "🤝 Plus: Senators near bipartisan deal to avert Sept. shutdown (!) {beacon} Happy Friday! I’m in the mood to try some new summer recipes, maybe that involve corn, peaches, burrata or watermelon. What should I make?! You always have the best suggestions. In today's issue: Trump goes to Camp David with his Cabinet What’s next...",
-        "url": "https://thehill.com/newsletters/1230-report/6002538-trump-camp-david-todd-blanche-white-house-fundraising/"
+        "category": "Senate",
+        "summary": "Sen. Chris Van Hollen (D-Md.) declined to say Thursday whether he would support Senate Minority Leader Chuck Schumer (D-N.Y.) for continued Democratic leadership in the Senate. In an interview with CNN’s Kaitlan Collins, Van Hollen said he was “focused on the 2026 elections.” A Politico poll from June detailed that 47 percent of people who...",
+        "url": "https://thehill.com/homenews/senate/6002807-van-hollen-declines-to-say-schumer-endorsement/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6002625-trump-camp-david-israel-hamas-deal-gaza/",
+        "id": "https://thehill.com/policy/defense/6002796-marine-corps-jet-crash-san-diego/",
         "source": "The Hill",
-        "title": "Trump says Israel 'happy' with Hamas deal, despite 'skepticism'",
+        "title": "F-35 fighter jet crashes near San Diego",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "A U.S. Marine Corps F-35 stealth fighter jet crashed at Marine Corps Air Station Miramar in San Diego, Calif., on Friday. Marine officials confirmed to The Hill that it was an F-35 “aircraft mishap” in the vicinity of MCAS Miramar. The pilot ejected, was recovered and is en route to a medical facility, officials said. It...",
+        "url": "https://thehill.com/policy/defense/6002796-marine-corps-jet-crash-san-diego/"
+    },
+    {
+        "id": "https://thehill.com/homenews/media/6002631-tony-romo-cbs-sports-suspension-owi-arrest-wisconsin/",
+        "source": "The Hill",
+        "title": "Tony Romo on leave from CBS Sports after arrest in Wisconsin",
+        "publicationDate": "2026-07-31",
+        "category": "Media",
+        "summary": "Romo, 46, was arrested last week on suspicion of operating a vehicle while under the influence.",
+        "url": "https://thehill.com/homenews/media/6002631-tony-romo-cbs-sports-suspension-owi-arrest-wisconsin/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6002597-ice-arrest-baltimore-johns-hopkins-professor-overstayed-visa/",
+        "source": "The Hill",
+        "title": "ICE arrests Johns Hopkins migrant researcher at Baltimore airport",
         "publicationDate": "2026-07-31",
         "category": "Administration",
-        "summary": "President Trump said Friday that Israel is pleased with the Board of Peace’s agreement with Hamas to disarm the militant group in Gaza, despite its apparent skepticism of the framework. “We do have an understanding with Israel,” Trump told reporters at his Cabinet meeting at Camp David. “Israel is very happy about it. Israel helped...",
-        "url": "https://thehill.com/homenews/administration/6002625-trump-camp-david-israel-hamas-deal-gaza/"
+        "summary": "Johns Hopkins officials say they are deeply concerned about the university employee was arrested during a personal trip",
+        "url": "https://thehill.com/homenews/administration/6002597-ice-arrest-baltimore-johns-hopkins-professor-overstayed-visa/"
     },
     {
-        "id": "https://thehill.com/opinion/international/6001341-house-report-south-korea/",
+        "id": "https://thehill.com/homenews/state-watch/6002665-iran-targeted-minnesota-water-attacks/",
         "source": "The Hill",
-        "title": "An American ally is adopting Beijing’s playbook",
+        "title": "Cybersecurity expert: 'Moderate confidence' Iran attacked Minnesota water facilities",
         "publicationDate": "2026-07-31",
         "category": "Foreign Policy",
-        "summary": "A new report from the U.S. House Judiciary Committee warns that South Korea's aggressive regulatory and political pursuit of the American company Coupang undermines the principles of the U.S.-South Korea alliance.",
-        "url": "https://thehill.com/opinion/international/6001341-house-report-south-korea/"
+        "summary": "National Center for Open and Unsolved Cases founder Morgan Wright said Thursday that there is “at least moderate confidence” that Iran is behind recent cybersecurity attacks on water facilities across Minnesota. “You know, there was an alert that was put out four days before this describing that they believed Iran was going to launch an...",
+        "url": "https://thehill.com/homenews/state-watch/6002665-iran-targeted-minnesota-water-attacks/"
     },
     {
-        "id": "https://thehill.com/opinion/lindseys-lens/6002517-political-theater-covid-fauci/",
-        "source": "The Hill",
-        "title": "Fauci hearing a sham: Republicans only looking to prosecute",
+        "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html",
+        "source": "New York Times Politics",
+        "title": "Trump to Appeal Judge’s Ruling Denouncing I.R.S. Lawsuit as Exercise in Self-Dealing",
         "publicationDate": "2026-07-31",
-        "category": "Opinions - Lindsey's Lens",
-        "summary": "Republicans want to continue to relitigate COVID, and their determination to prosecute Fauci led them to missing out on what could have been a rare opportunity to honestly examine what went right, what went wrong, and what we should do differently the next time the world faces a pandemic.",
-        "url": "https://thehill.com/opinion/lindseys-lens/6002517-political-theater-covid-fauci/"
+        "category": "United States Politics and Government",
+        "summary": "It was the latest sign that the president was doubling down on his fight for aspects of a deal that brings him vast benefits, even though they have jeopardized the confirmation of his pick for attorney general.",
+        "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html"
     },
     {
-        "id": "https://thehill.com/policy/international/6002450-harward-iranian-government-calculus-changing/",
-        "source": "The Hill",
-        "title": "Retired vice admiral: Calculus for Iranian government changing",
+        "id": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html",
+        "source": "New York Times Politics",
+        "title": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
         "publicationDate": "2026-07-31",
-        "category": "Foreign Policy",
-        "summary": "Retired Vice Adm. Robert Harward, the former deputy commander of U.S. Central Command (Centcom), said Thursday the calculus for the Iranian government was changing. In an interview on “On Balance” with host Leland Vittert, Harward said, “I think you're seeing the calculus change already, external to Iran as much as internal. And don't forget these...",
-        "url": "https://thehill.com/policy/international/6002450-harward-iranian-government-calculus-changing/"
+        "category": "United States Politics and Government",
+        "summary": "Todd Blanche’s approach has collided with the jury-of-two reality in the Senate that has, thus far, kept him from the prize he covets: the stability and status conferred by a Senate confirmation.",
+        "url": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/31/travel/trump-passports-usa-250th-anniversary.html",
+        "source": "New York Times Politics",
+        "title": "State Dept. to Release 250,000 More Trump Passports With His Portrait",
+        "publicationDate": "2026-07-31",
+        "category": "United States Politics and Government",
+        "summary": "An additional 250,000 commemorative passports, featuring a portrait of President Trump and intended to honor the nation’s 250th anniversary, will be made available at in-person events.",
+        "url": "https://www.nytimes.com/2026/07/31/travel/trump-passports-usa-250th-anniversary.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html",
@@ -250,33 +322,6 @@
         "category": "Demonstrations",
         "summary": "The problems plaguing the case have not only hurt the government’s chances, lawyers say, but have also undermined the bonds of trust that prosecutors have traditionally enjoyed in court.",
         "url": "https://www.nytimes.com/2026/07/31/us/politics/minnesota-ice-immigration-protests-justice-department-lemon-fort.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/gop-ivf-military.html",
-        "source": "New York Times Politics",
-        "title": "G.O.P. Kills Bid to Expand I.V.F. Access in the Military",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "In a notable shift, Republican senators voted unanimously against a proposal to expand the military’s coverage of fertility treatments.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/gop-ivf-military.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/arts/historic-sites-trump-regulation-changes.html",
-        "source": "New York Times Politics",
-        "title": "Critics Say Historic Sites Are Endangered by Trump-Aligned Panel’s Plan",
-        "publicationDate": "2026-07-31",
-        "category": "United States Politics and Government",
-        "summary": "Proponents say the changes to the federal preservation rules are necessary, but critics argue they are alarming and would help expedite the president’s redesign of Washington.",
-        "url": "https://www.nytimes.com/2026/07/31/arts/historic-sites-trump-regulation-changes.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
-        "source": "New York Times Politics",
-        "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
-        "publicationDate": "2026-07-31",
-        "category": "Automobiles",
-        "summary": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
-        "url": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/",
@@ -342,6 +387,24 @@
         "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/71f9031c-71a4-4e1b-ab25-216ff34dc87d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Healey looks for fiscal buffer in October’s UK Budget",
+        "publicationDate": "2026-07-31",
+        "category": "Economy",
+        "summary": "Chancellor to stick to Labour’s fiscal rules while moving ‘power and money out of Westminster’",
+        "url": "https://www.ft.com/content/71f9031c-71a4-4e1b-ab25-216ff34dc87d?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Leopold Aschenbrenner vows to ‘fight another day’ after fund plunges 67% in July",
+        "publicationDate": "2026-07-31",
+        "category": "Other",
+        "summary": "Manager of AI hedge fund Situational Awareness tells investors he will learn from ‘very expensive scars’",
+        "url": "https://www.ft.com/content/a0a5e3a7-c4e6-42a6-9a7b-a780422bcd76?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/613cd8b0-e8c5-45d2-a7f3-184e63d82e08?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Fifa insiders turn on Infantino over controversial $20bn investment plan",
@@ -369,24 +432,6 @@
         "url": "https://www.ft.com/content/f02ce02b-fa33-49ad-b8c7-81ab5cec3de0?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/97fd8d2a-3959-4dd6-8fbf-1e443ab793d3",
-        "source": "Financial Times World",
-        "title": "Warsh goes blank",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "The new Fed chair’s ‘less is more’ communications policy came under fire this week",
-        "url": "https://www.ft.com/content/97fd8d2a-3959-4dd6-8fbf-1e443ab793d3"
-    },
-    {
-        "id": "https://www.ft.com/content/fbc0d4bd-d754-4590-984d-ba21c0f1325b",
-        "source": "Financial Times World",
-        "title": "Stockpickers: Restore, Rio Tinto, Unite Group",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Our experts discuss which companies to buy, sell or hold this week",
-        "url": "https://www.ft.com/content/fbc0d4bd-d754-4590-984d-ba21c0f1325b"
-    },
-    {
         "id": "R49049",
         "source": "Congressional Research Service",
         "title": "Legislative Branch: FY2027 Appropriations",
@@ -394,15 +439,6 @@
         "category": "Economy",
         "summary": "The legislative branch appropriations bill provides funding for the Senate; House of Representatives; Joint Items; Capitol Police; Office of Congressional Workplace Rights; Congressional Budget Office; Architect of the Capitol; Library of Congress, including the Congressional Research Service; Government Publishing Office; Government Accountability Office; Congressional Office for International Leadership; and John...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49049/R49049.2.pdf"
-    },
-    {
-        "id": "R49052",
-        "source": "Congressional Research Service",
-        "title": "A Comparison of Two Open-Source Tax Microsimulation Models",
-        "publicationDate": "2026-07-30",
-        "category": "Economy",
-        "summary": "CRS has recently begun using two open-source microsimulation tax models to estimate the revenue effects of changes to federal tax law: the Budget Lab at Yale’s (TBL’s) Tax-Simulator and the Policy Simulation Library’s (PSL’s) Tax-Calculator. CRS uses these models to assist congressional offices early in the legislative process during work to inform congressional deliberations on tax policy. Any estimates produced...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49052/R49052.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4983-1.html",
@@ -448,15 +484,6 @@
         "category": "Article",
         "summary": "CFR’s U.S. Government Deal Tracker shows how the government is experimenting with new tools and financing structures to advance a range of strategic sectors, including critical minerals, energy, global logistics, manufacturing, telecommunications, and other technologies.",
         "url": "https://www.cfr.org/articles/washingtons-growing-portfolio-tracking-u-s-government-investments"
-    },
-    {
-        "id": "https://www.cfr.org/articles/the-1916-black-tom-explosion-in-jersey-city",
-        "source": "Council on Foreign Relations",
-        "title": "The 1916 Black Tom Explosion in Jersey City",
-        "publicationDate": "2026-07-30",
-        "category": "Article",
-        "summary": "Before the United States entered World War I, U.S. officials mistook German sabotage for an industrial accident.",
-        "url": "https://www.cfr.org/articles/the-1916-black-tom-explosion-in-jersey-city"
     },
     {
         "id": "https://www.heritage.org/progressivism/commentary/time-clean-house-the-america-subverting-smithsonian",
@@ -531,24 +558,6 @@
         "url": "https://www.hudson.org/foreign-policy/crucial-caveat-trumps-saudi-nuclear-deal-intended-cut-china-russia-out-middle-east-zineb-riboua"
     },
     {
-        "id": "https://cms.hoover.org/node/390906",
-        "source": "Hoover Institution",
-        "title": "Tom Siebel on Only in America",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/node/390906"
-    },
-    {
-        "id": "https://cms.hoover.org/research/glenn-loury-did-dei-break-colleges",
-        "source": "Hoover Institution",
-        "title": "Glenn Loury: Did DEI Break Colleges?",
-        "publicationDate": "2026-07-30",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Glenn Loury talks about race, opportunity and ideological diversity in American life. Loury discusses the decline of the Black Lives Matter era, affirmative action after the Supreme Court’s ruling, why more Black men have supported Donald Trump, the political backlash facing higher education and whether government pressure on universities threatens academic freedom.",
-        "url": "https://cms.hoover.org/research/glenn-loury-did-dei-break-colleges"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/in-missouri-cori-bush-and-wesley-bells-primary-rematch-sets-up-key-test-for-democrats",
         "source": "PBS NewsHour Politics",
         "title": "In Missouri, Cori Bush and Wesley Bell's primary rematch sets up key test for Democrats",
@@ -565,15 +574,6 @@
         "category": "Defense",
         "summary": "The blockade of the Strait of Hormuz, through which nearly all Middle Eastern oil flows, has prompted Saudi Arabia to call for a maritime defense coalition to protect Red Sea shipping. For perspective on the proposal, Geoff Bennett spoke with Ian Ralby. He's a global maritime security expert, president of Auxilium Worldwide, and a senior fellow at the Center for Maritime Strategy.",
         "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/blanches-ag-nomination-on-hold-over-opposition-to-dojs-anti-weaponization-fund",
-        "source": "PBS NewsHour Politics",
-        "title": "Blanche's AG nomination on hold over opposition to DOJ's 'anti-weaponization fund'",
-        "publicationDate": "2026-07-30",
-        "category": "attorney general",
-        "summary": "Acting Attorney General Todd Blanche's nomination to lead the Department of Justice full-time is in limbo. Two Republican senators, John Cornyn of Texas and Thom Tillis of North Carolina, say they will oppose Blanche's nomination unless the DOJ kills a $1.8 billion fund to provide payments to people who believe they have been wrongfully prosecuted. Geoff Bennett discussed more with Devlin Barrett.",
-        "url": "https://www.pbs.org/newshour/show/blanches-ag-nomination-on-hold-over-opposition-to-dojs-anti-weaponization-fund"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/",
