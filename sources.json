@@ -1,5 +1,68 @@
 [
     {
+        "id": "https://thehill.com/business/6003349-amazon-receives-trump-tariff-refunds/",
+        "source": "The Hill",
+        "title": "Amazon received $600M in Trump tariff refunds, will return some to customers",
+        "publicationDate": "2026-08-01",
+        "category": "Business",
+        "summary": "Amazon said this week that it received hundreds of millions of dollars in refunds from President Trump’s tariffs and pledged to return some of the profits to its customers. This follows a Supreme Court decision earlier this year that many of the Trump administration’s tariffs were illegal, prompting the U.S. government to start a process...",
+        "url": "https://thehill.com/business/6003349-amazon-receives-trump-tariff-refunds/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6003304-us-plans-renewed-iran-strikes/",
+        "source": "The Hill",
+        "title": "US planning renewed strikes on Iran: Reports",
+        "publicationDate": "2026-08-01",
+        "category": "Defense",
+        "summary": "The U.S. is reportedly planning to reopen strikes against Iran as soon as this weekend, U.S. officials told several outlets on Friday. CBS News reported that Israel is also involved in the plans to launch “one of the harshest bombing campaigns to date” against Iranian energy infrastructure targets, citing multiple sources. The Israeli and U.S....",
+        "url": "https://thehill.com/policy/defense/6003304-us-plans-renewed-iran-strikes/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/healthcare/6003297-public-figures-react-fauci/",
+        "source": "The Hill",
+        "title": "Critics and allies chime in after Fauci hearing",
+        "publicationDate": "2026-08-01",
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Critics and allies chime in after Fauci hearing Former chief White House medical advisor Anthony Fauci's ability to command public fixation is proving resilient this week as figures from media, sports and health all give their two scents on his recent Senate appearance. © Greg Nash...",
+        "url": "https://thehill.com/newsletters/healthcare/6003297-public-figures-react-fauci/"
+    },
+    {
+        "id": "https://thehill.com/policy/sports-gaming/6003278-fifa-ditches-plan-to-seek-private-investment-for-world-cup/",
+        "source": "The Hill",
+        "title": "FIFA ditches plan to seek private investment for World Cup",
+        "publicationDate": "2026-08-01",
+        "category": "Sports & Gaming",
+        "summary": "FIFA has scrapped plans to cash in on the popularity of the World Cup by selling a share of it to private equity as part of what it said earlier this week was a broader investment strategy, the federation said late Friday. The plan, which would have sought private investment to the tune of around $10 billion in exchange...",
+        "url": "https://thehill.com/policy/sports-gaming/6003278-fifa-ditches-plan-to-seek-private-investment-for-world-cup/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/31/us/politics/george-santos-fined-kalshi-bets.html",
+        "source": "New York Times Politics",
+        "title": "George Santos Fined Over Bets on State of the Union on Kalshi Prediction Market",
+        "publicationDate": "2026-08-01",
+        "category": "Fines (Penalties)",
+        "summary": "A federal regulator fined the former lawmaker $35,000 over allegations of insider trading by placing bets on Kalshi about whether he would attend the State of the Union address in February.",
+        "url": "https://www.nytimes.com/2026/07/31/us/politics/george-santos-fined-kalshi-bets.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html",
+        "source": "New York Times Politics",
+        "title": "Charges Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool",
+        "publicationDate": "2026-08-01",
+        "category": "Hearn",
+        "summary": "A former Olympian will not face trial after federal prosecutors acknowledged that the Trump administration’s claims of vandalism were false.",
+        "url": "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+        "publicationDate": "2026-08-01",
+        "category": "Other",
+        "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "R48089",
         "source": "Congressional Research Service",
         "title": "Columbia River System Operations and the Future of the Lower Snake River Dams",
@@ -18,15 +81,6 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49057/R49057.2.pdf"
     },
     {
-        "id": "IF13281",
-        "source": "Congressional Research Service",
-        "title": "TrumpRx: Background and Implementation",
-        "publicationDate": "2026-07-31",
-        "category": "Foreign Policy",
-        "summary": "Introduction On February 5, 2026, the Trump Administration officially launched TrumpRx, a website that compiles discounts on brand-name and generic drugs through partnerships with drug manufacturers and direct-to-consumer (DTC) pharmacies. Since the launch, Congress has examined the website’s operations, the types of drugs available, consumer access to the advertised prices, and the impact on prescription drug...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13281/IF13281.1.pdf"
-    },
-    {
         "id": "IF12945",
         "source": "Congressional Research Service",
         "title": "U.S. Strategic Bombers",
@@ -34,6 +88,15 @@
         "category": "Defense",
         "summary": "The U.S. Air Force deploys three strategic (or heavy) bombers—the B-52, B-1B, and B-2—to carry bombs or air-to-surface missiles for conventional and nuclear missions. Bombers carry heavy ordnance loads across long distances, for extended periods of time, to strike adversary targets of tactical and strategic importance. The Air Force is developing a new B-21 strategic bomber as a next-generation stealth aircraft to...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12945/IF12945.8.pdf"
+    },
+    {
+        "id": "IF13281",
+        "source": "Congressional Research Service",
+        "title": "TrumpRx: Background and Implementation",
+        "publicationDate": "2026-07-31",
+        "category": "Foreign Policy",
+        "summary": "Introduction On February 5, 2026, the Trump Administration officially launched TrumpRx, a website that compiles discounts on brand-name and generic drugs through partnerships with drug manufacturers and direct-to-consumer (DTC) pharmacies. Since the launch, Congress has examined the website’s operations, the types of drugs available, consumer access to the advertised prices, and the impact on prescription drug...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13281/IF13281.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
@@ -153,39 +216,12 @@
         "url": "https://cms.hoover.org/research/dr-scott-atlas-discusses-dr-anthony-faucis-diary-admission"
     },
     {
-        "id": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
-        "source": "European Council on Foreign Relations",
-        "title": "Alone at the border: Ceuta and Europe’s solidarity failure",
-        "publicationDate": "2026-07-31",
-        "category": "Human Rights and Democracy",
-        "summary": "By failing to show solidarity with a member state under pressure, the EU is encouraging Morocco and others to keep using migration as a tool of coercion.",
-        "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/"
-    },
-    {
-        "id": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/",
-        "source": "European Council on Foreign Relations",
-        "title": "How splits on the right may threaten Poland’s pro-European camp",
-        "publicationDate": "2026-07-31",
-        "category": "European Power",
-        "summary": "More than 40 MPs have walked out of Law and Justice, Poland’s largest opposition party, and will court centre-right voters who put Donald Tusk in power in 2023. To win them back, Tusk should make the European argument he has spent years avoiding",
-        "url": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/",
-        "source": "European Council on Foreign Relations",
-        "title": "Defining modernity in South-East Asia",
-        "publicationDate": "2026-07-31",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes LuHan Gabel, Ooi Kee Beng and Chelsea Nguyen to explore how younger generations in China, Malaysia and Vietnam are rethinking the meaning of modernity in a post-Western world",
-        "url": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/"
-    },
-    {
         "id": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
         "source": "NPR Politics",
         "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
         "publicationDate": "2026-07-31",
         "category": "Other",
-        "summary": "The government had accused David Hearn of ripping a piece of sealant after a $14 million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month.",
+        "summary": "The government had accused David Hearn of ripping a piece of sealant after a $14-million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month.",
         "url": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss"
     },
     {
@@ -216,20 +252,29 @@
         "url": "https://www.npr.org/2026/07/31/nx-s1-5913739/former-sen-flake-on-what-gop-objections-over-blanches-nomination-means-for-trump"
     },
     {
-        "id": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+        "id": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
         "source": "NPR Politics",
-        "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
+        "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
         "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls"
+        "category": "Healthcare",
+        "summary": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
+        "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/u-s-will-make-visa-bond-program-permanent-affecting-mostly-african-countries",
+        "source": "PBS NewsHour Politics",
+        "title": "U.S. will make visa bond program permanent, affecting mostly African countries",
+        "publicationDate": "2026-07-31",
+        "category": "africa",
+        "summary": "A draft notice published Friday in the Federal Register says a nearly year-long review \"provided sufficient data\" to suggest the bond program effectively enforces compliance with visa conditions, and would be made permanent.",
+        "url": "https://www.pbs.org/newshour/politics/u-s-will-make-visa-bond-program-permanent-affecting-mostly-african-countries"
     },
     {
         "id": "https://www.pbs.org/newshour/show/whats-in-the-proposed-deal-to-disarm-hamas-and-withdraw-israeli-forces-from-gaza",
         "source": "PBS NewsHour Politics",
         "title": "What's in the proposed deal to disarm Hamas and withdraw Israeli forces from Gaza",
         "publicationDate": "2026-07-31",
-        "category": "Other",
+        "category": "board of peace",
         "summary": "There is a major development in the effort to bring lasting peace to Gaza. Hamas says it has agreed to a U.S.-backed framework that would ultimately see the militant group give up its weapons and control of Gaza, while Israeli forces withdraw from the territory. Nick Shifrin reports.",
         "url": "https://www.pbs.org/newshour/show/whats-in-the-proposed-deal-to-disarm-hamas-and-withdraw-israeli-forces-from-gaza"
     },
@@ -256,18 +301,9 @@
         "source": "PBS NewsHour Politics",
         "title": "Unaccompanied migrant children at risk of losing legal representation",
         "publicationDate": "2026-07-31",
-        "category": "Other",
+        "category": "immigration court",
         "summary": "Thousands of unaccompanied migrant children could lose legal representation, now that a federal contract with legal aid groups representing the minors is expiring. That contract, held by the non-profit Acacia Center for Justice, had funded legal services for unaccompanied children for the last five years. Ali Rogin discussed the developments with Shaina Aber, Acacia's executive director.",
         "url": "https://www.pbs.org/newshour/show/unaccompanied-migrant-children-at-risk-of-losing-legal-representation"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-blanches-stalled-nomination-and-trumps-anti-weaponization-fund",
-        "source": "PBS NewsHour Politics",
-        "title": "Brooks and Capehart on Blanche's stalled nomination and Trump's 'anti-weaponization fund'",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Geoff Bennett to discuss the week in politics, including Todd Blanche's stalled confirmation to be attorney general, Trump's 'anti-weaponization fund,' turmoil inside the Democratic National Committee and the Reflection Poll vandalism charges dropped.",
-        "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-blanches-stalled-nomination-and-trumps-anti-weaponization-fund"
     },
     {
         "id": "https://thehill.com/regulation/court-battles/6003212-doj-drops-lincoln-memorial-reflecting-pool-case/",
@@ -277,42 +313,6 @@
         "category": "Court Battles",
         "summary": "The Department of Justice (DOJ) moved Friday to drop its criminal prosecution of a former Olympian charged with destroying the Lincoln Memorial Reflecting Pool, saying the damage was instead the result of a “rushed and botched installation.” U.S. Attorney Jeanine Pirro’s office blamed the contractor for overspraying and delamination. In a new court filing, the office...",
         "url": "https://thehill.com/regulation/court-battles/6003212-doj-drops-lincoln-memorial-reflecting-pool-case/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6003155-fetterman-trump-blanche-confirmation-gop-senators/",
-        "source": "The Hill",
-        "title": "Fetterman: Trump has 'zero leverage' over lame-duck GOP senators",
-        "publicationDate": "2026-07-31",
-        "category": "Senate",
-        "summary": "Sen. John Fetterman (D-Pa.) pointed to weaknesses in President Trump’s influence in Congress amid opposition from three outgoing Republican senators to the president’s nomination of acting Attorney General Todd Blanche to a permanent role overseeing the Department of Justice (DOJ). Sens. Thom Tillis (N.C.), Bill Cassidy (La.) and John Cornyn (Texas) have all expressed skepticism...",
-        "url": "https://thehill.com/homenews/senate/6003155-fetterman-trump-blanche-confirmation-gop-senators/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/technology/6003160-silicon-valley-clashes-over-open-source-technology/",
-        "source": "The Hill",
-        "title": "Silicon Valley clashes over open-source technology",
-        "publicationDate": "2026-07-31",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story ‘Rogue’ AI hacking incidents amplify debate over open-source tech Concerns over AI’s cybersecurity risks reached a fever pitch this week following two hacking incidents at OpenAI and Anthropic, sparking further debate in Silicon Valley over whether open-source could reduce these threats. Illustration / Samantha Wong; and Adobe Stock...",
-        "url": "https://thehill.com/newsletters/technology/6003160-silicon-valley-clashes-over-open-source-technology/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6003142-nvidia-launches-secure-ai-alliance/",
-        "source": "The Hill",
-        "title": "Rogue AI hacking incidents amplify debate over open-source tech",
-        "publicationDate": "2026-07-31",
-        "category": "Foreign Policy",
-        "summary": "Concerns over AI’s cybersecurity risks reached a fever pitch this week following two hacking incidents at OpenAI and Anthropic, sparking further debate in Silicon Valley over whether open-source could reduce these threats. The incidents are amplifying the recent push for open-source technology, which gained momentum earlier this year amid growing competition with China and the...",
-        "url": "https://thehill.com/policy/technology/6003142-nvidia-launches-secure-ai-alliance/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/energy-environment/6003098-doi-proposes-potentially-major-water-cuts/",
-        "source": "The Hill",
-        "title": "DOI proposes potentially major water cuts",
-        "publicationDate": "2026-07-31",
-        "category": "Energy & Environment Newsletter",
-        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story DOI proposes potentially major water cuts The federal government is proposing potentially steep cuts to water used by California, Arizona and Nevada, a major step toward figuring out the management of the dwindling Colorado River. © AP Photo/Brittany Peterson, File The river provides water to...",
-        "url": "https://thehill.com/newsletters/energy-environment/6003098-doi-proposes-potentially-major-water-cuts/"
     },
     {
         "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
@@ -340,24 +340,6 @@
         "category": "Politics and Government",
         "summary": "There’s a lot going right for the Democrats. Here’s what could go wrong.",
         "url": "https://www.nytimes.com/2026/07/31/us/politics/democrats-primary-elections-midterms.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/hunter-biden-joe-biden-debate-cancer.html",
-        "source": "New York Times Politics",
-        "title": "Hunter Biden Blames Cancer for Joe Biden’s Disastrous Debate",
-        "publicationDate": "2026-07-31",
-        "category": "United States Politics and Government",
-        "summary": "Medical experts say it is unlikely that Mr. Biden’s debate performance was affected by the cancer that was diagnosed months later.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/hunter-biden-joe-biden-debate-cancer.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html",
-        "source": "New York Times Politics",
-        "title": "Trump Administration Plans to Upend Head Start by Deregulating It",
-        "publicationDate": "2026-07-31",
-        "category": "Healthcare",
-        "summary": "The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/",
@@ -403,15 +385,6 @@
         "category": "Other",
         "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
         "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
@@ -583,24 +556,6 @@
         "category": "Defense",
         "summary": "Declassified evidence points to Beijing seeking personal data for espionage, not election interference.",
         "url": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/"
-    },
-    {
-        "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
-        "source": "European Council on Foreign Relations",
-        "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
-        "publicationDate": "2026-07-29",
-        "category": "European Security",
-        "summary": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
-        "url": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/"
-    },
-    {
-        "id": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/",
-        "source": "European Council on Foreign Relations",
-        "title": "Two of a kind: How France and Italy can show the way for Europe’s Africa policy",
-        "publicationDate": "2026-07-29",
-        "category": "Africa",
-        "summary": "Rome and Paris have each overhauled their economic strategies towards Africa in the past few years, competing openly for influence on the continent. Here is how the EU can use that rivalry to sharpen Europe’s offer to Africa",
-        "url": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
