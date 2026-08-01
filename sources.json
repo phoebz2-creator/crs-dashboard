@@ -1,5 +1,59 @@
 [
     {
+        "id": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
+        "source": "NPR Politics",
+        "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
+        "publicationDate": "2026-08-01",
+        "category": "Other",
+        "summary": "Thousands of unaccompanied immigrant children are set to lose legal representation. The federal contract that pays for legal access expired Friday.",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/01/nx-s1-5904608/michigan-primary-haley-stevens-abdul-el-sayed-democrats",
+        "source": "NPR Politics",
+        "title": "In the race for Senate in Michigan, multiple party fights are colliding for Democrats",
+        "publicationDate": "2026-08-01",
+        "category": "Other",
+        "summary": "As Haley Stevens and Abdul El-Sayed vie for the Democratic nomination, voters are debating which way the party should go: establishment or insurgent; progressive or more moderate; new media or old.",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5904608/michigan-primary-haley-stevens-abdul-el-sayed-democrats"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
+        "source": "NPR Politics",
+        "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
+        "publicationDate": "2026-08-01",
+        "category": "Defense",
+        "summary": "Staff Sgt. Angel S. Rampersad is one of a handful of service members who've recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military.",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+        "source": "NPR Politics",
+        "title": "For sale: early access to Trump's Truth Social posts",
+        "publicationDate": "2026-08-01",
+        "category": "Other",
+        "summary": "The president's media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws.",
+        "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6002984-israel-hamas-roadmaps-skepticism/",
+        "source": "The Hill",
+        "title": "Trump’s ‘historic’ deal to disarm Hamas faces uphill climb",
+        "publicationDate": "2026-08-01",
+        "category": "Administration",
+        "summary": "President Trump’s announcement Thursday of a “historic” deal to disarm Hamas is drawing more skepticism than fanfare. Hamas said it was prepared to abide by the terms, but only with the buy-in of Israel, which remains skeptical about the deal, according to a U.S official invited into the discussions. The agreement would see Hamas hand...",
+        "url": "https://thehill.com/homenews/administration/6002984-israel-hamas-roadmaps-skepticism/"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6003049-miller-abuse-allegations-ohio-house-race/",
+        "source": "The Hill",
+        "title": "Max Miller abuse allegations complicate race for once-solid GOP seat",
+        "publicationDate": "2026-08-01",
+        "category": "House",
+        "summary": "Allegations of domestic abuse by Rep. Max Miller (R-Ohio) — which he vehemently denies — are receiving increasing national attention and complicating the race for the once reliably Republican seat while prompting new calls from Democrats for his resignation or investigation. While Miller is still in a good position electorally, the allegations have prompted several...",
+        "url": "https://thehill.com/homenews/house/6003049-miller-abuse-allegations-ohio-house-race/"
+    },
+    {
         "id": "https://thehill.com/homenews/senate/6003372-senators-request-ebola-family-planning-funds-drc/",
         "source": "The Hill",
         "title": "Bipartisan senators press Rubio to unlock family planning funding for women in Ebola outbreak",
@@ -27,22 +81,31 @@
         "url": "https://thehill.com/policy/defense/6003304-us-plans-renewed-iran-strikes/"
     },
     {
-        "id": "https://thehill.com/newsletters/healthcare/6003297-public-figures-react-fauci/",
-        "source": "The Hill",
-        "title": "Critics and allies chime in after Fauci hearing",
+        "id": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html",
+        "source": "New York Times Politics",
+        "title": "Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More",
         "publicationDate": "2026-08-01",
-        "category": "Healthcare",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Critics and allies chime in after Fauci hearing Former chief White House medical advisor Anthony Fauci's ability to command public fixation is proving resilient this week as figures from media, sports and health all give their two scents on his recent Senate appearance. © Greg Nash...",
-        "url": "https://thehill.com/newsletters/healthcare/6003297-public-figures-react-fauci/"
+        "category": "Foreign Policy",
+        "summary": "The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.",
+        "url": "https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html"
     },
     {
-        "id": "https://thehill.com/policy/sports-gaming/6003278-fifa-ditches-plan-to-seek-private-investment-for-world-cup/",
-        "source": "The Hill",
-        "title": "FIFA ditches plan to seek private investment for World Cup",
+        "id": "https://www.nytimes.com/2026/08/01/us/politics/ukraine-maga-loomer-trump.html",
+        "source": "New York Times Politics",
+        "title": "How Ukraine Is Making Inroads With MAGA and a Trump Ally, Laura Loomer",
         "publicationDate": "2026-08-01",
-        "category": "Sports & Gaming",
-        "summary": "FIFA has scrapped plans to cash in on the popularity of the World Cup by selling a share of it to private equity as part of what it said earlier this week was a broader investment strategy, the federation said late Friday. The plan, which would have sought private investment to the tune of around $10 billion in exchange...",
-        "url": "https://thehill.com/policy/sports-gaming/6003278-fifa-ditches-plan-to-seek-private-investment-for-world-cup/"
+        "category": "Foreign Policy",
+        "summary": "Ukraine and its supporters have invested years in trying to undo the skepticism of the country’s war effort harbored by President Trump’s MAGA movement and the president himself.",
+        "url": "https://www.nytimes.com/2026/08/01/us/politics/ukraine-maga-loomer-trump.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html",
+        "source": "New York Times Politics",
+        "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
+        "publicationDate": "2026-08-01",
+        "category": "Collins",
+        "summary": "Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.",
+        "url": "https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html"
     },
     {
         "id": "https://www.nytimes.com/2026/07/31/us/politics/george-santos-fined-kalshi-bets.html",
@@ -63,22 +126,31 @@
         "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html",
-        "source": "New York Times Politics",
-        "title": "Charges Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool",
+        "id": "https://www.washingtonpost.com/politics/2026/08/01/conn-selmer-factory-closes-ohio-despite-trumps-manufacturing-push/",
+        "source": "Washington Post Politics",
+        "title": "The last day of an American factory",
         "publicationDate": "2026-08-01",
-        "category": "Hearn",
-        "summary": "A former Olympian will not face trial after federal prosecutors acknowledged that the Trump administration’s claims of vandalism were false.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html"
+        "category": "Foreign Policy",
+        "summary": "A Trump donor called for an end to offshoring. Then his company moved much of this plant’s work to China.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/01/conn-selmer-factory-closes-ohio-despite-trumps-manufacturing-push/"
     },
     {
-        "id": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Fifa scraps controversial World Cup investment plan",
+        "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
         "publicationDate": "2026-08-01",
         "category": "Other",
-        "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
-        "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+        "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+        "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Uefa has 'lost confidence' in Fifa leadership",
+        "publicationDate": "2026-08-01",
+        "category": "Other",
+        "summary": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
@@ -171,15 +243,6 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49057/R49057.2.pdf"
     },
     {
-        "id": "IF12945",
-        "source": "Congressional Research Service",
-        "title": "U.S. Strategic Bombers",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "The U.S. Air Force deploys three strategic (or heavy) bombers—the B-52, B-1B, and B-2—to carry bombs or air-to-surface missiles for conventional and nuclear missions. Bombers carry heavy ordnance loads across long distances, for extended periods of time, to strike adversary targets of tactical and strategic importance. The Air Force is developing a new B-21 strategic bomber as a next-generation stealth aircraft to...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12945/IF12945.8.pdf"
-    },
-    {
         "id": "IF13281",
         "source": "Congressional Research Service",
         "title": "TrumpRx: Background and Implementation",
@@ -187,6 +250,15 @@
         "category": "Foreign Policy",
         "summary": "Introduction On February 5, 2026, the Trump Administration officially launched TrumpRx, a website that compiles discounts on brand-name and generic drugs through partnerships with drug manufacturers and direct-to-consumer (DTC) pharmacies. Since the launch, Congress has examined the website’s operations, the types of drugs available, consumer access to the advertised prices, and the impact on prescription drug...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13281/IF13281.1.pdf"
+    },
+    {
+        "id": "IF12945",
+        "source": "Congressional Research Service",
+        "title": "U.S. Strategic Bombers",
+        "publicationDate": "2026-07-31",
+        "category": "Defense",
+        "summary": "The U.S. Air Force deploys three strategic (or heavy) bombers—the B-52, B-1B, and B-2—to carry bombs or air-to-surface missiles for conventional and nuclear missions. Bombers carry heavy ordnance loads across long distances, for extended periods of time, to strike adversary targets of tactical and strategic importance. The Air Force is developing a new B-21 strategic bomber as a next-generation stealth aircraft to...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12945/IF12945.8.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
@@ -342,42 +414,6 @@
         "url": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss"
     },
     {
-        "id": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
-        "source": "NPR Politics",
-        "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
-        "publicationDate": "2026-07-31",
-        "category": "Economy",
-        "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
-        "url": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/31/nx-s1-5913860/trump-says-he-may-pull-todd-blanches-nomination-to-circumvent-gop-holdouts",
-        "source": "NPR Politics",
-        "title": "Trump says he may pull Todd Blanche's nomination to circumvent GOP holdouts",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "President Trump says he's willing to hold his nomination of Attorney General Todd Blanche until January, when he says he'll have an easier political calculation in the Senate.",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5913860/trump-says-he-may-pull-todd-blanches-nomination-to-circumvent-gop-holdouts"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/31/nx-s1-5913739/former-sen-flake-on-what-gop-objections-over-blanches-nomination-means-for-trump",
-        "source": "NPR Politics",
-        "title": "Former Sen. Flake on what GOP objections over Blanche's nomination means for Trump",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "NPR's Leila Fadel asks former Republican U.S. Sen. Jeff Flake what the GOP standoff over Todd Blanche's nomination suggests about the president's hold over his party in Congress.",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5913739/former-sen-flake-on-what-gop-objections-over-blanches-nomination-means-for-trump"
-    },
-    {
-        "id": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
-        "source": "NPR Politics",
-        "title": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
-        "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/u-s-will-make-visa-bond-program-permanent-affecting-mostly-african-countries",
         "source": "PBS NewsHour Politics",
         "title": "U.S. will make visa bond program permanent, affecting mostly African countries",
@@ -423,24 +459,6 @@
         "url": "https://www.pbs.org/newshour/show/unaccompanied-migrant-children-at-risk-of-losing-legal-representation"
     },
     {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html",
-        "source": "New York Times Politics",
-        "title": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan",
-        "publicationDate": "2026-07-31",
-        "category": "Foreign Policy",
-        "summary": "President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/07/31/us/politics/democrats-primary-elections-midterms.html",
-        "source": "New York Times Politics",
-        "title": "What Worries Democrats as the Midterms Heat Up",
-        "publicationDate": "2026-07-31",
-        "category": "Politics and Government",
-        "summary": "There’s a lot going right for the Democrats. Here’s what could go wrong.",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/democrats-primary-elections-midterms.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/",
         "source": "Washington Post Politics",
         "title": "Trump says he ended their careers. Now these GOP lame ducks are defying him.",
@@ -457,15 +475,6 @@
         "category": "Other",
         "summary": "Voters will decide whether to replace a nearly 70-year-old appointment system with direct elections that could reshape the state Supreme Court for decades.",
         "url": "https://www.washingtonpost.com/politics/2026/07/31/next-abortion-battle-is-over-kansass-highest-court/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R48956",
