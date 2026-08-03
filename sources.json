@@ -1,5 +1,14 @@
 [
     {
+        "id": "IF13269",
+        "source": "Congressional Research Service",
+        "title": "Artificial Intelligence and Biosecurity Issues",
+        "publicationDate": "2026-08-03",
+        "category": "Defense",
+        "summary": "Artificial intelligence (AI) is a term generally used to refer to computerized systems that work and react in ways commonly thought to require human intelligence. AI technologies, methodologies, and applications may benefit biological sciences research and development (R&D). For example, AI could be used in conjunction with biological design tools to enable drug design. These potential capabilities have also raised...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13269/IF13269.2.pdf"
+    },
+    {
         "id": "LSB11465",
         "source": "Congressional Research Service",
         "title": "The House Passes the KIDS Act",
@@ -7,15 +16,6 @@
         "category": "Healthcare",
         "summary": "On June 29, 2026, the U.S. House of Representatives passed the Kids Internet and Digital Safety (KIDS) Act (H.R. 7757). The KIDS Act consolidates a variety of legislative proposals aimed at protecting children and teens online. These proposals include the Kids Online Safety Act (KOSA), which would require online platforms to adopt default safeguards for minors, and the Children and Teens’ Online Privacy Protection...",
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11465/LSB11465.1.pdf"
-    },
-    {
-        "id": "IN11982",
-        "source": "Congressional Research Service",
-        "title": "Responding to Drought in the Colorado River Basin",
-        "publicationDate": "2026-08-03",
-        "category": "Economy",
-        "summary": "The Colorado River Basin covers more than 246,000 square miles in seven U.S. states and Mexico. Basin waters are governed by multiple documents, known collectively as the Law of the River. The Colorado River Compact of 1922 established the framework to apportion water supplies between the river’s Upper and Lower Basins, with each basin allocated 7.5 million acre-feet (MAF) annually; a subsequent agreement also...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN11982/IN11982.24.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4944-1.html",
@@ -45,6 +45,33 @@
         "url": "https://www.cfr.org/articles/voters-worry-about-election-integrity"
     },
     {
+        "id": "https://www.heritage.org/energy/report/horizontal-federalism-and-the-problem-extraterritoriality-energy-policy",
+        "source": "Heritage Foundation",
+        "title": "Horizontal Federalism and the Problem of Extraterritoriality in Energy Policy",
+        "publicationDate": "2026-08-03",
+        "category": "Economy",
+        "summary": "Congressional productivity, as measured by the number of bills enacted into law, has seen a steady decline since at least the 1980s. See, for instance, Minho Kim and Ashley Wu, “How the House Slumped to Historic Lows of Productivity in 2025,” The New York Times, January 16, 2026, https://www.nytimes.com/interactive/2026/01/17/us/politics/house-republicans-majority-productivity.html?eafs_enabled=false (accessed July...",
+        "url": "https://www.heritage.org/energy/report/horizontal-federalism-and-the-problem-extraterritoriality-energy-policy"
+    },
+    {
+        "id": "https://cms.hoover.org/research/republicans-handed-worrisome-signs-new-north-carolina-senate-poll",
+        "source": "Hoover Institution",
+        "title": "Republicans Handed Worrisome Signs In New North Carolina Senate Poll",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Daron Shaw said, \"Recent data put the average Republican advantage in North Carolina statewide races at about 3 points.\"",
+        "url": "https://cms.hoover.org/research/republicans-handed-worrisome-signs-new-north-carolina-senate-poll"
+    },
+    {
+        "id": "https://cms.hoover.org/research/patrick-deneens-conflicting-accounts-liberalism-america",
+        "source": "Hoover Institution",
+        "title": "Patrick Deneen’s Conflicting Accounts Of Liberalism In America",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "If you drastically vary your account of the accused while adamantly proclaiming his guilt, you cast doubt on your judgment. So it is with Patrick Deneen and his grave and longstanding accusation against classical liberalism in America.",
+        "url": "https://cms.hoover.org/research/patrick-deneens-conflicting-accounts-liberalism-america"
+    },
+    {
         "id": "https://cms.hoover.org/research/political-economy-palestine-featuring-hussein-aboubakr-mansour",
         "source": "Hoover Institution",
         "title": "The Political Economy of Palestine Featuring Hussein Aboubakr Mansour",
@@ -52,6 +79,15 @@
         "category": "Economy",
         "summary": "Most discourses about Israel or Palestine are morality plays of good guys vs bad guys. Egyptian-born Hussein Aboubakr Mansour takes a different approach.",
         "url": "https://cms.hoover.org/research/political-economy-palestine-featuring-hussein-aboubakr-mansour"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
+        "source": "NPR Politics",
+        "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "Prosecutors dropped their case against David Hearn on Friday, blaming Reflecting Pool damage on a \"botched installation\" rather than vandalism. That has implications for other people who were charged.",
+        "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped"
     },
     {
         "id": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
@@ -90,13 +126,31 @@
         "url": "https://www.npr.org/2026/08/03/nx-s1-5914644/trump-and-senate-gop-deadlocked-on-key-issues-as-congressional-recess-approaches"
     },
     {
-        "id": "https://www.npr.org/2026/08/03/nx-s1-5914815/political-strategist-weighs-in-on-the-tension-between-trump-and-senate-republicans",
-        "source": "NPR Politics",
-        "title": "Political strategist weighs in on the tension between Trump and Senate Republicans",
+        "id": "https://www.pbs.org/newshour/world/board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-urges-halt-to-strikes",
+        "source": "PBS NewsHour Politics",
+        "title": "Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes",
         "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "NPR's A Martinez speaks with political strategist Alex Conant about the tensions between the Senate and President Trump ahead of the long congressional recess that starts later this week.",
-        "url": "https://www.npr.org/2026/08/03/nx-s1-5914815/political-strategist-weighs-in-on-the-tension-between-trump-and-senate-republicans"
+        "category": "benjamin netanyhu",
+        "summary": "JERUSALEM, Israel (AP) — The Board of Peace official overseeing Gaza's postwar transition met Monday with Israeli Prime Minister Benjamin Netanyahu, according to a statement, in part to discuss a new disarmament deal the board reached with Hamas. Nikolay Mladenov, the high representative for Gaza, held \"constructive and detailed\" talks with the prime minister and his team, the Board of Peace said in a statement....",
+        "url": "https://www.pbs.org/newshour/world/board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-urges-halt-to-strikes"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump says new talks are 'last chance' for Iran to forge a deal",
+        "publicationDate": "2026-08-03",
+        "category": "Foreign Policy",
+        "summary": "Trump said in the Oval Office on Monday he expects negotiations that will reopen the Strait of Hormuz and create a pathway for Iran to address the United States' concerns about its nuclear program will begin in the next day or two.",
+        "url": "https://www.pbs.org/newshour/world/watch-trump-says-new-talks-are-last-chance-for-iran-to-forge-a-deal"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-bank-accounts-were-closed-due-to-concerns-over-possible-money-laundering-capital-one-says",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump bank accounts were closed due to concerns over possible money laundering, Capital One says",
+        "publicationDate": "2026-08-03",
+        "category": "Capital One",
+        "summary": "The court filing is tied to a lawsuit filed against Capital One by one of Trump's financial holding companies shortly after he was sworn into office a second time.",
+        "url": "https://www.pbs.org/newshour/politics/trump-bank-accounts-were-closed-due-to-concerns-over-possible-money-laundering-capital-one-says"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/maryland-democrats-considering-partisan-redistricting-for-2028-election",
@@ -117,76 +171,49 @@
         "url": "https://www.pbs.org/newshour/politics/kay-granger-first-republican-woman-from-texas-to-serve-in-the-house-has-died-at-age-83"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/democrats-future-is-on-the-line-as-el-sayed-and-stevens-make-final-push-in-michigan-primary",
-        "source": "PBS NewsHour Politics",
-        "title": "Democrats' future is on the line as El-Sayed and Stevens make final push in Michigan primary",
-        "publicationDate": "2026-08-03",
-        "category": "2026 Midterms",
-        "summary": "The Democrats running for U.S. Senate in Michigan spent one of their final days campaigning in Detroit-area churches and union halls.",
-        "url": "https://www.pbs.org/newshour/politics/democrats-future-is-on-the-line-as-el-sayed-and-stevens-make-final-push-in-michigan-primary"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-administration-weighs-proposal-to-gut-head-start-preschool-standards-leaving-states-to-set-the-rules",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump administration weighs proposal to gut Head Start preschool standards, leaving states to set the rules",
-        "publicationDate": "2026-08-03",
-        "category": "Donald Trump news",
-        "summary": "Two people familiar with the deliberations tell The Associated Press the Republican administration's proposed changes could significantly reduce the preschool program's quality standards.",
-        "url": "https://www.pbs.org/newshour/politics/trump-administration-weighs-proposal-to-gut-head-start-preschool-standards-leaving-states-to-set-the-rules"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/blanche-rescinds-anti-weaponization-fund-for-trump-allies-after-gop-senators-threaten-to-block-his-ag-bid",
-        "source": "PBS NewsHour Politics",
-        "title": "GOP holdouts say they will back Blanche's AG bid after striking deal over 'anti-weaponization fund'",
-        "publicationDate": "2026-08-03",
-        "category": "anti-weaponization fund",
-        "summary": "Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
-        "url": "https://www.pbs.org/newshour/politics/blanche-rescinds-anti-weaponization-fund-for-trump-allies-after-gop-senators-threaten-to-block-his-ag-bid"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6006297-trump-defends-miller-abuse-allegations/",
+        "id": "https://thehill.com/homenews/education/6006307-brown-president-paxson-resigning/",
         "source": "The Hill",
-        "title": "Trump praises Max Miller, calls dispute with ex- wife 'a very sad thing'",
+        "title": "Brown University president to step down after 15 years",
+        "publicationDate": "2026-08-03",
+        "category": "Education",
+        "summary": "Brown University President Christina Paxson said Monday she will step down at the end of the academic year, after she oversaw negotiations with the Trump administration over the past 18 months. Paxson, who started her tenure in 2012, said stepping down is the “right decision” for her and her family and the “best path” forward...",
+        "url": "https://thehill.com/homenews/education/6006307-brown-president-paxson-resigning/"
+    },
+    {
+        "id": "https://thehill.com/policy/sports-gaming/6006413-rodgers-attacks-fauci-senate-hearing/",
+        "source": "The Hill",
+        "title": "Aaron Rodgers: Fauci a ‘coward’ and a ‘criminal’ for taking the Fifth",
+        "publicationDate": "2026-08-03",
+        "category": "Sports & Gaming",
+        "summary": "Pittsburgh Steelers quarterback Aaron Rodgers launched into tirade against Dr. Anthony Fauci over the infectious disease expert's decision not to answer questions during a Senate hearing about the coronavirus pandemic last week. \"Nah, I'm gonna plead the Fifth,\" Rodgers said mocking Fauci on Monday while appearing on ESPN host Pat McAfee's talk show. \"Like that...",
+        "url": "https://thehill.com/policy/sports-gaming/6006413-rodgers-attacks-fauci-senate-hearing/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6006445-trump-warns-iran-last-chance/",
+        "source": "The Hill",
+        "title": "Trump says Iran facing 'last chance' before 'decapitation'",
+        "publicationDate": "2026-08-03",
+        "category": "Foreign Policy",
+        "summary": "President Trump on Monday warned that it was Iran’s “last chance” to make a peace deal with the U.S. or face “decapitation” as he touted the most recent talks with Tehran. Speaking from the Oval Office, Trump said the discussions with Iran are “not very complex” and “going to go quickly” this time around, claiming...",
+        "url": "https://thehill.com/homenews/6006445-trump-warns-iran-last-chance/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6006383-trump-slams-pirro-reflecting-pool/",
+        "source": "The Hill",
+        "title": "Trump: Pirro 'choked,' 'folded like an umbrella' in Reflecting Pool case",
         "publicationDate": "2026-08-03",
         "category": "Administration",
-        "summary": "President Trump praised Rep. Max Miller (R-Ohio) as “a good person” on Monday amid domestic abuse allegations against the congressman. “It's a very sad thing. I know Max. He's a good person. I mean, I always thought he was a very good person, and I’m going to let the families figure that out,” Trump told...",
-        "url": "https://thehill.com/homenews/administration/6006297-trump-defends-miller-abuse-allegations/"
+        "summary": "President Trump said U.S. Attorney Jeanine Pirro “choked” in her decision to drop charges against U.S. Olympian David Hearn in the Reflecting Pool vandalism case, casting blame on the judge overseeing the case. “The judge was extremely unfriendly to Jeanine, and frankly, I think she choked because the judge was really vicious,” Trump told reporters...",
+        "url": "https://thehill.com/homenews/administration/6006383-trump-slams-pirro-reflecting-pool/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6006222-house-ethics-censure-chuck-edwards-sexual-harassment/",
+        "id": "https://thehill.com/homenews/house/6006362-house-ethics-censure-chuck-edwards/",
         "source": "The Hill",
-        "title": "Ethics panel says Rep. Chuck Edwards violated ‘spirit’ of sexual harassment policies, recommends censure",
+        "title": "Read: Ethics Committee report finds Edwards violated 'spirit' of sexual harassment rules",
         "publicationDate": "2026-08-03",
         "category": "House",
-        "summary": "The House Ethics Committee on Monday announced that it had found Rep. Chuck Edwards's (R-N.C.) conduct with two young staff members had violated “the spirit” of the chamber’s rules against sexual harassment and unwanted advances and recommended he be formally censured by the full House. Edwards, who is married, had engaged in “highly unprofessional” conduct...",
-        "url": "https://thehill.com/homenews/house/6006222-house-ethics-censure-chuck-edwards-sexual-harassment/"
-    },
-    {
-        "id": "https://thehill.com/homenews/6006121-morocco-names-major-highway-after-trump-amid-dispute-over-western-sahara/",
-        "source": "The Hill",
-        "title": "Morocco names major highway after Trump amid dispute over Western Sahara",
-        "publicationDate": "2026-08-03",
-        "category": "News",
-        "summary": "Morocco recently named a highway that spans more than 1,055 kilometers after President Trump, citing his decision to recognize Rabat’s sovereignty over the Western Sahara as the reason for the nod. “While our relations have always been rooted in close friendship and loyalty, they have never been as vibrant and as fruitful as they have...",
-        "url": "https://thehill.com/homenews/6006121-morocco-names-major-highway-after-trump-amid-dispute-over-western-sahara/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6005968-trump-immigration-poll-disapproval/",
-        "source": "The Hill",
-        "title": "39 percent approve of Trump performance on immigration: Survey",
-        "publicationDate": "2026-08-03",
-        "category": "Administration",
-        "summary": "A new poll shows that more Americans do not approve of President Trump's handling of immigration, a core issue on his political agenda. The Associated Press-NORC Center for Public Affairs Research found that 39 percent of respondents approve of his handling of immigration — a 10-point decrease from the beginning of his second term — and...",
-        "url": "https://thehill.com/homenews/administration/6005968-trump-immigration-poll-disapproval/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6006201-trump-economic-message-west/",
-        "source": "The Hill",
-        "title": "Trump taking economic message to California",
-        "publicationDate": "2026-08-03",
-        "category": "Economy",
-        "summary": "President Trump will travel to California and Nevada to sell his economic message this week with stops in Los Angeles and Las Vegas. On Tuesday, the president will attend a Republican National Committee dinner at Trump National Golf Club in Los Angeles. He will then head to Las Vegas on Wednesday to tout tax cuts...",
-        "url": "https://thehill.com/homenews/administration/6006201-trump-economic-message-west/"
+        "summary": "The House Ethics Committee on Monday recommended Rep. Chuck Edwards (R-N.C.) be formally censured by the full House because he had violated “the spirit” of the chamber’s rules against sexual harassment and unwanted advances. The report from the committee said Edwards, who is married, had engaged in “highly unprofessional” conduct with two members of his...",
+        "url": "https://thehill.com/homenews/house/6006362-house-ethics-censure-chuck-edwards/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-loopholes.html",
@@ -234,6 +261,15 @@
         "url": "https://www.nytimes.com/2026/08/03/climate/trump-bears-ears-monument-recreation.html"
     },
     {
+        "id": "https://www.washingtonpost.com/business/2026/08/03/why-trump-is-lashing-out-chevron-amid-profit-windfall/",
+        "source": "Washington Post Politics",
+        "title": "Why Trump is lashing out at Chevron amid profit windfall",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "The president criticized Chevron for not giving the administration what he considers adequate credit for the oil major’s financial success.",
+        "url": "https://www.washingtonpost.com/business/2026/08/03/why-trump-is-lashing-out-chevron-amid-profit-windfall/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/08/03/black-voters-divided-progressives-are-pivotal-michigan-senate-primary/",
         "source": "Washington Post Politics",
         "title": "Crucial Senate race could come down to Michigan’s Black voters",
@@ -261,15 +297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-        "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-        "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
@@ -288,22 +315,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
         "publicationDate": "2026-08-03",
         "category": "Other",
-        "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-        "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
+        "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+        "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Apple launches legal challenge to UK attempt to access encrypted user data",
+        "id": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
         "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "iPhone maker files complaint over latest government demand to connect to cloud backups of British users",
-        "url": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1"
+        "category": "Healthcare",
+        "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/240b0ef7-4ee1-4900-b68e-2a2dc0caa32c",
@@ -313,6 +340,15 @@
         "category": "Other",
         "summary": "Opposition decries attempt by Israel Katz to oust commander responsible for West Bank as sop to far-right voters",
         "url": "https://www.ft.com/content/240b0ef7-4ee1-4900-b68e-2a2dc0caa32c"
+    },
+    {
+        "id": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Apple launches legal challenge to UK attempt to access encrypted user data",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "iPhone maker files complaint over latest government demand to connect to cloud backups of British users",
+        "url": "https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9",
@@ -367,24 +403,6 @@
         "category": "Foreign Policy",
         "summary": "The PRC's surface-level economic stability masks deep structural problems that require urgent, decisive reform toward a new growth model, for the sake of both the Chinese people and the rest of the world.",
         "url": "https://cms.hoover.org/research/china-needs-new-growth-model"
-    },
-    {
-        "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-29",
-        "source": "Hoover Institution",
-        "title": "2026 Issue 29",
-        "publicationDate": "2026-08-02",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-29"
-    },
-    {
-        "id": "https://cms.hoover.org/research/beijing-celebrating-race-it-never-ran",
-        "source": "Hoover Institution",
-        "title": "Beijing Is Celebrating a Race It Never Ran",
-        "publicationDate": "2026-08-02",
-        "category": "Other",
-        "summary": "The PRC's apparent triumph in this year's Pew global opinion survey reflects not genuine soft power but rather a temporary collapse in U.S. standing under Trump that could reverse with the next swing of the political pendulum.",
-        "url": "https://cms.hoover.org/research/beijing-celebrating-race-it-never-ran"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/02/democratic-socialists-are-already-eyeing-2028-with-aoc-mind/",
@@ -540,15 +558,6 @@
         "url": "https://www.heritage.org/education/commentary/trump-tells-foreign-students-overstay-your-visa-face-the-consequences"
     },
     {
-        "id": "https://www.heritage.org/energy/commentary/will-the-iran-war-kill-opec",
-        "source": "Heritage Foundation",
-        "title": "Will the Iran War Kill OPEC?",
-        "publicationDate": "2026-07-30",
-        "category": "Economy",
-        "summary": "OPEC looks like it might be coming undone. Major members have threatened to leave, and one already has. This could eventually mean more global oil supplies, which will mean lower gasoline prices here at home. OPEC started in the 1960s explicitly to keep oil prices high by cartelizing production. Its members intentionally pump less oil to create predetermined shortages that keep prices high. Like any cartel, this...",
-        "url": "https://www.heritage.org/energy/commentary/will-the-iran-war-kill-opec"
-    },
-    {
         "id": "https://www.hudson.org/foreign-policy/us-retaliates-against-iran-heavy-strikes-following-recent-attacks-rebeccah-heinrichs",
         "source": "Hudson Institute",
         "title": "US Retaliates Against Iran with Heavy Strikes Following Recent Attacks",
@@ -639,21 +648,21 @@
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
     },
     {
-        "id": "R47846",
+        "id": "R47638",
         "source": "Congressional Research Service",
-        "title": "Reference Table: Expiring Provisions in the “Tax Cuts and Jobs Act” (TCJA, P.L. 115-97)",
-        "publicationDate": "2024-11-13",
+        "title": "Consol-Type Perpetual Bonds and the Debt Limit: In Brief",
+        "publicationDate": "2023-07-31",
         "category": "Economy",
-        "summary": "A variety of temporary changes enacted as part of P.L. 115-97, commonly referred to as the Tax Cuts and Jobs Act (TCJA), are scheduled to expire. Many TCJA provisions affect individuals and families and are scheduled to expire at the end of 2025. Others affecting businesses, including pass-through businesses are scheduled to expire between 2025 and 2028. At the time of the law’s passage, the Joint Committee on...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47846/R47846.8.pdf"
+        "summary": "During recent debt limit episodes, some economists and journalists have contended that the U.S. President or Treasury Secretary could assert authorities to sidestep constraints posed by the statutory limit on outstanding federal debt Such proposals, they argue, would avoid disruptions in federal operations or financial markets that might follow the lack of congressional action to modify the debt limit. One...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47638/R47638.4.pdf"
     },
     {
-        "id": "R45102",
+        "id": "R42058",
         "source": "Congressional Research Service",
-        "title": "Diversity Immigrants’ Regions and Countries of Origin: Fact Sheet",
-        "publicationDate": "2018-02-13",
+        "title": "Market Dynamics That May Have Contributed to Solyndra’s Bankruptcy",
+        "publicationDate": "2011-10-25",
         "category": "Other",
-        "summary": "Ongoing congressional deliberations over whether to maintain, alter, or eliminate the diversity immigrant visa program (also known as the “lottery” or DV program) include an interest in the geographical origins of immigrants who have been admitted through this program. This fact sheet provides data on the regional and national origins of diversity immigrants (DV immigrants) and how they have shifted over time....",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45102/R45102.5.pdf"
+        "summary": "On September 6, 2011, Solyndra, a solar system manufacturing company, filed for Chapter 11 bankruptcy protection. In September 2009, Solyndra received a loan guarantee commitment from the Department of Energy valued at $535 million, of which $527 million had reportedly been drawn down at the time of the bankruptcy announcement. Financial stress that leads to corporate bankruptcy can be caused by a number of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42058/R42058.4.pdf"
     }
 ]
