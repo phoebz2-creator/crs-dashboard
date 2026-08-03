@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4944-1.html",
+        "source": "RAND Corporation",
+        "title": "The Economics of AI Counterproliferation",
+        "publicationDate": "2026-08-03",
+        "category": "Defense",
+        "summary": "Once an artificial intelligence (AI) capability has been demonstrated at the frontier, the cost of reproducing it tends to fall. A new RAND economic framework shows the implications for governance regimes of AI capabilities and for policy and strategy.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4944-1.html"
+    },
+    {
         "id": "https://cms.hoover.org/research/political-economy-palestine-featuring-hussein-aboubakr-mansour",
         "source": "Hoover Institution",
         "title": "The Political Economy of Palestine Featuring Hussein Aboubakr Mansour",
@@ -7,6 +16,15 @@
         "category": "Economy",
         "summary": "Most discourses about Israel or Palestine are morality plays of good guys vs bad guys. Egyptian-born Hussein Aboubakr Mansour takes a different approach.",
         "url": "https://cms.hoover.org/research/political-economy-palestine-featuring-hussein-aboubakr-mansour"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
+        "source": "NPR Politics",
+        "title": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "Federal agencies are rushing to move hundreds of workers into new buildings. Employees say the moves are significantly disrupting their work.",
+        "url": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard"
     },
     {
         "id": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
@@ -45,58 +63,76 @@
         "url": "https://www.npr.org/2026/08/03/nx-s1-5914815/political-strategist-weighs-in-on-the-tension-between-trump-and-senate-republicans"
     },
     {
-        "id": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund",
-        "source": "NPR Politics",
-        "title": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
-        "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "Acting Attorney General Todd Blanche issued a formal order late Sunday terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
-        "url": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6003165-senate-republicans-trump-political-liability-midterms/",
-        "source": "The Hill",
-        "title": "Senate Republicans see Trump as a growing political liability",
-        "publicationDate": "2026-08-03",
-        "category": "Senate",
-        "summary": "Senate Republicans say they see President Trump as a growing political liability as they try to hang on to control of the Senate in the 2026 midterm elections, citing the president's repeated attacks on their ability to govern and his refusal to abandon a proposed $1.8 billion anti-weaponization fund for MAGA allies. GOP senators also...",
-        "url": "https://thehill.com/homenews/senate/6003165-senate-republicans-trump-political-liability-midterms/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6005040-justice-dept-ends-anti-weaponization-fund/",
-        "source": "The Hill",
-        "title": "Cornyn reaches deal with Justice Department to allow Blanche nomination to advance",
-        "publicationDate": "2026-08-03",
-        "category": "Senate",
-        "summary": "Sen. John Cornyn (R-Texas) has reached a deal with the Justice Department to end the $1.8 billion “anti-weaponization” fund for President Trump's allies, paving the way for Cornyn to vote to advance Todd Blanche’s nomination to serve as attorney general. The Senate Judiciary Committee is scheduled to vote on Blanche’s nomination on Tuesday and Cornyn...",
-        "url": "https://thehill.com/homenews/senate/6005040-justice-dept-ends-anti-weaponization-fund/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6003191-pete-hegseth-iran-war-reconciliation-funding/",
-        "source": "The Hill",
-        "title": "Hegseth struggles to sell Senate on Iran war funding",
-        "publicationDate": "2026-08-03",
-        "category": "Defense",
-        "summary": "Defense Secretary Pete Hegseth has yet to win any notable converts in the Trump administration's push for tens of billions of dollars to quickly inject into the Iran war, which has rapidly exhausted U.S. stockpiles and Pentagon coffers. The effort is further complicated by Republican senators losing confidence in Hegseth’s leadership of the U.S. military as the war with...",
-        "url": "https://thehill.com/policy/defense/6003191-pete-hegseth-iran-war-reconciliation-funding/"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/6003271-proposed-federal-grant-omb/",
-        "source": "The Hill",
-        "title": "OMB's proposed grantmaking rule will destabilize biomedical research, experts warn",
-        "publicationDate": "2026-08-03",
-        "category": "Economy",
-        "summary": "A proposed rule from the Office of Management and Budget to revise the federal grantmaking process is drawing widespread opposition from across multiple industries. Members of the medical research community warn the additional red tape will only serve to impede U.S. biomedical research. The Office of Management and Budget published a proposed rule in May that would, among several actions, instate a pre-issuance...",
-        "url": "https://thehill.com/policy/healthcare/6003271-proposed-federal-grant-omb/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/keeping-score/6002849-fifa-world-cup-private-equity/",
-        "source": "The Hill",
-        "title": "FIFA backs off World Cup private equity pitch after global fury: 5 things to know",
+        "id": "https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump claims Iran talks will start Monday, and 4 other developments in the Middle East",
         "publicationDate": "2026-08-03",
         "category": "Foreign Policy",
-        "summary": "FIFA pulled back late last week on an effort to cash in on the popularity of the World Cup by selling it to private equity as part of a broader investment strategy, a move that had sparked an international controversy and threatened the participation in the world’s most popular sporting event. At the center of it all was FIFA President...",
-        "url": "https://thehill.com/newsletters/keeping-score/6002849-fifa-world-cup-private-equity/"
+        "summary": "U.S. President Donald Trump said new talks to wind down the war in Iran will start Monday, after announcing he is holding off on new massive strikes he had threatened to unleash on the country.",
+        "url": "https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east"
+    },
+    {
+        "id": "https://thehill.com/opinion/white-house/6004136-mcconnell-missed-senate-votes/",
+        "source": "The Hill",
+        "title": "What kind of political advertising spin can help the flailing Republicans?",
+        "publicationDate": "2026-08-03",
+        "category": "Healthcare",
+        "summary": "Kentucky Gov. Andy Beshear is demanding that Senator Mitch McConnell provide a video message to address rumors regarding his health following several weeks of inactivity in the Senate.",
+        "url": "https://thehill.com/opinion/white-house/6004136-mcconnell-missed-senate-votes/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6005137-carville-criticizes-democratic-progressives/",
+        "source": "The Hill",
+        "title": "Carville: Progressive left 'too hot-headed to know that they're not popular'",
+        "publicationDate": "2026-08-03",
+        "category": "Campaign",
+        "summary": "Democratic strategist James Carville on Sunday accused the Democratic Party's progressive left of being \"too hot-headed to know that they're not popular.\" Carville made the claim in an interview for CNN's \"The Whole Story with Anderson Cooper\" while talking about the Michigan Senate Democratic primary race between Abdul El-Sayed and Rep. Haley Stevens (D-Mich.). Carville...",
+        "url": "https://thehill.com/homenews/campaign/6005137-carville-criticizes-democratic-progressives/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/",
+        "source": "The Hill",
+        "title": "Live updates: Deal to end part of Trump's IRS settlement clears Blanche's confirmation path",
+        "publicationDate": "2026-08-03",
+        "category": "Administration",
+        "summary": "The Senate Judiciary Committee is expected to vote Tuesday on acting Attorney General Todd Blanche's nomination, a path smoothed on Sunday by a deal reached with Sen. John Cornyn (R-Texas). “Sen. Cornyn has reached an agreement with the Department of Justice, which will be issuing a formal order permanently terminating the anti-weaponization fund and making...",
+        "url": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/"
+    },
+    {
+        "id": "https://thehill.com/opinion/judiciary/supreme-court/6003166-public-distrust-scotus-partisanship/",
+        "source": "The Hill",
+        "title": "Just admit it: The Supreme Court is political",
+        "publicationDate": "2026-08-03",
+        "category": "Opinions - Supreme Court",
+        "summary": "Let’s face it, the Supreme Court has dug itself into a hole, and it just keeps digging.",
+        "url": "https://thehill.com/opinion/judiciary/supreme-court/6003166-public-distrust-scotus-partisanship/"
+    },
+    {
+        "id": "https://thehill.com/homenews/editors-call/6005181-senate-government-funding-deal-live-discussion/",
+        "source": "The Hill",
+        "title": "Cornyn deals with Blanche; Senate gets spending deal; GOP family clashes: Join the live discussion",
+        "publicationDate": "2026-08-03",
+        "category": "Editor's Call",
+        "summary": "Sen. Bernie Moreno (R-Ohio) is calling for his son-in-law, Rep. Max Miller (R-Ohio), to resign from the House over allegations from Miller’s former wife. It’s the latest personnel problem for Speaker Mike Johnson (R-La.). The Senate is in session, and late Sunday made progress on a deal to fund the government and get President Trump’s...",
+        "url": "https://thehill.com/homenews/editors-call/6005181-senate-government-funding-deal-live-discussion/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html",
+        "source": "New York Times Politics",
+        "title": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
+        "publicationDate": "2026-08-03",
+        "category": "Granger",
+        "summary": "She was the first Republican woman from the state to be elected to Congress. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.",
+        "url": "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html",
+        "source": "New York Times Politics",
+        "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
+        "publicationDate": "2026-08-03",
+        "category": "Democratic Party",
+        "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.",
+        "url": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/03/upshot/arch-trump-historic-review.html",
@@ -126,18 +162,9 @@
         "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/02/us/politics/trump-iran-negotiations.html",
-        "source": "New York Times Politics",
-        "title": "New Round of Trump Threats and Pullbacks Raises Uncertainty in Mideast",
-        "publicationDate": "2026-08-03",
-        "category": "Foreign Policy",
-        "summary": "Analysts and lawmakers are trying to divine whether Mr. Trump’s latest announcement means negotiations with Iran will truly get underway Monday or if the president is just working through unappealing options.",
-        "url": "https://www.nytimes.com/2026/08/02/us/politics/trump-iran-negotiations.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/03/black-voters-divided-progressives-are-pivotal-michigan-senate-primary/",
         "source": "Washington Post Politics",
-        "title": "Black voters, divided on progressives, are pivotal in Michigan Senate primary",
+        "title": "Crucial Senate race could come down to Michigan’s Black voters",
         "publicationDate": "2026-08-03",
         "category": "Other",
         "summary": "A disruptor or a pragmatist? In Tuesday's contest between Abdul El-Sayed and Haley Stevens, Democrats weigh whether to remake the political system or work within it.",
@@ -189,58 +216,58 @@
         "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US and Japan take action to prop up yen in rare joint move",
+        "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
         "publicationDate": "2026-08-03",
         "category": "Other",
-        "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-        "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss"
+        "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+        "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/f2180678-aebb-44c5-b7ad-483db9b5ee28",
+        "id": "https://www.ft.com/content/0eec21be-80c4-4fca-991a-32fbd58cc653?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Can Democrats win over the working class?",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "A new report shows that the party can’t take disillusioned Trump voters for granted",
+        "url": "https://www.ft.com/content/0eec21be-80c4-4fca-991a-32fbd58cc653?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/547bc3c3-6778-42d3-9bed-fcc3d0c28068",
+        "source": "Financial Times World",
+        "title": "Why Burnham is wrong about education and opportunity",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "Success in adulthood is not just about connections",
+        "url": "https://www.ft.com/content/547bc3c3-6778-42d3-9bed-fcc3d0c28068"
+    },
+    {
+        "id": "https://www.ft.com/content/f2180678-aebb-44c5-b7ad-483db9b5ee28?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Reform’s Richard Tice probed over alleged failure to declare an interest",
         "publicationDate": "2026-08-03",
         "category": "Other",
-        "summary": "UK’s parliamentary standards watchdog is investigating the party’s deputy leader",
-        "url": "https://www.ft.com/content/f2180678-aebb-44c5-b7ad-483db9b5ee28"
+        "summary": "UK’s parliamentary standards watchdog is investigating the rightwing party’s deputy leader",
+        "url": "https://www.ft.com/content/f2180678-aebb-44c5-b7ad-483db9b5ee28?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/d0fb3d34-cb05-44e5-8fea-ac3753aecb7a?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Reform UK promises large-scale ‘military operation’ to block small boat crossings",
-        "publicationDate": "2026-08-03",
-        "category": "Defense",
-        "summary": "Rightwing party’s policy announcement comes as Reform drops behind Labour in polls",
-        "url": "https://www.ft.com/content/d0fb3d34-cb05-44e5-8fea-ac3753aecb7a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Oil slides after Trump says talks with Iran will resume",
-        "publicationDate": "2026-08-03",
-        "category": "Foreign Policy",
-        "summary": "Tehran says a deal with Oman to reopen Strait of Hormuz to shipping was close",
-        "url": "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/d65cbd70-dc0b-4026-b80f-feeb8c152b0c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Don’t let tax rows eclipse the fundamentals of social care",
-        "publicationDate": "2026-08-03",
-        "category": "Economy",
-        "summary": "Like in the case of wind power, agreement on the big structural issues is much more important than finance",
-        "url": "https://www.ft.com/content/d65cbd70-dc0b-4026-b80f-feeb8c152b0c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Todd Blanche confirms scrapping of $1.8bn ‘slush fund’ ahead of confirmation vote",
+        "title": "Football has given Europe a rare geopolitical victory",
         "publicationDate": "2026-08-03",
         "category": "Other",
-        "summary": "Acting US attorney-general U-turns on ‘anti-weaponisation fund’ after two Republicans threaten to torpedo nomination",
-        "url": "https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580?syn-25a6b1a6=1"
+        "summary": "Players like Lamine Yamal and Jude Bellingham are Europe’s rare earths",
+        "url": "https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/8cf8bbb2-e286-4824-8ec3-6404d2756bc3?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: AstraZeneca and Bristol Myers Squibb discuss $400bn tie-up",
+        "publicationDate": "2026-08-03",
+        "category": "Foreign Policy",
+        "summary": "Also in today’s newsletter: Oil prices drop after Trump says talks with Iran will begin today and Uefa threatens Fifa with legal action",
+        "url": "https://www.ft.com/content/8cf8bbb2-e286-4824-8ec3-6404d2756bc3?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/the-world-should-not-ignore-chinas-obviously-undervalued-currency",
@@ -324,15 +351,6 @@
         "url": "https://www.pbs.org/newshour/politics/sen-bernie-moreno-says-former-son-in-law-max-miller-should-not-serve-in-the-house"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html",
-        "source": "New York Times Politics",
-        "title": "‘Comradely’ Talks and a ‘Deer Leader’ Mascot: Scenes From the D.S.A. Summit",
-        "publicationDate": "2026-08-02",
-        "category": "Midterm Elections (2026)",
-        "summary": "At a national meeting of the Democratic Socialists of America, nervous energy and a sprawling tableau of sometimes-competing interests were on display.",
-        "url": "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/02/democratic-socialists-are-already-eyeing-2028-with-aoc-mind/",
         "source": "Washington Post Politics",
         "title": "A democratic socialist in the White House? Activists are thinking big.",
@@ -340,24 +358,6 @@
         "category": "Other",
         "summary": "The Democratic Socialists of America summit was abuzz about whether to endorse a presidential candidate, potentially Alexandria Ocasio-Cortez.",
         "url": "https://www.washingtonpost.com/politics/2026/08/02/democratic-socialists-are-already-eyeing-2028-with-aoc-mind/"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/darline-graham-promotes-trumps-agenda-in-her-political-debut-ahead-of-special-senate-primary",
-        "source": "PBS NewsHour Politics",
-        "title": "Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary",
-        "publicationDate": "2026-08-01",
-        "category": "Darline Graham",
-        "summary": "As one of nine Republicans seeking to replace him more permanently in a special primary election set for Aug. 11, Graham is a relative political unknown facing off against some of the state's best-known GOP names.",
-        "url": "https://www.pbs.org/newshour/politics/darline-graham-promotes-trumps-agenda-in-her-political-debut-ahead-of-special-senate-primary"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/08/01/general-warns-pentagon-he-lacks-sufficient-forces-protect-israel/",
-        "source": "Washington Post Politics",
-        "title": "U.S. general warns Pentagon he lacks sufficient forces to protect Israel",
-        "publicationDate": "2026-08-01",
-        "category": "Defense",
-        "summary": "A shortage of Navy destroyers, used to defend against Iranian ballistic missile attacks, will force the head of U.S. European Command to prioritize the U.S. homeland instead, officials said.",
-        "url": "https://www.washingtonpost.com/national-security/2026/08/01/general-warns-pentagon-he-lacks-sufficient-forces-protect-israel/"
     },
     {
         "id": "R48089",
@@ -468,42 +468,6 @@
         "url": "https://www.hudson.org/national-security-defense/caspian-sea-security-luke-coffey"
     },
     {
-        "id": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
-        "source": "European Council on Foreign Relations",
-        "title": "Alone at the border: Ceuta and Europe’s solidarity failure",
-        "publicationDate": "2026-07-31",
-        "category": "Human Rights and Democracy",
-        "summary": "By failing to show solidarity with a member state under pressure, the EU is encouraging Morocco and others to keep using migration as a tool of coercion.",
-        "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/"
-    },
-    {
-        "id": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/",
-        "source": "European Council on Foreign Relations",
-        "title": "How splits on the right may threaten Poland’s pro-European camp",
-        "publicationDate": "2026-07-31",
-        "category": "European Power",
-        "summary": "More than 40 MPs have walked out of Law and Justice, Poland’s largest opposition party, and will court centre-right voters who put Donald Tusk in power in 2023. To win them back, Tusk should make the European argument he has spent years avoiding",
-        "url": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/",
-        "source": "European Council on Foreign Relations",
-        "title": "Defining modernity in South-East Asia",
-        "publicationDate": "2026-07-31",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes LuHan Gabel, Ooi Kee Beng and Chelsea Nguyen to explore how younger generations in China, Malaysia and Vietnam are rethinking the meaning of modernity in a post-Western world",
-        "url": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/"
-    },
-    {
-        "id": "R48956",
-        "source": "Congressional Research Service",
-        "title": "National Security, Department of State, and Related Programs: FY2027 Budget and Appropriations",
-        "publicationDate": "2026-07-30",
-        "category": "Economy",
-        "summary": "Congress typically considers 12 distinct appropriations measures on an annual basis to fund federal programs and activities. Between FY2008 and FY2025, one of these measures was the Department of State, Foreign Operations, and Related Programs (SFOPS) appropriations. Beginning in FY2026, Congress retitled this measure as the National Security, Department of State, and Related Programs (NSRP) appropriations. The...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48956/R48956.4.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4983-1.html",
         "source": "RAND Corporation",
         "title": "A Structured Approach to Identifying and Characterizing AI Vulnerabilities",
@@ -594,31 +558,13 @@
         "url": "https://www.hudson.org/foreign-policy/whats-trumps-next-move-iran-rebeccah-heinrichs"
     },
     {
-        "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
-        "source": "European Council on Foreign Relations",
-        "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
+        "id": "IF13279",
+        "source": "Congressional Research Service",
+        "title": "Regulating State, Local, Tribal, and Territorial Law Enforcement Actions to Counter Unmanned Aircraft Systems (C-UAS)",
         "publicationDate": "2026-07-29",
-        "category": "European Security",
-        "summary": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
-        "url": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/"
-    },
-    {
-        "id": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/",
-        "source": "European Council on Foreign Relations",
-        "title": "Two of a kind: How France and Italy can show the way for Europe’s Africa policy",
-        "publicationDate": "2026-07-29",
-        "category": "Africa",
-        "summary": "Rome and Paris have each overhauled their economic strategies towards Africa in the past few years, competing openly for influence on the continent. Here is how the EU can use that rivalry to sharpen Europe’s offer to Africa",
-        "url": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4405-5.html",
-        "source": "RAND Corporation",
-        "title": "Veterans’ Participation in Public Programs",
-        "publicationDate": "2026-07-28",
-        "category": "Other",
-        "summary": "The authors analyze why veterans participate in social safety net programs at different rates than nonveterans, and how, specifically, receipt of disability compensation benefits drives these differences.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4405-5.html"
+        "category": "Defense",
+        "summary": "The use of unmanned aircraft systems (UAS, or drones) has increased for commercial and recreational purposes; so too have concerns about their potential public safety and security risks. Since 2018, federal law enforcement agencies within the U.S. Department of Justice (DOJ) and U.S. Department of Homeland Security (DHS) have had counter-unmanned aircraft systems (C-UAS) authorities to respond to threats from...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13279/IF13279.1.pdf"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
