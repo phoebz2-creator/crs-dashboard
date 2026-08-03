@@ -1,5 +1,14 @@
 [
     {
+        "id": "IN11982",
+        "source": "Congressional Research Service",
+        "title": "Responding to Drought in the Colorado River Basin",
+        "publicationDate": "2026-08-03",
+        "category": "Economy",
+        "summary": "The Colorado River Basin covers more than 246,000 square miles in seven U.S. states and Mexico. Basin waters are governed by multiple documents, known collectively as the Law of the River. The Colorado River Compact of 1922 established the framework to apportion water supplies between the river’s Upper and Lower Basins, with each basin allocated 7.5 million acre-feet (MAF) annually; a subsequent agreement also...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN11982/IN11982.23.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4944-1.html",
         "source": "RAND Corporation",
         "title": "The Economics of AI Counterproliferation",
@@ -18,15 +27,6 @@
         "url": "https://cms.hoover.org/research/political-economy-palestine-featuring-hussein-aboubakr-mansour"
     },
     {
-        "id": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
-        "source": "NPR Politics",
-        "title": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
-        "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "Federal agencies are rushing to move hundreds of workers into new buildings. Employees say the moves are significantly disrupting their work.",
-        "url": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard"
-    },
-    {
         "id": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
         "source": "NPR Politics",
         "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
@@ -36,13 +36,22 @@
         "url": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump"
     },
     {
-        "id": "https://www.npr.org/2026/08/03/nx-s1-5913239/activist-david-hogg-talks-about-the-future-of-the-democratic-party",
+        "id": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
         "source": "NPR Politics",
-        "title": "Activist David Hogg talks about the future of the Democratic Party",
+        "title": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
         "publicationDate": "2026-08-03",
         "category": "Other",
-        "summary": "NPR's Michel Martin speaks with gun violence prevention activist David Hogg about the future of the Democratic Party and calls for him to lead the Democratic National Committee.",
-        "url": "https://www.npr.org/2026/08/03/nx-s1-5913239/activist-david-hogg-talks-about-the-future-of-the-democratic-party"
+        "summary": "Federal agencies are rushing to move hundreds of workers into new buildings. Employees say the moves are significantly disrupting their work.",
+        "url": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/03/nx-s1-5913239/politics-david-hogg-democrats",
+        "source": "NPR Politics",
+        "title": "Progressive youth leader David Hogg calls for change in 'geriatric' Democratic Party",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "David Hogg, a survivor of the Parkland High School shooting who co-founded the progressive youth group Leaders We Deserve, is calling for radical change in the \"geriatric\" Democratic Party.",
+        "url": "https://www.npr.org/2026/08/03/nx-s1-5913239/politics-david-hogg-democrats"
     },
     {
         "id": "https://www.npr.org/2026/08/03/nx-s1-5914644/trump-and-senate-gop-deadlocked-on-key-issues-as-congressional-recess-approaches",
@@ -63,6 +72,33 @@
         "url": "https://www.npr.org/2026/08/03/nx-s1-5914815/political-strategist-weighs-in-on-the-tension-between-trump-and-senate-republicans"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/democrats-future-is-on-the-line-as-el-sayed-and-stevens-make-final-push-in-michigan-primary",
+        "source": "PBS NewsHour Politics",
+        "title": "Democrats' future is on the line as El-Sayed and Stevens make final push in Michigan primary",
+        "publicationDate": "2026-08-03",
+        "category": "2026 Midterms",
+        "summary": "The Democrats running for U.S. Senate in Michigan spent one of their final days campaigning in Detroit-area churches and union halls.",
+        "url": "https://www.pbs.org/newshour/politics/democrats-future-is-on-the-line-as-el-sayed-and-stevens-make-final-push-in-michigan-primary"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-administration-weighs-proposal-to-gut-head-start-preschool-standards-leaving-states-to-set-the-rules",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump administration weighs proposal to gut Head Start preschool standards, leaving states to set the rules",
+        "publicationDate": "2026-08-03",
+        "category": "Donald Trump news",
+        "summary": "Two people familiar with the deliberations tell The Associated Press the Republican administration's proposed changes could significantly reduce the preschool program's quality standards.",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-weighs-proposal-to-gut-head-start-preschool-standards-leaving-states-to-set-the-rules"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/blanche-rescinds-anti-weaponization-fund-for-trump-allies-after-gop-senators-threaten-to-block-his-ag-bid",
+        "source": "PBS NewsHour Politics",
+        "title": "GOP holdouts say they will back Blanche's AG bid after striking deal over 'anti-weaponization fund'",
+        "publicationDate": "2026-08-03",
+        "category": "anti-weaponization fund",
+        "summary": "Acting Attorney General Todd Blanche has issued a formal order terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
+        "url": "https://www.pbs.org/newshour/politics/blanche-rescinds-anti-weaponization-fund-for-trump-allies-after-gop-senators-threaten-to-block-his-ag-bid"
+    },
+    {
         "id": "https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east",
         "source": "PBS NewsHour Politics",
         "title": "Trump claims Iran talks will start Monday, and 4 other developments in the Middle East",
@@ -72,49 +108,58 @@
         "url": "https://www.pbs.org/newshour/world/trump-claims-iran-talks-will-start-monday-and-4-other-developments-in-the-middle-east"
     },
     {
-        "id": "https://thehill.com/opinion/white-house/6004136-mcconnell-missed-senate-votes/",
+        "id": "https://thehill.com/homenews/administration/6005659-jay-clayton-dni-confirmation/",
         "source": "The Hill",
-        "title": "What kind of political advertising spin can help the flailing Republicans?",
+        "title": "Jay Clayton sworn in as head of intelligence community, booting Pulte",
+        "publicationDate": "2026-08-03",
+        "category": "Defense",
+        "summary": "Trump’s nominee to lead the Office of the Director of National Intelligence (ODNI), Jay Clayton, was sworn in Monday, booting a controversial acting figure tapped to lead the intelligence community. Clayton was confirmed by the Senate on Tuesday, but, in a highly unusual move, was not immediately sworn in, leaving Acting Director of National Intelligence...",
+        "url": "https://thehill.com/homenews/administration/6005659-jay-clayton-dni-confirmation/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/",
+        "source": "The Hill",
+        "title": "Trump administration sued for banning gender transition treatments in federal health plans",
         "publicationDate": "2026-08-03",
         "category": "Healthcare",
-        "summary": "Kentucky Gov. Andy Beshear is demanding that Senator Mitch McConnell provide a video message to address rumors regarding his health following several weeks of inactivity in the Senate.",
-        "url": "https://thehill.com/opinion/white-house/6004136-mcconnell-missed-senate-votes/"
+        "summary": "An arm of the Human Rights Campaign launched a class-action lawsuit on Monday challenging the Trump administration’s gender-affirming care coverage ban in federal workers’ health insurance plans. The lawsuit claims it violates the federal prohibition on sex discrimination in the workplace. “Our message to the Trump administration is simple: We’ll see you in court,” Human...",
+        "url": "https://thehill.com/regulation/court-battles/6005931-hrcf-trump-administration-gender-affirming-care-health-insurance/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6005137-carville-criticizes-democratic-progressives/",
+        "id": "https://thehill.com/homenews/administration/6005802-matthews-accuses-trump-economy-gaslighting/",
         "source": "The Hill",
-        "title": "Carville: Progressive left 'too hot-headed to know that they're not popular'",
+        "title": "Ex-Trump aide: White House 'trying to gaslight' Americans with economic message",
         "publicationDate": "2026-08-03",
-        "category": "Campaign",
-        "summary": "Democratic strategist James Carville on Sunday accused the Democratic Party's progressive left of being \"too hot-headed to know that they're not popular.\" Carville made the claim in an interview for CNN's \"The Whole Story with Anderson Cooper\" while talking about the Michigan Senate Democratic primary race between Abdul El-Sayed and Rep. Haley Stevens (D-Mich.). Carville...",
-        "url": "https://thehill.com/homenews/campaign/6005137-carville-criticizes-democratic-progressives/"
+        "category": "Economy",
+        "summary": "Former White House deputy press secretary Sarah Matthews recently said President Trump and his officials are attempting to “gaslight” the American public with their messaging on the economy. “Republicans spent years mocking the Biden administration for trying to gaslight the American people and telling them that the economy was great when people were feeling the...",
+        "url": "https://thehill.com/homenews/administration/6005802-matthews-accuses-trump-economy-gaslighting/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/",
+        "id": "https://thehill.com/opinion/civil-rights/6004604-womens-sports-inclusion-debate/",
         "source": "The Hill",
-        "title": "Live updates: Deal to end part of Trump's IRS settlement clears Blanche's confirmation path",
+        "title": "Why the left won't win on transgender athletes in women's sports",
         "publicationDate": "2026-08-03",
-        "category": "Administration",
-        "summary": "The Senate Judiciary Committee is expected to vote Tuesday on acting Attorney General Todd Blanche's nomination, a path smoothed on Sunday by a deal reached with Sen. John Cornyn (R-Texas). “Sen. Cornyn has reached an agreement with the Department of Justice, which will be issuing a formal order permanently terminating the anti-weaponization fund and making...",
-        "url": "https://thehill.com/homenews/administration/6005157-live-updates-trump-iran-senate-blanche-cornyn/"
+        "category": "Opinions - Civil Rights",
+        "summary": "Marine veteran Joslin Joseph argues that Democrats must address the tension between inclusivity and the principle of fair play regarding transgender athletes in sports.",
+        "url": "https://thehill.com/opinion/civil-rights/6004604-womens-sports-inclusion-debate/"
     },
     {
-        "id": "https://thehill.com/opinion/judiciary/supreme-court/6003166-public-distrust-scotus-partisanship/",
+        "id": "https://thehill.com/policy/sports-gaming/6005845-gianni-infantino-marco-rubio-state-department-fifa/",
         "source": "The Hill",
-        "title": "Just admit it: The Supreme Court is political",
+        "title": "State Department denies report of Rubio-Infantino phone call",
         "publicationDate": "2026-08-03",
-        "category": "Opinions - Supreme Court",
-        "summary": "Let’s face it, the Supreme Court has dug itself into a hole, and it just keeps digging.",
-        "url": "https://thehill.com/opinion/judiciary/supreme-court/6003166-public-distrust-scotus-partisanship/"
+        "category": "Sports & Gaming",
+        "summary": "The State Department is denying the accuracy of a New York Post report suggesting FIFA President Gianni Infantino was set to speak with Secretary of State Marco Rubio as Infantino faces increasing pressure to resign following a failed bid to secure private funding for the World Cup. The Post report, which relied on several anonymous...",
+        "url": "https://thehill.com/policy/sports-gaming/6005845-gianni-infantino-marco-rubio-state-department-fifa/"
     },
     {
-        "id": "https://thehill.com/homenews/editors-call/6005181-senate-government-funding-deal-live-discussion/",
-        "source": "The Hill",
-        "title": "Cornyn deals with Blanche; Senate gets spending deal; GOP family clashes: Join the live discussion",
+        "id": "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html",
+        "source": "New York Times Politics",
+        "title": "Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.",
         "publicationDate": "2026-08-03",
-        "category": "Editor's Call",
-        "summary": "Sen. Bernie Moreno (R-Ohio) is calling for his son-in-law, Rep. Max Miller (R-Ohio), to resign from the House over allegations from Miller’s former wife. It’s the latest personnel problem for Speaker Mike Johnson (R-La.). The Senate is in session, and late Sunday made progress on a deal to fund the government and get President Trump’s...",
-        "url": "https://thehill.com/homenews/editors-call/6005181-senate-government-funding-deal-live-discussion/"
+        "category": "Midterm Elections (2026)",
+        "summary": "The Ohio Republican who is seeking a third term defiantly denied domestic abuse allegations ahead of a deadline to replace him on the ballot.",
+        "url": "https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html",
@@ -122,7 +167,7 @@
         "title": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
         "publicationDate": "2026-08-03",
         "category": "Granger",
-        "summary": "She was the first Republican woman from the state to be elected to Congress. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.",
+        "summary": "She was the first Republican woman from the state to be elected to the House. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.",
         "url": "https://www.nytimes.com/2026/08/03/us/politics/kay-granger-dead.html"
     },
     {
@@ -153,15 +198,6 @@
         "url": "https://www.nytimes.com/2026/08/03/us/politics/transgender-troops-ban.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html",
-        "source": "New York Times Politics",
-        "title": "Blanche Gives G.O.P. Senators Written Assurances on Trump’s I.R.S. Deal",
-        "publicationDate": "2026-08-03",
-        "category": "Economy",
-        "summary": "Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.",
-        "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/03/black-voters-divided-progressives-are-pivotal-michigan-senate-primary/",
         "source": "Washington Post Politics",
         "title": "Crucial Senate race could come down to Michigan’s Black voters",
@@ -180,13 +216,31 @@
         "url": "https://www.washingtonpost.com/obituaries/2026/08/02/kay-granger-first-gop-woman-texas-win-house-seat-dies-83/"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+        "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Iran denies Trump's claim that new talks will begin on Monday",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
         "publicationDate": "2026-08-03",
         "category": "Foreign Policy",
-        "summary": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+        "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
         "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+        "publicationDate": "2026-08-03",
+        "category": "Foreign Policy",
+        "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+        "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
@@ -198,76 +252,58 @@
         "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-        "publicationDate": "2026-08-03",
-        "category": "Defense",
-        "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
-        "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-        "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
-        "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-        "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
-        "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/0eec21be-80c4-4fca-991a-32fbd58cc653?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Can Democrats win over the working class?",
-        "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "A new report shows that the party can’t take disillusioned Trump voters for granted",
-        "url": "https://www.ft.com/content/0eec21be-80c4-4fca-991a-32fbd58cc653?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/547bc3c3-6778-42d3-9bed-fcc3d0c28068",
-        "source": "Financial Times World",
-        "title": "Why Burnham is wrong about education and opportunity",
-        "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "Success in adulthood is not just about connections",
-        "url": "https://www.ft.com/content/547bc3c3-6778-42d3-9bed-fcc3d0c28068"
-    },
-    {
-        "id": "https://www.ft.com/content/f2180678-aebb-44c5-b7ad-483db9b5ee28?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Reform’s Richard Tice probed over alleged failure to declare an interest",
-        "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "UK’s parliamentary standards watchdog is investigating the rightwing party’s deputy leader",
-        "url": "https://www.ft.com/content/f2180678-aebb-44c5-b7ad-483db9b5ee28?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Football has given Europe a rare geopolitical victory",
-        "publicationDate": "2026-08-03",
-        "category": "Other",
-        "summary": "Players like Lamine Yamal and Jude Bellingham are Europe’s rare earths",
-        "url": "https://www.ft.com/content/ebfc7f0f-d176-4da7-9136-b8703388decc?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/8cf8bbb2-e286-4824-8ec3-6404d2756bc3?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: AstraZeneca and Bristol Myers Squibb discuss $400bn tie-up",
+        "title": "Russian anti-war politician says he has fled the country",
         "publicationDate": "2026-08-03",
         "category": "Foreign Policy",
-        "summary": "Also in today’s newsletter: Oil prices drop after Trump says talks with Iran will begin today and Uefa threatens Fifa with legal action",
-        "url": "https://www.ft.com/content/8cf8bbb2-e286-4824-8ec3-6404d2756bc3?syn-25a6b1a6=1"
+        "summary": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+        "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Iran denies Trump claim of imminent talks",
+        "publicationDate": "2026-08-03",
+        "category": "Foreign Policy",
+        "summary": "US president had said negotiations would begin on Monday but Tehran denied the two parties were in talks",
+        "url": "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/03c413f2-6ad5-45d1-b5ac-fdb6ed8b4cff?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UBS fined $125mn over lax money laundering controls",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "Swiss bank failed to implement adequate curbs despite previous sanction by US regulators",
+        "url": "https://www.ft.com/content/03c413f2-6ad5-45d1-b5ac-fdb6ed8b4cff?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d0fb3d34-cb05-44e5-8fea-ac3753aecb7a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Reform UK promises large-scale ‘military operation’ to block small boat crossings",
+        "publicationDate": "2026-08-03",
+        "category": "Defense",
+        "summary": "Policy pledge comes as rightwing party drops behind Labour in polls",
+        "url": "https://www.ft.com/content/d0fb3d34-cb05-44e5-8fea-ac3753aecb7a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Todd Blanche wins backing of senators after scrapping $1.8bn ‘slush fund’",
+        "publicationDate": "2026-08-03",
+        "category": "Other",
+        "summary": "Support of two Republicans paves way for acting US attorney-general to be confirmed in the post",
+        "url": "https://www.ft.com/content/518d4dea-01b4-4030-85c1-916e91661580?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Japan vows further yen intervention with US if needed",
+        "publicationDate": "2026-08-03",
+        "category": "Economy",
+        "summary": "Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’",
+        "url": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/the-world-should-not-ignore-chinas-obviously-undervalued-currency",
@@ -324,33 +360,6 @@
         "url": "https://www.pbs.org/newshour/politics/senate-leaders-reach-funding-deal-to-avoid-shutdown-during-campaign-season"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/ken-martin-hunkers-down-at-the-democratic-national-committee-as-a-storm-gathers-around-party-leader",
-        "source": "PBS NewsHour Politics",
-        "title": "Ken Martin hunkers down at the Democratic National Committee as a storm gathers around party leader",
-        "publicationDate": "2026-08-02",
-        "category": "democratic national committee",
-        "summary": "Desperate to save his job as chair of the Democratic National Committee, he is avoiding media appearances, monitoring his critics' social media posts and refusing — at least so far — to make any substantive changes at his troubled organization.",
-        "url": "https://www.pbs.org/newshour/politics/ken-martin-hunkers-down-at-the-democratic-national-committee-as-a-storm-gathers-around-party-leader"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-frequently-announces-hes-halting-strikes-in-iran-but-they-keep-happening",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump frequently announces he's halting strikes in Iran. But they keep happening",
-        "publicationDate": "2026-08-02",
-        "category": "Foreign Policy",
-        "summary": "The abrupt shifts have been a defining feature of the five-month conflict that has sent prices of oil and basic goods soaring — and the announcements to date have been upended by renewed attacks days or even hours afterward.",
-        "url": "https://www.pbs.org/newshour/politics/trump-frequently-announces-hes-halting-strikes-in-iran-but-they-keep-happening"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/sen-bernie-moreno-says-former-son-in-law-max-miller-should-not-serve-in-the-house",
-        "source": "PBS NewsHour Politics",
-        "title": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House",
-        "publicationDate": "2026-08-02",
-        "category": "Bernie Moreno",
-        "summary": "Miller said Sunday that he will remain in his race for reelection before a Wednesday deadline to replace him.",
-        "url": "https://www.pbs.org/newshour/politics/sen-bernie-moreno-says-former-son-in-law-max-miller-should-not-serve-in-the-house"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/02/democratic-socialists-are-already-eyeing-2028-with-aoc-mind/",
         "source": "Washington Post Politics",
         "title": "A democratic socialist in the White House? Activists are thinking big.",
@@ -360,13 +369,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/02/democratic-socialists-are-already-eyeing-2028-with-aoc-mind/"
     },
     {
-        "id": "R48089",
+        "id": "R49056",
         "source": "Congressional Research Service",
-        "title": "Columbia River System Operations and the Future of the Lower Snake River Dams",
+        "title": "Reserve Component Duty Statuses: Background and Issues for Congress",
         "publicationDate": "2026-07-31",
         "category": "Defense",
-        "summary": "Congress has repeatedly debated how to operate and allocate resources from federal water resources projects—such as multipurpose federal dams—to serve various human needs while protecting or conserving species listed under the Endangered Species Act (ESA; 16 U.S.C. §§1531-1544). The Columbia River Basin, which includes the Snake River, is home to numerous federal and nonfederal dams that provide an array of...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48089/R48089.8.pdf"
+        "summary": "The Reserve Components (RCs) of the Armed Forces (the Army National Guard, Army Reserve, Navy Reserve, Marine Corps Reserve, Air National Guard, Air Force Reserve, and Coast Guard Reserve) largely consist of personnel who hold full-time civilian positions and are called to duty on a periodic basis. Reservists serve under a range of duty statuses. The status under which a reservist performs duty depends on the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49056/R49056.1.pdf"
     },
     {
         "id": "R49057",
@@ -375,25 +384,7 @@
         "publicationDate": "2026-07-31",
         "category": "Defense",
         "summary": "The expanding use of artificial intelligence and other trends in computing have contributed to increased development of data centers. Simply, a data center is a physical facility that houses and runs large computer systems. The increased number and size of these facilities have raised concerns about the resources needed to support data center operation, including use, consumption, and discharge of water. These...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49057/R49057.2.pdf"
-    },
-    {
-        "id": "IF12945",
-        "source": "Congressional Research Service",
-        "title": "U.S. Strategic Bombers",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "The U.S. Air Force deploys three strategic (or heavy) bombers—the B-52, B-1B, and B-2—to carry bombs or air-to-surface missiles for conventional and nuclear missions. Bombers carry heavy ordnance loads across long distances, for extended periods of time, to strike adversary targets of tactical and strategic importance. The Air Force is developing a new B-21 strategic bomber as a next-generation stealth aircraft to...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12945/IF12945.8.pdf"
-    },
-    {
-        "id": "IF13281",
-        "source": "Congressional Research Service",
-        "title": "TrumpRx: Background and Implementation",
-        "publicationDate": "2026-07-31",
-        "category": "Foreign Policy",
-        "summary": "Introduction On February 5, 2026, the Trump Administration officially launched TrumpRx, a website that compiles discounts on brand-name and generic drugs through partnerships with drug manufacturers and direct-to-consumer (DTC) pharmacies. Since the launch, Congress has examined the website’s operations, the types of drugs available, consumer access to the advertised prices, and the impact on prescription drug...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13281/IF13281.1.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49057/R49057.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
@@ -495,13 +486,13 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4408-2.html"
     },
     {
-        "id": "https://www.cfr.org/articles/council-of-councils-fourteenth-virtual-conference",
+        "id": "https://www.cfr.org/articles/washingtons-growing-portfolio-tracking-u-s-government-investments",
         "source": "Council on Foreign Relations",
-        "title": "Council of Councils Fourteenth Virtual Conference",
+        "title": "Washington's Growing Portfolio: Tracking U.S. Government Investments",
         "publicationDate": "2026-07-30",
         "category": "Article",
-        "summary": "via Zoom July 22, 2026",
-        "url": "https://www.cfr.org/articles/council-of-councils-fourteenth-virtual-conference"
+        "summary": "CFR’s U.S. Government Deal Tracker shows how the government is experimenting with new tools and financing structures to advance a range of strategic sectors, including critical minerals, energy, global logistics, manufacturing, telecommunications, and other technologies.",
+        "url": "https://www.cfr.org/articles/washingtons-growing-portfolio-tracking-u-s-government-investments"
     },
     {
         "id": "https://www.heritage.org/progressivism/commentary/time-clean-house-the-america-subverting-smithsonian",
@@ -558,15 +549,6 @@
         "url": "https://www.hudson.org/foreign-policy/whats-trumps-next-move-iran-rebeccah-heinrichs"
     },
     {
-        "id": "IF13279",
-        "source": "Congressional Research Service",
-        "title": "Regulating State, Local, Tribal, and Territorial Law Enforcement Actions to Counter Unmanned Aircraft Systems (C-UAS)",
-        "publicationDate": "2026-07-29",
-        "category": "Defense",
-        "summary": "The use of unmanned aircraft systems (UAS, or drones) has increased for commercial and recreational purposes; so too have concerns about their potential public safety and security risks. Since 2018, federal law enforcement agencies within the U.S. Department of Justice (DOJ) and U.S. Department of Homeland Security (DHS) have had counter-unmanned aircraft systems (C-UAS) authorities to respond to threats from...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13279/IF13279.1.pdf"
-    },
-    {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
         "source": "Centre for European Reform",
         "title": "Bild: Die größte Gefahr für unseren Wohlstand: Ronzheimer trifft Sander Tordoir",
@@ -610,5 +592,23 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
+    },
+    {
+        "id": "R47332",
+        "source": "Congressional Research Service",
+        "title": "Ownership of the U.S. Rental Housing Stock by Investor Type: In Brief",
+        "publicationDate": "2022-12-13",
+        "category": "Economy",
+        "summary": "On November 29, 2022, the U.S. Department of Housing and Urban Development (HUD) and the U.S. Census Bureau (Census) released data from the 2021 Rental Housing Finance Survey (RHFS), a triennial survey of the residential rental housing stock in the United States. The 2021 RHFS provides information on the rental housing stock in 2020, including information on ownership, management, housing configuration and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47332/R47332.3.pdf"
+    },
+    {
+        "id": "R43449",
+        "source": "Congressional Research Service",
+        "title": "Recently Expired Housing Related Tax Provisions (“Tax Extenders”): In Brief",
+        "publicationDate": "2015-12-28",
+        "category": "Defense",
+        "summary": "On December 18, 2015, a set of temporary tax provisions that are regularly extended and that are commonly known as “tax extenders” was retroactively extended by Division Q of P.L. 114-113—the Protecting Americans from Tax Hikes Act (or “PATH” Act). Some of the extensions are permanent; others are temporary. This report briefly summarizes and discusses the economic impact of the four housing related tax provisions...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43449/R43449.14.pdf"
     }
 ]
