@@ -1,5 +1,23 @@
 [
     {
+        "id": "IN12722",
+        "source": "Congressional Research Service",
+        "title": "Federal Reserve: “Skinny” Master Account Proposal",
+        "publicationDate": "2026-08-04",
+        "category": "Economy",
+        "summary": "Banks, which are at the center of the payment system, can directly settle payments through master accounts held at the Federal Reserve (Fed). In recent years, crypto and fintech firms have applied for master accounts, sometimes experiencing rejection or relatively long waits for approval. For more information, see CRS Insight IN12031, Federal Reserve: Master Accounts and the Payment System. In response, the Fed...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12722/IN12722.1.pdf"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4827-1.html",
+        "source": "RAND Corporation",
+        "title": "Secure Inference Data Centers",
+        "publicationDate": "2026-08-04",
+        "category": "Defense",
+        "summary": "This report describes the deployment of secure inference data centers (SIDCs)—purpose-built facilities designed to protect artificial intelligence models from advanced nation-state adversaries. SIDCs can be built today with proven technologies.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4827-1.html"
+    },
+    {
         "id": "https://cms.hoover.org/news/troika-shows-how-cold-war-geopolitics-challenged-bonds-lifelong-friends",
         "source": "Hoover Institution",
         "title": "The Troika Shows How Cold War geopolitics challenged the bonds of lifelong friends",
@@ -7,6 +25,42 @@
         "category": "Other",
         "summary": "In this new book, edited by two Hoover fellows and made available in English for the first time, Markus Wolf tells the story of how three expatriate Communist families in Moscow find their bonds and beliefs tested as they are scattered by World War II and confront the consequential ideologies of the twentieth century.",
         "url": "https://cms.hoover.org/news/troika-shows-how-cold-war-geopolitics-challenged-bonds-lifelong-friends"
+    },
+    {
+        "id": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/",
+        "source": "European Council on Foreign Relations",
+        "title": "If Marine Le Pen wins: A European guide to a far-right France",
+        "publicationDate": "2026-08-04",
+        "category": "European Power",
+        "summary": "A Le Pen-led France would mean major changes to European politics. Here's how political leaders can begin to prepare.",
+        "url": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+        "source": "NPR Politics",
+        "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+        "publicationDate": "2026-08-04",
+        "category": "Other",
+        "summary": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire.",
+        "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/04/nx-s1-5918355/senate-judiciary-committee-to-vote-on-todd-blanches-nomination-for-attorney-general",
+        "source": "NPR Politics",
+        "title": "Senate Judiciary Committee to vote on Todd Blanche's nomination for attorney general",
+        "publicationDate": "2026-08-04",
+        "category": "Other",
+        "summary": "The Senate Judiciary Committee is expected to vote Tuesday on Todd Blanche's nomination for attorney general after Blanche assuaged concerns from two Republican senators.",
+        "url": "https://www.npr.org/2026/08/04/nx-s1-5918355/senate-judiciary-committee-to-vote-on-todd-blanches-nomination-for-attorney-general"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/04/nx-s1-5918220/sen-alex-padilla-d-calif-on-expected-vote-to-advance-todd-blanches-nomination",
+        "source": "NPR Politics",
+        "title": "Sen. Alex Padilla, D-Calif., on expected vote to advance Todd Blanche's nomination",
+        "publicationDate": "2026-08-04",
+        "category": "Other",
+        "summary": "NPR's Steve Inskeep speaks with Sen. Alex Padilla, D-Calif., about the Senate Judiciary Committee's anticipated vote on Todd Blanche's nomination for attorney general.",
+        "url": "https://www.npr.org/2026/08/04/nx-s1-5918220/sen-alex-padilla-d-calif-on-expected-vote-to-advance-todd-blanches-nomination"
     },
     {
         "id": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
@@ -20,101 +74,83 @@
     {
         "id": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
         "source": "NPR Politics",
-        "title": "Five states hold polls on Tuesday. Here's what to know.",
+        "title": "5 states have primary elections on Tuesday. These are the races to watch",
         "publicationDate": "2026-08-04",
         "category": "Other",
-        "summary": "Kansas, Michigan, Missouri, Virginia and Washington hold primaries Tuesday, with races that could ultimately decide control of Congress next year. Redistricting efforts will also influence the races.",
+        "summary": "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans.",
         "url": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know"
     },
     {
-        "id": "https://www.npr.org/2026/08/04/nx-s1-5910831/tmz-trades-hollywood-gossip-for-capitol-hill-scoops-with-new-d-c-bureau",
-        "source": "NPR Politics",
-        "title": "TMZ trades Hollywood gossip for Capitol Hill scoops with new D.C. bureau",
-        "publicationDate": "2026-08-04",
-        "category": "Other",
-        "summary": "Over the past 20 years, TMZ has made a name for itself with big scoops on celebrity culture. Now, the popular gossip and news site is taking on Capitol Hill.",
-        "url": "https://www.npr.org/2026/08/04/nx-s1-5910831/tmz-trades-hollywood-gossip-for-capitol-hill-scoops-with-new-d-c-bureau"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/04/nx-s1-5918587/mitch-mcconnells-absence-looms-large-over-annual-kentucky-picnic",
-        "source": "NPR Politics",
-        "title": "Mitch McConnell's absence looms large over annual Kentucky picnic",
-        "publicationDate": "2026-08-04",
-        "category": "Healthcare",
-        "summary": "A church picnic this year drew voters from across the state of Kentucky to eat mutton, play bingo -- and ask questions about Sen. Mitch McConnell's health.",
-        "url": "https://www.npr.org/2026/08/04/nx-s1-5918587/mitch-mcconnells-absence-looms-large-over-annual-kentucky-picnic"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/04/nx-s1-5918331/dnc-report-on-2024-election-outcome-missing-key-chapter-report-says",
-        "source": "NPR Politics",
-        "title": "DNC report on 2024 election outcome missing key chapter, report says",
-        "publicationDate": "2026-08-04",
-        "category": "Other",
-        "summary": "NPR's Steve Inskeep speaks with the New York Times' Shane Goldmacher about a missing chapter of the Democratic National Committee's report on Donald Trump's 2024 election win.",
-        "url": "https://www.npr.org/2026/08/04/nx-s1-5918331/dnc-report-on-2024-election-outcome-missing-key-chapter-report-says"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6006890-michigan-democratic-senate-primary/",
+        "id": "https://thehill.com/homenews/campaign/6007223-democratic-socialists-of-ameria-midterms-base-megan-romer/",
         "source": "The Hill",
-        "title": "The Memo: Decision day dawns for El-Sayed, Stevens and Michigan Democrats",
+        "title": "DSA is Democrat base, co-chair says",
         "publicationDate": "2026-08-04",
         "category": "Campaign",
-        "summary": "It’s crunch time in the fiercest and most divisive Democratic primary battle of the year. On Tuesday, Democratic voters in Michigan will decide whether progressive Abdul El-Sayed or centrist Rep. Haley Stevens (D-Mich.) will be their Senate candidate as the party tries to retain the seat being vacated by Sen. Gary Peters (D). The race...",
-        "url": "https://thehill.com/homenews/campaign/6006890-michigan-democratic-senate-primary/"
+        "summary": "Megan Romer, the co-chair of the Democratic Socialists of America (DSA), said Monday that the organization's members make up the base of the Democratic Party. Romer was pressed by NewsNation's \"Cuomo\" on DSA's role in the Michigan Senate race. Progressive Abdul El-Sayed is set to face off against moderate Rep. Haley Stevens (D-Mich.), who Democrats...",
+        "url": "https://thehill.com/homenews/campaign/6007223-democratic-socialists-of-ameria-midterms-base-megan-romer/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6006947-gop-swing-votes-attorney-general/",
+        "id": "https://thehill.com/opinion/campaign/6005198-newsom-affair-vanity-fair-revelation/",
         "source": "The Hill",
-        "title": "Blanche nomination has momentum, despite a few GOP obstacles",
+        "title": "The revival of Gavin Newsom’s affair to remember",
         "publicationDate": "2026-08-04",
-        "category": "Senate",
-        "summary": "Acting Attorney General Todd Blanche’s confirmation to the permanent post faces hurdles in the Senate even after the dramatic deal involving Republican Sens. John Cornyn (Texas) and Thom Tillis (N.C.), as several other key GOP senators remain undecided over his nomination. Centrist Sen. Susan Collins (R-Maine), who faces a tough reelection contest in a Democratic-leaning...",
-        "url": "https://thehill.com/homenews/senate/6006947-gop-swing-votes-attorney-general/"
+        "category": "Opinions - Campaign",
+        "summary": "Sex and politics make strange bedfellows.",
+        "url": "https://thehill.com/opinion/campaign/6005198-newsom-affair-vanity-fair-revelation/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6006849-max-miller-domestic-abuse-allegations-ohio-house-race/",
+        "id": "https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/",
         "source": "The Hill",
-        "title": "Concern about Max Miller quietly grows among Republicans",
+        "title": "Live updates: Blanche nomination goes up for Senate Judiciary vote",
         "publicationDate": "2026-08-04",
-        "category": "House",
-        "summary": "Republicans are getting increasingly nervous about the political fallout from the allegations of domestic abuse leveled against Rep. Max Miller (R-Ohio) by his ex-wife Emily Moreno, whose father, Sen. Bernie Moreno (R-Ohio), publicly called for Miller to resign. Republican leadership aides grew more concerned about Miller’s situation after developments over the weekend and have been...",
-        "url": "https://thehill.com/homenews/house/6006849-max-miller-domestic-abuse-allegations-ohio-house-race/"
+        "category": "Administration",
+        "summary": "Acting Attorney General Todd Blanche will face a Senate Judiciary Committee vote Tuesday morning to advance his nomination for the permanent job. The vote comes a week after a previous one was canceled as GOP Sens. John Cornyn (Texas) and Thom Tillis (N.C.) said they could not vote in Blanche's favor. Cornyn secured a deal...",
+        "url": "https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/"
     },
     {
-        "id": "https://thehill.com/policy/defense/6006709-trump-iran-diplomacy-strait-hormuz/",
+        "id": "https://thehill.com/opinion/finance/6006905-us-trade-deficit-tariffs/",
         "source": "The Hill",
-        "title": "Trump snaps back to diplomacy, but Iran has other ideas",
+        "title": "Trump’s tariffs are his biggest policy failure",
         "publicationDate": "2026-08-04",
-        "category": "Defense",
-        "summary": "President Trump is turning back to diplomacy in the Middle East, seeking a new deal with Iran that his administration failed to secure through waves of military strikes. But the negotiations, which the president claimed would resume Monday, got off to a rocky start, with Iran denying any resumption in talks with the U.S., while...",
-        "url": "https://thehill.com/policy/defense/6006709-trump-iran-diplomacy-strait-hormuz/"
+        "category": "Economy",
+        "summary": "President Trump's tariff policies have faced criticism for failing to reduce the trade deficit, hurting U.S. businesses, and providing insufficient revenue to offset the federal deficit.",
+        "url": "https://thehill.com/opinion/finance/6006905-us-trade-deficit-tariffs/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6006966-senate-bipartisan-funding-bill-democrats-trump/",
+        "id": "https://thehill.com/newsletters/the-movement/6006696-ceuta-border-migrant-surge-us-conservatives/",
         "source": "The Hill",
-        "title": "Democrats see wins in funding stopgap, but expect future spending fight",
+        "title": "The Movement: Spanish migrant crisis boosts anti-immigration message in US",
         "publicationDate": "2026-08-04",
-        "category": "Senate",
-        "summary": "The Senate on Monday advanced a bipartisan bill to fund the government at current levels through Dec. 11 with strong support from both parties, a break from the bitter fights that dominated recent funding cycles. Democrats have opposed similar efforts in recent years, either to avoid ceding power to Republicans and President Trump or in...",
-        "url": "https://thehill.com/homenews/senate/6006966-senate-bipartisan-funding-bill-democrats-trump/"
+        "category": "The Movement",
+        "summary": "Footage of African migrants crossing a European-controlled border en masse is the newest red meat for right-wing politicians and commentators who want to make the border a hot topic for 2026 and especially 2028. The crossing took place last week, when tens of thousands of migrants entered Ceuta, an autonomous city belonging to Spain on...",
+        "url": "https://thehill.com/newsletters/the-movement/6006696-ceuta-border-migrant-surge-us-conservatives/"
     },
     {
-        "id": "https://www.nytimes.com/live/2026/08/04/us/midterms-michigan-virginia/michigan-democratic-senate-race-test",
+        "id": "https://www.nytimes.com/2026/08/04/us/politics/virginia-primary-first-election-redistricting.html",
+        "source": "New York Times Politics",
+        "title": "What to Watch in Virginia’s First Primary Since Redistricting Battle",
+        "publicationDate": "2026-08-04",
+        "category": "Midterm Elections (2026)",
+        "summary": "Redistricting turmoil started, then ended, the campaigns of several Democratic hopefuls and pushed others into more competitive races than they anticipated.",
+        "url": "https://www.nytimes.com/2026/08/04/us/politics/virginia-primary-first-election-redistricting.html"
+    },
+    {
+        "id": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/michigan-democratic-senate-race-test",
         "source": "New York Times Politics",
         "title": "Michigan’s Democratic Senate Primary Poses a Test for a Divided Party",
         "publicationDate": "2026-08-04",
         "category": "Other",
         "summary": "Dr. Abdul El-Sayed and Representative Haley Stevens.",
-        "url": "https://www.nytimes.com/live/2026/08/04/us/midterms-michigan-virginia/michigan-democratic-senate-race-test"
+        "url": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/michigan-democratic-senate-race-test"
     },
     {
-        "id": "https://www.nytimes.com/live/2026/08/04/us/midterms-michigan-virginia/heres-the-latest",
+        "id": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest",
         "source": "New York Times Politics",
         "title": "Here’s the latest.",
         "publicationDate": "2026-08-04",
         "category": "Other",
         "summary": "Description not available from the source feed.",
-        "url": "https://www.nytimes.com/live/2026/08/04/us/midterms-michigan-virginia/heres-the-latest"
+        "url": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest"
     },
     {
         "id": "https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html",
@@ -135,18 +171,9 @@
         "url": "https://www.nytimes.com/2026/08/04/upshot/arbitration-doctors-prices-baseball.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html",
-        "source": "New York Times Politics",
-        "title": "Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.",
-        "publicationDate": "2026-08-04",
-        "category": "South Carolina",
-        "summary": "The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump.",
-        "url": "https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/",
         "source": "Washington Post Politics",
-        "title": "Trump keeps making threats. Washington and the world have stopped flinching.",
+        "title": "Trump keeps making threats. The world has stopped flinching.",
         "publicationDate": "2026-08-04",
         "category": "Foreign Policy",
         "summary": "The president’s bombast has ceased to rattle world leaders, who have seen him fenced in by courts, rebuffed by Congress and strung along by Iran.",
@@ -164,10 +191,10 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+        "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
         "publicationDate": "2026-08-04",
         "category": "Foreign Policy",
-        "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
+        "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
         "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -191,20 +218,38 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "What is Trump Media's Truth API and why is it controversial?",
+        "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
         "publicationDate": "2026-08-04",
         "category": "Technology",
         "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
         "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/8a703d1e-99d4-4a04-a08a-761489d33da3?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Toyota plans $6.3bn buyback as weak yen boosts outlook",
+        "title": "Oil falls after Bessent says deal to reopen Strait of Hormuz is imminent",
         "publicationDate": "2026-08-04",
         "category": "Other",
-        "summary": "World’s biggest carmaker expects to sell more than 5mn hybrid electric vehicles this year",
-        "url": "https://www.ft.com/content/8a703d1e-99d4-4a04-a08a-761489d33da3?syn-25a6b1a6=1"
+        "summary": "Brent crude drops 4% as US Treasury secretary says Washington and Tehran could reach agreement on Tuesday or Wednesday",
+        "url": "https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/cbc7297a-647f-44be-9124-4fba662b15e5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The Fed goes Wacko",
+        "publicationDate": "2026-08-04",
+        "category": "Other",
+        "summary": "Warsh’s Awful Communications: Knowingly Opaque. Also in this newsletter, the BoE shows how it’s done",
+        "url": "https://www.ft.com/content/cbc7297a-647f-44be-9124-4fba662b15e5?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/981becc2-8d7d-428a-93d3-405fc44e3ca5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Japan’s fusion industry seeks state backing amid Middle East energy strain",
+        "publicationDate": "2026-08-04",
+        "category": "Other",
+        "summary": "Also in today’s newsletter, oil bosses draw Trump’s ire after blockbuster earnings",
+        "url": "https://www.ft.com/content/981becc2-8d7d-428a-93d3-405fc44e3ca5?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/4d9d5f1a-df3e-490e-9567-f7f7f968f3a4?syn-25a6b1a6=1",
@@ -212,35 +257,17 @@
         "title": "Ukrainian drones hit Wildberries warehouses in overnight strikes",
         "publicationDate": "2026-08-04",
         "category": "Foreign Policy",
-        "summary": "Russian retailer has become a key target for Kyiv as it aims to bring Putin’s war closer to home",
+        "summary": "Russian retailer has become key target for Kyiv as it aims to bring Putin’s war closer to home",
         "url": "https://www.ft.com/content/4d9d5f1a-df3e-490e-9567-f7f7f968f3a4?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/96f5e56c-a8bf-44ca-8750-0448b19e0903?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/bbcf5c49-0ca3-4af4-a408-e0a723227042?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Burnham bars serious sex offenders from early release scheme",
+        "title": "FirstFT: Progressives versus traditionalists in Michigan",
         "publicationDate": "2026-08-04",
-        "category": "Other",
-        "summary": "Prime minister insists ‘keeping the public safe’ is his priority after campaigners raised concerns",
-        "url": "https://www.ft.com/content/96f5e56c-a8bf-44ca-8750-0448b19e0903?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1d8ac0ff-8ff0-44fd-bd92-5fd18983f31e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Segro accepts £14bn takeover offer from US rival Prologis",
-        "publicationDate": "2026-08-04",
-        "category": "Other",
-        "summary": "Deal adds to spate of takeovers of London-listed companies after acquisitions of Schroders and Intertek",
-        "url": "https://www.ft.com/content/1d8ac0ff-8ff0-44fd-bd92-5fd18983f31e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/04b34467-dab0-4646-97dc-8c3d3e44e5e2?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Yen intervention = US self-preservation",
-        "publicationDate": "2026-08-04",
-        "category": "Other",
-        "summary": "More thoughts on why it’s happening",
-        "url": "https://www.ft.com/content/04b34467-dab0-4646-97dc-8c3d3e44e5e2?syn-25a6b1a6=1"
+        "category": "Economy",
+        "summary": "Also in today’s newsletter: Google’s finance machine and the US’s new era of ‘currency activism’",
+        "url": "https://www.ft.com/content/bbcf5c49-0ca3-4af4-a408-e0a723227042?syn-25a6b1a6=1"
     },
     {
         "id": "R49059",
@@ -268,15 +295,6 @@
         "category": "Economy",
         "summary": "The Colorado River Basin covers more than 246,000 square miles in seven U.S. states and Mexico. Basin waters are governed by multiple documents, known collectively as the Law of the River. The Colorado River Compact of 1922 established the framework to apportion water supplies between the river’s Upper and Lower Basins, with each basin allocated 7.5 million acre-feet (MAF) annually; a subsequent agreement also...",
         "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN11982/IN11982.25.pdf"
-    },
-    {
-        "id": "R49058",
-        "source": "Congressional Research Service",
-        "title": "The Social Security Fairness Act of 2023: Background, Impact, and Issues",
-        "publicationDate": "2026-08-03",
-        "category": "Economy",
-        "summary": "The Social Security Fairness Act of 2023 (SSFA; P.L. 118-273), signed into law on January 5, 2025, repealed two provisions in the Social Security Act: the Government Pension Offset (GPO) and the Windfall Elimination Provision (WEP). The changes applied to monthly benefits payable after December 2023. The GPO and WEP were two separate provisions that reduced Social Security or railroad retirement benefits for...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49058/R49058.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4944-1.html",
@@ -389,7 +407,7 @@
     {
         "id": "https://www.pbs.org/newshour/politics/watch-live-massachusetts-u-s-senate-democratic-primary-debate",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Massachusetts' U.S. Senate Democratic primary debate",
+        "title": "WATCH: Massachusetts' U.S. Senate Democratic primary debate",
         "publicationDate": "2026-08-03",
         "category": "2026 Midterms",
         "summary": "Sen. Ed Markey and Rep. Seth Moulton are participating in a one-hour debate Monday, ahead of Massachusetts' Democratic primary for U.S. Senate on Sept. 1.",
@@ -448,15 +466,6 @@
         "category": "Foreign Policy",
         "summary": "A weak renminbi directly led to China’s latest export boom, and a stronger renminbi is the only realistic cure.",
         "url": "https://www.cfr.org/articles/the-world-should-not-ignore-chinas-obviously-undervalued-currency"
-    },
-    {
-        "id": "IF12945",
-        "source": "Congressional Research Service",
-        "title": "U.S. Strategic Bombers",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "The U.S. Air Force deploys three strategic (or heavy) bombers—the B-52, B-1B, and B-2—to carry bombs or air-to-surface missiles for conventional and nuclear missions. Bombers carry heavy ordnance loads across long distances, for extended periods of time, to strike adversary targets of tactical and strategic importance. The Air Force is developing a new B-21 strategic bomber as a next-generation stealth aircraft to...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12945/IF12945.9.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
@@ -576,15 +585,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5044-1.html"
     },
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4408-2.html",
-        "source": "RAND Corporation",
-        "title": "Examining the Implementation and Impact of Pediatric ACE Screening",
-        "publicationDate": "2026-07-30",
-        "category": "Healthcare",
-        "summary": "The authors assessed models of care developed by clinics to integrate Adverse Childhood Experiences (ACE) education, screening, and response. Findings provide evidence of the effects of pediatric ACE screening on health care utilization and quality.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4408-2.html"
-    },
-    {
         "id": "https://www.heritage.org/technology/commentary/europes-billion-dollar-google-fine-shot-american-sovereignty",
         "source": "Heritage Foundation",
         "title": "Europe’s Billion-Dollar Google Fine Is a Shot at American Sovereignty",
@@ -610,15 +610,6 @@
         "category": "European Security",
         "summary": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
         "url": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/"
-    },
-    {
-        "id": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/",
-        "source": "European Council on Foreign Relations",
-        "title": "Two of a kind: How France and Italy can show the way for Europe’s Africa policy",
-        "publicationDate": "2026-07-29",
-        "category": "Africa",
-        "summary": "Rome and Paris have each overhauled their economic strategies towards Africa in the past few years, competing openly for influence on the continent. Here is how the EU can use that rivalry to sharpen Europe’s offer to Africa",
-        "url": "https://ecfr.eu/article/two-of-a-kind-how-france-and-italy-can-show-the-way-for-europes-africa-policy/"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
@@ -664,5 +655,14 @@
         "category": "Foreign Policy",
         "summary": "In deze aflevering van Boekestijn en De Wijk gaat presentator Hugo Reitsma in gesprek met Arend Jan Boekestijn, Rob de Wijk en econoom Sander Tordoir over de groeiende economische druk vanuit China. Volgens Tordoir beleeft de wereldeconomie een nieuwe 'China Shock 2.0'. Door honderden miljarden dollars aan subsidies, een ondergewaardeerde munt en een enorme exportgroei overspoelt China steeds meer buitenlandse...",
         "url": "https://www.cer.eu/media/bnr-nieuws-china-overspoelt-europa-met-goedkope-export"
+    },
+    {
+        "id": "IF13256",
+        "source": "Congressional Research Service",
+        "title": "Social Security: Selected Findings of the 2026 Annual Report",
+        "publicationDate": "2026-06-25",
+        "category": "Economy",
+        "summary": "The 2026 report of the Board of Trustees of the Social Security Trust Funds estimates the program’s combined finances to be in a similar, albeit marginally worse, position as compared to 2025. Under intermediate assumptions, the disabled-worker trust fund is projected to remain positive for the next 75-years (same as last year’s report), but the retired-worker trust fund is projected to become depleted one quarter...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13256/IF13256.2.pdf"
     }
 ]
