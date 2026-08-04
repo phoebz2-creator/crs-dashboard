@@ -9,6 +9,15 @@
         "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12722/IN12722.1.pdf"
     },
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4625-1.html",
+        "source": "RAND Corporation",
+        "title": "AI and the Future of Emergency Management",
+        "publicationDate": "2026-08-04",
+        "category": "Defense",
+        "summary": "In this report, the authors present the results of a landscape assessment of artificial intelligence–enabled products that are available to support the work of emergency management across the United States.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4625-1.html"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4827-1.html",
         "source": "RAND Corporation",
         "title": "Secure Inference Data Centers",
@@ -16,6 +25,33 @@
         "category": "Defense",
         "summary": "This report describes the deployment of secure inference data centers (SIDCs)—purpose-built facilities designed to protect artificial intelligence models from advanced nation-state adversaries. SIDCs can be built today with proven technologies.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4827-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/americas-drug-supply-chain",
+        "source": "Council on Foreign Relations",
+        "title": "America's Drug Supply Chain",
+        "publicationDate": "2026-08-04",
+        "category": "Healthcare",
+        "summary": "Rush Doshi’s testimony to the U.S. Senate Special Committee on Aging analyzes how the United States had developed a “rare earths” problem in medicine, largely self-inflicted by letting its pharmaceutical supply chain and innovation ecosystem migrate offshore.",
+        "url": "https://www.cfr.org/articles/americas-drug-supply-chain"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-gulf-of-tonkin-incident",
+        "source": "Council on Foreign Relations",
+        "title": "The Gulf of Tonkin Incident",
+        "publicationDate": "2026-08-04",
+        "category": "Foreign Policy",
+        "summary": "The attack on a U.S. destroyer off the coast of North Vietnam that deepened U.S. involvement in Vietnam never happened and opened up a credibility gap in U.S. foreign policy.",
+        "url": "https://www.cfr.org/articles/the-gulf-of-tonkin-incident"
+    },
+    {
+        "id": "https://cms.hoover.org/research/securing-future-semiconductors",
+        "source": "Hoover Institution",
+        "title": "Securing the Future of Semiconductors",
+        "publicationDate": "2026-08-04",
+        "category": "Defense",
+        "summary": "Semiconductors are essential to American economic and military power, yet the United States depends on a fragile global supply chain for the world’s most advanced chips. Securing US leadership will require greater manufacturing capacity, sustained innovation, and a stronger semiconductor workforce.",
+        "url": "https://cms.hoover.org/research/securing-future-semiconductors"
     },
     {
         "id": "https://cms.hoover.org/news/troika-shows-how-cold-war-geopolitics-challenged-bonds-lifelong-friends",
@@ -63,15 +99,6 @@
         "url": "https://www.npr.org/2026/08/04/nx-s1-5918220/sen-alex-padilla-d-calif-on-expected-vote-to-advance-todd-blanches-nomination"
     },
     {
-        "id": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
-        "source": "NPR Politics",
-        "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
-        "publicationDate": "2026-08-04",
-        "category": "Other",
-        "summary": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means.",
-        "url": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin"
-    },
-    {
         "id": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
         "source": "NPR Politics",
         "title": "5 states have primary elections on Tuesday. These are the races to watch",
@@ -81,49 +108,121 @@
         "url": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6007223-democratic-socialists-of-ameria-midterms-base-megan-romer/",
-        "source": "The Hill",
-        "title": "DSA is Democrat base, co-chair says",
+        "id": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
+        "source": "NPR Politics",
+        "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
         "publicationDate": "2026-08-04",
-        "category": "Campaign",
-        "summary": "Megan Romer, the co-chair of the Democratic Socialists of America (DSA), said Monday that the organization's members make up the base of the Democratic Party. Romer was pressed by NewsNation's \"Cuomo\" on DSA's role in the Michigan Senate race. Progressive Abdul El-Sayed is set to face off against moderate Rep. Haley Stevens (D-Mich.), who Democrats...",
-        "url": "https://thehill.com/homenews/campaign/6007223-democratic-socialists-of-ameria-midterms-base-megan-romer/"
+        "category": "Other",
+        "summary": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means.",
+        "url": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin"
     },
     {
-        "id": "https://thehill.com/opinion/campaign/6005198-newsom-affair-vanity-fair-revelation/",
-        "source": "The Hill",
-        "title": "The revival of Gavin Newsom’s affair to remember",
+        "id": "https://www.pbs.org/newshour/politics/what-to-watch-in-the-aug-4-primaries-in-michigan-and-beyond",
+        "source": "PBS NewsHour Politics",
+        "title": "What to watch in the Aug. 4 primaries in Michigan and beyond",
         "publicationDate": "2026-08-04",
-        "category": "Opinions - Campaign",
-        "summary": "Sex and politics make strange bedfellows.",
-        "url": "https://thehill.com/opinion/campaign/6005198-newsom-affair-vanity-fair-revelation/"
+        "category": "Kansas",
+        "summary": "Michigan will offer the country its clearest gauge yet on the direction of the Democratic Party.",
+        "url": "https://www.pbs.org/newshour/politics/what-to-watch-in-the-aug-4-primaries-in-michigan-and-beyond"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/",
-        "source": "The Hill",
-        "title": "Live updates: Blanche nomination goes up for Senate Judiciary vote",
+        "id": "https://www.pbs.org/newshour/politics/high-profile-democratic-primary-in-michigan-pits-moderate-against-progressive-for-senate",
+        "source": "PBS NewsHour Politics",
+        "title": "High-profile Democratic primary in Michigan pits moderate against progressive for Senate",
         "publicationDate": "2026-08-04",
-        "category": "Administration",
-        "summary": "Acting Attorney General Todd Blanche will face a Senate Judiciary Committee vote Tuesday morning to advance his nomination for the permanent job. The vote comes a week after a previous one was canceled as GOP Sens. John Cornyn (Texas) and Thom Tillis (N.C.) said they could not vote in Blanche's favor. Cornyn secured a deal...",
-        "url": "https://thehill.com/homenews/administration/6006945-live-updates-trump-blanche-doj-michigan-primary-south-carolina-gop-debate/"
+        "category": "Abdul El-Sayed",
+        "summary": "Michigan Democrats vote Tuesday in a closely watched Senate primary between moderate U.S. Rep. Haley Stevens and progressive favorite Abdul El-Sayed, with the winner heading to a November contest critical to the party's hopes of reclaiming the Senate majority.",
+        "url": "https://www.pbs.org/newshour/politics/high-profile-democratic-primary-in-michigan-pits-moderate-against-progressive-for-senate"
     },
     {
-        "id": "https://thehill.com/opinion/finance/6006905-us-trade-deficit-tariffs/",
-        "source": "The Hill",
-        "title": "Trump’s tariffs are his biggest policy failure",
+        "id": "https://www.pbs.org/newshour/politics/live-results-michigan-midterm-primaries",
+        "source": "PBS NewsHour Politics",
+        "title": "Live Results: Michigan midterm primaries",
+        "publicationDate": "2026-08-04",
+        "category": "Abdul El-Sayed",
+        "summary": "The state is one of the nation's most competitive electoral battlegrounds, as the last three presidential elections firmly established.",
+        "url": "https://www.pbs.org/newshour/politics/live-results-michigan-midterm-primaries"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-senate-judiciary-committee-votes-on-blanche-nomination-for-attorney-general",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Senate Judiciary Committee votes on Blanche nomination for attorney general",
         "publicationDate": "2026-08-04",
         "category": "Economy",
-        "summary": "President Trump's tariff policies have faced criticism for failing to reduce the trade deficit, hurting U.S. businesses, and providing insufficient revenue to offset the federal deficit.",
-        "url": "https://thehill.com/opinion/finance/6006905-us-trade-deficit-tariffs/"
+        "summary": "The Senate Judiciary Committee's vote follows a deal struck late Sunday between Blanche and GOP Sens. John Cornyn of Texas and Thom Tillis of North Carolina, who had demanded written assurances about the settlement of Trump's lawsuit against the Internal Revenue Service over his leaked tax returns.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-senate-judiciary-committee-votes-on-blanche-nomination-for-attorney-general"
     },
     {
-        "id": "https://thehill.com/newsletters/the-movement/6006696-ceuta-border-migrant-surge-us-conservatives/",
+        "id": "https://thehill.com/homenews/administration/6008042-trump-warns-max-miller-reelection/",
         "source": "The Hill",
-        "title": "The Movement: Spanish migrant crisis boosts anti-immigration message in US",
+        "title": "Max Miller says Trump warned of 'tough' road ahead in phone call",
         "publicationDate": "2026-08-04",
-        "category": "The Movement",
-        "summary": "Footage of African migrants crossing a European-controlled border en masse is the newest red meat for right-wing politicians and commentators who want to make the border a hot topic for 2026 and especially 2028. The crossing took place last week, when tens of thousands of migrants entered Ceuta, an autonomous city belonging to Spain on...",
-        "url": "https://thehill.com/newsletters/the-movement/6006696-ceuta-border-migrant-surge-us-conservatives/"
+        "category": "Administration",
+        "summary": "President Trump told Ohio Rep. Max Miller (R) during a phone call that he will face a tough reelection cycle due to the domestic abuse allegations against the lawmaker. Miller told The Wall Street Journal that Trump told him on Monday his prospects for winning reelection were not looking good. “He said he had a...",
+        "url": "https://thehill.com/homenews/administration/6008042-trump-warns-max-miller-reelection/"
+    },
+    {
+        "id": "https://thehill.com/homenews/media/6008011-ingraham-invites-carville-to-gop/",
+        "source": "The Hill",
+        "title": "Ingraham invites Carville to join Republicans: 'Turn to us'",
+        "publicationDate": "2026-08-04",
+        "category": "Media",
+        "summary": "Fox News host Laura Ingraham invited Democratic strategist James Carville to become a part of the GOP on Monday. “The socialists have momentum. It is only a matter of time. The Democrats are going to become a socialist party, and it's going to happen unless the sensible Democrats do more than appear on podcasts, cable...",
+        "url": "https://thehill.com/homenews/media/6008011-ingraham-invites-carville-to-gop/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6007499-doj-reflecting-pool-vandalism-charges-dismissal-trump-administration/",
+        "source": "The Hill",
+        "title": "DOJ moves to drop charges against more Reflecting Pool vandalism suspects",
+        "publicationDate": "2026-08-04",
+        "category": "Court Battles",
+        "summary": "The Justice Department (DOJ) on Monday moved to drop its charges against more people accused of vandalizing the Lincoln Memorial Reflecting Pool, shortly after dropping a similar case against a former Olympian canoeist. Prosecutors led by U.S. Attorney for the District of Columbia Jeanine Pirro filed a noelle prosequi, meaning they are no longer looking...",
+        "url": "https://thehill.com/regulation/court-battles/6007499-doj-reflecting-pool-vandalism-charges-dismissal-trump-administration/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6007353-judiciary-committee-blanche-nomination-attorney-general/",
+        "source": "The Hill",
+        "title": "Judiciary Committee advances stalled Blanche nomination for attorney general",
+        "publicationDate": "2026-08-04",
+        "category": "Senate",
+        "summary": "The Senate Judiciary Committee on Tuesday advanced the nomination of Todd Blanche to serve as attorney general, clearing the way for a vote on the Senate floor after Blanche reached a deal with two GOP holdouts on the $1.776 billion \"anti-weaponization\" fund. Sens. John Cornyn (R-Texas) and Thom Tillis (R-N.C.), who are both exiting Congress...",
+        "url": "https://thehill.com/homenews/senate/6007353-judiciary-committee-blanche-nomination-attorney-general/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6007715-sanders-opposes-promise-act-privatization/",
+        "source": "The Hill",
+        "title": "Sanders warns Democrats: Any effort to fast-track Social Security changes would undercut party trust",
+        "publicationDate": "2026-08-04",
+        "category": "Senate",
+        "summary": "Sen. Bernie Sanders (I-Vt.) sent a “Dear Colleague” letter to Democrats warning that privatizing Social Security or passing the Protecting Retirement Opportunities and Maintaining Income Security for Everyone, or PROMISE Act, would result in a breakdown of trust among Democratic voters during a key midterm election year. When reached for comment, a spokesperson for Sanders...",
+        "url": "https://thehill.com/homenews/senate/6007715-sanders-opposes-promise-act-privatization/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html",
+        "source": "New York Times Politics",
+        "title": "Todd Blanche Clears Committee Vote, Paving Way for Attorney General Confirmation",
+        "publicationDate": "2026-08-04",
+        "category": "United States Politics and Government",
+        "summary": "Todd Blanche’s nomination now advances to the Senate floor, where he is expected to be confirmed, even though several Republicans have not yet committed to supporting him.",
+        "url": "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/04/us/politics/kansas-primaries-what-to-watch.html",
+        "source": "New York Times Politics",
+        "title": "What to Watch in the Kansas Primaries: Can Republicans Flip a Governor’s Mansion?",
+        "publicationDate": "2026-08-04",
+        "category": "Kansas",
+        "summary": "Republicans see the marquee race to lead the state as perhaps their best chance this year to win a governorship held by Democrats.",
+        "url": "https://www.nytimes.com/2026/08/04/us/politics/kansas-primaries-what-to-watch.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/04/us/politics/missouri-primary-election-bush-bell.html",
+        "source": "New York Times Politics",
+        "title": "What to Watch in Missouri’s Primaries as Cori Bush Tries to Beat Wesley Bell",
+        "publicationDate": "2026-08-04",
+        "category": "Missouri",
+        "summary": "Former Representative Cori Bush, a member of the progressive “squad,” is trying to defeat Representative Wesley Bell, a moderate who ousted her two years ago.",
+        "url": "https://www.nytimes.com/2026/08/04/us/politics/missouri-primary-election-bush-bell.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/04/us/politics/virginia-primary-first-election-redistricting.html",
@@ -144,31 +243,13 @@
         "url": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/michigan-democratic-senate-race-test"
     },
     {
-        "id": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest",
-        "source": "New York Times Politics",
-        "title": "Here’s the latest.",
+        "id": "https://www.washingtonpost.com/politics/2026/08/04/here-what-watch-tuesday-primaries/",
+        "source": "Washington Post Politics",
+        "title": "Here’s what to watch for in Tuesday’s primaries",
         "publicationDate": "2026-08-04",
         "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html",
-        "source": "New York Times Politics",
-        "title": "How the War in Iran Is Complicating Trump’s Agenda at Home",
-        "publicationDate": "2026-08-04",
-        "category": "Economy",
-        "summary": "As President Trump heads to the West Coast to talk to Americans about the economy, the war in Iran is driving up costs and polls show the already unpopular conflict is losing support.",
-        "url": "https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/04/upshot/arbitration-doctors-prices-baseball.html",
-        "source": "New York Times Politics",
-        "title": "Why Arbitration Works for Baseball but Not for Health Care",
-        "publicationDate": "2026-08-04",
-        "category": "Healthcare",
-        "summary": "Players vs. teams. Doctors vs. insurers. How the same method for resolving pay disputes has led to wildly different results.",
-        "url": "https://www.nytimes.com/2026/08/04/upshot/arbitration-doctors-prices-baseball.html"
+        "summary": "After a few weeks of relative calm on the midterms calendar, we’ve got a slate of states with important primaries across the country today.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/04/here-what-watch-tuesday-primaries/"
     },
     {
         "id": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/",
@@ -180,13 +261,22 @@
         "url": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "More than 150 migrants rescued after boat catches fire in Channel",
+        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
         "publicationDate": "2026-08-04",
         "category": "Other",
-        "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
+        "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
+        "publicationDate": "2026-08-04",
+        "category": "Foreign Policy",
+        "summary": "There have been conflicting signals from the US and Iran, with Tehran denying President Trump's assertion that talks are under way.",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
@@ -198,6 +288,15 @@
         "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "More than 150 migrants rescued after boat catches fire in Channel",
+        "publicationDate": "2026-08-04",
+        "category": "Other",
+        "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Analysis: Trump challenged by cold reality from top allies",
@@ -207,67 +306,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "What will happen when a SpaceX rocket collides with the Moon?",
+        "id": "https://www.ft.com/content/c56d21b4-1738-4b53-ad78-79f29b5de798",
+        "source": "Financial Times World",
+        "title": "Saudi-Israel tensions could frustrate India’s IMEC dreams",
         "publicationDate": "2026-08-04",
-        "category": "Other",
-        "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
-        "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "Modi banked on an India-Mediterranean corridor to rival China’s Belt and Road, but politics is getting in the way",
+        "url": "https://www.ft.com/content/c56d21b4-1738-4b53-ad78-79f29b5de798"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+        "id": "https://www.ft.com/content/c1e80ff0-4566-4a15-9e7b-397abe6e5b5c",
+        "source": "Financial Times World",
+        "title": "In Venezuela, legitimacy matters more than continuity",
         "publicationDate": "2026-08-04",
-        "category": "Technology",
-        "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "Washington has forgotten the lessons of 1989, when the US backed democratic dissidents over ancien regime insiders",
+        "url": "https://www.ft.com/content/c1e80ff0-4566-4a15-9e7b-397abe6e5b5c"
     },
     {
         "id": "https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Oil falls after Bessent says deal to reopen Strait of Hormuz is imminent",
         "publicationDate": "2026-08-04",
-        "category": "Other",
-        "summary": "Brent crude drops 4% as US Treasury secretary says Washington and Tehran could reach agreement on Tuesday or Wednesday",
+        "category": "Foreign Policy",
+        "summary": "Brent crude drops 4% as Iranian and Omani negotiators agree on temporary arrangement for shipping through waterway",
         "url": "https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/cbc7297a-647f-44be-9124-4fba662b15e5?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/07ba66d4-ceaf-497d-8bb2-19df27853a26?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "The Fed goes Wacko",
+        "title": "Blanche secures key Republican support clearing way for A-G confirmation",
         "publicationDate": "2026-08-04",
         "category": "Other",
-        "summary": "Warsh’s Awful Communications: Knowingly Opaque. Also in this newsletter, the BoE shows how it’s done",
-        "url": "https://www.ft.com/content/cbc7297a-647f-44be-9124-4fba662b15e5?syn-25a6b1a6=1"
+        "summary": "Also in today’s newsletter, how Michigan’s Senate race is putting ideological divisions of Democrats on display",
+        "url": "https://www.ft.com/content/07ba66d4-ceaf-497d-8bb2-19df27853a26?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/981becc2-8d7d-428a-93d3-405fc44e3ca5?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/33c20c4e-6a25-42da-9f1e-6664c8388957?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Japan’s fusion industry seeks state backing amid Middle East energy strain",
+        "title": "Developing countries have ‘less to fear’ from AI than rich nations",
         "publicationDate": "2026-08-04",
-        "category": "Other",
-        "summary": "Also in today’s newsletter, oil bosses draw Trump’s ire after blockbuster earnings",
-        "url": "https://www.ft.com/content/981becc2-8d7d-428a-93d3-405fc44e3ca5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/4d9d5f1a-df3e-490e-9567-f7f7f968f3a4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Ukrainian drones hit Wildberries warehouses in overnight strikes",
-        "publicationDate": "2026-08-04",
-        "category": "Foreign Policy",
-        "summary": "Russian retailer has become key target for Kyiv as it aims to bring Putin’s war closer to home",
-        "url": "https://www.ft.com/content/4d9d5f1a-df3e-490e-9567-f7f7f968f3a4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/bbcf5c49-0ca3-4af4-a408-e0a723227042?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Progressives versus traditionalists in Michigan",
-        "publicationDate": "2026-08-04",
-        "category": "Economy",
-        "summary": "Also in today’s newsletter: Google’s finance machine and the US’s new era of ‘currency activism’",
-        "url": "https://www.ft.com/content/bbcf5c49-0ca3-4af4-a408-e0a723227042?syn-25a6b1a6=1"
+        "category": "Technology",
+        "summary": "World Bank says workers in poorer economies more likely to benefit from the technology than be replaced by it",
+        "url": "https://www.ft.com/content/33c20c4e-6a25-42da-9f1e-6664c8388957?syn-25a6b1a6=1"
     },
     {
         "id": "R49059",
@@ -378,15 +459,6 @@
         "url": "https://cms.hoover.org/research/dynamic-effects-trade"
     },
     {
-        "id": "https://cms.hoover.org/research/trump-doctrine-americas-role-world",
-        "source": "Hoover Institution",
-        "title": "The Trump Doctrine: America’s Role In The World",
-        "publicationDate": "2026-08-03",
-        "category": "Foreign Policy",
-        "summary": "The Trump Doctrine challenges long-standing assumptions about America’s role in the world, offering a new framework for US foreign policy centered on sovereignty, reciprocity, alliance burden-sharing, and strategic competition with China.",
-        "url": "https://cms.hoover.org/research/trump-doctrine-americas-role-world"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/blanche-wins-support-from-gop-holdouts-after-vowing-to-scrap-anti-weaponization-fund",
         "source": "PBS NewsHour Politics",
         "title": "Blanche wins support from GOP holdouts after vowing to scrap 'anti-weaponization fund'",
@@ -394,42 +466,6 @@
         "category": "anti-weaponization fund",
         "summary": "Acting Attorney General Todd Blanche cleared a major hurdle in his push to permanently lead the Department of Justice. He reached a deal with two GOP senators who had said they would block his nomination. Blanche put into writing that the DOJ is scrapping a $1.8 billion \"anti-weaponization\" fund that could have provided settlements to the Trump allies, including Jan. 6 rioters. Ali Rogin reports.",
         "url": "https://www.pbs.org/newshour/show/blanche-wins-support-from-gop-holdouts-after-vowing-to-scrap-anti-weaponization-fund"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak",
-        "source": "PBS NewsHour Politics",
-        "title": "News Wrap: Michigan reports 2 deaths related to cyclosporiasis outbreak",
-        "publicationDate": "2026-08-03",
-        "category": "Foreign Policy",
-        "summary": "In our news wrap Monday, health officials in Michigan reported the first deaths in the U.S. related to a cyclosporiasis outbreak, more than two dozen states are suing the Trump administration over its latest tariffs and officials in southern Ukraine say Russia dropped eight glide bombs in a span of 90 minutes, killing at least one person and wounding dozens more.",
-        "url": "https://www.pbs.org/newshour/show/news-wrap-michigan-reports-2-deaths-related-to-cyclosporiasis-outbreak"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-massachusetts-u-s-senate-democratic-primary-debate",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Massachusetts' U.S. Senate Democratic primary debate",
-        "publicationDate": "2026-08-03",
-        "category": "2026 Midterms",
-        "summary": "Sen. Ed Markey and Rep. Seth Moulton are participating in a one-hour debate Monday, ahead of Massachusetts' Democratic primary for U.S. Senate on Sept. 1.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-massachusetts-u-s-senate-democratic-primary-debate"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/what-we-know-about-the-cyberattacks-on-water-systems-in-7-states",
-        "source": "PBS NewsHour Politics",
-        "title": "What we know about the cyberattacks on water systems in 7 states",
-        "publicationDate": "2026-08-03",
-        "category": "Foreign Policy",
-        "summary": "According to the FBI, at least seven states have now been targeted in a growing wave of cyberattacks on critical water infrastructure across the country. Federal officials now reportedly believe Iran is the likely culprit. Liz Landers discussed more with Cynthia Kaiser, a former deputy assistant director of the FBI's cyber division currently at Halcyon.",
-        "url": "https://www.pbs.org/newshour/show/what-we-know-about-the-cyberattacks-on-water-systems-in-7-states"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/sen-moreno-calls-on-ex-son-in-law-rep-miller-to-resign-amid-domestic-abuse-allegations",
-        "source": "PBS NewsHour Politics",
-        "title": "Sen. Moreno calls on ex-son-in-law Rep. Miller to resign amid domestic abuse allegations",
-        "publicationDate": "2026-08-03",
-        "category": "Bernie Moreno",
-        "summary": "Ohio's senior Senator is calling for an Ohio congressman, who is also his former son-in-law, to drop his re-election bid and resign from office. Republican Sen. Bernie Moreno called GOP Rep. Max Miller \"a danger to my daughter.\" Allegations and messy divorce proceedings swirled around Miller and Moreno's daughter, Emily. Lisa Desjardins reports.",
-        "url": "https://www.pbs.org/newshour/show/sen-moreno-calls-on-ex-son-in-law-rep-miller-to-resign-amid-domestic-abuse-allegations"
     },
     {
         "id": "https://www.washingtonpost.com/business/2026/08/03/why-trump-is-lashing-out-chevron-amid-profit-windfall/",
@@ -477,24 +513,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html"
     },
     {
-        "id": "https://www.cfr.org/articles/the-latest-in-u-s-china-ai-competition",
-        "source": "Council on Foreign Relations",
-        "title": "The Latest in U.S.-China AI Competition",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "CFR President Michael Froman and CFR Senior Fellow Chris McGuire discuss recent developments in artificial intelligence (AI), including Moonshot AI’s Kimi K3 model, and how the United States could maintain its technological advantage.",
-        "url": "https://www.cfr.org/articles/the-latest-in-u-s-china-ai-competition"
-    },
-    {
-        "id": "https://www.cfr.org/articles/will-iran-turn-into-a-forever-war-2",
-        "source": "Council on Foreign Relations",
-        "title": "Will Iran Turn Into a Forever War?",
-        "publicationDate": "2026-07-31",
-        "category": "Foreign Policy",
-        "summary": "Like Lyndon Johnson in Vietnam, Trump risks entering a war whose end may be impossible to control.",
-        "url": "https://www.cfr.org/articles/will-iran-turn-into-a-forever-war-2"
-    },
-    {
         "id": "https://www.heritage.org/defense/report/just-war-theory-changing-world-order",
         "source": "Heritage Foundation",
         "title": "Just War Theory in a Changing World Order",
@@ -518,7 +536,7 @@
         "title": "Amicus Brief in Arbutus v. Moderna",
         "publicationDate": "2026-07-31",
         "category": "Defense",
-        "summary": "Amicus Brief in Arbutus v. Moderna acabral-sanche… Fri, 07/31/2026 - 16:27 SVG Reports Jul 31, 2026 Amicus Brief in Arbutus v. Moderna Adam Mossoff Chair, Forum for Intellectual Property and Senior Fellow Adam Mossoff Reports Caption Moderna logo is seen in Warsaw, Poland, on April 9, 2025. (Getty Images) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to...",
+        "summary": "Amicus Brief in Arbutus v. Moderna acabral-sanche… Fri, 07/31/2026 - 16:27 SVG Commentary Jul 31, 2026 Amicus Brief in Arbutus v. Moderna Adam Mossoff Chair, Forum for Intellectual Property and Senior Fellow Adam Mossoff Commentary Caption Moderna logo is seen in Warsaw, Poland, on April 9, 2025. (Getty Images) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to...",
         "url": "https://www.hudson.org/legal-affairs/amicus-brief-arbutus-v-moderna-adam-mossoff"
     },
     {
@@ -574,15 +592,6 @@
         "category": "Defense",
         "summary": "RAND researchers present a structured framework for identifying and characterizing security weaknesses in generative artificial intelligence systems. They identify 31 distinct classes of vulnerabilities and offer practical mitigation strategies.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4983-1.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5044-1.html",
-        "source": "RAND Corporation",
-        "title": "China’s Position on the Emerging Russia–North Korea Military Cooperation and Its Implications for the U.S.-ROK Alliance",
-        "publicationDate": "2026-07-30",
-        "category": "Defense",
-        "summary": "China is watching carefully as Russia and North Korea deepen their military ties. In this report, the authors analyze Beijing’s response and what it means for the future of the U.S.–South Korea alliance and regional security.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5044-1.html"
     },
     {
         "id": "https://www.heritage.org/technology/commentary/europes-billion-dollar-google-fine-shot-american-sovereignty",
