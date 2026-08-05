@@ -1,23 +1,5 @@
 [
     {
-        "id": "R42853",
-        "source": "Congressional Research Service",
-        "title": "Nuclear Energy: Overview of Congressional Issues",
-        "publicationDate": "2026-08-05",
-        "category": "Defense",
-        "summary": "Policy debate over the role of nuclear power in the nation’s energy mix is rooted in the technology’s fundamental characteristics. Nuclear reactors can produce potentially vast amounts of useful energy with relatively low consumption of natural resources and low emissions of greenhouse gases and other pollutants. However, facilities that produce nuclear fuel for civilian power reactors can also produce materials...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42853/R42853.43.pdf"
-    },
-    {
-        "id": "IF13282",
-        "source": "Congressional Research Service",
-        "title": "Freight Rail Automation: Driverless Trains, Automated Inspections, and Other Technologies",
-        "publicationDate": "2026-08-05",
-        "category": "Technology",
-        "summary": "Technological advances and cost-cutting pressures in railroading have contributed to smaller train crews and fewer maintenance-of-way employees. A single train commonly has a crew of two aboard. Freight carriers, vehicle manufacturers, and technology companies have explored the potential to improve labor efficiency through the use of driverless locomotives or freight cars that do not require a locomotive to move....",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13282/IF13282.1.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
         "source": "RAND Corporation",
         "title": "A Portfolio Assessment Approach to Inform Resource Allocation Decisions",
@@ -25,6 +7,15 @@
         "category": "Economy",
         "summary": "The authors describe a structured process for evaluating portfolios within the Planning, Programming, Budgeting, and Execution process, which can help support resource allocation in cross-cutting portfolios.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3667-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/big-macs-say-the-dollar-is-way-overvalued-ipad-minis-say-its-not-so",
+        "source": "Council on Foreign Relations",
+        "title": "Big Macs Say the Dollar is Way Overvalued. iPad Minis Say It's Not so.",
+        "publicationDate": "2026-08-05",
+        "category": "Article",
+        "summary": "Measured in Big Macs, the dollar is too strong. Measured in iPad minis, it’s a modest bargain.",
+        "url": "https://www.cfr.org/articles/big-macs-say-the-dollar-is-way-overvalued-ipad-minis-say-its-not-so"
     },
     {
         "id": "https://www.cfr.org/podcasts/spillover/spillover-summer-reading-the-best-books-on-forecasting-silicon-valley-and-the-future",
@@ -63,6 +54,15 @@
         "url": "https://www.cfr.org/articles/the-dollar-boomerang-threat-washingtons-motivations-to-support-the-yen"
     },
     {
+        "id": "https://www.heritage.org/global-politics/report/democratic-mandate-sovereign-duty-the-test-hungarys-new-government",
+        "source": "Heritage Foundation",
+        "title": "Democratic Mandate, Sovereign Duty: The Test for Hungary’s New Government",
+        "publicationDate": "2026-08-05",
+        "category": "Defense",
+        "summary": "Péter Magyar’s victory over Viktor Orbán’s Fidesz gave his government democratic legitimacy and the authority to govern, but it did not give Budapest a mandate to dismantle the domestic institutions that have helped Hungary resist Brussels. The proper conservative test is therefore not whether Magyar defeated Viktor Orbán, but whether his government preserves Hungary’s sovereignty in the face of European Union (EU)...",
+        "url": "https://www.heritage.org/global-politics/report/democratic-mandate-sovereign-duty-the-test-hungarys-new-government"
+    },
+    {
         "id": "https://www.hudson.org/foreign-policy/israel-will-not-yield-michael-doran",
         "source": "Hudson Institute",
         "title": "Israel Will Not Yield",
@@ -90,40 +90,49 @@
         "url": "https://www.hudson.org/politics-government/albanese-shouldnt-miss-opportunities-support-japan-against-china-john-lee"
     },
     {
-        "id": "https://cms.hoover.org/node/391148",
+        "id": "https://cms.hoover.org/research/armor-robotic-battlefield",
         "source": "Hoover Institution",
-        "title": "Navigating the AI Frontier",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/node/391148"
-    },
-    {
-        "id": "https://cms.hoover.org/news/navigating-ai-frontier-balancing-ai-innovation-regulation-and-freedom",
-        "source": "Hoover Institution",
-        "title": "Navigating the AI Frontier: Balancing AI Innovation, Regulation, and Freedom",
+        "title": "Armor on a Robotic Battlefield",
         "publicationDate": "2026-08-05",
         "category": "Defense",
-        "summary": "The Hoover Institution, in partnership with the U.S. Department of State, brought together forty-seven foreign technology policymakers and foreign diplomats, State Department officials and policy leaders from leading AI companies on July 21, 2026, to discuss how governments can ensure widespread public benefits from artificial intelligence while protecting against possible harms.",
-        "url": "https://cms.hoover.org/news/navigating-ai-frontier-balancing-ai-innovation-regulation-and-freedom"
+        "summary": "When the Russian Army invaded Ukraine in 2022, columns of massed armored vehicles lumbered over highways and fields in an attempted blitzkrieg that would not have seemed out of place in World War II. What a difference four years of war have made. Ukrainian military leaders understood that they could not win a traditional war of attrition against the larger and more populous Russian state.",
+        "url": "https://cms.hoover.org/research/armor-robotic-battlefield"
     },
     {
-        "id": "https://cms.hoover.org/research/complicated-legacy-jay-bhattacharya-fauci-rfk-and-vaccines",
+        "id": "https://cms.hoover.org/research/carrier-air-wing-and-future-combat",
         "source": "Hoover Institution",
-        "title": "Complicated Legacy: Jay Bhattacharya On Fauci, RFK, And Vaccines",
+        "title": "The Carrier Air Wing and the Future of Combat",
         "publicationDate": "2026-08-05",
-        "category": "Technology",
-        "summary": "Jay Bhattacharya returns to GoodFellows for a candid conversation on what COVID got wrong, why science needs a replication revolution, and how to restore public trust.",
-        "url": "https://cms.hoover.org/research/complicated-legacy-jay-bhattacharya-fauci-rfk-and-vaccines"
+        "category": "Defense",
+        "summary": "On its face, the simple but clear logic of cost should serve as a key measure of military power. After all, military power is in some respect the translation of economic capacity into the means to kill. If one dollar purchases ten more units of “kill power” than the enemy, which spends the same amount of cash on only one unit, then the small, cheap, more numerous weapon is clearly more effective.",
+        "url": "https://cms.hoover.org/research/carrier-air-wing-and-future-combat"
     },
     {
-        "id": "https://cms.hoover.org/research/ai-powered-business-formation",
+        "id": "https://cms.hoover.org/research/old-weapons-new-battlefields",
         "source": "Hoover Institution",
-        "title": "AI-Powered Business Formation",
+        "title": "Old Weapons on New Battlefields",
         "publicationDate": "2026-08-05",
         "category": "Other",
-        "summary": "Are generative AI tools spurring a boom in solo businesses operated by a single person?",
-        "url": "https://cms.hoover.org/research/ai-powered-business-formation"
+        "summary": "Innovation on the battlefield is a constant in history. It comes in many forms: new platforms challenge old ones, novel uses of existing technologies lengthen their lifespan, and men adapt as fast as they can to increase their lethality while diminishing their vulnerability.",
+        "url": "https://cms.hoover.org/research/old-weapons-new-battlefields"
+    },
+    {
+        "id": "https://cms.hoover.org/research/democratic-socialism-no-tea-party",
+        "source": "Hoover Institution",
+        "title": "Democratic Socialism Is No Tea Party",
+        "publicationDate": "2026-08-05",
+        "category": "Other",
+        "summary": "[Subscription Required] It’s far more dangerous to the country. But its appeal is similar to that of the 2009-10 GOP insurgency.",
+        "url": "https://cms.hoover.org/research/democratic-socialism-no-tea-party"
+    },
+    {
+        "id": "https://cms.hoover.org/research/new-initiatives-dows-office-industrial-base-growth",
+        "source": "Hoover Institution",
+        "title": "New Initiatives At The DoW’s Office Of Industrial Base Growth",
+        "publicationDate": "2026-08-05",
+        "category": "Defense",
+        "summary": "Revitalizing and expanding the United States defense industrial base (DIB) is a top priority for the second Trump administration, which recognizes that “American national power depends on a strong industrial sector capable of meeting both peacetime and wartime production demands.”",
+        "url": "https://cms.hoover.org/research/new-initiatives-dows-office-industrial-base-growth"
     },
     {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
@@ -180,6 +189,33 @@
         "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/senate-confirms-dr-erica-schwartz-as-cdc-director-bringing-new-leadership-to-troubled-agency",
+        "source": "PBS NewsHour Politics",
+        "title": "Senate confirms Dr. Erica Schwartz as CDC director, bringing new leadership to troubled agency",
+        "publicationDate": "2026-08-05",
+        "category": "Healthcare",
+        "summary": "The Senate on Wednesday confirmed Dr. Erica Schwartz as director of the Centers for Disease Control and Prevention, placing her in charge of a public health agency beleaguered by political meddling and low morale.",
+        "url": "https://www.pbs.org/newshour/politics/senate-confirms-dr-erica-schwartz-as-cdc-director-bringing-new-leadership-to-troubled-agency"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/state-of-new-mexico-sues-justice-department-and-todd-blanche-saying-they-blocked-its-epstein-probe",
+        "source": "PBS NewsHour Politics",
+        "title": "State of New Mexico sues Justice Department and Todd Blanche, saying they blocked its Epstein probe",
+        "publicationDate": "2026-08-05",
+        "category": "epstein files",
+        "summary": "The state of New Mexico sued the Department of Justice and Acting Attorney General Todd Blanche on Wednesday, saying the federal government blocked the state's ability to investigate the sex crimes of financier Jeffrey Epstein at a ranch there.",
+        "url": "https://www.pbs.org/newshour/politics/state-of-new-mexico-sues-justice-department-and-todd-blanche-saying-they-blocked-its-epstein-probe"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more",
+        "source": "PBS NewsHour Politics",
+        "title": "Takeaways from Tuesday's elections in Michigan and more",
+        "publicationDate": "2026-08-05",
+        "category": "Abdul El-Sayed",
+        "summary": "Democrats need to rack up as many wins as possible to take back the U.S. Senate, so the party has little room for error.",
+        "url": "https://www.pbs.org/newshour/politics/takeaways-from-tuesdays-elections-in-michigan-and-more"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/faa-is-investigating-why-a-plane-was-allowed-to-take-off-as-trumps-helicopter-approached",
         "source": "PBS NewsHour Politics",
         "title": "FAA is investigating why a plane was allowed to take off as Trump's helicopter approached",
@@ -198,121 +234,130 @@
         "url": "https://www.pbs.org/newshour/politics/lawyers-in-reflecting-pool-case-say-justice-department-knew-case-was-flawed"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-talks-about-the-economy-in-las-vegas",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Trump talks about the economy in Las Vegas",
-        "publicationDate": "2026-08-05",
-        "category": "Economy",
-        "summary": "The Republican president has struggled to connect with voters on the economy as elevated inflation and Americans' feelings of uncertainty have overshadowed the stock market gains he often cites along with a low national unemployment rate.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-talks-about-the-economy-in-las-vegas"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/north-carolina-rep-edwards-quits-reelection-bid-after-committee-finds-inappropriate-conduct",
-        "source": "PBS NewsHour Politics",
-        "title": "North Carolina Rep. Edwards quits reelection bid after committee finds inappropriate conduct",
-        "publicationDate": "2026-08-05",
-        "category": "Chuck Edwards",
-        "summary": "The House Ethics Committee recommended he be censured for unprofessional and inappropriate conduct toward two young female aides in his office.",
-        "url": "https://www.pbs.org/newshour/politics/north-carolina-rep-edwards-quits-reelection-bid-after-committee-finds-inappropriate-conduct"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/judge-criticizes-trumps-justice-department-as-he-says-he-has-no-choice-but-to-dismiss-jan-6-seditious-conspiracy-case",
-        "source": "PBS NewsHour Politics",
-        "title": "Judge criticizes Trump's Justice Department as he says he has no choice but to dismiss Jan. 6 seditious conspiracy case",
-        "publicationDate": "2026-08-05",
-        "category": "Amit Mehta",
-        "summary": "The move Tuesday closes the book on the Jan. 6 cases that were wiped out with Republican President Donald Trump's sweeping pardons and commutations last year, freeing from prison people convicted of violent of assaults on police and other crimes.",
-        "url": "https://www.pbs.org/newshour/politics/judge-criticizes-trumps-justice-department-as-he-says-he-has-no-choice-but-to-dismiss-jan-6-seditious-conspiracy-case"
-    },
-    {
-        "id": "https://thehill.com/video-clips/6011646-watch-live-donald-trump-economic-agenda-las-vegas-speech/",
+        "id": "https://thehill.com/policy/defense/6012145-marquette-poll-iran-war-cost-goals/",
         "source": "The Hill",
-        "title": "Watch live: Trump seeks to sell economic agenda, tax cuts in Las Vegas speech",
+        "title": "Most Americans say Iran conflict wasn't worth cost, falls short of goals: Poll",
         "publicationDate": "2026-08-05",
-        "category": "Economy",
-        "summary": "President Trump will deliver remarks in Las Vegas on Thursday afternoon highlighting his administration's economic agenda and promoting the sweeping tax cuts enacted through the One Big Beautiful Bill Act, which he signed into law last year. The speech comes as Trump seeks to reassure voters on the economy ahead of November's midterms. Affordability remains...",
-        "url": "https://thehill.com/video-clips/6011646-watch-live-donald-trump-economic-agenda-las-vegas-speech/"
+        "category": "Defense",
+        "summary": "Most Americans say the war in Iran has not been worth the cost and has fallen short of its goals, according to a new poll. In a Marquette Law School Supreme Court Poll, 88 percent of respondents said the U.S. “has not achieved its goals” in the conflict against Iran, while 12 percent disagreed. The...",
+        "url": "https://thehill.com/policy/defense/6012145-marquette-poll-iran-war-cost-goals/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6011419-democratic-womens-caucus-max-miller-resignation-house-ethics-probe/",
+        "id": "https://thehill.com/policy/defense/6012117-hegseth-laneve-nomination-senate-opposition/",
         "source": "The Hill",
-        "title": "Democratic Women's Caucus leaders call on Max Miller to resign",
+        "title": "Hegseth's choice for top Army role faces GOP resistance in Senate",
         "publicationDate": "2026-08-05",
-        "category": "House",
-        "summary": "Leaders of the Democratic Women’s Caucus (DWC) on Wednesday called on Rep. Max Miller (R-Ohio) to resign, as the House Ethics Committee probes abuse allegations levied against him by his ex-wife. DWC Chair Teresa Leger Fernández (N.M.) and vice chairs Reps. Hillary Scholten (Mich.) and Emilia Sykes (Ohio) called the alleged abuse Miller perpetrated against...",
-        "url": "https://thehill.com/homenews/house/6011419-democratic-womens-caucus-max-miller-resignation-house-ethics-probe/"
+        "category": "Defense",
+        "summary": "Defense Secretary Pete Hegseth’s choice for the top uniformed Army job is at risk of not getting confirmed over objections from both sides of the aisle. Gen. Christopher LaNeve, who has been the acting Army chief of staff since April, needs unanimous support from GOP senators to advance out of the Senate Armed Services Committee....",
+        "url": "https://thehill.com/policy/defense/6012117-hegseth-laneve-nomination-senate-opposition/"
     },
     {
-        "id": "https://thehill.com/opinion/congress-blog/6011510-justice-greyhound-protection-act/",
+        "id": "https://thehill.com/homenews/senate/6012035-senator-gary-peters-fauci-contempt-vote/",
         "source": "The Hill",
-        "title": "For Babydog, it’s time to help the greyhounds",
+        "title": "Peters argues Fauci can't be punished for pleading Fifth ahead of contempt vote",
         "publicationDate": "2026-08-05",
-        "category": "Congress Blog",
-        "summary": "Federation of Humane Organizations of West Virginia President Theresa Bruner is calling on Sen. Jim Justice to support the Greyhound Protection Act in the Senate Agriculture Committee to end state-subsidized greyhound racing.",
-        "url": "https://thehill.com/opinion/congress-blog/6011510-justice-greyhound-protection-act/"
+        "category": "Senate",
+        "summary": "COVID czar Anthony Fauci cannot be prosecuted for asserting his Fifth Amendment rights in a recent hearing, Sen. Gary Peters (D-Mich.) wrote in a letter to colleagues, arguing the former government scientist's pardon does not undermine his constitutional protections. The letter comes ahead of a Thursday vote in the Senate Homeland Security and Governmental Affairs...",
+        "url": "https://thehill.com/homenews/senate/6012035-senator-gary-peters-fauci-contempt-vote/"
     },
     {
-        "id": "https://thehill.com/policy/sports-gaming/6011657-stephen-smith-criticizes-reeve-wnba-shirt/",
+        "id": "https://thehill.com/homenews/administration/6010135-live-updates-trump-vegas-michigan-el-sayed-progressives/",
         "source": "The Hill",
-        "title": "Stephen A. Smith knocks WNBA coach for backing trans athletes: 'Irresponsible'",
+        "title": "Live updates: Senate confirms Schwartz as CDC director; El-Sayed rocks Michigan with primary win",
         "publicationDate": "2026-08-05",
-        "category": "Sports & Gaming",
-        "summary": "Sports commentator Stephen A. Smith on Tuesday heavily criticized a WNBA coach over a shirt she wore courtside that said, “Trans Kids Belong.” In a game Sunday against the Indiana Fever, Minnesota Lynx head coach Cheryl Reeve wore the shirt following comments made by Fever guard Sophie Cunningham, where the Indiana player said she wants...",
-        "url": "https://thehill.com/policy/sports-gaming/6011657-stephen-smith-criticizes-reeve-wnba-shirt/"
+        "category": "Administration",
+        "summary": "Progressive Abdul El-Sayed and Rep. Haley Stevens (D) took the Michigan Senate primary down to nearly a deadlock, but El-Sayed came out ahead when the race was called Wednesday morning by Decision Desk HQ. Stevens conceded shortly afterward. The results indicate a big progressive win in a key race outside a major city. The closer-than-expected...",
+        "url": "https://thehill.com/homenews/administration/6010135-live-updates-trump-vegas-michigan-el-sayed-progressives/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6011422-kansas-senate-race-sabato-adam-hamilton-roger-marshall/",
+        "id": "https://thehill.com/homenews/administration/6011764-todd-blanche-pirro-trump-reflecting-pool/",
         "source": "The Hill",
-        "title": "Sabato's Crystal Ball shifts Kansas Senate race in Democrats' favor",
+        "title": "Blanche defers to Trump on Pirro's future over Reflecting Pool case: 'That’s his call'",
         "publicationDate": "2026-08-05",
-        "category": "Campaign",
-        "summary": "Election handicapper Sabato’s Crystal Ball on Tuesday shifted the Kansas Senate race from safe Republican to likely Republican following the Rev. Adam Hamilton’s Democratic primary win. Sabato’s Crystal Ball said a Hamilton win is a “long shot” but highlighted his $3.09 million fundraising advantage over incumbent Sen. Roger Marshall (R-Kan.) last quarter as a growing...",
-        "url": "https://thehill.com/homenews/campaign/6011422-kansas-senate-race-sabato-adam-hamilton-roger-marshall/"
+        "category": "Administration",
+        "summary": "Acting Attorney General Todd Blanche on Wednesday deferred questions regarding the future of Jeanine Pirro, U.S. Attorney for the District of Columbia, to President Trump, saying, \"That's his call.\" Blanche, who once was Trump's personal attorney, told reporters that \"Judge Pirro is doing a great job,\" a day after the president said he hadn't \"made...",
+        "url": "https://thehill.com/homenews/administration/6011764-todd-blanche-pirro-trump-reflecting-pool/"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html",
+        "id": "https://www.nytimes.com/2026/08/05/us/politics/michigan-primary-election-results-what-next.html",
         "source": "New York Times Politics",
-        "title": "Blanche Defends Pirro but Says Trump Can Fire Her at Any Time",
+        "title": "Where El-Sayed Showed Strengths, and Weaknesses, in the Michigan Primary",
+        "publicationDate": "2026-08-05",
+        "category": "Elections",
+        "summary": "Dr. Abdul El-Sayed had a strong showing in college towns, while Representative Haley Stevens did well in Black urban centers.",
+        "url": "https://www.nytimes.com/2026/08/05/us/politics/michigan-primary-election-results-what-next.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/05/style/abdul-el-sayed-fashion.html",
+        "source": "New York Times Politics",
+        "title": "Abdul El-Sayed’s Winning New Political Uniform",
         "publicationDate": "2026-08-05",
         "category": "United States Politics and Government",
-        "summary": "The head of the Justice Department praised the U.S. attorney in Washington after her tense meeting with the president.",
-        "url": "https://www.nytimes.com/2026/08/05/us/politics/todd-blanche-pirro-trump.html"
+        "summary": "Could the black T-shirt and jeans be the next big thing in Washington?",
+        "url": "https://www.nytimes.com/2026/08/05/style/abdul-el-sayed-fashion.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-skeptical-voters.html",
+        "id": "https://www.nytimes.com/2026/08/05/upshot/democrats-michigan-progressives-left.html",
         "source": "New York Times Politics",
-        "title": "Can Abdul El-Sayed Unify Michigan Democrats Ahead of the General Election?",
+        "title": "El-Sayed Got a Big Win for the Left. Can It Win Like This Nationally?",
         "publicationDate": "2026-08-05",
-        "category": "Politics and Government",
-        "summary": "His close margin of victory may point to challenges ahead.",
-        "url": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-skeptical-voters.html"
+        "category": "Midterm Elections (2022)",
+        "summary": "The new activist left is built on a coalition that may be too narrow to thrive in Democratic primaries in other areas, particularly the South.",
+        "url": "https://www.nytimes.com/2026/08/05/upshot/democrats-michigan-progressives-left.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/05/us/kansas-missouri-ballot-measures-abortion.html",
+        "id": "https://www.nytimes.com/2026/08/05/us/politics/trump-namesake-warships-cost-increase.html",
         "source": "New York Times Politics",
-        "title": "Abortion Foes Backed Ballot Measures in 2 Red States. Voters Said No.",
+        "title": "Cost of Trump’s Namesake Warships Likely to Rise by 50 Percent or More",
         "publicationDate": "2026-08-05",
-        "category": "Abortion",
-        "summary": "Voters in Kansas rejected a proposal to start electing Supreme Court justices, while Missourians declined to make it harder to amend the State Constitution.",
-        "url": "https://www.nytimes.com/2026/08/05/us/kansas-missouri-ballot-measures-abortion.html"
+        "category": "Defense",
+        "summary": "President Trump’s goal of building a “golden fleet” of 15 battleships could cost $275 billion, according to a government estimate.",
+        "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-namesake-warships-cost-increase.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html",
+        "id": "https://www.nytimes.com/2026/08/05/health/cdc-erica-schwartz.html",
         "source": "New York Times Politics",
-        "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
+        "title": "Senate Confirms Dr. Erica Schwartz as C.D.C. Director",
         "publicationDate": "2026-08-05",
-        "category": "Foreign Policy",
-        "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers.",
-        "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html"
+        "category": "United States Politics and Government",
+        "summary": "Dr. Schwartz, a deputy surgeon general in the first Trump administration, has publicly supported childhood vaccines.",
+        "url": "https://www.nytimes.com/2026/08/05/health/cdc-erica-schwartz.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html",
-        "source": "New York Times Politics",
-        "title": "El-Sayed’s Michigan Senate Primary Win Sets Up the Left’s Biggest Test of the Fall",
+        "id": "https://www.washingtonpost.com/politics/2026/08/05/michigan-senate-primary-shows-democratic-establishment-has-lost-its-grip/",
+        "source": "Washington Post Politics",
+        "title": "Michigan Senate primary shows Democratic establishment has lost its grip",
         "publicationDate": "2026-08-05",
-        "category": "Midterm Elections (2026)",
-        "summary": "Abdul El-Sayed’s Senate candidacy poses a critical challenge for Democrats’ ascendant progressive wing: Can an insurgent candidate, with unabashedly liberal positions, win a general election in a moderate state?",
-        "url": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html"
+        "category": "Other",
+        "summary": "The upset highlighted how out of touch the power brokers are with the party's surging left wing as they try to retake control of the Senate.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/05/michigan-senate-primary-shows-democratic-establishment-has-lost-its-grip/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/05/this-chaplain-may-become-first-trans-person-elected-michigan-legislature/",
+        "source": "Washington Post Politics",
+        "title": "This chaplain may become first trans person elected to Michigan legislature",
+        "publicationDate": "2026-08-05",
+        "category": "Other",
+        "summary": "Joanna Whaley is favored to win the heavily Democratic district in November.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/05/this-chaplain-may-become-first-trans-person-elected-michigan-legislature/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/05/why-theres-so-much-heat-anthony-fauci-right-now/",
+        "source": "Washington Post Politics",
+        "title": "Why there’s so much heat on Anthony Fauci right now",
+        "publicationDate": "2026-08-05",
+        "category": "Healthcare",
+        "summary": "Public health experts have a few theories.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/05/why-theres-so-much-heat-anthony-fauci-right-now/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/05/why-did-polls-miss-so-badly-michigan/",
+        "source": "Washington Post Politics",
+        "title": "Why did the polls miss so badly in Michigan?",
+        "publicationDate": "2026-08-05",
+        "category": "Other",
+        "summary": "Polls overestimated Abdul El-Sayed’s lead by 12 percentage points. That isn't unusual for statewide primary contests.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/05/why-did-polls-miss-so-badly-michigan/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/05/democrats-ask-interior-watchdog-investigate-response-reflecting-pool-damage/",
@@ -324,49 +369,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/05/democrats-ask-interior-watchdog-investigate-response-reflecting-pool-damage/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/05/how-el-sayed-won-contentious-michigan-senate-democratic-primary/",
-        "source": "Washington Post Politics",
-        "title": "How El-Sayed won the contentious Michigan Senate Democratic primary",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Abdul El-Sayed won with a populist platform buoyed by voter discontent with establishment Democrats and Israel.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/05/how-el-sayed-won-contentious-michigan-senate-democratic-primary/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/05/democrats-turn-out-big-michigan-gubernatorial-primary/",
-        "source": "Washington Post Politics",
-        "title": "Democrats turn out big in Michigan gubernatorial primary",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "About 1.5 million voters cast ballots in the Democratic primary for governor compared with about 930,000 in the Republican primary, as of midday Wednesday.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/05/democrats-turn-out-big-michigan-gubernatorial-primary/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/05/rep-chuck-edwards-drops-reelection-bid-following-house-censure-recommendation/",
-        "source": "Washington Post Politics",
-        "title": "Rep. Edwards drops competitive reelection bid after House censure recommendation",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "An Ethics Committee report detailed “persistent unprofessional and inappropriate conduct” by the North Carolina Republican toward two young female staffers.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/05/rep-chuck-edwards-drops-reelection-bid-following-house-censure-recommendation/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/05/trump-endorsed-candidate-loses-michigan-man-who-dropped-out-race/",
-        "source": "Washington Post Politics",
-        "title": "Trump-endorsed candidate loses to Michigan man who dropped out of race",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Thomas J. Smith suspended his campaign for Michigan’s 8th District. Yet he is projected to beat Amir Hassan, a rival backed by the president.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/05/trump-endorsed-candidate-loses-michigan-man-who-dropped-out-race/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
         "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
-        "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+        "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
@@ -378,13 +387,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
         "publicationDate": "2026-08-05",
-        "category": "Foreign Policy",
-        "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
-        "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+        "category": "Defense",
+        "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+        "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
@@ -405,15 +414,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/2f32de35-697e-4f56-ac57-e44006a09d0f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "How to solve Britain’s prisons crisis",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "It will require changes to sentencing as well as building more capacity",
-        "url": "https://www.ft.com/content/2f32de35-697e-4f56-ac57-e44006a09d0f?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Iran says it has reached agreement with Oman on Hormuz shipping route",
@@ -423,31 +423,58 @@
         "url": "https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/65576911-f6ee-46b3-b5a8-f423df723879",
+        "id": "https://www.ft.com/content/1fcca000-d9ac-4b3b-9d31-2fef0d1f55f3?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Europe must do more to harness its AI ambitions",
+        "title": "Big US hedge funds targeted by wave of cyber attacks",
         "publicationDate": "2026-08-05",
-        "category": "Foreign Policy",
-        "summary": "The US and China use the technology as an instrument of state power, while the EU is still considering its course",
-        "url": "https://www.ft.com/content/65576911-f6ee-46b3-b5a8-f423df723879"
+        "category": "Technology",
+        "summary": "Point72 and Citadel among firms hit by audio phishing schemes",
+        "url": "https://www.ft.com/content/1fcca000-d9ac-4b3b-9d31-2fef0d1f55f3?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/45df9a1f-7400-4ef8-85e5-aa519a627e66?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/3cf185ad-3aea-4d15-8fae-36940da57219?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Israel launches strikes on Lebanon in new flare-up",
+        "title": "Bikemaker Accell files for insolvency four years after €1.8bn KKR-led buyout",
         "publicationDate": "2026-08-05",
-        "category": "Defense",
-        "summary": "Israeli military issues first evacuation order in over a month amid renewed efforts to de-escalate tensions in the region",
-        "url": "https://www.ft.com/content/45df9a1f-7400-4ef8-85e5-aa519a627e66?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Announcement by Dutch owner of Raleigh and Babboe brands follows four difficult years since it was taken private",
+        "url": "https://www.ft.com/content/3cf185ad-3aea-4d15-8fae-36940da57219?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/258c5cba-e65a-4990-82b1-3c5e7fc2bb10?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/62b70b3a-88c9-4d6c-bc0c-b840586af91a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Bodycote gets twin private equity bids as buyers feast on London market",
+        "title": "JPMorgan poaches M&A banker Amy Lissauer from Bank of America",
         "publicationDate": "2026-08-05",
+        "category": "Other",
+        "summary": "Executive will lead activism defence practice at biggest US lender",
+        "url": "https://www.ft.com/content/62b70b3a-88c9-4d6c-bc0c-b840586af91a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Google DeepMind CEO Demis Hassabis steps down in shake-up of AI lab",
+        "publicationDate": "2026-08-05",
+        "category": "Other",
+        "summary": "Chief scientist Jeff Dean leaves the group to found his own start-up",
+        "url": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R44399",
+        "source": "Congressional Research Service",
+        "title": "Senators’ Official Personnel and Office Expense Account (SOPOEA): History and Usage",
+        "publicationDate": "2026-08-04",
         "category": "Economy",
-        "summary": "Separate offers from CVC and Veritas value FTSE 250 industrials group at about £1.8bn including debt",
-        "url": "https://www.ft.com/content/258c5cba-e65a-4990-82b1-3c5e7fc2bb10?syn-25a6b1a6=1"
+        "summary": "The Senators’ Official Personnel and Office Expense Account (SOPOEA) is available to assist Senators in their official duties. The allowance is provided on a fiscal-year basis (i.e., October 1-September 30). Funding is provided in the annual legislative branch appropriations bills. Senators have a high degree of flexibility to use the SOPOEA to operate their offices in a way that supports their congressional duties...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44399/R44399.7.pdf"
+    },
+    {
+        "id": "IF11665",
+        "source": "Congressional Research Service",
+        "title": "President Reagan’s Six Assurances to Taiwan",
+        "publicationDate": "2026-08-04",
+        "category": "Defense",
+        "summary": "Introduction Under the U.S. “one-China” policy, the U.S. government has, since 1979, maintained official relations with the People’s Republic of China (PRC) and unofficial relations with self-governed Taiwan, over which the PRC claims sovereignty. Until 2020, U.S. Administrations described the U.S. one-China policy as being guided by three U.S.-PRC joint communiqués (concluded in 1972, 1978, and 1982) and the...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11665/IF11665.13.pdf"
     },
     {
         "id": "IN12723",
@@ -475,15 +502,6 @@
         "category": "Defense",
         "summary": "This report describes the deployment of secure inference data centers (SIDCs)—purpose-built facilities designed to protect artificial intelligence models from advanced nation-state adversaries. SIDCs can be built today with proven technologies.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4827-1.html"
-    },
-    {
-        "id": "https://www.cfr.org/articles/asean-still-toothless-is-losing-its-faith-in-the-u-s",
-        "source": "Council on Foreign Relations",
-        "title": "ASEAN, Still Toothless, Is Losing Its Faith in the U.S.",
-        "publicationDate": "2026-08-04",
-        "category": "Foreign Policy",
-        "summary": "At the July meeting of Association of Southeast Asian Nations (ASEAN) foreign ministers, most of whom were already furious at the United States, U.S. Secretary of State Marco Rubio did little to lower the temperature. But ASEAN also continued its trend of saying much while doing almost nothing.",
-        "url": "https://www.cfr.org/articles/asean-still-toothless-is-losing-its-faith-in-the-u-s"
     },
     {
         "id": "https://www.heritage.org/markets-and-finance/commentary/the-end-the-summer-job",
@@ -531,15 +549,6 @@
         "url": "https://www.hudson.org/foreign-policy/us-military-redirects-ships-amid-iranian-blockade-rebeccah-heinrichs"
     },
     {
-        "id": "https://cms.hoover.org/research/leveraging-ai-identify-small-business-regulations-federal-state-and-local-levels",
-        "source": "Hoover Institution",
-        "title": "Leveraging AI to Identify Small Business Regulations at the Federal, State, and Local Levels",
-        "publicationDate": "2026-08-04",
-        "category": "Technology",
-        "summary": "We introduce a novel database of small business exemptions at the 3-digit NAICS industry level for 48 US States in 2023. Our dataset is derived using Large Language Model (LLM) technology, which is validated using more traditional Natural Language Processing (NLP) methods.",
-        "url": "https://cms.hoover.org/research/leveraging-ai-identify-small-business-regulations-federal-state-and-local-levels"
-    },
-    {
         "id": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/",
         "source": "European Council on Foreign Relations",
         "title": "If Marine Le Pen wins: A European guide to a far-right France",
@@ -547,15 +556,6 @@
         "category": "European Power",
         "summary": "A Le Pen-led France would mean major changes to European politics. Here's how political leaders can begin to prepare.",
         "url": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/"
-    },
-    {
-        "id": "R49058",
-        "source": "Congressional Research Service",
-        "title": "The Social Security Fairness Act of 2023: Background, Impact, and Issues",
-        "publicationDate": "2026-08-03",
-        "category": "Economy",
-        "summary": "The Social Security Fairness Act of 2023 (SSFA; P.L. 118-273), signed into law on January 5, 2025, repealed two provisions in the Social Security Act: the Government Pension Offset (GPO) and the Windfall Elimination Provision (WEP). The changes applied to monthly benefits payable after December 2023. The GPO and WEP were two separate provisions that reduced Social Security or railroad retirement benefits for...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49058/R49058.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4944-1.html",
@@ -574,24 +574,6 @@
         "category": "Defense",
         "summary": "Description not available from the source feed.",
         "url": "https://www.heritage.org/defense/report/theater-missile-defense-inventory-inadequate-us-china-conflict"
-    },
-    {
-        "id": "https://www.heritage.org/energy/report/horizontal-federalism-and-the-problem-extraterritoriality-energy-policy",
-        "source": "Heritage Foundation",
-        "title": "Horizontal Federalism and the Problem of Extraterritoriality in Energy Policy",
-        "publicationDate": "2026-08-03",
-        "category": "Economy",
-        "summary": "Congressional productivity, as measured by the number of bills enacted into law, has seen a steady decline since at least the 1980s. See, for instance, Minho Kim and Ashley Wu, “How the House Slumped to Historic Lows of Productivity in 2025,” The New York Times, January 16, 2026, https://www.nytimes.com/interactive/2026/01/17/us/politics/house-republicans-majority-productivity.html?eafs_enabled=false (accessed July...",
-        "url": "https://www.heritage.org/energy/report/horizontal-federalism-and-the-problem-extraterritoriality-energy-policy"
-    },
-    {
-        "id": "R48089",
-        "source": "Congressional Research Service",
-        "title": "Columbia River System Operations and the Future of the Lower Snake River Dams",
-        "publicationDate": "2026-07-31",
-        "category": "Defense",
-        "summary": "Congress has repeatedly debated how to operate and allocate resources from federal water resources projects—such as multipurpose federal dams—to serve various human needs while protecting or conserving species listed under the Endangered Species Act (ESA; 16 U.S.C. §§1531-1544). The Columbia River Basin, which includes the Snake River, is home to numerous federal and nonfederal dams that provide an array of...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48089/R48089.10.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
@@ -628,6 +610,15 @@
         "category": "Foreign Policy",
         "summary": "Mark Leonard welcomes LuHan Gabel, Ooi Kee Beng and Chelsea Nguyen to explore how younger generations in China, Malaysia and Vietnam are rethinking the meaning of modernity in a post-Western world",
         "url": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/"
+    },
+    {
+        "id": "R48918",
+        "source": "Congressional Research Service",
+        "title": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "The farm bill, an omnibus, multiyear law, is the primary piece of legislation governing agricultural and food programs. The Agriculture Improvement Act of 2018 (2018 farm bill; P.L. 115-334) is the most recent farm bill. The Farm, Food, and National Security Act of 2026 (H.R. 7567) would add, amend, and reauthorize some 2018 farm bill programs. The Senate Agriculture Committee chairman released a discussion draft...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48918/R48918.8.pdf"
     },
     {
         "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
@@ -673,5 +664,14 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
+    },
+    {
+        "id": "IF10275",
+        "source": "Congressional Research Service",
+        "title": "Taiwan: Background and U.S. Relations",
+        "publicationDate": "2026-03-30",
+        "category": "Defense",
+        "summary": "Introduction Taiwan, which also calls itself the Republic of China (ROC) and was once known as Formosa, is a self-governing East Asian democracy located across the Taiwan Strait from mainland China. Taiwan’s popularly elected leaders govern 23.3 million people on the main island of Taiwan; the archipelagoes of Penghu, Kinmen, and Matsu; and other outlying islands. Taiwan is a semiconductor manufacturing powerhouse...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10275/IF10275.89.pdf"
     }
 ]
