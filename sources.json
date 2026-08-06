@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
+        "source": "NPR Politics",
+        "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Republicans on the Senate Homeland Security Committee want to hold Fauci in contempt of Congress after he refused to answer their questions about the government's response to the COVID-19 pandemic.",
+        "url": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote"
+    },
+    {
         "id": "https://thehill.com/policy/healthcare/6012755-cdc-traces-mexican-jalapeno-salmonella/",
         "source": "The Hill",
         "title": "CDC warns of Salmonella outbreak linked to jalapeños",
@@ -63,6 +72,15 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/05/gop-senator-obtains-copy-faucis-phone-contempt-vote-looms/"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+        "publicationDate": "2026-08-06",
+        "category": "Foreign Policy",
+        "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+        "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
@@ -72,22 +90,58 @@
         "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+        "title": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
         "publicationDate": "2026-08-06",
         "category": "Other",
-        "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss"
+        "summary": "The Goa bench of the Bombay High Court overturned a 2021 trial court verdict clearing Tejpal of all charges.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Nigerian security forces rescue more than 300 abductees",
+        "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
         "publicationDate": "2026-08-06",
         "category": "Other",
-        "summary": "Nigeria's government says the rescue is the country's largest single-day operation by joint security forces.",
-        "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss"
+        "summary": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/b214e9c8-615b-400e-8c53-97f16d0ddcec?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "SoftBank’s stakes in Intel and ByteDance help it beat expectations",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Masayoshi Son’s group posts 18% fall in net profit for three months to June",
+        "url": "https://www.ft.com/content/b214e9c8-615b-400e-8c53-97f16d0ddcec?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/838c0c6c-5902-4777-958e-68ca2ca14f6c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Wizz Air warns high fuel costs may wipe out profits",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Low-cost carrier swings to loss of almost €200mn between April and June",
+        "url": "https://www.ft.com/content/838c0c6c-5902-4777-958e-68ca2ca14f6c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "ChatGPT maker seeks to dismiss blockbuster case as it prepares to launch its own AI device",
+        "url": "https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b3a21bd2-e92f-428f-a81e-8299f5502dea?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Is the AI trade back?",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Plus, looking ahead to the jobs report",
+        "url": "https://www.ft.com/content/b3a21bd2-e92f-428f-a81e-8299f5502dea?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/7252ef68-a886-4cd0-a450-b5a6cff3a526?syn-25a6b1a6=1",
@@ -97,42 +151,6 @@
         "category": "Economy",
         "summary": "Move to impose levy on returns from policies that serve as investment products causes consternation in Hong Kong",
         "url": "https://www.ft.com/content/7252ef68-a886-4cd0-a450-b5a6cff3a526?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/95c0b20c-0f9e-492b-9c0d-64b451654415",
-        "source": "Financial Times World",
-        "title": "More moaning about UK monthly GDP",
-        "publicationDate": "2026-08-06",
-        "category": "Other",
-        "summary": "Sorry, we can’t let this one go",
-        "url": "https://www.ft.com/content/95c0b20c-0f9e-492b-9c0d-64b451654415"
-    },
-    {
-        "id": "https://www.ft.com/content/4709fbd3-5a10-46b0-84cf-9fed6c9a10b0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: US law firms weigh stake sale to private equity",
-        "publicationDate": "2026-08-06",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: DeepMind CEO Hassabis steps down and golden visas",
-        "url": "https://www.ft.com/content/4709fbd3-5a10-46b0-84cf-9fed6c9a10b0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1e041e56-e2b6-4320-9dd7-1db8fdd7bc9c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "BP North Sea exit presents wake-up call on Scottish energy",
-        "publicationDate": "2026-08-06",
-        "category": "Other",
-        "summary": "Blow to oil and gas industry comes as renewables projects are faltering",
-        "url": "https://www.ft.com/content/1e041e56-e2b6-4320-9dd7-1db8fdd7bc9c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/2c94a7a2-abaf-45f9-9e1c-c7e469287ee7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Citadel ‘makes a killing’",
-        "publicationDate": "2026-08-06",
-        "category": "Other",
-        "summary": "Ken Griffin’s hedge fund made billions last week after it bought the bulk of Situational Awareness’s stock book",
-        "url": "https://www.ft.com/content/2c94a7a2-abaf-45f9-9e1c-c7e469287ee7?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
@@ -315,15 +333,6 @@
         "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats"
     },
     {
-        "id": "https://www.npr.org/2026/08/05/nx-s1-5913690/5-states-went-to-the-polls-tuesday-takeaways-from-the-primary-elections",
-        "source": "NPR Politics",
-        "title": "5 states went to the polls Tuesday. Takeaways from the primary elections",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Five states held primary elections Tuesday that could play a decisive role in which party controls Congress in the midterm elections. A look at the results and the race that's too close to call.",
-        "url": "https://www.npr.org/2026/08/05/nx-s1-5913690/5-states-went-to-the-polls-tuesday-takeaways-from-the-primary-elections"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/watch-live-sen-paul-holds-contempt-vote-after-fauci-invokes-5th-amendment",
         "source": "PBS NewsHour Politics",
         "title": "WATCH LIVE: Sen. Paul holds contempt vote after Fauci invokes 5th Amendment",
@@ -446,17 +455,8 @@
         "title": "Infantino sorry for errors but stays Fifa president",
         "publicationDate": "2026-08-05",
         "category": "Other",
-        "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+        "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
         "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "publicationDate": "2026-08-05",
-        "category": "Foreign Policy",
-        "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R49060",
