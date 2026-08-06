@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://thehill.com/policy/healthcare/6012755-cdc-traces-mexican-jalapeno-salmonella/",
+        "source": "The Hill",
+        "title": "CDC warns of Salmonella outbreak linked to jalapeños",
+        "publicationDate": "2026-08-06",
+        "category": "Healthcare",
+        "summary": "A Salmonella outbreak that has sickened 345 people across 27 states has been linked to jalapeño peppers, the Centers for Disease Control and Prevention (CDC) reported Wednesday. Traceback information found that the affected jalapeños came from Sinaloa, Mexico, and were distributed by Coast Citrus Distributors. There have been no reported deaths and 36 hospitalizations so...",
+        "url": "https://thehill.com/policy/healthcare/6012755-cdc-traces-mexican-jalapeno-salmonella/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6012753-fda-cyclospora-lettuce-outbreak/",
+        "source": "The Hill",
+        "title": "Multistate cyclospora outbreak expands to 15 states",
+        "publicationDate": "2026-08-06",
+        "category": "Healthcare",
+        "summary": "The Food and Drug Administration on Wednesday expanded its investigation into a Cyclospora outbreak linked to recalled iceberg lettuce, after the first two deaths associated with the outbreak were confirmed. The outbreak, which was first identified in July among people who ate shredded iceberg lettuce at Taco Bell restaurants, has since widened to more than...",
+        "url": "https://thehill.com/policy/healthcare/6012753-fda-cyclospora-lettuce-outbreak/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6012719-vance-criticizes-el-sayed-michigan/",
         "source": "The Hill",
         "title": "Vance says El-Sayed has no 'constituency among the working class'",
@@ -9,6 +27,24 @@
         "url": "https://thehill.com/homenews/administration/6012719-vance-criticizes-el-sayed-michigan/"
     },
     {
+        "id": "https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html",
+        "source": "New York Times Politics",
+        "title": "Senate Panel Has Obtained Copy of Fauci’s Cellphone",
+        "publicationDate": "2026-08-06",
+        "category": "United States Politics and Government",
+        "summary": "The development comes as a Senate committee prepares to vote Thursday on whether to hold Dr. Anthony S. Fauci in contempt of Congress for refusing to answer questions at a hearing.",
+        "url": "https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html",
+        "source": "New York Times Politics",
+        "title": "F.D.A. Approves Moderna’s mRNA Flu Vaccine",
+        "publicationDate": "2026-08-06",
+        "category": "Healthcare",
+        "summary": "The agency had initially refused to even review the application but reversed course after a public outcry.",
+        "url": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html",
         "source": "New York Times Politics",
         "title": "Fauci Faces Contempt of Congress Vote on Thursday",
@@ -16,24 +52,6 @@
         "category": "United States Politics and Government",
         "summary": "A Senate panel scheduled a vote after Dr. Anthony Fauci declined to answer questions at a hearing last week. Here are the legal issues involved.",
         "url": "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-        "source": "New York Times Politics",
-        "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-        "publicationDate": "2026-08-06",
-        "category": "Foreign Policy",
-        "summary": "The task force will allow the spy agency to quickly direct more financial, human and technical resources at the island, with the goal of creating fissures among the Cuban political elite.",
-        "url": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html",
-        "source": "New York Times Politics",
-        "title": "Helicopter Carrying Trump Flew Near Passenger Jet in Washington Airspace",
-        "publicationDate": "2026-08-06",
-        "category": "Air Traffic Control",
-        "summary": "Marine One, the helicopter that ferries the president, came within less than a mile of an Envoy Air flight on Tuesday, raising new concerns about air traffic control in the congested area.",
-        "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/05/gop-senator-obtains-copy-faucis-phone-contempt-vote-looms/",
@@ -54,13 +72,67 @@
         "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/1cf8821e-7ffa-4620-89f9-f56c11a6298e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "‘Every dollar is mobile’: California’s rich snap up New Zealand ‘golden visas’",
+        "id": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
         "publicationDate": "2026-08-06",
         "category": "Other",
-        "summary": "Applications for indefinite right to work, live and study in the country have risen after rules were eased",
-        "url": "https://www.ft.com/content/1cf8821e-7ffa-4620-89f9-f56c11a6298e?syn-25a6b1a6=1"
+        "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Nigerian security forces rescue more than 300 abductees",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Nigeria's government says the rescue is the country's largest single-day operation by joint security forces.",
+        "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/7252ef68-a886-4cd0-a450-b5a6cff3a526?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Insurance and bank stocks slide amid China tax crackdown fears",
+        "publicationDate": "2026-08-06",
+        "category": "Economy",
+        "summary": "Move to impose levy on returns from policies that serve as investment products causes consternation in Hong Kong",
+        "url": "https://www.ft.com/content/7252ef68-a886-4cd0-a450-b5a6cff3a526?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/95c0b20c-0f9e-492b-9c0d-64b451654415",
+        "source": "Financial Times World",
+        "title": "More moaning about UK monthly GDP",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Sorry, we can’t let this one go",
+        "url": "https://www.ft.com/content/95c0b20c-0f9e-492b-9c0d-64b451654415"
+    },
+    {
+        "id": "https://www.ft.com/content/4709fbd3-5a10-46b0-84cf-9fed6c9a10b0?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: US law firms weigh stake sale to private equity",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: DeepMind CEO Hassabis steps down and golden visas",
+        "url": "https://www.ft.com/content/4709fbd3-5a10-46b0-84cf-9fed6c9a10b0?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1e041e56-e2b6-4320-9dd7-1db8fdd7bc9c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "BP North Sea exit presents wake-up call on Scottish energy",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Blow to oil and gas industry comes as renewables projects are faltering",
+        "url": "https://www.ft.com/content/1e041e56-e2b6-4320-9dd7-1db8fdd7bc9c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/2c94a7a2-abaf-45f9-9e1c-c7e469287ee7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Citadel ‘makes a killing’",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Ken Griffin’s hedge fund made billions last week after it bought the bulk of Situational Awareness’s stock book",
+        "url": "https://www.ft.com/content/2c94a7a2-abaf-45f9-9e1c-c7e469287ee7?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
@@ -315,24 +387,6 @@
         "url": "https://thehill.com/homenews/campaign/6012655-lawrence-lapses-dsa-membership/"
     },
     {
-        "id": "https://thehill.com/policy/international/6012601-us-revokes-brazilian-ambassador-visa/",
-        "source": "The Hill",
-        "title": "US revokes Brazil ambassador's visa over diplomatic tensions",
-        "publicationDate": "2026-08-05",
-        "category": "Foreign Policy",
-        "summary": "The State Department revoked the visa of Maria Luiza Ribeiro Viotti, the Brazilian ambassador to the U.S., on Tuesday amid tensions between the two governments. The office of Brazilian President Luiz Inácio Lula da Silva said in a statement it “repudiates” the decision by the State Department to revoke Viotti’s visa. Viotti has been Lula’s...",
-        "url": "https://thehill.com/policy/international/6012601-us-revokes-brazilian-ambassador-visa/"
-    },
-    {
-        "id": "https://thehill.com/homenews/6012568-hemp-fight-trips-up-spending-bill/",
-        "source": "The Hill",
-        "title": "Hemp fight trips up spending bill",
-        "publicationDate": "2026-08-05",
-        "category": "Healthcare",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story GOP hemp fight delays spending bill An internal GOP fight over intoxicating hemp products is slowing up passage of a government funding bill. Amy Beth Bennett, South Florida Sun Sentinel, Tribune News Service via Getty Images The Senate’s government...",
-        "url": "https://thehill.com/homenews/6012568-hemp-fight-trips-up-spending-bill/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/08/05/us/politics/national-firearms-act-gun-control.html",
         "source": "New York Times Politics",
         "title": "Federal Judge Weakens The National Firearms Act",
@@ -387,33 +441,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/05/government-watchdog-still-cant-identify-who-all-worked-doge/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "publicationDate": "2026-08-05",
-        "category": "Foreign Policy",
-        "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Drone carrying explosives found at German airport, police say",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-        "publicationDate": "2026-08-05",
-        "category": "Defense",
-        "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
-        "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Infantino sorry for errors but stays Fifa president",
@@ -423,40 +450,13 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/4709fbd3-5a10-46b0-84cf-9fed6c9a10b0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: China launches global tax hunt",
-        "publicationDate": "2026-08-05",
-        "category": "Economy",
-        "summary": "Also in today’s newsletter: Google DeepMind CEO Demis Hassabis steps down and Iran says agreement reached with Oman on Hormuz shipping route",
-        "url": "https://www.ft.com/content/4709fbd3-5a10-46b0-84cf-9fed6c9a10b0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/2b5e1ab6-9c41-4df8-8391-29d428fa5d2a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "‘Toy Story 5’ box office boosts Disney as US theme parks rebound",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Shares rise as entertainment group increases buyback plan",
-        "url": "https://www.ft.com/content/2b5e1ab6-9c41-4df8-8391-29d428fa5d2a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/86ed4593-b369-4c58-aaa7-240bd48b5c77?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US puts $25mn bounty on top Mexican drug cartel leader",
-        "publicationDate": "2026-08-05",
-        "category": "Healthcare",
-        "summary": "Trump administration makes offer for information on Juan Carlos Valencia González as part of package of up to $102mn in rewards",
-        "url": "https://www.ft.com/content/86ed4593-b369-4c58-aaa7-240bd48b5c77?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Iran says it has reached agreement with Oman on Hormuz shipping route",
+        "id": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
         "publicationDate": "2026-08-05",
         "category": "Foreign Policy",
-        "summary": "Islamic republic is determined to retain a degree of control over the chokepoint",
-        "url": "https://www.ft.com/content/e0b10cad-3e46-4a6d-9227-eba6fe11c676?syn-25a6b1a6=1"
+        "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+        "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R49060",
@@ -540,6 +540,15 @@
         "url": "https://www.hudson.org/foreign-policy/us-military-redirects-ships-amid-iranian-blockade-rebeccah-heinrichs"
     },
     {
+        "id": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/",
+        "source": "European Council on Foreign Relations",
+        "title": "If Marine Le Pen wins: A European guide to a far-right France",
+        "publicationDate": "2026-08-04",
+        "category": "European Power",
+        "summary": "A Le Pen-led France would mean major changes to European politics. Here's how political leaders can begin to prepare.",
+        "url": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4944-1.html",
         "source": "RAND Corporation",
         "title": "The Economics of AI Counterproliferation",
@@ -567,6 +576,33 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html"
     },
     {
+        "id": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
+        "source": "European Council on Foreign Relations",
+        "title": "Alone at the border: Ceuta and Europe’s solidarity failure",
+        "publicationDate": "2026-07-31",
+        "category": "Human Rights and Democracy",
+        "summary": "By failing to show solidarity with a member state under pressure, the EU is encouraging Morocco and others to keep using migration as a tool of coercion.",
+        "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/"
+    },
+    {
+        "id": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/",
+        "source": "European Council on Foreign Relations",
+        "title": "How splits on the right may threaten Poland’s pro-European camp",
+        "publicationDate": "2026-07-31",
+        "category": "European Power",
+        "summary": "More than 40 MPs have walked out of Law and Justice, Poland’s largest opposition party, and will court centre-right voters who put Donald Tusk in power in 2023. To win them back, Tusk should make the European argument he has spent years avoiding",
+        "url": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/",
+        "source": "European Council on Foreign Relations",
+        "title": "Defining modernity in South-East Asia",
+        "publicationDate": "2026-07-31",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes LuHan Gabel, Ooi Kee Beng and Chelsea Nguyen to explore how younger generations in China, Malaysia and Vietnam are rethinking the meaning of modernity in a post-Western world",
+        "url": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/"
+    },
+    {
         "id": "R48918",
         "source": "Congressional Research Service",
         "title": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
@@ -574,6 +610,15 @@
         "category": "Economy",
         "summary": "The farm bill, an omnibus, multiyear law, is the primary piece of legislation governing agricultural and food programs. The Agriculture Improvement Act of 2018 (2018 farm bill; P.L. 115-334) is the most recent farm bill. The Farm, Food, and National Security Act of 2026 (H.R. 7567) would add, amend, and reauthorize some 2018 farm bill programs. The Senate Agriculture Committee chairman released a discussion draft...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R48918/R48918.8.pdf"
+    },
+    {
+        "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
+        "source": "European Council on Foreign Relations",
+        "title": "NATO’s digital arsenal: How Europe can avoid a new dependence on America",
+        "publicationDate": "2026-07-29",
+        "category": "European Security",
+        "summary": "AI-powered command systems are becoming the backbone of modern warfare. NATO needs shared standards, but if those rest on American software, interoperability will come at the price of dependence.",
+        "url": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
