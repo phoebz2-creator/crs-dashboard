@@ -1,5 +1,50 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
+        "source": "RAND Corporation",
+        "title": "China's Retirement Reform and the 2035 Statutory Working-Age Window",
+        "publicationDate": "2026-08-06",
+        "category": "Foreign Policy",
+        "summary": "Using a monthly birth-cohort simulation, the author estimates that China’s 2025 retirement reform keeps about 48 million additional people below statutory retirement ages in 2035, delaying the working-age decline without reversing population aging.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4750-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA5055-1.html",
+        "source": "RAND Corporation",
+        "title": "Interpreting Dual-Use Biology Benchmarks for Frontier AI",
+        "publicationDate": "2026-08-06",
+        "category": "Defense",
+        "summary": "The authors find that many artificial intelligence (AI) benchmark tasks are no longer informative, but a frontier of difficult tasks remains so, with recent gains concentrated on difficult tasks theorized to be relevant to real-world risk.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5055-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-bombing-of-hiroshima",
+        "source": "Council on Foreign Relations",
+        "title": "The Bombing of Hiroshima",
+        "publicationDate": "2026-08-06",
+        "category": "Article",
+        "summary": "The decision to drop an atomic bomb on Hiroshima continues to stir debate today.",
+        "url": "https://www.cfr.org/articles/the-bombing-of-hiroshima"
+    },
+    {
+        "id": "https://cms.hoover.org/research/michael-boskin-american-economic-policy-reagan",
+        "source": "Hoover Institution",
+        "title": "Michael Boskin On American Economic Policy Since Reagan",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "A lifetime shaping American economic policy.",
+        "url": "https://cms.hoover.org/research/michael-boskin-american-economic-policy-reagan"
+    },
+    {
+        "id": "https://cms.hoover.org/research/jan-karski",
+        "source": "Hoover Institution",
+        "title": "Jan Karski",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Hoover Institution Research Fellow Katharina Friedla remembers Jan Karski, the Polish diplomat who bore witness to the Holocaust.",
+        "url": "https://cms.hoover.org/research/jan-karski"
+    },
+    {
         "id": "https://cms.hoover.org/research/deadly-focus-income-and-wealth-inequality",
         "source": "Hoover Institution",
         "title": "The Deadly Focus on Income and Wealth Inequality",
@@ -7,6 +52,15 @@
         "category": "Other",
         "summary": "Myths that make for stirring political slogans hold back—and even harm—actual people.",
         "url": "https://cms.hoover.org/research/deadly-focus-income-and-wealth-inequality"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
+        "source": "NPR Politics",
+        "title": "El-Sayed wins Michigan's primary. And, Fauci faces contempt of Congress vote",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "Abdul El-Sayed has won Michigan's Democratic Senate primary and will face Republican Congressman Mike Rogers in the midterms. And, today, Dr. Anthony Fauci faces a contempt of Congress vote.",
+        "url": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes"
     },
     {
         "id": "https://www.npr.org/2026/08/06/nx-s1-5922187/political-consultant-talks-about-the-democratic-partys-road-to-the-midterms",
@@ -45,58 +99,58 @@
         "url": "https://www.npr.org/2026/08/06/nx-s1-5922409/senate-finance-committee-wrestles-with-how-to-sustain-social-security-benefits"
     },
     {
-        "id": "https://www.npr.org/2026/08/06/nx-s1-5918336/trump-touts-economy-during-vegas-speech-but-workers-say-his-policies-arent-helping",
-        "source": "NPR Politics",
-        "title": "Trump touts economy during Vegas speech, but workers say his policies aren't helping",
-        "publicationDate": "2026-08-06",
-        "category": "Economy",
-        "summary": "President Trump gave a speech in Las Vegas Wednesday, where he praised the U.S. economy but workers in the city say his administration's policies aren't helping.",
-        "url": "https://www.npr.org/2026/08/06/nx-s1-5918336/trump-touts-economy-during-vegas-speech-but-workers-say-his-policies-arent-helping"
-    },
-    {
-        "id": "https://thehill.com/opinion/national-security/6010176-putin-meat-grinder-war/",
+        "id": "https://thehill.com/homenews/administration/6013114-eric-trump-miami-library-plane/",
         "source": "The Hill",
-        "title": "This winter, Putin will feed even more of Russia's youth into the meat grinder",
+        "title": "Eric Trump: Old Air Force One will be displayed at father's library",
         "publicationDate": "2026-08-06",
         "category": "Defense",
-        "summary": "Russian President Vladimir Putin is a cornered man. Ukraine, especially through its deep-strike drones and ballistic missiles, is bringing Putin's special military operation home to the city confines of Moscow and Saint Petersburg. As of this writing, 15 distribution hubs of Wildberries — Russia’s equivalent of Amazon, which is frequently used to supply troops with equipment the...",
-        "url": "https://thehill.com/opinion/national-security/6010176-putin-meat-grinder-war/"
+        "summary": "President Trump's son Eric Trump on Tuesday said an old Air Force One will go on display at his father's presidential library in Miami, contradicting the president's original plan for his new Qatari-gifted executive aircraft. Eric Trump told NBC News in a text message that \"That's not the plan at the moment for Miami\" to...",
+        "url": "https://thehill.com/homenews/administration/6013114-eric-trump-miami-library-plane/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6012939-fda-approves-modernas-mrna-flu-vaccine/",
+        "id": "https://thehill.com/policy/healthcare/6013039-florida-west-virginia-louisiana-attorneys-general-subpoena-anthony-fauci-covid-19/",
         "source": "The Hill",
-        "title": "FDA approves first mRNA flu vaccine",
+        "title": "Three state attorneys general subpoena Anthony Fauci",
         "publicationDate": "2026-08-06",
         "category": "Healthcare",
-        "summary": "The Food and Drug Administration (FDA) late Wednesday approved the nation's first mRNA flu vaccine, manufactured by drugmaker Moderna. The agency approved the shot for two separate age groups; people age 50 to 64, and for 65 years and older. Moderna said it will conduct a postmarket clinical trial to confirm the effectiveness in the...",
-        "url": "https://thehill.com/policy/healthcare/6012939-fda-approves-modernas-mrna-flu-vaccine/"
+        "summary": "A trio of Republican attorneys general subpoenaed former White House chief medical adviser Anthony Fauci on Wednesday, as part of a joint probe into the former health official’s handling of the COVID-19 pandemic. Florida Attorney General James Uthmeier (R) joined forces with West Virginia Attorney General John McCuskey (R) and Louisiana Attorney General Liz Murrill...",
+        "url": "https://thehill.com/policy/healthcare/6013039-florida-west-virginia-louisiana-attorneys-general-subpoena-anthony-fauci-covid-19/"
     },
     {
-        "id": "https://thehill.com/policy/energy-environment/6012492-colorado-river-plan-arizona-nevada-california/",
+        "id": "https://thehill.com/homenews/media/6013175-carlson-critiques-two-party-system/",
         "source": "The Hill",
-        "title": "Dwindling Colorado River creates water and power challenges for the Western US",
+        "title": "Tucker Carlson unveils vision for ‘what America should be’ amid third party talk",
         "publicationDate": "2026-08-06",
-        "category": "Energy & Environment",
-        "summary": "As the Colorado River dwindles, it threatens to reduce the availability of both water and electricity in the Western U.S. Last week, the federal government came up with a plan that aims to manage the river water, but critics on both sides of the aisle warn that deep cuts to water use could be harmful in...",
-        "url": "https://thehill.com/policy/energy-environment/6012492-colorado-river-plan-arizona-nevada-california/"
+        "category": "Media",
+        "summary": "Former Fox News pundit Tucker Carlson is fanning chatter he might consider a run for the White House with a new video laying out what he sees as wrong with the United States and outlining his plan to fix it. During the more than hourlong video, Carlson, who today owns his own media company and...",
+        "url": "https://thehill.com/homenews/media/6013175-carlson-critiques-two-party-system/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6012287-sand-hinson-lead-iowa-races/",
+        "id": "https://thehill.com/opinion/congress-blog/politics/6011355-omb-proposed-grant-regulation/",
         "source": "The Hill",
-        "title": "Sand leads Lahn in Iowa governor's race while Turek trails Hinson for Senate: Poll",
+        "title": "Congress must stop the politicization of peer review and American science",
         "publicationDate": "2026-08-06",
-        "category": "Campaign",
-        "summary": "Democratic state auditor Rob Sand is leading Republican businessman Zach Lahn in the Iowa governor’s race, according to a new poll, while Democratic state Rep. Josh Turek trails Trump-backed Rep. Ashley Hinson (R-Iowa) in the Senate race. A new Emerson College Polling/Nexstar Media survey found 48 percent of Iowa voters were behind Sand, ahead of...",
-        "url": "https://thehill.com/homenews/campaign/6012287-sand-hinson-lead-iowa-races/"
+        "category": "Technology",
+        "summary": "American scientific leadership was built by allowing evidence to prevail over ideology.",
+        "url": "https://thehill.com/opinion/congress-blog/politics/6011355-omb-proposed-grant-regulation/"
     },
     {
-        "id": "https://thehill.com/blogs/in-the-know/6012504-piker-democracy-marvel-nolan-genz-living-home/",
+        "id": "https://thehill.com/homenews/campaign/6013131-abdul-el-sayed-donald-trump-michigan-senate-win-criticism/",
         "source": "The Hill",
-        "title": "Hasan Piker influences beyond Generation Z, angers moderate Democrats",
+        "title": "El-Sayed responds to Trump: ‘The man can’t stay on focus’",
         "publicationDate": "2026-08-06",
-        "category": "In The Know",
-        "summary": "Welcome back to The Feed. We are three Generation Z editors at The Hill working to understand the ins and outs of our generation’s politics. This week, we’re giving a glimpse into how Gen Z has dominated the box office over the last few weeks and why so many live at home once they graduate....",
-        "url": "https://thehill.com/blogs/in-the-know/6012504-piker-democracy-marvel-nolan-genz-living-home/"
+        "category": "Economy",
+        "summary": "Abdul El-Sayed, the Democratic nominee in Michigan’s Senate race, hit back at President Trump after the president criticized the progressive’s victory in the state’s Democratic primary this week. Trump called El-Sayed a “man of hate” and claimed that he “hates Jews and he hates Israel” at a Las Vegas speech touting his administration’s “no tax...",
+        "url": "https://thehill.com/homenews/campaign/6013131-abdul-el-sayed-donald-trump-michigan-senate-win-criticism/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html",
+        "source": "New York Times Politics",
+        "title": "Senate Panel Holds Fauci in Contempt of Congress",
+        "publicationDate": "2026-08-06",
+        "category": "United States Politics and Government",
+        "summary": "Dr. Anthony Fauci had refused to answer questions at a hearing last week, invoking the Fifth Amendment. Republicans argued that he wasn’t entitled to that protection because he had a presidential pardon.",
+        "url": "https://www.nytimes.com/2026/08/06/us/politics/fauci-contempt-of-congress.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/06/us/politics/ogles-primary-tennessee.html",
@@ -128,20 +182,11 @@
     {
         "id": "https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html",
         "source": "New York Times Politics",
-        "title": "Senate Panel Has Obtained Copy of Fauci’s Cellphone",
+        "title": "Senate Panel Has Obtained Copy of Fauci’s Government Cellphone",
         "publicationDate": "2026-08-06",
         "category": "United States Politics and Government",
         "summary": "The development comes as a Senate committee prepares to vote Thursday on whether to hold Dr. Anthony S. Fauci in contempt of Congress for refusing to answer questions at a hearing.",
         "url": "https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html",
-        "source": "New York Times Politics",
-        "title": "F.D.A. Approves Moderna’s mRNA Flu Vaccine",
-        "publicationDate": "2026-08-06",
-        "category": "Healthcare",
-        "summary": "The agency had initially refused to even review the application but reversed course after a public outcry.",
-        "url": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/06/warren-probes-2m-payment-trump-company-amid-tariff-case/",
@@ -164,7 +209,7 @@
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/06/how-republicans-can-keep-their-house-majority/",
         "source": "Washington Post Politics",
-        "title": "Why Republicans could still keep control of the House",
+        "title": "Why you shouldn’t be surprised if Democrats don’t flip the House",
         "publicationDate": "2026-08-06",
         "category": "Other",
         "summary": "Democrats are ahead in polls, and voters typically punish the party that controls the White House during midterms. But Republicans have several paths to maintaining power.",
@@ -173,11 +218,20 @@
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/05/gop-senator-obtains-copy-faucis-phone-contempt-vote-looms/",
         "source": "Washington Post Politics",
-        "title": "GOP senator obtains a copy of Fauci’s phone as contempt vote looms",
+        "title": "Senate panel votes to hold Anthony Fauci in contempt of Congress",
         "publicationDate": "2026-08-06",
         "category": "Other",
-        "summary": "Sen. Ron Johnson (Wisconsin) said the phone could address many questions that Fauci declined to answer at a hearing about the pandemic last week.",
+        "summary": "The longtime infectious-disease scientist refused to answer questions from committee members at a hearing last week.",
         "url": "https://www.washingtonpost.com/politics/2026/08/05/gop-senator-obtains-copy-faucis-phone-contempt-vote-looms/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ukraine hits two oil refineries deep in Russian territory",
+        "publicationDate": "2026-08-06",
+        "category": "Economy",
+        "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+        "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
@@ -189,6 +243,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the COVID-19 pandemic.",
+        "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
@@ -198,76 +261,58 @@
         "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+        "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
         "publicationDate": "2026-08-06",
         "category": "Other",
-        "summary": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss"
+        "summary": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Iranian footballers who defied Tehran become Australian citizens",
-        "publicationDate": "2026-08-06",
-        "category": "Foreign Policy",
-        "summary": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran.",
-        "url": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+        "id": "https://www.ft.com/content/510ed26f-165b-4961-8a46-b9064775ab67?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Abdul El-Sayed delivers significant victory for progressive Democrats",
         "publicationDate": "2026-08-06",
         "category": "Other",
-        "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss"
+        "summary": "Also in today’s newsletter, a wide-ranging exclusive interview with Virginia governor Abigail Spanberger",
+        "url": "https://www.ft.com/content/510ed26f-165b-4961-8a46-b9064775ab67?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/9d38db74-98a5-46ee-b9ed-4e553ff41025?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/15663487-0501-405f-9c2a-d87368a2fffa?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "US public pension funds and business groups clash on SEC climate risk disclosure shift",
+        "title": "Paramount agrees safeguards for UK approval of $110bn WBD deal",
         "publicationDate": "2026-08-06",
         "category": "Other",
-        "summary": "Vanguard and Norway’s sovereign wealth fund strike cautious response to regulator",
-        "url": "https://www.ft.com/content/9d38db74-98a5-46ee-b9ed-4e553ff41025?syn-25a6b1a6=1"
+        "summary": "David Ellison makes commitments on news provision, investment and programming to win government nod",
+        "url": "https://www.ft.com/content/15663487-0501-405f-9c2a-d87368a2fffa?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/53920df1-f6b4-4214-9936-b9eed83d3548",
+        "id": "https://www.ft.com/content/0e960930-db68-48dc-ba74-af2c253f78d7?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Both Trump and young Americans are warming to China",
-        "publicationDate": "2026-08-06",
-        "category": "Foreign Policy",
-        "summary": "The president and Gen Z voters are far more open to a co-operative relationship with Beijing than hawks in Congress",
-        "url": "https://www.ft.com/content/53920df1-f6b4-4214-9936-b9eed83d3548"
-    },
-    {
-        "id": "https://www.ft.com/content/91fd7e49-6fdb-4f49-bd2a-c72e2f380911?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Only 1 in 7 of England’s rivers, lakes and estuaries meet ecological standards",
+        "title": "Referrals to Prevent anti-radicalisation scheme jump after Southport attacks",
         "publicationDate": "2026-08-06",
         "category": "Other",
-        "summary": "Charity says Environment Agency data shows that the country’s waters are ‘among the filthiest in Europe’",
-        "url": "https://www.ft.com/content/91fd7e49-6fdb-4f49-bd2a-c72e2f380911?syn-25a6b1a6=1"
+        "summary": "Concerns about people being fascinated with extreme violence increase following conviction of Axel Rudakubana",
+        "url": "https://www.ft.com/content/0e960930-db68-48dc-ba74-af2c253f78d7?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/4709fbd3-5a10-46b0-84cf-9fed6c9a10b0?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/00cc32f2-f392-40af-9484-decc85b7e9fe",
         "source": "Financial Times World",
-        "title": "FirstFT: US law firms weigh stake sale to private equity",
+        "title": "The confounding ‘compounding’ of ‘compounding’",
         "publicationDate": "2026-08-06",
         "category": "Other",
-        "summary": "Also in today’s newsletter: An interview with Virginia’s governor Abigail Spanberger and DeepMind’s CEO Hassabis steps down",
-        "url": "https://www.ft.com/content/4709fbd3-5a10-46b0-84cf-9fed6c9a10b0?syn-25a6b1a6=1"
+        "summary": "When growth isn’t enough",
+        "url": "https://www.ft.com/content/00cc32f2-f392-40af-9484-decc85b7e9fe"
     },
     {
-        "id": "https://www.ft.com/content/7252ef68-a886-4cd0-a450-b5a6cff3a526?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/15857866-5274-41cc-90a6-b4f696c60a13?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Insurance and bank stocks slide amid China tax crackdown fears",
+        "title": "ConocoPhillips chief Ryan Lance to step down after 14 years",
         "publicationDate": "2026-08-06",
-        "category": "Economy",
-        "summary": "Move to impose levy on returns from policies that serve as investment products causes consternation in Hong Kong",
-        "url": "https://www.ft.com/content/7252ef68-a886-4cd0-a450-b5a6cff3a526?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Third-largest US oil and gas company changes leadership as profits climb on war-driven price surge",
+        "url": "https://www.ft.com/content/15857866-5274-41cc-90a6-b4f696c60a13?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
@@ -313,15 +358,6 @@
         "category": "Article",
         "summary": "CFR’s Global Monetary Policy Tracker compiles data from 54 countries around the world to highlight significant global trends in monetary policy. Who is tightening policy? Who is loosening policy? And what is the policy stance of the world as a whole?",
         "url": "https://www.cfr.org/articles/global-monetary-policy-tracker"
-    },
-    {
-        "id": "https://www.cfr.org/articles/the-dollar-boomerang-threat-washingtons-motivations-to-support-the-yen",
-        "source": "Council on Foreign Relations",
-        "title": "The Dollar Boomerang Threat: Washington’s Motivations to Support the Yen",
-        "publicationDate": "2026-08-05",
-        "category": "Article",
-        "summary": "The joint U.S.-Japan intervention to prop up the yen has as much to do with protecting U.S. Treasury markets as with helping an ally manage currency volatility.",
-        "url": "https://www.cfr.org/articles/the-dollar-boomerang-threat-washingtons-motivations-to-support-the-yen"
     },
     {
         "id": "https://www.heritage.org/global-politics/report/democratic-mandate-sovereign-duty-the-test-hungarys-new-government",
@@ -378,24 +414,6 @@
         "url": "https://cms.hoover.org/research/victor-davis-hanson-unlike-maga-movement-socialists-dont-want-work"
     },
     {
-        "id": "https://cms.hoover.org/research/tyler-goodspeed-economic-historian-rebuts-various-beliefs-about-cause-concerns-around",
-        "source": "Hoover Institution",
-        "title": "Tyler Goodspeed: Economic Historian Rebuts Various Beliefs About Cause, Concerns Around Downturns, Explains Why Expansions Are More Important Anyway",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Tyler Goodspeed discusses what triggers recessions and why war is the most prolific “serial killer” of economic expansions over the last 400 years.",
-        "url": "https://cms.hoover.org/research/tyler-goodspeed-economic-historian-rebuts-various-beliefs-about-cause-concerns-around"
-    },
-    {
-        "id": "https://cms.hoover.org/research/michael-auslin-making-national-treasure",
-        "source": "Hoover Institution",
-        "title": "Michael Auslin: The Making Of A National Treasure",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Michael Auslin talks about his book National Treasure: How the Declaration of Independence Made America.",
-        "url": "https://cms.hoover.org/research/michael-auslin-making-national-treasure"
-    },
-    {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
         "source": "Centre for European Reform",
         "title": "Survey: Centre for European Reform mailings",
@@ -407,7 +425,7 @@
     {
         "id": "https://www.pbs.org/newshour/politics/watch-live-sen-paul-holds-contempt-vote-after-fauci-invokes-5th-amendment",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Sen. Paul holds contempt vote after Fauci invokes 5th Amendment",
+        "title": "WATCH LIVE: Senate panel votes to hold Fauci in contempt after he invoked 5th Amendment",
         "publicationDate": "2026-08-05",
         "category": "Anthony Fauci",
         "summary": "A contempt finding could open the door to an investigation into whether Dr. Anthony Fauci had a valid constitutional right against self-incrimination when he refused to answer dozens of questions from lawmakers at a committee hearing last week focused on his handling of the COVID-19 pandemic.",
@@ -549,15 +567,6 @@
         "url": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/"
     },
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4944-1.html",
-        "source": "RAND Corporation",
-        "title": "The Economics of AI Counterproliferation",
-        "publicationDate": "2026-08-03",
-        "category": "Defense",
-        "summary": "Once an artificial intelligence (AI) capability has been demonstrated at the frontier, the cost of reproducing it tends to fall. A new RAND economic framework shows the implications for governance regimes of AI capabilities and for policy and strategy.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4944-1.html"
-    },
-    {
         "id": "https://www.heritage.org/defense/report/theater-missile-defense-inventory-inadequate-us-china-conflict",
         "source": "Heritage Foundation",
         "title": "Theater Missile Defense Inventory: Inadequate for a U.S.–China Conflict",
@@ -567,13 +576,13 @@
         "url": "https://www.heritage.org/defense/report/theater-missile-defense-inventory-inadequate-us-china-conflict"
     },
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
-        "source": "RAND Corporation",
-        "title": "A U.S. Strategy to Prevent the Creation of Mirror Life",
+        "id": "R48089",
+        "source": "Congressional Research Service",
+        "title": "Columbia River System Operations and the Future of the Lower Snake River Dams",
         "publicationDate": "2026-07-31",
-        "category": "Other",
-        "summary": "The authors of this report describe a strategy for the United States to prevent the creation of mirror life by anyone, anywhere.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html"
+        "category": "Defense",
+        "summary": "Congress has repeatedly debated how to operate and allocate resources from federal water resources projects—such as multipurpose federal dams—to serve various human needs while protecting or conserving species listed under the Endangered Species Act (ESA; 16 U.S.C. §§1531-1544). The Columbia River Basin, which includes the Snake River, is home to numerous federal and nonfederal dams that provide an array of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48089/R48089.10.pdf"
     },
     {
         "id": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
@@ -601,15 +610,6 @@
         "category": "Foreign Policy",
         "summary": "Mark Leonard welcomes LuHan Gabel, Ooi Kee Beng and Chelsea Nguyen to explore how younger generations in China, Malaysia and Vietnam are rethinking the meaning of modernity in a post-Western world",
         "url": "https://ecfr.eu/podcasts/episode/defining-modernity-in-south-east-asia/"
-    },
-    {
-        "id": "R48918",
-        "source": "Congressional Research Service",
-        "title": "The 2026 Farm Bill: Comparison of the House and Senate Bills with Current Law",
-        "publicationDate": "2026-07-29",
-        "category": "Economy",
-        "summary": "The farm bill, an omnibus, multiyear law, is the primary piece of legislation governing agricultural and food programs. The Agriculture Improvement Act of 2018 (2018 farm bill; P.L. 115-334) is the most recent farm bill. The Farm, Food, and National Security Act of 2026 (H.R. 7567) would add, amend, and reauthorize some 2018 farm bill programs. The Senate Agriculture Committee chairman released a discussion draft...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48918/R48918.8.pdf"
     },
     {
         "id": "https://ecfr.eu/article/natos-digital-arsenal-how-europe-can-avoid-a-new-dependence-on-america/",
