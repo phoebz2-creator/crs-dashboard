@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
+        "source": "European Council on Foreign Relations",
+        "title": "Latin America’s new imaginaries",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
+        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6015760-iran-moves-block-us-israel-ships/",
+        "source": "The Hill",
+        "title": "Iran moves to block US, Israeli shipments from Strait of Hormuz",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "Iranian state media on Thursday reported that Tehran could attempt to block U.S. and Israeli shipments from transiting the Strait of Hormuz under its joint venture with Oman to reopen the critical waterway to commercial traffic. Members of Iran’s parliament are reviewing a proposed bill to block “hostile” vessels from moving through the choke point...",
+        "url": "https://thehill.com/homenews/administration/6015760-iran-moves-block-us-israel-ships/"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/6015688-trump-ogles-tennessee-primary-takeaways/",
         "source": "The Hill",
         "title": "Trump comes up short with Ogles in Tennessee: 3 takeaways from Thursday's primaries",
@@ -34,15 +52,6 @@
         "category": "Campaign",
         "summary": "Tennessee state Rep. Johnny Garrett is projected to win the Republican primary in the U.S. House race to replace outgoing GOP Rep. John Rose, according to Decision Desk HQ. Garrett, a self-described “Trump Conservative,” will now advance to the November election where he will face Democratic nominee and former park ranger Mike Croley in a...",
         "url": "https://thehill.com/homenews/campaign/5972642-tennessee-house-garrett-rose-primary/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/5999917-ogles-defeat-tennessee-house-primary/",
-        "source": "The Hill",
-        "title": "Trump-endorsed Ogles loses Tennessee House GOP primary",
-        "publicationDate": "2026-08-07",
-        "category": "Campaign",
-        "summary": "Republican Rep. Andy Ogles (Tenn.) is projected to fall short in a Thursday primary for the 5th Congressional District, delivering a blow to President Trump, according to Decision Desk HQ (DDHQ). Former Tennessee Commissioner of Agriculture Dr. Charlie Hatcher, the lone Republican challenger in the race, is set to defeat Ogles, who was backed by...",
-        "url": "https://thehill.com/homenews/campaign/5999917-ogles-defeat-tennessee-house-primary/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/06/us/politics/plead-fifth-amendment-fauci-congress.html",
@@ -86,7 +95,7 @@
         "title": "Meta fined $567m in largest child safety ruling against social media giant",
         "publicationDate": "2026-08-07",
         "category": "Other",
-        "summary": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+        "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
         "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -117,40 +126,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/c5bdfb1e-6dd5-423a-b89d-b37fc687e4e3?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/22a6bce7-ccec-4e7d-a31b-ca8d67b1bcb6",
         "source": "Financial Times World",
-        "title": "China’s exports jump almost a quarter in July",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "Trade remains resilient in world’s second-largest economy",
-        "url": "https://www.ft.com/content/c5bdfb1e-6dd5-423a-b89d-b37fc687e4e3?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US euro sale to prop up yen blindsided ECB",
+        "title": "The curious case of the Japanese government bond yields",
         "publicationDate": "2026-08-07",
         "category": "Other",
-        "summary": "Christine Lagarde and Scott Bessent spoke only after Washington’s historic intervention",
-        "url": "https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1"
+        "summary": "Maybe not as high as you think",
+        "url": "https://www.ft.com/content/22a6bce7-ccec-4e7d-a31b-ca8d67b1bcb6"
     },
     {
-        "id": "https://www.ft.com/content/3029a861-8d61-4939-a49d-2b4c05dab64b?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/9c99a309-e133-4882-8cea-f21aa1eea0e1?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Airtel to list its $10bn Africa finance business in London",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "Also in this newsletter: Indian government sells stake in LIC",
-        "url": "https://www.ft.com/content/3029a861-8d61-4939-a49d-2b4c05dab64b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/8ada381f-e1ff-4f29-9468-1edb138c5cc9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Why Modi’s economic model is not working for India’s youth",
+        "title": "FirstFT: Google shakes up AI leadership",
         "publicationDate": "2026-08-07",
         "category": "Other",
-        "summary": "Protests reflect deep frustration with poor job prospects and government mis-steps",
-        "url": "https://www.ft.com/content/8ada381f-e1ff-4f29-9468-1edb138c5cc9?syn-25a6b1a6=1"
+        "summary": "Also in today’s newsletter: ECB yen shock and UK tuition fees",
+        "url": "https://www.ft.com/content/9c99a309-e133-4882-8cea-f21aa1eea0e1?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/6bbddd45-5f39-4140-8218-66b66b7d08a6",
+        "source": "Financial Times World",
+        "title": "Revisiting our estimates for Japan’s neutral rate",
+        "publicationDate": "2026-08-07",
+        "category": "Other",
+        "summary": "Research suggests the rate has moved up slightly in the past few years",
+        "url": "https://www.ft.com/content/6bbddd45-5f39-4140-8218-66b66b7d08a6"
+    },
+    {
+        "id": "https://www.ft.com/content/9387ed2c-837a-4ea1-8d5f-180513292c9a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Big Law’s new private equity era",
+        "publicationDate": "2026-08-07",
+        "category": "Other",
+        "summary": "Top law firms are exploring ways they may be able to take outside capital",
+        "url": "https://www.ft.com/content/9387ed2c-837a-4ea1-8d5f-180513292c9a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/8e481c49-b95b-442b-a88a-f0cc402b1bf9?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "‘I’ll support him all the way’: Clacton voters rally to Farage despite scrutiny",
+        "publicationDate": "2026-08-07",
+        "category": "Other",
+        "summary": "Reform UK leader forecast to comfortably win by-election in Essex seat even as national approval ratings plunge",
+        "url": "https://www.ft.com/content/8e481c49-b95b-442b-a88a-f0cc402b1bf9?syn-25a6b1a6=1"
     },
     {
         "id": "R49080",
@@ -495,15 +513,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/391c5f14-4bf2-4d24-92f0-65b912574513?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Alibaba’s latest AI model puts it back in the great game",
-        "publicationDate": "2026-08-06",
-        "category": "Other",
-        "summary": "The ecommerce and cloud company hopes to recoup some of its lost shine with Monday’s release",
-        "url": "https://www.ft.com/content/391c5f14-4bf2-4d24-92f0-65b912574513?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
         "source": "RAND Corporation",
         "title": "A Portfolio Assessment Approach to Inform Resource Allocation Decisions",
@@ -628,15 +637,6 @@
         "category": "Human Rights and Democracy",
         "summary": "By failing to show solidarity with a member state under pressure, the EU is encouraging Morocco and others to keep using migration as a tool of coercion.",
         "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/"
-    },
-    {
-        "id": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/",
-        "source": "European Council on Foreign Relations",
-        "title": "How splits on the right may threaten Poland’s pro-European camp",
-        "publicationDate": "2026-07-31",
-        "category": "European Power",
-        "summary": "More than 40 MPs have walked out of Law and Justice, Poland’s largest opposition party, and will court centre-right voters who put Donald Tusk in power in 2023. To win them back, Tusk should make the European argument he has spent years avoiding",
-        "url": "https://ecfr.eu/article/how-the-split-on-polands-right-may-threaten-its-pro-european-camp/"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
