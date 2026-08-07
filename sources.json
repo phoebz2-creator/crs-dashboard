@@ -1,5 +1,14 @@
 [
     {
+        "id": "IF12891",
+        "source": "Congressional Research Service",
+        "title": "China’s E-Commerce Exports and U.S. De Minimis Policies",
+        "publicationDate": "2026-08-07",
+        "category": "Economy",
+        "summary": "The People’s Republic of China’s (PRC’s or China’s) e-commerce policies have promoted PRC exports while limiting the scope of PRC e-commerce imports. Between 2018 and 2025, the PRC expanded its global e-commerce exports more than 21-fold (2,032%); PRC global exports of low-value single packages increased from $5.3 billion in 2018 to $113 billion (Figure 1). While PRC e-commerce exports expanded, PRC e-commerce...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12891/IF12891.5.pdf"
+    },
+    {
         "id": "https://www.cfr.org/articles/the-1964-gulf-of-tonkin-resolution",
         "source": "Council on Foreign Relations",
         "title": "The 1964 Gulf of Tonkin Resolution",
@@ -72,22 +81,13 @@
         "url": "https://cms.hoover.org/news/technology-policy-accelerator-launches-nerds-roundtable"
     },
     {
-        "id": "https://www.npr.org/2026/08/07/nx-s1-5924830/redistricting-played-a-part-in-tennessees-primary-election-results",
-        "source": "NPR Politics",
-        "title": "Redistricting played a part in Tennessee's primary election results",
+        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
+        "source": "European Council on Foreign Relations",
+        "title": "Latin America’s new imaginaries",
         "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "Tennessee's primary election put its redistricting from earlier this year on display at the ballot box as results questioned President Trump's endorsement.",
-        "url": "https://www.npr.org/2026/08/07/nx-s1-5924830/redistricting-played-a-part-in-tennessees-primary-election-results"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
-        "source": "NPR Politics",
-        "title": "Women in Maine may choose the victor in this year's Senate race",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.",
-        "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race"
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
+        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
     },
     {
         "id": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
@@ -117,6 +117,42 @@
         "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general"
     },
     {
+        "id": "https://www.npr.org/2026/08/07/nx-s1-5924041/sen-mitch-mcconnell-says-he-has-been-discharged-from-rehab-center-to-recover-at-home",
+        "source": "NPR Politics",
+        "title": "Sen. Mitch McConnell says he has been discharged from rehab center to recover at home",
+        "publicationDate": "2026-08-07",
+        "category": "Healthcare",
+        "summary": "Kentucky Sen. Mitch McConnell said he was discharged from his rehabilitation center in a Thursday statement, more than 50 days after hospitalization.",
+        "url": "https://www.npr.org/2026/08/07/nx-s1-5924041/sen-mitch-mcconnell-says-he-has-been-discharged-from-rehab-center-to-recover-at-home"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-senate-passes-grahams-russia-sanctions-bill-confirms-dozens-of-nominees",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Senate passes Graham's Russia sanctions bill, confirms dozens of nominees",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "The Senate passed a sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham on Friday.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-senate-passes-grahams-russia-sanctions-bill-confirms-dozens-of-nominees"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/live-results-hawaii-midterm-primaries",
+        "source": "PBS NewsHour Politics",
+        "title": "Live Results: Hawaii midterm primaries",
+        "publicationDate": "2026-08-07",
+        "category": "congress",
+        "summary": "An ongoing corruption scandal involving Hawaii's lieutenant governor looms over Saturday's state primary as nine candidates jockey to replace her.",
+        "url": "https://www.pbs.org/newshour/politics/live-results-hawaii-midterm-primaries"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/senate-confirms-cameron-hamilton-to-lead-fema-and-clears-73-other-trump-nominees",
+        "source": "PBS NewsHour Politics",
+        "title": "Senate confirms Cameron Hamilton to lead FEMA and clears 73 other Trump nominees",
+        "publicationDate": "2026-08-07",
+        "category": "Cameron Hamilton",
+        "summary": "Hamilton was among a group of 74 nominations approved by the Senate, including President Donald Trump's pick to lead the Transportation Security Administration, David Cummins, and his choice for ambassador to Brazil, Daniel Perez.",
+        "url": "https://www.pbs.org/newshour/politics/senate-confirms-cameron-hamilton-to-lead-fema-and-clears-73-other-trump-nominees"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/trump-administration-proceeds-with-efforts-to-fire-federal-reserve-governor-lisa-cook",
         "source": "PBS NewsHour Politics",
         "title": "Trump administration proceeds with efforts to fire Federal Reserve governor Lisa Cook",
@@ -135,31 +171,40 @@
         "url": "https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham",
-        "source": "PBS NewsHour Politics",
-        "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham",
+        "id": "https://thehill.com/regulation/court-battles/6017806-splc-vindictive-prosecution-trump-administration/",
+        "source": "The Hill",
+        "title": "Judge rejects SPLC bid to dismiss case as 'vindictive' prosecution",
         "publicationDate": "2026-08-07",
-        "category": "Foreign Policy",
-        "summary": "The bipartisan legislation, which passed the Senate 86-11, would penalize countries that continue to buy Russian oil, gas and other exports seeking to deprive Putin of revenues fueling the war.",
-        "url": "https://www.pbs.org/newshour/politics/senate-passes-sweeping-russia-sanctions-bill-negotiated-by-the-late-sen-lindsey-graham"
+        "category": "Court Battles",
+        "summary": "A federal judge in Alabama denied the Southern Poverty Law Center’s (SPLC) bid to dismiss a case brought by the Trump administration on the grounds it amounted to a vindictive prosecution, finding the civil rights nonprofit did not meet the bar to demonstrate the Justice Department was motivated by animus in bringing the case. Throughout...",
+        "url": "https://thehill.com/regulation/court-battles/6017806-splc-vindictive-prosecution-trump-administration/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/will-mississippi-send-a-black-democrat-to-the-us-senate-scott-colom-says-dont-count-him-out",
-        "source": "PBS NewsHour Politics",
-        "title": "Will Mississippi send a Black Democrat to the US Senate? Scott Colom says don't count him out",
+        "id": "https://thehill.com/homenews/senate/6017828-murkowski-merkley-question-smithsonian-signs/",
+        "source": "The Hill",
+        "title": "Murkowski, Merkley demand answers on Trump's Smithsonian disclaimers",
         "publicationDate": "2026-08-07",
-        "category": "mississippi",
-        "summary": "Scott Colom is a Black man and a Democrat running for the U.S. Senate in Mississippi, a state traditionally led by white conservatives. Colom aims to unseat Republican Sen. Cindy Hyde-Smith, a white supporter of President Donald Trump who is seeking her second term.",
-        "url": "https://www.pbs.org/newshour/politics/will-mississippi-send-a-black-democrat-to-the-us-senate-scott-colom-says-dont-count-him-out"
+        "category": "Senate",
+        "summary": "A bipartisan pair of lawmakers are requesting more information from the Trump administration about its plans to install disclaimers outside of the Smithsonian’s National Museum of American History (NMAH). GOP Sen. Lisa Murkowski (Alaska) and Democratic Sen. Jeff Merkley (Ore.) — the chair and ranking member on the Senate Interior Appropriations Subcommittee — expressed concern...",
+        "url": "https://thehill.com/homenews/senate/6017828-murkowski-merkley-question-smithsonian-signs/"
     },
     {
-        "id": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump",
-        "source": "PBS NewsHour Politics",
-        "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+        "id": "https://thehill.com/homenews/campaign/6017592-hillary-clinton-democratic-party-unity-elections/",
+        "source": "The Hill",
+        "title": "Hillary Clinton calls for unity within Democratic Party: ‘It can’t be a one-way street’",
         "publicationDate": "2026-08-07",
-        "category": "Foreign Policy",
-        "summary": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
-        "url": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump"
+        "category": "Campaign",
+        "summary": "Former Secretary of State Hillary Clinton urged Democrats on Friday to unify under the party's candidates, highlighting the growing division between establishment and progressive members amid the current wave of primaries. Clinton told journalist and podcaster Kara Swisher that, with Democratic candidates like Michigan's Abdul El-Sayed winning their races by slim margins, the party should...",
+        "url": "https://thehill.com/homenews/campaign/6017592-hillary-clinton-democratic-party-unity-elections/"
+    },
+    {
+        "id": "https://thehill.com/policy/energy-environment/6017707-trump-mining-event-chinese-minerals/",
+        "source": "The Hill",
+        "title": "Trump announces deals and investments to bolster mining",
+        "publicationDate": "2026-08-07",
+        "category": "Defense",
+        "summary": "President Trump on Friday announced a slate of deals and investments that aim to bolster mining, something the administration has said will boost the economy and secure supply chains. Trump said during a mining roundtable that the Defense Department would sign a $1.4 billion loan agreement with Sila Nanotechnologies to build a battery facility in...",
+        "url": "https://thehill.com/policy/energy-environment/6017707-trump-mining-event-chinese-minerals/"
     },
     {
         "id": "https://thehill.com/homenews/administration/6017656-matthews-vance-charisma-statement/",
@@ -169,42 +214,6 @@
         "category": "Administration",
         "summary": "Former deputy press secretary Sarah Matthews said Vice President Vance does not have the charisma that President Trump has following an incident where Vance fat-shamed a conservative pundit. Matthews, in an appearance on CNN’s \"NewsNight\" on Friday, discussed a post on the social platform X from Vance that weighed in on an ongoing debate about...",
         "url": "https://thehill.com/homenews/administration/6017656-matthews-vance-charisma-statement/"
-    },
-    {
-        "id": "https://thehill.com/homenews/6015981-live-updates-trump-iran-senate-todd-blanche/",
-        "source": "The Hill",
-        "title": "Live updates: Senate searches for path to finish to-do list; Cassidy will back Blanche's nomination",
-        "publicationDate": "2026-08-07",
-        "category": "Administration",
-        "summary": "The Senate is searching for a path to wrap up its to-do list and leave for a month-long recess, but a bipartisan bill to set rules for compensating and recruiting college athletes is holding up a broader deal. The chamber is trying to find an agreement on quickly passing its top priorities before leaving: a...",
-        "url": "https://thehill.com/homenews/6015981-live-updates-trump-iran-senate-todd-blanche/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6017663-senate-nil-bill-funding-blanche-recess/",
-        "source": "The Hill",
-        "title": "College sports bill holding up Senate’s path to August recess",
-        "publicationDate": "2026-08-07",
-        "category": "Senate",
-        "summary": "Senate Republicans say getting consent to move forward on the Protect College Sports Act, a bipartisan bill to set rules for compensating and recruiting college athletes, is holding up a broader deal on funding the government, confirming Todd Blanche as attorney general and starting the five-week Senate recess. Sen. Jerry Moran (R-Kan.) told GOP colleagues...",
-        "url": "https://thehill.com/homenews/senate/6017663-senate-nil-bill-funding-blanche-recess/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6017628-vance-on-joke-about-columnists-weight-i-feel-pretty-good-about-that/",
-        "source": "The Hill",
-        "title": "Vance on joke about columnist's weight: 'I feel pretty good about that'",
-        "publicationDate": "2026-08-07",
-        "category": "Administration",
-        "summary": "Vice President Vance defended his jab about Washington Post columnist and Fox News contributor Marc Thiessen’s weight after the price of a $20 burrito sparked a GOP debate over affordability. In an interview with Salem News Channel’s Hugh Hewitt, Vance doubled down on his joke directed at Thiessen as part of an ongoing online conversation...",
-        "url": "https://thehill.com/homenews/administration/6017628-vance-on-joke-about-columnists-weight-i-feel-pretty-good-about-that/"
-    },
-    {
-        "id": "https://thehill.com/business/6017600-farm-aid-reconciliation-package-push/",
-        "source": "The Hill",
-        "title": "Agriculture groups call on Senate to pass reconciliation in White House push",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "The White House is amplifying calls from agricultural associations for the Senate to pass a $95 billion framework for a third budget reconciliation package, which includes a tranche of farm aid along with emergency Iran war funding. In statements first provided to The Hill by the White House, the American Sugar Alliance, the Farm Credit...",
-        "url": "https://thehill.com/business/6017600-farm-aid-reconciliation-package-push/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html",
@@ -297,13 +306,22 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/07/what-happened-under-trump-this-week/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Seven killed after Thai student opens fire at home and school",
+        "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
         "publicationDate": "2026-08-07",
         "category": "Other",
-        "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
-        "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss"
+        "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+        "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+        "publicationDate": "2026-08-07",
+        "category": "Other",
+        "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+        "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
@@ -324,15 +342,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
@@ -340,6 +349,15 @@
         "category": "Healthcare",
         "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
         "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Iran’s oil exports stall and Kharg Island idles under US blockade",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "Naval interdiction appears to be halting tankers from carrying Tehran’s crude",
+        "url": "https://www.ft.com/content/6bc9c93d-1b75-4512-8bc2-ba33cc3c4a53?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
@@ -376,15 +394,6 @@
         "category": "Foreign Policy",
         "summary": "If the US does not set terms, crypto activity will migrate beyond American laws and law enforcement to lightly regulated foreign venues",
         "url": "https://www.ft.com/content/8b61001e-6d7c-4ca9-8c4b-853b4555f318"
-    },
-    {
-        "id": "https://www.ft.com/content/0fd301d9-7e47-46ff-89b9-b666a8a1c148?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Cambridge university to review appointments process after Jason Arday affair",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "Elite institution’s youngest-ever Black professor resigned this week following allegations of plagiarism",
-        "url": "https://www.ft.com/content/0fd301d9-7e47-46ff-89b9-b666a8a1c148?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
@@ -486,6 +495,33 @@
         "url": "https://cms.hoover.org/profiles/captain-noel-sawatzky"
     },
     {
+        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
+        "source": "European Council on Foreign Relations",
+        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
+        "publicationDate": "2026-08-06",
+        "category": "Foreign Policy",
+        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
+        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
+    },
+    {
+        "id": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
+        "source": "European Council on Foreign Relations",
+        "title": "Hamas has agreed to disarm. Israel should now agree to peace",
+        "publicationDate": "2026-08-06",
+        "category": "Israel / Palestine",
+        "summary": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
+        "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
+        "source": "NPR Politics",
+        "title": "Trump signs new orders targeting birthright citizenship, weeks after SCOTUS ruling",
+        "publicationDate": "2026-08-06",
+        "category": "Other",
+        "summary": "President Trump is once again attempting to put restrictions on who is automatically guaranteed citizenship after being born in the U.S., just weeks after the Supreme Court struck down his attempt to end birthright citizenship.",
+        "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
         "source": "RAND Corporation",
         "title": "A Portfolio Assessment Approach to Inform Resource Allocation Decisions",
@@ -531,15 +567,6 @@
         "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
     },
     {
-        "id": "IF11665",
-        "source": "Congressional Research Service",
-        "title": "President Reagan’s Six Assurances to Taiwan",
-        "publicationDate": "2026-08-04",
-        "category": "Defense",
-        "summary": "Introduction Under the U.S. “one-China” policy, the U.S. government has, since 1979, maintained official relations with the People’s Republic of China (PRC) and unofficial relations with self-governed Taiwan, over which the PRC claims sovereignty. Until 2020, U.S. Administrations described the U.S. one-China policy as being guided by three U.S.-PRC joint communiqués (concluded in 1972, 1978, and 1982) and the...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11665/IF11665.14.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4625-1.html",
         "source": "RAND Corporation",
         "title": "AI and the Future of Emergency Management",
@@ -558,6 +585,24 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4827-1.html"
     },
     {
+        "id": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/",
+        "source": "European Council on Foreign Relations",
+        "title": "If Marine Le Pen wins: A European guide to a far-right France",
+        "publicationDate": "2026-08-04",
+        "category": "European Power",
+        "summary": "A Le Pen-led France would mean major changes to European politics. Here's how political leaders can begin to prepare.",
+        "url": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/"
+    },
+    {
+        "id": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
+        "source": "European Council on Foreign Relations",
+        "title": "Alone at the border: Ceuta and Europe’s solidarity failure",
+        "publicationDate": "2026-07-31",
+        "category": "Human Rights and Democracy",
+        "summary": "By failing to show solidarity with a member state under pressure, the EU is encouraging Morocco and others to keep using migration as a tool of coercion.",
+        "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/"
+    },
+    {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
         "source": "Centre for European Reform",
         "title": "Bild: Die größte Gefahr für unseren Wohlstand: Ronzheimer trifft Sander Tordoir",
@@ -565,15 +610,6 @@
         "category": "Foreign Policy",
         "summary": "Ökonom Sander Tordoir warnt vor einem „China-Schock 2.0“: Chinas massive Subventionen, Überkapazitäten und Exportoffensive setzen zentrale deutsche Branchen wie Autoindustrie, Maschinenbau und Chemie zunehmend unter Druck. Im Gespräch mit Paul Ronzheimer erklärt er, warum Deutschland diesmal im Zentrum des wirtschaftlichen Schocks steht, Hunderttausende Industriearbeitsplätze gefährdet sein könnten – und warum...",
         "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
-    },
-    {
-        "id": "R49042",
-        "source": "Congressional Research Service",
-        "title": "The U.S. Courts of Appeals: Background and Circuit Splits from 2025",
-        "publicationDate": "2026-07-23",
-        "category": "Other",
-        "summary": "The U.S. Courts of Appeals frequently act as the final arbiters of questions of law within their respective jurisdictions. Although the Supreme Court of the United States sits at the pinnacle of the American judicial system and acts as the final arbiter on questions of federal law, the number of precedential decisions issued each year by the Court is quite small. For example, in both of its two most recently...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49042/R49042.3.pdf"
     },
     {
         "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
@@ -603,30 +639,39 @@
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
     },
     {
-        "id": "R48846",
+        "id": "R45262",
         "source": "Congressional Research Service",
-        "title": "The U.S. Courts of Appeals: Background and Circuit Splits from 2025",
-        "publicationDate": "2026-02-06",
-        "category": "Other",
-        "summary": "The U.S. Courts of Appeals frequently act as the final arbiters of questions of law within their respective jurisdictions. Although the Supreme Court of the United States sits at the pinnacle of the American judicial system and acts as the final arbiter on questions of federal law, the number of precedential decisions issued each year by the Court is quite small. For example, in both of its two most recently...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48846/R48846.2.pdf"
+        "title": "Comparing DHS Component Funding, FY2019: In Brief",
+        "publicationDate": "2019-07-09",
+        "category": "Economy",
+        "summary": "Generally, the homeland security appropriations bill includes all annual appropriations for the Department of Homeland Security (DHS), providing resources to every departmental component. The Tables and Figure show DHS’s new discretionary budget authority enacted for FY2018 and requested by the Administration for FY2019, as well as the House and Senate committee-reported response and ultimately enacted FY2019...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45262/R45262.11.pdf"
     },
     {
-        "id": "LSB11176",
+        "id": "R44052",
         "source": "Congressional Research Service",
-        "title": "Suspending the Tax-Exempt Status of Terrorist and Terrorist Supporting Organizations: H.R. 6408 in Context",
-        "publicationDate": "2024-06-07",
+        "title": "DHS Budget v. DHS Appropriations: Fact Sheet",
+        "publicationDate": "2019-04-17",
         "category": "Economy",
-        "summary": "H.R. 6408 would establish a process for suspending the tax-exempt status of organizations if the Secretary of the Treasury designates them as “terrorist supporting organizations.” The suspended organizations would then be subject to income tax and unable to receive tax-deductible contributions. The House Ways and Means Committee reported on the bill on December 19, 2023, and it passed the House on April 15, 2024....",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11176/LSB11176.2.pdf"
+        "summary": "A significant portion of the Department of Homeland Security’s (DHS’s) budget is not fully reflected in the net discretionary spending level of the annual DHS appropriations act. Some components, such as the Transportation Security Administration, rely on fee income or offsetting collections to support a significant amount of their activities. Less than 4% of the budget for U.S. Citizenship and Immigration Services...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44052/R44052.12.pdf"
     },
     {
-        "id": "R44872",
+        "id": "R44863",
         "source": "Congressional Research Service",
-        "title": "The Temporary Assistance for Needy Families (TANF) Block Grant Subsidized Employment Demonstration Proposal: In Brief",
-        "publicationDate": "2017-07-18",
+        "title": "Child Welfare Funding in Brief: FY2017 Final Funding and the President’s FY2018 Request",
+        "publicationDate": "2017-06-07",
         "category": "Economy",
-        "summary": "The proposed Accelerating Individuals into the Workforce Act (H.R. 2842), as it passed the House, would provide $100 million in FY2018 funding under the Temporary Assistance for Needy Families (TANF) block grant for demonstrations to test two approaches—subsidized employment and “career pathways” programs—to help disadvantaged individuals. These funds would be provided in addition to the TANF basic block grant to...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44872/R44872.6.pdf"
+        "summary": "Child welfare; President’s FY2018 budget; final FY2017 appropriations; H.R. 244, P.L. 115-31; Title IV-E, foster care, kinship guardianship assistance, adoption assistance; Title IV-B, Child Welfare Services, Promoting Safe and Stable Families (PSSF), Court Improvement Program (CIP), Regional Partnership Grants (RPG); Child Abuse Prevention and Treatment Act (CAPTA); Adoption Opportunities; Adoption and Legal...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44863/R44863.6.pdf"
+    },
+    {
+        "id": "R44494",
+        "source": "Congressional Research Service",
+        "title": "The Alternative Minimum Tax for Individuals: In Brief",
+        "publicationDate": "2016-05-10",
+        "category": "Economy",
+        "summary": "In addition to raising revenue, the individual income tax has been used as a vehicle to promote various social and economic goals. This has been accomplished by according preferential tax treatment to certain items of income and expense. The net result, however, has been an erosion of the individual income tax base. By utilizing the preferences and incentives in the tax code, some individuals can substantially...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44494/R44494.5.pdf"
     }
 ]
