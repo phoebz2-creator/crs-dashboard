@@ -45,6 +45,24 @@
         "url": "https://www.npr.org/2026/08/07/nx-s1-5924041/sen-mitch-mcconnell-says-he-has-been-discharged-from-rehab-center-to-recover-at-home"
     },
     {
+        "id": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump",
+        "source": "PBS NewsHour Politics",
+        "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise.",
+        "url": "https://www.pbs.org/newshour/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/im-very-good-at-grass-why-trump-goes-into-the-weeds-on-one-of-his-favorite-topics",
+        "source": "PBS NewsHour Politics",
+        "title": "'I'm very good at grass.' Why Trump goes into the weeds on one of his favorite topics",
+        "publicationDate": "2026-08-07",
+        "category": "Donald Trump news",
+        "summary": "President Donald Trump loves talking about grass, even in settings where such a topic might seem out of place. Since returning to the White House early last year, the Republican has spoken about grass at least 45 times in public events or interviews.",
+        "url": "https://www.pbs.org/newshour/politics/im-very-good-at-grass-why-trump-goes-into-the-weeds-on-one-of-his-favorite-topics"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/watch-sen-cassidy-says-hell-vote-to-confirm-todd-blanche-for-attorney-general",
         "source": "PBS NewsHour Politics",
         "title": "WATCH: Sen. Cassidy says he'll vote to confirm Todd Blanche for attorney general",
@@ -72,49 +90,67 @@
         "url": "https://www.pbs.org/newshour/politics/blanches-attorney-general-confirmation-is-in-doubt-as-gop-sen-murkowski-opposes-his-nomination"
     },
     {
-        "id": "https://thehill.com/opinion/6015657-trump-iran-war-polling-slump/",
+        "id": "https://thehill.com/newsletters/1230-report/6017174-todd-blanche-confirmation-bill-cassidy-jobs-report/",
         "source": "The Hill",
-        "title": "With no definite end in sight on Iran, the president has to either fish or cut bait",
+        "title": "Todd Blanche secures his final, much-needed ‘yes’ vote",
+        "publicationDate": "2026-08-07",
+        "category": "12:30 Report",
+        "summary": "📺 Plus: BMW owners furious over new in-car commercial {beacon} Happy Friday! I don’t want to jinx anything, but we are hopefully nearing the much-needed August recess. In today's issue: Cassidy says ‘yes’ to Blanche, sealing his confirmation (!) Senate’s Friday scramble Trump ordered to stop ballroom construction July jobs report sends warning sign Scientists used AI to...",
+        "url": "https://thehill.com/newsletters/1230-report/6017174-todd-blanche-confirmation-bill-cassidy-jobs-report/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6017067-trump-endorsement-ogles-loss/",
+        "source": "The Hill",
+        "title": "Trump touts wins in Tennessee primary despite Ogles loss",
+        "publicationDate": "2026-08-07",
+        "category": "Administration",
+        "summary": "President Trump touted his endorsement track record Friday after his pick Rep. Andy Ogles (R) lost his Thursday primary in Tennessee. \"Last night was another good night for Endorsements, 8-1, and the 1 was a person who I remained loyal to even though he had virtually no chance of winning, and was running against a...",
+        "url": "https://thehill.com/homenews/administration/6017067-trump-endorsement-ogles-loss/"
+    },
+    {
+        "id": "https://thehill.com/opinion/congress-blog/energy-environment/6014863-strengthen-transportation-reauthorization-programs/",
+        "source": "The Hill",
+        "title": "How the transportation bill can protect communities, wildlife and taxpayers",
+        "publicationDate": "2026-08-07",
+        "category": "Economy",
+        "summary": "The bill’s return on investment will depend in part on whether lawmakers preserve and strengthen several less well-known but highly effective programs.",
+        "url": "https://thehill.com/opinion/congress-blog/energy-environment/6014863-strengthen-transportation-reauthorization-programs/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6017079-buc-ees-beaver-logo-lawsuit-ohio/",
+        "source": "The Hill",
+        "title": "Buc-ee's responds as beaver logo battle gains national attention",
+        "publicationDate": "2026-08-07",
+        "category": "Business",
+        "summary": "As the lawsuit between Buc-ee's and Beaver Mini Mart continues, the former is speaking out for the first time.",
+        "url": "https://thehill.com/homenews/6017079-buc-ees-beaver-logo-lawsuit-ohio/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6016890-don-lemon-charges-motion-vindictive-prosecution/",
+        "source": "The Hill",
+        "title": "Don Lemon asks judge to dismiss ‘vindictive’ charges tied to Minnesota church protest",
+        "publicationDate": "2026-08-07",
+        "category": "Court Battles",
+        "summary": "Independent journalist Don Lemon is asking a federal judge to dismiss charges brought against him in connection with his coverage of an anti-immigration enforcement protest at a Minnesota church earlier this year, claiming he has been wrongfully targeted by the Trump administration. Lemon’s lawyers filed a motion on Friday requesting that a felony indictment charging...",
+        "url": "https://thehill.com/regulation/court-battles/6016890-don-lemon-charges-motion-vindictive-prosecution/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/07/us/politics/don-lemon-vindictive-prosecution.html",
+        "source": "New York Times Politics",
+        "title": "Don Lemon Accuses Justice Dept. of Vindictive Prosecution in Church Protest Case",
+        "publicationDate": "2026-08-07",
+        "category": "United States Politics and Government",
+        "summary": "Lawyers for the former CNN anchor asked a judge to throw out the case, saying prosecutors had “acted on the president’s animus by filing unprecedented charges against a journalist for doing his job.”",
+        "url": "https://www.nytimes.com/2026/08/07/us/politics/don-lemon-vindictive-prosecution.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
+        "source": "New York Times Politics",
+        "title": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
         "publicationDate": "2026-08-07",
         "category": "Foreign Policy",
-        "summary": "President Donald Trump faces declining public approval and criticism from both parties as a long-running war with Iran reaches a stalemate despite his initial claims of quick victory.",
-        "url": "https://thehill.com/opinion/6015657-trump-iran-war-polling-slump/"
-    },
-    {
-        "id": "https://thehill.com/video-clips/6016393-watch-live-senate-gop-budget-college-sports-nominations-russia-sanctions-votes/",
-        "source": "The Hill",
-        "title": "Watch live: Senate looks to power through major priorities before August recess",
-        "publicationDate": "2026-08-07",
-        "category": "Video",
-        "summary": "The Senate is gearing up for a busy day of votes on Friday as lawmakers try to clear their legislative to-do list before leaving Washington for the August recess. The chamber is expected to take up a series of nominations, including acting Attorney General Todd Blanche’s bid to formally lead the Justice Department. Blanche’s nomination...",
-        "url": "https://thehill.com/video-clips/6016393-watch-live-senate-gop-budget-college-sports-nominations-russia-sanctions-votes/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/6016797-michigan-lettuce-warnings-cyclospora-cases/",
-        "source": "The Hill",
-        "title": "Michigan lifts lettuce warnings as cyclosporiasis cases fall",
-        "publicationDate": "2026-08-07",
-        "category": "Healthcare",
-        "summary": "Michigan health officials eased the state's guidance on lettuce consumption on Thursday amid declining numbers of cyclosporiasis cases. State residents are now advised to follow “routine guidance” when consuming produce, following earlier “broad, precautionary recommendations” against the purchase and consumption of bagged salad mixes during the height of the outbreak. The state has reported 12,485...",
-        "url": "https://thehill.com/homenews/state-watch/6016797-michigan-lettuce-warnings-cyclospora-cases/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6016432-artificial-intelligence-synthetic-virus-creation/",
-        "source": "The Hill",
-        "title": "AI used to create synthetic virus",
-        "publicationDate": "2026-08-07",
-        "category": "Defense",
-        "summary": "Scientists have used artificial intelligence to design complete, functioning viruses with genomes never seen before in nature — a breakthrough that could open new avenues for fighting drug-resistant bacterial infections. A Stanford University-led research team used generative AI models trained on millions of genomes to design viruses, known as bacteriophages, that can kill bacteria like...",
-        "url": "https://thehill.com/policy/technology/6016432-artificial-intelligence-synthetic-virus-creation/"
-    },
-    {
-        "id": "https://thehill.com/opinion/energy-environment/6014954-us-light-crude-refining-investment/",
-        "source": "The Hill",
-        "title": "The US should invest in light crude refining before the next chokepoint closes",
-        "publicationDate": "2026-08-07",
-        "category": "Opinions - Energy and Environment",
-        "summary": "America should invest in light crude refining for three reasons.",
-        "url": "https://thehill.com/opinion/energy-environment/6014954-us-light-crude-refining-investment/"
+        "summary": "As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.",
+        "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html",
@@ -144,22 +180,13 @@
         "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html",
-        "source": "New York Times Politics",
-        "title": "Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom",
+        "id": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/",
+        "source": "Washington Post Politics",
+        "title": "Cassidy backs Blanche for attorney general, appearing to clear way for confirmation",
         "publicationDate": "2026-08-07",
-        "category": "United States Politics and Government",
-        "summary": "In an interview with The New York Times, Dr. El-Sayed recalled some of his conversations with establishment figures who once opposed his candidacy.",
-        "url": "https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html",
-        "source": "New York Times Politics",
-        "title": "How the Reflecting Pool Came to Mirror Trump’s Washington",
-        "publicationDate": "2026-08-07",
-        "category": "Healthcare",
-        "summary": "A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.",
-        "url": "https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html"
+        "category": "Other",
+        "summary": "The Senate could hold the final vote on President Donald Trump’s pick to lead the Justice Department as soon as Friday.",
+        "url": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
@@ -171,13 +198,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/"
     },
     {
-        "id": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/",
+        "id": "https://www.washingtonpost.com/politics/2026/08/07/one-chart-shows-backlash-gutting-voting-rights-act/",
         "source": "Washington Post Politics",
-        "title": "Cassidy backs Todd Blanche for AG, appearing to clear way for confirmation",
+        "title": "One chart shows the backlash to gutting the Voting Rights Act",
         "publicationDate": "2026-08-07",
         "category": "Other",
-        "summary": "The Senate could hold the final vote on President Donald Trump’s pick to lead the Justice Department as soon as Friday.",
-        "url": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/"
+        "summary": "Democratic turnout for House primaries in Shelby County, Tennessee, a majority-Black county, surged to the highest level in a decade.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/07/one-chart-shows-backlash-gutting-voting-rights-act/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/07/tariffs-brass-instruments-come-too-late-unemployed-ohio-factory-workers/",
@@ -198,31 +225,22 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-says-hed-probably-get-along-with-jeffries-house-speaker/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/07/senate-wants-recess-trump-doesnt/",
-        "source": "Washington Post Politics",
-        "title": "The Senate wants a recess. Trump doesn’t.",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "Before senators leave for recess, Republican leaders are trying to plow through a lengthy to-do list.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/07/senate-wants-recess-trump-doesnt/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+        "title": "Seven killed after Thai student opens fire at home and school",
         "publicationDate": "2026-08-07",
         "category": "Other",
         "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
         "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
         "publicationDate": "2026-08-07",
         "category": "Other",
-        "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+        "summary": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
@@ -234,31 +252,22 @@
         "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
         "publicationDate": "2026-08-07",
         "category": "Other",
-        "summary": "Spain said Italy had been \"unjustified\" for taking border action after the mass crossing of migrants from Morocco last week.",
-        "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+        "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Mexico and Peru restore diplomatic relations after asylum row",
+        "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
         "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/0fd301d9-7e47-46ff-89b9-b666a8a1c148?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Cambridge university to review appointments process after Jason Arday affair",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "Elite institution’s youngest-ever Black professor resigned this week following allegations of plagiarism",
-        "url": "https://www.ft.com/content/0fd301d9-7e47-46ff-89b9-b666a8a1c148?syn-25a6b1a6=1"
+        "category": "Healthcare",
+        "summary": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+        "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
@@ -268,6 +277,15 @@
         "category": "Economy",
         "summary": "Lacklustre figure prompts traders to scale back bets on Fed rate rises",
         "url": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/0fd301d9-7e47-46ff-89b9-b666a8a1c148?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Cambridge university to review appointments process after Jason Arday affair",
+        "publicationDate": "2026-08-07",
+        "category": "Other",
+        "summary": "Elite institution’s youngest-ever Black professor resigned this week following allegations of plagiarism",
+        "url": "https://www.ft.com/content/0fd301d9-7e47-46ff-89b9-b666a8a1c148?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/dba784cb-a197-4576-b533-597d5eb12a51",
@@ -493,24 +511,6 @@
         "category": "Other",
         "summary": "President Trump's proposed arch in Memorial Circle would intrude on dozens of nearby sites, says the National Park Service. But there's been minimal discussion of alternate locations.",
         "url": "https://www.npr.org/2026/08/06/nx-s1-5919628/trump-arch-location-historic-sites-nps"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/a-look-at-the-major-changes-head-start-faces-under-trump-proposal",
-        "source": "PBS NewsHour Politics",
-        "title": "The major changes Head Start faces under Trump proposal",
-        "publicationDate": "2026-08-06",
-        "category": "Donald Trump news",
-        "summary": "The Trump administration is proposing new guidelines that would overhaul Head Start and could change how it's run across the country. Launched in 1965 as part of President Johnson's War on Poverty, Head Start serves 700,000 children ages three to five and 160,000 infants and toddlers through Early Head Start. Amna Nawaz discussed the proposed changes with Coral Davenport of The New York Times.",
-        "url": "https://www.pbs.org/newshour/show/a-look-at-the-major-changes-head-start-faces-under-trump-proposal"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/greece-deploys-satellite-detection-system-to-combat-deadly-wildfires",
-        "source": "PBS NewsHour Politics",
-        "title": "Greece deploys satellite detection system to combat deadly wildfires",
-        "publicationDate": "2026-08-06",
-        "category": "Technology",
-        "summary": "New satellites are being used in Greece to help fight another vicious wildfire season there. The technology is helping crews spot and contain fires. Special correspondent Malcolm Brabant reports from the town of Mati, near Athens.",
-        "url": "https://www.pbs.org/newshour/show/greece-deploys-satellite-detection-system-to-combat-deadly-wildfires"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
