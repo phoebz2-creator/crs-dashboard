@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+        "source": "NPR Politics",
+        "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "That revenue does not include net proceeds of $1.6 billion made by CoreCivic after the recent sale of four of their facilities to the Department of Homeland Security.",
+        "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention"
+    },
+    {
         "id": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
         "source": "NPR Politics",
         "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
@@ -16,6 +25,24 @@
         "category": "Other",
         "summary": "The Senate narrowly confirmed Todd Blanche as U.S. attorney general early Saturday morning, elevating President Trump's former personal lawyer to head the Justice Department.",
         "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6017947-trump-economy-jobs-report-inflation/",
+        "source": "The Hill",
+        "title": "The Memo: Weak jobs report clouds economy as Trump barrels toward midterms",
+        "publicationDate": "2026-08-08",
+        "category": "Economy",
+        "summary": "New clouds darkened the economic landscape on Friday, as the latest employment report showed the nation shedding 23,000 jobs in July. The number came as an unpleasant surprise to most economists. The consensus prediction from experts canvassed by Dow Jones had been that more than 80,000 jobs would be created. Democrats pounced on the number...",
+        "url": "https://thehill.com/homenews/administration/6017947-trump-economy-jobs-report-inflation/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6018015-trump-supports-ai-data-centers-texas/",
+        "source": "The Hill",
+        "title": "Trump questions Texas data center move in surging political battle",
+        "publicationDate": "2026-08-08",
+        "category": "Administration",
+        "summary": "President Trump is touting the benefits of AI data centers after Texas moved to more strictly regulate the industry, which has rapidly become a political lightning rod across the political spectrum. Trump waded into the debate during an interview last week, saying it would be a mistake to push back on data centers following Texas...",
+        "url": "https://thehill.com/homenews/administration/6018015-trump-supports-ai-data-centers-texas/"
     },
     {
         "id": "https://thehill.com/homenews/senate/6018324-senate-adjourns-funding-blanche-budget-save-america/",
@@ -43,24 +70,6 @@
         "category": "Senate",
         "summary": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House before leaving for a five-week recess. The continuing resolution (CR) passed 90-6 after Republicans spent days haggling over a provision inserted by the White House...",
         "url": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/6017926-senate-delays-hemp-thc-ban/",
-        "source": "The Hill",
-        "title": "Senate tables hemp amendment at center of funding fight, allowing one-month delay of ban",
-        "publicationDate": "2026-08-08",
-        "category": "Healthcare",
-        "summary": "A federal ban on most hemp-derived THC products is set to be delayed for a month after a last-minute effort to keep the original timeline failed. The Senate voted 61-32 to table a bipartisan amendment from Sen. Ted Budd (R-N.C.) and about a dozen other senators to strip the delay from a stopgap government funding...",
-        "url": "https://thehill.com/policy/healthcare/6017926-senate-delays-hemp-thc-ban/"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/6018220-dhs-ends-tps-myanmar-south-sudan/",
-        "source": "The Hill",
-        "title": "TPS protections terminated for Myanmar, South Sudan migrants",
-        "publicationDate": "2026-08-08",
-        "category": "Court Battles",
-        "summary": "Two U.S. district judges rejected cases defending temporary protections for migrants from South Sudan and Myanmar, leaving some at risk for deportation. The Department of Homeland Security (DHS) issued two alerts on its website confirming that, effective Aug. 7, Temporary Protected Status (TPS) designation had been halted for both countries. The notice came after U.S....",
-        "url": "https://thehill.com/regulation/court-battles/6018220-dhs-ends-tps-myanmar-south-sudan/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html",
@@ -108,6 +117,33 @@
         "url": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html"
     },
     {
+        "id": "https://www.washingtonpost.com/national-security/2026/08/08/pirro-trumps-longtime-champion-is-outs-over-reflecting-pool-move/",
+        "source": "Washington Post Politics",
+        "title": "Pirro, Trump’s longtime champion, is on the outs over Reflecting Pool move",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "D.C.’s top prosecutor spent a year navigating the president’s demands. Now she finds her job at risk amid a rare break with him over cases of alleged vandalism.",
+        "url": "https://www.washingtonpost.com/national-security/2026/08/08/pirro-trumps-longtime-champion-is-outs-over-reflecting-pool-move/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/08/voter-turnout-surges-tennessee-after-black-majority-district-is-erased/",
+        "source": "Washington Post Politics",
+        "title": "Voter turnout surges in Tennessee after Black-majority district is erased",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "High Democratic turnout for House primaries in Shelby County, which includes Memphis, is the latest sign that redistricting may be energizing Black Southern voters.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/08/voter-turnout-surges-tennessee-after-black-majority-district-is-erased/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/08/longtime-san-francisco-nonprofit-will-close-city-gets-tougher-crime/",
+        "source": "Washington Post Politics",
+        "title": "Longtime San Francisco nonprofit will close as city gets tougher on crime",
+        "publicationDate": "2026-08-08",
+        "category": "Economy",
+        "summary": "The demise of SF Pretrial, which for 50 years has provided diversion services, came after the mayor cut its budget and as Democrats’ attitudes toward crime shift.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/08/longtime-san-francisco-nonprofit-will-close-city-gets-tougher-crime/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/08/08/democratic-voters-who-used-back-susan-collins-arent-so-sure-anymore/",
         "source": "Washington Post Politics",
         "title": "Democratic voters who used to back Susan Collins aren’t so sure anymore",
@@ -135,6 +171,24 @@
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Spain reinstates border controls on Italy as tensions rise over migrants",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Decision widens rift between Pedro Sánchez’s government and rightwing Italian premier Giorgia Meloni",
+        "url": "https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d2248ee9-edb5-445c-b89b-425e033a19fa?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Currency interventions have a mixed record",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "You can’t fight macro with FX interventions",
+        "url": "https://www.ft.com/content/d2248ee9-edb5-445c-b89b-425e033a19fa?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5",
         "source": "Financial Times World",
         "title": "US Senate narrowly confirms Todd Blanche as US attorney-general",
@@ -160,24 +214,6 @@
         "category": "Other",
         "summary": "The 20th-anniversary edition of the event championed underwear as street style, smart sustainability and cycling chic everywhere",
         "url": "https://www.ft.com/content/bbc32738-b51b-4004-be55-e923e849f826"
-    },
-    {
-        "id": "https://www.ft.com/content/5c74c644-1491-4514-93b5-0a203c3b8a95?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Parents of UK students dig deep to fund university costs",
-        "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "Many expect to provide more than £50,000 towards tuition fees and living expenses, says survey",
-        "url": "https://www.ft.com/content/5c74c644-1491-4514-93b5-0a203c3b8a95?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/45730a94-cb43-42cb-ae8f-da0f39f37d67",
-        "source": "Financial Times World",
-        "title": "Venezuelans take to the streets as country hit by daily blackouts",
-        "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "Caracas experiencing power cuts for first time in 7 years despite government pledges to invest in grid",
-        "url": "https://www.ft.com/content/45730a94-cb43-42cb-ae8f-da0f39f37d67"
     },
     {
         "id": "IF12891",
@@ -324,15 +360,6 @@
         "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress"
     },
     {
-        "id": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
-        "source": "NPR Politics",
-        "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "The bill is meant to stifle Russia's economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in July.",
-        "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham"
-    },
-    {
         "id": "https://www.pbs.org/newshour/nation/ice-will-only-release-body-camera-video-when-in-agencys-best-interests-policy-says",
         "source": "PBS NewsHour Politics",
         "title": "ICE will only release body camera video when in agency's 'best interests,' policy says",
@@ -378,33 +405,6 @@
         "url": "https://www.pbs.org/newshour/politics/watch-live-senate-passes-grahams-russia-sanctions-bill-confirms-dozens-of-nominees"
     },
     {
-        "id": "https://www.washingtonpost.com/national-security/2026/08/07/justice-department-faces-competing-pressures-it-decides-whether-prosecute-fauci/",
-        "source": "Washington Post Politics",
-        "title": "Why a prosecution of Anthony Fauci could face challenges in court",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "The Justice Department faces numerous pressures and challenges as it decides whether to prosecute Anthony Fauci following a Senate committee's contempt referral.",
-        "url": "https://www.washingtonpost.com/national-security/2026/08/07/justice-department-faces-competing-pressures-it-decides-whether-prosecute-fauci/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
-        "source": "Washington Post Politics",
-        "title": "Trump says he’ll bring ballroom fight to Supreme Court after lower court halts work",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "An appeals court ruled earlier Friday that construction must stop until Congress authorizes the project. The ballroom is among the president’s top priorities for this term.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/",
-        "source": "Washington Post Politics",
-        "title": "Cassidy backs Blanche for attorney general, appearing to clear way for confirmation",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "The Senate could hold the final vote on President Donald Trump’s pick to lead the Justice Department as soon as Friday.",
-        "url": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "The phone book that led us to Assad's spy chief in hiding",
@@ -439,24 +439,6 @@
         "category": "Other",
         "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
         "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
-        "source": "RAND Corporation",
-        "title": "China's Retirement Reform and the 2035 Statutory Working-Age Window",
-        "publicationDate": "2026-08-06",
-        "category": "Foreign Policy",
-        "summary": "Using a monthly birth-cohort simulation, the author estimates that China’s 2025 retirement reform keeps about 48 million additional people below statutory retirement ages in 2035, delaying the working-age decline without reversing population aging.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4750-1.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5055-1.html",
-        "source": "RAND Corporation",
-        "title": "Interpreting Dual-Use Biology Benchmarks for Frontier AI",
-        "publicationDate": "2026-08-06",
-        "category": "Defense",
-        "summary": "The authors find that many artificial intelligence (AI) benchmark tasks are no longer informative, but a frontier of difficult tasks remains so, with recent gains concentrated on difficult tasks theorized to be relevant to real-world risk.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5055-1.html"
     },
     {
         "id": "https://www.cfr.org/articles/spains-migration-surge-tests-eu-border-policy",
@@ -522,15 +504,6 @@
         "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
     },
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
-        "source": "RAND Corporation",
-        "title": "A Portfolio Assessment Approach to Inform Resource Allocation Decisions",
-        "publicationDate": "2026-08-05",
-        "category": "Economy",
-        "summary": "The authors describe a structured process for evaluating portfolios within the Planning, Programming, Budgeting, and Execution process, which can help support resource allocation in cross-cutting portfolios.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA3667-1.html"
-    },
-    {
         "id": "https://www.cfr.org/articles/big-macs-say-the-dollar-is-way-overvalued-ipad-minis-say-its-not-so",
         "source": "Council on Foreign Relations",
         "title": "Big Macs Say the Dollar is Way Overvalued. iPad Minis Say It's Not so.",
@@ -565,24 +538,6 @@
         "category": "Other",
         "summary": "Thank you for providing your feedback on the options for the CER's publications and podcast mailings. Your name: The amount of email I receive from the CER is: About right Too much If you have selected 'too much' above would you prefer to receive: A weekly newsletter with links to all content A monthly newsletter with links to all content Would you like to opt-out of receiving: Publications Podcasts Your email:...",
         "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4625-1.html",
-        "source": "RAND Corporation",
-        "title": "AI and the Future of Emergency Management",
-        "publicationDate": "2026-08-04",
-        "category": "Defense",
-        "summary": "In this report, the authors present the results of a landscape assessment of artificial intelligence–enabled products that are available to support the work of emergency management across the United States.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4625-1.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4827-1.html",
-        "source": "RAND Corporation",
-        "title": "Secure Inference Data Centers",
-        "publicationDate": "2026-08-04",
-        "category": "Defense",
-        "summary": "This report describes the deployment of secure inference data centers (SIDCs)—purpose-built facilities designed to protect artificial intelligence models from advanced nation-state adversaries. SIDCs can be built today with proven technologies.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4827-1.html"
     },
     {
         "id": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/",
