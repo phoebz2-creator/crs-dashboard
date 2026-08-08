@@ -1,5 +1,41 @@
 [
     {
+        "id": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+        "source": "NPR Politics",
+        "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as data centers begin to dominate campaigns.",
+        "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+        "source": "NPR Politics",
+        "title": "Senate votes to confirm Todd Blanche as attorney general",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "The Senate narrowly confirmed Todd Blanche as U.S. attorney general early Saturday morning, elevating President Trump's former personal lawyer to head the Justice Department.",
+        "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6018324-senate-adjourns-funding-blanche-budget-save-america/",
+        "source": "The Hill",
+        "title": "Senate embarks on recess after funding government and confirming Blanche, punting other priorities",
+        "publicationDate": "2026-08-08",
+        "category": "Economy",
+        "summary": "The Senate adjourned for a five-week recess early Saturday morning after passing a bill to fund the federal government until Dec. 11 and confirming Todd Blanche as attorney general. Senate Republicans also agreed to set aside — for the moment — President Trump’s demand to approve another budget resolution to pave the way for tens...",
+        "url": "https://thehill.com/homenews/senate/6018324-senate-adjourns-funding-blanche-budget-save-america/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6017820-senate-todd-blanche-attorney-general-nomination/",
+        "source": "The Hill",
+        "title": "Senate confirms Todd Blanche as attorney general after bruising fight",
+        "publicationDate": "2026-08-08",
+        "category": "Senate",
+        "summary": "The Senate early Saturday morning confirmed Todd Blanche as the next attorney general, with the nominee narrowly securing sufficient GOP backing after making a number of promises about how he would handle his tenure as the country’s top law enforcement officer. The vote was 50-49. Though confirmed along a party-line vote when he was nominated...",
+        "url": "https://thehill.com/homenews/senate/6017820-senate-todd-blanche-attorney-general-nomination/"
+    },
+    {
         "id": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
         "source": "The Hill",
         "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
@@ -27,40 +63,67 @@
         "url": "https://thehill.com/regulation/court-battles/6018220-dhs-ends-tps-myanmar-south-sudan/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6018225-gop-deal-budget-resolution-save-america-act/",
-        "source": "The Hill",
-        "title": "Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasse",
-        "publicationDate": "2026-08-08",
-        "category": "Economy",
-        "summary": "Senate Majority Leader John Thune (R-S.D.), President Trump and Senate conservatives reached a deal Friday night to set aside a vote on a budget resolution and defer action on much of the SAVE America Act until after the August recess, settling a fight that had divided Senate Republicans for weeks. Conservative Sens. Ron Johnson (R-Wis.),...",
-        "url": "https://thehill.com/homenews/senate/6018225-gop-deal-budget-resolution-save-america-act/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6018198-spencer-pratt-trump-federal-film-tax/",
-        "source": "The Hill",
-        "title": "Spencer Pratt says he's working with Trump on 25 percent federal film tax credit",
-        "publicationDate": "2026-08-08",
-        "category": "Economy",
-        "summary": "Reality TV star and former Los Angeles mayoral candidate Spencer Pratt said in a recent post that he is working with President Trump on a 25 percent federal film tax. In a Friday post on the social platform X, Pratt stated the move was to “bring back Hollywood.” “I’m committed to saving Hollywood, and I’m...",
-        "url": "https://thehill.com/homenews/administration/6018198-spencer-pratt-trump-federal-film-tax/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html",
+        "id": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html",
         "source": "New York Times Politics",
-        "title": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
+        "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+        "publicationDate": "2026-08-08",
+        "category": "Healthcare",
+        "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid.",
+        "url": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html",
+        "source": "New York Times Politics",
+        "title": "Trump Officials Under Pressure to Deport Haitians After Supreme Court Win on T.P.S. Program",
+        "publicationDate": "2026-08-08",
+        "category": "Illegal Immigration",
+        "summary": "The lack of visible raids aggressively targeting Haitians who lost temporary status has frustrated some of President Trump’s most fervent supporters.",
+        "url": "https://www.nytimes.com/2026/08/08/us/politics/tps-haitians-deport.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/08/us/politics/darline-lindsey-graham-questions.html",
+        "source": "New York Times Politics",
+        "title": "Lindsey Graham Loved to Gab With Reporters. His Sister Won’t.",
         "publicationDate": "2026-08-08",
         "category": "United States Politics and Government",
-        "summary": "The move came more than a month before the spending deadline, reflecting an eagerness in both parties to avoid a messy fight before the midterm elections.",
-        "url": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html"
+        "summary": "Senator Darline Graham, who took her brother’s place after his death and is now seeking to succeed him, has mostly declined to answer questions from reporters at the Capitol.",
+        "url": "https://www.nytimes.com/2026/08/08/us/politics/darline-lindsey-graham-questions.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html",
+        "id": "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html",
         "source": "New York Times Politics",
-        "title": "A Spurned Schumer Reaches Out to the Left",
+        "title": "Amid Abuse Claims Against Max Miller, This Democrat Thinks He Can Win His Seat",
         "publicationDate": "2026-08-08",
-        "category": "United States Politics and Government",
-        "summary": "In a phone call this week, the Democratic leader told the new Michigan Senate nominee who had opposed him to just win, working to foster unity ahead of a difficult race.",
-        "url": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html"
+        "category": "Ohio",
+        "summary": "Brian Poindexter, an ironworker, is in the spotlight in Ohio’s 7th Congressional District, where Mr. Miller faces multiple calls to step aside.",
+        "url": "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html",
+        "source": "New York Times Politics",
+        "title": "After a Poisonous Primary, Michigan Democrats Promise to Get Along",
+        "publicationDate": "2026-08-08",
+        "category": "Michigan",
+        "summary": "The party is racing to get behind Dr. Abdul El-Sayed after a Senate primary that was “spirited,” as Pete Buttigieg diplomatically put it at a unity rally on Friday night, but tensions remain.",
+        "url": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/08/democratic-voters-who-used-back-susan-collins-arent-so-sure-anymore/",
+        "source": "Washington Post Politics",
+        "title": "Democratic voters who used to back Susan Collins aren’t so sure anymore",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Sen. Susan Collins (R-Maine) has counted on split-ticket voters to help her win office in a blue state. Some of those supporters are more reluctant to vote for her again.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/08/democratic-voters-who-used-back-susan-collins-arent-so-sure-anymore/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/national-security/2026/08/08/senate-narrowly-approves-todd-blanche-ag-capping-tough-confirmation-fight/",
+        "source": "Washington Post Politics",
+        "title": "Senate narrowly approves Blanche as AG, capping tough confirmation fight",
+        "publicationDate": "2026-08-08",
+        "category": "Defense",
+        "summary": "The vote grants President Donald Trump’s former criminal defense lawyer a full stint as the head of the Justice Department, which has been rocked by vacancies and controversies.",
+        "url": "https://www.washingtonpost.com/national-security/2026/08/08/senate-narrowly-approves-todd-blanche-ag-capping-tough-confirmation-fight/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
@@ -70,6 +133,15 @@
         "category": "Foreign Policy",
         "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5",
+        "source": "Financial Times World",
+        "title": "US Senate narrowly confirms Todd Blanche as US attorney-general",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump",
+        "url": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5"
     },
     {
         "id": "https://www.ft.com/content/798623be-8da1-490d-9494-11b3d5f58ac8?syn-25a6b1a6=1",
@@ -106,15 +178,6 @@
         "category": "Other",
         "summary": "Caracas experiencing power cuts for first time in 7 years despite government pledges to invest in grid",
         "url": "https://www.ft.com/content/45730a94-cb43-42cb-ae8f-da0f39f37d67"
-    },
-    {
-        "id": "https://www.ft.com/content/d9e0c81c-9160-48e7-9309-01f21de5fe5d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Kids, flats and student loans: Why UK first-time buyers are getting older",
-        "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "One in three starts a family before having a home of their own",
-        "url": "https://www.ft.com/content/d9e0c81c-9160-48e7-9309-01f21de5fe5d?syn-25a6b1a6=1"
     },
     {
         "id": "IF12891",
@@ -270,24 +333,6 @@
         "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham"
     },
     {
-        "id": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
-        "source": "NPR Politics",
-        "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate.",
-        "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/07/nx-s1-5924041/sen-mitch-mcconnell-says-he-has-been-discharged-from-rehab-center-to-recover-at-home",
-        "source": "NPR Politics",
-        "title": "Sen. Mitch McConnell says he has been discharged from rehab center to recover at home",
-        "publicationDate": "2026-08-07",
-        "category": "Healthcare",
-        "summary": "Kentucky Sen. Mitch McConnell said he was discharged from his rehabilitation center in a Thursday statement, more than 50 days after hospitalization.",
-        "url": "https://www.npr.org/2026/08/07/nx-s1-5924041/sen-mitch-mcconnell-says-he-has-been-discharged-from-rehab-center-to-recover-at-home"
-    },
-    {
         "id": "https://www.pbs.org/newshour/nation/ice-will-only-release-body-camera-video-when-in-agencys-best-interests-policy-says",
         "source": "PBS NewsHour Politics",
         "title": "ICE will only release body camera video when in agency's 'best interests,' policy says",
@@ -333,33 +378,6 @@
         "url": "https://www.pbs.org/newshour/politics/watch-live-senate-passes-grahams-russia-sanctions-bill-confirms-dozens-of-nominees"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/07/us/politics/max-miller-gop.html",
-        "source": "New York Times Politics",
-        "title": "Max Miller Continues to Resist Pressure to Drop Out as Deadline Looms",
-        "publicationDate": "2026-08-07",
-        "category": "Ohio",
-        "summary": "The Republican House member from Ohio was accused of holding a gun to his ex-wife’s head and fracturing the collarbone of their young daughter. He has denied the accusations.",
-        "url": "https://www.nytimes.com/2026/08/07/us/politics/max-miller-gop.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html",
-        "source": "New York Times Politics",
-        "title": "They’re Battle-Tested Democrats. Do Voters Care?",
-        "publicationDate": "2026-08-07",
-        "category": "Politics and Government",
-        "summary": "Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, they’ve faced tough primaries.",
-        "url": "https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html",
-        "source": "New York Times Politics",
-        "title": "Charles S. Faddis, Ex-C.I.A. Officer Who Pushed Conspiracy Theories, Dies at 68",
-        "publicationDate": "2026-08-07",
-        "category": "Faddis",
-        "summary": "After 20 years in the C.I.A., he emerged as an outspoken critic of the agency and as a leader of the election-denial movement in Pennsylvania.",
-        "url": "https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/08/07/justice-department-faces-competing-pressures-it-decides-whether-prosecute-fauci/",
         "source": "Washington Post Politics",
         "title": "Why a prosecution of Anthony Fauci could face challenges in court",
@@ -385,24 +403,6 @@
         "category": "Other",
         "summary": "The Senate could hold the final vote on President Donald Trump’s pick to lead the Justice Department as soon as Friday.",
         "url": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/07/trump-wont-let-supreme-court-have-last-word/",
-        "source": "Washington Post Politics",
-        "title": "Trump won’t let the Supreme Court have the last word",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "The president moved this week to counter legal defeats on ending birthright citizenship and firing a Fed governor, while seeking the justices’ help with his ballroom.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-wont-let-supreme-court-have-last-word/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/",
-        "source": "Washington Post Politics",
-        "title": "Court deals setback to Trump’s war on wind as Pentagon is ordered to review projects",
-        "publicationDate": "2026-08-07",
-        "category": "Defense",
-        "summary": "The Defense Department stopped processing national security reviews of wind projects in May, despite a law demanding they be completed in 75 days.",
-        "url": "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
