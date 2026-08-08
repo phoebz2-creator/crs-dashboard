@@ -126,15 +126,6 @@
         "url": "https://www.washingtonpost.com/national-security/2026/08/08/pirro-trumps-longtime-champion-is-outs-over-reflecting-pool-move/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/08/voter-turnout-surges-tennessee-after-black-majority-district-is-erased/",
-        "source": "Washington Post Politics",
-        "title": "Voter turnout surges in Tennessee after Black-majority district is erased",
-        "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "High Democratic turnout for House primaries in Shelby County, which includes Memphis, is the latest sign that redistricting may be energizing Black Southern voters.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/08/voter-turnout-surges-tennessee-after-black-majority-district-is-erased/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/08/longtime-san-francisco-nonprofit-will-close-city-gets-tougher-crime/",
         "source": "Washington Post Politics",
         "title": "Longtime San Francisco nonprofit will close as city gets tougher on crime",
@@ -142,6 +133,15 @@
         "category": "Economy",
         "summary": "The demise of SF Pretrial, which for 50 years has provided diversion services, came after the mayor cut its budget and as Democrats’ attitudes toward crime shift.",
         "url": "https://www.washingtonpost.com/politics/2026/08/08/longtime-san-francisco-nonprofit-will-close-city-gets-tougher-crime/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/08/voter-turnout-surges-tennessee-after-black-majority-district-is-erased/",
+        "source": "Washington Post Politics",
+        "title": "Voter turnout surges in Tennessee after Black-majority district is erased",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "High Democratic turnout for House primaries in Shelby County, which includes Memphis, is the latest sign that redistricting may be energizing Black Southern voters.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/08/voter-turnout-surges-tennessee-after-black-majority-district-is-erased/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/08/democratic-voters-who-used-back-susan-collins-arent-so-sure-anymore/",
@@ -155,10 +155,10 @@
     {
         "id": "https://www.washingtonpost.com/national-security/2026/08/08/senate-narrowly-approves-todd-blanche-ag-capping-tough-confirmation-fight/",
         "source": "Washington Post Politics",
-        "title": "Senate narrowly approves Blanche as AG, capping tough confirmation fight",
+        "title": "Senate narrowly approves Todd Blanche as AG, capping tough confirmation fight",
         "publicationDate": "2026-08-08",
         "category": "Defense",
-        "summary": "The vote grants President Donald Trump’s former criminal defense lawyer a full stint as the head of the Justice Department, which has been rocked by vacancies and controversies.",
+        "summary": "The early-morning 50-49 vote grants President Donald Trump’s former criminal defense lawyer a full stint as the head of the Justice Department, which has been rocked by vacancies and controversies.",
         "url": "https://www.washingtonpost.com/national-security/2026/08/08/senate-narrowly-approves-todd-blanche-ag-capping-tough-confirmation-fight/"
     },
     {
@@ -169,6 +169,42 @@
         "category": "Foreign Policy",
         "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
+        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/e1f2e2b9-6f52-44fc-a659-e981d2fc923e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "First Brands urges court to approve bankruptcy settlement",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Plan would fund lawsuits to pursue billions of dollars in claims arising from alleged fraud scheme at collapsed car-parts maker",
+        "url": "https://www.ft.com/content/e1f2e2b9-6f52-44fc-a659-e981d2fc923e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Landmark crypto bill stalls in US Senate despite $225mn spending push",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Lobby struggles to pass top priority in Congress as lawmakers spar over legislation",
+        "url": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a371dc43-0584-4fcc-b064-80596727d5b5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Pfizer grapples with ‘a world of hurt’ after Covid triumph",
+        "publicationDate": "2026-08-08",
+        "category": "Healthcare",
+        "summary": "Sliding vaccine revenues and fears it overpaid for new drugs pile pressure on boss Albert Bourla",
+        "url": "https://www.ft.com/content/a371dc43-0584-4fcc-b064-80596727d5b5?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/f3050d94-6b78-4cf2-8b07-cf8903aacc7f?syn-25a6b1a6=1",
@@ -187,33 +223,6 @@
         "category": "Other",
         "summary": "You can’t fight macro with FX interventions",
         "url": "https://www.ft.com/content/d2248ee9-edb5-445c-b89b-425e033a19fa?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5",
-        "source": "Financial Times World",
-        "title": "US Senate narrowly confirms Todd Blanche as US attorney-general",
-        "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump",
-        "url": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5"
-    },
-    {
-        "id": "https://www.ft.com/content/798623be-8da1-490d-9494-11b3d5f58ac8?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Widdecombe murder probe reopens inquiry into attempted burglary at Farage’s house",
-        "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "Counterterror officers have identified ‘relevant’ information missed during an investigation last year",
-        "url": "https://www.ft.com/content/798623be-8da1-490d-9494-11b3d5f58ac8?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/bbc32738-b51b-4004-be55-e923e849f826",
-        "source": "Financial Times World",
-        "title": "Six hot takes from Copenhagen Fashion Week",
-        "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "The 20th-anniversary edition of the event championed underwear as street style, smart sustainability and cycling chic everywhere",
-        "url": "https://www.ft.com/content/bbc32738-b51b-4004-be55-e923e849f826"
     },
     {
         "id": "IF12891",
@@ -432,13 +441,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "The student says she feared never seeing her mother again after the attack killed five teachers.",
-        "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss"
+        "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
+        "source": "RAND Corporation",
+        "title": "China's Retirement Reform and the 2035 Statutory Working-Age Window",
+        "publicationDate": "2026-08-06",
+        "category": "Foreign Policy",
+        "summary": "Using a monthly birth-cohort simulation, the author estimates that China’s 2025 retirement reform keeps about 48 million additional people below statutory retirement ages in 2035, delaying the working-age decline without reversing population aging.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4750-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA5055-1.html",
+        "source": "RAND Corporation",
+        "title": "Interpreting Dual-Use Biology Benchmarks for Frontier AI",
+        "publicationDate": "2026-08-06",
+        "category": "Defense",
+        "summary": "The authors find that many artificial intelligence (AI) benchmark tasks are no longer informative, but a frontier of difficult tasks remains so, with recent gains concentrated on difficult tasks theorized to be relevant to real-world risk.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5055-1.html"
     },
     {
         "id": "https://www.cfr.org/articles/spains-migration-surge-tests-eu-border-policy",
@@ -504,6 +522,15 @@
         "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
     },
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
+        "source": "RAND Corporation",
+        "title": "A Portfolio Assessment Approach to Inform Resource Allocation Decisions",
+        "publicationDate": "2026-08-05",
+        "category": "Economy",
+        "summary": "The authors describe a structured process for evaluating portfolios within the Planning, Programming, Budgeting, and Execution process, which can help support resource allocation in cross-cutting portfolios.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA3667-1.html"
+    },
+    {
         "id": "https://www.cfr.org/articles/big-macs-say-the-dollar-is-way-overvalued-ipad-minis-say-its-not-so",
         "source": "Council on Foreign Relations",
         "title": "Big Macs Say the Dollar is Way Overvalued. iPad Minis Say It's Not so.",
@@ -538,6 +565,24 @@
         "category": "Other",
         "summary": "Thank you for providing your feedback on the options for the CER's publications and podcast mailings. Your name: The amount of email I receive from the CER is: About right Too much If you have selected 'too much' above would you prefer to receive: A weekly newsletter with links to all content A monthly newsletter with links to all content Would you like to opt-out of receiving: Publications Podcasts Your email:...",
         "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4625-1.html",
+        "source": "RAND Corporation",
+        "title": "AI and the Future of Emergency Management",
+        "publicationDate": "2026-08-04",
+        "category": "Defense",
+        "summary": "In this report, the authors present the results of a landscape assessment of artificial intelligence–enabled products that are available to support the work of emergency management across the United States.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4625-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4827-1.html",
+        "source": "RAND Corporation",
+        "title": "Secure Inference Data Centers",
+        "publicationDate": "2026-08-04",
+        "category": "Defense",
+        "summary": "This report describes the deployment of secure inference data centers (SIDCs)—purpose-built facilities designed to protect artificial intelligence models from advanced nation-state adversaries. SIDCs can be built today with proven technologies.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4827-1.html"
     },
     {
         "id": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/",
