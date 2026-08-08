@@ -1,8 +1,17 @@
 [
     {
+        "id": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
+        "source": "The Hill",
+        "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
+        "publicationDate": "2026-08-08",
+        "category": "Senate",
+        "summary": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House before leaving for a five-week recess. The continuing resolution (CR) passed 90-6 after Republicans spent days haggling over a provision inserted by the White House...",
+        "url": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/"
+    },
+    {
         "id": "https://thehill.com/policy/healthcare/6017926-senate-delays-hemp-thc-ban/",
         "source": "The Hill",
-        "title": "Hemp amendment at center of funding fight fails, allowing one-month delay of ban",
+        "title": "Senate tables hemp amendment at center of funding fight, allowing one-month delay of ban",
         "publicationDate": "2026-08-08",
         "category": "Healthcare",
         "summary": "A federal ban on most hemp-derived THC products is set to be delayed for a month after a last-minute effort to keep the original timeline failed. The Senate voted 61-32 to table a bipartisan amendment from Sen. Ted Budd (R-N.C.) and about a dozen other senators to strip the delay from a stopgap government funding...",
@@ -36,13 +45,13 @@
         "url": "https://thehill.com/homenews/administration/6018198-spencer-pratt-trump-federal-film-tax/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6018156-trump-pirro-revisit-reflecting-pool-claims/",
-        "source": "The Hill",
-        "title": "Trump maintains vandalism claims, calls on Pirro to 're-visit' Reflecting Pool",
+        "id": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html",
+        "source": "New York Times Politics",
+        "title": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
         "publicationDate": "2026-08-08",
-        "category": "Administration",
-        "summary": "President Trump is asking the Justice Department (DOJ) to reconsider its move to drop criminal charges against those accused of damaging the Lincoln Memorial Reflecting Pool, continuing to assert vandalism was to blame for its appearance. Trump specifically urged U.S. Attorney for the District of Columbia Jeanine Pirro to \"re-visit her hastily made decision\" in...",
-        "url": "https://thehill.com/homenews/administration/6018156-trump-pirro-revisit-reflecting-pool-claims/"
+        "category": "United States Politics and Government",
+        "summary": "The move came more than a month before the spending deadline, reflecting an eagerness in both parties to avoid a messy fight before the midterm elections.",
+        "url": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html",
@@ -61,15 +70,6 @@
         "category": "Foreign Policy",
         "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
         "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-        "publicationDate": "2026-08-08",
-        "category": "Foreign Policy",
-        "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-        "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/798623be-8da1-490d-9494-11b3d5f58ac8?syn-25a6b1a6=1",
@@ -234,6 +234,15 @@
         "url": "https://cms.hoover.org/research/how-much-reserve-currency-status-dollar-worth"
     },
     {
+        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
+        "source": "European Council on Foreign Relations",
+        "title": "Latin America’s new imaginaries",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
+        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
+    },
+    {
         "id": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
         "source": "NPR Politics",
         "title": "Women in Maine may choose the victor in this year's Senate race",
@@ -351,15 +360,6 @@
         "url": "https://www.nytimes.com/2026/08/07/books/charles-sam-faddis-dead.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
-        "source": "New York Times Politics",
-        "title": "Family of Former U.S. Marine Detained in Russia Says He Is in Serious Condition",
-        "publicationDate": "2026-08-07",
-        "category": "Foreign Policy",
-        "summary": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
-        "url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/08/07/justice-department-faces-competing-pressures-it-decides-whether-prosecute-fauci/",
         "source": "Washington Post Politics",
         "title": "Why a prosecution of Anthony Fauci could face challenges in court",
@@ -403,6 +403,15 @@
         "category": "Defense",
         "summary": "The Defense Department stopped processing national security reviews of wind projects in May, despite a law demanding they be completed in 75 days.",
         "url": "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "The phone book that led us to Assad's spy chief in hiding",
+        "publicationDate": "2026-08-07",
+        "category": "Other",
+        "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
@@ -495,6 +504,24 @@
         "url": "https://www.heritage.org/border-security/commentary/trump-running-out-time-end-refugee-asylum-abuse-good"
     },
     {
+        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
+        "source": "European Council on Foreign Relations",
+        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
+        "publicationDate": "2026-08-06",
+        "category": "Foreign Policy",
+        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
+        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
+    },
+    {
+        "id": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
+        "source": "European Council on Foreign Relations",
+        "title": "Hamas has agreed to disarm. Israel should now agree to peace",
+        "publicationDate": "2026-08-06",
+        "category": "Israel / Palestine",
+        "summary": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
+        "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
         "source": "RAND Corporation",
         "title": "A Portfolio Assessment Approach to Inform Resource Allocation Decisions",
@@ -556,6 +583,24 @@
         "category": "Defense",
         "summary": "This report describes the deployment of secure inference data centers (SIDCs)—purpose-built facilities designed to protect artificial intelligence models from advanced nation-state adversaries. SIDCs can be built today with proven technologies.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4827-1.html"
+    },
+    {
+        "id": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/",
+        "source": "European Council on Foreign Relations",
+        "title": "If Marine Le Pen wins: A European guide to a far-right France",
+        "publicationDate": "2026-08-04",
+        "category": "European Power",
+        "summary": "A Le Pen-led France would mean major changes to European politics. Here's how political leaders can begin to prepare.",
+        "url": "https://ecfr.eu/publication/if-marine-le-pen-wins-a-european-guide-to-a-far-right-france/"
+    },
+    {
+        "id": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/",
+        "source": "European Council on Foreign Relations",
+        "title": "Alone at the border: Ceuta and Europe’s solidarity failure",
+        "publicationDate": "2026-07-31",
+        "category": "Human Rights and Democracy",
+        "summary": "By failing to show solidarity with a member state under pressure, the EU is encouraging Morocco and others to keep using migration as a tool of coercion.",
+        "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
