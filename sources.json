@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.npr.org/2026/08/08/nx-s1-5923906/minnesota-gop-divided-over-mike-lindells-potential-gubernatorial-nomination",
+        "source": "NPR Politics",
+        "title": "Minnesota GOP divided over Mike Lindell's potential gubernatorial nomination",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Mike Lindell of \"MyPillow\" fame, might win the GOP primary for Minnesota governor running on a Trump platform. Other Republicans are concerned that his closeness could hurt his chances in November.",
+        "url": "https://www.npr.org/2026/08/08/nx-s1-5923906/minnesota-gop-divided-over-mike-lindells-potential-gubernatorial-nomination"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/08/nx-s1-5922464/legal-scholar-lawrence-lessig-on-how-a-maine-law-could-topple-super-pacs",
+        "source": "NPR Politics",
+        "title": "Legal scholar Lawrence Lessig on how a Maine law could topple Super PACs",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "NPR's Scott Simon speaks with legal scholar and activist Lawrence Lessig about the influence of outside money in elections and a court challenge to a Maine state law capping donations to Super PACs.",
+        "url": "https://www.npr.org/2026/08/08/nx-s1-5922464/legal-scholar-lawrence-lessig-on-how-a-maine-law-could-topple-super-pacs"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/08/nx-s1-5921263/week-in-politics-blanche-confirmed-as-attorney-general-iran-oman-strait-deal-stalls",
+        "source": "NPR Politics",
+        "title": "Week in Politics: Blanche confirmed as attorney general; Iran-Oman Strait deal stalls",
+        "publicationDate": "2026-08-08",
+        "category": "Foreign Policy",
+        "summary": "We look at what it took to get Todd Blanche confirmed as U.S. attorney general, as well as the proposed deal between Iran and Oman to control the Strait of Hormuz.",
+        "url": "https://www.npr.org/2026/08/08/nx-s1-5921263/week-in-politics-blanche-confirmed-as-attorney-general-iran-oman-strait-deal-stalls"
+    },
+    {
         "id": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
         "source": "NPR Politics",
         "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
@@ -18,13 +45,13 @@
         "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms"
     },
     {
-        "id": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-        "source": "NPR Politics",
-        "title": "Senate votes to confirm Todd Blanche as attorney general",
+        "id": "https://thehill.com/policy/international/6018380-houthi-rebels-strike-yemen-saudi-arabia-military-targets/",
+        "source": "The Hill",
+        "title": "Houthi strikes on Saudi military targets fuel fears of wider Yemen conflict",
         "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "The Senate narrowly confirmed Todd Blanche as U.S. attorney general early Saturday morning, elevating President Trump's former personal lawyer to head the Justice Department.",
-        "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general"
+        "category": "Defense",
+        "summary": "Iran-backed Houthi rebels on Friday launched drone and missile attacks toward Saudi military targets in the eastern city of Marib, Yemen, raising concerns of a widening war in the region. Two people were killed and more than a dozen others wounded during the fresh strikes, according to the country’s state-run news agency. The drones struck...",
+        "url": "https://thehill.com/policy/international/6018380-houthi-rebels-strike-yemen-saudi-arabia-military-targets/"
     },
     {
         "id": "https://thehill.com/homenews/administration/6017947-trump-economy-jobs-report-inflation/",
@@ -59,17 +86,8 @@
         "title": "Senate confirms Todd Blanche as attorney general after bruising fight",
         "publicationDate": "2026-08-08",
         "category": "Senate",
-        "summary": "The Senate early Saturday morning confirmed Todd Blanche as the next attorney general, with the nominee narrowly securing sufficient GOP backing after making a number of promises about how he would handle his tenure as the country’s top law enforcement officer. The vote was 50-49. Though confirmed along a party-line vote when he was nominated...",
+        "summary": "The Senate early Saturday morning confirmed Todd Blanche as the next attorney general, with the nominee narrowly securing sufficient GOP backing after making a number of promises about how he would handle his tenure as the country’s top law enforcement officer. The vote was 50-49. \"I am deeply honored by the trust and confidence President...",
         "url": "https://thehill.com/homenews/senate/6017820-senate-todd-blanche-attorney-general-nomination/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
-        "source": "The Hill",
-        "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
-        "publicationDate": "2026-08-08",
-        "category": "Senate",
-        "summary": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House before leaving for a five-week recess. The continuing resolution (CR) passed 90-6 after Republicans spent days haggling over a provision inserted by the White House...",
-        "url": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html",
@@ -349,24 +367,6 @@
         "category": "Foreign Policy",
         "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
         "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
-        "source": "NPR Politics",
-        "title": "Women in Maine may choose the victor in this year's Senate race",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.",
-        "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
-        "source": "NPR Politics",
-        "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates.",
-        "url": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress"
     },
     {
         "id": "https://www.pbs.org/newshour/nation/ice-will-only-release-body-camera-video-when-in-agencys-best-interests-policy-says",
