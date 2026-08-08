@@ -45,6 +45,24 @@
         "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms"
     },
     {
+        "id": "https://thehill.com/homenews/state-watch/6018470-new-jersey-ice-detainee-death-investigation/",
+        "source": "The Hill",
+        "title": "After detainee’s death, New Jersey to investigate ICE facility",
+        "publicationDate": "2026-08-08",
+        "category": "State Watch",
+        "summary": "New Jersey is launching a civil rights investigation into Delaney Hall, the state’s largest immigration detention facility, following reports of poor conditions and deaths, state officials announced Friday. The New Jersey Division on Civil Rights issued subpoenas involving the center, privately owned by GEO Group, to examine whether its staff violated detainees’ civil rights —...",
+        "url": "https://thehill.com/homenews/state-watch/6018470-new-jersey-ice-detainee-death-investigation/"
+    },
+    {
+        "id": "https://thehill.com/opinion/judiciary/6017848-alito-not-retiring-yet/",
+        "source": "The Hill",
+        "title": "Sam Alito is locked and loaded for another term",
+        "publicationDate": "2026-08-08",
+        "category": "Opinions - Judiciary",
+        "summary": "A month after National Public Radio's Nina Totenberg announced that Sam Alito was retiring (a story NPR later had to retract), the 76-year-old jurist told the Wall Street Journal in an interview, “Obviously, I’m here for another term.” Looking at the docket for the coming term, it is easy to see why. Even after overturning Roe...",
+        "url": "https://thehill.com/opinion/judiciary/6017848-alito-not-retiring-yet/"
+    },
+    {
         "id": "https://thehill.com/policy/energy-environment/6011951-saharan-dust-cloud-the-size-of-the-continental-us-is-impacting-summer-weather-and-you-may-not-have-even-noticed/",
         "source": "The Hill",
         "title": "Saharan dust cloud the size of the continental US is impacting summer weather and you may not have even noticed",
@@ -70,24 +88,6 @@
         "category": "Administration",
         "summary": "Senators wrapped up a busy final stretch of work early Saturday, confirming Todd Blanche to lead the Justice Department (DOJ) and passing a stopgap funding bill before adjourning for the August recess. Blanche, President Trump’s former personal attorney, has served as acting attorney general since April and was confirmed in a narrow 50-49 vote. Sens....",
         "url": "https://thehill.com/homenews/administration/6018352-live-updates-senate-august-recess-blanche-spending-bill-iran-war/"
-    },
-    {
-        "id": "https://thehill.com/opinion/national-security/6017163-us-israel-military-partnership/",
-        "source": "The Hill",
-        "title": "Supporting Israel isn't charity — it's America's best weapon",
-        "publicationDate": "2026-08-08",
-        "category": "Defense",
-        "summary": "No nation on Earth matches its military muscle, intelligence reach, tech edge, combat experience and sheer will to fight.",
-        "url": "https://thehill.com/opinion/national-security/6017163-us-israel-military-partnership/"
-    },
-    {
-        "id": "https://thehill.com/policy/sports-gaming/6018062-enes-kanter-freedom-2027-wnba-draft/",
-        "source": "The Hill",
-        "title": "Enes Kanter Freedom declares for 2027 WNBA Draft",
-        "publicationDate": "2026-08-08",
-        "category": "Sports & Gaming",
-        "summary": "The former NBA center Enes Kanter Freedom stands at 6 foot 10 inches.",
-        "url": "https://thehill.com/policy/sports-gaming/6018062-enes-kanter-freedom-2027-wnba-draft/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html",
@@ -198,13 +198,40 @@
         "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+        "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
         "publicationDate": "2026-08-08",
         "category": "Other",
         "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
         "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US Senate narrowly confirms Todd Blanche as US attorney-general",
+        "publicationDate": "2026-08-08",
+        "category": "Other",
+        "summary": "Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump",
+        "url": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Iranian missile targets UAE tanker despite talks to reopen strait",
+        "publicationDate": "2026-08-08",
+        "category": "Foreign Policy",
+        "summary": "Latest attacks launched as Iran said it was close to finalising deal with Oman to manage shipping through Hormuz",
+        "url": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1",
@@ -232,24 +259,6 @@
         "category": "Other",
         "summary": "Plan would fund lawsuits to pursue billions of dollars in claims arising from alleged fraud scheme at collapsed car-parts maker",
         "url": "https://www.ft.com/content/e1f2e2b9-6f52-44fc-a659-e981d2fc923e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Landmark crypto bill stalls in US Senate despite $225mn spending push",
-        "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "Lobby struggles to pass top priority in Congress as lawmakers spar over legislation",
-        "url": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a371dc43-0584-4fcc-b064-80596727d5b5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Pfizer grapples with ‘a world of hurt’ after Covid triumph",
-        "publicationDate": "2026-08-08",
-        "category": "Healthcare",
-        "summary": "Sliding vaccine revenues and fears it overpaid for new drugs pile pressure on boss Albert Bourla",
-        "url": "https://www.ft.com/content/a371dc43-0584-4fcc-b064-80596727d5b5?syn-25a6b1a6=1"
     },
     {
         "id": "IF12891",
@@ -432,15 +441,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-        "publicationDate": "2026-08-07",
-        "category": "Other",
-        "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
-        "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
         "source": "RAND Corporation",
         "title": "China's Retirement Reform and the 2035 Statutory Working-Age Window",
@@ -558,15 +558,6 @@
         "url": "https://www.heritage.org/global-politics/report/democratic-mandate-sovereign-duty-the-test-hungarys-new-government"
     },
     {
-        "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
-        "source": "Centre for European Reform",
-        "title": "Survey: Centre for European Reform mailings",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Thank you for providing your feedback on the options for the CER's publications and podcast mailings. Your name: The amount of email I receive from the CER is: About right Too much If you have selected 'too much' above would you prefer to receive: A weekly newsletter with links to all content A monthly newsletter with links to all content Would you like to opt-out of receiving: Publications Podcasts Your email:...",
-        "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4625-1.html",
         "source": "RAND Corporation",
         "title": "AI and the Future of Emergency Management",
@@ -601,42 +592,6 @@
         "category": "Human Rights and Democracy",
         "summary": "By failing to show solidarity with a member state under pressure, the EU is encouraging Morocco and others to keep using migration as a tool of coercion.",
         "url": "https://ecfr.eu/article/alone-at-the-border-ceuta-and-europes-solidarity-failure/"
-    },
-    {
-        "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
-        "source": "Centre for European Reform",
-        "title": "Bild: Die größte Gefahr für unseren Wohlstand: Ronzheimer trifft Sander Tordoir",
-        "publicationDate": "2026-07-27",
-        "category": "Foreign Policy",
-        "summary": "Ökonom Sander Tordoir warnt vor einem „China-Schock 2.0“: Chinas massive Subventionen, Überkapazitäten und Exportoffensive setzen zentrale deutsche Branchen wie Autoindustrie, Maschinenbau und Chemie zunehmend unter Druck. Im Gespräch mit Paul Ronzheimer erklärt er, warum Deutschland diesmal im Zentrum des wirtschaftlichen Schocks steht, Hunderttausende Industriearbeitsplätze gefährdet sein könnten – und warum...",
-        "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
-    },
-    {
-        "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
-        "source": "Centre for European Reform",
-        "title": "National Security Strategy (Joint Committee): Deterrence in an age of Russian aggression",
-        "publicationDate": "2026-07-17",
-        "category": "Foreign Policy",
-        "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
-        "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
-    },
-    {
-        "id": "https://www.cer.eu/media/times-radio-nato-summit",
-        "source": "Centre for European Reform",
-        "title": "Times Radio: NATO summit",
-        "publicationDate": "2026-07-09",
-        "category": "Other",
-        "summary": "Armida van Rij, senior research fellow at the CER spoke with Jane Garvey on Times Radio to discuss the NATO summit and Donald Trump's remarks on his NATO allies. Armida van Rij View multimedia 08 July 2026",
-        "url": "https://www.cer.eu/media/times-radio-nato-summit"
-    },
-    {
-        "id": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey",
-        "source": "Centre for European Reform",
-        "title": "NPR: NATO summit set to begin in Turkey",
-        "publicationDate": "2026-07-08",
-        "category": "Foreign Policy",
-        "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
-        "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
     },
     {
         "id": "R45262",
