@@ -81,6 +81,42 @@
         "url": "https://www.npr.org/2026/08/09/nx-s1-5922215/montanas-democratic-candidate-is-facing-pressure-to-drop-out-by-the-deadline"
     },
     {
+        "id": "https://thehill.com/homenews/campaign/6019067-aoc-new-age-progressives-take-reins/",
+        "source": "The Hill",
+        "title": "Ocasio-Cortez says new age progressives ‘answer to no master’",
+        "publicationDate": "2026-08-09",
+        "category": "Campaign",
+        "summary": "New York Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday shared support for progressives in the Democratic Party, backing their ability to answer to “no master.” “I think when I see so many of these incredible insurgent candidates that are running today –– that's part of what makes me so proud of them –– is that they...",
+        "url": "https://thehill.com/homenews/campaign/6019067-aoc-new-age-progressives-take-reins/"
+    },
+    {
+        "id": "https://thehill.com/opinion/technology/6017650-space-history-proposed-venus-voyage/",
+        "source": "The Hill",
+        "title": "A forgotten mission: NASA once planned to send astronauts to Venus",
+        "publicationDate": "2026-08-09",
+        "category": "Technology",
+        "summary": "One of the concepts, a Venus flyby mission, would have been a bold undertaking indeed.",
+        "url": "https://thehill.com/opinion/technology/6017650-space-history-proposed-venus-voyage/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6016998-flock-camera-map-how-many-are-in-your-neighborhood/",
+        "source": "The Hill",
+        "title": "Flock camera map: How many are in your neighborhood?",
+        "publicationDate": "2026-08-09",
+        "category": "Technology",
+        "summary": "Flock Safety, a surveillance equipment company, says it partners with more than 5,000 law enforcement agency partners across 6,000 communities. Is your city one of them?",
+        "url": "https://thehill.com/policy/technology/6016998-flock-camera-map-how-many-are-in-your-neighborhood/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/",
+        "source": "The Hill",
+        "title": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
+        "publicationDate": "2026-08-09",
+        "category": "Defense",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected President Trump’s plans to disarm Hamas and establish a Palestinian government in Gaza. “I have heard people saying: 'You didn't say it.' So here I am saying it again: Israel does not accept the 15-point document. The IDF [Israeli Defense Forces] will not carry out any withdrawal...",
+        "url": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/"
+    },
+    {
         "id": "https://thehill.com/homenews/house/6019031-alexandria-ocasio-cortez-egg-freezing/",
         "source": "The Hill",
         "title": "Ocasio-Cortez posts videos confirming she's freezing her eggs",
@@ -88,42 +124,6 @@
         "category": "House",
         "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Saturday on her Instagram story that she is freezing her eggs. “Usually, I keep my private life quite private, but I have made the decision to start freezing my eggs, and I want to share that with anyone who is — and I want to share this because I was...",
         "url": "https://thehill.com/homenews/house/6019031-alexandria-ocasio-cortez-egg-freezing/"
-    },
-    {
-        "id": "https://thehill.com/opinion/congress-blog/6018295-watergate-lessons-congress-oversight/",
-        "source": "The Hill",
-        "title": "Remember the lessons of Watergate — so we're not doomed to relearn them",
-        "publicationDate": "2026-08-09",
-        "category": "Congress Blog",
-        "summary": "With the nation reaching the 250th anniversary of the Declaration of Independence, Linda Gustitus reflects on how the Watergate scandal led to critical congressional reforms designed to prevent presidential abuse of power.",
-        "url": "https://thehill.com/opinion/congress-blog/6018295-watergate-lessons-congress-oversight/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6018822-live-updates-el-sayed-aoc-trump-birthright-citizenship-fauci-contempt/",
-        "source": "The Hill",
-        "title": "Live updates: El-Sayed, Ocasio-Cortez set for Sunday show appearances",
-        "publicationDate": "2026-08-09",
-        "category": "Administration",
-        "summary": "Fresh off his primary victory earlier this week, Michigan Senate candidate Abdul El-Sayed is set to appear on two news programs Sunday as he looks ahead to the November general election against former Rep. Mike Rogers (R-Mich.). El-Sayed defeated center-left Rep. Haley Stevens (D-Mich.) in the Democratic primary on Wednesday and now faces questions over...",
-        "url": "https://thehill.com/homenews/administration/6018822-live-updates-el-sayed-aoc-trump-birthright-citizenship-fauci-contempt/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6019003-trump-lincoln-memorial-vandalism/",
-        "source": "The Hill",
-        "title": "Trump posts examples of alleged Reflecting Pool vandalism amid push for Pirro to revisit decision",
-        "publicationDate": "2026-08-09",
-        "category": "Administration",
-        "summary": "President Trump on Saturday posted photos of alleged vandalism to the Lincoln Memorial Reflecting Pool amid a push for U.S. Attorney for the District of Columbia Jeanine Pirro to revisit a recent decision to drop charges related to the pool. Late Saturday, the president posted two photos of what appeared to be graffiti and some...",
-        "url": "https://thehill.com/homenews/administration/6019003-trump-lincoln-memorial-vandalism/"
-    },
-    {
-        "id": "https://thehill.com/opinion/education/6013680-a-new-playbook-for-controlling-universities/",
-        "source": "The Hill",
-        "title": "A new playbook for controlling universities",
-        "publicationDate": "2026-08-09",
-        "category": "Opinions - Education",
-        "summary": "More than ever, colleges and universities are divided over how to respond in what are likely to be no-win contests.",
-        "url": "https://thehill.com/opinion/education/6013680-a-new-playbook-for-controlling-universities/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html",
@@ -200,10 +200,10 @@
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/09/todd-blanches-next-challenges-trumps-attorney-general/",
         "source": "Washington Post Politics",
-        "title": "Todd Blanche takes over Justice Department wracked by low morale and vacancies",
+        "title": "Blanche as AG faces pressure from Trump, skeptical courts, low staff morale",
         "publicationDate": "2026-08-09",
         "category": "Other",
-        "summary": "After career staff has been ravaged by firings and departures, Blanche faces competing pressures from the president, the federal judiciary and Congress.",
+        "summary": "As Todd Blanche officially takes over at the helm, the challenges for the Justice Department have been stacking up.",
         "url": "https://www.washingtonpost.com/politics/2026/08/09/todd-blanches-next-challenges-trumps-attorney-general/"
     },
     {
@@ -216,15 +216,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Ancient Roman shipwreck discovered off Sicily coast",
-        "publicationDate": "2026-08-09",
-        "category": "Other",
-        "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
@@ -232,6 +223,15 @@
         "category": "Other",
         "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
         "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ancient Roman shipwreck discovered off Sicily coast",
+        "publicationDate": "2026-08-09",
+        "category": "Other",
+        "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/a6a000a4-3578-41d0-a898-aeef5f1dbaa0",
