@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.cfr.org/articles/the-bombing-of-nagasaki",
+        "source": "Council on Foreign Relations",
+        "title": "The Bombing of Nagasaki",
+        "publicationDate": "2026-08-09",
+        "category": "Article",
+        "summary": "Did the United States act too hastily in dropping a second atomic bomb on Japan?",
+        "url": "https://www.cfr.org/articles/the-bombing-of-nagasaki"
+    },
+    {
         "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-30",
         "source": "Hoover Institution",
         "title": "2026 Issue 30",
@@ -81,6 +90,42 @@
         "url": "https://www.npr.org/2026/08/09/nx-s1-5922215/montanas-democratic-candidate-is-facing-pressure-to-drop-out-by-the-deadline"
     },
     {
+        "id": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
+        "source": "NPR Politics",
+        "title": "Can birth control trends explain the rise in abortions? It's complicated",
+        "publicationDate": "2026-08-09",
+        "category": "Other",
+        "summary": "The number of abortions is up in the United States. Is it because fewer people are using birth control pills?",
+        "url": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/",
+        "source": "The Hill",
+        "title": "AOC declines to endorse Hong, says she’s focused on ‘winning back’ Congress",
+        "publicationDate": "2026-08-09",
+        "category": "House",
+        "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday declined to endorse Francesca Hong, a democratic socialist vying for the party nomination in the Wisconsin governor’s race. “I haven't endorsed in that race. My focus has been in winning back the Congress, winning back the House, and positioning ourselves to have the best chance possible to win the Senate,”...",
+        "url": "https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/"
+    },
+    {
+        "id": "https://thehill.com/opinion/judiciary/6018111-supreme-court-fed-independence/",
+        "source": "The Hill",
+        "title": "The unaccountability trap in government",
+        "publicationDate": "2026-08-09",
+        "category": "Opinions - Judiciary",
+        "summary": "The author argues that while the Supreme Court recently affirmed presidential authority over independent agencies in Trump v. Slaughter, its conflicting decision in Trump v. Cook protects the Federal Reserve's autonomy, potentially undermining democratic accountability in policymaking.",
+        "url": "https://thehill.com/opinion/judiciary/6018111-supreme-court-fed-independence/"
+    },
+    {
+        "id": "https://thehill.com/business/6019077-hassett-high-gas-prices-iran-war/",
+        "source": "The Hill",
+        "title": "Hassett: Fuel prices 'still higher than we would like’",
+        "publicationDate": "2026-08-09",
+        "category": "Foreign Policy",
+        "summary": "National Economic Council Director Kevin Hassett on Sunday expressed concern about continued high fuel prices amid the ongoing conflict with Iran. “Now, prices are still higher than we would like, but we've taken a lot of steps so that when the Gulf situation is resolved, then we can expect prices to go way, way down...",
+        "url": "https://thehill.com/business/6019077-hassett-high-gas-prices-iran-war/"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/6019067-aoc-new-age-progressives-take-reins/",
         "source": "The Hill",
         "title": "Ocasio-Cortez says new age progressives ‘answer to no master’",
@@ -97,33 +142,6 @@
         "category": "Technology",
         "summary": "One of the concepts, a Venus flyby mission, would have been a bold undertaking indeed.",
         "url": "https://thehill.com/opinion/technology/6017650-space-history-proposed-venus-voyage/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6016998-flock-camera-map-how-many-are-in-your-neighborhood/",
-        "source": "The Hill",
-        "title": "Flock camera map: How many are in your neighborhood?",
-        "publicationDate": "2026-08-09",
-        "category": "Technology",
-        "summary": "Flock Safety, a surveillance equipment company, says it partners with more than 5,000 law enforcement agency partners across 6,000 communities. Is your city one of them?",
-        "url": "https://thehill.com/policy/technology/6016998-flock-camera-map-how-many-are-in-your-neighborhood/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/",
-        "source": "The Hill",
-        "title": "Netanyahu rejects plan to disarm Hamas in rare break with Trump",
-        "publicationDate": "2026-08-09",
-        "category": "Defense",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu on Sunday rejected President Trump’s plans to disarm Hamas and establish a Palestinian government in Gaza. “I have heard people saying: 'You didn't say it.' So here I am saying it again: Israel does not accept the 15-point document. The IDF [Israeli Defense Forces] will not carry out any withdrawal...",
-        "url": "https://thehill.com/policy/international/6019047-netanyahu-rejects-trump-gaza-plan/"
-    },
-    {
-        "id": "https://thehill.com/homenews/house/6019031-alexandria-ocasio-cortez-egg-freezing/",
-        "source": "The Hill",
-        "title": "Ocasio-Cortez posts videos confirming she's freezing her eggs",
-        "publicationDate": "2026-08-09",
-        "category": "House",
-        "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Saturday on her Instagram story that she is freezing her eggs. “Usually, I keep my private life quite private, but I have made the decision to start freezing my eggs, and I want to share that with anyone who is — and I want to share this because I was...",
-        "url": "https://thehill.com/homenews/house/6019031-alexandria-ocasio-cortez-egg-freezing/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html",
@@ -155,7 +173,7 @@
     {
         "id": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html",
         "source": "New York Times Politics",
-        "title": "A Democratic Socialist Spreads the Word, Even in Hostile Territory",
+        "title": "A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News",
         "publicationDate": "2026-08-09",
         "category": "Midterm Elections (2026)",
         "summary": "Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.",
@@ -169,6 +187,15 @@
         "category": "Mice",
         "summary": "Employees say the performing arts center’s quirky-looking mice have an exotic back story. Do they?",
         "url": "https://www.nytimes.com/2026/08/09/us/politics/kennedy-center-renovation-mice.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/09/michigan-senate-race-abdul-el-sayed-must-unite-democrats/",
+        "source": "Washington Post Politics",
+        "title": "After bitter primary, El-Sayed faces daunting task of unifying Democrats",
+        "publicationDate": "2026-08-09",
+        "category": "Other",
+        "summary": "Before going up against Republican Mike Rogers in November, Abdul El-Sayed must heal the wounds from his fierce race against Rep. Haley Stevens.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/09/michigan-senate-race-abdul-el-sayed-must-unite-democrats/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/09/window-closes-ohio-gop-replace-rep-max-miller-ballot/",
@@ -189,15 +216,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/09/group-urges-democrats-woo-moderate-voters-with-populist-policies/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/09/michigan-senate-race-abdul-el-sayed-must-unite-democrats/",
-        "source": "Washington Post Politics",
-        "title": "After bitter primary, El-Sayed faces daunting task of unifying Democrats",
-        "publicationDate": "2026-08-09",
-        "category": "Other",
-        "summary": "Before going up against Republican Mike Rogers in November, Abdul El-Sayed must heal the wounds from his fierce race against Rep. Haley Stevens.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/09/michigan-senate-race-abdul-el-sayed-must-unite-democrats/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/09/todd-blanches-next-challenges-trumps-attorney-general/",
         "source": "Washington Post Politics",
         "title": "Blanche as AG faces pressure from Trump, skeptical courts, low staff morale",
@@ -212,7 +230,7 @@
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "publicationDate": "2026-08-09",
         "category": "Defense",
-        "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -234,6 +252,33 @@
         "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Tehran says US must meet new conditions before Iran reopens strait",
+        "publicationDate": "2026-08-09",
+        "category": "Foreign Policy",
+        "summary": "Senior security official wants Washington to pay compensation for war damage",
+        "url": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/e4650e97-be1f-479d-8959-c892785abf49?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Netanyahu rejects Trump’s Gaza disarmament plan",
+        "publicationDate": "2026-08-09",
+        "category": "Defense",
+        "summary": "Israeli prime minister says military will not withdraw from Palestinian enclave ‘until Hamas is disarmed’",
+        "url": "https://www.ft.com/content/e4650e97-be1f-479d-8959-c892785abf49?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "America’s hidden M&A boom",
+        "publicationDate": "2026-08-09",
+        "category": "Other",
+        "summary": "It’s lurking in one of the US’s top exports: higher education",
+        "url": "https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/a6a000a4-3578-41d0-a898-aeef5f1dbaa0",
         "source": "Financial Times World",
         "title": "Organised crime suspect Daniel Kinahan extradited from Dubai",
@@ -250,42 +295,6 @@
         "category": "Technology",
         "summary": "San Francisco’s language is hyperbolic — but the technology could bifurcate the labour market",
         "url": "https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/e7f0c7af-b170-4cb5-a16e-671efa62e605?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Will US inflation be cool enough to trim bets on a September rate rise?",
-        "publicationDate": "2026-08-09",
-        "category": "Economy",
-        "summary": "Market Questions is the FT’s guide to the week ahead",
-        "url": "https://www.ft.com/content/e7f0c7af-b170-4cb5-a16e-671efa62e605?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b25139e3-e748-407f-bc49-7389b3434455?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US social security could soon be insolvent",
-        "publicationDate": "2026-08-09",
-        "category": "Other",
-        "summary": "But will Congress have the courage to save it?",
-        "url": "https://www.ft.com/content/b25139e3-e748-407f-bc49-7389b3434455?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/29d6cef0-72db-4348-aa85-b7c3dcf94e60",
-        "source": "Financial Times World",
-        "title": "Holding public servants to account is harder than it seems",
-        "publicationDate": "2026-08-09",
-        "category": "Other",
-        "summary": "A new law imposing a duty of candour seeks to force officials to tell the truth. But will it work?",
-        "url": "https://www.ft.com/content/29d6cef0-72db-4348-aa85-b7c3dcf94e60"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/08/nx-s1-5925869/gop-controlled-senate-delivers-win-for-trump-with-blanche-confirmation",
-        "source": "NPR Politics",
-        "title": "GOP-controlled Senate delivers win for Trump with Blanche confirmation",
-        "publicationDate": "2026-08-08",
-        "category": "Other",
-        "summary": "The Senate narrowly confirmed former Trump personal attorney Todd Blanche as U.S. Attorney General, a major win for the president's approach to keeping the Justice Department close to the White House.",
-        "url": "https://www.npr.org/2026/08/08/nx-s1-5925869/gop-controlled-senate-delivers-win-for-trump-with-blanche-confirmation"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/how-troy-jackson-went-from-maine-logger-to-democratic-nominee-for-senate-against-susan-collins",
@@ -538,15 +547,6 @@
         "category": "Article",
         "summary": "Measured in Big Macs, the dollar is too strong. Measured in iPad minis, it’s a modest bargain.",
         "url": "https://www.cfr.org/articles/big-macs-say-the-dollar-is-way-overvalued-ipad-minis-say-its-not-so"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/spillover/spillover-summer-reading-the-best-books-on-forecasting-silicon-valley-and-the-future",
-        "source": "Council on Foreign Relations",
-        "title": "Spillover Summer Reading: The Best Books on Forecasting, Silicon Valley, and the Future",
-        "publicationDate": "2026-08-05",
-        "category": "Technology",
-        "summary": "In this episode of The Spillover, Rebecca Patterson and Sebastian Mallaby make the case for their favorite summer reads. Patterson opens with Today Then by Dave Walter, a 1992 collection of 1890s essays forecasting the twentieth century. Her verdict on the quality of their predictions? “Pretty bad.” Columnist Bill Nye (not the Science Guy) guessed […]",
-        "url": "https://www.cfr.org/podcasts/spillover/spillover-summer-reading-the-best-books-on-forecasting-silicon-valley-and-the-future"
     },
     {
         "id": "https://www.heritage.org/global-politics/report/democratic-mandate-sovereign-duty-the-test-hungarys-new-government",
