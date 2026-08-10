@@ -1,14 +1,5 @@
 [
     {
-        "id": "LSB11467",
-        "source": "Congressional Research Service",
-        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
-    },
-    {
         "id": "R49123",
         "source": "Congressional Research Service",
         "title": "SBA’s Office of Inspector General and Its Relationship with Congress: In Brief",
@@ -18,13 +9,22 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49123/R49123.1.pdf"
     },
     {
+        "id": "LSB11467",
+        "source": "Congressional Research Service",
+        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
+    },
+    {
         "id": "R48934",
         "source": "Congressional Research Service",
         "title": "Introduction to Tribal Forestry",
         "publicationDate": "2026-08-10",
         "category": "Other",
         "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.4.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.5.pdf"
     },
     {
         "id": "RS20946",
@@ -189,12 +189,21 @@
         "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
     },
     {
+        "id": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
+        "source": "NPR Politics",
+        "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "The ex-Olympian accused of damaging the reflecting pool tells NPR the experience has been \"Orwellian\" and \"Kafkaesque.\" And it's not over yet: His lawyers are fighting to close the case permanently.",
+        "url": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight"
+    },
+    {
         "id": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
         "source": "NPR Politics",
         "title": "Trump and RFK Jr. try again to upend vaccines for kids",
         "publicationDate": "2026-08-10",
         "category": "Other",
-        "summary": "President Trump expected to sign executive order that once again tries to upend the vaccines children receive to protect them against measles, mumps, tetanus, whooping cough and other dangerous diseases.",
+        "summary": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule.",
         "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order"
     },
     {
@@ -225,13 +234,13 @@
         "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump"
     },
     {
-        "id": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-        "source": "NPR Politics",
-        "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
+        "id": "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle",
+        "source": "PBS NewsHour Politics",
+        "title": "Todd Blanche sworn in as attorney general after bruising confirmation battle",
         "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share.",
-        "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll"
+        "category": "attorney general",
+        "summary": "With the confirmation fight behind him, Blanche now faces the challenge of having to navigate the demands of a president who has made no secret his desire to use the law enforcement agency to target his political foes.",
+        "url": "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations",
@@ -270,13 +279,31 @@
         "url": "https://www.pbs.org/newshour/politics/trump-announces-staff-secretary-will-scharf-who-helped-secure-ballroom-approval-will-be-his-new-white-house-counsel"
     },
     {
-        "id": "https://www.pbs.org/newshour/world/watch-live-hegseth-speaks-at-joint-base-lindsey-graham-renaming-ceremony",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Joint Base Charleston renamed for Sen. Lindsey Graham",
+        "id": "https://thehill.com/homenews/senate/6021261-cassidy-trump-mmr-vaccine-order/",
+        "source": "The Hill",
+        "title": "Cassidy blasts vaccine order, saying Trump has no 'expertise to make these changes'",
         "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "The U.S. Air Force is renaming Joint Base Charleston in honor of the late South Carolina Sen. Lindsey Graham.",
-        "url": "https://www.pbs.org/newshour/world/watch-live-hegseth-speaks-at-joint-base-lindsey-graham-renaming-ceremony"
+        "category": "Senate",
+        "summary": "Sen. Bill Cassidy (R-La.) blasted an executive order President Trump signed Monday that splits the measles, mumps and rubella (MMR) shot across three separate visits. “I’m a doctor. This executive order is wrong. The President does not have the expertise to make these changes. Vaccines are overwhelmingly safe. Vaccines are effective. Vaccines DO NOT cause...",
+        "url": "https://thehill.com/homenews/senate/6021261-cassidy-trump-mmr-vaccine-order/"
+    },
+    {
+        "id": "https://thehill.com/policy/energy-environment/6020840-july-hottest-month-noaa/",
+        "source": "The Hill",
+        "title": "July was hottest month on record in contiguous US: NOAA",
+        "publicationDate": "2026-08-10",
+        "category": "Energy & Environment",
+        "summary": "July marked the hottest month on record in the contiguous U.S., according to the National Oceanic and Atmospheric Administration (NOAA). Temperatures in the mainland 48 states and Washington, D.C., averaged 76.9 degrees Fahrenheit. That was roughly 0.1 to 0.2 degrees hotter than July 1936 and July 2012, according to the NOAA, which has records dating...",
+        "url": "https://thehill.com/policy/energy-environment/6020840-july-hottest-month-noaa/"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6021244-house-bipartisan-russia-sanctions-bill/",
+        "source": "The Hill",
+        "title": "Bipartisan House members introduce Graham’s Russia sanctions bill",
+        "publicationDate": "2026-08-10",
+        "category": "Foreign Policy",
+        "summary": "A bipartisan group of House lawmakers introduced on Monday companion legislation to the Russia sanctions bill that passed the Senate earlier this month, a symbolic move but one that signals critical support. Reps. Michael McCaul (R-Texas) and Steny Hoyer (D-Md.) introduced the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 alongside 16 of...",
+        "url": "https://thehill.com/homenews/house/6021244-house-bipartisan-russia-sanctions-bill/"
     },
     {
         "id": "https://thehill.com/policy/healthcare/6021019-paul-johnson-release-fauci-texts/",
@@ -297,31 +324,31 @@
         "url": "https://thehill.com/policy/healthcare/6021147-trump-executive-order-mmr-vaccine/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6021067-americans-back-social-media-oversight/",
-        "source": "The Hill",
-        "title": "Most favor stronger social media oversight: Survey",
+        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
+        "source": "New York Times Politics",
+        "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
         "publicationDate": "2026-08-10",
-        "category": "Technology",
-        "summary": "Most Americans back stronger social media oversight, according to a new survey. In the Reuters/Ipsos poll, 61 percent of respondents said that additional government oversight is needed for social media companies, 27 percent were against additional government oversight, and 17 percent did not respond or were unsure. More than half of all Republicans, Democrats and...",
-        "url": "https://thehill.com/policy/technology/6021067-americans-back-social-media-oversight/"
+        "category": "Foreign Policy",
+        "summary": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
+        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6019407-trump-swears-in-todd-blanche/",
-        "source": "The Hill",
-        "title": "Live updates: Trump signs executive order on vaccines, taking aim at childhood schedule",
+        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html",
+        "source": "New York Times Politics",
+        "title": "How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed",
         "publicationDate": "2026-08-10",
-        "category": "Healthcare",
-        "summary": "President Trump signed an executive order Monday afternoon that changes the childhood immunization schedule, taking aim at the measles, mumps and rubella shot, which he calls for splitting across three separate visits. Health and Human Services Secretary Robert F. Kennedy Jr. and National Institutes of Health Director Dr. Jay Bhattacharya joined him in the Oval Office....",
-        "url": "https://thehill.com/homenews/administration/6019407-trump-swears-in-todd-blanche/"
+        "category": "Defense",
+        "summary": "Documents released by the White House shed new light on the demise of an often-overlooked 2017 F.B.I. investigation.",
+        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6020953-water-cyber-shield-act-schiff-klobuchar/",
-        "source": "The Hill",
-        "title": "Senate Democrats unveil cybersecurity bill after attacks on water infrastructure",
+        "id": "https://www.nytimes.com/2026/08/10/us/politics/reagan-airport-closure-grand-prix.html",
+        "source": "New York Times Politics",
+        "title": "D.C.-Area Airport to Close for 3 Hours for Grand Prix Event",
         "publicationDate": "2026-08-10",
-        "category": "Technology",
-        "summary": "Democratic Sens. Adam Schiff (Calif.) and Amy Klobuchar (Minn.) unveiled a new cybersecurity bill dubbed the Water Cyber Shield Act on Monday in an effort to prevent attacks on water infrastructure. The legislation would increase the drinking water and clean water state revolving funds by $300 million annually for cybersecurity improvements, and it would allow...",
-        "url": "https://thehill.com/homenews/senate/6020953-water-cyber-shield-act-schiff-klobuchar/"
+        "category": "Airlines and Airplanes",
+        "summary": "The Federal Aviation Administration has imposed other closures at Reagan National Airport over events for the 250th anniversary of the nation’s founding.",
+        "url": "https://www.nytimes.com/2026/08/10/us/politics/reagan-airport-closure-grand-prix.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html",
@@ -342,31 +369,13 @@
         "url": "https://www.nytimes.com/2026/08/10/us/politics/hegseth-base-lindsey-graham.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html",
-        "source": "New York Times Politics",
-        "title": "Trump Concedes There Was ‘Some Contractor Error’ in Reflecting Pool Renovations",
+        "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/",
+        "source": "Washington Post Politics",
+        "title": "Trump demands major changes to childhood vaccine recommendations",
         "publicationDate": "2026-08-10",
-        "category": "Washington (DC)",
-        "summary": "The president had insisted for weeks that the landmarks’ algae-stained waters and peeling lining were the fault of vandals, not the project itself.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html",
-        "source": "New York Times Politics",
-        "title": "Trump Shrugs Off A.I. and Data Center Concerns as Voters Grow Anxious",
-        "publicationDate": "2026-08-10",
-        "category": "United States Politics and Government",
-        "summary": "The president and his top aides have been especially bullish about data centers, despite national blowback against the facilities.",
-        "url": "https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html",
-        "source": "New York Times Politics",
-        "title": "Minnesota’s Democratic Senate Primary Pits Angie Craig Against Peggy Flanagan",
-        "publicationDate": "2026-08-10",
-        "category": "Elections",
-        "summary": "The Senate primary race in Minnesota will be the latest test of left-wing energy in the party, in a state that was convulsed by the Trump administration’s deadly immigration crackdown this winter.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html"
+        "category": "Other",
+        "summary": "The president signed an order advising states to revise their rules. He also called for narrowing which vaccines are administered to children and splitting shots into multiple appointments.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/10/max-miller-remains-gop-nominee-ohio-house-race/",
@@ -403,15 +412,6 @@
         "category": "Defense",
         "summary": "Dennis Kirk, a Project 2025 author who had worked for then-Director of National Intelligence Tulsi Gabbard, may now run Interior’s inspector general office.",
         "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-nominates-loyalist-office-that-would-oversee-reflecting-pool-review/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/",
-        "source": "Washington Post Politics",
-        "title": "Trump administration order would upend nation’s childhood vaccine schedule",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The president has pushed to narrow which vaccines are administered to children and split shots up into multiple appointments.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
