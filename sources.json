@@ -1,14 +1,5 @@
 [
     {
-        "id": "R48934",
-        "source": "Congressional Research Service",
-        "title": "Introduction to Tribal Forestry",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.5.pdf"
-    },
-    {
         "id": "LSB11467",
         "source": "Congressional Research Service",
         "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
@@ -16,6 +7,15 @@
         "category": "Defense",
         "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
+    },
+    {
+        "id": "R48934",
+        "source": "Congressional Research Service",
+        "title": "Introduction to Tribal Forestry",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.5.pdf"
     },
     {
         "id": "R49123",
@@ -189,6 +189,15 @@
         "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
     },
     {
+        "id": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
+        "source": "NPR Politics",
+        "title": "Alabama heads into a special election after redistricting",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "Alabama voters are again selecting candidates for four Congressional districts after the state changed the district map to favor Republicans. The redistricting is causing confusion among voters.",
+        "url": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting"
+    },
+    {
         "id": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
         "source": "NPR Politics",
         "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
@@ -225,13 +234,31 @@
         "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters"
     },
     {
-        "id": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-        "source": "NPR Politics",
-        "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+        "id": "https://www.pbs.org/newshour/show/state-voting-officials-join-cisa-security-call-with-election-85-days-away",
+        "source": "PBS NewsHour Politics",
+        "title": "State voting officials join CISA security call with election 85 days away",
+        "publicationDate": "2026-08-10",
+        "category": "Technology",
+        "summary": "CISA, the federal agency tasked with protecting the cybersecurity of the nation's critical infrastructure, held a conference call with state election officials to discuss the upcoming midterms. Despite President Trump's claims about the risk of hackers targeting voting systems, this was one of CISA's first broad outreach efforts with Election Day just 85 days away. Liz Landers reports.",
+        "url": "https://www.pbs.org/newshour/show/state-voting-officials-join-cisa-security-call-with-election-85-days-away"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates",
+        "source": "PBS NewsHour Politics",
+        "title": "Tamara Keith and Amy Walter on the energy behind outsider candidates",
         "publicationDate": "2026-08-10",
         "category": "Other",
-        "summary": "Lindell, of MyPillow, plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents.",
-        "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump"
+        "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including where Democratic primary voters stand this election year, the energy behind outsider candidates, the strength of President Trump's endorsement in South Carolina and GOP Rep. Max Miller staying in the race despite abuse allegations.",
+        "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death",
+        "source": "PBS NewsHour Politics",
+        "title": "Family of Marine veteran imprisoned in Russia warns he's near death",
+        "publicationDate": "2026-08-10",
+        "category": "Foreign Policy",
+        "summary": "The family of a U.S. Marine veteran imprisoned in Russia says his health is deteriorating and he may be on the brink of death. Robert Gilman was arrested in Russia in 2022 for allegedly hitting a Russian police officer. He was sentenced to four and a half years in prison, but that sentence has since been extended to a decade. Stephanie Sy spoke with Kieran Ramsey, Gilman's advocate in the U.S.",
+        "url": "https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death"
     },
     {
         "id": "https://www.pbs.org/newshour/health/this-medicare-part-d-subsidy-is-expiring-we-answered-your-questions",
@@ -243,85 +270,67 @@
         "url": "https://www.pbs.org/newshour/health/this-medicare-part-d-subsidy-is-expiring-we-answered-your-questions"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle",
+        "id": "https://www.pbs.org/newshour/show/how-pop-culture-and-social-media-is-changing-how-people-talk",
         "source": "PBS NewsHour Politics",
-        "title": "Todd Blanche sworn in as attorney general after bruising confirmation battle",
+        "title": "How pop culture and social media is changing how people talk",
         "publicationDate": "2026-08-10",
-        "category": "attorney general",
-        "summary": "With the confirmation fight behind him, Blanche now faces the challenge of having to navigate the demands of a president who has made no secret his desire to use the law enforcement agency to target his political foes.",
-        "url": "https://www.pbs.org/newshour/politics/todd-blanche-sworn-in-as-attorney-general-after-bruising-confirmation-battle"
+        "category": "Other",
+        "summary": "Judy Woodruff has been speaking to a host of experts about the country's 250th anniversary for her \"In Pursuit of Happiness\" podcast. That includes conversations about the roles satire, national parks and music have played in our history. The latest episode looks at how American English evolved. As it turns out, there's one word that reveals a lot about the way we speak.",
+        "url": "https://www.pbs.org/newshour/show/how-pop-culture-and-social-media-is-changing-how-people-talk"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump signs executive order on childhood vaccine recommendations",
+        "id": "https://thehill.com/policy/healthcare/6021511-aap-blasts-trump-vaccine-directive/",
+        "source": "The Hill",
+        "title": "American Academy of Pediatrics calls Trump vaccine order 'dangerous'",
         "publicationDate": "2026-08-10",
         "category": "Healthcare",
-        "summary": "The order recommends separating the MMR vaccine into three different shots administered in separate visits, and directs the nation's health department to improve vaccine research, says a White House fact sheet.",
-        "url": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations"
+        "summary": "The president of the American Academy of Pediatrics blasted President Trump’s Monday executive order calling for fewer childhood vaccines. \"As measles cases reach a 35-year high in the U.S. and with cold and flu season quickly approaching, today's executive order on vaccines is not only disheartening but dangerous,” Dr. Andrew Racine said in a release. ...",
+        "url": "https://thehill.com/policy/healthcare/6021511-aap-blasts-trump-vaccine-directive/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/ocasio-cortez-says-shes-freezing-her-eggs-as-she-considers-her-political-career",
-        "source": "PBS NewsHour Politics",
-        "title": "Ocasio-Cortez says she's freezing her eggs as she considers her political career",
-        "publicationDate": "2026-08-10",
-        "category": "alexandria ocasio-cortez",
-        "summary": "The 36-year-old Ocasio-Cortez announced her decision on social media before explaining in an ABC \"This Week\" interview Sunday she has not ruled out running for president or for U.S. Senate.",
-        "url": "https://www.pbs.org/newshour/politics/ocasio-cortez-says-shes-freezing-her-eggs-as-she-considers-her-political-career"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/nation/washington-grapples-with-a-1-4-billion-national-guard-deployment-extension-until-2029",
-        "source": "PBS NewsHour Politics",
-        "title": "Washington grapples with a $1.4 billion National Guard deployment extension until 2029",
-        "publicationDate": "2026-08-10",
-        "category": "Home Rule Act",
-        "summary": "Residents and a new cadre of local officials see in it an unacceptable attempt by the federal government to restrict the heavily Democratic city's autonomy.",
-        "url": "https://www.pbs.org/newshour/nation/washington-grapples-with-a-1-4-billion-national-guard-deployment-extension-until-2029"
-    },
-    {
-        "id": "https://thehill.com/newsletters/defense-national-security/6021434-trump-struggles-to-gain-leverage-with-iran/",
+        "id": "https://thehill.com/newsletters/healthcare/6021506-white-house-thrusts-vaccines-back-into-headlines/",
         "source": "The Hill",
-        "title": "Trump struggles to gain leverage with Iran",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Trump struggles to gain leverage with Iran America’s depleted arsenal of premier offensive and defensive weapons is undermining President Trump’s leverage with Iran. © Natasha Kaiser The military’s supply of its premium long-range missiles and interceptors...",
-        "url": "https://thehill.com/newsletters/defense-national-security/6021434-trump-struggles-to-gain-leverage-with-iran/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6021249-cooper-leads-nc-senate-poll/",
-        "source": "The Hill",
-        "title": "Cooper maintains 7-point lead over Whatley in NC Senate race: Poll",
+        "title": "White House thrusts vaccines back into headlines",
         "publicationDate": "2026-08-10",
         "category": "Healthcare",
-        "summary": "Democrat Roy Cooper has a healthy lead over Republican Michael Whatley in the North Carolina Senate race, according to a new poll. Half of the 915 respondents to the Carolina Forward survey, conducted by left-leaning Change Research, backed Cooper with less than three months before the general election. That gave the former two-term North Carolina...",
-        "url": "https://thehill.com/homenews/campaign/6021249-cooper-leads-nc-senate-poll/"
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story White House thrusts vaccines back into headlines The Trump administration appeared to be backing away from making moves on changing vaccine policy in recent months, perhaps wary of political backlash ahead of the midterm elections. But it all came roaring...",
+        "url": "https://thehill.com/newsletters/healthcare/6021506-white-house-thrusts-vaccines-back-into-headlines/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6021387-max-miller-seat-tossup/",
+        "id": "https://thehill.com/homenews/6021367-social-media-safety-lawsuits-proceed/",
         "source": "The Hill",
-        "title": "Cook Political Report shifts Max Miller seat to toss-up",
+        "title": "Tech companies must face thousands of lawsuits over social media addiction, appeals court rules",
         "publicationDate": "2026-08-10",
-        "category": "House",
-        "summary": "The nonpartisan Cook Political Report shifted Rep. Max Miller’s (R-Ohio) seat from “Likely Republican” to “Toss Up” on Monday, underscoring the growing political fallout from allegations of domestic violence against the incumbent. Miller has faced mounting scrutiny in recent weeks over allegations from his ex-wife, Emily Moreno, that he hurled hot water at her, pointed...",
-        "url": "https://thehill.com/homenews/house/6021387-max-miller-seat-tossup/"
+        "category": "Technology",
+        "summary": "A U.S. Appeals Court on Monday declined to drop the thousands of online safety lawsuits against social media firms, ruling Meta and TikTok appealed the cases too early. In an opinion issued Monday, the 9th U.S. Circuit Court of Appeals determined the technology liability shield — Section 230 of the Communications Decency Act — cannot...",
+        "url": "https://thehill.com/homenews/6021367-social-media-safety-lawsuits-proceed/"
     },
     {
-        "id": "https://thehill.com/newsletters/energy-environment/6021341-trump-waives-shipping-rules-prices-down/",
+        "id": "https://thehill.com/policy/healthcare/6021466-trump-signs-vaccine-order/",
         "source": "The Hill",
-        "title": "Trump again waives shipping rules to bring prices down",
+        "title": "What to know about Trump's vaccine executive order",
         "publicationDate": "2026-08-10",
-        "category": "Energy & Environment Newsletter",
-        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump again waives shipping rules to bring prices down The Trump administration is once again waiving U.S. shipping rules as part of an effort to keep gasoline and other fuel costs down, the White House said Monday. © AP Photo/Damian Dovarganes In particular, it...",
-        "url": "https://thehill.com/newsletters/energy-environment/6021341-trump-waives-shipping-rules-prices-down/"
+        "category": "Healthcare",
+        "summary": "President Trump signed an executive order Monday advancing \"Make America Healthy Again\" vaccine priorities, issuing recommendations to split up combined vaccines and to reduce the number of childhood immunizations. \"Effective immediately, my administration is recognizing gold standard childhood vaccine recommendations for only 11 core vaccinations against the most serious and dangerous diseases, along with the...",
+        "url": "https://thehill.com/policy/healthcare/6021466-trump-signs-vaccine-order/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6021261-cassidy-trump-mmr-vaccine-order/",
+        "id": "https://thehill.com/newsletters/technology/6021464-trump-data-center-political-battle/",
         "source": "The Hill",
-        "title": "Cassidy blasts vaccine order, saying Trump has no 'expertise to make these changes'",
+        "title": "Trump wades into data center debate amid political battle",
         "publicationDate": "2026-08-10",
-        "category": "Senate",
-        "summary": "Sen. Bill Cassidy (R-La.) blasted an executive order President Trump signed Monday that splits the measles, mumps and rubella (MMR) shot across three separate visits. “I’m a doctor. This executive order is wrong. The President does not have the expertise to make these changes. Vaccines are overwhelmingly safe. Vaccines are effective. Vaccines DO NOT cause...",
-        "url": "https://thehill.com/homenews/senate/6021261-cassidy-trump-mmr-vaccine-order/"
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story Trump backs data centers as Texas sets new standards President Trump is touting the benefits of AI data centers after Texas moved to more strictly regulate the industry, which has rapidly become a political lightning rod across the political spectrum. © AP Photo/Justin Rex Trump waded into the debate...",
+        "url": "https://thehill.com/newsletters/technology/6021464-trump-data-center-political-battle/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html",
+        "source": "New York Times Politics",
+        "title": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’",
+        "publicationDate": "2026-08-10",
+        "category": "United States Politics and Government",
+        "summary": "Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”",
+        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html",
@@ -360,15 +369,6 @@
         "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/reagan-airport-closure-grand-prix.html",
-        "source": "New York Times Politics",
-        "title": "D.C.-Area Airport to Close for 3 Hours for Grand Prix Event",
-        "publicationDate": "2026-08-10",
-        "category": "Airlines and Airplanes",
-        "summary": "The Federal Aviation Administration has imposed other closures at Reagan National Airport over events for the 250th anniversary of the nation’s founding.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/reagan-airport-closure-grand-prix.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/",
         "source": "Washington Post Politics",
         "title": "Trump demands major changes to childhood vaccine recommendations",
@@ -376,6 +376,15 @@
         "category": "Other",
         "summary": "The president signed an order advising states to revise their rules. He also called for narrowing which vaccines are administered to children and splitting shots into multiple appointments.",
         "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/10/gop-lawmakers-release-fauci-texts-discussing-covid-vaccine-pregnancy/",
+        "source": "Washington Post Politics",
+        "title": "GOP lawmakers release Fauci texts discussing covid vaccine and pregnancy",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "The senators said the texts are among more than 34,000 recovered from a copy of the former government official’s iPhone.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/10/gop-lawmakers-release-fauci-texts-discussing-covid-vaccine-pregnancy/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/10/max-miller-remains-gop-nominee-ohio-house-race/",
@@ -403,15 +412,6 @@
         "category": "Economy",
         "summary": "Voters right now broadly disapprove of the economy, Trump and, increasingly, Republicans in Congress.",
         "url": "https://www.washingtonpost.com/politics/2026/08/10/how-economy-is-hurting-republicans-midterm-chances/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-nominates-loyalist-office-that-would-oversee-reflecting-pool-review/",
-        "source": "Washington Post Politics",
-        "title": "Trump nominates loyalist to office that would oversee Reflecting Pool review",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "Dennis Kirk, a Project 2025 author who had worked for then-Director of National Intelligence Tulsi Gabbard, may now run Interior’s inspector general office.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-nominates-loyalist-office-that-would-oversee-reflecting-pool-review/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
