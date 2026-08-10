@@ -1,5 +1,14 @@
 [
     {
+        "id": "RS20946",
+        "source": "Congressional Research Service",
+        "title": "Medicare: Insolvency Projections",
+        "publicationDate": "2026-08-10",
+        "category": "Economy",
+        "summary": "Medicare, the federal health insurance program that pays for covered health services for enrolled beneficiaries, provided coverage to approximately 70.7 million beneficiaries in 2026 and incurred total expenditures of approximately $1.33 trillion, of which $481 billion was paid by Part A. Part A, also known as Hospital Insurance (HI), covers primarily inpatient care at health facilities such as hospitals and...",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS20946/RS20946.31.pdf"
+    },
+    {
         "id": "IF11308",
         "source": "Congressional Research Service",
         "title": "USMCA: Labor Provisions",
@@ -16,6 +25,15 @@
         "category": "Other",
         "summary": "RAND Europe examined the size, demographics and support needs of current and former RAF personnel and their families for the RAF Benevolent Fund to inform future welfare planning and service delivery across the wider RAF community.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3197-1.html"
+    },
+    {
+        "id": "https://www.heritage.org/parental-rights/commentary/the-next-parental-rights-fight-the-school-library",
+        "source": "Heritage Foundation",
+        "title": "The Next Parental Rights Fight Is in the School Library",
+        "publicationDate": "2026-08-10",
+        "category": "Foreign Policy",
+        "summary": "Last year, the Supreme Court reminded public schools of a truth too often forgotten: parents do not surrender their religious convictions at the schoolhouse door. In Mahmoud v. Taylor , the Court held that Montgomery County, Maryland, could not force parents to choose between their faith and participation in public education. The county introduced LGBTQ-inclusive storybooks for elementary students, initially...",
+        "url": "https://www.heritage.org/parental-rights/commentary/the-next-parental-rights-fight-the-school-library"
     },
     {
         "id": "https://www.heritage.org/american-history/commentary/americas-museum-culture-needs-overhaul",
@@ -88,6 +106,24 @@
         "category": "Other",
         "summary": "What matters when time is short? Ben Sasse joins EconTalk’s Russ Roberts for a candid conversation about mortality, faith, family, work, and the institutions that shape American life.",
         "url": "https://cms.hoover.org/research/ben-sasse-faith-family-and-facing-death"
+    },
+    {
+        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
+        "source": "European Council on Foreign Relations",
+        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
+        "publicationDate": "2026-08-10",
+        "category": "Africa",
+        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
+        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
+    },
+    {
+        "id": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/",
+        "source": "European Council on Foreign Relations",
+        "title": "Anti-corruption sanctions: Preparing for the time after Trump",
+        "publicationDate": "2026-08-10",
+        "category": "United States",
+        "summary": "Anti-corruption sanctions—and even the prospect of them—under the next US administration will be crucial to chances of peace in many parts of the world. Here’s how Europeans can play their part",
+        "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
     },
     {
         "id": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
@@ -180,12 +216,39 @@
         "url": "https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families"
     },
     {
+        "id": "https://thehill.com/homenews/administration/6019407-trump-swears-in-todd-blanche/",
+        "source": "The Hill",
+        "title": "Live updates: Trump set to sign order on vaccine 'flexibility and research'",
+        "publicationDate": "2026-08-10",
+        "category": "Administration",
+        "summary": "President Trump will swear in Todd Blanche as the next attorney general Monday, following weeks of controversy that ended in the Senate early Saturday morning with a 50-49 vote to confirm the appointment. Following that, he will sign an executive order that the White House said focuses on \"more vaccine flexibility and research.\" On the...",
+        "url": "https://thehill.com/homenews/administration/6019407-trump-swears-in-todd-blanche/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6020808-norad-intercepts-aircraft-bedminster-trump/",
+        "source": "The Hill",
+        "title": "2 aircraft intercepted while Trump watched New Jersey golf tournament",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "The North American Aerospace ​Defense Command (NORAD) said Sunday it intercepted two aircraft over Bedminster, N.J., where President Trump watched the LIV Golf Bedminster tournament at his New Jersey golf course. According to a statement from NORAD, \"F-16s intercepted multiple general aviation aircraft today that violated temporary flight restrictions over Bedminster, NJ.\" \"All aircraft were...",
+        "url": "https://thehill.com/homenews/administration/6020808-norad-intercepts-aircraft-bedminster-trump/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6020740-trump-attends-patriot-games/",
+        "source": "The Hill",
+        "title": "What to know about the 'Patriot Games'",
+        "publicationDate": "2026-08-10",
+        "category": "Administration",
+        "summary": "President Trump is headed to Geneva, Ohio, on Tuesday to cheer on young Americans participating in the \"Patriot Games,\" a sporting competition created by his administration to celebrate America’s 250th anniversary. One male and one female athlete from each of the 50 states were selected to participate. The participants were asked to film a video...",
+        "url": "https://thehill.com/homenews/administration/6020740-trump-attends-patriot-games/"
+    },
+    {
         "id": "https://thehill.com/homenews/6020786-trump-demands-iran-compensation/",
         "source": "The Hill",
         "title": "Trump demands compensation for US from Iran",
         "publicationDate": "2026-08-10",
         "category": "Defense",
-        "summary": "President Trump on Monday demanded from Iran compensation for those who have died amid the conflict, after Tehran called for compensation for damages. “I see that Representatives of the Islamic Republic of Iran are asking for compensation for the damage done to them during the last five month Military Conflict (started because, THEY WILL NOT...",
+        "summary": "President Trump on Monday demanded reparations from Iran for those who have died amid the conflict, after Tehran called for compensation for damages. “I see that Representatives of the Islamic Republic of Iran are asking for compensation for the damage done to them during the last five month Military Conflict (started because, THEY WILL NOT...",
         "url": "https://thehill.com/homenews/6020786-trump-demands-iran-compensation/"
     },
     {
@@ -196,33 +259,6 @@
         "category": "Energy & Environment",
         "summary": "The U.S.’s emergency oil reserve has fallen below 300 million barrels of oil for the first time since it was being filled decades ago. New Energy Department data shows that the Strategic Petroleum Reserve (SPR) contained 298.7 million barrels as of Friday. The last time the level was below 300 million barrels was in the early 1980s. The drop...",
         "url": "https://thehill.com/policy/energy-environment/6020738-spr-drops-below-300m-barrels/"
-    },
-    {
-        "id": "https://thehill.com/opinion/technology/6019668-gao-reports-it-savings/",
-        "source": "The Hill",
-        "title": "Modernizing government technology is starting to pay off — let's keep going",
-        "publicationDate": "2026-08-10",
-        "category": "Technology",
-        "summary": "A Government Accountability Office report indicates that the Technology Modernization Fund has begun yielding significant savings and cybersecurity improvements, prompting calls for Congress to reauthorize the fund before its expiration this September.",
-        "url": "https://thehill.com/opinion/technology/6019668-gao-reports-it-savings/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6020662-pentagon-renames-south-carolina-base-lindsey-graham/",
-        "source": "The Hill",
-        "title": "Pentagon renames South Carolina air base after Graham",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "CHARLESTON, S.C. — The Pentagon officially renamed an air base in South Carolina after Sen. Lindsey Graham (R-S.C.), a fierce defense hawk who died suddenly last month. Joint Base Charleston, which supports more than 60 Pentagon and federal agencies and is located in North Charleston, S.C., was renamed to Joint Base Lindsey Graham on Monday....",
-        "url": "https://thehill.com/policy/defense/6020662-pentagon-renames-south-carolina-base-lindsey-graham/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6020596-begala-despises-socialists/",
-        "source": "The Hill",
-        "title": "Begala: 'I can't stand' socialists",
-        "publicationDate": "2026-08-10",
-        "category": "Campaign",
-        "summary": "Former President Clinton’s White House strategist Paul Begala said he despises socialists, as the democratic socialist movement racks up wins in recent primaries. “Abdul won a narrow victory, and more problematic for him, he has a narrow coalition. The socialists all say — I'm a moderate. I don't like the socialists. I can't stand them,”...",
-        "url": "https://thehill.com/homenews/campaign/6020596-begala-despises-socialists/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html",
@@ -270,6 +306,42 @@
         "url": "https://www.nytimes.com/2026/08/09/us/politics/trump-will-scharf-white-house-counsel.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/08/10/how-economy-is-hurting-republicans-midterm-chances/",
+        "source": "Washington Post Politics",
+        "title": "How the economy is hurting Republicans’ midterm chances",
+        "publicationDate": "2026-08-10",
+        "category": "Economy",
+        "summary": "Voters right now broadly disapprove of the economy, Trump and, increasingly, Republicans in Congress.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/10/how-economy-is-hurting-republicans-midterm-chances/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-nominates-loyalist-office-that-would-oversee-reflecting-pool-review/",
+        "source": "Washington Post Politics",
+        "title": "Trump nominates loyalist to office that would oversee Reflecting Pool review",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "Dennis Kirk, a Project 2025 author who had worked for then-Director of National Intelligence Tulsi Gabbard, may now run Interior’s inspector general office.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-nominates-loyalist-office-that-would-oversee-reflecting-pool-review/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/",
+        "source": "Washington Post Politics",
+        "title": "Trump administration order would upend nation’s childhood vaccine schedule",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "The president has pushed to narrow which vaccines are administered to children and split shots up into multiple appointments.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/books/2026/08/10/president-barack-obama-launches-new-podcast/",
+        "source": "Washington Post Politics",
+        "title": "Former president Barack Obama launches a new podcast",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "The show will feature interviews with guests about key books that have left an impact on them. It starts Sept. 24 on Audible.",
+        "url": "https://www.washingtonpost.com/books/2026/08/10/president-barack-obama-launches-new-podcast/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/08/10/senate-is-recess-until-mid-september/",
         "source": "Washington Post Politics",
         "title": "What the Senate did and didn’t get done in the final hours before recess",
@@ -277,42 +349,6 @@
         "category": "Other",
         "summary": "Before leaving Saturday, lawmakers confirmed President Trump’s attorney general pick and passed a spending bill.",
         "url": "https://www.washingtonpost.com/politics/2026/08/10/senate-is-recess-until-mid-september/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/voters-want-fighters-where-is-limit/",
-        "source": "Washington Post Politics",
-        "title": "Voters want fighters. But where is the limit?",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "For years — really ever since the political rise of President Donald Trump — voters have told pollsters and reporters that they want to elect so-called fighters. This trend has also led to more candidates who attempt to shake off true political scandals.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/voters-want-fighters-where-is-limit/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/nation/2026/08/10/tupac-shakur-murder-what-know-trial-begins-decades-after-1996-shooting/",
-        "source": "Washington Post Politics",
-        "title": "Why a murder trial is beginning nearly 30 years after Tupac Shakur’s death",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "For decades, no one was arrested in Shakur’s 1996 killing. Then an ex-gang leader, Duane \"Keffe D\" Davis, started talking.",
-        "url": "https://www.washingtonpost.com/nation/2026/08/10/tupac-shakur-murder-what-know-trial-begins-decades-after-1996-shooting/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/primary-upsets-scramble-fight-control-congress/",
-        "source": "Washington Post Politics",
-        "title": "Eleventh-hour primary upsets muddy the race for control of Congress",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "Unexpected winners have complicated both parties’ paths to control of the House and Senate.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/primary-upsets-scramble-fight-control-congress/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/unusual-twist-race-lindsey-grahams-seat-no-clear-trump-candidate/",
-        "source": "Washington Post Politics",
-        "title": "A twist in the race for Lindsey Graham’s seat: No clear Trump-aligned candidate",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The president backs Graham’s sister, but each contender in South Carolina’s Senate primary has found themselves out of step with him in some way, and a runoff is likely.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/unusual-twist-race-lindsey-grahams-seat-no-clear-trump-candidate/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
@@ -351,13 +387,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+        "id": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
         "publicationDate": "2026-08-10",
         "category": "Other",
-        "summary": "Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom",
-        "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1"
+        "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/ba95957a-e4fa-4caf-8ddb-ad0e203eef29?syn-25a6b1a6=1",
@@ -367,6 +403,24 @@
         "category": "Other",
         "summary": "New consortium is the second major investor aiming for control of North America’s only cobalt refinery",
         "url": "https://www.ft.com/content/ba95957a-e4fa-4caf-8ddb-ad0e203eef29?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/63718844-91f6-46c9-beae-fc3906f4dbb4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Ukraine needs more help in the battle of the sky",
+        "publicationDate": "2026-08-10",
+        "category": "Foreign Policy",
+        "summary": "Kyiv is short of interceptors to withstand Russia’s ballistic missile attacks",
+        "url": "https://www.ft.com/content/63718844-91f6-46c9-beae-fc3906f4dbb4?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom",
+        "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/689c0487-af77-4e18-8b63-fa26ed373ce8?syn-25a6b1a6=1",
@@ -385,15 +439,6 @@
         "category": "Other",
         "summary": "7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales",
         "url": "https://www.ft.com/content/970da215-f4f1-43b6-a4d9-b9869d532476?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/9e8c9d7d-2466-4689-bc3e-06c0f93cb663",
-        "source": "Financial Times World",
-        "title": "Jacaranda by Gaël Faye — after the genocide",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "An award-winning novel moves between France and Rwanda to explore a national trauma through exile, silences and family secrets",
-        "url": "https://www.ft.com/content/9e8c9d7d-2466-4689-bc3e-06c0f93cb663"
     },
     {
         "id": "https://www.cfr.org/articles/the-bombing-of-nagasaki",
@@ -430,15 +475,6 @@
         "category": "Defense",
         "summary": "Former CIA China analyst Alice Miller challenges the Fairbank-era narrative framing modern China as revolutionary reaction to 1840's Opium War humiliation. She argues the modern Chinese state grew from centuries of commercial expansion and military-driven bureaucratic centralization.",
         "url": "https://cms.hoover.org/research/century-humiliation-myth-made-modern-china-alice-miller"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "publicationDate": "2026-08-09",
-        "category": "Other",
-        "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-        "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "IF12006",
@@ -484,6 +520,15 @@
         "category": "Foreign Policy",
         "summary": "For years, the fertility industry has attacked restorative reproductive medicine with two contradictory arguments. The first is that RRM is not real medicine. The American Society for Reproductive Medicine (ASRM) dismisses it as an unrecognized subspecialty, and editorials in the industry’s own journals characterize it as unscientific and ideologically driven. The second is that the infertility treatment is...",
         "url": "https://www.heritage.org/health-care-reform/commentary/what-the-fertility-industry-doesnt-want-couples-hear"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
+        "source": "European Council on Foreign Relations",
+        "title": "Latin America’s new imaginaries",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
+        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
@@ -540,13 +585,22 @@
         "url": "https://www.heritage.org/taxes/commentary/proposed-tax-hikes-nyc-and-elsewhere-spur-wealth-flight"
     },
     {
-        "id": "https://www.heritage.org/american-history/commentary/the-american-creed-did-not-drop-the-sky",
-        "source": "Heritage Foundation",
-        "title": "The American Creed Did Not Drop From the Sky",
+        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
+        "source": "European Council on Foreign Relations",
+        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
         "publicationDate": "2026-08-06",
-        "category": "Other",
-        "summary": "Is America a “creedal” nation, or one bound only by a unifying culture? This is one of several debates roiling conservatism these days. Conservatives may find solace in thinking, well, unlike our liberal brethren, at least we're not facing a takeover by communists who hate America. But this debate is vital. A new report by my friend and Heritage Foundation colleague Jay Richards settles the issue brilliantly. “We...",
-        "url": "https://www.heritage.org/american-history/commentary/the-american-creed-did-not-drop-the-sky"
+        "category": "Foreign Policy",
+        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
+        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
+    },
+    {
+        "id": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
+        "source": "European Council on Foreign Relations",
+        "title": "Hamas has agreed to disarm. Israel should now agree to peace",
+        "publicationDate": "2026-08-06",
+        "category": "Israel / Palestine",
+        "summary": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
+        "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
@@ -619,14 +673,5 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
-    },
-    {
-        "id": "R44863",
-        "source": "Congressional Research Service",
-        "title": "Child Welfare Funding in Brief: FY2017 Final Funding and the President’s FY2018 Request",
-        "publicationDate": "2017-06-07",
-        "category": "Economy",
-        "summary": "Child welfare; President’s FY2018 budget; final FY2017 appropriations; H.R. 244, P.L. 115-31; Title IV-E, foster care, kinship guardianship assistance, adoption assistance; Title IV-B, Child Welfare Services, Promoting Safe and Stable Families (PSSF), Court Improvement Program (CIP), Regional Partnership Grants (RPG); Child Abuse Prevention and Treatment Act (CAPTA); Adoption Opportunities; Adoption and Legal...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44863/R44863.6.pdf"
     }
 ]
