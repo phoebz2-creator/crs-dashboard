@@ -1,5 +1,32 @@
 [
     {
+        "id": "LSB11467",
+        "source": "Congressional Research Service",
+        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
+    },
+    {
+        "id": "R49123",
+        "source": "Congressional Research Service",
+        "title": "SBA’s Office of Inspector General and Its Relationship with Congress: In Brief",
+        "publicationDate": "2026-08-10",
+        "category": "Economy",
+        "summary": "Offices of the Inspector General (OIGs) exist in more than 70 federal agencies, including all Cabinet departments and larger agencies, numerous boards and commissions, and other entities. Together, OIGs and the Government Accountability Office (GAO) provide Congress with information and analysis to conduct oversight and, in the process, help Congress maintain its balance of power with the presidency. As with other...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49123/R49123.1.pdf"
+    },
+    {
+        "id": "R48934",
+        "source": "Congressional Research Service",
+        "title": "Introduction to Tribal Forestry",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.4.pdf"
+    },
+    {
         "id": "RS20946",
         "source": "Congressional Research Service",
         "title": "Medicare: Insolvency Projections",
@@ -7,15 +34,6 @@
         "category": "Economy",
         "summary": "Medicare, the federal health insurance program that pays for covered health services for enrolled beneficiaries, provided coverage to approximately 70.7 million beneficiaries in 2026 and incurred total expenditures of approximately $1.33 trillion, of which $481 billion was paid by Part A. Part A, also known as Hospital Insurance (HI), covers primarily inpatient care at health facilities such as hospitals and...",
         "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS20946/RS20946.31.pdf"
-    },
-    {
-        "id": "IF11308",
-        "source": "Congressional Research Service",
-        "title": "USMCA: Labor Provisions",
-        "publicationDate": "2026-08-10",
-        "category": "Foreign Policy",
-        "summary": "The U.S.-Mexico-Canada Agreement (USMCA) entered into force in 2020 (P.L. 116-113), replacing the 1994 North American Free Trade Agreement (NAFTA). Concerns among some Members of Congress about the protection of worker rights and enforceability were prominent issues in the NAFTA negotiation and debate over USMCA. Historically, U.S. labor advocates have expressed concerns over free trade agreements (FTAs) with...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11308/IF11308.11.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3197-1.html",
@@ -63,6 +81,15 @@
         "url": "https://www.heritage.org/american-history/commentary/americas-museum-culture-needs-overhaul"
     },
     {
+        "id": "https://www.hudson.org/national-security-defense/trump-signals-shift-economic-pressure-iran-rebeccah-heinrichs",
+        "source": "Hudson Institute",
+        "title": "Trump Signals Shift to Economic Pressure on Iran",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "Trump Signals Shift to Economic Pressure on Iran acabral-sanche… Mon, 08/10/2026 - 14:31 SVG In the Media Aug 10, 2026 Fox News Trump Signals Shift to Economic Pressure on Iran Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox News) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook...",
+        "url": "https://www.hudson.org/national-security-defense/trump-signals-shift-economic-pressure-iran-rebeccah-heinrichs"
+    },
+    {
         "id": "https://www.hudson.org/national-security-defense/diplomacy-iranian-nuclear-agenda-rebeccah-heinrichs",
         "source": "Hudson Institute",
         "title": "Diplomacy and the Iranian Nuclear Agenda",
@@ -99,13 +126,22 @@
         "url": "https://www.hudson.org/domestic-policy/how-salvage-science-faucis-wake-mike-gallagher"
     },
     {
-        "id": "https://www.hudson.org/technology/china-presses-weakness-americas-tech-policy-david-feith",
-        "source": "Hudson Institute",
-        "title": "China Presses a Weakness in America’s Tech Policy",
+        "id": "https://cms.hoover.org/research/straits-are-not-ok",
+        "source": "Hoover Institution",
+        "title": "The Straits Are Not OK",
         "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "China Presses a Weakness in America’s Tech Policy acabral-sanche… Mon, 08/10/2026 - 09:24 SVG Commentary Aug 9, 2026 Wall Street Journal China Presses a Weakness in America’s Tech Policy Washington’s semiconductor strategy must address not only who controls chip-making but also who controls the language those chips speak. David Feith Senior Fellow Jimmy Goodrich Senior Fellow at the UC Institute on Global Conflict...",
-        "url": "https://www.hudson.org/technology/china-presses-weakness-americas-tech-policy-david-feith"
+        "category": "Other",
+        "summary": "After Hormuz, global waterways will return to being sites of bloody contention.",
+        "url": "https://cms.hoover.org/research/straits-are-not-ok"
+    },
+    {
+        "id": "https://cms.hoover.org/research/empty-pews-regulatory-zoos-and-populist-views",
+        "source": "Hoover Institution",
+        "title": "Empty Pews, Regulatory Zoos And Populist Views",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "A quarter-millennium into the American experiment, some of our skepticism of big government has given way to populism and astounding numbers of regulations. Here's one explanation.",
+        "url": "https://cms.hoover.org/research/empty-pews-regulatory-zoos-and-populist-views"
     },
     {
         "id": "https://cms.hoover.org/research/what-i-learned-my-book-tour-across-america",
@@ -135,13 +171,31 @@
         "url": "https://cms.hoover.org/research-teams/program-free-expression/news"
     },
     {
-        "id": "https://cms.hoover.org/research/ben-sasse-faith-family-and-facing-death",
-        "source": "Hoover Institution",
-        "title": "Ben Sasse On Faith, Family, And Facing Death",
+        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
+        "source": "European Council on Foreign Relations",
+        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
+        "publicationDate": "2026-08-10",
+        "category": "Africa",
+        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
+        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
+    },
+    {
+        "id": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/",
+        "source": "European Council on Foreign Relations",
+        "title": "Anti-corruption sanctions: Preparing for the time after Trump",
+        "publicationDate": "2026-08-10",
+        "category": "United States",
+        "summary": "Anti-corruption sanctions—and even the prospect of them—under the next US administration will be crucial to chances of peace in many parts of the world. Here’s how Europeans can play their part",
+        "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
+        "source": "NPR Politics",
+        "title": "Trump and RFK Jr. try again to upend vaccines for kids",
         "publicationDate": "2026-08-10",
         "category": "Other",
-        "summary": "What matters when time is short? Ben Sasse joins EconTalk’s Russ Roberts for a candid conversation about mortality, faith, family, work, and the institutions that shape American life.",
-        "url": "https://cms.hoover.org/research/ben-sasse-faith-family-and-facing-death"
+        "summary": "President Trump expected to sign executive order that once again tries to upend the vaccines children receive to protect them against measles, mumps, tetanus, whooping cough and other dangerous diseases.",
+        "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order"
     },
     {
         "id": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
@@ -162,15 +216,6 @@
         "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters"
     },
     {
-        "id": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-        "source": "NPR Politics",
-        "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share.",
-        "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll"
-    },
-    {
         "id": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
         "source": "NPR Politics",
         "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
@@ -180,13 +225,22 @@
         "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump"
     },
     {
-        "id": "https://www.npr.org/2026/08/10/nx-s1-5888593/faith-is-a-centerpiece-of-texas-senate-candidate-james-talaricos-campaign",
+        "id": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
         "source": "NPR Politics",
-        "title": "Faith is a centerpiece of Texas Senate candidate James Talarico's campaign",
+        "title": "Voters are sick of the 2-party system. A new poll shows they're open to big changes",
         "publicationDate": "2026-08-10",
         "category": "Other",
-        "summary": "James Talarico, Texas' Democratic Senate nominee, is putting faith at the center of his campaign. Republicans are pushing back. Control over the U.S. Senate hangs in the balance.",
-        "url": "https://www.npr.org/2026/08/10/nx-s1-5888593/faith-is-a-centerpiece-of-texas-senate-candidate-james-talaricos-campaign"
+        "summary": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share.",
+        "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump signs executive order on childhood vaccine recommendations",
+        "publicationDate": "2026-08-10",
+        "category": "Healthcare",
+        "summary": "The order recommends separating the MMR vaccine into three different shots administered in separate visits, and directs the nation's health department to improve vaccine research, says a White House fact sheet.",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-on-childhood-vaccine-recommendations"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/ocasio-cortez-says-shes-freezing-her-eggs-as-she-considers-her-political-career",
@@ -225,13 +279,22 @@
         "url": "https://www.pbs.org/newshour/world/watch-live-hegseth-speaks-at-joint-base-lindsey-graham-renaming-ceremony"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families",
-        "source": "PBS NewsHour Politics",
-        "title": "Congressional Democrats to investigate efforts to deport U.S. military members and their families",
+        "id": "https://thehill.com/policy/healthcare/6021019-paul-johnson-release-fauci-texts/",
+        "source": "The Hill",
+        "title": "GOP senators release texts from Fauci's government cellphone",
         "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "The Pentagon declined to comment, stating it would \"reply directly to the authors of the letter.\"",
-        "url": "https://www.pbs.org/newshour/politics/congressional-democrats-to-investigate-efforts-to-deport-u-s-military-members-and-their-families"
+        "category": "Healthcare",
+        "summary": "Republican Sens. Rand Paul (Ky.) and Ron Johnson (Wis.) on Monday released text messages Dr. Anthony Fauci sent and received in 2021 regarding the safety of the COVID-19 vaccine for pregnant women. Obtained from Fauci’s government cellphone, the text messages are among more than 34,000 on the device, according to Johnson’s office. The lawmakers also...",
+        "url": "https://thehill.com/policy/healthcare/6021019-paul-johnson-release-fauci-texts/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6021147-trump-executive-order-mmr-vaccine/",
+        "source": "The Hill",
+        "title": "Trump order calls for fewer childhood vaccines",
+        "publicationDate": "2026-08-10",
+        "category": "Healthcare",
+        "summary": "An executive order signed by President Trump Monday would upend the childhood vaccine schedule by recommending splitting up the measles, mumps and rubella (MMR) shot across three separate visits. The order builds on other efforts by Trump and Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. to reshape and whittle down the number of...",
+        "url": "https://thehill.com/policy/healthcare/6021147-trump-executive-order-mmr-vaccine/"
     },
     {
         "id": "https://thehill.com/policy/technology/6021067-americans-back-social-media-oversight/",
@@ -239,16 +302,16 @@
         "title": "Most favor stronger social media oversight: Survey",
         "publicationDate": "2026-08-10",
         "category": "Technology",
-        "summary": "Most Americans back stronger social media oversight, according to a new survey. In the Reuters/Ipsos poll, 61 percent of respondents said that additional government oversight is needed for social media companies, 27 percent were against additional government oversight and 17 percent did not respond or were not sure. Over half of all Republicans, Democrats and...",
+        "summary": "Most Americans back stronger social media oversight, according to a new survey. In the Reuters/Ipsos poll, 61 percent of respondents said that additional government oversight is needed for social media companies, 27 percent were against additional government oversight, and 17 percent did not respond or were unsure. More than half of all Republicans, Democrats and...",
         "url": "https://thehill.com/policy/technology/6021067-americans-back-social-media-oversight/"
     },
     {
         "id": "https://thehill.com/homenews/administration/6019407-trump-swears-in-todd-blanche/",
         "source": "The Hill",
-        "title": "Live updates: Trump signs executive order on vaccines",
+        "title": "Live updates: Trump signs executive order on vaccines, taking aim at childhood schedule",
         "publicationDate": "2026-08-10",
         "category": "Healthcare",
-        "summary": "President Trump signed an executive order Monday afternoon focusing on \"more vaccine flexibility and research.\" Health and Human Services Secretary Robert F. Kennedy Jr. and National Institutes of Health Director Dr. Jay Bhattacharya joined him in the Oval Office. Earlier Monday, Trump swore in Todd Blanche as the next attorney general, following weeks of controversy...",
+        "summary": "President Trump signed an executive order Monday afternoon that changes the childhood immunization schedule, taking aim at the measles, mumps and rubella shot, which he calls for splitting across three separate visits. Health and Human Services Secretary Robert F. Kennedy Jr. and National Institutes of Health Director Dr. Jay Bhattacharya joined him in the Oval Office....",
         "url": "https://thehill.com/homenews/administration/6019407-trump-swears-in-todd-blanche/"
     },
     {
@@ -261,22 +324,13 @@
         "url": "https://thehill.com/homenews/senate/6020953-water-cyber-shield-act-schiff-klobuchar/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6020995-blanche-attorney-general-sworn-in/",
-        "source": "The Hill",
-        "title": "Blanche formally sworn in as attorney general",
+        "id": "https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html",
+        "source": "New York Times Politics",
+        "title": "Sanders Calls on A.I. Companies to Pause Development to ‘Avoid Disaster’",
         "publicationDate": "2026-08-10",
-        "category": "Administration",
-        "summary": "President Trump’s former personal attorney Todd Blanche was sworn in as attorney general on Monday, making him the second official to hold the top law enforcement position during the second Trump administration. Trump’s aide Margo Martin posted a video of Blanche’s swearing in from the Oval Office on Monday afternoon. The Senate confirmed Blanche in...",
-        "url": "https://thehill.com/homenews/administration/6020995-blanche-attorney-general-sworn-in/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6020986-administration-waives-shipping-rules/",
-        "source": "The Hill",
-        "title": "Trump extends Jones Act waiver, with limits, in bid to tamp down energy prices",
-        "publicationDate": "2026-08-10",
-        "category": "Energy & Environment",
-        "summary": "The Trump administration is once again waiving U.S. shipping rules as part of an effort to keep gasoline and other fuel costs down, the White House said Monday. In particular, it issued another 90-day waiver of the Jones Act, a 100-year-old law that requires shipping between U.S. ports to be conducted by American ships. “Today,...",
-        "url": "https://thehill.com/policy/energy-environment/6020986-administration-waives-shipping-rules/"
+        "category": "Technology",
+        "summary": "Senator Bernie Sanders warned that corporations have already lost control of technology that could cause “potentially cataclysmic results” for millions of people.",
+        "url": "https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/10/us/politics/hegseth-base-lindsey-graham.html",
@@ -315,13 +369,22 @@
         "url": "https://www.nytimes.com/2026/08/10/us/politics/minnesota-senate-primary-flanagan-craig.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html",
-        "source": "New York Times Politics",
-        "title": "The Campaign Tactics Helping Progressives Win Primaries Ahead of the 2026 Midterms",
+        "id": "https://www.washingtonpost.com/politics/2026/08/10/max-miller-remains-gop-nominee-ohio-house-race/",
+        "source": "Washington Post Politics",
+        "title": "Max Miller remains the GOP nominee in Ohio House race",
         "publicationDate": "2026-08-10",
-        "category": "Democratic Socialists of America",
-        "summary": "Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html"
+        "category": "Other",
+        "summary": "A Monday afternoon deadline that would have allowed local party officials to select a replacement candidate has passed.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/10/max-miller-remains-gop-nominee-ohio-house-race/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/10/hunter-biden-tells-tucker-carlson-that-trump-poses-an-existential-threat/",
+        "source": "Washington Post Politics",
+        "title": "Hunter Biden tells Tucker Carlson that Trump poses an ‘existential threat’",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "Biden has made a point of talking to conservative media figures in recent months.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/10/hunter-biden-tells-tucker-carlson-that-trump-poses-an-existential-threat/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/10/how-economy-is-hurting-republicans-midterm-chances/",
@@ -349,24 +412,6 @@
         "category": "Other",
         "summary": "The president has pushed to narrow which vaccines are administered to children and split shots up into multiple appointments.",
         "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/books/2026/08/10/president-barack-obama-launches-new-podcast/",
-        "source": "Washington Post Politics",
-        "title": "Former president Barack Obama launches a new podcast",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The show will feature interviews with guests about key books that have left an impact on them. It starts Sept. 24 on Audible.",
-        "url": "https://www.washingtonpost.com/books/2026/08/10/president-barack-obama-launches-new-podcast/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/senate-is-recess-until-mid-september/",
-        "source": "Washington Post Politics",
-        "title": "What the Senate did and didn’t get done in the final hours before recess",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "Before leaving Saturday, lawmakers confirmed President Trump’s attorney general pick and passed a spending bill.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/senate-is-recess-until-mid-september/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
@@ -414,6 +459,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Yen sinks as effect of US-Japan intervention fades",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks",
+        "url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/970da215-f4f1-43b6-a4d9-b9869d532476?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Colombian earthquake kills at least 111",
@@ -450,15 +504,6 @@
         "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/689c0487-af77-4e18-8b63-fa26ed373ce8?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FanDuel and DraftKings hedge their bets with a predictions pivot",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "Branching into predictions has charms for sportsbook operators that aren’t just defensive",
-        "url": "https://www.ft.com/content/689c0487-af77-4e18-8b63-fa26ed373ce8?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.cfr.org/articles/the-bombing-of-nagasaki",
         "source": "Council on Foreign Relations",
         "title": "The Bombing of Nagasaki",
@@ -468,15 +513,6 @@
         "url": "https://www.cfr.org/articles/the-bombing-of-nagasaki"
     },
     {
-        "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-30",
-        "source": "Hoover Institution",
-        "title": "2026 Issue 30",
-        "publicationDate": "2026-08-09",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-30"
-    },
-    {
         "id": "IF12006",
         "source": "Congressional Research Service",
         "title": "Arctic National Wildlife Refuge: Status of Oil and Gas Program",
@@ -484,24 +520,6 @@
         "category": "Economy",
         "summary": "The Arctic National Wildlife Refuge (ANWR, or the Refuge) comprises 19 million acres in northeast Alaska, administered primarily by the Fish and Wildlife Service (FWS) in the Department of the Interior (DOI). ANWR’s Coastal Plain—a 1.57-million-acre area in the northern part of the Refuge (Figure 1)—is viewed as an onshore oil prospect, with a mean estimate by the U.S. Geological Survey of 7.7 billion barrels of...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12006/IF12006.31.pdf"
-    },
-    {
-        "id": "96-264",
-        "source": "Congressional Research Service",
-        "title": "Frequently Asked Questions About Tax-Exempt Organizations",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "This report answers frequently asked questions about tax-exempt organizations. The report focuses on the types of organizations described in Internal Revenue Code (I.R.C.) § 501(c), with the main emphasis on § 501(c)(3) charitable organizations and § 501(c)(4) social welfare organizations. One set of questions addresses some of the primary characteristics of tax-exempt organizations, including whether they may...",
-        "url": "https://www.congress.gov/crs_external_products/RL/PDF/96-264/96-264.12.pdf"
-    },
-    {
-        "id": "R49105",
-        "source": "Congressional Research Service",
-        "title": "Lapses in DHS Appropriations: History and Plans",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "Every year, the federal government’s fiscal year ends at midnight on September 30. As this deadline approaches, if any of the regular, full-year appropriations measures are not expected to be enacted by the end of the fiscal year executive branch agencies prepare for either the passage of a continuing resolution, or a lapse in appropriations, which results in a partial or complete government shutdown (including the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49105/R49105.1.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/the-1964-gulf-of-tonkin-resolution",
@@ -520,6 +538,15 @@
         "category": "Foreign Policy",
         "summary": "For years, the fertility industry has attacked restorative reproductive medicine with two contradictory arguments. The first is that RRM is not real medicine. The American Society for Reproductive Medicine (ASRM) dismisses it as an unrecognized subspecialty, and editorials in the industry’s own journals characterize it as unscientific and ideologically driven. The second is that the infertility treatment is...",
         "url": "https://www.heritage.org/health-care-reform/commentary/what-the-fertility-industry-doesnt-want-couples-hear"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
+        "source": "European Council on Foreign Relations",
+        "title": "Latin America’s new imaginaries",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
+        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
@@ -556,6 +583,24 @@
         "category": "Article",
         "summary": "The decision to drop an atomic bomb on Hiroshima continues to stir debate today.",
         "url": "https://www.cfr.org/articles/the-bombing-of-hiroshima"
+    },
+    {
+        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
+        "source": "European Council on Foreign Relations",
+        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
+        "publicationDate": "2026-08-06",
+        "category": "Foreign Policy",
+        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
+        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
+    },
+    {
+        "id": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
+        "source": "European Council on Foreign Relations",
+        "title": "Hamas has agreed to disarm. Israel should now agree to peace",
+        "publicationDate": "2026-08-06",
+        "category": "Israel / Palestine",
+        "summary": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
+        "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
