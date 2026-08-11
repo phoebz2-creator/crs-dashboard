@@ -1,5 +1,14 @@
 [
     {
+        "id": "R48284",
+        "source": "Congressional Research Service",
+        "title": "The Congressional Budget Resolution: Frequently Asked Questions",
+        "publicationDate": "2026-08-11",
+        "category": "Economy",
+        "summary": "The Congressional Budget Act of 1974 (the Budget Act) provides for the adoption of a concurrent resolution on the budget by April 15 each year for the fiscal year beginning October 1. By writing a budget resolution, Congress helps guide federal spending and revenue policies for the year. It is also the only way to initiate reconciliation, a fast-track procedure for enacting those policies into law. A budget...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48284/R48284.10.pdf"
+    },
+    {
         "id": "R49124",
         "source": "Congressional Research Service",
         "title": "New World Screwworm: Background and Issues for Congress",
@@ -25,6 +34,15 @@
         "category": "Defense",
         "summary": "The authors examine the defense requirements processes of China, Russia, Australia, and the United Kingdom to better understand these systems, draw comparisons, and leverage potential practices for the U.S. Department of War.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3510-3.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/trumps-iran-negotiations-trade-the-art-of-the-deal-for-the-art-of-concealing-defeat",
+        "source": "Council on Foreign Relations",
+        "title": "Trump's Iran Negotiations: Less Art of the Deal, More Art of Concealing Defeat",
+        "publicationDate": "2026-08-11",
+        "category": "Foreign Policy",
+        "summary": "Trump’s desire to end the confrontation with Iran quickly, so oil flows and prices drop, has left him with no real bargaining position. That has emboldened Iran to demand a deal that would let it monetize the Strait of Hormuz and reassert the dominance the region has spent two years fighting to unwind.",
+        "url": "https://www.cfr.org/articles/trumps-iran-negotiations-trade-the-art-of-the-deal-for-the-art-of-concealing-defeat"
     },
     {
         "id": "https://cms.hoover.org/research/can-ai-libel-you-robby-starbuck-case",
@@ -54,15 +72,6 @@
         "url": "https://www.npr.org/2026/08/11/nx-s1-5927242/primaries-in-wisconsin-and-minnesota-pit-progressives-against-moderates"
     },
     {
-        "id": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-        "source": "NPR Politics",
-        "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
-        "url": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting"
-    },
-    {
         "id": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
         "source": "NPR Politics",
         "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
@@ -79,6 +88,42 @@
         "category": "Other",
         "summary": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029.",
         "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+        "source": "NPR Politics",
+        "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
+        "url": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/former-u-s-marine-held-in-russia-for-more-than-4-years-has-been-released-advocates-say",
+        "source": "PBS NewsHour Politics",
+        "title": "Former U.S. Marine held in Russia for more than 4 years has been released, advocates say",
+        "publicationDate": "2026-08-11",
+        "category": "Foreign Policy",
+        "summary": "Before he was flown out of Russia, Robert Gilman had been in \"a dissociative stupor\" for 47 days due to the abuse he has suffered in prison.",
+        "url": "https://www.pbs.org/newshour/politics/former-u-s-marine-held-in-russia-for-more-than-4-years-has-been-released-advocates-say"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/live-results-alabama-midterm-u-s-house-primaries-after-redistricting",
+        "source": "PBS NewsHour Politics",
+        "title": "Live Results: Alabama midterm U.S. House primaries after redistricting",
+        "publicationDate": "2026-08-11",
+        "category": "alabama",
+        "summary": "Voters in four of Alabama's seven congressional districts will select U.S. House nominees Tuesday under a new map that eliminates one of the state's two majority-Black districts currently represented by Democrats.",
+        "url": "https://www.pbs.org/newshour/politics/live-results-alabama-midterm-u-s-house-primaries-after-redistricting"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/live-results-south-carolina-special-primary-election-to-replace-sen-lindsey-graham",
+        "source": "PBS NewsHour Politics",
+        "title": "Live Results: South Carolina special primary election to replace Sen. Lindsey Graham",
+        "publicationDate": "2026-08-11",
+        "category": "Annie Andrews",
+        "summary": "Ten Republicans will compete in a special primary election Tuesday to replace the late Sen. Lindsey Graham on South Carolina's general election ballot.",
+        "url": "https://www.pbs.org/newshour/politics/live-results-south-carolina-special-primary-election-to-replace-sen-lindsey-graham"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/live-results-minnesota-midterm-primaries",
@@ -99,56 +144,65 @@
         "url": "https://www.pbs.org/newshour/politics/live-results-wisconsin-midterm-primaries"
     },
     {
-        "id": "https://thehill.com/policy/transportation/6022187-faa-halts-reagan-national-flights-freedom-250-grand-prix/",
+        "id": "https://thehill.com/homenews/administration/6021632-live-updates-trump-iran-primary-elections-south-carolina-wisconsin-minnesota/",
         "source": "The Hill",
-        "title": "FAA pausing Reagan Washington National flights to support Freedom 250 IndyCar race",
+        "title": "Live updates: Iran holds to demands on Strait of Hormuz; Trump evades Tehran threat",
         "publicationDate": "2026-08-11",
-        "category": "Transportation",
-        "summary": "The Federal Aviation Administration (FAA) will temporarily halt flights at Reagan Washington National Airport for three hours later this month for the Freedom 250 Grand Prix ⁠IndyCar race. Airspace above the National Airport will be closed from 10:15 a.m. to 1:15 p.m. EDT on Aug. 23 to “help ensure the safe and efficient movement of...",
-        "url": "https://thehill.com/policy/transportation/6022187-faa-halts-reagan-national-flights-freedom-250-grand-prix/"
+        "category": "Foreign Policy",
+        "summary": "Iranian Foreign Minister Abbas Araghchi said Tuesday the Strait of Hormuz won’t be reopened until the U.S. meets its conditions, after President Trump said he wants compensation from Iran “for all of the people that they have killed” in the past. He told reporters that Iran has “astonished the whole world” in the war against the United States and...",
+        "url": "https://thehill.com/homenews/administration/6021632-live-updates-trump-iran-primary-elections-south-carolina-wisconsin-minnesota/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/fight-for-2028/6021922-whats-next-for-alexandria-ocasio-cortez-live-discussion/",
+        "id": "https://thehill.com/policy/defense/6022666-frank-kendall-security-clearance-pentagon-lawsuit/",
         "source": "The Hill",
-        "title": "What's next for Alexandria Ocasio-Cortez?",
+        "title": "Biden-era Air Force secretary says he'll sue over security clearance revocation",
         "publicationDate": "2026-08-11",
-        "category": "The Fight for 2028",
-        "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) is keeping her options open, meaning both a presidential run and Senate candidacy are future possibilities for the progressive star. Ocasio-Cortez is also walking a balancing line with democratic socialists and the left as she seeks to build a national audience. And she's freezing her eggs to get ready for a...",
-        "url": "https://thehill.com/homenews/campaign/fight-for-2028/6021922-whats-next-for-alexandria-ocasio-cortez-live-discussion/"
+        "category": "Defense",
+        "summary": "Former Air Force Secretary Frank Kendall is “gonna sue” the Trump administration after the Pentagon revoked his security clearance last week over accusations he disclosed classified information to the media. The Defense Department on Friday pulled Kendall’s eligibility for access to classified information as well as his “ability to hold any sensitive position,” accusing him...",
+        "url": "https://thehill.com/policy/defense/6022666-frank-kendall-security-clearance-pentagon-lawsuit/"
     },
     {
-        "id": "https://thehill.com/opinion/national-security/6021087-world-war-iii-is-already-here-and-trump-must-rise-to-the-challenge/",
+        "id": "https://thehill.com/policy/international/6022379-houthi-rebels-attack-mokha/",
         "source": "The Hill",
-        "title": "World War III is already here, and Trump must rise to the challenge",
+        "title": "Iran-backed Houthi rebels renew attacks on key port city",
         "publicationDate": "2026-08-11",
-        "category": "Opinions - National Security",
-        "summary": "The early stages of what could become World War III are already upon us.",
-        "url": "https://thehill.com/opinion/national-security/6021087-world-war-iii-is-already-here-and-trump-must-rise-to-the-challenge/"
+        "category": "Foreign Policy",
+        "summary": "Iran-backed Houthi rebels have renewed their attacks on the Yemeni government-held city of Mokha, a key port city along the Red Sea, amid their blockade on Saudi exports in response to the Iran war. The attack was preceded by a deadly strike on a vessel off Mokha's coast in the Bab el-Mandeb Strait, killing three...",
+        "url": "https://thehill.com/policy/international/6022379-houthi-rebels-attack-mokha/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6022192-hobbs-selects-john-giles-running-mate/",
+        "id": "https://thehill.com/policy/technology/6022595-zuckerberg-yacht-alaska-rescue-controversy/",
         "source": "The Hill",
-        "title": "Katie Hobbs taps former Republican mayor as running mate",
+        "title": "Zuckerberg yacht did not hear call for assistance, spokesperson says",
         "publicationDate": "2026-08-11",
-        "category": "Campaign",
-        "summary": "Arizona Gov. Katie Hobbs (D) tapped former GOP Mesa Mayor John Giles as her running mate on Tuesday as the first-term Democrat eyes a reelection bid against Republican Andy Biggs this November. “Now, for the first time in our state’s history, we are electing a governor and lieutenant governor on the same ticket, and the first thing I looked for...",
-        "url": "https://thehill.com/homenews/campaign/6022192-hobbs-selects-john-giles-running-mate/"
+        "category": "Technology",
+        "summary": "A yacht owned by Mark Zuckerberg is gaining controversy for not responding to a call for assistance made by a boat that ran out of fuel, but Brian Baker, a spokesperson for the Meta CEO, said that the crew did not hear the call. Baker added that by the time the crew aboard the ship...",
+        "url": "https://thehill.com/policy/technology/6022595-zuckerberg-yacht-alaska-rescue-controversy/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6021865-kennedy-dismisses-harris-comments/",
+        "id": "https://thehill.com/homenews/media/6022615-lahren-rips-gop-socialism/",
         "source": "The Hill",
-        "title": "Sen. Kennedy says Kamala Harris ‘no longer relevant’",
+        "title": "Fox News’s Tomi Lahren: GOP an 'utter embarrassment'",
         "publicationDate": "2026-08-11",
-        "category": "Administration",
-        "summary": "Sen. John Kennedy (R-La.) on Monday stated that former Vice President Kamala Harris is \"no longer relevant\" in response to a video she posted about the Safeguard American Voter Eligibility (SAVE America) Act. Fox News host Sean Hannity spoke with Kennedy in an interview about Democrats opposing the SAVE America Act, lambasting them as \"radical...",
-        "url": "https://thehill.com/homenews/administration/6021865-kennedy-dismisses-harris-comments/"
+        "category": "Media",
+        "summary": "Fox News host Tomi Lahren ripped the Republican Party on Monday, arguing the GOP has failed working Americans so badly that socialism has become increasingly appealing to those struggling with the cost of living. “Let’s be frank about it, some Americans are turning to socialism because Republicans have failed us so dismally that even the...",
+        "url": "https://thehill.com/homenews/media/6022615-lahren-rips-gop-socialism/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html",
+        "source": "New York Times Politics",
+        "title": "With El-Sayed’s Victory Comes a Wave of Islamophobia",
+        "publicationDate": "2026-08-11",
+        "category": "Muslims and Islam",
+        "summary": "As Muslim politicians like Abdul El-Sayed in Michigan have become more prominent, they have experienced considerable bigotry. President Trump said Democrats were electing “jihadists.”",
+        "url": "https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/11/us/politics/dennis-kirk-trump-interior-reflecting-pool-project-2025.html",
         "source": "New York Times Politics",
         "title": "Trump Picks Project 2025 Co-Author for Role That Would Oversee Any Reflecting Pool Review",
         "publicationDate": "2026-08-11",
-        "category": "Other",
+        "category": "Trump",
         "summary": "Dennis Kirk, a former adviser to Tulsi Gabbard, is President Trump’s nominee for inspector general for the Interior Department.",
         "url": "https://www.nytimes.com/2026/08/11/us/politics/dennis-kirk-trump-interior-reflecting-pool-project-2025.html"
     },
@@ -157,7 +211,7 @@
         "source": "New York Times Politics",
         "title": "U.S. Says It Revoked More Than 175,000 Visas Under Trump",
         "publicationDate": "2026-08-11",
-        "category": "Other",
+        "category": "United States Politics and Government",
         "summary": "Most visas were rescinded over criminal accusations, the State Department said, while some were revoked from people who had celebrated the assassination of Charlie Kirk.",
         "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-state-department-visa-revocations.html"
     },
@@ -178,15 +232,6 @@
         "category": "Midterm Elections (2026)",
         "summary": "The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.",
         "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
-        "source": "New York Times Politics",
-        "title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
-        "publicationDate": "2026-08-11",
-        "category": "Defense",
-        "summary": "President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/11/national-democrats-step-up-support-rep-max-millers-opponent/",
@@ -261,22 +306,40 @@
         "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "At least 169 killed in Colombia's largest earthquake in years",
+        "title": "Russia releases former US Marine reported in poor health",
         "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
-        "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Libyan authorities battle big blaze at major oil refinery",
+        "title": "Watch: Family escapes home during Colombia earthquake",
         "publicationDate": "2026-08-11",
         "category": "Other",
-        "summary": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
-        "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss"
+        "summary": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years.",
+        "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/eae42796-43f5-408b-a735-1873e1fcbbe5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "When trouble strikes, who shadow-banks the shadow bankers?",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Absorbing the occasional blow is what sets giant lenders apart from their shadowy cousins",
+        "url": "https://www.ft.com/content/eae42796-43f5-408b-a735-1873e1fcbbe5?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/16906e35-f031-4bb7-9aa3-b16da4d78b87?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Long-term sickness may be smaller problem for UK than thought, says ONS",
+        "publicationDate": "2026-08-11",
+        "category": "Healthcare",
+        "summary": "Statistics agency’s new labour market survey shows lower levels of economic inactivity due to ill health",
+        "url": "https://www.ft.com/content/16906e35-f031-4bb7-9aa3-b16da4d78b87?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/14b208d4-1866-4cf2-a09e-424ffd2d9695?syn-25a6b1a6=1",
@@ -306,22 +369,13 @@
         "url": "https://www.ft.com/content/de50af68-1d2d-4d03-aa4b-c0f7cdcc61d2?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Democratic socialist leads Wisconsin governor’s race as progressives gain ground",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "Some in party establishment think candidate’s views will lead to defeat against Republican in November’s election",
-        "url": "https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/9f700b37-ac05-434c-9b70-3a7fe065c87e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "China tightens grip on Europe’s car supply chain",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "Acquisitions of local parts makers amid resistance to Chinese exports have worried EU officials",
-        "url": "https://www.ft.com/content/9f700b37-ac05-434c-9b70-3a7fe065c87e?syn-25a6b1a6=1"
+        "id": "LSB11467",
+        "source": "Congressional Research Service",
+        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
     },
     {
         "id": "R48934",
@@ -450,24 +504,6 @@
         "url": "https://cms.hoover.org/research/us-job-market-stalled-july-employers-cut-23000-jobs-delivering-political-setback-trump"
     },
     {
-        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
-        "source": "European Council on Foreign Relations",
-        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
-        "publicationDate": "2026-08-10",
-        "category": "Africa",
-        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
-        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
-    },
-    {
-        "id": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/",
-        "source": "European Council on Foreign Relations",
-        "title": "Anti-corruption sanctions: Preparing for the time after Trump",
-        "publicationDate": "2026-08-10",
-        "category": "United States",
-        "summary": "Anti-corruption sanctions—and even the prospect of them—under the next US administration will be crucial to chances of peace in many parts of the world. Here’s how Europeans can play their part",
-        "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
-    },
-    {
         "id": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
         "source": "NPR Politics",
         "title": "Alabama heads into a second primary election after redistricting",
@@ -475,33 +511,6 @@
         "category": "Other",
         "summary": "Alabama voters are again selecting candidates for four Congressional districts after the state changed the district map to favor Republicans. The redistricting is causing confusion among voters.",
         "url": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/state-voting-officials-join-cisa-security-call-with-election-85-days-away",
-        "source": "PBS NewsHour Politics",
-        "title": "State voting officials join CISA security call with election 85 days away",
-        "publicationDate": "2026-08-10",
-        "category": "Technology",
-        "summary": "CISA, the federal agency tasked with protecting the cybersecurity of the nation's critical infrastructure, held a conference call with state election officials to discuss the upcoming midterms. Despite President Trump's claims about the risk of hackers targeting voting systems, this was one of CISA's first broad outreach efforts with Election Day just 85 days away. Liz Landers reports.",
-        "url": "https://www.pbs.org/newshour/show/state-voting-officials-join-cisa-security-call-with-election-85-days-away"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates",
-        "source": "PBS NewsHour Politics",
-        "title": "Tamara Keith and Amy Walter on the energy behind outsider candidates",
-        "publicationDate": "2026-08-10",
-        "category": "Politics Monday",
-        "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including where Democratic primary voters stand this election year, the energy behind outsider candidates, the strength of President Trump's endorsement in South Carolina and GOP Rep. Max Miller staying in the race despite abuse allegations.",
-        "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death",
-        "source": "PBS NewsHour Politics",
-        "title": "Family of Marine veteran imprisoned in Russia warns he's near death",
-        "publicationDate": "2026-08-10",
-        "category": "Foreign Policy",
-        "summary": "The family of a U.S. Marine veteran imprisoned in Russia says his health is deteriorating and he may be on the brink of death. Robert Gilman was arrested in Russia in 2022 for allegedly hitting a Russian police officer. He was sentenced to four and a half years in prison, but that sentence has since been extended to a decade. Stephanie Sy spoke with Kieran Ramsey, Gilman's advocate in the U.S.",
-        "url": "https://www.pbs.org/newshour/show/family-of-marine-veteran-imprisoned-in-russia-warns-hes-near-death"
     },
     {
         "id": "https://www.cfr.org/articles/the-bombing-of-nagasaki",
@@ -529,15 +538,6 @@
         "category": "Foreign Policy",
         "summary": "For years, the fertility industry has attacked restorative reproductive medicine with two contradictory arguments. The first is that RRM is not real medicine. The American Society for Reproductive Medicine (ASRM) dismisses it as an unrecognized subspecialty, and editorials in the industry’s own journals characterize it as unscientific and ideologically driven. The second is that the infertility treatment is...",
         "url": "https://www.heritage.org/health-care-reform/commentary/what-the-fertility-industry-doesnt-want-couples-hear"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
-        "source": "European Council on Foreign Relations",
-        "title": "Latin America’s new imaginaries",
-        "publicationDate": "2026-08-07",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
-        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
@@ -576,33 +576,6 @@
         "url": "https://www.cfr.org/articles/the-bombing-of-hiroshima"
     },
     {
-        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
-        "source": "European Council on Foreign Relations",
-        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
-        "publicationDate": "2026-08-06",
-        "category": "Foreign Policy",
-        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
-        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
-    },
-    {
-        "id": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
-        "source": "European Council on Foreign Relations",
-        "title": "Hamas has agreed to disarm. Israel should now agree to peace",
-        "publicationDate": "2026-08-06",
-        "category": "Israel / Palestine",
-        "summary": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
-        "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
-    },
-    {
-        "id": "https://www.cfr.org/articles/big-macs-say-the-dollar-is-way-overvalued-ipad-minis-say-its-not-so",
-        "source": "Council on Foreign Relations",
-        "title": "Big Macs Say the Dollar is Way Overvalued. iPad Minis Say It's Not so.",
-        "publicationDate": "2026-08-05",
-        "category": "Article",
-        "summary": "Measured in Big Macs, the dollar is too strong. Measured in iPad minis, it’s a modest bargain.",
-        "url": "https://www.cfr.org/articles/big-macs-say-the-dollar-is-way-overvalued-ipad-minis-say-its-not-so"
-    },
-    {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
         "source": "Centre for European Reform",
         "title": "Survey: Centre for European Reform mailings",
@@ -610,6 +583,15 @@
         "category": "Other",
         "summary": "Thank you for providing your feedback on the options for the CER's publications and podcast mailings. Your name: The amount of email I receive from the CER is: About right Too much If you have selected 'too much' above would you prefer to receive: A weekly newsletter with links to all content A monthly newsletter with links to all content Would you like to opt-out of receiving: Publications Podcasts Your email:...",
         "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
+    },
+    {
+        "id": "LSB11463",
+        "source": "Congressional Research Service",
+        "title": "The Department of Homeland Security’s Authority to Determine Detention Locations",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "The Department of Homeland Security (DHS) may detain aliens who have violated federal civil immigration laws and who are placed in removal proceedings or ordered removed. To carry out this function, Congress has directed the DHS Secretary to “arrange for appropriate places of detention for aliens detained pending removal or a decision on removal.” While DHS owns and operates some detention facilities, the agency...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11463/LSB11463.3.pdf"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
@@ -646,32 +628,5 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
-    },
-    {
-        "id": "IF10590",
-        "source": "Congressional Research Service",
-        "title": "Child Welfare: Purposes, Federal Programs, and Funding",
-        "publicationDate": "2026-04-06",
-        "category": "Economy",
-        "summary": "The Work of Child Welfare Agencies Children depend on adults—usually their parents—to protect and support them. The broadest mission of public child welfare agencies is to strengthen families so that children can depend on their families to provide them with a safe and loving home. Child welfare agencies also aim to prevent abuse or neglect of children in their own homes. If this has already occurred, they are...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10590/IF10590.58.pdf"
-    },
-    {
-        "id": "LSB11108",
-        "source": "Congressional Research Service",
-        "title": "The Second Amendment at the Supreme Court: Challenges to Federal Gun Laws",
-        "publicationDate": "2026-03-09",
-        "category": "Defense",
-        "summary": "Ratified in 1791, the Second Amendment provides, “A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.” For over two hundred years, the Supreme Court remained largely silent on the scope and meaning of the Second Amendment. In a series of relatively recent decisions, however, the Court has provided guidance on the substance...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11108/LSB11108.7.pdf"
-    },
-    {
-        "id": "IF12610",
-        "source": "Congressional Research Service",
-        "title": "Defense Primer: U.S. Space Force",
-        "publicationDate": "2024-12-23",
-        "category": "Defense",
-        "summary": "The U.S. Space Force, established by Congress in 2019 (P.L. 116-92, §952), is one of the six branches of the Armed Forces. According to Title 10, Section 9081, of the U.S. Code, “The Space Force shall be organized, trained, and equipped to—(1) provide freedom of operation for the United States in, from, and to space; (2) conduct space operations; and (3) protect the interests of the United States in space.” Since...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12610/IF12610.7.pdf"
     }
 ]
