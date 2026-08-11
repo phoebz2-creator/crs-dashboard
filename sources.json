@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+        "source": "NPR Politics",
+        "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
+        "url": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
+        "source": "NPR Politics",
+        "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029.",
+        "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
+        "source": "NPR Politics",
+        "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates.",
+        "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump"
+    },
+    {
         "id": "https://thehill.com/policy/healthcare/6021625-ama-warns-childhood-immunization-risks/",
         "source": "The Hill",
         "title": "American Medical Association criticizes Trump executive order on childhood vaccine schedule",
@@ -36,6 +63,24 @@
         "url": "https://thehill.com/policy/defense/6021575-iran-oman-hormuz-strait-deal/"
     },
     {
+        "id": "https://www.nytimes.com/2026/08/11/us/politics/democrats-plan-new-push-to-defeat-max-miller-in-ohio-after-abuse-accusations.html",
+        "source": "New York Times Politics",
+        "title": "Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations",
+        "publicationDate": "2026-08-11",
+        "category": "Poindexter",
+        "summary": "The party’s congressional campaign arm added Mr. Miller’s opponent, Brian Poindexter, to its highly competitive “Red to Blue” list.",
+        "url": "https://www.nytimes.com/2026/08/11/us/politics/democrats-plan-new-push-to-defeat-max-miller-in-ohio-after-abuse-accusations.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html",
+        "source": "New York Times Politics",
+        "title": "Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.",
+        "publicationDate": "2026-08-11",
+        "category": "Midterm Elections (2026)",
+        "summary": "The left and the middle continue to battle in Democratic primaries for governor in Wisconsin and Senate in Minnesota. In South Carolina, all eyes are on Darline Graham.",
+        "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
         "source": "New York Times Politics",
         "title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
@@ -54,22 +99,31 @@
         "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html",
-        "source": "New York Times Politics",
-        "title": "Homeland Security Intensifies Pursuit of Noncitizens on Voter Rolls",
+        "id": "https://www.washingtonpost.com/politics/2026/08/11/national-democrats-step-up-support-rep-max-millers-opponent/",
+        "source": "Washington Post Politics",
+        "title": "National Democrats step up support for Rep. Max Miller’s opponent",
         "publicationDate": "2026-08-11",
-        "category": "United States Politics and Government",
-        "summary": "Immigrants who said they inadvertently registered to vote while obtaining or renewing driver’s licenses are increasingly facing deportation under the Trump administration.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html"
+        "category": "Other",
+        "summary": "The Ohio Republican denies his ex-wife’s abuse allegations, but Democratic nominee Brian Poindexter has been added to the party’s “Red to Blue” program.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/11/national-democrats-step-up-support-rep-max-millers-opponent/"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
-        "source": "New York Times Politics",
-        "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
+        "id": "https://www.washingtonpost.com/politics/2026/08/11/trump-netanyahu-experience-tension-critical-election-year/",
+        "source": "Washington Post Politics",
+        "title": "Trump-Netanyahu rift widens as election pressures pull them in opposite directions",
         "publicationDate": "2026-08-11",
         "category": "Foreign Policy",
-        "summary": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html"
+        "summary": "While the Israeli leader touts a willingness to defy the U.S. on Gaza, the president needs to show progress in the foreign entanglements weighing on his approval rating.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/11/trump-netanyahu-experience-tension-critical-election-year/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/11/trump-seeks-preserve-major-policies-after-adverse-supreme-court-rulings/",
+        "source": "Washington Post Politics",
+        "title": "Trump refuses to back down as Supreme Court blocks major policies",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "The president is seeking ways around rulings on tariffs, birthright citizenship and the Fed. Experts say the moves don’t signal outright defiance, but they push the court’s limits.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/11/trump-seeks-preserve-major-policies-after-adverse-supreme-court-rulings/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/",
@@ -81,6 +135,33 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+        "publicationDate": "2026-08-11",
+        "category": "Defense",
+        "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "publicationDate": "2026-08-11",
+        "category": "Foreign Policy",
+        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+        "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "At least 132 killed in Colombia's largest earthquake in years",
@@ -90,58 +171,58 @@
         "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled",
-        "publicationDate": "2026-08-11",
-        "category": "Healthcare",
-        "summary": "A merger between the giant drugmakers would have marked a return to pharma megadeals",
-        "url": "https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/c27150f4-24e7-4def-9461-0a4849a0ea81?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Investing in the forgotten lands",
+        "id": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Libyan authorities battle big blaze at major oil refinery",
         "publicationDate": "2026-08-11",
         "category": "Other",
-        "summary": "Getting Europe back on the radar",
-        "url": "https://www.ft.com/content/c27150f4-24e7-4def-9461-0a4849a0ea81?syn-25a6b1a6=1"
+        "summary": "Monday's drone strike on the Zawiya refinery was the third such incident in two days.",
+        "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/7c738ae1-39e5-4094-b224-605dcddaa4e0?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/21acee15-501b-45b6-9fc2-4202d9a66c76?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Singapore shrugs off Iran war as AI boom buoys growth",
+        "title": "Burnham vows to stop early release of PC Harper’s killers",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "PM says he is ‘increasingly confident’ prison space can be freed up to keep more serious criminals in jail",
+        "url": "https://www.ft.com/content/21acee15-501b-45b6-9fc2-4202d9a66c76?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d891285a-e581-45b7-8cb0-80411669c1eb?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Deutsche becomes first European clearing bank for renminbi",
         "publicationDate": "2026-08-11",
         "category": "Foreign Policy",
-        "summary": "Oil trading hub raises its GDP outlook and says energy market disruption has been less severe than expected",
-        "url": "https://www.ft.com/content/7c738ae1-39e5-4094-b224-605dcddaa4e0?syn-25a6b1a6=1"
+        "summary": "China seeks to increase international use of its currency",
+        "url": "https://www.ft.com/content/d891285a-e581-45b7-8cb0-80411669c1eb?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/b957441e-ac7d-4dbd-a024-3af989ef7a44?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/a2dadec1-173f-40a9-89c0-2cf83f78de2a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "FirstFT: EU border checks double waiting times",
+        "title": "Trump warns ditching Infantino would be ‘terrible mistake’",
         "publicationDate": "2026-08-11",
         "category": "Other",
-        "summary": "Also in today’s newsletter: Spain’s migrant amnesty and Turkish law on Kurdish militants",
-        "url": "https://www.ft.com/content/b957441e-ac7d-4dbd-a024-3af989ef7a44?syn-25a6b1a6=1"
+        "summary": "Comments come as Fifa president faces pressure to resign over private fundraising fiasco",
+        "url": "https://www.ft.com/content/a2dadec1-173f-40a9-89c0-2cf83f78de2a?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/45af4235-1bd1-4734-966a-1f513d25361c",
+        "id": "https://www.ft.com/content/248cdbf4-b047-45d3-b543-a343135132b0?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "What will Warsh do to favour Main Street over Wall Street?",
+        "title": "Goldman staff named as suspects in Brazil investigation",
         "publicationDate": "2026-08-11",
         "category": "Other",
-        "summary": "Evidence is mounting that the divide is rather more difficult to fix than the new Federal Reserve chair had thought",
-        "url": "https://www.ft.com/content/45af4235-1bd1-4734-966a-1f513d25361c"
+        "summary": "Probe concerns shareholder dispute over cancer specialist Oncoclínicas",
+        "url": "https://www.ft.com/content/248cdbf4-b047-45d3-b543-a343135132b0?syn-25a6b1a6=1"
     },
     {
-        "id": "LSB11467",
-        "source": "Congressional Research Service",
-        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
+        "id": "https://www.ft.com/content/99824437-8173-4320-b84b-242c726ab437?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Chinese robot maker’s IPO 5,500 times oversubscribed by retail investors",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Unitree raises $900mn ahead of Shanghai listing expected later this month",
+        "url": "https://www.ft.com/content/99824437-8173-4320-b84b-242c726ab437?syn-25a6b1a6=1"
     },
     {
         "id": "R48934",
@@ -151,6 +232,15 @@
         "category": "Other",
         "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.5.pdf"
+    },
+    {
+        "id": "LSB11467",
+        "source": "Congressional Research Service",
+        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
     },
     {
         "id": "R49123",
@@ -306,24 +396,6 @@
         "url": "https://cms.hoover.org/research/why-future-education-wont-come-ivy-league"
     },
     {
-        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
-        "source": "European Council on Foreign Relations",
-        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
-        "publicationDate": "2026-08-10",
-        "category": "Africa",
-        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
-        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
-    },
-    {
-        "id": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/",
-        "source": "European Council on Foreign Relations",
-        "title": "Anti-corruption sanctions: Preparing for the time after Trump",
-        "publicationDate": "2026-08-10",
-        "category": "United States",
-        "summary": "Anti-corruption sanctions—and even the prospect of them—under the next US administration will be crucial to chances of peace in many parts of the world. Here’s how Europeans can play their part",
-        "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
-    },
-    {
         "id": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
         "source": "NPR Politics",
         "title": "Alabama heads into a second primary election after redistricting",
@@ -340,33 +412,6 @@
         "category": "Other",
         "summary": "The ex-Olympian accused of damaging the reflecting pool tells NPR the experience has been \"Orwellian\" and \"Kafkaesque.\" And it's not over yet: His lawyers are fighting to close the case permanently.",
         "url": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
-        "source": "NPR Politics",
-        "title": "Trump and RFK Jr. try again to upend vaccines for kids",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule.",
-        "url": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
-        "source": "NPR Politics",
-        "title": "'The Nerd Reich' tracks the 'unmasking of Silicon Valley's true politics'",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "Journalist Gil Durán argues that a small circle of Silicon Valley billionaires and venture capitalists have concluded that democracy is in their way — and that they should be governing in its place.",
-        "url": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-        "source": "NPR Politics",
-        "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "Lindell, of MyPillow, plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents.",
-        "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump"
     },
     {
         "id": "https://www.pbs.org/newshour/show/state-voting-officials-join-cisa-security-call-with-election-85-days-away",
@@ -441,69 +486,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/10/gop-lawmakers-release-fauci-texts-discussing-covid-vaccine-pregnancy/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/max-miller-remains-gop-nominee-ohio-house-race/",
-        "source": "Washington Post Politics",
-        "title": "Max Miller remains the GOP nominee in Ohio House race",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "A Monday afternoon deadline that would have allowed local party officials to select a replacement candidate has passed.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/max-miller-remains-gop-nominee-ohio-house-race/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/hunter-biden-tells-tucker-carlson-that-trump-poses-an-existential-threat/",
-        "source": "Washington Post Politics",
-        "title": "Hunter Biden tells Tucker Carlson that Trump poses an ‘existential threat’",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "Biden has made a point of talking to conservative media figures in recent months.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/hunter-biden-tells-tucker-carlson-that-trump-poses-an-existential-threat/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/how-economy-is-hurting-republicans-midterm-chances/",
-        "source": "Washington Post Politics",
-        "title": "How the economy is hurting Republicans’ midterm chances",
-        "publicationDate": "2026-08-10",
-        "category": "Economy",
-        "summary": "Voters right now broadly disapprove of the economy, Trump and, increasingly, Republicans in Congress.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/how-economy-is-hurting-republicans-midterm-chances/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Canada flight cancelled after child refuses to wear seat belt",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-        "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
-        "url": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "publicationDate": "2026-08-10",
-        "category": "Foreign Policy",
-        "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.cfr.org/articles/the-bombing-of-nagasaki",
         "source": "Council on Foreign Relations",
         "title": "The Bombing of Nagasaki",
@@ -529,15 +511,6 @@
         "category": "Foreign Policy",
         "summary": "For years, the fertility industry has attacked restorative reproductive medicine with two contradictory arguments. The first is that RRM is not real medicine. The American Society for Reproductive Medicine (ASRM) dismisses it as an unrecognized subspecialty, and editorials in the industry’s own journals characterize it as unscientific and ideologically driven. The second is that the infertility treatment is...",
         "url": "https://www.heritage.org/health-care-reform/commentary/what-the-fertility-industry-doesnt-want-couples-hear"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
-        "source": "European Council on Foreign Relations",
-        "title": "Latin America’s new imaginaries",
-        "publicationDate": "2026-08-07",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
-        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
@@ -574,24 +547,6 @@
         "category": "Article",
         "summary": "The decision to drop an atomic bomb on Hiroshima continues to stir debate today.",
         "url": "https://www.cfr.org/articles/the-bombing-of-hiroshima"
-    },
-    {
-        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
-        "source": "European Council on Foreign Relations",
-        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
-        "publicationDate": "2026-08-06",
-        "category": "Foreign Policy",
-        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
-        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
-    },
-    {
-        "id": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
-        "source": "European Council on Foreign Relations",
-        "title": "Hamas has agreed to disarm. Israel should now agree to peace",
-        "publicationDate": "2026-08-06",
-        "category": "Israel / Palestine",
-        "summary": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
-        "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3667-1.html",
