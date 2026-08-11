@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://cms.hoover.org/research/can-ai-libel-you-robby-starbuck-case",
+        "source": "Hoover Institution",
+        "title": "Can AI Libel You? The Robby Starbuck Case",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Eugene Volokh and Jane Bambauer break down the groundbreaking Robby Starbuck v. Google case and what it could mean for AI, defamation law, and the future of free speech.",
+        "url": "https://cms.hoover.org/research/can-ai-libel-you-robby-starbuck-case"
+    },
+    {
+        "id": "https://cms.hoover.org/research/thomas-sowell-legacy-conversation-justice-clarence-thomas",
+        "source": "Hoover Institution",
+        "title": "Thomas Sowell Legacy: A Conversation with Justice Clarence Thomas",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Justice Clarence Thomas reflects on the ideas, friendship, and intellectual courage of Thomas Sowell—and the enduring importance of thinking for oneself.",
+        "url": "https://cms.hoover.org/research/thomas-sowell-legacy-conversation-justice-clarence-thomas"
+    },
+    {
         "id": "https://www.npr.org/2026/08/11/nx-s1-5927242/primaries-in-wisconsin-and-minnesota-pit-progressives-against-moderates",
         "source": "NPR Politics",
         "title": "Primaries in Wisconsin and Minnesota pit progressives against moderates",
@@ -36,49 +54,58 @@
         "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump"
     },
     {
-        "id": "https://thehill.com/opinion/technology/6020988-ai-models-hack-hugging-face/",
+        "id": "https://thehill.com/homenews/education/6021301-doj-lawsuit-new-york-state-tuition-assistance-undocumented-students/",
         "source": "The Hill",
-        "title": "Hacks by runaway AI are foreseeable. We’re letting them happen.",
+        "title": "DOJ sues NY to block in-state tuition for undocumented students",
         "publicationDate": "2026-08-11",
-        "category": "Technology",
-        "summary": "There is a point of no return ahead: a point where we can’t simply turn the AIs off because they’d escape and turn us off instead.",
-        "url": "https://thehill.com/opinion/technology/6020988-ai-models-hack-hugging-face/"
+        "category": "Education",
+        "summary": "The federal government has sued New York, Connecticut, and Vermont to block undocumented immigrants from receiving in-state college tuition and financial assistance, alleging the state policies violate federal law.",
+        "url": "https://thehill.com/homenews/education/6021301-doj-lawsuit-new-york-state-tuition-assistance-undocumented-students/"
     },
     {
-        "id": "https://thehill.com/opinion/energy-environment/5979384-high-ethanol-marine-engine-risks/",
+        "id": "https://thehill.com/opinion/white-house/6020950-blanche-attorney-general-confirmed/",
         "source": "The Hill",
-        "title": "Before more E15 reaches the pump, boaters deserve a real warning",
+        "title": "The Blanche appointment is another Trump win that's America's loss",
+        "publicationDate": "2026-08-11",
+        "category": "Opinions - White House",
+        "summary": "He will serve only Donald Trump, not our precious rule of law.",
+        "url": "https://thehill.com/opinion/white-house/6020950-blanche-attorney-general-confirmed/"
+    },
+    {
+        "id": "https://thehill.com/opinion/energy-environment/5975103-india-indonesia-energy-trade/",
+        "source": "The Hill",
+        "title": "Indonesia and India are jointly planning a hydrocarbon-powered future",
         "publicationDate": "2026-08-11",
         "category": "Opinions - Energy and Environment",
-        "summary": "At a minimum, we need clear, highly visible pump labels with standardized language that says plainly: \"E15 is not for boats.\"",
-        "url": "https://thehill.com/opinion/energy-environment/5979384-high-ethanol-marine-engine-risks/"
+        "summary": "Hydrocarbons are still the future of energy.",
+        "url": "https://thehill.com/opinion/energy-environment/5975103-india-indonesia-energy-trade/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6021344-progressives-face-midterm-test-wisconsin-minnesota/",
+        "id": "https://thehill.com/homenews/space/6019888-perseid-meteor-shower-2026-light-show-what-to-know/",
         "source": "The Hill",
-        "title": "Progressives face latest test in Midwest with Hong, Flanagan",
+        "title": "Perseid meteor shower: When is the best time to watch the summer light show?",
         "publicationDate": "2026-08-11",
-        "category": "Campaign",
-        "summary": "Progressives are facing their latest test in this week’s Wisconsin and Minnesota primaries as Democrats grapple with their party’s direction in the high-stakes midterm elections. In Wisconsin, democratic socialist Francesca Hong has surged in the swing state’s Democratic primary for governor amid concerns that candidates from the party's far-left flank could be a liability in the midterms. And in...",
-        "url": "https://thehill.com/homenews/campaign/6021344-progressives-face-midterm-test-wisconsin-minnesota/"
+        "category": "Space",
+        "summary": "The Perseid summer light show is back — and viewing conditions are especially promising for the Northern Hemisphere.",
+        "url": "https://thehill.com/homenews/space/6019888-perseid-meteor-shower-2026-light-show-what-to-know/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6021361-gop-senators-thune-trump/",
+        "id": "https://thehill.com/newsletters/the-movement/6021209-gop-burrito-affordability/",
         "source": "The Hill",
-        "title": "GOP senators rally behind Thune in response to Trump jabs at leader",
+        "title": "The Movement: A $20 burrito and a fight over affordability",
         "publicationDate": "2026-08-11",
-        "category": "Senate",
-        "summary": "Senate Republicans are rallying behind Senate Majority Leader John Thune (R-S.D.) after President Trump declined to support the GOP leader serving another term following the midterm election. Many Republican senators say Thune will have their full support, even if Trump backs a challenger because of the Senate leader's refusal to abolish the filibuster to advance...",
-        "url": "https://thehill.com/homenews/senate/6021361-gop-senators-thune-trump/"
+        "category": "The Movement",
+        "summary": "A personal note to readers from Emily Brooks: I have welcomed my second child! I’ll be out on maternity leave for the next few months, and Helen, our Senate reporter, will take over writing of The Movement in the meantime. Please continue to share your insights, events, scoops and announcements with her. I look forward...",
+        "url": "https://thehill.com/newsletters/the-movement/6021209-gop-burrito-affordability/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6021352-trump-middle-east-troubles/",
-        "source": "The Hill",
-        "title": "The Memo: Mideast troubles press in on Trump",
+        "id": "https://www.nytimes.com/2026/08/11/us/politics/trump-state-department-visa-revocations.html",
+        "source": "New York Times Politics",
+        "title": "U.S. Says It Revoked More Than 175,000 Visas Under Trump",
         "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "President Trump is facing trouble on two fronts in the Middle East — and it’s not clear how he gets out of it. Iran is pressing what it sees as its strategic advantage over control of the Strait of Hormuz, ratcheting up its rhetoric and its demands. The Islamic Republic’s leadership is now insisting the...",
-        "url": "https://thehill.com/homenews/administration/6021352-trump-middle-east-troubles/"
+        "category": "Other",
+        "summary": "Most visas were rescinded over criminal accusations, the State Department said, while some were revoked from people who had celebrated the assassination of Charlie Kirk.",
+        "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-state-department-visa-revocations.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/11/us/politics/democrats-max-miller-ohio-abuse-accusations.html",
@@ -117,6 +144,15 @@
         "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/08/11/north-carolina-republicans-pick-replacement-embattled-rep-chuck-edwards/",
+        "source": "Washington Post Politics",
+        "title": "North Carolina Republicans pick replacement for embattled Rep. Chuck Edwards",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "State lawmaker Jennifer Balkcom will face Democrat Jamie Ager, a fifth-generation farmer, in November.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/11/north-carolina-republicans-pick-replacement-embattled-rep-chuck-edwards/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/08/11/here-are-races-you-should-watch-today/",
         "source": "Washington Post Politics",
         "title": "Here are the races you should watch today",
@@ -151,15 +187,6 @@
         "category": "Other",
         "summary": "The president is seeking ways around rulings on tariffs, birthright citizenship and the Fed. Experts say the moves don’t signal outright defiance, but they push the court’s limits.",
         "url": "https://www.washingtonpost.com/politics/2026/08/11/trump-seeks-preserve-major-policies-after-adverse-supreme-court-rulings/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/",
-        "source": "Washington Post Politics",
-        "title": "Trump demands major changes to childhood vaccine recommendations",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "The president signed an order advising states to revise their rules. He also called for narrowing which vaccines are administered to children and splitting shots into multiple appointments.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
@@ -207,6 +234,42 @@
         "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/e4b66f65-ae0d-45cd-aede-8662de3495b1?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How to stop Warsh becoming a lame duck",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "The Federal Reserve chair needs to assert his authority or others will usurp his natural role",
+        "url": "https://www.ft.com/content/e4b66f65-ae0d-45cd-aede-8662de3495b1?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/aa5ea665-2c80-490f-b410-ea48cbdaf9cd",
+        "source": "Financial Times World",
+        "title": "For prisons to work, we need to look at what is happening inside them",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "The row over early releases ignores the fact that many will soon return without proper educational funding",
+        "url": "https://www.ft.com/content/aa5ea665-2c80-490f-b410-ea48cbdaf9cd"
+    },
+    {
+        "id": "https://www.ft.com/content/97812a6a-b8ae-4b53-9b67-397250bc5c80?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Intel investors are banking on a comeback — and then some",
+        "publicationDate": "2026-08-11",
+        "category": "Economy",
+        "summary": "The spillover of AI mania has transformed demand and pricing",
+        "url": "https://www.ft.com/content/97812a6a-b8ae-4b53-9b67-397250bc5c80?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f789a20e-967d-4a58-bad0-52ccdd2a79da",
+        "source": "Financial Times World",
+        "title": "Sky City by Jacqueline Crooks — tuning into trauma",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Pirate radio offers solace for a troubled young north London woman in the follow-up to Crooks’s acclaimed debut, ‘Fire Rush’",
+        "url": "https://www.ft.com/content/f789a20e-967d-4a58-bad0-52ccdd2a79da"
+    },
+    {
         "id": "https://www.ft.com/content/b957441e-ac7d-4dbd-a024-3af989ef7a44?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "FirstFT: EU border checks double waiting times",
@@ -214,51 +277,6 @@
         "category": "Other",
         "summary": "Also in today’s newsletter: Chinese humanoid robot company prepares for IPO and Colombia earthquake death toll rises above 100",
         "url": "https://www.ft.com/content/b957441e-ac7d-4dbd-a024-3af989ef7a44?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/21acee15-501b-45b6-9fc2-4202d9a66c76?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham vows to stop early release of PC Harper’s killers",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "PM says he is ‘increasingly confident’ prison space can be freed up to keep more serious criminals in jail",
-        "url": "https://www.ft.com/content/21acee15-501b-45b6-9fc2-4202d9a66c76?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/d891285a-e581-45b7-8cb0-80411669c1eb?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Deutsche becomes first European clearing bank for renminbi",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "China seeks to increase international use of its currency",
-        "url": "https://www.ft.com/content/d891285a-e581-45b7-8cb0-80411669c1eb?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a2dadec1-173f-40a9-89c0-2cf83f78de2a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump warns ditching Infantino would be ‘terrible mistake’",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "Comments come as Fifa president faces pressure to resign over private fundraising fiasco",
-        "url": "https://www.ft.com/content/a2dadec1-173f-40a9-89c0-2cf83f78de2a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/248cdbf4-b047-45d3-b543-a343135132b0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Goldman staff named as suspects in Brazil investigation",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "Probe concerns shareholder dispute over cancer specialist Oncoclínicas",
-        "url": "https://www.ft.com/content/248cdbf4-b047-45d3-b543-a343135132b0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "R48934",
-        "source": "Congressional Research Service",
-        "title": "Introduction to Tribal Forestry",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.5.pdf"
     },
     {
         "id": "LSB11467",
@@ -270,6 +288,15 @@
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
     },
     {
+        "id": "R48934",
+        "source": "Congressional Research Service",
+        "title": "Introduction to Tribal Forestry",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.5.pdf"
+    },
+    {
         "id": "R49123",
         "source": "Congressional Research Service",
         "title": "SBA’s Office of Inspector General and Its Relationship with Congress: In Brief",
@@ -277,15 +304,6 @@
         "category": "Economy",
         "summary": "Offices of the Inspector General (OIGs) exist in more than 70 federal agencies, including all Cabinet departments and larger agencies, numerous boards and commissions, and other entities. Together, OIGs and the Government Accountability Office (GAO) provide Congress with information and analysis to conduct oversight and, in the process, help Congress maintain its balance of power with the presidency. As with other...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49123/R49123.1.pdf"
-    },
-    {
-        "id": "RS20946",
-        "source": "Congressional Research Service",
-        "title": "Medicare: Insolvency Projections",
-        "publicationDate": "2026-08-10",
-        "category": "Economy",
-        "summary": "Medicare, the federal health insurance program that pays for covered health services for enrolled beneficiaries, provided coverage to approximately 70.7 million beneficiaries in 2026 and incurred total expenditures of approximately $1.33 trillion, of which $481 billion was paid by Part A. Part A, also known as Hospital Insurance (HI), covers primarily inpatient care at health facilities such as hospitals and...",
-        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS20946/RS20946.31.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3197-1.html",
@@ -405,24 +423,6 @@
         "url": "https://cms.hoover.org/research/us-job-market-stalled-july-employers-cut-23000-jobs-delivering-political-setback-trump"
     },
     {
-        "id": "https://cms.hoover.org/research/defending-taiwan-and-limits-military-only-deterrence",
-        "source": "Hoover Institution",
-        "title": "‘Defending Taiwan’ And The Limits Of Military-Only Deterrence",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "Hoover Institution fellow Eyck Freymann concludes in his new book, Defending Taiwan, that the U.S. military forces necessary to provide stability in East Asia have indeed fallen behind China’s. In response, Freymann argues that the United States needs a more coherent strategy to prevent war.",
-        "url": "https://cms.hoover.org/research/defending-taiwan-and-limits-military-only-deterrence"
-    },
-    {
-        "id": "https://cms.hoover.org/research/why-future-education-wont-come-ivy-league",
-        "source": "Hoover Institution",
-        "title": "Why The Future Of Education Won’t Come From The Ivy League",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Peter Berkowitz makes the case that liberal education isn’t dead yet, and that the path forward runs through new institutions, not old ones.",
-        "url": "https://cms.hoover.org/research/why-future-education-wont-come-ivy-league"
-    },
-    {
         "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
         "source": "European Council on Foreign Relations",
         "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
@@ -493,15 +493,6 @@
         "category": "In Pursuit of Happiness",
         "summary": "Judy Woodruff has been speaking to a host of experts about the country's 250th anniversary for her \"In Pursuit of Happiness\" podcast. That includes conversations about the roles satire, national parks and music have played in our history. The latest episode looks at how American English evolved. As it turns out, there's one word that reveals a lot about the way we speak.",
         "url": "https://www.pbs.org/newshour/show/how-pop-culture-and-social-media-are-changing-how-people-talk"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html",
-        "source": "New York Times Politics",
-        "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
-        "publicationDate": "2026-08-10",
-        "category": "Politics and Government",
-        "summary": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html"
     },
     {
         "id": "https://www.cfr.org/articles/the-bombing-of-nagasaki",
@@ -664,6 +655,15 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
+    },
+    {
+        "id": "LSB11108",
+        "source": "Congressional Research Service",
+        "title": "The Second Amendment at the Supreme Court: Challenges to Federal Gun Laws",
+        "publicationDate": "2026-03-09",
+        "category": "Defense",
+        "summary": "Ratified in 1791, the Second Amendment provides, “A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.” For over two hundred years, the Supreme Court remained largely silent on the scope and meaning of the Second Amendment. In a series of relatively recent decisions, however, the Court has provided guidance on the substance...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11108/LSB11108.7.pdf"
     },
     {
         "id": "IF12610",
