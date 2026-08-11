@@ -135,6 +135,15 @@
         "url": "https://cms.hoover.org/research/can-ai-libel-you-robby-starbuck-case"
     },
     {
+        "id": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
+        "source": "NPR Politics",
+        "title": "A judge expands a block on U.S. Postal Service work on Trump's mail-in voting order",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "A federal judge expanded a block on a key part of President Trump's order to restrict mail-in voting for this fall's midterms, banning the Postal Service from carrying out directives in every state.",
+        "url": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps"
+    },
+    {
         "id": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
         "source": "NPR Politics",
         "title": "5 questions parents may have after Trump's latest vaccine move",
@@ -169,15 +178,6 @@
         "category": "Other",
         "summary": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029.",
         "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-        "source": "NPR Politics",
-        "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
-        "url": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/what-to-watch-in-primaries-in-wisconsin-and-minnesota-and-beyond",
@@ -225,49 +225,67 @@
         "url": "https://www.pbs.org/newshour/politics/live-results-vermont-midterm-primaries"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6023428-doj-monitors-minnesota-primary/",
+        "id": "https://thehill.com/homenews/administration/6023425-trump-air-force-one-turkey-secret-service-ruse/",
         "source": "The Hill",
-        "title": "Justice Department sends team to monitor Minnesota primary elections",
-        "publicationDate": "2026-08-11",
-        "category": "State Watch",
-        "summary": "The Justice Department (DOJ) deployed staff to monitor polling sites in two of Minnesota's largest counties during the state’s primary election on Tuesday. Around 20 people from the voting section of the DOJ’s Civil Rights Division are participating in this effort at voting centers in Hennepin County and Ramsey County, the DOJ said. In a...",
-        "url": "https://thehill.com/homenews/state-watch/6023428-doj-monitors-minnesota-primary/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6023464-clinton-decoy-plane-pakistan/",
-        "source": "The Hill",
-        "title": "Air Force One has been used as a ‘decoy’ before: I was there",
+        "title": "Air Force One swap calls into question Trump's safety abroad",
         "publicationDate": "2026-08-11",
         "category": "Defense",
-        "summary": "I was one of the journalists on Air Force One when the president slipped into a smaller plane just before takeoff to avoid possible anti-aircraft fire in a dangerous part of the world. I had mixed feelings about my predicament. With typical gallows humor, my colleagues in the White House press corps joked about our...",
-        "url": "https://thehill.com/homenews/administration/6023464-clinton-decoy-plane-pakistan/"
+        "summary": "A newly reported Secret Service ruse to fly President Trump out of the NATO summit last month in Turkey amid an assassination threat from Iran is raising questions about the president’s security while traveling abroad. Trump left Ankara on an alternate aircraft because of the threat, The Washington Post first reported Monday. After announcing he...",
+        "url": "https://thehill.com/homenews/administration/6023425-trump-air-force-one-turkey-secret-service-ruse/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6023207-ai-reshapes-campaign-trail/",
+        "id": "https://thehill.com/policy/energy-environment/6023519-noaa-ends-arctic-report-card-support/",
         "source": "The Hill",
-        "title": "AI reshapes traditional campaign strategies",
+        "title": "NOAA pulls support from Arctic climate report",
         "publicationDate": "2026-08-11",
-        "category": "Defense",
-        "summary": "Artificial intelligence is reshaping the campaign trail, as candidates up and down the ballot turn to the technology for deepfake attack ads, viral social media posts and self-promotion. The embrace of AI as a political tool varies across political lines and races, drawing debate over whether deepfake content — particularly realistic videos or audio —...",
-        "url": "https://thehill.com/policy/technology/6023207-ai-reshapes-campaign-trail/"
+        "category": "Energy & Environment",
+        "summary": "The National Oceanic and Atmospheric Administration (NOAA) is pulling its support from an Arctic climate and environment report it has helped with in the past. Rick Thoman, lead editor for the 2026 Arctic Report Card, said that participants were informed Monday that they would no longer receive assistance from the government agency. “We were informed...",
+        "url": "https://thehill.com/policy/energy-environment/6023519-noaa-ends-arctic-report-card-support/"
     },
     {
-        "id": "https://thehill.com/policy/international/6023127-syrian-court-bashar-assad-death-sentence/",
+        "id": "https://thehill.com/policy/healthcare/6023406-ken-paxton-texas-surrogacy-birth-defect/",
         "source": "The Hill",
-        "title": "Syrian court sentences Assad to death in absentia",
+        "title": "Ken Paxton demands protection for surrogate and unborn child with birth defect",
         "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "A Syrian court on Tuesday sentenced ousted former President Bashar al-Assad to death in absentia after it convicted him on counts of murder, torture and crimes against humanity before and after the country's civil war. The sentencing by the Fourth Criminal Court in Damascus is the first against al-Assad since the dictator was overthrown in...",
-        "url": "https://thehill.com/policy/international/6023127-syrian-court-bashar-assad-death-sentence/"
+        "category": "Healthcare",
+        "summary": "Texas Attorney General Ken Paxton (R) has intervened in a Dallas County surrogacy case involving an unborn baby with a severe heart defect, seeking to ensure the fetus receives life-saving medical treatment after birth despite objections from his intended parents. The unborn child, who Paxton’s office referred to as “baby Gabriel,” was diagnosed in utero...",
+        "url": "https://thehill.com/policy/healthcare/6023406-ken-paxton-texas-surrogacy-birth-defect/"
     },
     {
-        "id": "https://thehill.com/video-clips/6023238-watch-live-donald-trump-patriot-games-ohio-student-athletes/",
+        "id": "https://thehill.com/homenews/senate/6023448-cornyn-cassidy-vaccine-dispute-trump/",
         "source": "The Hill",
-        "title": "Watch live: Trump attends Patriot Games in Ohio",
+        "title": "Cornyn posts data on vaccines preventing deaths after Trump executive order",
         "publicationDate": "2026-08-11",
-        "category": "Video",
-        "summary": "President Trump is set to attend the Patriot Games in Geneva, Ohio, on Tuesday evening. The event, announced last year, will pit top high school athletes from across the country against one another as part of a series of events to mark the nation's 250th anniversary. One male and one female from each of the 50...",
-        "url": "https://thehill.com/video-clips/6023238-watch-live-donald-trump-patriot-games-ohio-student-athletes/"
+        "category": "Senate",
+        "summary": "Sen. John Cornyn (R-Texas) shared a post on Tuesday touting the effectiveness of vaccines following President Trump’s executive order seeking to decrease childhood vaccines and buck the standard order of shots by dividing immunizations for mumps, measles and rubella (MMR). “Since 1974, vaccination has averted 154 million deaths, including 146 million among children younger than...",
+        "url": "https://thehill.com/homenews/senate/6023448-cornyn-cassidy-vaccine-dispute-trump/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6002654-live-results-connecticut-house-primaries/",
+        "source": "The Hill",
+        "title": "Live results: Larson faces primary challenge from Bronin in Connecticut House race",
+        "publicationDate": "2026-08-11",
+        "category": "Campaign",
+        "summary": "All five of Connecticut's House members are running for reelection, but just one is facing a contested primary Tuesday. Democratic Rep. John Larson is facing off against former Hartford Mayor Luke Bronin and two other candidates for the party's nomination. Larson secured support from the state's Democratic Sens. Richard Blumenthal and Chris Coons, while Bronin...",
+        "url": "https://thehill.com/homenews/campaign/6002654-live-results-connecticut-house-primaries/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/11/us/politics/minnesota-angie-craig-fundraising-advantage.html",
+        "source": "New York Times Politics",
+        "title": "Angie Craig Has Cash Edge Over Peggy Flanagan in Minnesota’s Democratic Senate Primary",
+        "publicationDate": "2026-08-11",
+        "category": "Craig",
+        "summary": "Representative Angie Craig has benefited from nearly $10 million in spending from groups whose donors remain hidden, giving her an advantage in her Senate primary against Lt. Gov. Peggy Flanagan.",
+        "url": "https://www.nytimes.com/2026/08/11/us/politics/minnesota-angie-craig-fundraising-advantage.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/11/upshot/democrats-trump-frozen-transit-funds.html",
+        "source": "New York Times Politics",
+        "title": "Democrats Accuse Trump Administration of Stonewalling Major Transit Projects",
+        "publicationDate": "2026-08-11",
+        "category": "Transit Systems",
+        "summary": "Congressional Democrats express concern that the delays involve “political considerations.”",
+        "url": "https://www.nytimes.com/2026/08/11/upshot/democrats-trump-frozen-transit-funds.html"
     },
     {
         "id": "https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/this-is-how-president-trump-came-to-back-darline-graham",
@@ -297,22 +315,13 @@
         "url": "https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html",
-        "source": "New York Times Politics",
-        "title": "Ex-Marine Robert Gilman Is Freed by Russia After 4 Years in Prison",
+        "id": "https://www.washingtonpost.com/politics/2026/08/11/rule-could-let-parents-put-2500-into-child-trump-accounts-tax-free/",
+        "source": "Washington Post Politics",
+        "title": "Rule could let parents put $2,500 into child ‘Trump accounts’ tax-free",
         "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "The Kremlin released Robert Gilman, whose family and an advocacy group had said he was in dire physical condition, on “a humanitarian basis,” President Trump said.",
-        "url": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html",
-        "source": "New York Times Politics",
-        "title": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "The Iranian strikes that killed three U.S. soldiers in Jordan show how quickly Iran’s war-fighting skills have evolved, as the Pentagon runs low on interceptors.",
-        "url": "https://www.nytimes.com/2026/08/11/us/politics/iran-military-base-attacks-us-munitions.html"
+        "category": "Economy",
+        "summary": "Proposed guidance from the Treasury Department clarifies how employer and employee contributions to the new accounts would work.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/11/rule-could-let-parents-put-2500-into-child-trump-accounts-tax-free/"
     },
     {
         "id": "https://www.washingtonpost.com/dc-md-va/2026/08/11/house-democrats-seek-records-dropped-reflecting-pool-case-against-ex-olympian/",
@@ -351,15 +360,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/11/partisan-age-democratic-governor-goes-outside-her-brand-running-mate/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/11/data-center-backlash-is-building/",
-        "source": "Washington Post Politics",
-        "title": "The data center backlash is building",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "Just in time for the midterm elections.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/11/data-center-backlash-is-building/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -378,13 +378,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+        "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
         "publicationDate": "2026-08-11",
-        "category": "Defense",
-        "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
-        "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+        "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
@@ -450,13 +450,22 @@
         "url": "https://www.ft.com/content/3e3de835-0a9e-43cc-bd7a-1043a5cf4266?syn-25a6b1a6=1"
     },
     {
-        "id": "LSB11467",
+        "id": "R49123",
         "source": "Congressional Research Service",
-        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
+        "title": "SBA’s Office of Inspector General and Its Relationship with Congress: In Brief",
+        "publicationDate": "2026-08-10",
+        "category": "Economy",
+        "summary": "Offices of the Inspector General (OIGs) exist in more than 70 federal agencies, including all Cabinet departments and larger agencies, numerous boards and commissions, and other entities. Together, OIGs and the Government Accountability Office (GAO) provide Congress with information and analysis to conduct oversight and, in the process, help Congress maintain its balance of power with the presidency. As with other...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49123/R49123.2.pdf"
+    },
+    {
+        "id": "IF12610",
+        "source": "Congressional Research Service",
+        "title": "Defense Primer: U.S. Space Force",
         "publicationDate": "2026-08-10",
         "category": "Defense",
-        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
+        "summary": "The U.S. Space Force, established by Congress in 2019 (P.L. 116-92, §952), is one of the six branches of the Armed Forces. According to Title 10, Section 9081, of the U.S. Code, “The Space Force shall be organized, trained, and equipped to—(1) provide freedom of operation for the United States in, from, and to space; (2) conduct space operations; and (3) protect the interests of the United States in space.” Since...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12610/IF12610.8.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3197-1.html",
@@ -648,22 +657,13 @@
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
     },
     {
-        "id": "R47203",
-        "source": "Congressional Research Service",
-        "title": "Microsoft’s Proposed Acquisition of Activision Blizzard: In Brief",
-        "publicationDate": "2022-08-03",
-        "category": "Other",
-        "summary": "On January 18, 2022, Microsoft Corp. announced plans to acquire Activision Blizzard Inc., a video game company, for $68.7 billion. The Federal Trade Commission (FTC) is reviewing the acquisition, as provided under the Hart-Scott-Rodino Act (HSR), to determine whether its effect might be “substantially to lessen competition”—a violation of Section 7 of the Clayton Act. Competition authorities in other countries are...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47203/R47203.2.pdf"
-    },
-    {
         "id": "R46824",
         "source": "Congressional Research Service",
         "title": "Need-Tested Benefits: Technical Companion to Selected CRS Reports on Need-Tested Benefits Receipt by Families and Individuals",
         "publicationDate": "2021-06-30",
         "category": "Other",
         "summary": "The COVID-19 pandemic has highlighted the financial insecurity faced by some families and individuals. For some, this insecurity reflects the economic impact of the pandemic; for others, the insecurity preceded the pandemic. Congress responded to the economic fallout of the pandemic through providing ad-hoc assistance to families and individuals, making (mostly) temporary changes to existing programs.",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46824/R46824.3.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46824/R46824.4.pdf"
     },
     {
         "id": "R46487",
@@ -672,6 +672,6 @@
         "publicationDate": "2021-05-06",
         "category": "Defense",
         "summary": "Over the years, Congress has passed legislation to provide access to lawful permanent resident (LPR) status to certain groups of foreign nationals living in the United States without permanent immigration status. The 116th Congress passed a measure of this type entitled Liberian Refugee Immigration Fairness (LRIF). LRIF provides an opportunity for Liberians who have been continuously present in the United States...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46487/R46487.7.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46487/R46487.8.pdf"
     }
 ]
