@@ -1,5 +1,14 @@
 [
     {
+        "id": "R48934",
+        "source": "Congressional Research Service",
+        "title": "Introduction to Tribal Forestry",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.6.pdf"
+    },
+    {
         "id": "R48284",
         "source": "Congressional Research Service",
         "title": "The Congressional Budget Resolution: Frequently Asked Questions",
@@ -7,15 +16,6 @@
         "category": "Economy",
         "summary": "The Congressional Budget Act of 1974 (the Budget Act) provides for the adoption of a concurrent resolution on the budget by April 15 each year for the fiscal year beginning October 1. By writing a budget resolution, Congress helps guide federal spending and revenue policies for the year. It is also the only way to initiate reconciliation, a fast-track procedure for enacting those policies into law. A budget...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R48284/R48284.10.pdf"
-    },
-    {
-        "id": "R49124",
-        "source": "Congressional Research Service",
-        "title": "New World Screwworm: Background and Issues for Congress",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "The New World screwworm (NWS; Cochliomyia hominivorax) is a parasitic fly whose larvae infest warm-blooded animals, including livestock, wildlife, pets, birds, and humans. Female flies lay eggs in wounds or mucous membranes, and the larvae feed on living tissue, causing myiasis. Untreated infestations may result in severe tissue damage, secondary infections, reduced livestock productivity, or death. NWS was...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49124/R49124.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
@@ -38,11 +38,20 @@
     {
         "id": "https://www.cfr.org/articles/trumps-iran-negotiations-trade-the-art-of-the-deal-for-the-art-of-concealing-defeat",
         "source": "Council on Foreign Relations",
-        "title": "Trump's Iran Negotiations: Less Art of the Deal, More Art of Concealing Defeat",
+        "title": "Trump’s Iran Negotiations: Less Art of the Deal, More Art of Concealing Defeat",
         "publicationDate": "2026-08-11",
         "category": "Foreign Policy",
         "summary": "Trump’s desire to end the confrontation with Iran quickly, so oil flows and prices drop, has left him with no real bargaining position. That has emboldened Iran to demand a deal that would let it monetize the Strait of Hormuz and reassert the dominance the region has spent two years fighting to unwind.",
         "url": "https://www.cfr.org/articles/trumps-iran-negotiations-trade-the-art-of-the-deal-for-the-art-of-concealing-defeat"
+    },
+    {
+        "id": "https://www.hudson.org/politics-government/israels-wartime-boom-michael-doran",
+        "source": "Hudson Institute",
+        "title": "Israel’s Wartime Boom",
+        "publicationDate": "2026-08-11",
+        "category": "Economy",
+        "summary": "Israel’s Wartime Boom acabral-sanche… Tue, 08/11/2026 - 09:44 SVG Podcast Aug 10, 2026 Israel Update Israel’s Wartime Boom Michael Doran Senior Fellow and Director, Center for Peace and Security in the Middle East Michael Doran Podcast Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail...",
+        "url": "https://www.hudson.org/politics-government/israels-wartime-boom-michael-doran"
     },
     {
         "id": "https://cms.hoover.org/research/can-ai-libel-you-robby-starbuck-case",
@@ -72,15 +81,6 @@
         "url": "https://www.npr.org/2026/08/11/nx-s1-5927242/primaries-in-wisconsin-and-minnesota-pit-progressives-against-moderates"
     },
     {
-        "id": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-        "source": "NPR Politics",
-        "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates.",
-        "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump"
-    },
-    {
         "id": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
         "source": "NPR Politics",
         "title": "Armed troops have patrolled D.C. for 1 year now. It's challenging democratic norms",
@@ -97,6 +97,24 @@
         "category": "Other",
         "summary": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
         "url": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
+        "source": "NPR Politics",
+        "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates.",
+        "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat",
+        "source": "PBS NewsHour Politics",
+        "title": "Report: Trump used elaborate ruse to fly out of Turkey following summit because of Iran threat",
+        "publicationDate": "2026-08-11",
+        "category": "Defense",
+        "summary": "President Donald Trump secretly flew out of last month's NATO summit in Ankara, Turkey, on an alternate military aircraft while the White House made it appear that the Republican president was flying on Air Force One, according to a report published by The Washington Post on Monday.",
+        "url": "https://www.pbs.org/newshour/politics/report-trump-used-elaborate-ruse-to-fly-out-of-turkey-following-summit-because-of-iran-threat"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/former-u-s-marine-held-in-russia-for-more-than-4-years-has-been-released-advocates-say",
@@ -135,58 +153,49 @@
         "url": "https://www.pbs.org/newshour/politics/live-results-minnesota-midterm-primaries"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/live-results-wisconsin-midterm-primaries",
-        "source": "PBS NewsHour Politics",
-        "title": "Live Results: Wisconsin midterm primaries",
+        "id": "https://thehill.com/regulation/court-battles/6022815-sumpreme-court-colorado-catholic-preschool-case/",
+        "source": "The Hill",
+        "title": "Supreme Court schedules November arguments in major religion case",
         "publicationDate": "2026-08-11",
-        "category": "David Crowley",
-        "summary": "Wisconsin voters will decide another high-profile clash between the party's establishment and progressive wings in a gubernatorial primary on Tuesday.",
-        "url": "https://www.pbs.org/newshour/politics/live-results-wisconsin-midterm-primaries"
+        "category": "Court Battles",
+        "summary": "The Supreme Court will hear oral arguments on Nov. 3 in its major case asking whether Colorado can force Catholic preschools to enroll children of same-sex couples to receive public funds. The justices previously agreed to take up the case, which provides a pathway for the high court to narrow a major religious precedent. On Tuesday, the...",
+        "url": "https://thehill.com/regulation/court-battles/6022815-sumpreme-court-colorado-catholic-preschool-case/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6021632-live-updates-trump-iran-primary-elections-south-carolina-wisconsin-minnesota/",
+        "id": "https://thehill.com/newsletters/1230-report/6022721-trump-faces-backlash-over-childhood-vaccines-order/",
         "source": "The Hill",
-        "title": "Live updates: Iran holds to demands on Strait of Hormuz; Trump evades Tehran threat",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "Iranian Foreign Minister Abbas Araghchi said Tuesday the Strait of Hormuz won’t be reopened until the U.S. meets its conditions, after President Trump said he wants compensation from Iran “for all of the people that they have killed” in the past. He told reporters that Iran has “astonished the whole world” in the war against the United States and...",
-        "url": "https://thehill.com/homenews/administration/6021632-live-updates-trump-iran-primary-elections-south-carolina-wisconsin-minnesota/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6022666-frank-kendall-security-clearance-pentagon-lawsuit/",
-        "source": "The Hill",
-        "title": "Biden-era Air Force secretary says he'll sue over security clearance revocation",
+        "title": "Trump faces backlash over childhood vaccines order",
         "publicationDate": "2026-08-11",
         "category": "Defense",
-        "summary": "Former Air Force Secretary Frank Kendall is “gonna sue” the Trump administration after the Pentagon revoked his security clearance last week over accusations he disclosed classified information to the media. The Defense Department on Friday pulled Kendall’s eligibility for access to classified information as well as his “ability to hold any sensitive position,” accusing him...",
-        "url": "https://thehill.com/policy/defense/6022666-frank-kendall-security-clearance-pentagon-lawsuit/"
+        "summary": "Click in for The Hill's midday newsletter with all the latest news. {beacon} It's Tuesday: And it's shaping up to be a busy one, even with Congress on recess. In today's issue: Critics respond to Trump's vaccine order Trump's reported Air Force One ruse GOP senators rally for Thune Trump backs FIFA's Infantino...",
+        "url": "https://thehill.com/newsletters/1230-report/6022721-trump-faces-backlash-over-childhood-vaccines-order/"
     },
     {
-        "id": "https://thehill.com/policy/international/6022379-houthi-rebels-attack-mokha/",
+        "id": "https://thehill.com/opinion/finance/6021616-politicizing-us-banking-charters/",
         "source": "The Hill",
-        "title": "Iran-backed Houthi rebels renew attacks on key port city",
+        "title": "The dangerous politicization of bank charters",
         "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "Iran-backed Houthi rebels have renewed their attacks on the Yemeni government-held city of Mokha, a key port city along the Red Sea, amid their blockade on Saudi exports in response to the Iran war. The attack was preceded by a deadly strike on a vessel off Mokha's coast in the Bab el-Mandeb Strait, killing three...",
-        "url": "https://thehill.com/policy/international/6022379-houthi-rebels-attack-mokha/"
+        "category": "Economy",
+        "summary": "In an opinion piece, Patrick M. Brenner argues that the politicization of bank charters threatens financial inclusion and competition in the United States.",
+        "url": "https://thehill.com/opinion/finance/6021616-politicizing-us-banking-charters/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6022595-zuckerberg-yacht-alaska-rescue-controversy/",
+        "id": "https://thehill.com/policy/technology/6022646-openai-anthropic-cybersecurity-incidents/",
         "source": "The Hill",
-        "title": "Zuckerberg yacht did not hear call for assistance, spokesperson says",
+        "title": "House Democrats press AI giants on rogue agents",
         "publicationDate": "2026-08-11",
-        "category": "Technology",
-        "summary": "A yacht owned by Mark Zuckerberg is gaining controversy for not responding to a call for assistance made by a boat that ran out of fuel, but Brian Baker, a spokesperson for the Meta CEO, said that the crew did not hear the call. Baker added that by the time the crew aboard the ship...",
-        "url": "https://thehill.com/policy/technology/6022595-zuckerberg-yacht-alaska-rescue-controversy/"
+        "category": "Defense",
+        "summary": "A group of House Democrats are pushing two top artificial intelligence companies to disclose more information about reported incidents in which their AI models escaped containment and hacked into other companies during cybersecurity tests. The lawmakers cited the “serious risk that frontier AI models can pose” in separate letters to the top executives at Anthropic...",
+        "url": "https://thehill.com/policy/technology/6022646-openai-anthropic-cybersecurity-incidents/"
     },
     {
-        "id": "https://thehill.com/homenews/media/6022615-lahren-rips-gop-socialism/",
+        "id": "https://thehill.com/opinion/immigration/6021557-trump-revokes-tps-status/",
         "source": "The Hill",
-        "title": "Fox News’s Tomi Lahren: GOP an 'utter embarrassment'",
+        "title": "Trump's anti-immigration policies benefit America's enemies",
         "publicationDate": "2026-08-11",
-        "category": "Media",
-        "summary": "Fox News host Tomi Lahren ripped the Republican Party on Monday, arguing the GOP has failed working Americans so badly that socialism has become increasingly appealing to those struggling with the cost of living. “Let’s be frank about it, some Americans are turning to socialism because Republicans have failed us so dismally that even the...",
-        "url": "https://thehill.com/homenews/media/6022615-lahren-rips-gop-socialism/"
+        "category": "Opinions - Immigration",
+        "summary": "President Trump's administration revoked the legal status of over 350,000 immigrants under the Temporary Protected Status program following a Supreme Court ruling, sparking concerns regarding economic disruption and racial bias.",
+        "url": "https://thehill.com/opinion/immigration/6021557-trump-revokes-tps-status/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html",
@@ -234,6 +243,24 @@
         "url": "https://www.nytimes.com/2026/08/11/us/politics/what-to-watch-primary-elections.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/08/11/partisan-age-democratic-governor-goes-outside-her-brand-running-mate/",
+        "source": "Washington Post Politics",
+        "title": "In a partisan age, a Democratic governor goes outside her brand for a running mate",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Arizona Gov. Katie Hobbs (D), facing a tough reelection fight, chooses former mayor John Giles, a lifelong Republican who recently became an independent.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/11/partisan-age-democratic-governor-goes-outside-her-brand-running-mate/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/11/data-center-backlash-is-building/",
+        "source": "Washington Post Politics",
+        "title": "The data center backlash is building",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Just in time for the midterm elections.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/11/data-center-backlash-is-building/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/08/11/national-democrats-step-up-support-rep-max-millers-opponent/",
         "source": "Washington Post Politics",
         "title": "National Democrats step up support for Rep. Max Miller’s opponent",
@@ -261,24 +288,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/11/here-are-races-you-should-watch-today/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/11/trump-netanyahu-experience-tension-critical-election-year/",
-        "source": "Washington Post Politics",
-        "title": "Trump-Netanyahu rift widens as election pressures pull them in opposite directions",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "While the Israeli leader touts a willingness to defy the U.S. on Gaza, the president needs to show progress in the foreign entanglements weighing on his approval rating.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/11/trump-netanyahu-experience-tension-critical-election-year/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/11/trump-seeks-preserve-major-policies-after-adverse-supreme-court-rulings/",
-        "source": "Washington Post Politics",
-        "title": "Trump refuses to back down as Supreme Court blocks major policies",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "The president is seeking ways around rulings on tariffs, birthright citizenship and the Fed. Experts say the moves don’t signal outright defiance, but they push the court’s limits.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/11/trump-seeks-preserve-major-policies-after-adverse-supreme-court-rulings/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
@@ -293,7 +302,7 @@
         "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
         "publicationDate": "2026-08-11",
         "category": "Foreign Policy",
-        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
         "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -324,6 +333,24 @@
         "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Can Democrats seize Congress from Trump?",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "The races, the money and the issues that will determine the final half of Trump’s second term",
+        "url": "https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5bdb67a5-5c53-46aa-8a04-d0480e700ee4",
+        "source": "Financial Times World",
+        "title": "Will failure in Iran reshape how the US fights?",
+        "publicationDate": "2026-08-11",
+        "category": "Foreign Policy",
+        "summary": "Veterans and voters have punished past administrations for costly wars, but these days many Americans don’t seem to care",
+        "url": "https://www.ft.com/content/5bdb67a5-5c53-46aa-8a04-d0480e700ee4"
+    },
+    {
         "id": "https://www.ft.com/content/eae42796-43f5-408b-a735-1873e1fcbbe5?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "When trouble strikes, who shadow-banks the shadow bankers?",
@@ -351,24 +378,6 @@
         "url": "https://www.ft.com/content/14b208d4-1866-4cf2-a09e-424ffd2d9695?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/df4d2721-d84b-475a-8139-d58d7418a881?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Ari Emanuel buys theatre group ATG for £4.5bn",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "Deal by Hollywood mogul’s new venture Mari represents a big bet on continued demand for live events",
-        "url": "https://www.ft.com/content/df4d2721-d84b-475a-8139-d58d7418a881?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/de50af68-1d2d-4d03-aa4b-c0f7cdcc61d2?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Why Washington views Abu Dhabi as one of its most capable Middle East allies",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "Also in today’s newsletter, progressives gain ground as a Democratic socialist leads Wisconsin governor’s race",
-        "url": "https://www.ft.com/content/de50af68-1d2d-4d03-aa4b-c0f7cdcc61d2?syn-25a6b1a6=1"
-    },
-    {
         "id": "LSB11467",
         "source": "Congressional Research Service",
         "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
@@ -376,15 +385,6 @@
         "category": "Defense",
         "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
-    },
-    {
-        "id": "R48934",
-        "source": "Congressional Research Service",
-        "title": "Introduction to Tribal Forestry",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.5.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3197-1.html",
@@ -432,6 +432,15 @@
         "url": "https://www.heritage.org/american-history/commentary/americas-museum-culture-needs-overhaul"
     },
     {
+        "id": "https://www.hudson.org/politics-government/chinas-political-warfare-michael-sobolik",
+        "source": "Hudson Institute",
+        "title": "China’s Political Warfare",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "China’s Political Warfare acabral-sanche… Mon, 08/10/2026 - 16:31 SVG Podcast Aug 10, 2026 Breaking Battlegrounds China’s Political Warfare Michael Sobolik Senior Fellow Michael Sobolik Podcast Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail Print Print Michael Sobolik joins Breaking...",
+        "url": "https://www.hudson.org/politics-government/chinas-political-warfare-michael-sobolik"
+    },
+    {
         "id": "https://www.hudson.org/national-security-defense/trump-signals-shift-economic-pressure-iran-rebeccah-heinrichs",
         "source": "Hudson Institute",
         "title": "Trump Signals Shift to Economic Pressure on Iran",
@@ -459,24 +468,6 @@
         "url": "https://www.hudson.org/national-security-defense/peace-manufactured-its-negotiated-rebeccah-heinrichs"
     },
     {
-        "id": "https://www.hudson.org/politics-government/pakistans-constitutional-crisis-imran-khan-military-husain-haqqani",
-        "source": "Hudson Institute",
-        "title": "Pakistan’s Constitutional Crisis: Imran Khan and the Military",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "Pakistan’s Constitutional Crisis: Imran Khan and the Military acabral-sanche… Mon, 08/10/2026 - 09:57 SVG Podcast Aug 6, 2026 ThePrint Pakistan’s Constitutional Crisis: Imran Khan and the Military Husain Haqqani Senior Fellow Husain Haqqani Podcast Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to...",
-        "url": "https://www.hudson.org/politics-government/pakistans-constitutional-crisis-imran-khan-military-husain-haqqani"
-    },
-    {
-        "id": "https://www.hudson.org/domestic-policy/how-salvage-science-faucis-wake-mike-gallagher",
-        "source": "Hudson Institute",
-        "title": "How to Salvage Science in Fauci’s Wake",
-        "publicationDate": "2026-08-10",
-        "category": "Foreign Policy",
-        "summary": "How to Salvage Science in Fauci’s Wake acabral-sanche… Mon, 08/10/2026 - 09:50 SVG Commentary Aug 9, 2026 Wall Street Journal How to Salvage Science in Fauci’s Wake A White House report argues that competition and freedom can bring about a new ‘golden age.’ Mike Gallagher Distinguished Fellow Mike Gallagher Commentary Caption Former National Institutes of Health Director Anthony Fauci during a hearing with the...",
-        "url": "https://www.hudson.org/domestic-policy/how-salvage-science-faucis-wake-mike-gallagher"
-    },
-    {
         "id": "https://cms.hoover.org/research/illinois-pension-costs-consume-nearly-half-higher-education-spending",
         "source": "Hoover Institution",
         "title": "Illinois Pension Costs Consume Nearly Half Of Higher Education Spending",
@@ -502,6 +493,24 @@
         "category": "Other",
         "summary": "Hoover Institution fellow Marianna Kudlyak found that landing a job has gotten tougher in the past couple of years – surprisingly so.",
         "url": "https://cms.hoover.org/research/us-job-market-stalled-july-employers-cut-23000-jobs-delivering-political-setback-trump"
+    },
+    {
+        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
+        "source": "European Council on Foreign Relations",
+        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
+        "publicationDate": "2026-08-10",
+        "category": "Africa",
+        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
+        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
+    },
+    {
+        "id": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/",
+        "source": "European Council on Foreign Relations",
+        "title": "Anti-corruption sanctions: Preparing for the time after Trump",
+        "publicationDate": "2026-08-10",
+        "category": "United States",
+        "summary": "Anti-corruption sanctions—and even the prospect of them—under the next US administration will be crucial to chances of peace in many parts of the world. Here’s how Europeans can play their part",
+        "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
     },
     {
         "id": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
@@ -540,6 +549,15 @@
         "url": "https://www.heritage.org/health-care-reform/commentary/what-the-fertility-industry-doesnt-want-couples-hear"
     },
     {
+        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
+        "source": "European Council on Foreign Relations",
+        "title": "Latin America’s new imaginaries",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
+        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
         "source": "RAND Corporation",
         "title": "China's Retirement Reform and the 2035 Statutory Working-Age Window",
@@ -576,6 +594,24 @@
         "url": "https://www.cfr.org/articles/the-bombing-of-hiroshima"
     },
     {
+        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
+        "source": "European Council on Foreign Relations",
+        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
+        "publicationDate": "2026-08-06",
+        "category": "Foreign Policy",
+        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
+        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
+    },
+    {
+        "id": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
+        "source": "European Council on Foreign Relations",
+        "title": "Hamas has agreed to disarm. Israel should now agree to peace",
+        "publicationDate": "2026-08-06",
+        "category": "Israel / Palestine",
+        "summary": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
+        "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
+    },
+    {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
         "source": "Centre for European Reform",
         "title": "Survey: Centre for European Reform mailings",
@@ -585,13 +621,22 @@
         "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
     },
     {
+        "id": "R49056",
+        "source": "Congressional Research Service",
+        "title": "Reserve Component Duty Statuses: Background and Issues for Congress",
+        "publicationDate": "2026-08-03",
+        "category": "Defense",
+        "summary": "The Reserve Components (RCs) of the Armed Forces (the Army National Guard, Army Reserve, Navy Reserve, Marine Corps Reserve, Air National Guard, Air Force Reserve, and Coast Guard Reserve) largely consist of personnel who hold full-time civilian positions and are called to duty on a periodic basis. Reservists serve under a range of duty statuses. The status under which a reservist performs duty depends on the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49056/R49056.3.pdf"
+    },
+    {
         "id": "LSB11463",
         "source": "Congressional Research Service",
         "title": "The Department of Homeland Security’s Authority to Determine Detention Locations",
         "publicationDate": "2026-07-29",
         "category": "Economy",
         "summary": "The Department of Homeland Security (DHS) may detain aliens who have violated federal civil immigration laws and who are placed in removal proceedings or ordered removed. To carry out this function, Congress has directed the DHS Secretary to “arrange for appropriate places of detention for aliens detained pending removal or a decision on removal.” While DHS owns and operates some detention facilities, the agency...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11463/LSB11463.3.pdf"
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11463/LSB11463.5.pdf"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
