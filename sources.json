@@ -41,7 +41,7 @@
         "title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
         "publicationDate": "2026-08-11",
         "category": "Defense",
-        "summary": "President Trump hid in an airport catering cart and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
+        "summary": "President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
         "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
     },
     {
@@ -86,53 +86,80 @@
         "title": "At least 132 killed in Colombia's largest earthquake in years",
         "publicationDate": "2026-08-11",
         "category": "Other",
-        "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
+        "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
         "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/video/a908e208-a15d-4f57-8b17-85a6f3c1bbcc?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/b957441e-ac7d-4dbd-a024-3af989ef7a44?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "How to fix the housing crisis | John Burn-Murdoch",
+        "title": "FirstFT: EU border checks double waiting times",
         "publicationDate": "2026-08-11",
         "category": "Other",
-        "summary": "How housing shortages reached a crisis point, and what we can do about it",
-        "url": "https://www.ft.com/video/a908e208-a15d-4f57-8b17-85a6f3c1bbcc?syn-25a6b1a6=1"
+        "summary": "Also in today’s newsletter: Spain’s migrant amnesty and Turkish law on Kurdish militants",
+        "url": "https://www.ft.com/content/b957441e-ac7d-4dbd-a024-3af989ef7a44?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/c9c7c2dc-979e-49b2-a57f-77bb461bb7db?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/45af4235-1bd1-4734-966a-1f513d25361c",
         "source": "Financial Times World",
-        "title": "Hong Kong set to include trading firms in ‘big bang’ tax reforms",
+        "title": "What will Warsh do to favour Main Street over Wall Street?",
         "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Evidence is mounting that the divide is rather more difficult to fix than the new Federal Reserve chair had thought",
+        "url": "https://www.ft.com/content/45af4235-1bd1-4734-966a-1f513d25361c"
+    },
+    {
+        "id": "https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU border checks double queues at major airports",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Peak waiting times hit two hours in Frankfurt and Amsterdam",
+        "url": "https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/4c93c894-04b8-49dc-be41-98ae79f540f8?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Nvidia becomes the bank of AI",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "Wall Street groups are working with the chipmaker to assemble a $500bn funding package for AI infrastructure",
+        "url": "https://www.ft.com/content/4c93c894-04b8-49dc-be41-98ae79f540f8?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How AstraZeneca’s $400bn tie-up with US rival Bristol Myers unravelled",
+        "publicationDate": "2026-08-11",
+        "category": "Healthcare",
+        "summary": "A merger between the giant drugmakers would have marked a return to pharma megadeals",
+        "url": "https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R48934",
+        "source": "Congressional Research Service",
+        "title": "Introduction to Tribal Forestry",
+        "publicationDate": "2026-08-10",
+        "category": "Other",
+        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.5.pdf"
+    },
+    {
+        "id": "LSB11467",
+        "source": "Congressional Research Service",
+        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
+    },
+    {
+        "id": "R49123",
+        "source": "Congressional Research Service",
+        "title": "SBA’s Office of Inspector General and Its Relationship with Congress: In Brief",
+        "publicationDate": "2026-08-10",
         "category": "Economy",
-        "summary": "Proposal is part of push by the Chinese territory to compete with Singapore for top-tier financial talent",
-        "url": "https://www.ft.com/content/c9c7c2dc-979e-49b2-a57f-77bb461bb7db?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Yen sinks as effect of US-Japan intervention fades",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks",
-        "url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/243e39bd-089a-4977-9383-962d9095d9d0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "India to allow charges on wildly successful digital payment system",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "Also in this newsletter, more tariff threats",
-        "url": "https://www.ft.com/content/243e39bd-089a-4977-9383-962d9095d9d0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/35a093ea-9df0-4dbe-abe2-3d2341b85e4f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Communist Vietnam bets on Korean-style ‘chaebols’ to boost growth",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "Hanoi prioritises homegrown conglomerates after relying on trade and foreign investment",
-        "url": "https://www.ft.com/content/35a093ea-9df0-4dbe-abe2-3d2341b85e4f?syn-25a6b1a6=1"
+        "summary": "Offices of the Inspector General (OIGs) exist in more than 70 federal agencies, including all Cabinet departments and larger agencies, numerous boards and commissions, and other entities. Together, OIGs and the Government Accountability Office (GAO) provide Congress with information and analysis to conduct oversight and, in the process, help Congress maintain its balance of power with the presidency. As with other...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49123/R49123.1.pdf"
     },
     {
         "id": "RS20946",
@@ -142,15 +169,6 @@
         "category": "Economy",
         "summary": "Medicare, the federal health insurance program that pays for covered health services for enrolled beneficiaries, provided coverage to approximately 70.7 million beneficiaries in 2026 and incurred total expenditures of approximately $1.33 trillion, of which $481 billion was paid by Part A. Part A, also known as Hospital Insurance (HI), covers primarily inpatient care at health facilities such as hospitals and...",
         "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS20946/RS20946.31.pdf"
-    },
-    {
-        "id": "IF11308",
-        "source": "Congressional Research Service",
-        "title": "USMCA: Labor Provisions",
-        "publicationDate": "2026-08-10",
-        "category": "Foreign Policy",
-        "summary": "The U.S.-Mexico-Canada Agreement (USMCA) entered into force in 2020 (P.L. 116-113), replacing the 1994 North American Free Trade Agreement (NAFTA). Concerns among some Members of Congress about the protection of worker rights and enforceability were prominent issues in the NAFTA negotiation and debate over USMCA. Historically, U.S. labor advocates have expressed concerns over free trade agreements (FTAs) with...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11308/IF11308.11.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3197-1.html",
@@ -495,33 +513,6 @@
         "url": "https://www.cfr.org/articles/the-bombing-of-nagasaki"
     },
     {
-        "id": "IF12006",
-        "source": "Congressional Research Service",
-        "title": "Arctic National Wildlife Refuge: Status of Oil and Gas Program",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "The Arctic National Wildlife Refuge (ANWR, or the Refuge) comprises 19 million acres in northeast Alaska, administered primarily by the Fish and Wildlife Service (FWS) in the Department of the Interior (DOI). ANWR’s Coastal Plain—a 1.57-million-acre area in the northern part of the Refuge (Figure 1)—is viewed as an onshore oil prospect, with a mean estimate by the U.S. Geological Survey of 7.7 billion barrels of...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12006/IF12006.31.pdf"
-    },
-    {
-        "id": "96-264",
-        "source": "Congressional Research Service",
-        "title": "Frequently Asked Questions About Tax-Exempt Organizations",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "This report answers frequently asked questions about tax-exempt organizations. The report focuses on the types of organizations described in Internal Revenue Code (I.R.C.) § 501(c), with the main emphasis on § 501(c)(3) charitable organizations and § 501(c)(4) social welfare organizations. One set of questions addresses some of the primary characteristics of tax-exempt organizations, including whether they may...",
-        "url": "https://www.congress.gov/crs_external_products/RL/PDF/96-264/96-264.12.pdf"
-    },
-    {
-        "id": "R49105",
-        "source": "Congressional Research Service",
-        "title": "Lapses in DHS Appropriations: History and Plans",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "Every year, the federal government’s fiscal year ends at midnight on September 30. As this deadline approaches, if any of the regular, full-year appropriations measures are not expected to be enacted by the end of the fiscal year executive branch agencies prepare for either the passage of a continuing resolution, or a lapse in appropriations, which results in a partial or complete government shutdown (including the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49105/R49105.1.pdf"
-    },
-    {
         "id": "https://www.cfr.org/articles/the-1964-gulf-of-tonkin-resolution",
         "source": "Council on Foreign Relations",
         "title": "The 1964 Gulf of Tonkin Resolution",
@@ -673,5 +664,14 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
+    },
+    {
+        "id": "IF12610",
+        "source": "Congressional Research Service",
+        "title": "Defense Primer: U.S. Space Force",
+        "publicationDate": "2024-12-23",
+        "category": "Defense",
+        "summary": "The U.S. Space Force, established by Congress in 2019 (P.L. 116-92, §952), is one of the six branches of the Armed Forces. According to Title 10, Section 9081, of the U.S. Code, “The Space Force shall be organized, trained, and equipped to—(1) provide freedom of operation for the United States in, from, and to space; (2) conduct space operations; and (3) protect the interests of the United States in space.” Since...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12610/IF12610.7.pdf"
     }
 ]
