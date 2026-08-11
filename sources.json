@@ -1,12 +1,57 @@
 [
     {
-        "id": "LSB11467",
-        "source": "Congressional Research Service",
-        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
-        "publicationDate": "2026-08-10",
+        "id": "https://thehill.com/policy/defense/6021575-iran-oman-hormuz-strait-deal/",
+        "source": "The Hill",
+        "title": "Iran’s steep demands for US over Strait of Hormuz threaten to derail reopening",
+        "publicationDate": "2026-08-11",
         "category": "Defense",
-        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
+        "summary": "A deal between Iran and Oman to reopen the Strait of Hormuz is teetering over steep demands from Tehran for the United States and vice versa. Iran on Sunday said the agreement to set up new shipping lanes was in its final stages, but repeated ​that the vital waterway would only reopen once Washington met...",
+        "url": "https://thehill.com/policy/defense/6021575-iran-oman-hormuz-strait-deal/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
+        "source": "New York Times Politics",
+        "title": "An Elaborate Ruse: Trump Secretly Used Military Jet to Leave Turkey Amid Threats",
+        "publicationDate": "2026-08-11",
+        "category": "Defense",
+        "summary": "President Trump hid in an airport catering cart and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
+        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html",
+        "source": "New York Times Politics",
+        "title": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’",
+        "publicationDate": "2026-08-11",
+        "category": "United States Politics and Government",
+        "summary": "Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”",
+        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html",
+        "source": "New York Times Politics",
+        "title": "Homeland Security Intensifies Pursuit of Noncitizens on Voter Rolls",
+        "publicationDate": "2026-08-11",
+        "category": "United States Politics and Government",
+        "summary": "Immigrants who said they inadvertently registered to vote while obtaining or renewing driver’s licenses are increasingly facing deportation under the Trump administration.",
+        "url": "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
+        "source": "New York Times Politics",
+        "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
+        "publicationDate": "2026-08-11",
+        "category": "Foreign Policy",
+        "summary": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
+        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/",
+        "source": "Washington Post Politics",
+        "title": "Trump demands major changes to childhood vaccine recommendations",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "The president signed an order advising states to revise their rules. He also called for narrowing which vaccines are administered to children and splitting shots into multiple appointments.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/"
     },
     {
         "id": "R48934",
@@ -16,6 +61,15 @@
         "category": "Other",
         "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.5.pdf"
+    },
+    {
+        "id": "LSB11467",
+        "source": "Congressional Research Service",
+        "title": "Artificial Intelligence in Health: Overview of Selected State Liability Frameworks",
+        "publicationDate": "2026-08-10",
+        "category": "Defense",
+        "summary": "A variety of artificial intelligence (AI) technologies are increasingly used for various health care or related purposes. These purposes include core clinical health care functions such as the diagnosis and treatment of diseases and the administration of health claims for the payment of such services. In addition, AI technologies are also being incorporated in other applications, such as for wellness and fitness,...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11467/LSB11467.1.pdf"
     },
     {
         "id": "R49123",
@@ -247,7 +301,7 @@
         "source": "PBS NewsHour Politics",
         "title": "Tamara Keith and Amy Walter on the energy behind outsider candidates",
         "publicationDate": "2026-08-10",
-        "category": "Other",
+        "category": "Politics Monday",
         "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including where Democratic primary voters stand this election year, the energy behind outsider candidates, the strength of President Trump's endorsement in South Carolina and GOP Rep. Max Miller staying in the race despite abuse allegations.",
         "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-energy-behind-outsider-candidates"
     },
@@ -270,13 +324,22 @@
         "url": "https://www.pbs.org/newshour/health/this-medicare-part-d-subsidy-is-expiring-we-answered-your-questions"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/how-pop-culture-and-social-media-is-changing-how-people-talk",
+        "id": "https://www.pbs.org/newshour/show/how-pop-culture-and-social-media-are-changing-how-people-talk",
         "source": "PBS NewsHour Politics",
-        "title": "How pop culture and social media is changing how people talk",
+        "title": "How pop culture and social media are changing how people talk",
         "publicationDate": "2026-08-10",
-        "category": "Other",
+        "category": "In Pursuit of Happiness",
         "summary": "Judy Woodruff has been speaking to a host of experts about the country's 250th anniversary for her \"In Pursuit of Happiness\" podcast. That includes conversations about the roles satire, national parks and music have played in our history. The latest episode looks at how American English evolved. As it turns out, there's one word that reveals a lot about the way we speak.",
-        "url": "https://www.pbs.org/newshour/show/how-pop-culture-and-social-media-is-changing-how-people-talk"
+        "url": "https://www.pbs.org/newshour/show/how-pop-culture-and-social-media-are-changing-how-people-talk"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6021520-trump-denies-fauci-prosecution-blanche/",
+        "source": "The Hill",
+        "title": "Trump says he hasn't spoken to Blanche or Pirro about prosecuting Fauci",
+        "publicationDate": "2026-08-10",
+        "category": "Administration",
+        "summary": "President Trump said Monday he has not spoken to Attorney General Todd Blanche nor Jeanine Pirro, the U.S. Attorney for Washington, D.C., regarding prosecuting Dr. Anthony Fauci. “I have not spoken to them about that, no,” Trump told Semafor’s Shelby Talcott in the Oval Office. Last Thursday, Republicans on the Senate Homeland Security and Governmental...",
+        "url": "https://thehill.com/homenews/administration/6021520-trump-denies-fauci-prosecution-blanche/"
     },
     {
         "id": "https://thehill.com/policy/healthcare/6021511-aap-blasts-trump-vaccine-directive/",
@@ -306,33 +369,6 @@
         "url": "https://thehill.com/homenews/6021367-social-media-safety-lawsuits-proceed/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6021466-trump-signs-vaccine-order/",
-        "source": "The Hill",
-        "title": "What to know about Trump's vaccine executive order",
-        "publicationDate": "2026-08-10",
-        "category": "Healthcare",
-        "summary": "President Trump signed an executive order Monday advancing \"Make America Healthy Again\" vaccine priorities, issuing recommendations to split up combined vaccines and to reduce the number of childhood immunizations. \"Effective immediately, my administration is recognizing gold standard childhood vaccine recommendations for only 11 core vaccinations against the most serious and dangerous diseases, along with the...",
-        "url": "https://thehill.com/policy/healthcare/6021466-trump-signs-vaccine-order/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/technology/6021464-trump-data-center-political-battle/",
-        "source": "The Hill",
-        "title": "Trump wades into data center debate amid political battle",
-        "publicationDate": "2026-08-10",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story Trump backs data centers as Texas sets new standards President Trump is touting the benefits of AI data centers after Texas moved to more strictly regulate the industry, which has rapidly become a political lightning rod across the political spectrum. © AP Photo/Justin Rex Trump waded into the debate...",
-        "url": "https://thehill.com/newsletters/technology/6021464-trump-data-center-political-battle/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html",
-        "source": "New York Times Politics",
-        "title": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’",
-        "publicationDate": "2026-08-10",
-        "category": "United States Politics and Government",
-        "summary": "Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html"
-    },
-    {
         "id": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html",
         "source": "New York Times Politics",
         "title": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
@@ -340,42 +376,6 @@
         "category": "Politics and Government",
         "summary": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
         "url": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html",
-        "source": "New York Times Politics",
-        "title": "Homeland Security Intensifies Pursuit of Noncitizens on Voter Rolls",
-        "publicationDate": "2026-08-10",
-        "category": "United States Politics and Government",
-        "summary": "Immigrants who said they inadvertently registered to vote while obtaining or renewing driver’s licenses are increasingly facing deportation under the Trump administration.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/noncitizens-vote-crackdown.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html",
-        "source": "New York Times Politics",
-        "title": "Trump Wants to Move On From the Middle East. It’s Not Letting Him.",
-        "publicationDate": "2026-08-10",
-        "category": "Foreign Policy",
-        "summary": "President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-new-strategy-middle-east.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html",
-        "source": "New York Times Politics",
-        "title": "How a Counterintelligence Inquiry Into Trump’s Russia Ties Was Derailed",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "Documents released by the White House shed new light on the demise of an often-overlooked 2017 F.B.I. investigation.",
-        "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-memos-russia-investigation.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/",
-        "source": "Washington Post Politics",
-        "title": "Trump demands major changes to childhood vaccine recommendations",
-        "publicationDate": "2026-08-10",
-        "category": "Other",
-        "summary": "The president signed an order advising states to revise their rules. He also called for narrowing which vaccines are administered to children and splitting shots into multiple appointments.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/10/trump-administration-order-would-upend-nations-childhood-vaccine-schedule/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/10/gop-lawmakers-release-fauci-texts-discussing-covid-vaccine-pregnancy/",
@@ -459,49 +459,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/fed04150-be6f-4dfb-8e51-102b15755611?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+        "title": "JBS heir to become CEO of world’s largest meatpacker",
         "publicationDate": "2026-08-10",
         "category": "Other",
-        "summary": "Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom",
-        "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1"
+        "summary": "Wesley Batista Filho’s move to the top role will restore control of the company to its founding family",
+        "url": "https://www.ft.com/content/fed04150-be6f-4dfb-8e51-102b15755611?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/5fbd8dad-7e3d-418b-91dc-b61af9436ca6",
         "source": "Financial Times World",
-        "title": "Iran’s supreme leader tightens grip with top appointments",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "A raft of senior military and regime moves come as Tehran hardens its rhetoric over deal with US",
-        "url": "https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/7db64d6d-9615-42d3-b53b-03b115080bba?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham to crack down on vape and betting shops in bid to boost high streets",
+        "title": "The renminbi’s hardest mile is only now beginning",
         "publicationDate": "2026-08-10",
         "category": "Other",
-        "summary": "Councils will be given extra powers to curb unwanted retailers and ‘bring town centres back to life’",
-        "url": "https://www.ft.com/content/7db64d6d-9615-42d3-b53b-03b115080bba?syn-25a6b1a6=1"
+        "summary": "Turning currency into an asset the world wants to hold will be hard",
+        "url": "https://www.ft.com/content/5fbd8dad-7e3d-418b-91dc-b61af9436ca6"
     },
     {
-        "id": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Yen sinks as effect of US-Japan intervention fades",
+        "title": "OpenAI’s head of ethics leaves start-up less than one year after joining",
         "publicationDate": "2026-08-10",
         "category": "Other",
-        "summary": "Currency gives up roughly half its gains from joint action with investors citing lack of ‘unified voice’ among central banks",
-        "url": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1"
+        "summary": "Chloé Bakalar’s departure is one of several high-profile exits at the group in recent weeks as safety concerns mount",
+        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/970da215-f4f1-43b6-a4d9-b9869d532476?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/f62afd17-389a-47b9-97f8-7140c77966d3?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Colombian earthquake kills at least 111",
+        "title": "Chile allows ailing state copper miner to reinvest all profits for first time",
+        "publicationDate": "2026-08-10",
+        "category": "Economy",
+        "summary": "Codelco has seen production slump and debt surge as demand explodes for the metal that is critical for data centres",
+        "url": "https://www.ft.com/content/f62afd17-389a-47b9-97f8-7140c77966d3?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/fecd1cc3-7f51-4124-9c6d-e731634e252a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Turkey’s parliament passes landmark law to end conflict with Kurdish militants",
         "publicationDate": "2026-08-10",
         "category": "Other",
-        "summary": "7.4-magnitude earthquake flattens buildings in the cities of Cali, Pereira and Manizales",
-        "url": "https://www.ft.com/content/970da215-f4f1-43b6-a4d9-b9869d532476?syn-25a6b1a6=1"
+        "summary": "Legislation includes a conditional pardon for thousands of fighters in the Kurdistan Workers’ Party",
+        "url": "https://www.ft.com/content/fecd1cc3-7f51-4124-9c6d-e731634e252a?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/the-bombing-of-nagasaki",
