@@ -27,6 +27,15 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5185-1.html"
     },
     {
+        "id": "https://www.cfr.org/articles/global-imbalances-tracker",
+        "source": "Council on Foreign Relations",
+        "title": "Global Imbalances Tracker",
+        "publicationDate": "2026-08-12",
+        "category": "Economy",
+        "summary": "The CFR Global Imbalances Tracker can be used to gauge, through time, the vulnerability of individual countries and the global economy to the buildup of imbalances in the current account (of which trade deficits or surpluses are the largest component). Below, the Global Imbalances Index shows the total size of global current account deficits and surpluses […]",
+        "url": "https://www.cfr.org/articles/global-imbalances-tracker"
+    },
+    {
         "id": "https://cms.hoover.org/research/secrets-churchills-diplomats-lord-peter-ricketts",
         "source": "Hoover Institution",
         "title": "The Secrets Of Churchill’s Diplomats With Lord Peter Ricketts",
@@ -81,49 +90,94 @@
         "url": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6024560-hochul-leads-blakeman-ny-governor-poll/",
-        "source": "The Hill",
-        "title": "Hochul holds 10-point lead over Blakeman in new survey",
+        "id": "https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats",
+        "source": "PBS NewsHour Politics",
+        "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
         "publicationDate": "2026-08-12",
-        "category": "Campaign",
-        "summary": "New York Gov. Kathy Hochul (D) has a 10-point lead over Republican Bruce Blakeman in her bid for a second full term leading the Empire State, according to a new survey. The poll, which Siena College conducted from Aug. 3-6, found that 49 percent of 811 likely voters backed the incumbent governor. Thirty-nine percent of...",
-        "url": "https://thehill.com/homenews/campaign/6024560-hochul-leads-blakeman-ny-governor-poll/"
+        "category": "Angie Craig",
+        "summary": "Flanagan defeated centrist Rep. Angie Craig with a pledge to fight the influence of corporations and confront Republican President Donald Trump.",
+        "url": "https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats"
     },
     {
-        "id": "https://thehill.com/policy/defense/6024688-pakistani-nationals-killed-houthi-attack/",
-        "source": "The Hill",
-        "title": "Three Pakistanis killed in Houthi attack on commercial vessel",
+        "id": "https://www.pbs.org/newshour/politics/sen-darline-graham-rep-ralph-norman-advance-to-gop-runoff-in-south-carolina",
+        "source": "PBS NewsHour Politics",
+        "title": "Sen. Darline Graham, Rep. Ralph Norman advance to GOP runoff in South Carolina",
+        "publicationDate": "2026-08-12",
+        "category": "Darline Graham",
+        "summary": "A first-time candidate who was always close to her brother's political orbit, Darline Graham overcame skepticism about her lack of experience in her campaign to replace him, as she moved forward Tuesday as the top vote-getter to runner-up Norman.",
+        "url": "https://www.pbs.org/newshour/politics/sen-darline-graham-rep-ralph-norman-advance-to-gop-runoff-in-south-carolina"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/david-crowley-wins-democratic-primary-for-wisconsin-governor-over-francesca-hong",
+        "source": "PBS NewsHour Politics",
+        "title": "David Crowley wins Democratic primary for Wisconsin governor over Francesca Hong",
+        "publicationDate": "2026-08-12",
+        "category": "David Crowley",
+        "summary": "Crowley narrowly defeated democratic socialist Hong, who was hoping to ride the wave of recent victories by progressive candidates, including Abdul El-Sayed in neighboring Michigan's U.S. Senate race last week.",
+        "url": "https://www.pbs.org/newshour/politics/david-crowley-wins-democratic-primary-for-wisconsin-governor-over-francesca-hong"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways",
+        "source": "PBS NewsHour Politics",
+        "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
+        "publicationDate": "2026-08-12",
+        "category": "Darline Graham",
+        "summary": "David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.",
+        "url": "https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-says-secret-service-wanted-him-to-sneak-off-af1-defends-safety-of-plane-with-staff",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff",
         "publicationDate": "2026-08-12",
         "category": "Defense",
-        "summary": "Three Pakistanis were killed in a Tuesday attack on a ship by the Houthi militant group, multiple officials said, an event that points to the threat of a widening regional war sparked by the fight between the U.S. and Israel and Iran. Tahir Andrabi, a spokesperson for the Pakistani Ministry of Foreign Affairs said during...",
-        "url": "https://thehill.com/policy/defense/6024688-pakistani-nationals-killed-houthi-attack/"
+        "summary": "President Donald Trump downplayed the extraordinary nature of the subterfuge involved in his flight, which saw him stow away in an airport catering container to sneak onto another plane while Air Force One was sent into the sky, essentially as a decoy.",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-says-secret-service-wanted-him-to-sneak-off-af1-defends-safety-of-plane-with-staff"
     },
     {
-        "id": "https://thehill.com/opinion/white-house/6023961-trump-mail-ballot-court-battle/",
+        "id": "https://thehill.com/opinion/international/6023001-uk-holds-original-declarations/",
         "source": "The Hill",
-        "title": "Postmaster General Steiner must resign",
-        "publicationDate": "2026-08-12",
-        "category": "Opinions - White House",
-        "summary": "Rep. Raja Krishnamoorthi called for Postmaster General David Steiner's removal or resignation due to his refusal to ensure the U.S. Postal Service complies with federal court orders regarding the Trump administration's challenged mail-in voting rules.",
-        "url": "https://thehill.com/opinion/white-house/6023961-trump-mail-ballot-court-battle/"
-    },
-    {
-        "id": "https://thehill.com/homenews/media/6024589-paramount-may-leave-california/",
-        "source": "The Hill",
-        "title": "Paramount may leave California over antitrust enforcement, lawyer says",
-        "publicationDate": "2026-08-12",
-        "category": "Media",
-        "summary": "Paramount's chief legal officer is telegraphing a willingness by the company's chief executive to leave California as the media company faces growing antitrust scrutiny from the state government there. “His intent is to be committed to California,” Makan Delrahim, Paramount's top legal official, said at Politico’s The California Agenda: Sacramento Summit. Delrahim added, however, that “there is a...",
-        "url": "https://thehill.com/homenews/media/6024589-paramount-may-leave-california/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6024533-donald-trump-approval-rating-sours-economist-yougov/",
-        "source": "The Hill",
-        "title": "Trump approval takes another hit: Poll",
+        "title": "America's founding documents are scattered in London. Let's recover them.",
         "publicationDate": "2026-08-12",
         "category": "Foreign Policy",
-        "summary": "President Trump’s approval rating dipped again this week, following a downward trend in support for the president amid the ongoing Iran war and mounting affordability concerns ahead of November's midterms. The latest survey from The Economist/YouGov survey, published on Monday, found 33 percent of respondents said they approved of how Trump has handled his job...",
-        "url": "https://thehill.com/homenews/administration/6024533-donald-trump-approval-rating-sours-economist-yougov/"
+        "summary": "The United Kingdom quietly houses four original copies of our founding document, three of which were taken from the U.S. without consent.",
+        "url": "https://thehill.com/opinion/international/6023001-uk-holds-original-declarations/"
+    },
+    {
+        "id": "https://thehill.com/policy/sports-gaming/6024890-lakers-sell-record-price/",
+        "source": "The Hill",
+        "title": "LA Lakers sold to ex-Disney head Bob Iger, Josh Kushner",
+        "publicationDate": "2026-08-12",
+        "category": "Sports & Gaming",
+        "summary": "The Los Angeles Lakers have reportedly been sold to Bob Iger and Josh Kushner for more than $12 billion, a record for any NBA team in history and a total that is believed to be among the highest valuations of any North American sports franchise. The deal, first reported by ESPN, is worth an estimated...",
+        "url": "https://thehill.com/policy/sports-gaming/6024890-lakers-sell-record-price/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6024939-who-chief-criticizes-trump-child-vaccine-order/",
+        "source": "The Hill",
+        "title": "WHO chief: US immunization changes 'not aligned with decades of evidence'",
+        "publicationDate": "2026-08-12",
+        "category": "Healthcare",
+        "summary": "The head of the World Health Organization (WHO) criticized changes to the U.S.’s vaccine policy for children on Wednesday. “@WHO is concerned that recent changes to US immunization policy are not aligned with decades of evidence that show when children are most vulnerable to disease, when vaccines provide the strongest protection, how many doses are...",
+        "url": "https://thehill.com/policy/healthcare/6024939-who-chief-criticizes-trump-child-vaccine-order/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6024953-taylor-farms-recall-food-safety/",
+        "source": "The Hill",
+        "title": "FDA chief: Cyclospora 'effectively removed from the market'",
+        "publicationDate": "2026-08-12",
+        "category": "Healthcare",
+        "summary": "The Food and Drug Administration (FDA) is assuring Americans that they should feel confident eating fresh produce again, seeking to ease concerns over the nation’s food supply after a cyclospora outbreak linked to iceberg lettuce spread across more than a dozen states. “We have the safest food supply in the world,” acting FDA Commissioner Kyle...",
+        "url": "https://thehill.com/policy/healthcare/6024953-taylor-farms-recall-food-safety/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6024836-human-rights-groups-sue-trump-icc-sanctions/",
+        "source": "The Hill",
+        "title": "Human rights groups sue Trump administration over ICC sanctions",
+        "publicationDate": "2026-08-12",
+        "category": "Foreign Policy",
+        "summary": "Four human rights groups are suing the Trump administration over its economic pressure campaign against the International Criminal Court (ICC), arguing that sanctions against judges, prosecutors and others are unlawfully interfering with their international criminal justice work. The lawsuit was filed Tuesday in New York by the American Friends Service Committee, the Center for Constitutional...",
+        "url": "https://thehill.com/regulation/court-battles/6024836-human-rights-groups-sue-trump-icc-sanctions/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html",
@@ -171,6 +225,15 @@
         "url": "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/08/12/wisconsin-democrats-hope-2026-sweep-with-david-crowley-atop-ticket/",
+        "source": "Washington Post Politics",
+        "title": "With Crowley atop their ticket, Wisconsin Democrats hope for a 2026 sweep",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "The party establishment is breathing a sign of relief that democratic socialist Francesca Hong, who led the pre-election polls by double-digits, will not be topping their ticket.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/12/wisconsin-democrats-hope-2026-sweep-with-david-crowley-atop-ticket/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/08/12/takeaways-primaries-south-carolina-wisconsin-minnesota-connecticut/",
         "source": "Washington Post Politics",
         "title": "Takeaways from the primaries in South Carolina, Wisconsin, Minnesota and Connecticut",
@@ -207,31 +270,13 @@
         "url": "https://www.washingtonpost.com/national-security/2026/08/12/pirro-convenes-unusual-grand-jury-dc-that-can-focus-single-case-issue-report/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/12/close-trump-aides-no-cabinet-officials-made-secret-catering-truck-move/",
-        "source": "Washington Post Politics",
-        "title": "Close Trump aides — but no Cabinet officials — made secret catering truck move",
-        "publicationDate": "2026-08-12",
-        "category": "Other",
-        "summary": "The president was accompanied by some of his most loyal aides but no top administration officials as he made the clandestine move to a different plane to leave Turkey last month.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/12/close-trump-aides-no-cabinet-officials-made-secret-catering-truck-move/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-        "publicationDate": "2026-08-12",
-        "category": "Other",
-        "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
-        "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
         "publicationDate": "2026-08-12",
         "category": "Foreign Policy",
-        "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-        "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss"
+        "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
@@ -261,40 +306,13 @@
         "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US inflation falls to 3.4% in July",
-        "publicationDate": "2026-08-12",
-        "category": "Economy",
-        "summary": "Fallout from Iran war continues to reverberate across economy even as petrol prices decline",
-        "url": "https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5924d083-b5a4-4f95-8c2d-400f2b914159",
-        "source": "Financial Times World",
-        "title": "The west has given China the keys to the medicine cabinet",
-        "publicationDate": "2026-08-12",
-        "category": "Foreign Policy",
-        "summary": "The US and Europe led the antibiotic era but then outsourced the means to sustain it",
-        "url": "https://www.ft.com/content/5924d083-b5a4-4f95-8c2d-400f2b914159"
-    },
-    {
-        "id": "https://www.ft.com/content/ca40af31-2446-45e7-8e6a-7554d759a6ca?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Goldman Sachs to acquire ETF provider Neos for up to $2.3bn",
+        "id": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
         "publicationDate": "2026-08-12",
         "category": "Other",
-        "summary": "Wall Street bank continues to boost presence in asset management",
-        "url": "https://www.ft.com/content/ca40af31-2446-45e7-8e6a-7554d759a6ca?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/dc0d5a3f-8bcc-483e-8787-18fd27ddab3f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Scottish North Sea tax revenues drop, fuelling debate on oil and gas industry’s future",
-        "publicationDate": "2026-08-12",
-        "category": "Economy",
-        "summary": "UK government to soon decide whether to approve production at the Rosebank and Jackdaw fields",
-        "url": "https://www.ft.com/content/dc0d5a3f-8bcc-483e-8787-18fd27ddab3f?syn-25a6b1a6=1"
+        "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/de0e971c-0223-4d52-9f52-b703ef5ac467?syn-25a6b1a6=1",
@@ -306,6 +324,42 @@
         "url": "https://www.ft.com/content/de0e971c-0223-4d52-9f52-b703ef5ac467?syn-25a6b1a6=1"
     },
     {
+        "id": "https://www.ft.com/content/22534413-a23e-4ecb-b68f-c9f1105c8953?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Bob Iger and Josh Kushner in $12bn deal for Lakers basketball franchise",
+        "publicationDate": "2026-08-12",
+        "category": "Healthcare",
+        "summary": "Guggenheim’s Mark Walter sells team after just a year of ownership amid US inquiry into insurance empire",
+        "url": "https://www.ft.com/content/22534413-a23e-4ecb-b68f-c9f1105c8953?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/813b7646-3d3d-4f38-9b02-3c1fc564dc30",
+        "source": "Financial Times World",
+        "title": "Poor numeracy is a blind spot in the age of AI",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "An understanding of maths can be crucial to judging if the tech is telling you the right thing",
+        "url": "https://www.ft.com/content/813b7646-3d3d-4f38-9b02-3c1fc564dc30"
+    },
+    {
+        "id": "https://www.ft.com/content/422010c3-ac6e-427f-88cf-e6c878b96637?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Investor Nelson Peltz prepares bid for US burger chain Wendy’s",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "Trian Fund Management, BlueFive Capital and Flynn Group could submit offer in the coming weeks",
+        "url": "https://www.ft.com/content/422010c3-ac6e-427f-88cf-e6c878b96637?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a44e8854-3f42-46bb-81e3-613dea89b802?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Smile, you’re on camera: when the boss wants to read your mood",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "Patent records show how many companies are interested in trying to record how people feel",
+        "url": "https://www.ft.com/content/a44e8854-3f42-46bb-81e3-613dea89b802?syn-25a6b1a6=1"
+    },
+    {
         "id": "R49126",
         "source": "Congressional Research Service",
         "title": "Expiring Health Provisions: CY2026 and CY2027",
@@ -313,15 +367,6 @@
         "category": "Healthcare",
         "summary": "This report provides information on selected health provisions that have expired or are scheduled to expire during calendar years (CYs) 2026 and 2027. For purposes of this report, expiring provisions are defined as portions of law that are time-limited and will lapse once a statutory deadline is reached, absent further legislative action. The scope of expiring health provisions included in this report covers...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49126/R49126.2.pdf"
-    },
-    {
-        "id": "R45450",
-        "source": "Congressional Research Service",
-        "title": "Statutory Inspectors General in the Federal Government: A Primer",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "This report provides an overview of statutory inspectors general (IGs) in the federal government, including their structure and functions, as well as related issues for Congress. Statutory IGs—established by law rather than administrative directive—are intended to be independent, nonpartisan officials who aim to prevent and detect waste, fraud, and abuse in the federal government. To execute their missions, IGs...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45450/R45450.14.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
@@ -358,6 +403,15 @@
         "category": "Defense",
         "summary": "The 2025 conflict between India and Pakistan highlighted just how deeply Chinese defense technology is woven into Pakistan’s armed forces. President Trump famously suspended all security assistance to Pakistan in his first term, declaring the country had “given us nothing but lies & deceit” while providing “safe haven to the terrorists we hunt in Afghanistan.” Diaa Hadid, “Tensions Rise Between Pakistan and U.S....",
         "url": "https://www.heritage.org/china/report/armed-china-the-dependency-behind-pakistans-military"
+    },
+    {
+        "id": "https://www.heritage.org/defense/commentary/ai-can-play-limited-crucial-role-nuclear-weapons",
+        "source": "Heritage Foundation",
+        "title": "AI Can Play a Limited but Crucial Role With Nuclear Weapons",
+        "publicationDate": "2026-08-11",
+        "category": "Defense",
+        "summary": "There is much discussion about the dangers of artificial intelligence and nuclear weapons these days. Indeed, the Vatican recently hosted a global conference on the topic that featured Nobel-prize winning scholars, experts on AI, and proponents of nuclear disarmament debating the threat. This conference was merely the latest example of the current discourse on the dangers of AI and nuclear weapons. Of particular...",
+        "url": "https://www.heritage.org/defense/commentary/ai-can-play-limited-crucial-role-nuclear-weapons"
     },
     {
         "id": "https://www.heritage.org/global-politics/report/us-and-allied-engagement-timor-leste-stopping-the-spread-chinese-influence",
@@ -441,51 +495,6 @@
         "url": "https://cms.hoover.org/research/tense-discussions-behind-ronald-reagans-tear-down-wall-speech"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/top-adviser-to-irans-revolutionary-guard-leader-sits-down-for-rare-interview",
-        "source": "PBS NewsHour Politics",
-        "title": "Top adviser to Iran's Revolutionary Guard leader sits down for rare interview",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "As the war with Iran continues its uneasy stalemate, we're hearing from a top adviser to the commander of Iran's Islamic Revolutionary Guard Corps, the force largely responsible for border and internal security. The IRGC rarely gives interviews, and almost never to Western media. But Mohammad Reza Naqdi sat down in Tehran for an exclusive interview with special correspondent Reza Sayah.",
-        "url": "https://www.pbs.org/newshour/show/top-adviser-to-irans-revolutionary-guard-leader-sits-down-for-rare-interview"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/the-effectiveness-and-cost-of-the-national-guard-deployment-in-d-c",
-        "source": "PBS NewsHour Politics",
-        "title": "The effectiveness and cost of the National Guard deployment in D.C.",
-        "publicationDate": "2026-08-11",
-        "category": "deployment",
-        "summary": "It has now been one year since President Trump declared a \"crime emergency\" in the nation's capital and deployed thousands of members of the National Guard to its streets. Questions continue to mount over the mission's cost, its legality and its effectiveness in fighting crime. Lisa Desjardins discussed more with Richard Hahn of the Niskanen Center's Criminal Justice Department.",
-        "url": "https://www.pbs.org/newshour/show/the-effectiveness-and-cost-of-the-national-guard-deployment-in-d-c"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/what-to-know-as-your-drivers-license-gets-a-digital-upgrade",
-        "source": "PBS NewsHour Politics",
-        "title": "What to know as your driver's license gets a digital upgrade",
-        "publicationDate": "2026-08-11",
-        "category": "Technology",
-        "summary": "Your old plastic driver's license could soon be getting a digital upgrade. Multiplatform producer Tim McPhillips walks us through four things you should know, including some of the benefits and some of the concerns.",
-        "url": "https://www.pbs.org/newshour/show/what-to-know-as-your-drivers-license-gets-a-digital-upgrade"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/what-to-watch-in-primaries-in-wisconsin-and-minnesota-and-beyond",
-        "source": "PBS NewsHour Politics",
-        "title": "What to watch in primaries in Wisconsin and Minnesota and beyond",
-        "publicationDate": "2026-08-11",
-        "category": "alabama",
-        "summary": "The left vs. center theme is on display in Democratic primaries in multiple states voting Tuesday, with other significant races in places like Alabama and South Carolina.",
-        "url": "https://www.pbs.org/newshour/politics/what-to-watch-in-primaries-in-wisconsin-and-minnesota-and-beyond"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-talks-about-the-reflecting-pool-and-white-house-ballroom-a-lot-heres-exactly-how-much",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump talks about the Reflecting Pool and White House ballroom a lot. Here's exactly how much",
-        "publicationDate": "2026-08-11",
-        "category": "Donald Trump news",
-        "summary": "PolitiFact analyzed all of Trump's public events and speeches over the first seven months of 2026 in which he mentioned his construction projects — including the White House ballroom and Reflecting Pool — and beautifying the nation's capital.",
-        "url": "https://www.pbs.org/newshour/politics/trump-talks-about-the-reflecting-pool-and-white-house-ballroom-a-lot-heres-exactly-how-much"
-    },
-    {
         "id": "R49123",
         "source": "Congressional Research Service",
         "title": "SBA’s Office of Inspector General and Its Relationship with Congress: In Brief",
@@ -493,15 +502,6 @@
         "category": "Economy",
         "summary": "Offices of the Inspector General (OIGs) exist in more than 70 federal agencies, including all Cabinet departments and larger agencies, numerous boards and commissions, and other entities. Together, OIGs and the Government Accountability Office (GAO) provide Congress with information and analysis to conduct oversight and, in the process, help Congress maintain its balance of power with the presidency. As with other...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49123/R49123.2.pdf"
-    },
-    {
-        "id": "IF12610",
-        "source": "Congressional Research Service",
-        "title": "Defense Primer: U.S. Space Force",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "The U.S. Space Force, established by Congress in 2019 (P.L. 116-92, §952), is one of the six branches of the Armed Forces. According to Title 10, Section 9081, of the U.S. Code, “The Space Force shall be organized, trained, and equipped to—(1) provide freedom of operation for the United States in, from, and to space; (2) conduct space operations; and (3) protect the interests of the United States in space.” Since...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12610/IF12610.8.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3197-1.html",
@@ -531,15 +531,6 @@
         "url": "https://www.heritage.org/progressivism/commentary/some-migrants-hate-america-arrival"
     },
     {
-        "id": "https://www.heritage.org/parental-rights/commentary/the-next-parental-rights-fight-the-school-library",
-        "source": "Heritage Foundation",
-        "title": "The Next Parental Rights Fight Is in the School Library",
-        "publicationDate": "2026-08-10",
-        "category": "Foreign Policy",
-        "summary": "Last year, the Supreme Court reminded public schools of a truth too often forgotten: parents do not surrender their religious convictions at the schoolhouse door. In Mahmoud v. Taylor , the Court held that Montgomery County, Maryland, could not force parents to choose between their faith and participation in public education. The county introduced LGBTQ-inclusive storybooks for elementary students, initially...",
-        "url": "https://www.heritage.org/parental-rights/commentary/the-next-parental-rights-fight-the-school-library"
-    },
-    {
         "id": "https://www.hudson.org/politics-government/chinas-political-warfare-michael-sobolik",
         "source": "Hudson Institute",
         "title": "China’s Political Warfare",
@@ -547,24 +538,6 @@
         "category": "Defense",
         "summary": "China’s Political Warfare acabral-sanche… Mon, 08/10/2026 - 16:31 SVG Podcast Aug 10, 2026 Breaking Battlegrounds China’s Political Warfare Michael Sobolik Senior Fellow Michael Sobolik Podcast Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail Print Print Michael Sobolik joins Breaking...",
         "url": "https://www.hudson.org/politics-government/chinas-political-warfare-michael-sobolik"
-    },
-    {
-        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
-        "source": "European Council on Foreign Relations",
-        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
-        "publicationDate": "2026-08-10",
-        "category": "Africa",
-        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
-        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
-    },
-    {
-        "id": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/",
-        "source": "European Council on Foreign Relations",
-        "title": "Anti-corruption sanctions: Preparing for the time after Trump",
-        "publicationDate": "2026-08-10",
-        "category": "United States",
-        "summary": "Anti-corruption sanctions—and even the prospect of them—under the next US administration will be crucial to chances of peace in many parts of the world. Here’s how Europeans can play their part",
-        "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
     },
     {
         "id": "https://www.cfr.org/articles/the-bombing-of-nagasaki",
@@ -585,15 +558,6 @@
         "url": "https://www.cfr.org/articles/the-1964-gulf-of-tonkin-resolution"
     },
     {
-        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
-        "source": "European Council on Foreign Relations",
-        "title": "Latin America’s new imaginaries",
-        "publicationDate": "2026-08-07",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
-        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
-    },
-    {
         "id": "https://www.cfr.org/articles/spains-migration-surge-tests-eu-border-policy",
         "source": "Council on Foreign Relations",
         "title": "How Spain’s Migration Surge Tested EU Border Policy",
@@ -601,33 +565,6 @@
         "category": "Article",
         "summary": "An unprecedented surge of migrants into Spanish territory in North Africa marked the first test of the European Union’s new migration pact and has reignited the bloc’s debate over immigration.",
         "url": "https://www.cfr.org/articles/spains-migration-surge-tests-eu-border-policy"
-    },
-    {
-        "id": "https://www.cfr.org/articles/the-bombing-of-hiroshima",
-        "source": "Council on Foreign Relations",
-        "title": "The Bombing of Hiroshima",
-        "publicationDate": "2026-08-06",
-        "category": "Article",
-        "summary": "The decision to drop an atomic bomb on Hiroshima continues to stir debate today.",
-        "url": "https://www.cfr.org/articles/the-bombing-of-hiroshima"
-    },
-    {
-        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
-        "source": "European Council on Foreign Relations",
-        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
-        "publicationDate": "2026-08-06",
-        "category": "Foreign Policy",
-        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
-        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
-    },
-    {
-        "id": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
-        "source": "European Council on Foreign Relations",
-        "title": "Hamas has agreed to disarm. Israel should now agree to peace",
-        "publicationDate": "2026-08-06",
-        "category": "Israel / Palestine",
-        "summary": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
-        "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
     },
     {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
@@ -673,5 +610,23 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
+    },
+    {
+        "id": "R47203",
+        "source": "Congressional Research Service",
+        "title": "Microsoft’s Proposed Acquisition of Activision Blizzard: In Brief",
+        "publicationDate": "2022-08-03",
+        "category": "Other",
+        "summary": "On January 18, 2022, Microsoft Corp. announced plans to acquire Activision Blizzard Inc., a video game company, for $68.7 billion. The Federal Trade Commission (FTC) is reviewing the acquisition, as provided under the Hart-Scott-Rodino Act (HSR), to determine whether its effect might be “substantially to lessen competition”—a violation of Section 7 of the Clayton Act. Competition authorities in other countries are...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47203/R47203.5.pdf"
+    },
+    {
+        "id": "R45854",
+        "source": "Congressional Research Service",
+        "title": "Trends in the U.S. Poverty Rate after Recessions",
+        "publicationDate": "2019-08-01",
+        "category": "Other",
+        "summary": "The poverty rate measures the share of people with family incomes below a dollar amount called a poverty threshold, which is scaled according to family size and the ages of the members. The rate is used to examine the number or share of people facing economic deprivation, and to gauge the level of that deprivation. The poverty rate fluctuates over time in response to many factors, including the business cycle. That...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45854/R45854.3.pdf"
     }
 ]
