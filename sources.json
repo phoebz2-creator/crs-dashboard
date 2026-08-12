@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://cms.hoover.org/research/secrets-churchills-diplomats-lord-peter-ricketts",
+        "source": "Hoover Institution",
+        "title": "The Secrets Of Churchill’s Diplomats With Lord Peter Ricketts",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "How did Britain’s diplomats help win World War II—and shape the world that followed?",
+        "url": "https://cms.hoover.org/research/secrets-churchills-diplomats-lord-peter-ricketts"
+    },
+    {
         "id": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
         "source": "NPR Politics",
         "title": "Andrew Tate's extradition fight tests his influence with Trump's America",
@@ -45,6 +54,33 @@
         "url": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong"
     },
     {
+        "id": "https://thehill.com/opinion/immigration/6022551-congress-must-fix-our-temporary-protected-status-problem/",
+        "source": "The Hill",
+        "title": "Congress must fix our temporary protected status problem",
+        "publicationDate": "2026-08-12",
+        "category": "Opinions - Immigration",
+        "summary": "Mullin closed the statutory-review door on temporary protected status, but that was only the beginning.",
+        "url": "https://thehill.com/opinion/immigration/6022551-congress-must-fix-our-temporary-protected-status-problem/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/morning-report/6024334-democratic-establishment-strikes-back-david-crowley-francesca-hong-wisconsin-primary/",
+        "source": "The Hill",
+        "title": "The Democratic establishment strikes back",
+        "publicationDate": "2026-08-12",
+        "category": "Defense",
+        "summary": "In today's issue: ▪ A major upset in Wisconsin ▪ US attacks ship breaking Hormuz blockade ▪ Former Marine released from Russia ▪ Air Force One security concerns The left’s successful run in Democratic primaries hit a major roadblock in Wisconsin on Tuesday night as democratic socialist Francesca Hong, whom polls showed leading by double digits, suffered...",
+        "url": "https://thehill.com/newsletters/morning-report/6024334-democratic-establishment-strikes-back-david-crowley-francesca-hong-wisconsin-primary/"
+    },
+    {
+        "id": "https://thehill.com/opinion/technology/6022906-ai-infrastructure-jobs-growth/",
+        "source": "The Hill",
+        "title": "America can't afford to stop building our AI future",
+        "publicationDate": "2026-08-12",
+        "category": "Technology",
+        "summary": "Banning the AI infrastructure build is a serious mistake.",
+        "url": "https://thehill.com/opinion/technology/6022906-ai-infrastructure-jobs-growth/"
+    },
+    {
         "id": "https://thehill.com/homenews/house/6023633-democrats-progressives-moderates-jeffries/",
         "source": "The Hill",
         "title": "Democrats’ progressive surge could complicate Jeffries’s path to unity",
@@ -61,33 +97,6 @@
         "category": "Senate",
         "summary": "The Senate’s departure for a five-week August recess leaves big political fights for September and the postelection lame-duck session, setting up a scramble to accomplish as much of President Trump’s agenda before Republicans possibly lose complete control of Congress. Trump has ramped up pressure on Senate Majority Leader John Thune (R-S.D.) to move a...",
         "url": "https://thehill.com/homenews/senate/6023566-senate-august-recess-trump-agenda/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/6023590-hamas-weapons-handover-stalled/",
-        "source": "The Hill",
-        "title": "Trump’s Gaza plan and Board of Peace face ticking clock",
-        "publicationDate": "2026-08-12",
-        "category": "Defense",
-        "summary": "President Trump is confronting multiple problems nearly nine months into his effort to transform the Gaza Strip. Israeli Prime Minister Benjamin Netanyahu delivered the latest blow when he rejected Trump’s 15-point roadmap for Hamas to hand over its weapons at the same time Israel’s military withdraws from the territory. “Israel does not accept the 15-point...",
-        "url": "https://thehill.com/policy/international/6023590-hamas-weapons-handover-stalled/"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/",
-        "source": "The Hill",
-        "title": "Trump puts vaccines on front burner ahead of crucial midterms for GOP",
-        "publicationDate": "2026-08-12",
-        "category": "Healthcare",
-        "summary": "The Trump administration has thrust vaccine policy back into the headlines just three months before the midterm elections, potentially complicating matters for vulnerable Republicans who are hoping to keep control of Congress. President Trump on Monday doubled down on his attempt to overhaul the childhood vaccine schedule with an executive order aimed at reducing...",
-        "url": "https://thehill.com/policy/healthcare/6023575-trump-vaccines-order-gop-risks-midterms/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6023019-crowley-wins-wisconsin-governor-primary/",
-        "source": "The Hill",
-        "title": "Crowley defeats democratic socialist Hong to face Tiffany in Wisconsin governor's race",
-        "publicationDate": "2026-08-12",
-        "category": "Campaign",
-        "summary": "Milwaukee County Executive David Crowley has defeated democratic socialist Francesca Hong in the wide-open Wisconsin governor’s race, Decision Desk HQ projects. Crowley, with support from retiring Gov. Tony Evers (D), pulled off an upset and bested HOng in a blow to the party’s far-left flank amid concerns that such candidates could be a liability for...",
-        "url": "https://thehill.com/homenews/campaign/6023019-crowley-wins-wisconsin-governor-primary/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html",
@@ -130,7 +139,7 @@
         "source": "New York Times Politics",
         "title": "Peggy Flanagan, a Progressive, Wins the Democratic Senate Primary in Minnesota",
         "publicationDate": "2026-08-12",
-        "category": "Midterm Elections (2026)",
+        "category": "Flanagan",
         "summary": "The victory by Minnesota’s lieutenant governor was the latest for the left-wing movement in the Midwest. She could become the first Native woman in the Senate.",
         "url": "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html"
     },
@@ -209,11 +218,47 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
+        "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
         "publicationDate": "2026-08-12",
         "category": "Other",
         "summary": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
         "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/c7ac41f1-d755-4024-9101-e206dfbcddd7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "India plans to tighten rules on foreign-funded NGOs",
+        "publicationDate": "2026-08-12",
+        "category": "Foreign Policy",
+        "summary": "Charities and religious groups fear new bill could lead to government confiscating assets",
+        "url": "https://www.ft.com/content/c7ac41f1-d755-4024-9101-e206dfbcddd7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1b0a8ed9-d55a-49ea-971e-39e01e588632?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Why must a socialist also be woke?",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "If the left could separate economics from culture, capitalism would have more to fear",
+        "url": "https://www.ft.com/content/1b0a8ed9-d55a-49ea-971e-39e01e588632?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/4469e5f8-1839-45a5-9e1d-b63ea58b8763?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How will El Niño hit the world economy?",
+        "publicationDate": "2026-08-12",
+        "category": "Economy",
+        "summary": "Disruptive climate event is likely to be one of the strongest on record",
+        "url": "https://www.ft.com/content/4469e5f8-1839-45a5-9e1d-b63ea58b8763?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b93d8030-203b-4445-b4a7-49e52d9b17a5",
+        "source": "Financial Times World",
+        "title": "Who is Anthropic’s auditor — and why should we care?",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "Magic bean counters",
+        "url": "https://www.ft.com/content/b93d8030-203b-4445-b4a7-49e52d9b17a5"
     },
     {
         "id": "https://www.ft.com/content/62198cc0-044a-42a0-91c5-3e5159f29465?syn-25a6b1a6=1",
@@ -223,42 +268,6 @@
         "category": "Other",
         "summary": "Jiang Zemin’s right-hand man laid the foundation for the country’s leap to economic superpower",
         "url": "https://www.ft.com/content/62198cc0-044a-42a0-91c5-3e5159f29465?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/7cd5f1c5-1097-4bd4-bd00-8006759da28d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Vance asked Ukraine to halt strikes on tankers",
-        "publicationDate": "2026-08-12",
-        "category": "Foreign Policy",
-        "summary": "Also in today’s newsletter: Moderate Democrat wins in Wisconsin, and Bank of America commits $250bn to US infrastructure projects",
-        "url": "https://www.ft.com/content/7cd5f1c5-1097-4bd4-bd00-8006759da28d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/dfa69996-4427-4eef-8c60-a97a562debf5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Colombian earthquake disrupts key coffee export road",
-        "publicationDate": "2026-08-12",
-        "category": "Other",
-        "summary": "Operations paused at port handling most of Colombia’s bean shipments",
-        "url": "https://www.ft.com/content/dfa69996-4427-4eef-8c60-a97a562debf5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/14430047-c8b9-4e7b-89db-aed36244ad71?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Cambridge to carry out independent probe into Jason Arday appointment",
-        "publicationDate": "2026-08-12",
-        "category": "Other",
-        "summary": "Move follows pressure from senior academics after university’s youngest-ever Black professor quit last week over plagiarism allegations",
-        "url": "https://www.ft.com/content/14430047-c8b9-4e7b-89db-aed36244ad71?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race",
-        "publicationDate": "2026-08-12",
-        "category": "Other",
-        "summary": "David Crowley defeats Francesca Hong for party’s gubernatorial candidate",
-        "url": "https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1"
     },
     {
         "id": "R45450",
@@ -387,15 +396,6 @@
         "url": "https://cms.hoover.org/research/tense-discussions-behind-ronald-reagans-tear-down-wall-speech"
     },
     {
-        "id": "https://cms.hoover.org/research/jamaica-knows-where-its-resources-live",
-        "source": "Hoover Institution",
-        "title": "Jamaica Knows Where Its Resources Live",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "Hoover Institution fellow Peter Blair Henry is appointed as chair of the Jamaica Reconstruction and Resilience Oversight Committee (JAMRROC). The decision is not simply the selection of an internationally respected economist. It is an affirmation of an important truth about modern nationhood.",
-        "url": "https://cms.hoover.org/research/jamaica-knows-where-its-resources-live"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/top-adviser-to-irans-revolutionary-guard-leader-sits-down-for-rare-interview",
         "source": "PBS NewsHour Politics",
         "title": "Top adviser to Iran's Revolutionary Guard leader sits down for rare interview",
@@ -513,24 +513,6 @@
         "url": "https://www.hudson.org/politics-government/chinas-political-warfare-michael-sobolik"
     },
     {
-        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
-        "source": "European Council on Foreign Relations",
-        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
-        "publicationDate": "2026-08-10",
-        "category": "Africa",
-        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
-        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
-    },
-    {
-        "id": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/",
-        "source": "European Council on Foreign Relations",
-        "title": "Anti-corruption sanctions: Preparing for the time after Trump",
-        "publicationDate": "2026-08-10",
-        "category": "United States",
-        "summary": "Anti-corruption sanctions—and even the prospect of them—under the next US administration will be crucial to chances of peace in many parts of the world. Here’s how Europeans can play their part",
-        "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
-    },
-    {
         "id": "https://www.cfr.org/articles/the-bombing-of-nagasaki",
         "source": "Council on Foreign Relations",
         "title": "The Bombing of Nagasaki",
@@ -547,15 +529,6 @@
         "category": "Article",
         "summary": "Congress endorsed President Lyndon B. Johnson’s determination to confront North Vietnam without investigating whether the facts justified that decision.",
         "url": "https://www.cfr.org/articles/the-1964-gulf-of-tonkin-resolution"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
-        "source": "European Council on Foreign Relations",
-        "title": "Latin America’s new imaginaries",
-        "publicationDate": "2026-08-07",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
-        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
@@ -592,24 +565,6 @@
         "category": "Article",
         "summary": "The decision to drop an atomic bomb on Hiroshima continues to stir debate today.",
         "url": "https://www.cfr.org/articles/the-bombing-of-hiroshima"
-    },
-    {
-        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
-        "source": "European Council on Foreign Relations",
-        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
-        "publicationDate": "2026-08-06",
-        "category": "Foreign Policy",
-        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
-        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
-    },
-    {
-        "id": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/",
-        "source": "European Council on Foreign Relations",
-        "title": "Hamas has agreed to disarm. Israel should now agree to peace",
-        "publicationDate": "2026-08-06",
-        "category": "Israel / Palestine",
-        "summary": "Despite all odds, there is now a realistic path towards ending the war in Gaza. Its success now depends on Israel. Europe could help tip the balance",
-        "url": "https://ecfr.eu/article/hamas-has-agreed-to-disarm-israel-should-now-agree-to-peace/"
     },
     {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
