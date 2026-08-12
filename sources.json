@@ -1,5 +1,14 @@
 [
     {
+        "id": "IF12371",
+        "source": "Congressional Research Service",
+        "title": "Taiwan Presidents’ U.S. Transit Visits",
+        "publicationDate": "2026-08-12",
+        "category": "Defense",
+        "summary": "Introduction Since 1994, five sitting presidents of self-governing Taiwan, which also calls itself the Republic of China (ROC), have undertaken a combined 30 trips abroad that have included transit stops in the United States. U.S. policy has been to permit the most senior Taiwan officials to stop over in the United States only while en route to other locations. Taiwan authorities have portrayed U.S. permission for...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12371/IF12371.9.pdf"
+    },
+    {
         "id": "IN12728",
         "source": "Congressional Research Service",
         "title": "FY2027 NDAA: Active Component End-Strength",
@@ -7,15 +16,6 @@
         "category": "Defense",
         "summary": "Background In accordance with 10 U.S.C. §115(a), Congress sets the maximum size of the active component of the Armed Forces annually, typically in a National Defense Authorization Act (NDAA). The active component comprises the full-time personnel of the Army, Navy, Marine Corps, Air Force, Coast Guard, and Space Force. Congress also appropriates funds for the pay and benefits of these personnel. End-strength...",
         "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12728/IN12728.1.pdf"
-    },
-    {
-        "id": "IN12727",
-        "source": "Congressional Research Service",
-        "title": "FY2027 NDAA: Reserve Component End-Strength",
-        "publicationDate": "2026-08-12",
-        "category": "Defense",
-        "summary": "Background In accordance with 10 U.S.C §115(a), Congress sets the maximum size (i.e., end-strength) of the active and reserve components of the Armed Forces annually, typically in a National Defense Authorization Act (NDAA). Congress also appropriates funds for the pay and benefits of these personnel. End-strength specifically refers to the actual number of personnel in a branch on the last day of the fiscal year...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12727/IN12727.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5031-1.html",
@@ -54,13 +54,22 @@
         "url": "https://www.cfr.org/articles/global-imbalances-tracker"
     },
     {
-        "id": "https://www.hudson.org/defense-strategy/inertial-confinement-fusion-key-americas-nuclear-deterrent-rebeccah-heinrichs",
+        "id": "https://www.heritage.org/defense/report/the-nuclear-force-necessity-force-design-the-near-term-deterrence-crisis",
+        "source": "Heritage Foundation",
+        "title": "The Nuclear Force of Necessity: Force Design for the Near-Term Deterrence Crisis",
+        "publicationDate": "2026-08-12",
+        "category": "Defense",
+        "summary": "The United States and the world are in a period of acute danger. The risk of near-term aggression by Russia, China, North Korea, or Iran is high. Russia launched a full-scale invasion of Ukraine in 2022 and continues its aggression. China grows increasingly belligerent toward its neighbors. North Korea continues to expand its nuclear arsenal, threatening to use it against America’s regional allies. Iranian-backed...",
+        "url": "https://www.heritage.org/defense/report/the-nuclear-force-necessity-force-design-the-near-term-deterrence-crisis"
+    },
+    {
+        "id": "https://www.hudson.org/defense-strategy/inertial-confinement-fusion-key-americas-nuclear-deterrent-rebeccah-heinrichs-madelyn-creedon-abigail-remler",
         "source": "Hudson Institute",
         "title": "Inertial Confinement Fusion Is Key to America’s Nuclear Deterrent",
         "publicationDate": "2026-08-12",
         "category": "Defense",
         "summary": "Inertial Confinement Fusion Is Key to America’s Nuclear Deterrent acabral-sanche… Wed, 08/12/2026 - 11:34 SVG Reports Aug 12, 2026 Hudson Institute Inertial Confinement Fusion Is Key to America’s Nuclear Deterrent Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Madelyn Creedon Nonresident Senior Fellow, Brookings Institution Abigail Remler Director, Future Technology Platforms Rebeccah...",
-        "url": "https://www.hudson.org/defense-strategy/inertial-confinement-fusion-key-americas-nuclear-deterrent-rebeccah-heinrichs"
+        "url": "https://www.hudson.org/defense-strategy/inertial-confinement-fusion-key-americas-nuclear-deterrent-rebeccah-heinrichs-madelyn-creedon-abigail-remler"
     },
     {
         "id": "https://www.hudson.org/defense-strategy/advancing-trilateral-integrated-air-missile-defence-between-australia-japan-united-bryan-clark",
@@ -153,6 +162,15 @@
         "url": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong"
     },
     {
+        "id": "https://www.pbs.org/newshour/nation/ap-report-ice-plans-to-give-its-officers-gloves-that-can-deliver-painful-electric-shocks",
+        "source": "PBS NewsHour Politics",
+        "title": "AP report: ICE plans to give its officers gloves that can deliver painful electric shocks",
+        "publicationDate": "2026-08-12",
+        "category": "Donald Trump news",
+        "summary": "Immigration and Customs Enforcement plans to spend up to $20 million to purchase thousands of gloves that can deliver painful electric shocks intended to gain compliance from individuals.",
+        "url": "https://www.pbs.org/newshour/nation/ap-report-ice-plans-to-give-its-officers-gloves-that-can-deliver-painful-electric-shocks"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/peggy-flanagan-wins-senate-primary-in-minnesota-notching-another-victory-for-progressive-democrats",
         "source": "PBS NewsHour Politics",
         "title": "Peggy Flanagan wins Senate primary in Minnesota, notching another victory for progressive Democrats",
@@ -189,58 +207,76 @@
         "url": "https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-trump-says-secret-service-wanted-him-to-sneak-off-af1-defends-safety-of-plane-with-staff",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump says Secret Service wanted him to sneak off AF1, defends safety of plane with staff",
+        "id": "https://thehill.com/policy/international/6025513-trump-haass-strait-of-hormuz-control/",
+        "source": "The Hill",
+        "title": "Ex-diplomat: 'No one's in total control of the Strait of Hormuz'",
+        "publicationDate": "2026-08-12",
+        "category": "Foreign Policy",
+        "summary": "Former U.S. diplomat Richard Haass said Wednesday that no country is in control of the Strait of Hormuz, contradicting President Trump’s claim that the U.S. is in “total control” of the crucial waterway. “No one's in total control of the Strait of Hormuz,” Haass told host Willie Geist on MS NOW’s “Morning Joe.” But Trump...",
+        "url": "https://thehill.com/policy/international/6025513-trump-haass-strait-of-hormuz-control/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6025704-sailors-suicidal-thoughts-deployment/",
+        "source": "The Hill",
+        "title": "Navy meets with USS Abraham Lincoln families over mental health worries",
         "publicationDate": "2026-08-12",
         "category": "Defense",
-        "summary": "President Donald Trump downplayed the extraordinary nature of the subterfuge involved in his flight, which saw him stow away in an airport catering container to sneak onto another plane while Air Force One was sent into the sky, essentially as a decoy.",
-        "url": "https://www.pbs.org/newshour/politics/watch-trump-says-secret-service-wanted-him-to-sneak-off-af1-defends-safety-of-plane-with-staff"
+        "summary": "Navy leadership has reportedly met with the family members of sailors aboard the USS Abraham Lincoln aircraft carrier over worries that the ongoing Middle East deployment will lead to worsening mental health and the risk of self-harm aboard the vessel. At an in-person meeting with an estimated 200 attendees on Thursday in San Diego, family...",
+        "url": "https://thehill.com/policy/defense/6025704-sailors-suicidal-thoughts-deployment/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6025482-petition-remove-us-ambassador-hoekstra/",
+        "id": "https://thehill.com/homenews/administration/6025626-trump-escalates-birthright-citizenship-campaign/",
         "source": "The Hill",
-        "title": "Thousands sign petition calling for expulsion of US ambassador to Canada",
+        "title": "State Department establishes task force to end 'birth tourism'",
         "publicationDate": "2026-08-12",
         "category": "Administration",
-        "summary": "More than 60,000 Canadians are backing an effort to remove U.S. Ambassador Pete Hoekstra from the country, accusing him of undermining relations between the neighboring countries and interfering in Canadian politics. The online petition calls on Canadian Prime Minister Mark Carney to declare Hoekstra “persona non grata” and seeks his removal as President Trump’s ambassador...",
-        "url": "https://thehill.com/homenews/administration/6025482-petition-remove-us-ambassador-hoekstra/"
+        "summary": "The State Department on Tuesday announced it has established a task force to end \"birth tourism,\" or the practice of traveling to a country to give birth there, escalating President Trump’s campaign against birthright citizenship, the constitutional right granting American citizenship to babies born in the United States. “As President Trump has made clear, citizenship...",
+        "url": "https://thehill.com/homenews/administration/6025626-trump-escalates-birthright-citizenship-campaign/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6025465-trump-media-lawsuit-truth-social-api/",
+        "id": "https://thehill.com/homenews/6025526-house-senate-passing-crs/",
         "source": "The Hill",
-        "title": "Lawsuit launched over sale of early access to Truth Social posts",
+        "title": "Congress breaks for summer recess with little to show",
         "publicationDate": "2026-08-12",
-        "category": "Court Battles",
-        "summary": "A left-leaning publication sued President Trump’s media company on Wednesday over its new product that gives paying Wall Street firms faster access to the president’s Truth Social posts The Intercept filed the lawsuit alongside the Freedom of the Press Foundation, saying the offering violates the First Amendment. “This scheme is profoundly corrupt,” the lawsuit states. “The...",
-        "url": "https://thehill.com/regulation/court-battles/6025465-trump-media-lawsuit-truth-social-api/"
+        "category": "News",
+        "summary": "As Congress enters its August recess, lawmakers are racing to reconcile different continuing appropriations resolutions to prevent a government shutdown before the Oct. 1 fiscal deadline and subsequent midterm elections.",
+        "url": "https://thehill.com/homenews/6025526-house-senate-passing-crs/"
     },
     {
-        "id": "https://thehill.com/business/6025347-treasury-repeals-beneficial-ownership-reporting/",
+        "id": "https://thehill.com/homenews/administration/6025430-trump-white-house-construction-costs/",
         "source": "The Hill",
-        "title": "Treasury Department repeals Biden-era reporting requirement for US businesses",
+        "title": "Trump administration to spend at least $900 million on White House construction projects: Report",
         "publicationDate": "2026-08-12",
-        "category": "Business",
-        "summary": "The Treasury Department on Tuesday officially repealed a requirement for American companies and individuals to report beneficial ownership information to its Financial Crimes Enforcement Network, or FinCEN. The department initially proposed the repeal in March 2025 and published the final rule in the Federal Register on Tuesday. In addition to repealing the reporting requirement, the...",
-        "url": "https://thehill.com/business/6025347-treasury-repeals-beneficial-ownership-reporting/"
+        "category": "Economy",
+        "summary": "The Trump administration is expected to spend at least $900 million on White House construction projects that will be fueled in part by taxpayer dollars without the approval of Congress, according to a new report from The Washington Post. In addition to the demolition of the East Wing and subsequent White House ballroom construction, President...",
+        "url": "https://thehill.com/homenews/administration/6025430-trump-white-house-construction-costs/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6025406-fetterman-wont-oppose-mccormick-2030/",
-        "source": "The Hill",
-        "title": "Fetterman says he won't campaign against McCormick",
+        "id": "https://www.nytimes.com/2026/08/12/us/politics/with-big-choices-ahead-ocasio-cortez-navigates-new-territory.html",
+        "source": "New York Times Politics",
+        "title": "With Big Choices Ahead, Ocasio-Cortez Navigates New Territory",
         "publicationDate": "2026-08-12",
-        "category": "Senate",
-        "summary": "Sen. John Fetterman (D-Penn.) said he would not campaign against Sen. Dave McCormick (R-Penn.) in 2030 if the Republican chooses to run for a second term. In remarks made to the Washington Examiner, Fetterman was asked whether he would support or oppose McCormick’s potential run in four years. “Well, I would absolutely never move against...",
-        "url": "https://thehill.com/homenews/senate/6025406-fetterman-wont-oppose-mccormick-2030/"
+        "category": "United States Politics and Government",
+        "summary": "Representative Alexandria Ocasio-Cortez’s decision to share her decision to freeze her eggs, the news that her longtime relationship had ended and talk of a presidential run have only intensified the debates that swirl around her.",
+        "url": "https://www.nytimes.com/2026/08/12/us/politics/with-big-choices-ahead-ocasio-cortez-navigates-new-territory.html"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6025443-tim-scott-darline-graham-south-carolina-senate/",
-        "source": "The Hill",
-        "title": "Tim Scott, NRSC chair, backs Graham for South Carolina Senate seat",
+        "id": "https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html",
+        "source": "New York Times Politics",
+        "title": "Three Questions for Democrats After an Eye-Opening Loss for Progressives",
         "publicationDate": "2026-08-12",
-        "category": "Senate",
-        "summary": "Sen. Tim Scott (R-S.C.), chair of the National Republican Senatorial Committee (NRSC), announced Wednesday that he voted for Sen. Darline Graham (R-S.C.) and will support her in the South Carolina Senate Republican primary runoff for her late brother's seat. Graham will face Rep. Ralph Norman (R-S.C.) in a runoff scheduled for Aug. 25. Graham —...",
-        "url": "https://thehill.com/homenews/senate/6025443-tim-scott-darline-graham-south-carolina-senate/"
+        "category": "Politics and Government",
+        "summary": "Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.",
+        "url": "https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html"
+    },
+    {
+        "id": "https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html",
+        "source": "New York Times Politics",
+        "title": "A Look Inside Trump’s Patriot Games",
+        "publicationDate": "2026-08-12",
+        "category": "United States Politics and Government",
+        "summary": "President Trump made an appearance at his first-ever Patriot Games in Geneva, Ohio, last night. Zolan Kanno-Youngs dialed in Natalie Kitroeff on “The Call” to break down what he was seeing and how sports have become a defining part of Mr. Trump’s presidency.",
+        "url": "https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html",
@@ -259,33 +295,6 @@
         "category": "Midterm Elections (2026)",
         "summary": "Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?",
         "url": "https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/12/us/politics/trump-lindell-minnesota-republican-primary.html",
-        "source": "New York Times Politics",
-        "title": "Trump-Backed Mike Lindell Loses Minnesota Governor Primary to Lisa Demuth",
-        "publicationDate": "2026-08-12",
-        "category": "Minnesota",
-        "summary": "After his loss in the state’s Republican primary for governor, Mike Lindell, a leading election denier, floated familiar, baseless claims of “anomalies” in his double-digit defeat.",
-        "url": "https://www.nytimes.com/2026/08/12/us/politics/trump-lindell-minnesota-republican-primary.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html",
-        "source": "New York Times Politics",
-        "title": "ICE Plans to Give Officers Gloves That Can Deliver Electric Shocks",
-        "publicationDate": "2026-08-12",
-        "category": "Illegal Immigration",
-        "summary": "The Department of Homeland Security described the gloves as a “de-escalation device,” but critics said they could encourage agents to use more force.",
-        "url": "https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html",
-        "source": "New York Times Politics",
-        "title": "He Was Deported to Eswatini in Southern Africa. He May Never Go Free.",
-        "publicationDate": "2026-08-12",
-        "category": "Deportation",
-        "summary": "As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.",
-        "url": "https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/12/how-david-crowley-upset-francesca-hong-wisconsins-primary-governor/",
@@ -378,15 +387,6 @@
         "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/21c7d2e9-29ff-47f7-ae06-173a1f1d3684?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The Amazon of used cars gets a balance sheet tune-up",
-        "publicationDate": "2026-08-12",
-        "category": "Other",
-        "summary": "Carvana has long been a target of short sellers but bets against the company have fallen sharply",
-        "url": "https://www.ft.com/content/21c7d2e9-29ff-47f7-ae06-173a1f1d3684?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "World witnesses one of nature’s greatest spectacles: a total solar eclipse",
@@ -394,6 +394,15 @@
         "category": "Other",
         "summary": "Spectators and scientists gather to witness full or partial blocking of the Sun across the northern hemisphere",
         "url": "https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/ab5f7160-68f5-4396-a5a2-f97f770e8634?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Mark Walter’s insurers rush to unwind affiliated investments",
+        "publicationDate": "2026-08-12",
+        "category": "Economy",
+        "summary": "TWG Global is seeking to refinance loans, restructure firms and bring in outside investors as prosecutors scrutinise books",
+        "url": "https://www.ft.com/content/ab5f7160-68f5-4396-a5a2-f97f770e8634?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279?syn-25a6b1a6=1",
@@ -405,22 +414,31 @@
         "url": "https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/c24d71f7-d270-486a-be6f-55b0a97f6850?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/c9d5c256-0e93-4978-b312-354cb7bd7487?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "China is winning the race for the Ice Silk Road",
-        "publicationDate": "2026-08-12",
-        "category": "Foreign Policy",
-        "summary": "Melting in the Arctic is unleashing a geopolitical tussle over new trade routes",
-        "url": "https://www.ft.com/content/c24d71f7-d270-486a-be6f-55b0a97f6850?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3309f3ea-c633-4727-887b-540a929d63e7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US press groups sue Trump over fast access to Truth Social posts",
+        "title": "Burnham urges retailers to stop selling disposable BBQs amid wildfires",
         "publicationDate": "2026-08-12",
         "category": "Other",
-        "summary": "Lawsuit seeks to stop president from publishing official government announcements exclusively on the platform",
-        "url": "https://www.ft.com/content/3309f3ea-c633-4727-887b-540a929d63e7?syn-25a6b1a6=1"
+        "summary": "PM holds emergency government meeting in response to drought and heatwaves",
+        "url": "https://www.ft.com/content/c9d5c256-0e93-4978-b312-354cb7bd7487?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/699929b6-ce31-4d0b-9828-c0fe96e59d9d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Crackdown on zero-hours contracts could cost UK firms up to £3bn per year",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "About £1.2bn will come from new rules forcing bosses to pay compensation for cancelled shifts",
+        "url": "https://www.ft.com/content/699929b6-ce31-4d0b-9828-c0fe96e59d9d?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R48934",
+        "source": "Congressional Research Service",
+        "title": "Introduction to Tribal Forestry",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.7.pdf"
     },
     {
         "id": "R49126",
@@ -429,7 +447,7 @@
         "publicationDate": "2026-08-11",
         "category": "Healthcare",
         "summary": "This report provides information on selected health provisions that have expired or are scheduled to expire during calendar years (CYs) 2026 and 2027. For purposes of this report, expiring provisions are defined as portions of law that are time-limited and will lapse once a statutory deadline is reached, absent further legislative action. The scope of expiring health provisions included in this report covers...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49126/R49126.2.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49126/R49126.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
@@ -531,6 +549,15 @@
         "url": "https://cms.hoover.org/research/tense-discussions-behind-ronald-reagans-tear-down-wall-speech"
     },
     {
+        "id": "RS20946",
+        "source": "Congressional Research Service",
+        "title": "Medicare: Insolvency Projections",
+        "publicationDate": "2026-08-10",
+        "category": "Economy",
+        "summary": "Medicare, the federal health insurance program that pays for covered health services for enrolled beneficiaries, provided coverage to approximately 70.7 million beneficiaries in 2026 and incurred total expenditures of approximately $1.33 trillion, of which $481 billion was paid by Part A. Part A, also known as Hospital Insurance (HI), covers primarily inpatient care at health facilities such as hospitals and...",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS20946/RS20946.32.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3197-1.html",
         "source": "RAND Corporation",
         "title": "Meeting the Need of the RAF Community",
@@ -538,15 +565,6 @@
         "category": "Other",
         "summary": "RAND Europe examined the size, demographics and support needs of current and former RAF personnel and their families for the RAF Benevolent Fund to inform future welfare planning and service delivery across the wider RAF community.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3197-1.html"
-    },
-    {
-        "id": "https://www.heritage.org/europe/commentary/blame-pedro-sanchez-ceuta-not-spain",
-        "source": "Heritage Foundation",
-        "title": "Blame Pedro Sanchez for Ceuta. Not Spain",
-        "publicationDate": "2026-08-10",
-        "category": "Defense",
-        "summary": "The invasion of the Spanish city of Ceuta by tens of thousands of young, marauding Moroccans is, like Charles Dickens’s A Christmas Carol , a tale of how the future could look unless one takes action in the present. It’s also a temptation to succumb to schadenfreude. Spanish Prime Minister Pedro Sanchez harbors a special enmity toward Israel and never misses an opportunity to lecture the United States on its...",
-        "url": "https://www.heritage.org/europe/commentary/blame-pedro-sanchez-ceuta-not-spain"
     },
     {
         "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
@@ -655,23 +673,5 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
-    },
-    {
-        "id": "R45968",
-        "source": "Congressional Research Service",
-        "title": "Limits on TRICARE for Reservists: Frequently Asked Questions",
-        "publicationDate": "2025-01-28",
-        "category": "Defense",
-        "summary": "While on active duty, reservists and their family members have access to a wide range of health care services administered by the Department of Defense’s (DOD) Military Health System (MHS). Prior to 2005, Title 10, Chapter 55 of the U.S. Code, authorized little to no DOD health care services to nonactivated reservists or their family members. In 2005, Congress began examining initial impacts of frequent...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45968/R45968.8.pdf"
-    },
-    {
-        "id": "IF11466",
-        "source": "Congressional Research Service",
-        "title": "Defense Primer: Department of Defense Maintenance Depots",
-        "publicationDate": "2024-11-15",
-        "category": "Defense",
-        "summary": "Title 10, United States Code (U.S.C.) §2464 requires the Department of Defense (DOD) to “maintain a core logistics capability that is government-owned and government-operated [GOGO]... to ensure a ready and controlled source of technical competence and resources necessary to ensure effective and timely response to a mobilization, national defense contingency situations, and other emergency requirements.” This...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11466/IF11466.8.pdf"
     }
 ]
