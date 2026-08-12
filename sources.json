@@ -1,5 +1,14 @@
 [
     {
+        "id": "IF11735",
+        "source": "Congressional Research Service",
+        "title": "China’s One Belt, One Road Initiative: Economic Issues",
+        "publicationDate": "2026-08-12",
+        "category": "Defense",
+        "summary": "The People’s Republic of China (PRC or China) in 2013 launched an ambitious and multifaceted foreign economic policy initiative—One Belt, One Road—to expand China’s global economic reach and influence. In 2015, China’s leaders changed the English name to the Belt and Road Initiative (BRI) (while keeping the Chinese name), possibly to deflect attention from the initiative’s focus on developing China-controlled and...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11735/IF11735.10.pdf"
+    },
+    {
         "id": "R46471",
         "source": "Congressional Research Service",
         "title": "Federally Supported Projects and Programs for Wastewater, Drinking Water, and Water Supply Infrastructure",
@@ -7,15 +16,6 @@
         "category": "Defense",
         "summary": "For decades, Congress has authorized, modified, and funded federal programs to help communities address water supply and water infrastructure needs. Departments and agencies that administer these assistance programs include the Bureau of Reclamation (Reclamation), the U.S. Army Corps of Engineers (USACE), the U.S. Department of Agriculture (USDA), the Environmental Protection Agency (EPA), the Department of Housing...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R46471/R46471.15.pdf"
-    },
-    {
-        "id": "IF12371",
-        "source": "Congressional Research Service",
-        "title": "Taiwan Presidents’ U.S. Transit Visits",
-        "publicationDate": "2026-08-12",
-        "category": "Defense",
-        "summary": "Introduction Since 1994, five sitting presidents of self-governing Taiwan, which also calls itself the Republic of China (ROC), have undertaken a combined 30 trips abroad that have included transit stops in the United States. U.S. policy has been to permit the most senior Taiwan officials to stop over in the United States only while en route to other locations. Taiwan authorities have portrayed U.S. permission for...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12371/IF12371.10.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5031-1.html",
@@ -162,6 +162,15 @@
         "url": "https://cms.hoover.org/research/secrets-churchills-diplomats-lord-peter-ricketts"
     },
     {
+        "id": "https://www.npr.org/2026/08/12/nx-s1-5929407/democratic-strategist-reflects-on-wisconsin-and-minnesota-primaries",
+        "source": "NPR Politics",
+        "title": "Democratic strategist reflects on Wisconsin and Minnesota primaries",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "NPR's Juana Summers speaks with Amanda Litman, co-founder of the PAC Run For Something, about the results from the Aug. 11 Democratic primary elections.",
+        "url": "https://www.npr.org/2026/08/12/nx-s1-5929407/democratic-strategist-reflects-on-wisconsin-and-minnesota-primaries"
+    },
+    {
         "id": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
         "source": "NPR Politics",
         "title": "Trump sued over service selling faster access to Truth Social posts",
@@ -198,13 +207,13 @@
         "url": "https://www.npr.org/2026/08/12/nx-s1-5928126/report-suggests-a-threat-forced-trump-to-switch-aircraft-as-he-departed-nato-summit"
     },
     {
-        "id": "https://www.npr.org/2026/08/12/nx-s1-5928188/former-secret-service-agent-discusses-trumps-air-force-one-switch",
-        "source": "NPR Politics",
-        "title": "Former Secret Service agent discusses Trump's Air Force One switch",
+        "id": "https://www.pbs.org/newshour/health/trumps-vaccine-order-hands-some-maha-voters-a-win-it-also-gives-democrats-an-attack-line",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump's vaccine order hands some MAHA voters a win. It also gives Democrats an attack line",
         "publicationDate": "2026-08-12",
-        "category": "Defense",
-        "summary": "NPR's Michel Martin speaks with former Secret Service agent Robert McDonald about reports that President Trump boarded a military aircraft instead of flying aboard Air Force One from Turkey.",
-        "url": "https://www.npr.org/2026/08/12/nx-s1-5928188/former-secret-service-agent-discusses-trumps-air-force-one-switch"
+        "category": "childhood vaccines",
+        "summary": "President Donald Trump pivoted the nation's attention back to vaccines this week with an executive order that aims to scale back the childhood immunization schedule and space out shots into separate visits.",
+        "url": "https://www.pbs.org/newshour/health/trumps-vaccine-order-hands-some-maha-voters-a-win-it-also-gives-democrats-an-attack-line"
     },
     {
         "id": "https://www.pbs.org/newshour/nation/ap-report-ice-plans-to-give-its-officers-gloves-that-can-deliver-painful-electric-shocks",
@@ -243,13 +252,40 @@
         "url": "https://www.pbs.org/newshour/politics/david-crowley-wins-democratic-primary-for-wisconsin-governor-over-francesca-hong"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways",
-        "source": "PBS NewsHour Politics",
-        "title": "Wisconsin primary offers mixed signals for Democrats, and other election takeaways",
+        "id": "https://thehill.com/newsletters/technology/6026210-meta-heads-back-to-court-for-online-safety-trial/",
+        "source": "The Hill",
+        "title": "Meta heads back to court for online safety trial",
         "publicationDate": "2026-08-12",
-        "category": "Darline Graham",
-        "summary": "David Crowley's win by less than a percentage point over state Rep. Francesca Hong, a democratic socialist, showed neither side of the party debate was winning the argument convincingly.",
-        "url": "https://www.pbs.org/newshour/politics/wisconsin-primary-offers-mixed-signals-for-democrats-and-other-election-takeaways"
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story Meta youth safety trial kicks off in California The latest kids online safety trial against Meta kicked off Wednesday in a California federal court, where the technology giant is accused of designing its platforms to be addictive for young users. AP Photo/Michael Dwyer, File Jury selection began Wednesday...",
+        "url": "https://thehill.com/newsletters/technology/6026210-meta-heads-back-to-court-for-online-safety-trial/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6026151-khanna-defends-hong-endorsement/",
+        "source": "The Hill",
+        "title": "Khanna defends Hong endorsement after surprise loss in Wisconsin primary",
+        "publicationDate": "2026-08-12",
+        "category": "Healthcare",
+        "summary": "Rep. Ro Khanna (D-Calif.) on Wednesday defended his endorsement of Wisconsin Democratic gubernatorial candidate Francesca Hong after her loss, while accusing some of “caricaturing and labeling” her “based on a few statements.” “I appreciate that Democrats can have differences over single payer healthcare, free childcare, pausing data centers and other issues @FrancescaHongWI fought for,” Khanna...",
+        "url": "https://thehill.com/homenews/campaign/6026151-khanna-defends-hong-endorsement/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6025901-maura-healey-signs-late-abortion-bill/",
+        "source": "The Hill",
+        "title": "Massachusetts Gov. Maura Healey signs late-term abortion bill into law",
+        "publicationDate": "2026-08-12",
+        "category": "State Watch",
+        "summary": "Massachusetts Gov. Maura Healey (D) on Monday signed a bill lifting the restriction on abortion at or after 24 weeks, making the state's abortion law one of the broadest in the country. \"We've heard so many stories –– stories that are filled with a lot of pain and anguish and heartache and a lot of...",
+        "url": "https://thehill.com/homenews/state-watch/6025901-maura-healey-signs-late-abortion-bill/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6026007-nick-reiner-indicted-lying-in-wait/",
+        "source": "The Hill",
+        "title": "Nick Reiner indicted in parents’ slayings, faces new ‘lying in wait’ allegation",
+        "publicationDate": "2026-08-12",
+        "category": "State Watch",
+        "summary": "Rob Reiner's son Nick Reiner will face two counts of first-degree murder with \"lying in wait\" special circumstances for the death of his parents, according to an indictment made public Wednesday. The addition of a special circumstance to Nick Reiner's charges suggests the Los Angeles district attorney believes the Hollywood icon's son may have waited...",
+        "url": "https://thehill.com/homenews/state-watch/6026007-nick-reiner-indicted-lying-in-wait/"
     },
     {
         "id": "https://thehill.com/regulation/court-battles/6026101-texas-surrogate-court-order/",
@@ -261,40 +297,31 @@
         "url": "https://thehill.com/regulation/court-battles/6026101-texas-surrogate-court-order/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6026108-southern-poverty-law-center-superseding-indictment/",
-        "source": "The Hill",
-        "title": "DOJ charges former SPLC employee in superseding indictment against the civil rights group",
+        "id": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html",
+        "source": "New York Times Politics",
+        "title": "South Carolina Senate Runoff Kicks Off With Chick-fil-A and Trump Calls",
         "publicationDate": "2026-08-12",
-        "category": "Court Battles",
-        "summary": "A former employee of the Southern Poverty Law Center (SPLC) was charged Wednesday in a superseding indictment against the civil rights nonprofit, with the Justice Department accusing Heidi Beirich of overseeing payments to informants monitoring hate groups. The charges are the first to be brought against an individual in the matter. The original indictment charged...",
-        "url": "https://thehill.com/regulation/court-battles/6026108-southern-poverty-law-center-superseding-indictment/"
+        "category": "South Carolina",
+        "summary": "Darline Graham and Ralph Norman emerged from a special election sprint on Tuesday to succeed Lindsey Graham. She will sell her closeness to President Trump. He will tout his conservatism.",
+        "url": "https://www.nytimes.com/2026/08/12/us/politics/south-carolina-republican-senate-primary-runoff.html"
     },
     {
-        "id": "https://thehill.com/homenews/6025953-leavitt-leave-white-house-press-secretary-role-trump/",
-        "source": "The Hill",
-        "title": "Leavitt to leave White House press secretary role, Trump says",
+        "id": "https://www.nytimes.com/2026/08/12/us/politics/splc-fraud-conspiracy-charges.html",
+        "source": "New York Times Politics",
+        "title": "Ex-Official at Southern Poverty Law Center Accused of Plotting to Misuse Far-Right Informants",
         "publicationDate": "2026-08-12",
-        "category": "News",
-        "summary": "President Trump announced via TruthSocial that White House press secretary Karoline Leavitt will step down from her role at the end of the month to focus on her family.",
-        "url": "https://thehill.com/homenews/6025953-leavitt-leave-white-house-press-secretary-role-trump/"
+        "category": "United States Politics and Government",
+        "summary": "The charges signaled an escalation of the Justice Department’s prosecution of the Southern Poverty Law Center, which is best known for investigating white supremacist groups.",
+        "url": "https://www.nytimes.com/2026/08/12/us/politics/splc-fraud-conspiracy-charges.html"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6025881-justice-department-marriage-fraud-charges/",
-        "source": "The Hill",
-        "title": "DOJ announces indictments in sham marriages case",
+        "id": "https://www.nytimes.com/2026/08/12/us/politics/treasury-scrutiny-shell-companies.html",
+        "source": "New York Times Politics",
+        "title": "Treasury Scales Back Scrutiny of U.S. Shell Companies",
         "publicationDate": "2026-08-12",
-        "category": "Administration",
-        "summary": "The Department of Justice (DOJ) announced charges Wednesday against 11 people for their alleged involvement in a decadelong \"multimillion-dollar marriage fraud scheme\" that federal prosecutors said secured Chinese nationals permanent U.S. resident status. In an indictment filed in the Southern District of New York, federal prosecutors alleged that these people participated in an “extensive” plot...",
-        "url": "https://thehill.com/homenews/administration/6025881-justice-department-marriage-fraud-charges/"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/6025865-eleventh-circuit-rejects-railroad-challenge/",
-        "source": "The Hill",
-        "title": "Freight railroads lose challenge to crew size rule",
-        "publicationDate": "2026-08-12",
-        "category": "Court Battles",
-        "summary": "A federal appeals court upheld a Federal Railroad Administration rule mandating certain trains must operate with two crew members after a challenge from railroad companies and industry groups. Six railroads and two trade groups — including Union Pacific Railroad, Berkshire Hathaway-owned BNSF Railway, the Association of American Railroads and the American Short Line and Regional...",
-        "url": "https://thehill.com/regulation/court-battles/6025865-eleventh-circuit-rejects-railroad-challenge/"
+        "category": "United States Politics and Government",
+        "summary": "The Trump administration will not enforce reporting requirements of the 2021 Corporate Transparency Act, which was intended to crack down on money laundering.",
+        "url": "https://www.nytimes.com/2026/08/12/us/politics/treasury-scrutiny-shell-companies.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/12/us/politics/trump-truth-social-lawsuit.html",
@@ -315,31 +342,13 @@
         "url": "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html",
-        "source": "New York Times Politics",
-        "title": "Which Trump Officials Joined Him on His Secret Flight Out of Turkey?",
+        "id": "https://www.washingtonpost.com/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-leave-administration/",
+        "source": "Washington Post Politics",
+        "title": "White House press secretary Karoline Leavitt to leave administration",
         "publicationDate": "2026-08-12",
-        "category": "Defense",
-        "summary": "The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.",
-        "url": "https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html"
-    },
-    {
-        "id": "https://www.nytimes.com/video/us/politics/100000011088835/watching-trump-at-the-patriot-games.html",
-        "source": "New York Times Politics",
-        "title": "Watching Trump at the Patriot Games",
-        "publicationDate": "2026-08-12",
-        "category": "United States Politics and Government",
-        "summary": "Zolan Kanno-Youngs, a White House correspondent for The New York Times, was at the finale of the Patriot Games, an athletic event marking the U.S.’s 250th birthday, where President Trump made an appearance. Mr. Kanno-Youngs breaks down the role of sports in the Trump presidency on “The Call” with Natalie Kitroeff.",
-        "url": "https://www.nytimes.com/video/us/politics/100000011088835/watching-trump-at-the-patriot-games.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/12/health/mmr-vaccine-combination-separate.html",
-        "source": "New York Times Politics",
-        "title": "Trump Wants the M.M.R. Vaccine Split Into Three Separate Shots. Doctors Say It’s a Bad Idea.",
-        "publicationDate": "2026-08-12",
-        "category": "Vaccination and Immunization",
-        "summary": "President Trump is calling for immunizations for measles, mumps and rubella to be given in individual jabs in three different appointments instead of the standard combination shot.",
-        "url": "https://www.nytimes.com/2026/08/12/health/mmr-vaccine-combination-separate.html"
+        "category": "Other",
+        "summary": "She will leave the administration at the end of August, President Donald Trump announced in a post on Truth Social on Wednesday.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-leave-administration/"
     },
     {
         "id": "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/",
@@ -349,15 +358,6 @@
         "category": "Other",
         "summary": "The son of actor and director Rob Reiner was indicted last month by a grand jury, with details unsealed Wednesday. Nick Reiner’s parents were found dead in December.",
         "url": "https://www.washingtonpost.com/nation/2026/08/12/nick-reiner-pleads-not-guilty-murder-charges-following-indictment/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-leave-administration/",
-        "source": "Washington Post Politics",
-        "title": "White House press secretary Karoline Leavitt to leave administration",
-        "publicationDate": "2026-08-12",
-        "category": "Other",
-        "summary": "She will leave the administration at the end of August, President Donald Trump announced in a post on Truth Social on Wednesday.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/12/white-house-press-secretary-karoline-leavitt-leave-administration/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/12/former-southern-poverty-law-center-official-charged-by-doj-fraud-case/",
@@ -407,10 +407,10 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+        "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
         "publicationDate": "2026-08-12",
         "category": "Other",
-        "summary": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used.",
+        "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
         "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -432,15 +432,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/3da49f90-75a1-4a01-bc6e-0716d57c1ddc?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Karoline Leavitt to step down as White House press secretary",
-        "publicationDate": "2026-08-12",
-        "category": "Other",
-        "summary": "Donald Trump says chief spokesperson will leave job at the end of the month",
-        "url": "https://www.ft.com/content/3da49f90-75a1-4a01-bc6e-0716d57c1ddc?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "World witnesses one of nature’s greatest spectacles: a total solar eclipse",
@@ -448,6 +439,15 @@
         "category": "Other",
         "summary": "Spectators and scientists gather to witness full or partial blocking of the Sun across the northern hemisphere",
         "url": "https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3da49f90-75a1-4a01-bc6e-0716d57c1ddc?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Karoline Leavitt to step down as White House press secretary",
+        "publicationDate": "2026-08-12",
+        "category": "Other",
+        "summary": "Donald Trump says chief spokesperson will leave job at the end of the month",
+        "url": "https://www.ft.com/content/3da49f90-75a1-4a01-bc6e-0716d57c1ddc?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279?syn-25a6b1a6=1",
@@ -477,6 +477,15 @@
         "url": "https://www.ft.com/content/c9d5c256-0e93-4978-b312-354cb7bd7487?syn-25a6b1a6=1"
     },
     {
+        "id": "R48284",
+        "source": "Congressional Research Service",
+        "title": "The Congressional Budget Resolution: Frequently Asked Questions",
+        "publicationDate": "2026-08-11",
+        "category": "Economy",
+        "summary": "The Congressional Budget Act of 1974 (the Budget Act) provides for the adoption of a concurrent resolution on the budget by April 15 each year for the fiscal year beginning October 1. By writing a budget resolution, Congress helps guide federal spending and revenue policies for the year. It is also the only way to initiate reconciliation, a fast-track procedure for enacting those policies into law. A budget...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48284/R48284.11.pdf"
+    },
+    {
         "id": "IF13284",
         "source": "Congressional Research Service",
         "title": "The Office of Personnel Management’s Request to Collect Claims Data from Federal Employees Health Benefits (FEHB) Carriers",
@@ -484,24 +493,6 @@
         "category": "Economy",
         "summary": "On December 12, 2025, the Office of Personnel Management (OPM) published a notice to solicit public comments on an information collection request (ICR) the agency is undertaking. OPM states that it “is collecting service use and cost data from [Federal Employees Health Benefits (FEHB)] ... Carriers, including medical claims, pharmacy claims, encounter data, and provider data.” OPM states that these data will enable...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13284/IF13284.2.pdf"
-    },
-    {
-        "id": "R49124",
-        "source": "Congressional Research Service",
-        "title": "New World Screwworm: Background and Issues for Congress",
-        "publicationDate": "2026-08-11",
-        "category": "Foreign Policy",
-        "summary": "The New World screwworm (NWS; Cochliomyia hominivorax) is a parasitic fly whose larvae infest warm-blooded animals, including livestock, wildlife, pets, birds, and humans. Female flies lay eggs in wounds or mucous membranes, and the larvae feed on living tissue, causing myiasis. Untreated infestations may result in severe tissue damage, secondary infections, reduced livestock productivity, or death. NWS was...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49124/R49124.2.pdf"
-    },
-    {
-        "id": "R48934",
-        "source": "Congressional Research Service",
-        "title": "Introduction to Tribal Forestry",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "The United States and federally recognized Tribes (“Tribes”) have a unique relationship that affects federal policies regarding forestry on tribal lands. In particular, the United States has a federal trust responsibility, which is a legal obligation under which the United States, through treaties, acts of Congress, and court decisions, “has charged itself with moral obligations of the highest responsibility and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48934/R48934.7.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
@@ -637,6 +628,15 @@
         "category": "Other",
         "summary": "Thank you for providing your feedback on the options for the CER's publications and podcast mailings. Your name: The amount of email I receive from the CER is: About right Too much If you have selected 'too much' above would you prefer to receive: A weekly newsletter with links to all content A monthly newsletter with links to all content Would you like to opt-out of receiving: Publications Podcasts Your email:...",
         "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
+    },
+    {
+        "id": "LSB11463",
+        "source": "Congressional Research Service",
+        "title": "The Department of Homeland Security’s Authority to Determine Detention Locations",
+        "publicationDate": "2026-07-29",
+        "category": "Economy",
+        "summary": "The Department of Homeland Security (DHS) may detain aliens who have violated federal civil immigration laws and who are placed in removal proceedings or ordered removed. To carry out this function, Congress has directed the DHS Secretary to “arrange for appropriate places of detention for aliens detained pending removal or a decision on removal.” While DHS owns and operates some detention facilities, the agency...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11463/LSB11463.7.pdf"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
