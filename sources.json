@@ -81,6 +81,24 @@
         "url": "https://cms.hoover.org/research/using-ai-increase-your-intelligence-enrich-humanity-dr-fei-fei-li"
     },
     {
+        "id": "https://cms.hoover.org/research/lapd-cop-recorded-colleagues-racist-and-sexist-remarks-will-his-prosecution-chill",
+        "source": "Hoover Institution",
+        "title": "LAPD Cop Recorded Colleagues' Racist And Sexist Remarks. Will His Prosecution Chill Whistleblowers?",
+        "publicationDate": "2026-08-13",
+        "category": "Other",
+        "summary": "Los Angeles Police Officer Daniel Flores thought he was doing the right thing.",
+        "url": "https://cms.hoover.org/research/lapd-cop-recorded-colleagues-racist-and-sexist-remarks-will-his-prosecution-chill"
+    },
+    {
+        "id": "https://cms.hoover.org/research/robert-services-very-russian-coup",
+        "source": "Hoover Institution",
+        "title": "Robert Service’s Very Russian Coup",
+        "publicationDate": "2026-08-13",
+        "category": "Foreign Policy",
+        "summary": "[Subscription Required] Nearly 35 years ago, the world gasped as a strange, gripping morality play unfolded in Russia. At its centre was Mikhail Gorbachev, a man who since taking power in 1985 had offered new hope for humanity, with his reason, affability and concern for peace.",
+        "url": "https://cms.hoover.org/research/robert-services-very-russian-coup"
+    },
+    {
         "id": "https://cms.hoover.org/events/ideas-uncorked-reclaiming-liberal-education-america-book-launch",
         "source": "Hoover Institution",
         "title": "Ideas Uncorked: Reclaiming Liberal Education in America Book Launch",
@@ -97,24 +115,6 @@
         "category": "Other",
         "summary": "How disputes over trade, sovereignty, and “exceptions” built up inside an inflexible structure.",
         "url": "https://cms.hoover.org/research/trouble-wto-was-long-time-coming"
-    },
-    {
-        "id": "https://cms.hoover.org/research/critical-choices-indo-pacific",
-        "source": "Hoover Institution",
-        "title": "Critical Choices In The Indo-Pacific",
-        "publicationDate": "2026-08-13",
-        "category": "Foreign Policy",
-        "summary": "All the security variables—alliances, weapons, nuclear moves—converge on US-China relations.",
-        "url": "https://cms.hoover.org/research/critical-choices-indo-pacific"
-    },
-    {
-        "id": "https://cms.hoover.org/plus/research/mcconnell-bill-rights",
-        "source": "Hoover Institution",
-        "title": "Chapter Four: Further Explanations",
-        "publicationDate": "2026-08-13",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/plus/research/mcconnell-bill-rights"
     },
     {
         "id": "https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics",
@@ -162,49 +162,76 @@
         "url": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/judge-dismisses-trump-administration-lawsuit-alleging-antisemitism-at-harvard",
+        "id": "https://www.pbs.org/newshour/show/act-of-terror-u-s-condemns-israeli-settler-siege-of-palestinian-homes-in-west-bank",
         "source": "PBS NewsHour Politics",
-        "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard",
+        "title": "'Act of terror': U.S. condemns Israeli settler siege of Palestinian homes in West Bank",
         "publicationDate": "2026-08-13",
-        "category": "antisemitism",
-        "summary": "The decision from U.S. District Judge Richard G. Stearns said President Donald Trump's administration failed to prove an ongoing violation of federal civil rights laws.",
-        "url": "https://www.pbs.org/newshour/politics/judge-dismisses-trump-administration-lawsuit-alleging-antisemitism-at-harvard"
+        "category": "israeli settlers",
+        "summary": "The U.S. condemned the siege of Palestinian homes by Israeli settlers in the West Bank, where they cut off water, electricity and essential supplies to residents. U.S. Ambassador to Israel Mike Huckabee called the settlers' actions an \"act of terror,\" adding to American pressure that has prompted Israeli forces to intervene. Nick Schifrin reports.",
+        "url": "https://www.pbs.org/newshour/show/act-of-terror-u-s-condemns-israeli-settler-siege-of-palestinian-homes-in-west-bank"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/ap-report-kennedy-center-board-moves-forward-with-a-two-year-closure-to-allow-for-renovations",
+        "id": "https://www.pbs.org/newshour/show/palestinian-american-family-recounts-siege-of-west-bank-home-by-israeli-settlers",
         "source": "PBS NewsHour Politics",
-        "title": "Kennedy Center board moves forward with a two-year closure to allow for renovations",
-        "publicationDate": "2026-08-13",
-        "category": "Donald Trump news",
-        "summary": "The Kennedy Center will move forward with a two-year closure of the sprawling performing arts venue to allow for substantial renovation work, while some outdoor programming may continue.",
-        "url": "https://www.pbs.org/newshour/politics/ap-report-kennedy-center-board-moves-forward-with-a-two-year-closure-to-allow-for-renovations"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump White House says it's losing $19B-$26 billion a year in revenue as countries dodge tariffs",
+        "title": "Palestinian American family recounts siege of West Bank home by Israeli settlers",
         "publicationDate": "2026-08-13",
         "category": "Defense",
-        "summary": "The report specifically highlights that China responded to new tariffs in 2018 by sending their goods to other nations ranging from Mexico to Malaysia for packaging and limited assembly — a practice known as transshipping.",
-        "url": "https://www.pbs.org/newshour/politics/trump-white-house-says-its-losing-19b-26-billion-a-year-in-revenue-as-countries-dodge-tariffs"
+        "summary": "Israeli settlers laid siege to the home of an American Palestinian family in the occupied West Bank, sparking condemnation from the U.S. ambassador and an Israeli military response. Nick Schifrin spoke with Qusai and Ahmed Ridi from the house in Qusra, and Qusai's brother, Loui Ridi, who helped translate this conversation.",
+        "url": "https://www.pbs.org/newshour/show/palestinian-american-family-recounts-siege-of-west-bank-home-by-israeli-settlers"
     },
     {
-        "id": "https://www.pbs.org/newshour/world/zambians-cast-ballots-in-a-presidential-election-that-tests-incumbents-economic-reforms",
+        "id": "https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers",
         "source": "PBS NewsHour Politics",
-        "title": "Zambians cast ballots in a presidential election that tests incumbent's economic reforms",
+        "title": "How Trump's construction projects are changing Washington and costing taxpayers",
         "publicationDate": "2026-08-13",
-        "category": "africa",
-        "summary": "About 8 million people in the southern African country of 22 million were registered to vote in the one-day election. Voters also were choosing members of Parliament and local government councilors.",
-        "url": "https://www.pbs.org/newshour/world/zambians-cast-ballots-in-a-presidential-election-that-tests-incumbents-economic-reforms"
+        "category": "Economy",
+        "summary": "President Trump is pressing ahead with an ambitious effort to reshape Washington with new construction and renovations. The White House projects alone are now estimated to cost at least $900 million, with taxpayers funding a significant portion, despite earlier promises that private donors would cover most of the bill. White House correspondent Liz Landers takes a closer look.",
+        "url": "https://www.pbs.org/newshour/show/how-trumps-construction-projects-are-changing-washington-and-costing-taxpayers"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/republicans-see-minnesota-fraud-scandal-as-a-chance-to-go-on-offense-in-a-blue-state",
+        "id": "https://www.pbs.org/newshour/show/doj-deploys-tactic-to-strip-naturalized-americans-of-citizenship",
         "source": "PBS NewsHour Politics",
-        "title": "Republicans see Minnesota fraud scandal as a chance to go on offense in a blue state",
+        "title": "DOJ deploys tactic to strip naturalized Americans of citizenship",
         "publicationDate": "2026-08-13",
-        "category": "Healthcare",
-        "summary": "The newly minted GOP ticket wasted no time before hammering Democrats over fraud. Dozens of people have been convicted of stealing hundreds of millions of dollars meant to provide food, shelter, healthcare and childcare to people in need.",
-        "url": "https://www.pbs.org/newshour/politics/republicans-see-minnesota-fraud-scandal-as-a-chance-to-go-on-offense-in-a-blue-state"
+        "category": "denaturalization",
+        "summary": "Earlier this month, federal prosecutors moved to strip citizenship from 25 naturalized Americans, accusing them of lying about their pasts and hiding serious crimes. It's called denaturalization and the Justice Department now calls it one of its top priorities. Justice correspondent Ali Rogin looks at what's behind this dramatic shift in law enforcement strategy.",
+        "url": "https://www.pbs.org/newshour/show/doj-deploys-tactic-to-strip-naturalized-americans-of-citizenship"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/teacher-empowers-her-students-to-see-themselves-as-art",
+        "source": "PBS NewsHour Politics",
+        "title": "Teacher empowers her students to see themselves as art",
+        "publicationDate": "2026-08-13",
+        "category": "art",
+        "summary": "An artist and educator in Washington, D.C., is using her work to celebrate her students while confronting the lasting effects of redlining. Blu Murphy is helping young people see themselves and their communities as works of art. Shane Mukasa of our journalism training program, PBS News Student Reporting Labs, has the story.",
+        "url": "https://www.pbs.org/newshour/show/teacher-empowers-her-students-to-see-themselves-as-art"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6028963-third-death-new-jersey-delaney-hall-ice/",
+        "source": "The Hill",
+        "title": "Third detainee dies after medical emergency at New Jersey ICE facility",
+        "publicationDate": "2026-08-13",
+        "category": "Administration",
+        "summary": "A third migrant detained at Delaney Hall, New Jersey's largest immigrant detention facility located in Newark, has died following a medical emergency. The Department of Homeland Security (DHS) told The Hill in a statement Thursday that, on July 19, a nurse was responding to another emergency when she noticed Guatemalan immigrant Jose Chajon-Raxon \"experiencing seizure-like...",
+        "url": "https://thehill.com/homenews/administration/6028963-third-death-new-jersey-delaney-hall-ice/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/",
+        "source": "The Hill",
+        "title": "Senate Democrats call for GAO audit of White House ballroom project",
+        "publicationDate": "2026-08-13",
+        "category": "Senate",
+        "summary": "A group of Senate Democrats called on the Government Accountability Office (GAO) to conduct an audit into the White House ballroom project following new reporting on the Trump administration’s multi-million-dollar construction projects. The Washington Post reported Wednesday on confidential contracts that showed the administration is expected to spend at least $900 million on White House...",
+        "url": "https://thehill.com/homenews/senate/6028941-senate-democrats-audit-white-house-ballroom/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/energy-environment/6028984-biden-era-effort-to-boost-power-lines-cut-by-trump-administration/",
+        "source": "The Hill",
+        "title": "Biden-era effort to boost power lines cut by Trump administration",
+        "publicationDate": "2026-08-13",
+        "category": "Energy & Environment Newsletter",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump cuts Biden-era effort to boost power lines The Trump administration is canceling a Biden-era effort to speed up power line construction in parts of Pennsylvania, Colorado, New Mexico, Oklahoma, Nebraska and the Dakotas. Joe Raedle, Getty Images file The Energy Department announced this...",
+        "url": "https://thehill.com/newsletters/energy-environment/6028984-biden-era-effort-to-boost-power-lines-cut-by-trump-administration/"
     },
     {
         "id": "https://thehill.com/homenews/house/6028921-house-commerce-committee-democrat-investigates-airlines/",
@@ -212,7 +239,7 @@
         "title": "Top Commerce Committee Democrat presses airlines over AI ‘surveillance pricing’",
         "publicationDate": "2026-08-13",
         "category": "Defense",
-        "summary": "A top Democrat on the House Commerce Committee is pressing major U.S. airlines over whether they use artificial intelligence to set ticket prices based on travelers’ personal information, raising concerns that it determines what fares consumers see. Rep. Frank Pallone Jr. (D-N.J.), the ranking member of the House Energy and Commerce Committee, sent letters to...",
+        "summary": "A top Democrat on the House Energy and Commerce Committee is pressing major U.S. airlines over whether they use artificial intelligence to set ticket prices based on travelers’ personal information, raising concerns that it determines what fares consumers see. Rep. Frank Pallone Jr. (D-N.J.), the ranking member of the House Energy and Commerce Committee, sent...",
         "url": "https://thehill.com/homenews/house/6028921-house-commerce-committee-democrat-investigates-airlines/"
     },
     {
@@ -223,33 +250,6 @@
         "category": "Administration",
         "summary": "News of White House press secretary Karoline Leavitt stepping down is still fresh, but political observers are already guessing and taking bets on who could take her place. The press secretary is one of the most front-facing administration officials, and President Trump went through four press secretaries during his first term, with their timelines spanning...",
         "url": "https://thehill.com/homenews/administration/6028830-karoline-leavitt-press-secretary-successor/"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/6028916-trump-administration-cyclosporiasis-outbreak/",
-        "source": "The Hill",
-        "title": "Warren presses RFK Jr. on Trump ties to lettuce distributor",
-        "publicationDate": "2026-08-13",
-        "category": "Healthcare",
-        "summary": "Sen. Elizabeth Warren (D-Mass.) is pressing Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. on whether the administration’s response to the cyclosporiasis outbreak was influenced by the donations of a major produce supplier to groups linked to President Trump. In a letter sent to Kennedy on Thursday, Warren questioned whether the “botched response”...",
-        "url": "https://thehill.com/policy/healthcare/6028916-trump-administration-cyclosporiasis-outbreak/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6028881-energy-dept-scraps-transmission-corridors/",
-        "source": "The Hill",
-        "title": "Trump cancels Biden-era bid to speed power line construction",
-        "publicationDate": "2026-08-13",
-        "category": "Energy & Environment",
-        "summary": "The Trump administration is canceling a Biden-era effort to speed up power line construction in parts of Pennsylvania, Colorado, New Mexico, Oklahoma, Nebraska and the Dakotas. The Energy Department announced this week that it would not move forward with designating three areas as National Interest Electric Transmission Corridors, a move that could get them federal...",
-        "url": "https://thehill.com/policy/energy-environment/6028881-energy-dept-scraps-transmission-corridors/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6028854-george-washington-replaces-abraham-lincoln/",
-        "source": "The Hill",
-        "title": "New aircraft carrier going to Middle East amid questions over conditions on USS Abraham Lincoln",
-        "publicationDate": "2026-08-13",
-        "category": "Defense",
-        "summary": "The U.S. is sending a new aircraft carrier to the Middle East amid reports of poor conditions aboard the USS Abraham Lincoln, which has been long deployed to the theater in support of the war against Iran. The USS George Washington, a Nimitz-class aircraft carrier, departed a port in Vietnam last week and was spotted...",
-        "url": "https://thehill.com/policy/defense/6028854-george-washington-replaces-abraham-lincoln/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/13/us/politics/alien-enemies-act-trump-appeals-court.html",
@@ -387,6 +387,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/b293b66c-8719-4956-9e76-9468dfeaa890?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UK houses caught up in wildfires during hottest day of the year",
+        "publicationDate": "2026-08-13",
+        "category": "Other",
+        "summary": "Blazes at several locations in the Midlands as temperatures reach 38.1C in London",
+        "url": "https://www.ft.com/content/b293b66c-8719-4956-9e76-9468dfeaa890?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/3b67ce5d-3f1a-41a8-8d87-7356876ede14?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "20 people injured in UK train derailment",
@@ -421,15 +430,6 @@
         "category": "Economy",
         "summary": "US scrutiny of billionaire’s sprawling finance holdings reached beyond insurers into securities and asset management giant",
         "url": "https://www.ft.com/content/c92400d8-15d8-44fb-a069-37c29141c5ae?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b293b66c-8719-4956-9e76-9468dfeaa890?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK houses caught up in wildfires during hottest day of the year",
-        "publicationDate": "2026-08-13",
-        "category": "Other",
-        "summary": "Blazes at several locations in the West Midlands as temperatures reach 38.1C in London",
-        "url": "https://www.ft.com/content/b293b66c-8719-4956-9e76-9468dfeaa890?syn-25a6b1a6=1"
     },
     {
         "id": "IN12728",
