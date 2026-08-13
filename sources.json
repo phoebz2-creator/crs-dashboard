@@ -1,5 +1,14 @@
 [
     {
+        "id": "IN12729",
+        "source": "Congressional Research Service",
+        "title": "Legacy Restoration Fund for Deferred Maintenance: 119th Congress Reauthorization Bills",
+        "publicationDate": "2026-08-13",
+        "category": "Foreign Policy",
+        "summary": "The Great American Outdoors Act (GAOA; P.L. 116-152) established the National Parks and Public Land Legacy Restoration Fund (LRF; 54 U.S.C. Chapter 2004), with dedicated funding to address deferred maintenance (DM) of five agencies: the Bureau of Indian Education (BIE), Bureau of Land Management (BLM), National Park Service (NPS), and U.S. Fish and Wildlife Service (FWS), all in the Department of the Interior...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12729/IN12729.1.pdf"
+    },
+    {
         "id": "IN12730",
         "source": "Congressional Research Service",
         "title": "Wildland Fire Smoke, Air Quality, and Health",
@@ -9,22 +18,13 @@
         "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12730/IN12730.1.pdf"
     },
     {
-        "id": "IF12824",
-        "source": "Congressional Research Service",
-        "title": "Federal Rental Assistance and Affordability",
+        "id": "https://www.cfr.org/articles/what-trumps-executive-order-means-for-childhood-vaccinations",
+        "source": "Council on Foreign Relations",
+        "title": "What Trump’s Executive Order Means for Childhood Vaccinations",
         "publicationDate": "2026-08-13",
-        "category": "Economy",
-        "summary": "Housing is generally considered affordable if it costs a household no more than 30% of their income; households who pay more are considered cost-burdened. About half of U.S. renters are cost-burdened and the lowest-income renters have the highest cost burdens. To address high cost-burdens for lower-income families, the federal government funds several rental assistance programs that allow recipients to pay...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12824/IF12824.3.pdf"
-    },
-    {
-        "id": "R49178",
-        "source": "Congressional Research Service",
-        "title": "The DPA Modernization Act of 2026: An Overview",
-        "publicationDate": "2026-08-13",
-        "category": "Defense",
-        "summary": "The Defense Production Act (DPA) of 1950 (P.L. 81-774, 50 U.S.C. §§4501 et seq.), as amended, gives the President a broad set of authorities to influence domestic industry in the interest of national defense. These authorities are currently provided in three titles: Title I: Priorities and Allocations allows the President to require persons, businesses, and corporations to prioritize and accept federal contracts...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49178/R49178.1.pdf"
+        "category": "Article",
+        "summary": "The order reduces the number of childhood vaccines recommendations and separates measles, mumps, and rubella into different shots.",
+        "url": "https://www.cfr.org/articles/what-trumps-executive-order-means-for-childhood-vaccinations"
     },
     {
         "id": "https://www.cfr.org/articles/the-u-s-led-middle-east-order-is-over-the-mecca-agreement-proves-it",
@@ -43,6 +43,15 @@
         "category": "Economy",
         "summary": "When it was announced last fall, the White House’s “Compact for Academic Excellence in Higher Education”—which ties federal funding to much-needed reforms—disturbed the right universities in the right ways. Now, as another school year gets underway, it’s time to discuss how the compact can be applied at the state level. Activist colleges have lost their way and squandered the trust of many Americans. While critics...",
         "url": "https://www.heritage.org/education/commentary/applying-the-white-houses-higher-ed-compact-state-level"
+    },
+    {
+        "id": "https://www.hudson.org/politics-government/zhu-rongji-political-magician-thomas-duesterberg",
+        "source": "Hudson Institute",
+        "title": "Zhu Rongji, Political Magician",
+        "publicationDate": "2026-08-13",
+        "category": "Defense",
+        "summary": "Zhu Rongji, Political Magician acabral-sanche… Thu, 08/13/2026 - 16:14 SVG Commentary Sep 23, 1999 The Washington Quarterly Zhu Rongji, Political Magician Thomas J. Duesterberg Senior Fellow Thomas J. Duesterberg Commentary Caption Premier Zhu Rongji speaks at the White House on April 8, 1999, in Washington, DC. (Getty Images) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook...",
+        "url": "https://www.hudson.org/politics-government/zhu-rongji-political-magician-thomas-duesterberg"
     },
     {
         "id": "https://www.hudson.org/foreign-policy/iran-blockades-houthi-attacks-turkey-saudi-defense-pact-marshall-billingslea",
@@ -207,12 +216,39 @@
         "url": "https://www.pbs.org/newshour/politics/republicans-see-minnesota-fraud-scandal-as-a-chance-to-go-on-offense-in-a-blue-state"
     },
     {
+        "id": "https://thehill.com/regulation/court-battles/6028655-alien-enemies-act-challenge-moot-trump-deportations/",
+        "source": "The Hill",
+        "title": "Appeals court rules key Alien Enemies Act lawsuit moot",
+        "publicationDate": "2026-08-13",
+        "category": "Court Battles",
+        "summary": "A federal appeals court on Thursday sidestepped major questions on whether President Trump lawfully invoked the Alien Enemies Act last year to conduct swift deportations, finding a key challenge moot. The case had boomeranged from the Supreme Court after Trump began deportations under the rarely used law in the early months of his administration’s immigration crackdown. The jurists on...",
+        "url": "https://thehill.com/regulation/court-battles/6028655-alien-enemies-act-challenge-moot-trump-deportations/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6028233-trump-private-sector-cybersecurity-program/",
+        "source": "The Hill",
+        "title": "Trump memo allows private sector to aid cyber offense against transnational criminal groups",
+        "publicationDate": "2026-08-13",
+        "category": "Technology",
+        "summary": "President Trump is laying the groundwork for private sector firms to take a larger role in the U.S.'s cybersecurity offense against transnational cyber crimes in what could be one of the largest ever changes in U.S. cyber policy. In a memo signed Wednesday, Trump called on the National Coordination Center to create a program for...",
+        "url": "https://thehill.com/policy/technology/6028233-trump-private-sector-cybersecurity-program/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6028439-kennedy-center-approves-added-trump-name/",
+        "source": "The Hill",
+        "title": "Kennedy Center board OKs new way of adding Trump’s name to building",
+        "publicationDate": "2026-08-13",
+        "category": "Administration",
+        "summary": "The Kennedy Center board voted Thursday to add President Trump’s name to the performing arts building months after a judge blocked an effort to rename the center after him, according to multiple reports. The Trump-aligned board approved an inscription underneath the Kennedy Center’s name, reading: “Restored and Renovated by President Donald J. Trump.” The new...",
+        "url": "https://thehill.com/homenews/administration/6028439-kennedy-center-approves-added-trump-name/"
+    },
+    {
         "id": "https://thehill.com/policy/healthcare/6028472-cassidy-backs-cdc-director-schwartz/",
         "source": "The Hill",
-        "title": "Cassidy: new CDC director Schwartz 'will do the right thing' on vaccine order",
+        "title": "Cassidy: New CDC Director Schwartz 'will do the right thing' on vaccine order",
         "publicationDate": "2026-08-13",
         "category": "Healthcare",
-        "summary": "Sen. Bill Cassidy (R-La.) said he has confidence that new Centers for Disease Control and Prevention director Erica Schwartz will stand up for science and won’t enforce President Trump's executive order calling for major changes to the childhood vaccine schedule. “I anticipate Erica Schwartz will do the right thing,” Cassidy, chair of the Senate Committee...",
+        "summary": "Sen. Bill Cassidy (R-La.) said he has confidence that new Centers for Disease Control and Prevention (CDC) Director Erica Schwartz will stand up for science and won’t enforce President Trump's executive order calling for major changes to the childhood vaccine schedule. “I anticipate Erica Schwartz will do the right thing,” Cassidy, chair of the Senate...",
         "url": "https://thehill.com/policy/healthcare/6028472-cassidy-backs-cdc-director-schwartz/"
     },
     {
@@ -221,43 +257,16 @@
         "title": "Live updates: Appeals court calls deportation case 'moot'; Pentagon pushed on complaints from USS Abraham Lincoln",
         "publicationDate": "2026-08-13",
         "category": "Defense",
-        "summary": "The 5th U.S. Circuit Court of Appeals on Thursday ruled that a case challenging the Trump administration on its use of the Alien Enemies Act to deport immigrants is now moot, with the plaintiffs having been deported using another law. Defense Secretary Pete Hegseth on Thursday claimed that conditions aboard the USS Abraham Lincoln aircraft carrier have been “completely...",
+        "summary": "The 5th U.S. Circuit Court of Appeals ruled Thursday that a case challenging the Trump administration on its use of the Alien Enemies Act to deport immigrants is now moot, with the plaintiffs having been deported using another law. Defense Secretary Pete Hegseth on Thursday claimed that conditions aboard the USS Abraham Lincoln aircraft carrier have been...",
         "url": "https://thehill.com/homenews/administration/6026537-live-updates-trump-iran-dnc-midterms/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6028346-general-keane-warns-iran-midterms/",
-        "source": "The Hill",
-        "title": "Retired general predicts Iran will get more aggressive 'as we get closer to the midterms'",
-        "publicationDate": "2026-08-13",
-        "category": "Defense",
-        "summary": "Retired Gen. Jack Keane forecasted Thursday that Iran’s military would ramp up its campaign against the U.S. approaching the November elections — a move he said would be a miscalculation. “I think as we get closer to the midterms, it's likely they will,” he told Fox Business Network's Stuart Varney. “And the reason for that...",
-        "url": "https://thehill.com/policy/defense/6028346-general-keane-warns-iran-midterms/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6028165-baier-disputes-trump-hormuz-control/",
-        "source": "The Hill",
-        "title": "Baier pushes back on Trump's Strait of Hormuz claim: 'Traffic has slowed ... to a trickle'",
-        "publicationDate": "2026-08-13",
-        "category": "Administration",
-        "summary": "Fox News host Bret Baier on Wednesday pushed back on President Trump's claim that the U.S. \"totally\" controls the Strait of Hormuz, saying that traffic through the waterway has slowed down \"to a trickle.\" \"Usually, about one-fifth of the world's liquefied natural gas trade moves through there as well,\" Baier said on Wednesday's episode of...",
-        "url": "https://thehill.com/homenews/administration/6028165-baier-disputes-trump-hormuz-control/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6027511-trump-secret-service-plane-ruse/",
-        "source": "The Hill",
-        "title": "What we know about the Air Force One ruse",
-        "publicationDate": "2026-08-13",
-        "category": "Defense",
-        "summary": "President Trump departed the NATO summit in Turkey last month aboard an alternate aircraft at the behest of the Secret Service amid what intelligence officials said was a credible assassination threat from Iran. The Washington Post first reported on Monday that Trump hid aboard a catering truck, which typically carries meals and other supplies preflight,...",
-        "url": "https://thehill.com/homenews/administration/6027511-trump-secret-service-plane-ruse/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html",
         "source": "New York Times Politics",
         "title": "Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals",
         "publicationDate": "2026-08-13",
-        "category": "Technology",
-        "summary": "The idea has been long in the making, but could be difficult to implement and lead to unintended consequences, former officials and security experts said.",
+        "category": "Foreign Policy",
+        "summary": "The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.",
         "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html"
     },
     {
@@ -486,15 +495,6 @@
         "url": "https://www.cfr.org/podcasts/spillover/how-china-is-quietly-winning-the-iran-war-energy-crisis"
     },
     {
-        "id": "https://www.cfr.org/articles/global-imbalances-tracker",
-        "source": "Council on Foreign Relations",
-        "title": "Global Imbalances Tracker",
-        "publicationDate": "2026-08-12",
-        "category": "Economy",
-        "summary": "The CFR Global Imbalances Tracker can be used to gauge, through time, the vulnerability of individual countries and the global economy to the buildup of imbalances in the current account (of which trade deficits or surpluses are the largest component). Below, the Global Imbalances Index shows the total size of global current account deficits and surpluses […]",
-        "url": "https://www.cfr.org/articles/global-imbalances-tracker"
-    },
-    {
         "id": "https://www.heritage.org/defense/report/maritime-legislation-explainer-and-next-steps",
         "source": "Heritage Foundation",
         "title": "Maritime Legislation: Explainer and Next Steps",
@@ -538,15 +538,6 @@
         "category": "Defense",
         "summary": "Annual Report 2025 nmackey@hudson.org Wed, 08/12/2026 - 16:51 SVG Reports Aug 12, 2026 Annual Report 2025 Hudson Institute Hudson Institute Reports Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail Print Print View Full Report Printable Version Letter from the Chair of the Board of Trustees and the President and CEO Over...",
         "url": "https://www.hudson.org/annual-report-2025"
-    },
-    {
-        "id": "https://www.hudson.org/national-security-defense/iran-has-not-changed-course-rebeccah-heinrichs",
-        "source": "Hudson Institute",
-        "title": "Iran Has Not Changed Course",
-        "publicationDate": "2026-08-12",
-        "category": "Defense",
-        "summary": "Iran Has Not Changed Course acabral-sanche… Wed, 08/12/2026 - 16:15 SVG In the Media Aug 12, 2026 The Brian Kilmeade Show Iran Has Not Changed Course Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn...",
-        "url": "https://www.hudson.org/national-security-defense/iran-has-not-changed-course-rebeccah-heinrichs"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
@@ -673,5 +664,14 @@
         "category": "Defense",
         "summary": "For decades, the Great Lakes and St. Lawrence Seaway navigation system has provided efficient shipping for the raw materials that support the steel industry and other heavy industries located in the region. However, shipping volumes have been in a long-term decline, and many port wharfs remain vacant. Congress recently authorized substantial spending to support the navigation system, including building a new lock...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R47550/R47550.4.pdf"
+    },
+    {
+        "id": "R46944",
+        "source": "Congressional Research Service",
+        "title": "Cybersecurity: Comparison of Selected Cyber Incident Reporting Bills—In Brief",
+        "publicationDate": "2021-10-25",
+        "category": "Technology",
+        "summary": "The 117th Congress has debated requirements for nonfederal entities to report to the federal government incidents of cyberattacks. As part of this debate, Members of Congress have introduced legislation seeking to address reporting requirements in different ways. This report compares selected bills addressing cyber incident reporting from the first session of the 117th Congress. Search terms: H.R. 5440 the Cyber...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46944/R46944.4.pdf"
     }
 ]
