@@ -9,6 +9,15 @@
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11470/LSB11470.1.pdf"
     },
     {
+        "id": "IF13287",
+        "source": "Congressional Research Service",
+        "title": "Constitutional Authority Statements and Repeal Legislation",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "To introduce a bill or joint resolution, House Rule XII requires Members of the House to attach a statement identifying the source of Congress’s constitutional authority to enact such legislation, known as a Constitutional Authority Statement (CAS). The underlying source of constitutional authority may be clear when Congress is creating new law, but that authority is less certain when Congress seeks to repeal a...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13287/IF13287.1.pdf"
+    },
+    {
         "id": "LSB11469",
         "source": "Congressional Research Service",
         "title": "Supreme Court Says Negligence Suits Against Military Contractor Operating in a Combat Zone Are Not Preempted",
@@ -16,15 +25,6 @@
         "category": "Defense",
         "summary": "On April 22, 2026, the U.S. Supreme Court decided the case Hencely v. Fluor Corp. This case involves a former servicemember (Winston Tyler Hencely) who sued a military contractor (Fluor) under South Carolina law for injuries he suffered on a U.S. military base in Afghanistan in 2016, allegedly due to Fluor’s negligence. Fluor employed an individual who carried out a suicide-bomb attack at the base that wounded...",
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11469/LSB11469.1.pdf"
-    },
-    {
-        "id": "IF12917",
-        "source": "Congressional Research Service",
-        "title": "Adult Protective Services: Background and Funding",
-        "publicationDate": "2026-08-14",
-        "category": "Healthcare",
-        "summary": "Background All 50 states, the District of Columbia, and five U.S. territories provide Adult Protective Services (APS) to address abuse, neglect, and exploitation of adults. APS programs serve seniors and adults with disabilities by offering a system for reporting and investigating abuse, providing protective and social services to victims, and coordinating with other state and local government entities and...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12917/IF12917.4.pdf"
     },
     {
         "id": "https://www.hudson.org/economics/dollar-venezuelas-economic-recovery-nick-snyder",
@@ -88,6 +88,15 @@
         "category": "European Power",
         "summary": "Mark Leonard welcomes Jörg Lau and Jana Puglierin to discuss Germany’s deepening political crisis, the rise of the AfD and how the country’s regional elections could impact Europe’s largest democracy",
         "url": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch",
+        "source": "NPR Politics",
+        "title": "Democrats grapple with Trump's push to limit transparency within the executive branch",
+        "publicationDate": "2026-08-14",
+        "category": "Other",
+        "summary": "President Trump is pushing the boundaries of executive power to limit transparency within the executive branch. Congressional Democrats are grappling with how to respond.",
+        "url": "https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch"
     },
     {
         "id": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
@@ -162,12 +171,39 @@
         "url": "https://www.pbs.org/newshour/politics/trump-asks-supreme-court-to-let-white-house-resume-ballroom-construction-during-appeal"
     },
     {
+        "id": "https://thehill.com/newsletters/healthcare/6030921-trump-hhs-transgender-care/",
+        "source": "The Hill",
+        "title": "Trump admin escalates fight against transgender care",
+        "publicationDate": "2026-08-14",
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare The Big Story Trump admin escalates fight against transgender care The Trump administration this week scaled up its fight against transgender health care, cutting Medicaid coverage and referring hospitals and clinics for potential prosecution. © Photo credit The moves this week add to...",
+        "url": "https://thehill.com/newsletters/healthcare/6030921-trump-hhs-transgender-care/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/",
+        "source": "The Hill",
+        "title": "USS Abraham Lincoln returning home",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Amid reports of low morale, USS Abraham Lincoln returning home, Navy says Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier’s long deployment...",
+        "url": "https://thehill.com/newsletters/defense-national-security/6030870-uss-abraham-lincoln-returning-home/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6030865-congress-scrutinizes-navy-deployment/",
+        "source": "The Hill",
+        "title": "USS Abraham Lincoln controversy likely to loom over Pentagon",
+        "publicationDate": "2026-08-14",
+        "category": "Foreign Policy",
+        "summary": "Reports of low morale and poor conditions on the USS Abraham Lincoln have prompted new scrutiny from Congress and the families of those serving during the Iran war, scrutiny unlikely to end even as the administration said Friday the aircraft carrier was returning home. The return caps a grueling, more than 265-day deployment aboard the...",
+        "url": "https://thehill.com/homenews/6030865-congress-scrutinizes-navy-deployment/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/",
         "source": "The Hill",
         "title": "Judge lifts order on Somalia TPS, clearing way for deportations",
         "publicationDate": "2026-08-14",
         "category": "Administration",
-        "summary": "A Massachusetts-based federal judge on Friday lifted her stay in a case brought by Somalian holders of Temporary Protected Status (TPS), clearing the way for the Trump administration to begin deporting them. The ruling from U.S. District Judge Allison Burroughs lifts an administrative stay she issued after the Supreme Court decided in a related case...",
+        "summary": "A Massachusetts-based federal judge on Friday lifted her stay in a case brought by Somali holders of temporary protected status (TPS), clearing the way for the Trump administration to begin deporting them. The ruling from U.S. District Judge Allison Burroughs lifts an administrative stay she issued after the Supreme Court decided in a related case...",
         "url": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/"
     },
     {
@@ -176,35 +212,35 @@
         "title": "Military to reimburse service members freezing eggs, sperm",
         "publicationDate": "2026-08-14",
         "category": "Defense",
-        "summary": "The Pentagon is piloting a reimbursement program for eligible service members looking to freeze their eggs or sperm, according to a notice published in the Federal Register on Thursday. The National Defense Authorization Act of 2025 required the implementation of this initiative, which will cover up to $500 in annual costs for sperm cryopreservation services...",
+        "summary": "The Pentagon is piloting a reimbursement program for eligible service members looking to freeze their eggs or sperm, according to a notice published Thursday in the Federal Register. The National Defense Authorization Act of 2025 required the implementation of the initiative, which will cover up to $500 in annual costs for sperm cryopreservation services and...",
         "url": "https://thehill.com/policy/healthcare/6030762-military-eggs-sperm-freezing-reimbursement-program/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6030609-accused-olympian-seeks-protection-from-future-reflecting-pool-charges/",
-        "source": "The Hill",
-        "title": "Accused Olympian seeks protection from future Reflecting Pool charges",
+        "id": "https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html",
+        "source": "New York Times Politics",
+        "title": "President Trump Takes Credit for Steep Crime Rate Declines",
         "publicationDate": "2026-08-14",
-        "category": "Court Battles",
-        "summary": "Attorneys for the Olympian previously accused of vandalizing the Lincoln Memorial Reflecting Pool filed a motion Thursday to bar prosecutors from bringing further criminal charges against him related to the case, citing fears of “prosecutorial harassment\" by President Trump. The legal team for Olympic canoeist David Hearn called for Judge Todd Edelman of the District...",
-        "url": "https://thehill.com/regulation/court-battles/6030609-accused-olympian-seeks-protection-from-future-reflecting-pool-charges/"
+        "category": "Trump",
+        "summary": "Violent crime rates, including murder, have dropped precipitously. The trend began before the president’s current term.",
+        "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6030671-trump-says-strait-of-hormuz-us-territory/",
-        "source": "The Hill",
-        "title": "Trump says he will declare Strait of Hormuz a US territory",
-        "publicationDate": "2026-08-14",
-        "category": "Foreign Policy",
-        "summary": "President Trump claimed during remarks on Long Island, N.Y., on Friday that he will make the Strait of Hormuz a U.S. territory, despite the fact that Oman and Iran share jurisdiction of the waterway. “Pretty soon, I will be declaring the Hormuz Strait a territory of the United States,” Trump said during an address highlighting...",
-        "url": "https://thehill.com/homenews/administration/6030671-trump-says-strait-of-hormuz-us-territory/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6030654-uss-abraham-lincoln-returns-home/",
-        "source": "The Hill",
-        "title": "USS Abraham Lincoln is returning home, acting Navy secretary says",
+        "id": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
+        "source": "New York Times Politics",
+        "title": "Navy Carrier’s Problems Are Tied to Attacks on U.S. Base Early in War",
         "publicationDate": "2026-08-14",
         "category": "Defense",
-        "summary": "Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier’s long deployment has come under scrutiny over reported harsh conditions the sailors onboard have worked under. “The USS Abraham Lincoln crushed their deployment and will return home soon as part of a planned...",
-        "url": "https://thehill.com/policy/defense/6030654-uss-abraham-lincoln-returns-home/"
+        "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.",
+        "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html",
+        "source": "New York Times Politics",
+        "title": "Can Senator Ed Markey’s Progressive Politics Help Him Overcome the Age Issue?",
+        "publicationDate": "2026-08-14",
+        "category": "Politics and Government",
+        "summary": "Ed Markey is hoping that his progressive politics will save him in Massachusetts.",
+        "url": "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
@@ -223,33 +259,6 @@
         "category": "Carro",
         "summary": "Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.",
         "url": "https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
-        "source": "New York Times Politics",
-        "title": "The 5 Congress Members Whose Families Trade the Most Stocks",
-        "publicationDate": "2026-08-14",
-        "category": "House of Representatives",
-        "summary": "Some lawmakers and their families have traded millions of dollars worth of stocks since the start of this term.",
-        "url": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
-        "source": "New York Times Politics",
-        "title": "Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns",
-        "publicationDate": "2026-08-14",
-        "category": "United States Politics and Government",
-        "summary": "Republican and Democratic challengers are both using the issue to attack members of Congress as unethical, seizing on a common practice that enrages voters.",
-        "url": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
-        "source": "New York Times Politics",
-        "title": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
-        "publicationDate": "2026-08-14",
-        "category": "Alaska",
-        "summary": "The campaign of Mary Peltola said it was focused on issues important to Alaska and did not approve a message of support from Ms. Harris.",
-        "url": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/14/desantis-says-he-doesnt-support-republican-rep-cory-mills-tuesdays-primary/",
@@ -342,6 +351,33 @@
         "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
+        "publicationDate": "2026-08-14",
+        "category": "Other",
+        "summary": "Secretive Wall Street trading firm wrongfooted by July AI rout",
+        "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/2066e73b-be66-4df0-822a-b694d8f66535?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Sheinbaum slams US for revoking visa of former Mexican president’s son",
+        "publicationDate": "2026-08-14",
+        "category": "Foreign Policy",
+        "summary": "Trump administration accused of foreign interference as López Obrador’s son says decision came from ‘gangster bosses’",
+        "url": "https://www.ft.com/content/2066e73b-be66-4df0-822a-b694d8f66535?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Former Cambridge professor Jason Arday found dead",
+        "publicationDate": "2026-08-14",
+        "category": "Other",
+        "summary": "University’s youngest-ever Black professor had been under scrutiny following plagiarism allegations",
+        "url": "https://www.ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "US accuses more than 40 countries of helping China avoid Trump’s tariffs",
@@ -358,33 +394,6 @@
         "category": "Other",
         "summary": "PM visits scene of wildfire as he explores controversial moves to water down EV sales targets and approve new oilfields",
         "url": "https://www.ft.com/content/8e790ba0-0c3d-47dd-9955-0b98a808ae0c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Americans sour on Trump’s economy as affordability strains intensify",
-        "publicationDate": "2026-08-14",
-        "category": "Economy",
-        "summary": "Consumer sentiment and retail sales fall as the war in Iran worsens cost of living pressures",
-        "url": "https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/2066e73b-be66-4df0-822a-b694d8f66535?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Sheinbaum slams US for revoking visa of former Mexican president’s son",
-        "publicationDate": "2026-08-14",
-        "category": "Foreign Policy",
-        "summary": "Trump administration accused of foreign interference as López Obrador’s son says decision came from ‘gangster bosses’",
-        "url": "https://www.ft.com/content/2066e73b-be66-4df0-822a-b694d8f66535?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/45f65d72-b90a-4dd9-a7b7-43bdf511c194?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Second UK train derails in less than 24 hours",
-        "publicationDate": "2026-08-14",
-        "category": "Other",
-        "summary": "Incident in Essex follows derailment of train in East Sussex on Thursday",
-        "url": "https://www.ft.com/content/45f65d72-b90a-4dd9-a7b7-43bdf511c194?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/what-trumps-executive-order-means-for-childhood-vaccinations",
@@ -457,15 +466,6 @@
         "category": "Other",
         "summary": "U.S. support for Israel has been a central issue in Democratic primary contests. That's put a spotlight on the pro-Israel lobbying group AIPAC and the strength of its political influence.",
         "url": "https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/13/nx-s1-5929260/democratic-socialisms-next-test-is-the-midwest",
-        "source": "NPR Politics",
-        "title": "Democratic socialism's next test is the Midwest",
-        "publicationDate": "2026-08-13",
-        "category": "Other",
-        "summary": "A democratic socialist narrowly lost Wisconsin's Democratic gubernatorial primary. But conversations with swing voters suggest voters may be more open to the \"socialist\" label than expected.",
-        "url": "https://www.npr.org/2026/08/13/nx-s1-5929260/democratic-socialisms-next-test-is-the-midwest"
     },
     {
         "id": "R46471",
@@ -564,7 +564,7 @@
         "publicationDate": "2026-08-11",
         "category": "Other",
         "summary": "This report provides an overview of statutory inspectors general (IGs) in the federal government, including their structure and functions, as well as related issues for Congress. Statutory IGs—established by law rather than administrative directive—are intended to be independent, nonpartisan officials who aim to prevent and detect waste, fraud, and abuse in the federal government. To execute their missions, IGs...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45450/R45450.15.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45450/R45450.16.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
