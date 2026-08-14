@@ -1,5 +1,14 @@
 [
     {
+        "id": "R46797",
+        "source": "Congressional Research Service",
+        "title": "Finding Medicare Fee-for-Service (FFS) Payment System Rules: Schedules and Resources",
+        "publicationDate": "2026-08-14",
+        "category": "Healthcare",
+        "summary": "The Medicare Fee-for-Service (FFS) program pays physicians, hospitals, and other health care facilities based on statutorily established payment systems, most of which are updated annually through regulations. The publication of Medicare FFS proposed and final rules follow schedules based on requirements found in statute, regulation, or both. As Medicare FFS payment system proposed and final rules are issued, they...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46797/R46797.22.pdf"
+    },
+    {
         "id": "R49189",
         "source": "Congressional Research Service",
         "title": "AI Chatbots as Companions: Overview, Uses, and Considerations for Congress",
@@ -16,24 +25,6 @@
         "category": "Defense",
         "summary": "Information technology (IT), or the use of devices such as computers to handle electronic data, has existed for decades, but it has only recently become accessible to many Americans in a health care context. The federal government has tasked the Office of the National Coordinator for Health Information Technology (ONC) with developing a nationwide health IT framework that is interoperable, equitable, and accessible...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12352/IF12352.5.pdf"
-    },
-    {
-        "id": "R49187",
-        "source": "Congressional Research Service",
-        "title": "African Growth and Opportunity Act (AGOA)",
-        "publicationDate": "2026-08-14",
-        "category": "Foreign Policy",
-        "summary": "The African Growth and Opportunity Act (AGOA) is a key pillar of U.S. trade policy with sub-Saharan Africa (SSA). Congress enacted AGOA as part of the Trade and Development Act of 2000 (Title I of P.L. 106-200, as amended). AGOA is a nonreciprocal U.S. trade preference program providing duty-free access for most U.S. imports of goods from eligible countries in SSA. Under the act, the President may designate up to...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49187/R49187.2.pdf"
-    },
-    {
-        "id": "R49188",
-        "source": "Congressional Research Service",
-        "title": "Ecuador in Brief: Overview and U.S. Relations",
-        "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "Ecuador is an ethnically and geographically diverse country of 18.1 million people, encompassing parts of South America’s Pacific coast, Amazon basin, and Andean highlands. Following a period of bilateral tensions under former President Rafael Correa (2006-2017), U.S.-Ecuador ties have strengthened, including under current President Daniel Noboa (2023-present) of the right-leaning National Democratic Action...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49188/R49188.1.pdf"
     },
     {
         "id": "https://www.hudson.org/economics/dollar-venezuelas-economic-recovery-nick-snyder",
@@ -117,6 +108,15 @@
         "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-says-uss-lincolns-deployment-was-not-nearly-long-enough",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump says USS Lincoln's deployment was 'not nearly long enough'",
+        "publicationDate": "2026-08-14",
+        "category": "Donald Trump news",
+        "summary": "Trump refuted that family members have raised concerns about the deployment's length and even said that the more than 260-day deployment is \"not nearly long enough.\"",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-says-uss-lincolns-deployment-was-not-nearly-long-enough"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/watch-live-trump-to-highlight-violent-crime-reduction-during-visit-to-ny-police-academy",
         "source": "PBS NewsHour Politics",
         "title": "WATCH LIVE: Trump to highlight violent crime reduction during visit to NY police academy",
@@ -142,6 +142,24 @@
         "category": "Donald Trump news",
         "summary": "President Donald Trump's administration has asked the U.S. Supreme Court to allow the White House to resume construction on its $400 million ballroom project while it appeals a lower court's order to halt the work.",
         "url": "https://www.pbs.org/newshour/politics/trump-asks-supreme-court-to-let-white-house-resume-ballroom-construction-during-appeal"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6029139-live-updates-trump-long-island-white-house/",
+        "source": "The Hill",
+        "title": "Live updates: Trump addresses Long Island crowd, with focus on decline in crime",
+        "publicationDate": "2026-08-14",
+        "category": "Administration",
+        "summary": "President Trump is in Nassau County, N.Y., on Long Island, to highlight his administration's efforts to fight crime. He's giving remarks to a crowd and has tried to boost to Nassau County Executive Bruce Blakeman, who is running for New York governor in November. He'll tour the Nassau County Police Academy in Garden City along...",
+        "url": "https://thehill.com/homenews/administration/6029139-live-updates-trump-long-island-white-house/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/6030501-mexican-president-son-trump-visa-challenge/",
+        "source": "The Hill",
+        "title": "Son of former Mexican president challenges Trump after visa revoked",
+        "publicationDate": "2026-08-14",
+        "category": "Foreign Policy",
+        "summary": "Andrés Manuel López Beltrán — the son of former Mexican President Andrés Manuel López Obrador — said the U.S. has revoked his visa and accused President Trump’s top diplomats of politically targeting him. In a letter released Thursday and addressed to Trump, López Beltrán, also known as “Andy,” alleged Secretary of State Marco Rubio and...",
+        "url": "https://thehill.com/policy/international/6030501-mexican-president-son-trump-visa-challenge/"
     },
     {
         "id": "https://thehill.com/homenews/administration/6030357-donald-trump-white-house-tariffs-foreign-drones-national-security-risks/",
@@ -171,27 +189,27 @@
         "url": "https://thehill.com/policy/defense/6030391-trump-denies-uss-lincoln-concerns/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6030313-fry-endorses-darline-graham-sc-runoff/",
-        "source": "The Hill",
-        "title": "Fry throws support behind Darline Graham's Senate bid after primary loss",
+        "id": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
+        "source": "New York Times Politics",
+        "title": "Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris",
         "publicationDate": "2026-08-14",
-        "category": "Campaign",
-        "summary": "Rep. Russell Fry (R-S.C.) endorsed Sen. Darline Graham (R-S.C.) on Friday as she advances to a runoff election against Rep. Ralph Norman (R-S.C.) for the Republican nomination in South Carolina’s Senate race. He urged his supporters to support Graham in her bid to replace her late brother, Sen. Lindsey Graham (R-S.C.), after Fry did not...",
-        "url": "https://thehill.com/homenews/campaign/6030313-fry-endorses-darline-graham-sc-runoff/"
+        "category": "Alaska",
+        "summary": "The campaign of Mary Peltola said it was focused on issues important to Alaska and did not approve a message of support from Ms. Harris.",
+        "url": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html"
     },
     {
-        "id": "https://thehill.com/policy/energy-environment/6030328-epa-chemical-approval-lawsuit/",
-        "source": "The Hill",
-        "title": "EPA sued for approving semiconductor chemicals that may pose health risks",
+        "id": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
+        "source": "New York Times Politics",
+        "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
         "publicationDate": "2026-08-14",
-        "category": "Healthcare",
-        "summary": "Environmental and community groups sued the Trump administration on Friday over its approval of two chemicals for use in semiconductors despite posing health risks. The Environmental Protection Agency (EPA) recently approved the two unnamed chemicals for use in the semiconductor industry even though it also found potential risks to workers and the general public, the...",
-        "url": "https://thehill.com/policy/energy-environment/6030328-epa-chemical-approval-lawsuit/"
+        "category": "World War II (1939-45)",
+        "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital.",
+        "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/14/us/blue-angels-uniforms-contract-shop.html",
         "source": "New York Times Politics",
-        "title": "She Sewed the Blue Angels’ Flight Suits. Then a Big Company Got the Job.",
+        "title": "She Sewed the Blue Angels’ Suits for 40 Years. Then a Big Company Got the Job.",
         "publicationDate": "2026-08-14",
         "category": "Defense",
         "summary": "Jellie Whitehurst in Pensacola, Fla., was surprised to learn that after decades, the Navy had awarded a $1.7 million contract to a company in Virginia to supply the gear.",
@@ -216,22 +234,13 @@
         "url": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/14/climate/mining-trump-utah-monuments.html",
-        "source": "New York Times Politics",
-        "title": "Mining Claims Staked on Land Cut From Bears Ears and Grand Staircase Monuments",
+        "id": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
+        "source": "Washington Post Politics",
+        "title": "Trump dismisses families’ concerns about USS Abraham Lincoln conditions",
         "publicationDate": "2026-08-14",
-        "category": "Federal Lands",
-        "summary": "Prospectors are eyeing mineral deposits within the former boundaries of the Bears Ears and Grand Staircase-Escalante National Monuments in Utah.",
-        "url": "https://www.nytimes.com/2026/08/14/climate/mining-trump-utah-monuments.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html",
-        "source": "New York Times Politics",
-        "title": "Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure",
-        "publicationDate": "2026-08-14",
-        "category": "South Carolina",
-        "summary": "The president has been focused on the race since the death of Lindsey Graham in July. Ms. Graham, the late senator’s sister, is competing against Representative Ralph Norman in a runoff on Aug. 25.",
-        "url": "https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html"
+        "category": "Defense",
+        "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
@@ -270,13 +279,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/14/amid-intra-maga-fight-trump-weighs-going-all-darline-graham/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/14/truth-socials-sale-fast-access-trump-posts-draws-legal-concerns/",
-        "source": "Washington Post Politics",
-        "title": "Truth Social’s sale of fast access to Trump posts draws legal concerns",
+        "id": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
         "publicationDate": "2026-08-14",
-        "category": "Other",
-        "summary": "A lawsuit filed this week alleges that the product is unconstitutional, and other experts warn it could violate securities laws.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/14/truth-socials-sale-fast-access-trump-posts-draws-legal-concerns/"
+        "category": "Healthcare",
+        "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+        "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
@@ -315,22 +324,13 @@
         "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Stolen Matisse artworks recovered by police in Brazil",
-        "publicationDate": "2026-08-14",
-        "category": "Other",
-        "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-        "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/45f65d72-b90a-4dd9-a7b7-43bdf511c194?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Second UK train derails in less than 24 hours",
+        "title": "US accuses more than 40 countries of helping China avoid Trump’s tariffs",
         "publicationDate": "2026-08-14",
-        "category": "Other",
-        "summary": "Incident in Essex follows derailment of train in East Sussex on Thursday",
-        "url": "https://www.ft.com/content/45f65d72-b90a-4dd9-a7b7-43bdf511c194?syn-25a6b1a6=1"
+        "category": "Foreign Policy",
+        "summary": "White House says Canada, Japan, EU and others enabling evasion of levies for $60bn in trade via ‘transshipment scam’",
+        "url": "https://www.ft.com/content/5d5ed2dd-8326-4cad-aac3-5816448ceccf?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/8e790ba0-0c3d-47dd-9955-0b98a808ae0c?syn-25a6b1a6=1",
@@ -342,31 +342,31 @@
         "url": "https://www.ft.com/content/8e790ba0-0c3d-47dd-9955-0b98a808ae0c?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/68873521-58fa-435d-b46f-6309612964b2?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Luigi Mangione admits shooting UnitedHealthcare CEO",
-        "publicationDate": "2026-08-14",
-        "category": "Healthcare",
-        "summary": "Ivy League graduate pleads guilty in federal case that has become lightning rod for debate about US healthcare system",
-        "url": "https://www.ft.com/content/68873521-58fa-435d-b46f-6309612964b2?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/11126975-e2ba-4510-8b9e-2f2bc82b43a5",
-        "source": "Financial Times World",
-        "title": "Biotech VCs have become like bankers and we might all pay the price",
-        "publicationDate": "2026-08-14",
-        "category": "Healthcare",
-        "summary": "A shift in business models conflicts with the long-term nature of developing new drugs and treatment",
-        "url": "https://www.ft.com/content/11126975-e2ba-4510-8b9e-2f2bc82b43a5"
-    },
-    {
-        "id": "https://www.ft.com/content/20f44f32-6566-4373-b6d8-9551be58d762?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "How a bad trade pushed a US mortgage giant into a $2bn lifeline",
+        "title": "Americans sour on Trump’s economy as affordability strains intensify",
         "publicationDate": "2026-08-14",
         "category": "Economy",
-        "summary": "Billionaire finance executive and Phoenix Suns owner Mat Ishbia forged a last-minute deal with Oaktree",
-        "url": "https://www.ft.com/content/20f44f32-6566-4373-b6d8-9551be58d762?syn-25a6b1a6=1"
+        "summary": "Consumer sentiment and retail sales fall as the war in Iran worsens cost of living pressures",
+        "url": "https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/2066e73b-be66-4df0-822a-b694d8f66535?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Sheinbaum slams US for revoking visa of former Mexican president’s son",
+        "publicationDate": "2026-08-14",
+        "category": "Foreign Policy",
+        "summary": "Trump administration accused of foreign interference as López Obrador’s son says decision came from ‘gangster bosses’",
+        "url": "https://www.ft.com/content/2066e73b-be66-4df0-822a-b694d8f66535?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/45f65d72-b90a-4dd9-a7b7-43bdf511c194?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Second UK train derails in less than 24 hours",
+        "publicationDate": "2026-08-14",
+        "category": "Other",
+        "summary": "Incident in Essex follows derailment of train in East Sussex on Thursday",
+        "url": "https://www.ft.com/content/45f65d72-b90a-4dd9-a7b7-43bdf511c194?syn-25a6b1a6=1"
     },
     {
         "id": "LSB11468",
@@ -477,13 +477,13 @@
         "url": "https://www.pbs.org/newshour/politics/judge-drops-nevada-case-against-electors-accused-of-forging-2020-election-certificate"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/act-of-terror-u-s-condemns-israeli-settler-siege-of-palestinian-homes-in-west-bank",
-        "source": "PBS NewsHour Politics",
-        "title": "'Act of terror': U.S. condemns Israeli settler siege of Palestinian homes in West Bank",
-        "publicationDate": "2026-08-13",
-        "category": "israeli settlers",
-        "summary": "The U.S. condemned the siege of Palestinian homes by Israeli settlers in the West Bank, where they cut off water, electricity and essential supplies to residents. U.S. Ambassador to Israel Mike Huckabee called the settlers' actions an \"act of terror,\" adding to American pressure that has prompted Israeli forces to intervene. Nick Schifrin reports.",
-        "url": "https://www.pbs.org/newshour/show/act-of-terror-u-s-condemns-israeli-settler-siege-of-palestinian-homes-in-west-bank"
+        "id": "IF13286",
+        "source": "Congressional Research Service",
+        "title": "Project Labor Agreements and Executive Order 14063",
+        "publicationDate": "2026-08-12",
+        "category": "Defense",
+        "summary": "A project labor agreement (PLA) is a prehire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project. A PLA generally requires that all contractors and subcontractors on a project are governed by the same standards. Section 8(f) of the National Labor Relations Act (NLRA), codified at 29 U.S.C. § 158(f), permits...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13286/IF13286.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5031-1.html",
