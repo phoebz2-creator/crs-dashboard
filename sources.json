@@ -1,5 +1,23 @@
 [
     {
+        "id": "LSB11470",
+        "source": "Congressional Research Service",
+        "title": "ESA Section 7 Consultation and Cooperative Federalism",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "Section 7 of the Endangered Species Act (ESA) requires federal agencies to consult with the U.S. Fish and Wildlife Service (FWS) or the National Marine Fisheries Service (NMFS) (together, “the Services”) in advance of agency activities with the potential to impact endangered or threatened species (listed species) or their critical habitat. The Services’ goal in conducting that consultation is to determine whether...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11470/LSB11470.1.pdf"
+    },
+    {
+        "id": "LSB11469",
+        "source": "Congressional Research Service",
+        "title": "Supreme Court Says Negligence Suits Against Military Contractor Operating in a Combat Zone Are Not Preempted",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "On April 22, 2026, the U.S. Supreme Court decided the case Hencely v. Fluor Corp. This case involves a former servicemember (Winston Tyler Hencely) who sued a military contractor (Fluor) under South Carolina law for injuries he suffered on a U.S. military base in Afghanistan in 2016, allegedly due to Fluor’s negligence. Fluor employed an individual who carried out a suicide-bomb attack at the base that wounded...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11469/LSB11469.1.pdf"
+    },
+    {
         "id": "IF12917",
         "source": "Congressional Research Service",
         "title": "Adult Protective Services: Background and Funding",
@@ -9,24 +27,6 @@
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12917/IF12917.4.pdf"
     },
     {
-        "id": "R46797",
-        "source": "Congressional Research Service",
-        "title": "Finding Medicare Fee-for-Service (FFS) Payment System Rules: Schedules and Resources",
-        "publicationDate": "2026-08-14",
-        "category": "Healthcare",
-        "summary": "The Medicare Fee-for-Service (FFS) program pays physicians, hospitals, and other health care facilities based on statutorily established payment systems, most of which are updated annually through regulations. The publication of Medicare FFS proposed and final rules follow schedules based on requirements found in statute, regulation, or both. As Medicare FFS payment system proposed and final rules are issued, they...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46797/R46797.22.pdf"
-    },
-    {
-        "id": "R49189",
-        "source": "Congressional Research Service",
-        "title": "AI Chatbots as Companions: Overview, Uses, and Considerations for Congress",
-        "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "A chatbot is an application or a program that simulates human conversation by generating responses to user prompts. Chatbots have existed for approximately 60 years. Technical advances in artificial intelligence (AI) allow chatbots to be more adaptive than earlier versions and contextualize their interactions with users. The growing use of AI chatbots in various aspects of everyday life—from answering questions...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49189/R49189.1.pdf"
-    },
-    {
         "id": "https://www.hudson.org/economics/dollar-venezuelas-economic-recovery-nick-snyder",
         "source": "Hudson Institute",
         "title": "Why Transitioning to the Dollar Is Venezuela’s Fastest Route to Recovery",
@@ -34,6 +34,15 @@
         "category": "Other",
         "summary": "Why Transitioning to the Dollar Is Venezuela’s Fastest Route to Recovery tbragg@hudson.org Fri, 08/14/2026 - 11:24 SVG Commentary Aug 14, 2026 The Washington Post Why Transitioning to the Dollar Is Venezuela’s Fastest Route to Recovery Nick Snyder Senior Fellow (Nonresident) Nick Snyder Commentary Caption A demonstrator takes part in a protest outside the Melia Caracas Hotel in Caracas, Venezuela, on August 12,...",
         "url": "https://www.hudson.org/economics/dollar-venezuelas-economic-recovery-nick-snyder"
+    },
+    {
+        "id": "https://cms.hoover.org/research/trump-says-his-uncle-was-super-genius-d-day-proves-his-point",
+        "source": "Hoover Institution",
+        "title": "Trump Says His Uncle Was A ‘Super Genius.’ D-Day Proves His Point.",
+        "publicationDate": "2026-08-14",
+        "category": "Other",
+        "summary": "John Trump, an engineer and MIT professor, changed the course of history.",
+        "url": "https://cms.hoover.org/research/trump-says-his-uncle-was-super-genius-d-day-proves-his-point"
     },
     {
         "id": "https://cms.hoover.org/node/391600",
@@ -128,10 +137,10 @@
     {
         "id": "https://www.pbs.org/newshour/politics/watch-live-trump-to-highlight-violent-crime-reduction-during-visit-to-ny-police-academy",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Trump to highlight violent crime reduction during visit to NY police academy",
+        "title": "WATCH: Trump highlights violent crime reduction during visit to NY police academy",
         "publicationDate": "2026-08-14",
         "category": "Donald Trump news",
-        "summary": "President Donald Trump plans to tout his record on crime and safety during a visit to New York on Friday, pivoting to one of his strongest issues as he looks to boost Republicans in battleground races ahead of the November midterms.",
+        "summary": "President Donald Trump highlighted his record on crime and safety during a visit to New York on Friday, pivoting to one of his strongest issues as he looks to boost Republicans in battleground races ahead of the November midterms.",
         "url": "https://www.pbs.org/newshour/politics/watch-live-trump-to-highlight-violent-crime-reduction-during-visit-to-ny-police-academy"
     },
     {
@@ -153,12 +162,39 @@
         "url": "https://www.pbs.org/newshour/politics/trump-asks-supreme-court-to-let-white-house-resume-ballroom-construction-during-appeal"
     },
     {
+        "id": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/",
+        "source": "The Hill",
+        "title": "Judge lifts order on Somalia TPS, clearing way for deportations",
+        "publicationDate": "2026-08-14",
+        "category": "Administration",
+        "summary": "A Massachusetts-based federal judge on Friday lifted her stay in a case brought by Somalian holders of Temporary Protected Status (TPS), clearing the way for the Trump administration to begin deporting them. The ruling from U.S. District Judge Allison Burroughs lifts an administrative stay she issued after the Supreme Court decided in a related case...",
+        "url": "https://thehill.com/homenews/administration/6030770-judge-lifts-somali-tps-stay-dhs/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6030762-military-eggs-sperm-freezing-reimbursement-program/",
+        "source": "The Hill",
+        "title": "Military to reimburse service members freezing eggs, sperm",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "The Pentagon is piloting a reimbursement program for eligible service members looking to freeze their eggs or sperm, according to a notice published in the Federal Register on Thursday. The National Defense Authorization Act of 2025 required the implementation of this initiative, which will cover up to $500 in annual costs for sperm cryopreservation services...",
+        "url": "https://thehill.com/policy/healthcare/6030762-military-eggs-sperm-freezing-reimbursement-program/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6030609-accused-olympian-seeks-protection-from-future-reflecting-pool-charges/",
+        "source": "The Hill",
+        "title": "Accused Olympian seeks protection from future Reflecting Pool charges",
+        "publicationDate": "2026-08-14",
+        "category": "Court Battles",
+        "summary": "Attorneys for the Olympian previously accused of vandalizing the Lincoln Memorial Reflecting Pool filed a motion Thursday to bar prosecutors from bringing further criminal charges against him related to the case, citing fears of “prosecutorial harassment\" by President Trump. The legal team for Olympic canoeist David Hearn called for Judge Todd Edelman of the District...",
+        "url": "https://thehill.com/regulation/court-battles/6030609-accused-olympian-seeks-protection-from-future-reflecting-pool-charges/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6030671-trump-says-strait-of-hormuz-us-territory/",
         "source": "The Hill",
         "title": "Trump says he will declare Strait of Hormuz a US territory",
         "publicationDate": "2026-08-14",
         "category": "Foreign Policy",
-        "summary": "President Trump claimed during remarks on Long Island, N.Y. on Friday that he will make the Strait of Hormuz a U.S. territory, despite the fact that Oman and Iran share jurisdiction of the waterway. “Pretty soon, I will be declaring the Hormuz Strait a territory of the United States,” Trump said during an address highlighting...",
+        "summary": "President Trump claimed during remarks on Long Island, N.Y., on Friday that he will make the Strait of Hormuz a U.S. territory, despite the fact that Oman and Iran share jurisdiction of the waterway. “Pretty soon, I will be declaring the Hormuz Strait a territory of the United States,” Trump said during an address highlighting...",
         "url": "https://thehill.com/homenews/administration/6030671-trump-says-strait-of-hormuz-us-territory/"
     },
     {
@@ -167,35 +203,8 @@
         "title": "USS Abraham Lincoln is returning home, acting Navy secretary says",
         "publicationDate": "2026-08-14",
         "category": "Defense",
-        "summary": "Acting Navy Secretary Hung Cao announced Friday the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier’s long deployment has come under scrutiny over reported harsh conditions the sailors onboard have worked under. “The USS Abraham Lincoln crushed their deployment and will return home soon as part of a planned rotation. Details...",
+        "summary": "Acting Navy Secretary Hung Cao announced on Friday that the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier’s long deployment has come under scrutiny over reported harsh conditions the sailors onboard have worked under. “The USS Abraham Lincoln crushed their deployment and will return home soon as part of a planned...",
         "url": "https://thehill.com/policy/defense/6030654-uss-abraham-lincoln-returns-home/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6030573-trump-celebrates-missionary-pilots-release/",
-        "source": "The Hill",
-        "title": "Trump celebrates return of US missionary kidnapped in West Africa",
-        "publicationDate": "2026-08-14",
-        "category": "Administration",
-        "summary": "President Trump on Friday celebrated the release of an American missionary pilot who was held captive in Niger since October. “I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody,” the president wrote on Truth Social. Trump’s post follows a statement earlier Friday from Rideout’s evangelical missionary...",
-        "url": "https://thehill.com/homenews/administration/6030573-trump-celebrates-missionary-pilots-release/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6029139-live-updates-trump-long-island-white-house/",
-        "source": "The Hill",
-        "title": "Live updates: Trump addresses Long Island crowd, with focus on decline in crime",
-        "publicationDate": "2026-08-14",
-        "category": "Administration",
-        "summary": "President Trump is in Nassau County, N.Y., on Long Island, to highlight his administration's efforts to fight crime. He's giving remarks to a crowd and has tried to boost to Nassau County Executive Bruce Blakeman, who is running for New York governor in November. He'll tour the Nassau County Police Academy in Garden City along...",
-        "url": "https://thehill.com/homenews/administration/6029139-live-updates-trump-long-island-white-house/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/6030501-mexican-president-son-trump-visa-challenge/",
-        "source": "The Hill",
-        "title": "Son of former Mexican president challenges Trump after visa revoked",
-        "publicationDate": "2026-08-14",
-        "category": "Foreign Policy",
-        "summary": "Andrés Manuel López Beltrán — the son of former Mexican President Andrés Manuel López Obrador — said the U.S. has revoked his visa and accused President Trump’s top diplomats of politically targeting him. In a letter released Thursday and addressed to Trump, López Beltrán, also known as “Andy,” alleged Secretary of State Marco Rubio and...",
-        "url": "https://thehill.com/policy/international/6030501-mexican-president-son-trump-visa-challenge/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
@@ -378,15 +387,6 @@
         "url": "https://www.ft.com/content/45f65d72-b90a-4dd9-a7b7-43bdf511c194?syn-25a6b1a6=1"
     },
     {
-        "id": "LSB11468",
-        "source": "Congressional Research Service",
-        "title": "Trump v. Barbara: Supreme Court Holds Birthright Citizenship Executive Order 14160 Unconstitutional",
-        "publicationDate": "2026-08-13",
-        "category": "Defense",
-        "summary": "On June 30, 2026, the Supreme Court decided Trump v. Barbara, holding that the Fourteenth Amendment to the Constitution guarantees citizenship to children born on U.S. soil, including children born of parents temporarily or unlawfully present in the United States. In so concluding, the Court affirmed a lower court’s decision holding invalid Executive Order 14160 (“EO 14160” or “the EO”), which sought to define...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11468/LSB11468.1.pdf"
-    },
-    {
         "id": "https://www.cfr.org/articles/what-trumps-executive-order-means-for-childhood-vaccinations",
         "source": "Council on Foreign Relations",
         "title": "What Trump’s Executive Order Means for Childhood Vaccinations",
@@ -450,15 +450,6 @@
         "url": "https://www.hudson.org/politics-government/era-mass-migration-coming-end-walter-russell-mead"
     },
     {
-        "id": "https://cms.hoover.org/research/ut-austin-core-curriculum-task-force-report",
-        "source": "Hoover Institution",
-        "title": "UT Austin Core Curriculum Task Force Report",
-        "publicationDate": "2026-08-13",
-        "category": "Other",
-        "summary": "The Core Curriculum Task Force was formed in the fall of 2025 and asked to conduct a review of The University of Texas at Austin’s core curriculum and recommend changes.",
-        "url": "https://cms.hoover.org/research/ut-austin-core-curriculum-task-force-report"
-    },
-    {
         "id": "https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics",
         "source": "NPR Politics",
         "title": "AIPAC didn't always spend on campaigns. Now it faces criticism over money in politics",
@@ -477,13 +468,13 @@
         "url": "https://www.npr.org/2026/08/13/nx-s1-5929260/democratic-socialisms-next-test-is-the-midwest"
     },
     {
-        "id": "IF13286",
+        "id": "R46471",
         "source": "Congressional Research Service",
-        "title": "Project Labor Agreements and Executive Order 14063",
+        "title": "Federally Supported Projects and Programs for Wastewater, Drinking Water, and Water Supply Infrastructure",
         "publicationDate": "2026-08-12",
         "category": "Defense",
-        "summary": "A project labor agreement (PLA) is a prehire collective bargaining agreement with one or more labor organizations that establishes the terms and conditions of employment for a specific construction project. A PLA generally requires that all contractors and subcontractors on a project are governed by the same standards. Section 8(f) of the National Labor Relations Act (NLRA), codified at 29 U.S.C. § 158(f), permits...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13286/IF13286.1.pdf"
+        "summary": "For decades, Congress has authorized, modified, and funded federal programs to help communities address water supply and water infrastructure needs. Departments and agencies that administer these assistance programs include the Bureau of Reclamation (Reclamation), the U.S. Army Corps of Engineers (USACE), the U.S. Department of Agriculture (USDA), the Environmental Protection Agency (EPA), the Department of Housing...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46471/R46471.16.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5031-1.html",
@@ -565,6 +556,15 @@
         "category": "Other",
         "summary": "The 2020 Black Lives Matter insurrection came close to achieving regime change in America, yet failed, because Marxists did not anticipate that Americans would rise to defend their country. But Marxists are now better prepared to deal with counterrevolution. That’s the view of Angela Davis, and she should know. For six decades, this inveterate communist has been a leading participant in attempts to overthrow a...",
         "url": "https://www.heritage.org/progressivism/commentary/we-have-smash-the-state-the-left-prepares-war"
+    },
+    {
+        "id": "R45450",
+        "source": "Congressional Research Service",
+        "title": "Statutory Inspectors General in the Federal Government: A Primer",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "This report provides an overview of statutory inspectors general (IGs) in the federal government, including their structure and functions, as well as related issues for Congress. Statutory IGs—established by law rather than administrative directive—are intended to be independent, nonpartisan officials who aim to prevent and detect waste, fraud, and abuse in the federal government. To execute their missions, IGs...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45450/R45450.15.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
