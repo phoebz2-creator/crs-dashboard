@@ -1,5 +1,14 @@
 [
     {
+        "id": "IF12917",
+        "source": "Congressional Research Service",
+        "title": "Adult Protective Services: Background and Funding",
+        "publicationDate": "2026-08-14",
+        "category": "Healthcare",
+        "summary": "Background All 50 states, the District of Columbia, and five U.S. territories provide Adult Protective Services (APS) to address abuse, neglect, and exploitation of adults. APS programs serve seniors and adults with disabilities by offering a system for reporting and investigating abuse, providing protective and social services to victims, and coordinating with other state and local government entities and...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12917/IF12917.4.pdf"
+    },
+    {
         "id": "R46797",
         "source": "Congressional Research Service",
         "title": "Finding Medicare Fee-for-Service (FFS) Payment System Rules: Schedules and Resources",
@@ -16,15 +25,6 @@
         "category": "Defense",
         "summary": "A chatbot is an application or a program that simulates human conversation by generating responses to user prompts. Chatbots have existed for approximately 60 years. Technical advances in artificial intelligence (AI) allow chatbots to be more adaptive than earlier versions and contextualize their interactions with users. The growing use of AI chatbots in various aspects of everyday life—from answering questions...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49189/R49189.1.pdf"
-    },
-    {
-        "id": "IF12352",
-        "source": "Congressional Research Service",
-        "title": "Office of the National Coordinator for Health Information Technology (ONC)",
-        "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "Information technology (IT), or the use of devices such as computers to handle electronic data, has existed for decades, but it has only recently become accessible to many Americans in a health care context. The federal government has tasked the Office of the National Coordinator for Health Information Technology (ONC) with developing a nationwide health IT framework that is interoperable, equitable, and accessible...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12352/IF12352.5.pdf"
     },
     {
         "id": "https://www.hudson.org/economics/dollar-venezuelas-economic-recovery-nick-snyder",
@@ -108,6 +108,15 @@
         "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election"
     },
     {
+        "id": "https://www.pbs.org/newshour/health/trumps-vaccine-order-would-require-millions-of-individual-shots-last-used-decades-ago",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump's vaccine order would require millions of individual shots last used decades ago",
+        "publicationDate": "2026-08-14",
+        "category": "childhood vaccines",
+        "summary": "Monday's announcement by Trump calls for separating combination shots — including the measles, mumps and rubella, or MMR, vaccine — into separate injections.",
+        "url": "https://www.pbs.org/newshour/health/trumps-vaccine-order-would-require-millions-of-individual-shots-last-used-decades-ago"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/watch-trump-says-uss-lincolns-deployment-was-not-nearly-long-enough",
         "source": "PBS NewsHour Politics",
         "title": "WATCH: Trump says USS Lincoln's deployment was 'not nearly long enough'",
@@ -144,6 +153,33 @@
         "url": "https://www.pbs.org/newshour/politics/trump-asks-supreme-court-to-let-white-house-resume-ballroom-construction-during-appeal"
     },
     {
+        "id": "https://thehill.com/homenews/administration/6030671-trump-says-strait-of-hormuz-us-territory/",
+        "source": "The Hill",
+        "title": "Trump says he will declare Strait of Hormuz a US territory",
+        "publicationDate": "2026-08-14",
+        "category": "Foreign Policy",
+        "summary": "President Trump claimed during remarks on Long Island, N.Y. on Friday that he will make the Strait of Hormuz a U.S. territory, despite the fact that Oman and Iran share jurisdiction of the waterway. “Pretty soon, I will be declaring the Hormuz Strait a territory of the United States,” Trump said during an address highlighting...",
+        "url": "https://thehill.com/homenews/administration/6030671-trump-says-strait-of-hormuz-us-territory/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6030654-uss-abraham-lincoln-returns-home/",
+        "source": "The Hill",
+        "title": "USS Abraham Lincoln is returning home, acting Navy secretary says",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "Acting Navy Secretary Hung Cao announced Friday the USS Abraham Lincoln is returning to the U.S. as the aircraft carrier’s long deployment has come under scrutiny over reported harsh conditions the sailors onboard have worked under. “The USS Abraham Lincoln crushed their deployment and will return home soon as part of a planned rotation. Details...",
+        "url": "https://thehill.com/policy/defense/6030654-uss-abraham-lincoln-returns-home/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6030573-trump-celebrates-missionary-pilots-release/",
+        "source": "The Hill",
+        "title": "Trump celebrates return of US missionary kidnapped in West Africa",
+        "publicationDate": "2026-08-14",
+        "category": "Administration",
+        "summary": "President Trump on Friday celebrated the release of an American missionary pilot who was held captive in Niger since October. “I am proud to announce that Kevin Rideout, a wonderful Christian Missionary, is back in United States Custody,” the president wrote on Truth Social. Trump’s post follows a statement earlier Friday from Rideout’s evangelical missionary...",
+        "url": "https://thehill.com/homenews/administration/6030573-trump-celebrates-missionary-pilots-release/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6029139-live-updates-trump-long-island-white-house/",
         "source": "The Hill",
         "title": "Live updates: Trump addresses Long Island crowd, with focus on decline in crime",
@@ -162,31 +198,40 @@
         "url": "https://thehill.com/policy/international/6030501-mexican-president-son-trump-visa-challenge/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6030357-donald-trump-white-house-tariffs-foreign-drones-national-security-risks/",
-        "source": "The Hill",
-        "title": "Trump administration unveils tariffs on drone imports",
-        "publicationDate": "2026-08-14",
-        "category": "Foreign Policy",
-        "summary": "President Trump on Thursday announced new tariffs on drone imports in an effort to curb U.S. reliance on foreign supply chains amid possible national security threats. Under a proclamation signed by Trump, larger drones with certain sensitive capabilities, including thermal imaging, are subject to a 100 percent tariff, along with other critical parts. Smaller drones...",
-        "url": "https://thehill.com/homenews/administration/6030357-donald-trump-white-house-tariffs-foreign-drones-national-security-risks/"
-    },
-    {
-        "id": "https://thehill.com/video-clips/6030342-watch-live-donald-trump-long-island-new-york-crime-crackdown-remarks/",
-        "source": "The Hill",
-        "title": "Watch live: Trump touts federal crackdown on crime at New York rally",
-        "publicationDate": "2026-08-14",
-        "category": "Video",
-        "summary": "President Trump will deliver remarks Friday from Long Island, N.Y., where he is expected to tout his administration’s efforts to combat violent crime. The appearance comes as the Trump administration ramps up its focus on crime in Democratic-led cities, including extending the National Guard deployment to Washington, D.C. The president has defended the federal crackdown,...",
-        "url": "https://thehill.com/video-clips/6030342-watch-live-donald-trump-long-island-new-york-crime-crackdown-remarks/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6030391-trump-denies-uss-lincoln-concerns/",
-        "source": "The Hill",
-        "title": "Trump: USS Abraham Lincoln family members not concerned about conditions",
+        "id": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+        "source": "New York Times Politics",
+        "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
         "publicationDate": "2026-08-14",
         "category": "Defense",
-        "summary": "President Trump on Friday disputed the idea that family members of sailors and troops aboard the USS Abraham Lincoln are concerned about the conditions on the aircraft carrier as scrutiny over the issue has intensified in recent days. “No, they’re not,” the president told reporters when asked about the news reports that have shed light...",
-        "url": "https://thehill.com/policy/defense/6030391-trump-denies-uss-lincoln-concerns/"
+        "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”",
+        "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html",
+        "source": "New York Times Politics",
+        "title": "John Carro, Jurist Who Had Early Brush With Lee Harvey Oswald, Dies at 98",
+        "publicationDate": "2026-08-14",
+        "category": "Carro",
+        "summary": "Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.",
+        "url": "https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html",
+        "source": "New York Times Politics",
+        "title": "The 5 Congress Members Whose Families Trade the Most Stocks",
+        "publicationDate": "2026-08-14",
+        "category": "House of Representatives",
+        "summary": "Some lawmakers and their families have traded millions of dollars worth of stocks since the start of this term.",
+        "url": "https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html",
+        "source": "New York Times Politics",
+        "title": "Stock Trading in Congress Becomes an Attack Line in Midterm Campaigns",
+        "publicationDate": "2026-08-14",
+        "category": "United States Politics and Government",
+        "summary": "Republican and Democratic challengers are both using the issue to attack members of Congress as unethical, seizing on a common practice that enrages voters.",
+        "url": "https://www.nytimes.com/2026/08/14/us/politics/stock-trading-congress.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html",
@@ -198,49 +243,13 @@
         "url": "https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html",
-        "source": "New York Times Politics",
-        "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
-        "publicationDate": "2026-08-14",
-        "category": "World War II (1939-45)",
-        "summary": "Two felony charges have been filed against a Kentucky woman after spray paint was seen on the memorial in the capital.",
-        "url": "https://www.nytimes.com/2026/08/14/us/politics/world-war-2-memorial-vandalism.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/14/us/blue-angels-uniforms-contract-shop.html",
-        "source": "New York Times Politics",
-        "title": "She Sewed the Blue Angels’ Suits for 40 Years. Then a Big Company Got the Job.",
-        "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "Jellie Whitehurst in Pensacola, Fla., was surprised to learn that after decades, the Navy had awarded a $1.7 million contract to a company in Virginia to supply the gear.",
-        "url": "https://www.nytimes.com/2026/08/14/us/blue-angels-uniforms-contract-shop.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html",
-        "source": "New York Times Politics",
-        "title": "Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing",
-        "publicationDate": "2026-08-14",
-        "category": "Healthcare",
-        "summary": "Higher premiums and rising medical bills have intensified Americans’ dissatisfaction with their medical coverage.",
-        "url": "https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html",
-        "source": "New York Times Politics",
-        "title": "The Taliban Kicked the U.S. Out of Afghanistan. Now They Want It Back.",
-        "publicationDate": "2026-08-14",
-        "category": "Foreign Policy",
-        "summary": "In an interview, Afghanistan’s foreign minister called on the U.S. to reopen its embassy and invest in the country — a near-impossible sell for now, analysts and former diplomats say.",
-        "url": "https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
+        "id": "https://www.washingtonpost.com/politics/2026/08/14/desantis-says-he-doesnt-support-republican-rep-cory-mills-tuesdays-primary/",
         "source": "Washington Post Politics",
-        "title": "Trump dismisses families’ concerns about USS Abraham Lincoln conditions",
+        "title": "DeSantis says he doesn’t support Republican Rep. Cory Mills in Tuesday’s primary",
         "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/"
+        "category": "Other",
+        "summary": "The congressman is running for a third term under a cloud of controversy.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/14/desantis-says-he-doesnt-support-republican-rep-cory-mills-tuesdays-primary/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/",
@@ -250,6 +259,15 @@
         "category": "Other",
         "summary": "The planned adornments, which were included in renderings submitted to the Supreme Court, break with tradition and the original vision for the White House grounds.",
         "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-wants-put-golden-seals-white-house-ballroom/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/",
+        "source": "Washington Post Politics",
+        "title": "Trump dismisses families’ concerns about USS Abraham Lincoln conditions",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-dismisses-families-concerns-about-uss-abraham-lincoln-conditions/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/14/white-house-ballroom-trump-asks-supreme-court-let-work-go/",
@@ -268,15 +286,6 @@
         "category": "Other",
         "summary": "Both major-party candidates are unpopular in a race viewed as critical for Senate control.",
         "url": "https://www.washingtonpost.com/politics/2026/08/14/michigans-marquee-senate-race-close-first-poll-after-el-sayed-primary-win/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/14/amid-intra-maga-fight-trump-weighs-going-all-darline-graham/",
-        "source": "Washington Post Politics",
-        "title": "Amid intra-MAGA fight, Trump weighs going all in for Darline Graham",
-        "publicationDate": "2026-08-14",
-        "category": "Other",
-        "summary": "The president is actively fighting for his endorsed candidate in the South Carolina Senate runoff, Sen. Darline Graham, the sister of the late Lindsey Graham.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/14/amid-intra-maga-fight-trump-weighs-going-all-darline-graham/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
@@ -466,15 +475,6 @@
         "category": "Other",
         "summary": "A democratic socialist narrowly lost Wisconsin's Democratic gubernatorial primary. But conversations with swing voters suggest voters may be more open to the \"socialist\" label than expected.",
         "url": "https://www.npr.org/2026/08/13/nx-s1-5929260/democratic-socialisms-next-test-is-the-midwest"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/judge-drops-nevada-case-against-electors-accused-of-forging-2020-election-certificate",
-        "source": "PBS NewsHour Politics",
-        "title": "Judge drops Nevada case against electors accused of forging 2020 election certificate",
-        "publicationDate": "2026-08-13",
-        "category": "2020 election",
-        "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.",
-        "url": "https://www.pbs.org/newshour/politics/judge-drops-nevada-case-against-electors-accused-of-forging-2020-election-certificate"
     },
     {
         "id": "IF13286",
