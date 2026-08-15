@@ -18,15 +18,6 @@
         "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html"
     },
     {
-        "id": "IF13287",
-        "source": "Congressional Research Service",
-        "title": "Constitutional Authority Statements and Repeal Legislation",
-        "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "To introduce a bill or joint resolution, House Rule XII requires Members of the House to attach a statement identifying the source of Congress’s constitutional authority to enact such legislation, known as a Constitutional Authority Statement (CAS). The underlying source of constitutional authority may be clear when Congress is creating new law, but that authority is less certain when Congress seeks to repeal a...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13287/IF13287.1.pdf"
-    },
-    {
         "id": "LSB11470",
         "source": "Congressional Research Service",
         "title": "ESA Section 7 Consultation and Cooperative Federalism",
@@ -34,6 +25,15 @@
         "category": "Defense",
         "summary": "Section 7 of the Endangered Species Act (ESA) requires federal agencies to consult with the U.S. Fish and Wildlife Service (FWS) or the National Marine Fisheries Service (NMFS) (together, “the Services”) in advance of agency activities with the potential to impact endangered or threatened species (listed species) or their critical habitat. The Services’ goal in conducting that consultation is to determine whether...",
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11470/LSB11470.1.pdf"
+    },
+    {
+        "id": "IF13287",
+        "source": "Congressional Research Service",
+        "title": "Constitutional Authority Statements and Repeal Legislation",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "To introduce a bill or joint resolution, House Rule XII requires Members of the House to attach a statement identifying the source of Congress’s constitutional authority to enact such legislation, known as a Constitutional Authority Statement (CAS). The underlying source of constitutional authority may be clear when Congress is creating new law, but that authority is less certain when Congress seeks to repeal a...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13287/IF13287.1.pdf"
     },
     {
         "id": "LSB11469",
@@ -200,16 +200,16 @@
     {
         "id": "https://thehill.com/newsletters/technology/6030992-senate-launches-investigation-into-roblox-due-to-safety-concerns/",
         "source": "The Hill",
-        "title": "Senate launches investigation into Roblox due to safety concerns",
+        "title": "Senate panel launches investigation into Roblox due to safety concerns",
         "publicationDate": "2026-08-14",
         "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story Senate probes kids’ safety issues in Roblox A bipartisan pair of senators launched an investigation this week into the gaming platform Roblox, citing concerns around explicit content on the platform and its alleged \"connection to real world child abuse.\" © Photo Illustration by Thiago Prudêncio/SOPA Images/LightRocket via Getty...",
+        "summary": "{beacon} Technology Technology The Big Story Senate panel probes kids’ safety issues in Roblox A bipartisan pair of senators launched an investigation this week into the gaming platform Roblox, citing concerns around explicit content on the platform and its alleged \"connection to real world child abuse.\" © Photo Illustration by Thiago Prudêncio/SOPA Images/LightRocket via...",
         "url": "https://thehill.com/newsletters/technology/6030992-senate-launches-investigation-into-roblox-due-to-safety-concerns/"
     },
     {
         "id": "https://thehill.com/policy/technology/6030840-senate-roblox-child-safety-investigation/",
         "source": "The Hill",
-        "title": "Senate investigates kids safety issues in online game Roblox",
+        "title": "Senate panel investigates kids safety issues in online game Roblox",
         "publicationDate": "2026-08-14",
         "category": "Technology",
         "summary": "A bipartisan pair of senators launched an investigation this week into the gaming platform Roblox, citing concerns about explicit content and its alleged \"connection to real world child abuse.\" Sens. Josh Hawley (R-Mo.) and Dick Durbin (D-Ill.) sent a letter Wednesday informing Roblox CEO David Baszucki that the Senate Judiciary Subcommittee on Crime and Counterterrorism...",
