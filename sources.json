@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
+        "source": "European Council on Foreign Relations",
+        "title": "Legislative Elections (2026)",
+        "publicationDate": "2026-08-15",
+        "category": "Other",
+        "summary": "Elections for the Palestinian Legislative Council (PLC) are scheduled to take place on 28 November 2026 in the West Bank, East Jerusalem, and the Gaza Strip. The registration of electoral lists – which represent a party, coalition of parties, or a group of voters – is taking place between 15-19 August. Full candidacy details for […]",
+        "url": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+        "source": "NPR Politics",
+        "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+        "publicationDate": "2026-08-15",
+        "category": "Other",
+        "summary": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
+        "url": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport"
+    },
+    {
         "id": "https://thehill.com/opinion/cybersecurity/6028070-china-cyber-attack-scenario/",
         "source": "The Hill",
         "title": "Is the US already in World War IV — and losing?",
@@ -27,31 +45,40 @@
         "url": "https://thehill.com/homenews/administration/6031052-doj-refers-to-air-force-one-threat-as-assassination-attempt-in-ballroom-appeal/"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html",
+        "id": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
         "source": "New York Times Politics",
-        "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
+        "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
         "publicationDate": "2026-08-15",
-        "category": "Defense",
-        "summary": "Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”",
-        "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html"
+        "category": "United States Politics and Government",
+        "summary": "The U.S. attorney in Chicago subpoenaed a fund-raising firm that had been co-owned by the daughter of Judge Juan Merchan, who conducted the trial that led to Donald Trump’s felony conviction.",
+        "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+        "source": "New York Times Politics",
+        "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+        "publicationDate": "2026-08-15",
+        "category": "Foreign Policy",
+        "summary": "Asian allies are beginning to wonder whether the United States would or could defend them in a war.",
+        "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html",
+        "source": "New York Times Politics",
+        "title": "Sherrod Brown Seeks Senate Comeback in Ohio, Hoping His Populist Pitch Still Resonates",
+        "publicationDate": "2026-08-15",
+        "category": "Midterm Elections (2026)",
+        "summary": "At 73, Sherrod Brown is mounting a comeback bid in Ohio. He is one of the Democrats his party is counting on to retake control of the Senate.",
+        "url": "https://www.nytimes.com/2026/08/15/us/politics/sherrod-brown-ohio-senate-race.html"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+        "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
         "publicationDate": "2026-08-15",
         "category": "Other",
-        "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+        "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
         "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
-        "publicationDate": "2026-08-15",
-        "category": "Other",
-        "summary": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
-        "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
@@ -61,15 +88,6 @@
         "category": "Other",
         "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
         "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/2674cacd-3f32-4f4e-97a9-9e825e7f0737?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "What the Lakers’ $12.5bn sale says about sports ownership",
-        "publicationDate": "2026-08-15",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: what Liverpool’s new shareholders bring and more",
-        "url": "https://www.ft.com/content/2674cacd-3f32-4f4e-97a9-9e825e7f0737?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/f41686a7-4d3c-4f49-8d21-29d3577747a7?syn-25a6b1a6=1",
@@ -108,13 +126,13 @@
         "url": "https://www.ft.com/content/c0d1c0ce-96c0-4824-a211-139acbddd200?syn-25a6b1a6=1"
     },
     {
-        "id": "IF13287",
-        "source": "Congressional Research Service",
-        "title": "Constitutional Authority Statements and Repeal Legislation",
-        "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "To introduce a bill or joint resolution, House Rule XII requires Members of the House to attach a statement identifying the source of Congress’s constitutional authority to enact such legislation, known as a Constitutional Authority Statement (CAS). The underlying source of constitutional authority may be clear when Congress is creating new law, but that authority is less certain when Congress seeks to repeal a...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13287/IF13287.1.pdf"
+        "id": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
+        "publicationDate": "2026-08-15",
+        "category": "Other",
+        "summary": "Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing",
+        "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1"
     },
     {
         "id": "LSB11470",
@@ -124,6 +142,15 @@
         "category": "Defense",
         "summary": "Section 7 of the Endangered Species Act (ESA) requires federal agencies to consult with the U.S. Fish and Wildlife Service (FWS) or the National Marine Fisheries Service (NMFS) (together, “the Services”) in advance of agency activities with the potential to impact endangered or threatened species (listed species) or their critical habitat. The Services’ goal in conducting that consultation is to determine whether...",
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11470/LSB11470.1.pdf"
+    },
+    {
+        "id": "IF13287",
+        "source": "Congressional Research Service",
+        "title": "Constitutional Authority Statements and Repeal Legislation",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "To introduce a bill or joint resolution, House Rule XII requires Members of the House to attach a statement identifying the source of Congress’s constitutional authority to enact such legislation, known as a Constitutional Authority Statement (CAS). The underlying source of constitutional authority may be clear when Congress is creating new law, but that authority is less certain when Congress seeks to repeal a...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13287/IF13287.1.pdf"
     },
     {
         "id": "LSB11469",
@@ -315,24 +342,6 @@
         "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
-        "source": "New York Times Politics",
-        "title": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
-        "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.",
-        "url": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html",
-        "source": "New York Times Politics",
-        "title": "Can Senator Ed Markey’s Progressive Politics Help Him Overcome the Age Issue?",
-        "publicationDate": "2026-08-14",
-        "category": "Politics and Government",
-        "summary": "Ed Markey is hoping that his progressive politics will save him in Massachusetts.",
-        "url": "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/14/trump-stumps-ny-suburbs-highlighting-dilemma-his-party/",
         "source": "Washington Post Politics",
         "title": "Trump stumps in N.Y. suburbs, highlighting a dilemma for his party",
@@ -396,6 +405,15 @@
         "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+        "publicationDate": "2026-08-14",
+        "category": "Other",
+        "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.cfr.org/articles/what-trumps-executive-order-means-for-childhood-vaccinations",
         "source": "Council on Foreign Relations",
         "title": "What Trump’s Executive Order Means for Childhood Vaccinations",
@@ -457,15 +475,6 @@
         "category": "Other",
         "summary": "Is the Era of Mass Migration Coming to an End? acabral-sanche… Thu, 08/13/2026 - 09:37 SVG Podcast Aug 11, 2026 Tablet Is the Era of Mass Migration Coming to an End? Walter Russell Mead Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship Walter Russell Mead Podcast Caption (What Really Matters Logo) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook...",
         "url": "https://www.hudson.org/politics-government/era-mass-migration-coming-end-walter-russell-mead"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics",
-        "source": "NPR Politics",
-        "title": "AIPAC didn't always spend on campaigns. Now it faces criticism over money in politics",
-        "publicationDate": "2026-08-13",
-        "category": "Other",
-        "summary": "U.S. support for Israel has been a central issue in Democratic primary contests. That's put a spotlight on the pro-Israel lobbying group AIPAC and the strength of its political influence.",
-        "url": "https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics"
     },
     {
         "id": "R46471",
@@ -619,15 +628,6 @@
         "category": "Foreign Policy",
         "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
         "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
-    },
-    {
-        "id": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/",
-        "source": "European Council on Foreign Relations",
-        "title": "Trust the numbers: Germans are open to a more hawkish China policy",
-        "publicationDate": "2026-08-06",
-        "category": "Foreign Policy",
-        "summary": "ECFR polling suggests significant public support not only for tougher German policy on China but also for investment in renewables—tackling twin problems together",
-        "url": "https://ecfr.eu/article/trust-the-numbers-germans-are-open-to-a-more-hawkish-china-policy/"
     },
     {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
