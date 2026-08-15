@@ -27,6 +27,42 @@
         "url": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport"
     },
     {
+        "id": "https://thehill.com/homenews/administration/6031282-andy-baker-leaving-white-house/",
+        "source": "The Hill",
+        "title": "Deputy national security adviser Andy Baker to leave White House: Report",
+        "publicationDate": "2026-08-15",
+        "category": "Foreign Policy",
+        "summary": "White House deputy national security adviser Andy Baker is leaving the Trump administration in the coming weeks, the latest departure from President Trump’s national security team. Baker, who previously served as Vice President Vance’s national security adviser, has been closely involved in the administration’s foreign policy decisions and was part of the U.S. delegation that...",
+        "url": "https://thehill.com/homenews/administration/6031282-andy-baker-leaving-white-house/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6031242-live-updates-iran-responds-to-trumps-strait-of-hormuz-comments-katie-millers-podcast-continues-to-grow/",
+        "source": "The Hill",
+        "title": "Live updates: Iran responds to Trump's Strait of Hormuz comments; Katie Miller's podcast continues to grow",
+        "publicationDate": "2026-08-15",
+        "category": "Foreign Policy",
+        "summary": "President Trump's comments on making the Strait of Hormuz a U.S. territory on Friday sparked a response from Iran, stating on the social platform X that it will continue to stay in the country's control. \"This strait will only be closed and opened under Iran's command, and as long as you do not accept the...",
+        "url": "https://thehill.com/homenews/administration/6031242-live-updates-iran-responds-to-trumps-strait-of-hormuz-comments-katie-millers-podcast-continues-to-grow/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6028718-fda-green-lights-more-screwworm-medications-should-you-give-them-to-your-pets/",
+        "source": "The Hill",
+        "title": "FDA green lights more screwworm medications: Should you give them to your pets?",
+        "publicationDate": "2026-08-15",
+        "category": "Healthcare",
+        "summary": "The Food and Drug Administration has granted emergency use authorizations for more medications that can prevent and treat infestations of the flesh-eating New World screwworm spreading along the U.S.-Mexico border.",
+        "url": "https://thehill.com/homenews/6028718-fda-green-lights-more-screwworm-medications-should-you-give-them-to-your-pets/"
+    },
+    {
+        "id": "https://thehill.com/opinion/international/6030093-afghanistan-taliban-returns-unsafe/",
+        "source": "The Hill",
+        "title": "No one should be sent back to Taliban rule",
+        "publicationDate": "2026-08-15",
+        "category": "Foreign Policy",
+        "summary": "It’s the height of hypocrisy to condemn Taliban abuses in one breath and cooperate in sending people back to them in the next.",
+        "url": "https://thehill.com/opinion/international/6030093-afghanistan-taliban-returns-unsafe/"
+    },
+    {
         "id": "https://thehill.com/policy/international/6031248-iran-rejects-trump-hormuz-claim/",
         "source": "The Hill",
         "title": "Iran rejects Trump's 'delusions' on making Strait of Hormuz a US territory",
@@ -34,42 +70,6 @@
         "category": "Foreign Policy",
         "summary": "Iran on Saturday rejected President Trump’s assertion that he could declare the Strait of Hormuz a “territory of the United States,” saying the opening and closure of the key waterway will remain up to Iran’s control. In a post on the social platform X, Iranian Deputy Foreign Minister Kazem Gharibabadi said the U.S. has no...",
         "url": "https://thehill.com/policy/international/6031248-iran-rejects-trump-hormuz-claim/"
-    },
-    {
-        "id": "https://thehill.com/blogs/in-the-know/6030541-katie-miller-podcast-maga-women-influence/",
-        "source": "The Hill",
-        "title": "Katie Miller’s podcast serves as safe space for MAGA world",
-        "publicationDate": "2026-08-15",
-        "category": "In The Know",
-        "summary": "Katie Miller’s podcast is emerging as a go-to platform for leading figures in President Trump’s administration as she targets an audience of Republican women, scoring news-making interviews with top cabinet officials and key members of the president's inner circle. Miller, the wife of top White House aide Stephen Miller and a Trump-supporting political operative who...",
-        "url": "https://thehill.com/blogs/in-the-know/6030541-katie-miller-podcast-maga-women-influence/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6030686-aoc-egg-freezing-controversy/",
-        "source": "The Hill",
-        "title": "Ocasio-Cortez's decision riles some on right, while also winning admiration",
-        "publicationDate": "2026-08-15",
-        "category": "Campaign",
-        "summary": "Rep. Alexandria Ocasio-Cortez’s (D-N.Y.) decision to freeze her eggs and publicly document the process is stirring up mixed reviews from her conservative critics while receiving praise from many women for demystifying the procedure. Many conservatives have criticized Ocasio-Cortez for creating what they call the illusion that women can have it all, while promoting an expensive...",
-        "url": "https://thehill.com/homenews/campaign/6030686-aoc-egg-freezing-controversy/"
-    },
-    {
-        "id": "https://thehill.com/opinion/cybersecurity/6028070-china-cyber-attack-scenario/",
-        "source": "The Hill",
-        "title": "Is the US already in World War IV — and losing?",
-        "publicationDate": "2026-08-15",
-        "category": "Technology",
-        "summary": "What if our enemies bypass weapons and tactics imagined for World War III, and instead just hit us the crippling cyberattacks of World War IV?",
-        "url": "https://thehill.com/opinion/cybersecurity/6028070-china-cyber-attack-scenario/"
-    },
-    {
-        "id": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/",
-        "source": "The Hill",
-        "title": "BBC lawsuit: Channel plans to subpoena Trump family members",
-        "publicationDate": "2026-08-15",
-        "category": "Defense",
-        "summary": "The BBC is seeking to subpoena three members of President Trump’s family as it builds its defense to his $10 billion defamation lawsuit. In a Friday court filing, attorneys for the BBC argued that Trump’s children, Donald Trump Jr. and Ivanka Trump, as well as his son-in-law, Jared Kushner, “have personal knowledge and likely have...",
-        "url": "https://thehill.com/media/6031128-bbc-lawsuit-trump-family-subpoena/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
@@ -128,7 +128,7 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
         "publicationDate": "2026-08-15",
         "category": "Other",
         "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
@@ -146,7 +146,7 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
         "publicationDate": "2026-08-15",
         "category": "Defense",
         "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
