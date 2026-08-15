@@ -54,6 +54,33 @@
         "url": "https://www.pbs.org/newshour/world/u-s-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran-and-the-western-hemisphere"
     },
     {
+        "id": "https://thehill.com/homenews/senate/6031617-tuberville-use-chatgpt/",
+        "source": "The Hill",
+        "title": "Tuberville says he likes to talk to ChatGPT on long drives",
+        "publicationDate": "2026-08-15",
+        "category": "Healthcare",
+        "summary": "Sen. Tommy Tuberville (R-Ala.) said Friday that he likes talk to ChatGPT to pass time on long car drives across his home state. The Alabama Republican, who's running for governor, revealed to the Washington Post Friday that he talks with the popular chatbot about questions regarding Medicare and Medicaid. He will also listen as the...",
+        "url": "https://thehill.com/homenews/senate/6031617-tuberville-use-chatgpt/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6030558-alaska-senate-seat-tightening/",
+        "source": "The Hill",
+        "title": "Republicans face unexpected challenge in Alaska Senate race",
+        "publicationDate": "2026-08-15",
+        "category": "Senate",
+        "summary": "As Republicans look to hold on to their Senate majority in November, one state that is usually safely red is heating up as a former Democratic congresswoman makes a comeback bid to return to Washington. Sen. Dan Sullivan (R-Alaska) is facing a challenge from former Rep. Mary Peltola (D-Alaska), and while polls are somewhat inconclusive,...",
+        "url": "https://thehill.com/homenews/senate/6030558-alaska-senate-seat-tightening/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6031596-brown-acton-lead-ohio-polls/",
+        "source": "The Hill",
+        "title": "Brown, Acton hold slim leads over Husted, Ramaswamy in key Ohio races: Poll",
+        "publicationDate": "2026-08-15",
+        "category": "Campaign",
+        "summary": "A new poll has former Sen. Sherrod Brown (D) and Amy Acton (D) leading by narrow margins against their Republican opponents in the Ohio Senate and gubernatorial races. The survey, conducted by Wedgewood Polls, puts the Republican nominee Sen. Jon Husted (R-Ohio) behind Brown with 44 percent to his 48 percent. Vivek Ramaswamy, a GOP...",
+        "url": "https://thehill.com/homenews/campaign/6031596-brown-acton-lead-ohio-polls/"
+    },
+    {
         "id": "https://thehill.com/policy/defense/6031563-maher-condemns-uss-abraham-lincoln-conditions/",
         "source": "The Hill",
         "title": "Maher on USS Abraham Lincoln conditions: 'It just makes my blood boil'",
@@ -72,33 +99,6 @@
         "url": "https://thehill.com/homenews/6031541-wnba-players-discuss-scruitny/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6028298-dnc-approves-2028-primary-calendar/",
-        "source": "The Hill",
-        "title": "DNC gives final approval of 2028 primary calendar starting in South Carolina",
-        "publicationDate": "2026-08-15",
-        "category": "Campaign",
-        "summary": "The Democratic National Committee (DNC) has voted to approve the 2028 presidential primary calendar, starting with South Carolina. The party okayed a plan that has the Palmetto State kicking off the cycle on Jan. 22, 2028, followed by Nevada on Feb. 1. New Hampshire, long a first-in-the-nation contest, will hold its primary third, on Feb....",
-        "url": "https://thehill.com/homenews/campaign/6028298-dnc-approves-2028-primary-calendar/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/6031505-uae-accuses-iran-strait-hormuz/",
-        "source": "The Hill",
-        "title": "Iran attacks third UAE tanker within a week",
-        "publicationDate": "2026-08-15",
-        "category": "Foreign Policy",
-        "summary": "The United Arab Emirates accused Iran on Saturday of attacking another vessel belonging to its state oil company while it transited through the Strait of Hormuz on Friday, the third such incident in less than a week. The Abu Dhabi National Oil Company (ADNOC) vessel was struck Friday while traveling through the strait, Reuters reported,...",
-        "url": "https://thehill.com/policy/international/6031505-uae-accuses-iran-strait-hormuz/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6031495-kalshi-nevada-geofencing-dispute/",
-        "source": "The Hill",
-        "title": "Kalshi accuses Nevada investigators of violating federal law in geofencing complaint",
-        "publicationDate": "2026-08-15",
-        "category": "Technology",
-        "summary": "Kalshi is pushing back against the state of Nevada’s claims that the prediction market operator failed to comply with geofencing requirements, accusing the state’s gaming regulator of violating federal law. In a motion filed in state court on Friday evening, state prosecutors argued that the firm failed to implement a geofencing solution by Aug. 12...",
-        "url": "https://thehill.com/policy/technology/6031495-kalshi-nevada-geofencing-dispute/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
         "source": "New York Times Politics",
         "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
@@ -110,7 +110,7 @@
     {
         "id": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
         "source": "New York Times Politics",
-        "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
+        "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
         "publicationDate": "2026-08-15",
         "category": "United States Politics and Government",
         "summary": "The U.S. attorney in Chicago subpoenaed a fund-raising firm that had been co-owned by the daughter of Judge Juan Merchan, who conducted the trial that led to Donald Trump’s felony conviction.",
@@ -182,7 +182,7 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
         "publicationDate": "2026-08-15",
         "category": "Other",
         "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
@@ -205,6 +205,15 @@
         "category": "Other",
         "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
         "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+        "publicationDate": "2026-08-15",
+        "category": "Foreign Policy",
+        "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/1bd69e67-266f-4a4a-9c49-eb3c83bcb295?syn-25a6b1a6=1",
@@ -403,15 +412,6 @@
         "category": "Other",
         "summary": "The president can help rally his core supporters but remains deeply unpopular in many swing areas.",
         "url": "https://www.washingtonpost.com/politics/2026/08/14/trump-stumps-ny-suburbs-highlighting-dilemma-his-party/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-        "publicationDate": "2026-08-14",
-        "category": "Other",
-        "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-        "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.cfr.org/articles/what-trumps-executive-order-means-for-childhood-vaccinations",
