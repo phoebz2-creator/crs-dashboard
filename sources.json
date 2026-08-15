@@ -36,6 +36,24 @@
         "url": "https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+        "publicationDate": "2026-08-15",
+        "category": "Other",
+        "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+        "publicationDate": "2026-08-15",
+        "category": "Other",
+        "summary": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
+        "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -45,13 +63,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+        "id": "https://www.ft.com/content/2674cacd-3f32-4f4e-97a9-9e825e7f0737?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "What the Lakers’ $12.5bn sale says about sports ownership",
         "publicationDate": "2026-08-15",
         "category": "Other",
-        "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
-        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss"
+        "summary": "Also in today’s newsletter: what Liverpool’s new shareholders bring and more",
+        "url": "https://www.ft.com/content/2674cacd-3f32-4f4e-97a9-9e825e7f0737?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/f41686a7-4d3c-4f49-8d21-29d3577747a7?syn-25a6b1a6=1",
@@ -90,22 +108,31 @@
         "url": "https://www.ft.com/content/c0d1c0ce-96c0-4824-a211-139acbddd200?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
-        "publicationDate": "2026-08-15",
-        "category": "Other",
-        "summary": "Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing",
-        "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1"
+        "id": "IF13287",
+        "source": "Congressional Research Service",
+        "title": "Constitutional Authority Statements and Repeal Legislation",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "To introduce a bill or joint resolution, House Rule XII requires Members of the House to attach a statement identifying the source of Congress’s constitutional authority to enact such legislation, known as a Constitutional Authority Statement (CAS). The underlying source of constitutional authority may be clear when Congress is creating new law, but that authority is less certain when Congress seeks to repeal a...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13287/IF13287.1.pdf"
     },
     {
-        "id": "IF12990",
+        "id": "LSB11470",
         "source": "Congressional Research Service",
-        "title": "U.S.-China Tariff Actions Since 2018: An Overview",
+        "title": "ESA Section 7 Consultation and Cooperative Federalism",
         "publicationDate": "2026-08-14",
-        "category": "Foreign Policy",
-        "summary": "Since 2018, the U.S. government has imposed a series of tariffs on imports from the People’s Republic of China (PRC, or China) with the stated intention of addressing U.S. concerns about PRC trade practices and foreign policies. Since 2025, the Trump Administration’s trade policy and tariff actions have maintained a focus on China, among other countries. Some actions explicitly target China; others involve sectors...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12990/IF12990.13.pdf"
+        "category": "Defense",
+        "summary": "Section 7 of the Endangered Species Act (ESA) requires federal agencies to consult with the U.S. Fish and Wildlife Service (FWS) or the National Marine Fisheries Service (NMFS) (together, “the Services”) in advance of agency activities with the potential to impact endangered or threatened species (listed species) or their critical habitat. The Services’ goal in conducting that consultation is to determine whether...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11470/LSB11470.1.pdf"
+    },
+    {
+        "id": "LSB11469",
+        "source": "Congressional Research Service",
+        "title": "Supreme Court Says Negligence Suits Against Military Contractor Operating in a Combat Zone Are Not Preempted",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "On April 22, 2026, the U.S. Supreme Court decided the case Hencely v. Fluor Corp. This case involves a former servicemember (Winston Tyler Hencely) who sued a military contractor (Fluor) under South Carolina law for injuries he suffered on a U.S. military base in Afghanistan in 2016, allegedly due to Fluor’s negligence. Fluor employed an individual who carried out a suicide-bomb attack at the base that wounded...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11469/LSB11469.1.pdf"
     },
     {
         "id": "https://www.hudson.org/economics/dollar-venezuelas-economic-recovery-nick-snyder",
@@ -351,22 +378,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/14/white-house-ballroom-trump-asks-supreme-court-let-work-go/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+        "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
         "publicationDate": "2026-08-14",
-        "category": "Healthcare",
-        "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-        "publicationDate": "2026-08-14",
-        "category": "Healthcare",
-        "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-        "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
@@ -376,33 +394,6 @@
         "category": "Other",
         "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
         "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "R49178",
-        "source": "Congressional Research Service",
-        "title": "The DPA Modernization Act of 2026: An Overview",
-        "publicationDate": "2026-08-13",
-        "category": "Defense",
-        "summary": "The Defense Production Act (DPA) of 1950 (P.L. 81-774, 50 U.S.C. §§4501 et seq.), as amended, gives the President a broad set of authorities to influence domestic industry in the interest of national defense. These authorities are currently provided in three titles: Title I: Priorities and Allocations allows the President to require persons, businesses, and corporations to prioritize and accept federal contracts...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49178/R49178.2.pdf"
-    },
-    {
-        "id": "R49186",
-        "source": "Congressional Research Service",
-        "title": "Venezuela’s Post-Maduro Political Transition and U.S. Policy",
-        "publicationDate": "2026-08-13",
-        "category": "Economy",
-        "summary": "Some Members of Congress have closely followed the political and economic situation in Venezuela following the January 3, 2026, U.S. capture and arrest of President Nicolás Maduro (2013-2026) and his wife, Cilia Flores, on narco-terrorism and other charges. Following Maduro’s removal, Delcy Rodríguez, Maduro’s vice president and oil minister of the United Socialist Party of Venezuela (PSUV), took power as acting...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49186/R49186.1.pdf"
-    },
-    {
-        "id": "IN12709",
-        "source": "Congressional Research Service",
-        "title": "HUD’s FY2026 Continuum of Care Program Competition",
-        "publicationDate": "2026-08-13",
-        "category": "Healthcare",
-        "summary": "The Continuum of Care (CoC) program, administered by the U.S. Department of Housing and Urban Development (HUD), funds housing and services to assist people experiencing homelessness. CoC funds are awarded through a competitive process announced in annual Notices of Funding Opportunity (NOFOs). CoC NOFOs set priorities that, in part, determine which grantees receive funding. CoC NOFOS for FY2025 and FY2026...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12709/IN12709.3.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/what-trumps-executive-order-means-for-childhood-vaccinations",
@@ -475,6 +466,15 @@
         "category": "Other",
         "summary": "U.S. support for Israel has been a central issue in Democratic primary contests. That's put a spotlight on the pro-Israel lobbying group AIPAC and the strength of its political influence.",
         "url": "https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics"
+    },
+    {
+        "id": "R46471",
+        "source": "Congressional Research Service",
+        "title": "Federally Supported Projects and Programs for Wastewater, Drinking Water, and Water Supply Infrastructure",
+        "publicationDate": "2026-08-12",
+        "category": "Defense",
+        "summary": "For decades, Congress has authorized, modified, and funded federal programs to help communities address water supply and water infrastructure needs. Departments and agencies that administer these assistance programs include the Bureau of Reclamation (Reclamation), the U.S. Army Corps of Engineers (USACE), the U.S. Department of Agriculture (USDA), the Environmental Protection Agency (EPA), the Department of Housing...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46471/R46471.16.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5031-1.html",
@@ -556,6 +556,15 @@
         "category": "Other",
         "summary": "The 2020 Black Lives Matter insurrection came close to achieving regime change in America, yet failed, because Marxists did not anticipate that Americans would rise to defend their country. But Marxists are now better prepared to deal with counterrevolution. That’s the view of Angela Davis, and she should know. For six decades, this inveterate communist has been a leading participant in attempts to overthrow a...",
         "url": "https://www.heritage.org/progressivism/commentary/we-have-smash-the-state-the-left-prepares-war"
+    },
+    {
+        "id": "R45450",
+        "source": "Congressional Research Service",
+        "title": "Statutory Inspectors General in the Federal Government: A Primer",
+        "publicationDate": "2026-08-11",
+        "category": "Other",
+        "summary": "This report provides an overview of statutory inspectors general (IGs) in the federal government, including their structure and functions, as well as related issues for Congress. Statutory IGs—established by law rather than administrative directive—are intended to be independent, nonpartisan officials who aim to prevent and detect waste, fraud, and abuse in the federal government. To execute their missions, IGs...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45450/R45450.16.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
@@ -664,14 +673,5 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij spoke to NPR ahead of the NATO summit in Ankara \"Europe needs to quite seriously think about their way of war, how they're going to bring mass to a conflict, how they're going to use technology, how they're going to learn lessons from Ukraine in terms of developing really quick innovation cycles.\" ...The ambition is to get through essentially 24 hours without any major public display of disagreement...",
         "url": "https://www.cer.eu/media/npr-nato-summit-set-begin-turkey"
-    },
-    {
-        "id": "R43325",
-        "source": "Congressional Research Service",
-        "title": "The Renewable Fuel Standard (RFS): An Overview",
-        "publicationDate": "2025-09-24",
-        "category": "Foreign Policy",
-        "summary": "The Renewable Fuel Standard (RFS) requires U.S. transportation fuel to include a minimum volume of renewable fuel each year. The RFS—established by the Energy Policy Act of 2005 (EPAct05; P.L. 109-58) and expanded in 2007 by the Energy Independence and Security Act (EISA; P.L. 110-140)—began with requiring 4 billion gallons of renewable fuel in 2006 and gradually increasing that requirement until it reached 36...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43325/R43325.56.pdf"
     }
 ]
