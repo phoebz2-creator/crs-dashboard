@@ -18,6 +18,15 @@
         "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+        "publicationDate": "2026-08-16",
+        "category": "Foreign Policy",
+        "summary": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+        "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Rescuers search for survivors of powerful Indonesia earthquake",
@@ -29,7 +38,7 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
         "publicationDate": "2026-08-16",
         "category": "Other",
         "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
@@ -88,6 +97,15 @@
         "category": "Other",
         "summary": "Businesses flagged effects of extreme heat, drought and wildfires on a record share of earnings calls in recent weeks",
         "url": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
+        "source": "European Council on Foreign Relations",
+        "title": "Legislative Elections (2026)",
+        "publicationDate": "2026-08-15",
+        "category": "Other",
+        "summary": "Elections for the Palestinian Legislative Council (PLC) are scheduled to take place on 28 November 2026 in the West Bank, East Jerusalem, and the Gaza Strip. The registration of electoral lists – which represent a party, coalition of parties, or a group of voters – is taking place between 15-19 August. Full candidacy details for […]",
+        "url": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/"
     },
     {
         "id": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
@@ -252,15 +270,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-        "publicationDate": "2026-08-15",
-        "category": "Other",
-        "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
-        "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "IF13287",
         "source": "Congressional Research Service",
         "title": "Constitutional Authority Statements and Repeal Legislation",
@@ -340,6 +349,15 @@
         "category": "Defense",
         "summary": "Hoover Institution fellow Andrew Michta said, “We have a unique situation in Europe: Germany has the scale to build military leadership. France possesses nuclear weapons, but it is expeditionary-oriented. The British Army has shrunk to such an extent that rebuilding a single division will take it 10 years. Poland has every reason—and an urgent need—to lead this process, and in particular to build regional...",
         "url": "https://cms.hoover.org/research/germany-united-states-key-partner-michta-poland-must-take-initiative"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/",
+        "source": "European Council on Foreign Relations",
+        "title": "Political crisis in Germany",
+        "publicationDate": "2026-08-14",
+        "category": "European Power",
+        "summary": "Mark Leonard welcomes Jörg Lau and Jana Puglierin to discuss Germany’s deepening political crisis, the rise of the AfD and how the country’s regional elections could impact Europe’s largest democracy",
+        "url": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/"
     },
     {
         "id": "https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch",
@@ -583,6 +601,33 @@
         "category": "Other",
         "summary": "RAND Europe examined the size, demographics and support needs of current and former RAF personnel and their families for the RAF Benevolent Fund to inform future welfare planning and service delivery across the wider RAF community.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3197-1.html"
+    },
+    {
+        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
+        "source": "European Council on Foreign Relations",
+        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
+        "publicationDate": "2026-08-10",
+        "category": "Africa",
+        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
+        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
+    },
+    {
+        "id": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/",
+        "source": "European Council on Foreign Relations",
+        "title": "Anti-corruption sanctions: Preparing for the time after Trump",
+        "publicationDate": "2026-08-10",
+        "category": "United States",
+        "summary": "Anti-corruption sanctions—and even the prospect of them—under the next US administration will be crucial to chances of peace in many parts of the world. Here’s how Europeans can play their part",
+        "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/",
+        "source": "European Council on Foreign Relations",
+        "title": "Latin America’s new imaginaries",
+        "publicationDate": "2026-08-07",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Adriana Abdenur and Jorge Castañeda to discuss how China is reshaping the political imagination of Latin America",
+        "url": "https://ecfr.eu/podcasts/episode/latin-americas-new-imaginaries/"
     },
     {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
