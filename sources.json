@@ -45,6 +45,33 @@
         "url": "https://www.pbs.org/newshour/politics/republicans-won-the-redistricting-competition-dont-tell-that-to-this-california-congressman"
     },
     {
+        "id": "https://thehill.com/policy/healthcare/6032232-cassidy-slams-trump-vaccine-order/",
+        "source": "The Hill",
+        "title": "Cassidy on Trump's vaccine order, 'crazy, stupid' claims: 'This is why the president's poll numbers are going down'",
+        "publicationDate": "2026-08-16",
+        "category": "Healthcare",
+        "summary": "Sen. Bill Cassidy (R-La.) on Sunday said President Trump's executive order that seeks to alter the childhood vaccine schedule is based on \"crazy, stupid\" claims, and that they are \"why the president's poll numbers are going down.\" CNN's Jake Tapper, in an interview with Cassidy, a physician, reiterated the senator's words in saying that \"someone needs to...",
+        "url": "https://thehill.com/policy/healthcare/6032232-cassidy-slams-trump-vaccine-order/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6032206-blanche-rejects-independence-pledge/",
+        "source": "The Hill",
+        "title": "Blanche refuses to pledge DOJ will always act independently of White House",
+        "publicationDate": "2026-08-16",
+        "category": "Administration",
+        "summary": "Attorney General Todd Blanche on Sunday did not commit to acting independently of President Trump, but he claimed the president has not and will not ask him to prosecute specific individuals. “There's a big difference between saying we will always do our job and investigate any case and act independently of the White House. No,...",
+        "url": "https://thehill.com/homenews/administration/6032206-blanche-rejects-independence-pledge/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6032219-jeffries-rejects-dsa-agenda/",
+        "source": "The Hill",
+        "title": "Jeffries: 'I don't support' DSA agenda",
+        "publicationDate": "2026-08-16",
+        "category": "Campaign",
+        "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Sunday that he does not back the agenda of the Democratic Socialists of America (DSA), even as democratic socialists and left-leaning candidates racked up primary wins in the last few months. “I don't support the DSA agenda, as has been articulated by the DSA itself. Now, you're going...",
+        "url": "https://thehill.com/homenews/campaign/6032219-jeffries-rejects-dsa-agenda/"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/6032163-jones-dismisses-democrat-communist-label/",
         "source": "The Hill",
         "title": "Doug Jones: Claims that many Democratic nominees are 'far left, socialist' is 'just a boogeyman'",
@@ -61,33 +88,6 @@
         "category": "Healthcare",
         "summary": "GOP Sen. Bill Cassidy (La.) on Sunday accused Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. of breaking his pledge to not attempt to tweak the childhood vaccine schedule. Discussing President Trump’s recent executive order seeking to alter the schedule on ABC News’s “This Week,” Cassidy alluded to “guarantees” Kennedy and the White...",
         "url": "https://thehill.com/homenews/senate/6032102-cassidy-accuses-rfk-broken-pledge/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6032080-stevens-calls-el-sayed-end-piker-tie/",
-        "source": "The Hill",
-        "title": "Stevens says 'it certainly makes sense' for El-Sayed to end affiliation with Piker",
-        "publicationDate": "2026-08-16",
-        "category": "Campaign",
-        "summary": "Rep. Haley Stevens (D-Mich.) on Sunday said \"it certainly makes sense\" for her former Michigan Senate race opponent, Abdul El-Sayed (D), to end his affiliation with popular left-wing Twitch streamer Hasan Piker. Fox News's \"The Sunday Briefing\" co-host Jacqui Heinrich asked Stevens if she would call on El-Sayed, a progressive, to moderate his views on...",
-        "url": "https://thehill.com/homenews/campaign/6032080-stevens-calls-el-sayed-end-piker-tie/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/6032100-vsu-shooting-suspect-arrested/",
-        "source": "The Hill",
-        "title": "Suspect in Virginia State University shooting arrested, found hiding in closet",
-        "publicationDate": "2026-08-16",
-        "category": "State Watch",
-        "summary": "A 19-year-old man has been arrested as a suspect in the shooting of five people at Virginia State University after he was found hiding in a closet.",
-        "url": "https://thehill.com/homenews/state-watch/6032100-vsu-shooting-suspect-arrested/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6032064-cassidy-criticizes-trump-vaccine-order/",
-        "source": "The Hill",
-        "title": "Cassidy predicts Trump's vaccine order will increase insurance costs",
-        "publicationDate": "2026-08-16",
-        "category": "Healthcare",
-        "summary": "Sen. Bill Cassidy (R-La.) on Sunday reiterated his issues with President Trump’s executive order that seeks to tweak the childhood vaccine schedule, with the directive’s impact on insurance costs among them. “Now instead of your child getting two shots, she has to get six shots,” Cassidy told host Martha Raddatz during the senator's appearance on...",
-        "url": "https://thehill.com/homenews/senate/6032064-cassidy-criticizes-trump-vaccine-order/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/16/us/politics/blanche-trump-attorney-general-justice-department.html",
@@ -119,10 +119,10 @@
     {
         "id": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
         "source": "New York Times Politics",
-        "title": "Is the Democratic Party Facing Its Own Tea Party Moment?",
+        "title": "Democrats Face a Potential Tea Party Moment",
         "publicationDate": "2026-08-16",
         "category": "Midterm Elections (2026)",
-        "summary": "A string of primary wins by progressive candidates has revealed the strength of a high-energy insurgent movement but also its potential limitations.",
+        "summary": "A string of primary wins by progressive candidates has revealed the strength of a high-energy insurgent movement but also its possible limitations.",
         "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html"
     },
     {
@@ -133,6 +133,15 @@
         "category": "Defense",
         "summary": "The administration is veering wildly in its response to the national security implications of A.I. as China, America’s main technological and military rival, charges ahead.",
         "url": "https://www.nytimes.com/2026/08/16/us/politics/military-ai-china-anthropic.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/national-security/2026/08/15/navy-weighs-major-warship-redesign-match-trumps-preferences/",
+        "source": "Washington Post Politics",
+        "title": "Navy weighs major warship redesign to match Trump’s preferences",
+        "publicationDate": "2026-08-16",
+        "category": "Defense",
+        "summary": "The president wants the new fleet of aircraft carriers to more resemble those from World War II. Such a change could cost billions.",
+        "url": "https://www.washingtonpost.com/national-security/2026/08/15/navy-weighs-major-warship-redesign-match-trumps-preferences/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/16/trump-says-white-house-needs-military-complex-courts-block-his-ballroom/",
@@ -171,6 +180,15 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/16/senate-hopeful-talarico-touts-his-faith-texas-republicans-call-it-blasphemy/"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "publicationDate": "2026-08-16",
+        "category": "Other",
+        "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -182,29 +200,11 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+        "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
         "publicationDate": "2026-08-16",
         "category": "Other",
-        "summary": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
+        "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
         "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "publicationDate": "2026-08-16",
-        "category": "Other",
-        "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-        "publicationDate": "2026-08-16",
-        "category": "Other",
-        "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
-        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
@@ -214,6 +214,15 @@
         "category": "Other",
         "summary": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
         "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+        "publicationDate": "2026-08-16",
+        "category": "Other",
+        "summary": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/0a2db2ce-b89f-4d2b-a93b-794e4e422141?syn-25a6b1a6=1",
@@ -295,15 +304,6 @@
         "category": "Foreign Policy",
         "summary": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier.",
         "url": "https://www.pbs.org/newshour/world/u-s-pulls-last-aircraft-carrier-in-asia-as-trump-focuses-on-iran-and-the-western-hemisphere"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/",
-        "source": "Washington Post Politics",
-        "title": "Democrats approve 2028 primary calendar that puts South Carolina first",
-        "publicationDate": "2026-08-15",
-        "category": "Other",
-        "summary": "South Carolina would hold its primary on Jan. 22, 2028 under the Democratic National Committee’s plan. Nevada would follow on Feb. 1. The plan aims to give a bigger voice to Black and Latino voters.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/15/democrats-approve-2028-primary-calendar-that-puts-south-carolina-first/"
     },
     {
         "id": "IF13287",
