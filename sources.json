@@ -9,15 +9,6 @@
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13289/IF13289.1.pdf"
     },
     {
-        "id": "R47211",
-        "source": "Congressional Research Service",
-        "title": "Criminal Justice Data: Human Trafficking",
-        "publicationDate": "2026-08-17",
-        "category": "Healthcare",
-        "summary": "Human traffickers exploit vulnerable individuals for commercial sex and forced labor in a variety of legal and illegal industries, both across the United States and around the world. While some estimates of the incidence of human trafficking exist, comprehensive data on human trafficking within the United States are not available. Criminal Justice Data One method for understanding the extent and nature of a...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47211/R47211.6.pdf"
-    },
-    {
         "id": "LSB11471",
         "source": "Congressional Research Service",
         "title": "The Reporter’s Privilege and Government Employee Confidential Sources",
@@ -25,6 +16,15 @@
         "category": "Defense",
         "summary": "In the course of gathering news, journalists frequently rely on confidential sources. Prosecutors or parties in civil litigation may seek to compel reporters to reveal these confidential sources through subpoenas for testimony or documents. Reporters have at times argued that such requests violate their First Amendment rights by burdening the news gathering and reporting process. The Supreme Court has addressed...",
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11471/LSB11471.1.pdf"
+    },
+    {
+        "id": "R47211",
+        "source": "Congressional Research Service",
+        "title": "Criminal Justice Data: Human Trafficking",
+        "publicationDate": "2026-08-17",
+        "category": "Healthcare",
+        "summary": "Human traffickers exploit vulnerable individuals for commercial sex and forced labor in a variety of legal and illegal industries, both across the United States and around the world. While some estimates of the incidence of human trafficking exist, comprehensive data on human trafficking within the United States are not available. Criminal Justice Data One method for understanding the extent and nature of a...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47211/R47211.6.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5043-1.html",
@@ -43,6 +43,24 @@
         "category": "Defense",
         "summary": "A wave of conservative political change is sweeping across Latin America, creating a timely opening for renewed U.S. leadership in the Western Hemisphere. After years of inconstant American engagement, the region faces a convergence of threats that directly affect U.S. national security: surging narco-terrorism, mass migration, organized criminal violence, and the expanding influence of extra-hemispheric...",
         "url": "https://www.heritage.org/global-politics/report/us-andean-security-cooperation-essential-hemispheric-security-and-stability"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/us-today-lacks-meaningful-leverage-afghanistan-luke-coffey",
+        "source": "Hudson Institute",
+        "title": "US Today Lacks Meaningful Leverage in Afghanistan",
+        "publicationDate": "2026-08-17",
+        "category": "Defense",
+        "summary": "US Today Lacks Meaningful Leverage in Afghanistan acabral-sanche… Mon, 08/17/2026 - 10:21 SVG Commentary Aug 14, 2026 Arab News US Today Lacks Meaningful Leverage in Afghanistan Luke Coffey Senior Fellow, Center on Europe and Eurasia Luke Coffey Commentary Caption Taliban security personnel stand guard atop armored Humvees along a road in the Green Zone area in Kabul on August 12, 2026. (Getty Images) Toggle Table...",
+        "url": "https://www.hudson.org/foreign-policy/us-today-lacks-meaningful-leverage-afghanistan-luke-coffey"
+    },
+    {
+        "id": "https://cms.hoover.org/research/counterrevolution-fall-and-rise-donald-trump-and-maga-movement",
+        "source": "Hoover Institution",
+        "title": "The Counterrevolution: The Fall and Rise of Donald Trump and the MAGA Movement",
+        "publicationDate": "2026-08-17",
+        "category": "Other",
+        "summary": "From the author of the New York Times best-selling The Case for Trump, the story of Trump’s triumphant comeback and what his second term means for the future of our country.",
+        "url": "https://cms.hoover.org/research/counterrevolution-fall-and-rise-donald-trump-and-maga-movement"
     },
     {
         "id": "https://cms.hoover.org/news/hoover-institution-debuts-hoover-streaming-home-its-educational-video-and-podcast-content",
@@ -70,6 +88,15 @@
         "category": "Other",
         "summary": "What if the Industrial Revolution began not with steam, but with property rights?",
         "url": "https://cms.hoover.org/research/hidden-cause-industrial-revolution"
+    },
+    {
+        "id": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/",
+        "source": "European Council on Foreign Relations",
+        "title": "Buzzkill: How to defend Europe against drones",
+        "publicationDate": "2026-08-17",
+        "category": "European Security",
+        "summary": "Drone warfare in Europe is no longer tomorrow’s problem. The continent is under attack by drones today, and the threat is not isolated in the east.",
+        "url": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/"
     },
     {
         "id": "https://www.cer.eu/mailings-webform-report",
@@ -117,49 +144,58 @@
         "url": "https://www.pbs.org/newshour/politics/supreme-court-again-denies-trumps-push-to-toss-out-5-million-verdict-in-e-jean-carroll-case"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6032961-cyclospora-outbreaks-with-no-confirmed-sources-grow-fda/",
+        "id": "https://thehill.com/homenews/house/6033352-ocasio-cortez-egg-freezing-no-regrets/",
         "source": "The Hill",
-        "title": "Cyclospora outbreaks with no confirmed sources grow: FDA",
+        "title": "Ocasio-Cortez: No regrets over decision to publicize freezing eggs",
         "publicationDate": "2026-08-17",
-        "category": "Healthcare",
-        "summary": "Nearly 14,000 cases of cyclospora have been confirmed in the U.S., according to the CDC. Last year, the U.S. saw fewer than 2,000.",
-        "url": "https://thehill.com/policy/healthcare/6032961-cyclospora-outbreaks-with-no-confirmed-sources-grow-fda/"
+        "category": "House",
+        "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Saturday she has no regrets about publicizing her decision to freeze her eggs. “One question that I received earlier is: Do I regret coming out publicly about this due to all of the political negativity and the larger political context, and especially this idea that for me, I'm quite young...",
+        "url": "https://thehill.com/homenews/house/6033352-ocasio-cortez-egg-freezing-no-regrets/"
     },
     {
-        "id": "https://thehill.com/policy/defense/6033148-trump-cedric-leighton-south-korea-joint-military-exercises/",
+        "id": "https://thehill.com/opinion/education/6032624-accounting-stem-pursuit-act/",
         "source": "The Hill",
-        "title": "Retired colonel knocks Trump order to cut back on 'critical' joint exercises with South Korea",
+        "title": "Accounting belongs in K-12 STEM education",
+        "publicationDate": "2026-08-17",
+        "category": "Opinions - Education",
+        "summary": "Bipartisan congressional efforts like the Accounting STEM Pursuit Act aim to address the national accountant shortage by expanding federal grant eligibility to include accounting education.",
+        "url": "https://thehill.com/opinion/education/6032624-accounting-stem-pursuit-act/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6033325-blanche-trump-white-house-ballroom-congress/",
+        "source": "The Hill",
+        "title": "Blanche: Congress has already approved White House ballroom project",
+        "publicationDate": "2026-08-17",
+        "category": "Administration",
+        "summary": "Attorney General Todd Blanche on Sunday said the Department of Justice believes Congress has already granted President Trump the authority to construct the White House ballroom under existing presidential authority. “We don't believe we have to go to Congress. We believe Congress has already given us the authority to do what we're doing,” Blanche said...",
+        "url": "https://thehill.com/homenews/administration/6033325-blanche-trump-white-house-ballroom-congress/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6033332-senators-demand-uss-abraham-lincoln-info/",
+        "source": "The Hill",
+        "title": "Democratic lawmakers demands answers from Hegseth on USS Abraham Lincoln",
         "publicationDate": "2026-08-17",
         "category": "Defense",
-        "summary": "Retired Air Force Col. Cedric Leighton on Sunday suggested President Trump made “an unforced error” in ordering the Pentagon to scale back its joint exercises with the South Korean military. Leighton said the change “could have some serious impacts” on America’s relationship with South Korea, as well as Japan. “South Korea is a critical ally...",
-        "url": "https://thehill.com/policy/defense/6033148-trump-cedric-leighton-south-korea-joint-military-exercises/"
+        "summary": "A group of 15 senators said Defense Secretary Pete Hegseth owes Americans answers about the ongoing deployment of the USS Abraham Lincoln aircraft carrier strike group after reports of low morale and a mental health crisis among service members aboard. In an Aug. 15 letter to Hegseth, signed by all 13 members of the Senate...",
+        "url": "https://thehill.com/homenews/6033332-senators-demand-uss-abraham-lincoln-info/"
     },
     {
-        "id": "https://thehill.com/opinion/national-security/6032605-trump-hegseth-troop-welfare/",
+        "id": "https://thehill.com/policy/energy-environment/6033231-lake-powell-record-low/",
         "source": "The Hill",
-        "title": "No, the troops aren’t mentally weak. They just have terrible leadership.",
+        "title": "Lake Powell, second-largest reservoir in US, hits record-low water level",
         "publicationDate": "2026-08-17",
-        "category": "Defense",
-        "summary": "Marine veteran Joslin Joseph criticizes the leadership of President Trump and Defense Secretary Pete Hegseth for prioritizing mission goals over troop welfare during an ongoing conflict with Iran.",
-        "url": "https://thehill.com/opinion/national-security/6032605-trump-hegseth-troop-welfare/"
+        "category": "Energy & Environment",
+        "summary": "The water level at Lake Powell on the Colorado River, the second-largest reservoir in the country, has dipped to a record low. The lake’s elevation was 3,519.8 feet as of Sunday, according to data from the U.S. Bureau of Reclamation (USBR). The Associated Press reported Sunday that Lake Powell’s water level on Saturday surpassed its...",
+        "url": "https://thehill.com/policy/energy-environment/6033231-lake-powell-record-low/"
     },
     {
-        "id": "https://thehill.com/opinion/immigration/6030737-trump-birthright-citizenship-order/",
-        "source": "The Hill",
-        "title": "Trump's latest birthright citizenship order is also unconstitutional",
+        "id": "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html",
+        "source": "New York Times Politics",
+        "title": "Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment",
         "publicationDate": "2026-08-17",
-        "category": "Opinions - Immigration",
-        "summary": "President Trump seems temperamentally incapable of recognizing the scope of his loss in the U.S. Supreme Court on the issue of birthright citizenship. Rather than accept the court's definitive ruling that \"the Constitution guarantees citizenship to children born of parents unlawfully or temporarily present in the United States,\" he recently released a new executive order purporting to deny...",
-        "url": "https://thehill.com/opinion/immigration/6030737-trump-birthright-citizenship-order/"
-    },
-    {
-        "id": "https://thehill.com/business/personal-finance/6032428-want-to-live-comfortably-in-your-state-how-much-you-have-to-earn-per-a-new-study/",
-        "source": "The Hill",
-        "title": "Want to 'live comfortably' in your state? How much you have to earn, per a new study",
-        "publicationDate": "2026-08-17",
-        "category": "Economy",
-        "summary": "What it costs to \"live comfortably\" varies based on where you live and how large your family is, a new study shows.",
-        "url": "https://thehill.com/business/personal-finance/6032428-want-to-live-comfortably-in-your-state-how-much-you-have-to-earn-per-a-new-study/"
+        "category": "United States Politics and Government",
+        "summary": "The court declined President Trump’s long-shot request that it reconsider his appeal. He has separately asked the court to overturn a much larger 2024 award.",
+        "url": "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html",
@@ -198,13 +234,22 @@
         "url": "https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
-        "source": "New York Times Politics",
-        "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
+        "id": "https://www.washingtonpost.com/politics/2026/08/17/supreme-court-rebuffs-trumps-bid-overturn-5-million-verdict-carroll-case/",
+        "source": "Washington Post Politics",
+        "title": "Supreme Court rebuffs Trump’s bid to overturn $5 million verdict in Carroll case",
         "publicationDate": "2026-08-17",
-        "category": "Defense",
-        "summary": "In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.",
-        "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
+        "category": "Other",
+        "summary": "The president was found liable of sexually assaulting and defaming E. Jean Carroll in the high-profile civil case.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/17/supreme-court-rebuffs-trumps-bid-overturn-5-million-verdict-carroll-case/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/17/trump-blames-vandals-dead-grass-lawn-where-he-held-fourth-july-event/",
+        "source": "Washington Post Politics",
+        "title": "Trump blames vandals for dead grass on lawn where he held Fourth of July event",
+        "publicationDate": "2026-08-17",
+        "category": "Other",
+        "summary": "Similarly damaged grass was seen at the White House Ellipse and South Lawn after the UFC Freedom 250 events this summer.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/17/trump-blames-vandals-dead-grass-lawn-where-he-held-fourth-july-event/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/17/cassidy-trumps-vaccine-overhaul-crazy-stupid-thing/",
@@ -234,30 +279,12 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/17/hakeem-jeffries-says-he-wants-see-dramatic-reform-supreme-court/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/17/florida-debbie-wasserman-schultz-tries-win-heavily-black-district/",
-        "source": "Washington Post Politics",
-        "title": "Under new Florida maps, a White Democrat aims to win a heavily Black district",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Debbie Wasserman Schultz is competing in a racially thorny primary in which everyone seems to think experience is important — but they don’t agree on what kind.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/17/florida-debbie-wasserman-schultz-tries-win-heavily-black-district/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/17/so-what-is-attracting-voters-dsas-sexy-socialist-summer/",
-        "source": "Washington Post Politics",
-        "title": "So what is attracting voters to DSA’s ‘Sexy Socialist Summer’?",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Democratic Socialists of America-endorsed or aligned candidates have won a number of Democratic primaries up and down the ballot this cycle.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/17/so-what-is-attracting-voters-dsas-sexy-socialist-summer/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
         "publicationDate": "2026-08-17",
         "category": "Foreign Policy",
-        "summary": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies.",
+        "summary": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran.",
         "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -297,6 +324,24 @@
         "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595",
+        "source": "Financial Times World",
+        "title": "Seoul rattled by threat to drills at heart of US-Korean alliance",
+        "publicationDate": "2026-08-17",
+        "category": "Other",
+        "summary": "Donald Trump’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally",
+        "url": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595"
+    },
+    {
+        "id": "https://www.ft.com/content/9472e6dd-7b51-48e9-91fa-1f59412e0093?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Ebola outbreak becomes DR Congo’s deadliest",
+        "publicationDate": "2026-08-17",
+        "category": "Healthcare",
+        "summary": "World Health Organization warns country has entered ‘intense transmission’ phase of the virus",
+        "url": "https://www.ft.com/content/9472e6dd-7b51-48e9-91fa-1f59412e0093?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Kushner holds talks with Netanyahu after meeting Hamas leader",
@@ -322,24 +367,6 @@
         "category": "Foreign Policy",
         "summary": "Iran conflict is reshaping alliances in a way neither America nor Israel foresaw",
         "url": "https://www.ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/49eac9fc-1b9c-4e80-8ed0-c52afc3aa376?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Reform’s deputy leader tells Britons to ‘enjoy’ heat amid record drought",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Richard Tice’s call for people to ‘celebrate’ hotter weather comes as farmers warn of one of the worst harvests on record",
-        "url": "https://www.ft.com/content/49eac9fc-1b9c-4e80-8ed0-c52afc3aa376?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/82a4b183-7201-4789-95b7-e39e81c827bc?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Nvidia to invest $100bn for OpenAI data centre in Ohio",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Chipmaker also invests $1.5bn into SB Energy, an energy company founded as part of SoftBank Group",
-        "url": "https://www.ft.com/content/82a4b183-7201-4789-95b7-e39e81c827bc?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
@@ -387,6 +414,15 @@
         "url": "https://www.pbs.org/newshour/politics/republicans-won-the-redistricting-competition-dont-tell-that-to-this-california-congressman"
     },
     {
+        "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
+        "source": "European Council on Foreign Relations",
+        "title": "Legislative Elections (2026)",
+        "publicationDate": "2026-08-15",
+        "category": "Other",
+        "summary": "Elections for the Palestinian Legislative Council (PLC) are scheduled to take place on 28 November 2026 in the West Bank, East Jerusalem, and the Gaza Strip. The registration of electoral lists – which represent a party, coalition of parties, or a group of voters – is taking place between 15-19 August. Full candidacy details for […]",
+        "url": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/democrats-2028-presidential-calendar-gives-black-and-latino-voters-and-union-members-an-early-say",
         "source": "PBS NewsHour Politics",
         "title": "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say",
@@ -394,6 +430,24 @@
         "category": "democratic national committee",
         "summary": "The primary lineup pushes Iowa from the traditional top spot and makes South Carolina the leadoff state, voting on Jan. 22, 2028, followed by Nevada on Feb. 1.",
         "url": "https://www.pbs.org/newshour/politics/democrats-2028-presidential-calendar-gives-black-and-latino-voters-and-union-members-an-early-say"
+    },
+    {
+        "id": "https://www.hudson.org/events/twenty-times-i-almost-died-lessons-life-war",
+        "source": "Hudson Institute",
+        "title": "Twenty Times I Almost Died: Lessons on Life and War",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "Twenty Times I Almost Died: Lessons on Life and War nhuergo@hudson.org Fri, 08/14/2026 - 14:01 24 August 2026 In-Person Event Twenty Times I Almost Died: Lessons on Life and War Register for Event MONDAY 10:00 a.m. - 10:45 a.m. Event will also air live on this page. Inquiries: nhuergo@hudson.org . Register for Event Twenty Times I Almost Died: Lessons on Life and War In-Person Event Hudson Institute August 24, 2026...",
+        "url": "https://www.hudson.org/events/twenty-times-i-almost-died-lessons-life-war"
+    },
+    {
+        "id": "https://www.hudson.org/economics/dollar-venezuelas-economic-recovery-nick-snyder",
+        "source": "Hudson Institute",
+        "title": "Why Transitioning to the Dollar Is Venezuela’s Fastest Route to Recovery",
+        "publicationDate": "2026-08-14",
+        "category": "Other",
+        "summary": "Why Transitioning to the Dollar Is Venezuela’s Fastest Route to Recovery tbragg@hudson.org Fri, 08/14/2026 - 11:24 SVG Commentary Aug 14, 2026 The Washington Post Why Transitioning to the Dollar Is Venezuela’s Fastest Route to Recovery Nick Snyder Senior Fellow (Nonresident) Nick Snyder Commentary Caption A demonstrator takes part in a protest outside the Melia Caracas Hotel in Caracas, Venezuela, on August 12,...",
+        "url": "https://www.hudson.org/economics/dollar-venezuelas-economic-recovery-nick-snyder"
     },
     {
         "id": "https://cms.hoover.org/research/trump-says-his-uncle-was-super-genius-d-day-proves-his-point",
@@ -405,13 +459,13 @@
         "url": "https://cms.hoover.org/research/trump-says-his-uncle-was-super-genius-d-day-proves-his-point"
     },
     {
-        "id": "https://cms.hoover.org/research/idaho-wildfire-smoke-used-be-far-worse",
-        "source": "Hoover Institution",
-        "title": "Idaho Wildfire Smoke Used To Be Far Worse",
+        "id": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/",
+        "source": "European Council on Foreign Relations",
+        "title": "Political crisis in Germany",
         "publicationDate": "2026-08-14",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Bjorn Lomborg admits climate change, but he also debunks the worst claims of the tree-hugging left. This week, he wrote in the Wall Street Journal that wildfires are about half of what they were 125 years ago.",
-        "url": "https://cms.hoover.org/research/idaho-wildfire-smoke-used-be-far-worse"
+        "category": "European Power",
+        "summary": "Mark Leonard welcomes Jörg Lau and Jana Puglierin to discuss Germany’s deepening political crisis, the rise of the AfD and how the country’s regional elections could impact Europe’s largest democracy",
+        "url": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/"
     },
     {
         "id": "R49186",
@@ -448,6 +502,24 @@
         "category": "Economy",
         "summary": "When it was announced last fall, the White House’s “Compact for Academic Excellence in Higher Education”—which ties federal funding to much-needed reforms—disturbed the right universities in the right ways. Now, as another school year gets underway, it’s time to discuss how the compact can be applied at the state level. Activist colleges have lost their way and squandered the trust of many Americans. While critics...",
         "url": "https://www.heritage.org/education/commentary/applying-the-white-houses-higher-ed-compact-state-level"
+    },
+    {
+        "id": "https://www.hudson.org/politics-government/zhu-rongji-political-magician-thomas-duesterberg",
+        "source": "Hudson Institute",
+        "title": "Zhu Rongji, Political Magician",
+        "publicationDate": "2026-08-13",
+        "category": "Defense",
+        "summary": "Zhu Rongji, Political Magician acabral-sanche… Thu, 08/13/2026 - 16:14 SVG Commentary Sep 23, 1999 The Washington Quarterly Zhu Rongji, Political Magician Thomas J. Duesterberg Senior Fellow Thomas J. Duesterberg Commentary Caption Premier Zhu Rongji speaks at the White House on April 8, 1999, in Washington, DC. (Getty Images) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook...",
+        "url": "https://www.hudson.org/politics-government/zhu-rongji-political-magician-thomas-duesterberg"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/iran-blockades-houthi-attacks-turkey-saudi-defense-pact-marshall-billingslea",
+        "source": "Hudson Institute",
+        "title": "Iran Blockades, Houthi Attacks, and the Turkey-Saudi Defense Pact",
+        "publicationDate": "2026-08-13",
+        "category": "Defense",
+        "summary": "Iran Blockades, Houthi Attacks, and the Turkey-Saudi Defense Pact acabral-sanche… Thu, 08/13/2026 - 12:33 SVG In the Media Aug 13, 2026 TV7 Israel News Iran Blockades, Houthi Attacks, and the Turkey-Saudi Defense Pact Marshall Billingslea Senior Fellow Marshall Billingslea In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook...",
+        "url": "https://www.hudson.org/foreign-policy/iran-blockades-houthi-attacks-turkey-saudi-defense-pact-marshall-billingslea"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5031-1.html",
@@ -540,13 +612,31 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3510-3.html"
     },
     {
+        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
+        "source": "European Council on Foreign Relations",
+        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
+        "publicationDate": "2026-08-10",
+        "category": "Africa",
+        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
+        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
+    },
+    {
+        "id": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/",
+        "source": "European Council on Foreign Relations",
+        "title": "Anti-corruption sanctions: Preparing for the time after Trump",
+        "publicationDate": "2026-08-10",
+        "category": "United States",
+        "summary": "Anti-corruption sanctions—and even the prospect of them—under the next US administration will be crucial to chances of peace in many parts of the world. Here’s how Europeans can play their part",
+        "url": "https://ecfr.eu/article/anti-corruption-sanctions-preparing-for-the-time-after-trump/"
+    },
+    {
         "id": "R49105",
         "source": "Congressional Research Service",
         "title": "Lapses in DHS Appropriations: History and Plans",
         "publicationDate": "2026-08-07",
         "category": "Economy",
         "summary": "Every year, the federal government’s fiscal year ends at midnight on September 30. As this deadline approaches, if any of the regular, full-year appropriations measures are not expected to be enacted by the end of the fiscal year executive branch agencies prepare for either the passage of a continuing resolution, or a lapse in appropriations, which results in a partial or complete government shutdown (including the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49105/R49105.2.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49105/R49105.3.pdf"
     },
     {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
