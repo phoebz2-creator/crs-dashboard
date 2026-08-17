@@ -54,22 +54,22 @@
         "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ukrainian strikes kill six in Russia, acting governor says",
+        "publicationDate": "2026-08-17",
+        "category": "Foreign Policy",
+        "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+        "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "publicationDate": "2026-08-17",
         "category": "Defense",
         "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
         "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Heroes actress Hayden Panettiere dies aged 36",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.",
-        "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
@@ -81,31 +81,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/db29304b-6a28-4e12-8125-3f9658efb89e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The CEO trying to outsmart buyout firms",
+        "id": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Record rains drench South Korean city as landslide kills one",
         "publicationDate": "2026-08-17",
         "category": "Other",
-        "summary": "Bob White adopts private equity-style tactics to deflect takeover interest and boost share price",
-        "url": "https://www.ft.com/content/db29304b-6a28-4e12-8125-3f9658efb89e?syn-25a6b1a6=1"
+        "summary": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
+        "id": "https://www.ft.com/content/d794e389-2122-481d-8fa3-328e33480ee5?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "The next China shock will come from open-source AI",
+        "title": "FirstFT: Dimon warns UK against higher bank taxes",
         "publicationDate": "2026-08-17",
-        "category": "Foreign Policy",
-        "summary": "Countries adopting Chinese models will also absorb Chinese standards and governance",
-        "url": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e"
+        "category": "Economy",
+        "summary": "Also in today’s newsletter: private credit doldrums and AI super-rich",
+        "url": "https://www.ft.com/content/d794e389-2122-481d-8fa3-328e33480ee5?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/78774f5b-058e-4731-99a2-cc2710a457e5?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/1d319839-1c40-4035-b058-5ca2389cafd0?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "India’s sweltering nights expose power crunch",
+        "title": "Japan’s 10-year bond yield hits three-decade high",
+        "publicationDate": "2026-08-17",
+        "category": "Economy",
+        "summary": "Interest rate nears 3% as weak yen fuels inflation concerns",
+        "url": "https://www.ft.com/content/1d319839-1c40-4035-b058-5ca2389cafd0?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/719c8108-f4ae-466b-80f4-96f26558d642?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up",
         "publicationDate": "2026-08-17",
         "category": "Other",
-        "summary": "Rise in evening temperatures and air conditioning demand leaves gap in renewable energy supply",
-        "url": "https://www.ft.com/content/78774f5b-058e-4731-99a2-cc2710a457e5?syn-25a6b1a6=1"
+        "summary": "Company founded by former Snap executive Alex Mashrabov targets marketing content for businesses",
+        "url": "https://www.ft.com/content/719c8108-f4ae-466b-80f4-96f26558d642?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Private credit under strain as troubled loans swell",
+        "publicationDate": "2026-08-17",
+        "category": "Other",
+        "summary": "FT analysis shows signals of stress in the market are back to levels last seen in 2017",
+        "url": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/2fb7f9b7-58dc-4909-94fa-8e753b7be47d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "War and climate change drive surge in global shipping costs",
+        "publicationDate": "2026-08-17",
+        "category": "Other",
+        "summary": "Rates on routes including Panama Canal, Rhine, Red Sea and Black Sea jump, while Hormuz closure also hits seaborne trade",
+        "url": "https://www.ft.com/content/2fb7f9b7-58dc-4909-94fa-8e753b7be47d?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
@@ -259,33 +286,6 @@
         "category": "Other",
         "summary": "As the midterms near, Democrats are proposing adding more justices, limiting their terms and more.",
         "url": "https://www.washingtonpost.com/politics/2026/08/16/democrats-are-proposing-adding-supreme-court-justices-limiting-their-terms/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "publicationDate": "2026-08-16",
-        "category": "Foreign Policy",
-        "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-        "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump says US will scale back military drills with South Korea",
-        "publicationDate": "2026-08-16",
-        "category": "Defense",
-        "summary": "President claims the joint exercises send a ‘hostile’ message to North Korea",
-        "url": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3aa706c2-50bb-4187-a053-c09e3c063d72",
-        "source": "Financial Times World",
-        "title": "China’s energy strategy vindicated by Iran war",
-        "publicationDate": "2026-08-16",
-        "category": "Foreign Policy",
-        "summary": "Playbook is likely to be adopted by other countries, shaping markets",
-        "url": "https://www.ft.com/content/3aa706c2-50bb-4187-a053-c09e3c063d72"
     },
     {
         "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
