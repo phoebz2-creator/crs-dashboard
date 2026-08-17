@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+        "source": "New York Times Politics",
+        "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
+        "publicationDate": "2026-08-17",
+        "category": "Defense",
+        "summary": "In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.",
+        "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
+        "source": "Washington Post Politics",
+        "title": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
+        "publicationDate": "2026-08-17",
+        "category": "Defense",
+        "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+        "publicationDate": "2026-08-17",
+        "category": "Defense",
+        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
         "source": "NPR Politics",
         "title": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
@@ -68,13 +95,13 @@
         "title": "Fetterman warns of socialism's rise in the Democratic Party: 'This is lunacy'",
         "publicationDate": "2026-08-16",
         "category": "Campaign",
-        "summary": "Sen. John Fetterman (D-Pa.), who has bucked his party in recent years, warned against socialism’s rise in the Democratic Party in the wake of democratic socialists and insurgent progressives winning Democratic primaries. Fetterman, in a post on the social platform X, responded to a report on a poll from CBS News in which 58 percent...",
+        "summary": "Sen. John Fetterman (D-Pa.), who has bucked his party in recent years, warned against socialism’s rise in the Democratic Party in the wake of democratic socialists and insurgent progressives winning primaries. On social media, Fetterman responded to a report on a poll from CBS News in which 58 percent of Democratic respondents said their opinion...",
         "url": "https://thehill.com/homenews/campaign/6032418-fetterman-warns-socialism-rise/"
     },
     {
         "id": "https://thehill.com/policy/defense/6032392-trump-scales-back-us-south-korea-drills/",
         "source": "The Hill",
-        "title": "Trump directs Hegseth to reduce U.S. joint exercises in South Korea",
+        "title": "Trump directs Hegseth to reduce US joint exercises in South Korea",
         "publicationDate": "2026-08-16",
         "category": "Defense",
         "summary": "President Trump said Sunday he told Defense Secretary Pete Hegseth to “substantially reduce” the joint military exercises with South Korea. Trump wrote in a Truth Social post that he’s “not happy with the fact that the United States has, long ago, agreed to participate” in these joint military exercises. He also noted that South Korea...",
@@ -106,15 +133,6 @@
         "category": "Healthcare",
         "summary": "Kentucky Gov. Andy Beshear (D) on Sunday said he has \"heard absolutely nothing back from\" Sen. Mitch McConnell (R-Ky.) after requesting updates on his health following the GOP senator's weeks-long hospitalization. Beshear, a potential 2028 Democratic presidential contender, made the admission during his Sunday appearance on CBS News's \"Face the Nation.\" The Kentucky governor added...",
         "url": "https://thehill.com/homenews/senate/6032276-beshear-mitch-mcconnell-health-silence/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
-        "source": "New York Times Politics",
-        "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
-        "publicationDate": "2026-08-16",
-        "category": "Defense",
-        "summary": "In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.",
-        "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html",
@@ -153,15 +171,6 @@
         "url": "https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
-        "source": "Washington Post Politics",
-        "title": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
-        "publicationDate": "2026-08-16",
-        "category": "Defense",
-        "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/08/15/navy-weighs-major-warship-redesign-match-trumps-preferences/",
         "source": "Washington Post Politics",
         "title": "Navy weighs major warship redesign to match Trump’s preferences",
@@ -196,15 +205,6 @@
         "category": "Other",
         "summary": "As the midterms near, Democrats are proposing adding more justices, limiting their terms and more.",
         "url": "https://www.washingtonpost.com/politics/2026/08/16/democrats-are-proposing-adding-supreme-court-justices-limiting-their-terms/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-        "publicationDate": "2026-08-16",
-        "category": "Defense",
-        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
