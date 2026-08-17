@@ -9,15 +9,6 @@
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13289/IF13289.1.pdf"
     },
     {
-        "id": "LSB11471",
-        "source": "Congressional Research Service",
-        "title": "The Reporter’s Privilege and Government Employee Confidential Sources",
-        "publicationDate": "2026-08-17",
-        "category": "Defense",
-        "summary": "In the course of gathering news, journalists frequently rely on confidential sources. Prosecutors or parties in civil litigation may seek to compel reporters to reveal these confidential sources through subpoenas for testimony or documents. Reporters have at times argued that such requests violate their First Amendment rights by burdening the news gathering and reporting process. The Supreme Court has addressed...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11471/LSB11471.1.pdf"
-    },
-    {
         "id": "R47211",
         "source": "Congressional Research Service",
         "title": "Criminal Justice Data: Human Trafficking",
@@ -25,6 +16,15 @@
         "category": "Healthcare",
         "summary": "Human traffickers exploit vulnerable individuals for commercial sex and forced labor in a variety of legal and illegal industries, both across the United States and around the world. While some estimates of the incidence of human trafficking exist, comprehensive data on human trafficking within the United States are not available. Criminal Justice Data One method for understanding the extent and nature of a...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R47211/R47211.6.pdf"
+    },
+    {
+        "id": "LSB11471",
+        "source": "Congressional Research Service",
+        "title": "The Reporter’s Privilege and Government Employee Confidential Sources",
+        "publicationDate": "2026-08-17",
+        "category": "Defense",
+        "summary": "In the course of gathering news, journalists frequently rely on confidential sources. Prosecutors or parties in civil litigation may seek to compel reporters to reveal these confidential sources through subpoenas for testimony or documents. Reporters have at times argued that such requests violate their First Amendment rights by burdening the news gathering and reporting process. The Supreme Court has addressed...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11471/LSB11471.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5043-1.html",
@@ -135,6 +135,15 @@
         "url": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/more-ultrawealthy-in-trumps-administration-than-previous-three-presidents-combined-report-shows",
+        "source": "PBS NewsHour Politics",
+        "title": "More ultrawealthy in Trump's administration than those in previous 3 presidents combined, report shows",
+        "publicationDate": "2026-08-17",
+        "category": "billionaires",
+        "summary": "In all, 57 Trump officials are worth at least $100 million, including 17 ambassadors and the remaining 40 in senior posts across the executive branch.",
+        "url": "https://www.pbs.org/newshour/politics/more-ultrawealthy-in-trumps-administration-than-previous-three-presidents-combined-report-shows"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/supreme-court-again-denies-trumps-push-to-toss-out-5-million-verdict-in-e-jean-carroll-case",
         "source": "PBS NewsHour Politics",
         "title": "Supreme Court again denies Trump's push to toss out $5 million verdict in E. Jean Carroll case",
@@ -144,49 +153,49 @@
         "url": "https://www.pbs.org/newshour/politics/supreme-court-again-denies-trumps-push-to-toss-out-5-million-verdict-in-e-jean-carroll-case"
     },
     {
-        "id": "https://thehill.com/homenews/house/6033352-ocasio-cortez-egg-freezing-no-regrets/",
+        "id": "https://thehill.com/homenews/house/6033444-gop-rep-bacon-concerns-missile-shortage/",
         "source": "The Hill",
-        "title": "Ocasio-Cortez: No regrets over decision to publicize freezing eggs",
+        "title": "Bacon concerned about Trump not being 'aware' of missile shortage",
         "publicationDate": "2026-08-17",
         "category": "House",
-        "summary": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Saturday she has no regrets about publicizing her decision to freeze her eggs. “One question that I received earlier is: Do I regret coming out publicly about this due to all of the political negativity and the larger political context, and especially this idea that for me, I'm quite young...",
-        "url": "https://thehill.com/homenews/house/6033352-ocasio-cortez-egg-freezing-no-regrets/"
+        "summary": "GOP Rep. Don Bacon (Neb.) said Sunday he was “concerned” about President Trump saying he is not aware of the Pentagon’s missile shortage. “I do have concerns that the president said he was not aware that we had a shortage of weapons like cruise missiles and Patriots. That's not a good … thing,” Bacon told...",
+        "url": "https://thehill.com/homenews/house/6033444-gop-rep-bacon-concerns-missile-shortage/"
     },
     {
-        "id": "https://thehill.com/opinion/education/6032624-accounting-stem-pursuit-act/",
+        "id": "https://thehill.com/opinion/robbys-radar/6033509-wilson-owens-kirk-debate/",
         "source": "The Hill",
-        "title": "Accounting belongs in K-12 STEM education",
+        "title": "Candace Owens destroyed by Andrew Wilson in Charlie Kirk debate",
         "publicationDate": "2026-08-17",
-        "category": "Opinions - Education",
-        "summary": "Bipartisan congressional efforts like the Accounting STEM Pursuit Act aim to address the national accountant shortage by expanding federal grant eligibility to include accounting education.",
-        "url": "https://thehill.com/opinion/education/6032624-accounting-stem-pursuit-act/"
+        "category": "Opinions - Robby's Radar",
+        "summary": "I watched the Candace Owens and Andrew Wilson debate about who killed Charlie Kirk so that you don’t have to.",
+        "url": "https://thehill.com/opinion/robbys-radar/6033509-wilson-owens-kirk-debate/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6033325-blanche-trump-white-house-ballroom-congress/",
+        "id": "https://thehill.com/policy/healthcare/6030750-trump-mmr-vaccine-executive-order/",
         "source": "The Hill",
-        "title": "Blanche: Congress has already approved White House ballroom project",
+        "title": "Drugmakers uninterested in Trump's order to split up MMR vaccine",
         "publicationDate": "2026-08-17",
-        "category": "Administration",
-        "summary": "Attorney General Todd Blanche on Sunday said the Department of Justice believes Congress has already granted President Trump the authority to construct the White House ballroom under existing presidential authority. “We don't believe we have to go to Congress. We believe Congress has already given us the authority to do what we're doing,” Blanche said...",
-        "url": "https://thehill.com/homenews/administration/6033325-blanche-trump-white-house-ballroom-congress/"
+        "category": "Healthcare",
+        "summary": "President Trump's executive order recommending that the measles, mumps and rubella (MMR) vaccine be split up across three different appointments is drawing poor reception from the pharmaceutical industry as drugmakers and trade groups say there's no scientific reasoning to follow the directive. The administration did not provide any new scientific data to support splitting up...",
+        "url": "https://thehill.com/policy/healthcare/6030750-trump-mmr-vaccine-executive-order/"
     },
     {
-        "id": "https://thehill.com/homenews/6033332-senators-demand-uss-abraham-lincoln-info/",
+        "id": "https://thehill.com/homenews/administration/6032771-trump-threatens-oman-bombing/",
         "source": "The Hill",
-        "title": "Democratic lawmakers demands answers from Hegseth on USS Abraham Lincoln",
+        "title": "Live updates: Trump threatens Oman as US-Iran deal hits deadline; Kushner meets Netanyahu on Gaza",
         "publicationDate": "2026-08-17",
-        "category": "Defense",
-        "summary": "A group of 15 senators said Defense Secretary Pete Hegseth owes Americans answers about the ongoing deployment of the USS Abraham Lincoln aircraft carrier strike group after reports of low morale and a mental health crisis among service members aboard. In an Aug. 15 letter to Hegseth, signed by all 13 members of the Senate...",
-        "url": "https://thehill.com/homenews/6033332-senators-demand-uss-abraham-lincoln-info/"
+        "category": "Foreign Policy",
+        "summary": "President Trump said Monday morning he would bomb Oman if it \"gets in the way\" of a conflict between the U.S. and Iran. The nations on either side of the Strait of Hormuz have been negotiating over reopening the waterway. In a call with Fox News on the same day that the two-month memorandum of...",
+        "url": "https://thehill.com/homenews/administration/6032771-trump-threatens-oman-bombing/"
     },
     {
-        "id": "https://thehill.com/policy/energy-environment/6033231-lake-powell-record-low/",
+        "id": "https://thehill.com/homenews/state-watch/6033253-la-street-takeover-thieves-ransack-liquor-store-california/",
         "source": "The Hill",
-        "title": "Lake Powell, second-largest reservoir in US, hits record-low water level",
+        "title": "LA street takeover acts as cover while thieves ransack liquor store",
         "publicationDate": "2026-08-17",
-        "category": "Energy & Environment",
-        "summary": "The water level at Lake Powell on the Colorado River, the second-largest reservoir in the country, has dipped to a record low. The lake’s elevation was 3,519.8 feet as of Sunday, according to data from the U.S. Bureau of Reclamation (USBR). The Associated Press reported Sunday that Lake Powell’s water level on Saturday surpassed its...",
-        "url": "https://thehill.com/policy/energy-environment/6033231-lake-powell-record-low/"
+        "category": "State Watch",
+        "summary": "Dozens of people ransacked a Bellflower, California, business early Saturday while a massive street takeover clogged a nearby intersection, authorities said.",
+        "url": "https://thehill.com/homenews/state-watch/6033253-la-street-takeover-thieves-ransack-liquor-store-california/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html",
@@ -281,20 +290,11 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
         "publicationDate": "2026-08-17",
         "category": "Foreign Policy",
-        "summary": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran.",
+        "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
         "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "publicationDate": "2026-08-17",
-        "category": "Defense",
-        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
@@ -306,13 +306,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
         "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
-        "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss"
+        "category": "Defense",
+        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Russia's prominent anti-war politician jailed for 11 years",
+        "publicationDate": "2026-08-17",
+        "category": "Defense",
+        "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
@@ -324,13 +333,40 @@
         "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595",
+        "id": "https://www.ft.com/content/71a498fa-4ce7-4c0b-ab14-7b7f46b2b9c6?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake",
+        "publicationDate": "2026-08-17",
+        "category": "Other",
+        "summary": "Negotiations come amid clashes over strategy and as Walter’s business empire faces scrutiny from regulators",
+        "url": "https://www.ft.com/content/71a498fa-4ce7-4c0b-ab14-7b7f46b2b9c6?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a53ad482-510e-4855-90f3-b9f2bf7f6aac",
+        "source": "Financial Times World",
+        "title": "Crime and punishment in the Middle East",
+        "publicationDate": "2026-08-17",
+        "category": "Other",
+        "summary": "Lebanon and Syria are trying to improve the application of justice but challenges remain",
+        "url": "https://www.ft.com/content/a53ad482-510e-4855-90f3-b9f2bf7f6aac"
+    },
+    {
+        "id": "https://www.ft.com/content/a1b720e3-e1e6-4a13-bdb0-9cc27399ceb4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Russia fires economist over Ukraine war warning",
+        "publicationDate": "2026-08-17",
+        "category": "Foreign Policy",
+        "summary": "Andrei Klepach dismissed after bleak remarks about economic toll of conflict",
+        "url": "https://www.ft.com/content/a1b720e3-e1e6-4a13-bdb0-9cc27399ceb4?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Seoul rattled by threat to drills at heart of US-Korean alliance",
         "publicationDate": "2026-08-17",
         "category": "Other",
         "summary": "Donald Trump’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally",
-        "url": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595"
+        "url": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/9472e6dd-7b51-48e9-91fa-1f59412e0093?syn-25a6b1a6=1",
@@ -340,33 +376,6 @@
         "category": "Healthcare",
         "summary": "World Health Organization warns country has entered ‘intense transmission’ phase of the virus",
         "url": "https://www.ft.com/content/9472e6dd-7b51-48e9-91fa-1f59412e0093?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Kushner holds talks with Netanyahu after meeting Hamas leader",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza",
-        "url": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US tech stock correction likely, warn ECB economists",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Boom-bust pattern could become ‘question of financial stability’ for euro area, central bank team writes in blog post",
-        "url": "https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The realignment of the Middle East",
-        "publicationDate": "2026-08-17",
-        "category": "Foreign Policy",
-        "summary": "Iran conflict is reshaping alliances in a way neither America nor Israel foresaw",
-        "url": "https://www.ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
@@ -421,15 +430,6 @@
         "category": "Other",
         "summary": "Elections for the Palestinian Legislative Council (PLC) are scheduled to take place on 28 November 2026 in the West Bank, East Jerusalem, and the Gaza Strip. The registration of electoral lists – which represent a party, coalition of parties, or a group of voters – is taking place between 15-19 August. Full candidacy details for […]",
         "url": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/democrats-2028-presidential-calendar-gives-black-and-latino-voters-and-union-members-an-early-say",
-        "source": "PBS NewsHour Politics",
-        "title": "Democrats' 2028 presidential calendar gives Black and Latino voters and union members an early say",
-        "publicationDate": "2026-08-15",
-        "category": "democratic national committee",
-        "summary": "The primary lineup pushes Iowa from the traditional top spot and makes South Carolina the leadoff state, voting on Jan. 22, 2028, followed by Nevada on Feb. 1.",
-        "url": "https://www.pbs.org/newshour/politics/democrats-2028-presidential-calendar-gives-black-and-latino-voters-and-union-members-an-early-say"
     },
     {
         "id": "https://www.hudson.org/events/twenty-times-i-almost-died-lessons-life-war",
