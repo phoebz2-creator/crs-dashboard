@@ -104,7 +104,7 @@
         "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
         "publicationDate": "2026-08-18",
         "category": "Other",
-        "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+        "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
         "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -126,6 +126,33 @@
         "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: Asian doubts over US resolve",
+        "publicationDate": "2026-08-18",
+        "category": "Foreign Policy",
+        "summary": "Also in today’s newsletter: TCI bets on Italian luxury hotels and Russia fires top economist",
+        "url": "https://www.ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "China’s 10-year bond yield falls to 13-month low",
+        "publicationDate": "2026-08-18",
+        "category": "Economy",
+        "summary": "Weak economic growth pushes investors into sovereign debt",
+        "url": "https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "AI: like a debt machine",
+        "publicationDate": "2026-08-18",
+        "category": "Economy",
+        "summary": "Credit (and rates) markets reel from rise and rise of hyperscaler issuance",
+        "url": "https://www.ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Seoul rattled by Trump’s threat to drills at heart of US alliance",
@@ -142,33 +169,6 @@
         "category": "Other",
         "summary": "A scandal engulfing the billionaire’s insurers has the private capital industry on alert",
         "url": "https://www.ft.com/content/ba3782d6-709b-472c-aa02-e0ffb1c89d87?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1d713822-e68f-4476-be94-ffab3418bfe4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump’s cuts to South Korean drills stir doubts about US resolve in Asia",
-        "publicationDate": "2026-08-18",
-        "category": "Foreign Policy",
-        "summary": "Decision comes as Pentagon pulls ships from Indo-Pacific to Middle East and Iran war depletes weapons stockpiles",
-        "url": "https://www.ft.com/content/1d713822-e68f-4476-be94-ffab3418bfe4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/418e0159-d2d1-4432-a7b3-de0cc446ef08?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK examines economic hit from loss of access to frontier AI models",
-        "publicationDate": "2026-08-18",
-        "category": "Foreign Policy",
-        "summary": "Urgent assessment comes after Donald Trump blocked foreign national access to Anthropic’s Fable 5",
-        "url": "https://www.ft.com/content/418e0159-d2d1-4432-a7b3-de0cc446ef08?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/748b1e8c-63f4-4eca-8103-d9d148cac00c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham faces EU clash over youth scheme as summit looms",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "Ireland’s European affairs minister says ‘a lot of work still to do’",
-        "url": "https://www.ft.com/content/748b1e8c-63f4-4eca-8103-d9d148cac00c?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5043-1.html",
@@ -443,7 +443,7 @@
     {
         "id": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "BBC breaks down Trump's latest shift on North and South Korea",
+        "title": "Watch: Why has Trump shifted on North Korea?",
         "publicationDate": "2026-08-17",
         "category": "Defense",
         "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
