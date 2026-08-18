@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4999-1.html",
+        "source": "RAND Corporation",
+        "title": "Building a Defense-in-Depth Biosecurity Strategy for the AI Era",
+        "publicationDate": "2026-08-18",
+        "category": "Defense",
+        "summary": "The authors develop a layered mitigation strategy for responding to the threat of misusing artificial intelligence–enabled biology. They examine mitigations’ strengths and weaknesses, describe areas of mutual reinforcement, and propose next steps.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4999-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA5083-1.html",
+        "source": "RAND Corporation",
+        "title": "Personal Protective Equipment Prioritization and Demand",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "This report presents an occupation-based framework to estimate vital workforce size and personal protective equipment demand during a pandemic. An interactive dashboard supports scenario-based planning at the national, state, and regional levels.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5083-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/podcasts/spillover/the-u-s-is-good-at-building-ai-but-bad-at-using-it",
+        "source": "Council on Foreign Relations",
+        "title": "The U.S. Is Good at Building AI, but Bad at Using It.",
+        "publicationDate": "2026-08-18",
+        "category": "Defense",
+        "summary": "This week on The Spillover, Rebecca Patterson and Sebastian Mallaby weigh the competitors in the global artificial intelligence race, drawing on Patterson’s new chapter for the book Geopolitics of AI. Patterson opens with a deliberately provocative stance: “I think it’s premature to assume that the U.S. will be the world’s AI economic winner. I also […]",
+        "url": "https://www.cfr.org/podcasts/spillover/the-u-s-is-good-at-building-ai-but-bad-at-using-it"
+    },
+    {
         "id": "https://www.cfr.org/articles/is-the-trump-tinubu-collaboration-working",
         "source": "Council on Foreign Relations",
         "title": "Is the Trump-Tinubu Collaboration Working?",
@@ -27,49 +54,49 @@
         "url": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers"
     },
     {
-        "id": "https://thehill.com/opinion/judiciary/6033438-supreme-court-white-house-project/",
+        "id": "https://thehill.com/business/6034243-americas-10-hottest-zip-codes-in-2026/",
         "source": "The Hill",
-        "title": "Trump's ballroom is no 'monument' — it's an abuse of constitutional power",
+        "title": "America's 10 hottest ZIP codes in 2026",
         "publicationDate": "2026-08-18",
-        "category": "Opinions - Judiciary",
-        "summary": "“National security” is Trump’s key to the Supreme Court safe when he wants to justify executive overreach.",
-        "url": "https://thehill.com/opinion/judiciary/6033438-supreme-court-white-house-project/"
+        "category": "Business",
+        "summary": "New rankings: Coveted ZIP codes are in the Northeast and Midwest.",
+        "url": "https://thehill.com/business/6034243-americas-10-hottest-zip-codes-in-2026/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6034618-doj-gun-rights-restoration-felons/",
+        "id": "https://thehill.com/homenews/campaign/6034754-joe-manchin-elections-open-primaries/",
         "source": "The Hill",
-        "title": "DOJ moves to restore gun rights for some convicted of felonies",
+        "title": "Manchin calls for change in elections: 'There's no competition'",
         "publicationDate": "2026-08-18",
-        "category": "Defense",
-        "summary": "The Justice Department (DOJ) has finalized a way for people convicted of certain, nonviolent felonies to restore their gun rights, Attorney General Todd Blanche announced on Monday. It’s a move that will placate gun rights advocates who’ve been at odds with the administration over its continued defense of federal firearm restrictions. “The Second Amendment is not a...",
-        "url": "https://thehill.com/regulation/court-battles/6034618-doj-gun-rights-restoration-felons/"
+        "category": "Campaign",
+        "summary": "Former Sen. Joe Manchin (I-W.Va.) on Monday pushed for a change in American elections, advocating for more competition. He cited the 2024 election, remarking to NewsNation's Elizabeth Vargas, “all we ever heard reported about was the seven battleground states.” “Forty-three were predetermined. Four hundred and thirty-five congressional districts in the United States of America, 395...",
+        "url": "https://thehill.com/homenews/campaign/6034754-joe-manchin-elections-open-primaries/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6034619-jon-ossoff-georgia-democrat-2028-ambitions/",
+        "id": "https://thehill.com/opinion/finance/6034392-federal-debt-hits-39-trillion/",
         "source": "The Hill",
-        "title": "Ossoff: 'Zero interest' in running for president in 2028",
+        "title": "The age of big-spending Republicans is here",
         "publicationDate": "2026-08-18",
-        "category": "Senate",
-        "summary": "Sen. Jon Ossoff (D-Ga.), who has been floated as a potential 2028 presidential candidate, threw cold water on the idea in an interview Monday. “I have zero interest in running for president in 2028, and, frankly, zero interest in the 2028 fantasy football right now,” Ossoff told MS NOW’s Jen Psaki, doubling down on comments...",
-        "url": "https://thehill.com/homenews/senate/6034619-jon-ossoff-georgia-democrat-2028-ambitions/"
+        "category": "Economy",
+        "summary": "While Republicans once prioritized fiscal responsibility, current trends show rising federal deficits under both Democratic and Republican administrations, even as new economic pressures emerge.",
+        "url": "https://thehill.com/opinion/finance/6034392-federal-debt-hits-39-trillion/"
     },
     {
-        "id": "https://thehill.com/opinion/energy-environment/5981654-repeal-california-port-regulations/",
+        "id": "https://thehill.com/policy/energy-environment/6033834-gas-prices-are-rising-but-drivers-using-this-type-of-fuel-have-it-worse/",
         "source": "The Hill",
-        "title": "If Trump wants to lower costs, he should override this California port rule",
+        "title": "Gas prices are rising, but drivers using this type of fuel have it worse",
         "publicationDate": "2026-08-18",
-        "category": "Opinions - Energy and Environment",
-        "summary": "If Trump wants to lower costs for consumers, repealing this Environmental Protection Agency waiver for California should be an immediate priority.",
-        "url": "https://thehill.com/opinion/energy-environment/5981654-repeal-california-port-regulations/"
+        "category": "Energy & Environment",
+        "summary": "Some drivers are paying nearly $7 for a gallon of fuel.",
+        "url": "https://thehill.com/policy/energy-environment/6033834-gas-prices-are-rising-but-drivers-using-this-type-of-fuel-have-it-worse/"
     },
     {
-        "id": "https://thehill.com/newsletters/the-movement/6034223-trump-populist-politics-free-market-economics/",
+        "id": "https://thehill.com/homenews/administration/6034751-trump-posts-map-labeling-strait-of-hormuz-as-us-territory/",
         "source": "The Hill",
-        "title": "The Movement: Is the era of small government over?",
+        "title": "Trump posts map labeling Strait of Hormuz as US territory",
         "publicationDate": "2026-08-18",
-        "category": "The Movement",
-        "summary": "Americans who want the government to stay out of companies’ way are increasingly politically homeless. Republicans have been the party of small government and big business for decades. But in the last few years, President Trump and the concentric circles of Republicans around him have ushered in a new populist politics that, critics say, has more in...",
-        "url": "https://thehill.com/newsletters/the-movement/6034223-trump-populist-politics-free-market-economics/"
+        "category": "Administration",
+        "summary": "President Trump posted an image of a map labeling the Strait of Hormuz as a U.S. territory early on Tuesday in an apparent effort to double down on his calls to annex the waterway. The map, which Trump posted on his Truth Social account, labels the waterway as a “new U.S. territory.” The Strait of...",
+        "url": "https://thehill.com/homenews/administration/6034751-trump-posts-map-labeling-strait-of-hormuz-as-us-territory/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
@@ -110,7 +137,7 @@
     {
         "id": "https://www.nytimes.com/2026/08/18/us/politics/wwii-memorial-vandalism-trump-pirro.html",
         "source": "New York Times Politics",
-        "title": "Judge Orders Release of Woman Accused of Vandalizing World War II Memorial",
+        "title": "Pirro Challenges Release of Woman Accused of Vandalizing World War II Memorial",
         "publicationDate": "2026-08-18",
         "category": "Vandalism",
         "summary": "Prosecutors led by Jeanine Pirro, the U.S. attorney in Washington, argued that Melissa Farris posed a flight risk and asked the court to reverse its decision.",
@@ -200,56 +227,56 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Hayden Panettiere's ex Volodymyr Klitschko says family in 'profound shock and grief'",
+        "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
         "publicationDate": "2026-08-18",
         "category": "Other",
         "summary": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
         "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/be40ad57-a847-43a3-8ade-9282914b965e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The Treasury can’t avoid the BoE’s losses",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "Suspending cash transfers to the central bank will not alleviate UK fiscal pressures",
-        "url": "https://www.ft.com/content/be40ad57-a847-43a3-8ade-9282914b965e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/9eccad94-56f5-4adf-aa61-c39e2e542226?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "OpenAI limits teens to dedicated version of ChatGPT promising more safeguards",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "AI start-up overhauls its chatbot for young people after high-profile lawsuits",
-        "url": "https://www.ft.com/content/9eccad94-56f5-4adf-aa61-c39e2e542226?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "AI phobia is America’s new consensus",
-        "publicationDate": "2026-08-18",
-        "category": "Technology",
-        "summary": "Trump is uncharacteristically deaf to voter fears over the technology",
-        "url": "https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Global bond sell-off deepens",
-        "publicationDate": "2026-08-18",
-        "category": "Defense",
-        "summary": "Also in today’s newsletter: US military pullback raises questions in Asia, and a ray of hope for the drinks industry",
-        "url": "https://www.ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Global bond sell-off deepens amid fears over inflation and AI issuance",
+        "title": "Global bond sell-off deepens",
         "publicationDate": "2026-08-18",
         "category": "Economy",
-        "summary": "Long-term government borrowing costs hit multi-decade highs",
+        "summary": "Fears over inflation and AI issuance drive long-term government borrowing costs to multi-decade highs",
         "url": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f30010b5-a702-4fdd-914e-44c69d37814a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Signature Group founder banned as company director for five years",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "Property group subsidiary ‘distributed false and misleading marketing material’ according to Insolvency Service",
+        "url": "https://www.ft.com/content/f30010b5-a702-4fdd-914e-44c69d37814a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/c61e12bb-2ff1-4862-9217-38bdada90ecc?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Disney sues Trump administration over ‘retaliatory’ ABC licence review",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "US media giant accuses Federal Communications Commission of cracking down because it ‘disapproves’ of its broadcasts",
+        "url": "https://www.ft.com/content/c61e12bb-2ff1-4862-9217-38bdada90ecc?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/09e23587-1b06-45b3-ad19-1e5d1ec9d7de?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Canada makes final attempt to avoid US tariffs on $20bn of goods",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "Also in today’s newsletter, how are voters reacting to a string of progressive candidates’ primary victories?",
+        "url": "https://www.ft.com/content/09e23587-1b06-45b3-ad19-1e5d1ec9d7de?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/4e58775a-4c71-4945-895a-5dc31306ddd6?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Reform UK suspends Tory defector Tim Montgomerie after criticism of Nigel Farage",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "Board member called out party leader last week for failing to appear at Clacton by-election count",
+        "url": "https://www.ft.com/content/4e58775a-4c71-4945-895a-5dc31306ddd6?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5043-1.html",
@@ -495,13 +522,13 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49189/R49189.2.pdf"
     },
     {
-        "id": "R49188",
+        "id": "R49187",
         "source": "Congressional Research Service",
-        "title": "Ecuador in Brief: Overview and U.S. Relations",
+        "title": "African Growth and Opportunity Act (AGOA)",
         "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "Ecuador is an ethnically and geographically diverse country of 18.1 million people, encompassing parts of South America’s Pacific coast, Amazon basin, and Andean highlands. Following a period of bilateral tensions under former President Rafael Correa (2006-2017), U.S.-Ecuador ties have strengthened, including under current President Daniel Noboa (2023-present) of the right-leaning National Democratic Action...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49188/R49188.2.pdf"
+        "category": "Foreign Policy",
+        "summary": "The African Growth and Opportunity Act (AGOA) is a key pillar of U.S. trade policy with sub-Saharan Africa (SSA). Congress enacted AGOA as part of the Trade and Development Act of 2000 (Title I of P.L. 106-200, as amended). AGOA is a nonreciprocal U.S. trade preference program providing duty-free access for most U.S. imports of goods from eligible countries in SSA. Under the act, the President may designate up to...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49187/R49187.3.pdf"
     },
     {
         "id": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/",
@@ -567,15 +594,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5185-1.html"
     },
     {
-        "id": "https://www.cfr.org/articles/leaders-medical-secrecy-harms-public-trust",
-        "source": "Council on Foreign Relations",
-        "title": "Leaders’ Medical Secrecy Harms Public Trust",
-        "publicationDate": "2026-08-12",
-        "category": "Article",
-        "summary": "Long, mysterious absences promote the idea that unaccountable forces are at the levers of power.",
-        "url": "https://www.cfr.org/articles/leaders-medical-secrecy-harms-public-trust"
-    },
-    {
         "id": "https://www.heritage.org/defense/report/maritime-legislation-explainer-and-next-steps",
         "source": "Heritage Foundation",
         "title": "Maritime Legislation: Explainer and Next Steps",
@@ -601,24 +619,6 @@
         "category": "Economy",
         "summary": "Established in 2005 to “reduce dependence on foreign sources of petroleum, increase domestic sources of energy, and help us make progress in moving beyond a petroleum-based economy,” the Renewable Fuel Standard has failed to deliver on each of these promises. As a result, the RFS remains one of the nation’s most expensive and misguided energy policies. Dependence on foreign energy sources While the program has...",
         "url": "https://www.heritage.org/energy/commentary/proposed-farm-bill-changes-dont-solve-the-fundamental-problems-the-renewable-fuel"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
-        "source": "RAND Corporation",
-        "title": "Testing Large Language Model Agents on the Use of Biological Tools for Nucleic Acid Synthesis Screening Evasion",
-        "publicationDate": "2026-08-11",
-        "category": "Other",
-        "summary": "Large language model agents demonstrate an emerging ability to use biological tools to redesign peptides and proteins for nucleic acid synthesis screening evasion, indicating that agents could lower expertise barriers for hazardous capabilities.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4741-2.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA3510-3.html",
-        "source": "RAND Corporation",
-        "title": "Defense Requirements Planning in Comparative Organizations",
-        "publicationDate": "2026-08-11",
-        "category": "Defense",
-        "summary": "The authors examine the defense requirements processes of China, Russia, Australia, and the United Kingdom to better understand these systems, draw comparisons, and leverage potential practices for the U.S. Department of War.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA3510-3.html"
     },
     {
         "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
