@@ -1,12 +1,12 @@
 [
     {
-        "id": "IN11701",
+        "id": "IF12990",
         "source": "Congressional Research Service",
-        "title": "Occupational Safety and Health Administration (OSHA) Regulation of Employee Exposure to Heat",
+        "title": "U.S.-China Tariff Actions Since 2018: An Overview",
         "publicationDate": "2026-08-18",
-        "category": "Healthcare",
-        "summary": "Employees who work outdoors, including those in industries such as construction and agriculture, may be exposed to extreme heat conditions. Similarly, certain indoor work locations—such as bakeries, warehouses, and steel mills—may also expose employees to unsafe heat levels. The lead federal agency that regulates worker safety and health, the Occupational Safety and Health Administration (OSHA), does not have any...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN11701/IN11701.10.pdf"
+        "category": "Foreign Policy",
+        "summary": "Since 2018, the U.S. government has imposed a series of tariffs on imports from the People’s Republic of China (PRC, or China) with the stated intention of addressing U.S. concerns about PRC trade practices and foreign policies. Since 2025, the Trump Administration’s trade policy and tariff actions have maintained a focus on China, among other countries. Some actions explicitly target China; others involve sectors...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12990/IF12990.14.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4999-1.html",
@@ -47,7 +47,7 @@
     {
         "id": "https://www.cfr.org/podcasts/spillover/the-u-s-is-good-at-building-ai-but-bad-at-using-it",
         "source": "Council on Foreign Relations",
-        "title": "The U.S. Is Good at Building AI, but Bad at Using It.",
+        "title": "The U.S. Is Good at Building AI, but Bad at Using It",
         "publicationDate": "2026-08-18",
         "category": "Defense",
         "summary": "This week on The Spillover, Rebecca Patterson and Sebastian Mallaby weigh the competitors in the global artificial intelligence race, drawing on Patterson’s new chapter for the book Geopolitics of AI. Patterson opens with a deliberately provocative stance: “I think it’s premature to assume that the U.S. will be the world’s AI economic winner. I also […]",
@@ -124,6 +124,24 @@
         "category": "Defense",
         "summary": "The Chinese Communist Party Must Answer for the Wuhan Abomination bbert@hudson.org Tue, 08/18/2026 - 11:51 SVG Commentary Aug 18, 2026 The Chinese Communist Party Must Answer for the Wuhan Abomination It bears direct responsibility for the deadly virus’s outbreak. Miles Yu Senior Fellow and Director, China Center Miles Yu Commentary Caption Laboratory technicians work on samples to be tested for the COVID-19...",
         "url": "https://www.hudson.org/foreign-policy/chinese-communist-party-must-answer-wuhan-abomination-miles-yu"
+    },
+    {
+        "id": "https://cms.hoover.org/research/how-defend-taiwan-and-prevent-war-china",
+        "source": "Hoover Institution",
+        "title": "How To Defend Taiwan And Prevent War With China",
+        "publicationDate": "2026-08-18",
+        "category": "Defense",
+        "summary": "Taiwan is the most urgent test of whether the United States and its allies can deter China and preserve peace in the Indo-Pacific. Beijing is increasing pressure on Taiwan while exploiting gaps in allied coordination across military, economic, and political policy.",
+        "url": "https://cms.hoover.org/research/how-defend-taiwan-and-prevent-war-china"
+    },
+    {
+        "id": "https://cms.hoover.org/research/noble-failure-russias-liberal-reformers",
+        "source": "Hoover Institution",
+        "title": "The Noble Failure Of Russia’s Liberal reformers",
+        "publicationDate": "2026-08-18",
+        "category": "Foreign Policy",
+        "summary": "Russia’s rapid economic decline in the 1990s was the result of too little, rather than too much, ‘shock therapy’.",
+        "url": "https://cms.hoover.org/research/noble-failure-russias-liberal-reformers"
     },
     {
         "id": "https://cms.hoover.org/plus/research/how-defend-taiwan-and-prevent-war-china",
@@ -225,49 +243,67 @@
         "url": "https://www.pbs.org/newshour/nation/abc-sues-fcc-over-challenge-to-broadcast-licenses"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6036497-white-house-slams-ossoff/",
+        "id": "https://thehill.com/newsletters/energy-environment/6036699-trump-administration-moves-to-open-up-logging-in-national-forests/",
         "source": "The Hill",
-        "title": "Ossoff battle with Trump, White House gets nasty",
+        "title": "Trump administration moves to open up logging in national forests",
+        "publicationDate": "2026-08-18",
+        "category": "Energy & Environment Newsletter",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump moves to open up logging in national forests The Trump administration on Tuesday moved to strip protections from 44 million acres of national forest. Jenny Kane, Associated Press file The U.S. Forest Service has proposed to rescind the 2001 “Roadless Rule,” which prohibits road...",
+        "url": "https://thehill.com/newsletters/energy-environment/6036699-trump-administration-moves-to-open-up-logging-in-national-forests/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6036415-sanders-stop-social-security-garnishment-bill/",
+        "source": "The Hill",
+        "title": "Sanders to introduce bill to end Social Security garnishment for student loan debt",
+        "publicationDate": "2026-08-18",
+        "category": "Economy",
+        "summary": "Sen. Bernie Sanders (I-Vt.) announced Monday he will introduce legislation seeking to prevent the federal government from garnishing Social Security benefits for seniors with unpaid student loan payments. The bill, titled the Stop Social Security Garnishment Act of 2026, proposes barring the Education Department from cutting an individual’s Social Security retirement or disability benefits to...",
+        "url": "https://thehill.com/homenews/senate/6036415-sanders-stop-social-security-garnishment-bill/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6036665-4-states-face-off-in-trial-against-meta/",
+        "source": "The Hill",
+        "title": "4 states face off in trial against Meta",
+        "publicationDate": "2026-08-18",
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story States square up against Meta in California trial A group of four states faced off against Meta in a high-profile trial in California on Tuesday, accusing the tech giant of hooking young users on its social media sites and misleading the public about the risks. Noah Berger, Associated...",
+        "url": "https://thehill.com/homenews/6036665-4-states-face-off-in-trial-against-meta/"
+    },
+    {
+        "id": "https://thehill.com/policy/energy-environment/6036645-court-upholds-forever-chemicals-designation/",
+        "source": "The Hill",
+        "title": "Court upholds EPA rule forcing polluters to pay for 'forever chemical' pollution",
+        "publicationDate": "2026-08-18",
+        "category": "Energy & Environment",
+        "summary": "An Environmental Protection Agency (EPA) rule putting polluters on the hook to clean up toxic “forever chemicals” was upheld in court on Tuesday despite an industry challenge. The rule in question formally designates two specific forever chemicals, called PFOA and PFOS, as “hazardous substances.” That gives the EPA more authority to investigate and clean up sites that...",
+        "url": "https://thehill.com/policy/energy-environment/6036645-court-upholds-forever-chemicals-designation/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6036584-us-canada-tariffs-deadline/",
+        "source": "The Hill",
+        "title": "Canada braces for 50 percent US tariffs amid last-minute talks",
         "publicationDate": "2026-08-18",
         "category": "Administration",
-        "summary": "The White House and Sen. Jon Ossoff are engaged in an increasingly nasty fight that intensified after the Georgia Democrat, a rising star in his party, invoked President Trump’s longtime aide Natalie Harp in his insults of the commander-in-chief. Ossoff ramped up the feud on Tuesday during a campaign event with Sen. Mark Kelly (D-Ariz.),...",
-        "url": "https://thehill.com/homenews/administration/6036497-white-house-slams-ossoff/"
+        "summary": "Canada is on guard Tuesday, bracing for the possibility that 50 percent U.S. tariffs will hit its exports to the United States without a trade truce before midnight. If no eleventh-hour deal is struck between the U.S. and Canada, Trump has threatened to impose 50 percent tariffs on a plethora of Canadian imports in response...",
+        "url": "https://thehill.com/homenews/administration/6036584-us-canada-tariffs-deadline/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6034642-live-updates-florida-alaska-primary-elections-meta-trial-trump-iran/",
-        "source": "The Hill",
-        "title": "Live updates: Florida, Alaska voters head to primary polls; Supreme Court urged to keep ballroom paused",
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/liberia-deportees.html",
+        "source": "New York Times Politics",
+        "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
         "publicationDate": "2026-08-18",
-        "category": "Administration",
-        "summary": "Florida voting concludes Tuesday in primary elections to pick candidates for November contests. The governor's mansion is up for grabs, along with a Senate seat and House races. Rep. Byron Donalds is favored to win the GOP nod for governor, though he faces challenges from Lt. Gov. Jay Collins, investment firm founder James Fishback and former...",
-        "url": "https://thehill.com/homenews/administration/6034642-live-updates-florida-alaska-primary-elections-meta-trial-trump-iran/"
+        "category": "United States Politics and Government",
+        "summary": "The arrangement is one of the largest known deals that the Trump administration has struck to expel migrants who cannot be sent back to their home countries.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/liberia-deportees.html"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6020775-live-results-florida-governor-primary/",
-        "source": "The Hill",
-        "title": "Live results: Candidates jockey to succeed DeSantis in Florida primary",
+        "id": "https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html",
+        "source": "New York Times Politics",
+        "title": "Court Blocks Road Through Izembek National Wildlife Refuge",
         "publicationDate": "2026-08-18",
-        "category": "Campaign",
-        "summary": "Republican Gov. Ron DeSantis is leaving the Florida governor's mansion in January, teeing up a fiery battle to succeed the term-limited state executive. Rep. Byron Donalds (R) leads the crowded GOP field and has notched President Trump's coveted endorsement. Democrat David Jolly, meanwhile, dominates the polls on the other side of the aisle. Polls close...",
-        "url": "https://thehill.com/homenews/campaign/6020775-live-results-florida-governor-primary/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6020765-live-results-alaska-senate-primary/",
-        "source": "The Hill",
-        "title": "Live results: Democrats eye flip in Alaska Senate race with primary underway",
-        "publicationDate": "2026-08-18",
-        "category": "Defense",
-        "summary": "Voters in Alaska are at the polls Tuesday to choose who will duke it out in one of the most closely watched Senate races this cycle. Sen. Dan Sullivan (R) is on defense as Democrats look to former Rep. Mary Peltola (D) to flip the seat. To further complicate matters, an Alaska Republican — also...",
-        "url": "https://thehill.com/homenews/campaign/6020765-live-results-alaska-senate-primary/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6032256-live-results-wyoming-senate-primary/",
-        "source": "The Hill",
-        "title": "Live results: Wyoming picks candidates to replace Cynthia Lummis",
-        "publicationDate": "2026-08-18",
-        "category": "Campaign",
-        "summary": "Wyoming voters head to the polls on Tuesday to select the Republican and Democratic candidates for the November election to replace retiring Sen. Cynthia Lummis (R-Wyo.). Wyoming's lone member of Congress, Rep. Harriet Hageman (R-Wyo.), is running to replace Lummis in the reliably-red Cowboy State. On her road to the upper chamber, she'll have to...",
-        "url": "https://thehill.com/homenews/campaign/6032256-live-results-wyoming-senate-primary/"
+        "category": "Izembek National Wildlife Refuge and Wilderness",
+        "summary": "A federal judge ruled that the Trump administration broke the law when it approved a deal to allow a road through the Izembek National Wildlife Refuge.",
+        "url": "https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
@@ -297,33 +333,6 @@
         "url": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/republicans-redistricting-wars"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html",
-        "source": "New York Times Politics",
-        "title": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
-        "publicationDate": "2026-08-18",
-        "category": "United States Politics and Government",
-        "summary": "President Trump is installing his allies in the offices of inspector general, which are meant to provide independent government oversight.",
-        "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/18/us/politics/judge-paint-eisenhower-building-trump.html",
-        "source": "New York Times Politics",
-        "title": "Judge Allows Limited Testing in Trump Plan to Paint Eisenhower Building White",
-        "publicationDate": "2026-08-18",
-        "category": "Decisions and Verdicts",
-        "summary": "A federal judge ruled that initial preparatory steps, including testing out paints on the building’s gray granite exterior, could proceed for now.",
-        "url": "https://www.nytimes.com/2026/08/18/us/politics/judge-paint-eisenhower-building-trump.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/",
-        "source": "Washington Post Politics",
-        "title": "Jill Stein, repeat Green Party candidate, faces assault charges in Missouri",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "Stein is facing misdemeanor charges of trespassing and assault over her role in a campus demonstration against the war in Gaza in 2024.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
-    },
-    {
         "id": "https://www.washingtonpost.com/education/2026/08/18/politics-behind-probes-antisemitism-ivy-league-schools-whistleblower-says/",
         "source": "Washington Post Politics",
         "title": "Politics drove antisemitism probes against Ivy League schools, DOJ whistleblower says",
@@ -333,31 +342,40 @@
         "url": "https://www.washingtonpost.com/education/2026/08/18/politics-behind-probes-antisemitism-ivy-league-schools-whistleblower-says/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/18/ballroom-opponents-ask-supreme-court-keep-trump-project-hold/",
+        "id": "https://www.washingtonpost.com/politics/2026/08/18/david-morens-pleads-guilty-defrauding-us-fauci-is-not-accused-wrongdoing-case/",
         "source": "Washington Post Politics",
-        "title": "Ballroom opponents ask Supreme Court to keep Trump project on hold",
+        "title": "Former Fauci aide admits hiding emails to thwart pandemic inquiry",
         "publicationDate": "2026-08-18",
         "category": "Other",
-        "summary": "The National Trust for Historic Preservation urged the high court to let a pause take effect. An appeals court ordered that the administration halt construction by Friday.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/18/ballroom-opponents-ask-supreme-court-keep-trump-project-hold/"
+        "summary": "David M. Morens, who pleaded guilty to conspiracy to defraud the United States, said he was trying to protect his boss. Fauci was not accused of wrongdoing in the case.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/18/david-morens-pleads-guilty-defrauding-us-fauci-is-not-accused-wrongdoing-case/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/18/what-know-about-natalie-harp-trump-aide-whom-ossoff-put-spotlight/",
+        "id": "https://www.washingtonpost.com/politics/2026/08/18/woman-who-planned-kill-treasury-secretary-bessent-gets-six-years/",
         "source": "Washington Post Politics",
-        "title": "What to know about Natalie Harp, the Trump aide whom Ossoff put in the spotlight",
+        "title": "Woman who planned to kill Treasury Secretary Bessent gets six years in prison",
         "publicationDate": "2026-08-18",
-        "category": "Foreign Policy",
-        "summary": "The president’s executive assistant was among a small group of people who secretly switched planes with Trump over a potential Iranian threat, as noted by Sen. Jon Ossoff.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/18/what-know-about-natalie-harp-trump-aide-whom-ossoff-put-spotlight/"
+        "category": "Other",
+        "summary": "Riley English of Massachusetts turned herself in after arriving at the Capitol with miniature molotov cocktails just before Scott Bessent’s Senate confirmation.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/18/woman-who-planned-kill-treasury-secretary-bessent-gets-six-years/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/18/divide-between-trump-vance-iran/",
+        "id": "https://www.washingtonpost.com/style/2026/08/18/workers-start-latest-repairs-reflecting-pool-liner/",
         "source": "Washington Post Politics",
-        "title": "The divide between Trump and Vance on Iran",
+        "title": "Workers start latest repairs to Reflecting Pool liner, months after rehab began",
         "publicationDate": "2026-08-18",
-        "category": "Foreign Policy",
-        "summary": "Trump and Vance had differing answers about why the United States is waging war with Iran.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/18/divide-between-trump-vance-iran/"
+        "category": "Other",
+        "summary": "The power washers, leaf blowers and brooms are back in use within the drained basin.",
+        "url": "https://www.washingtonpost.com/style/2026/08/18/workers-start-latest-repairs-reflecting-pool-liner/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/",
+        "source": "Washington Post Politics",
+        "title": "Jill Stein, repeat Green Party candidate, faces assault charges in Missouri",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "Stein is facing misdemeanor charges of trespassing and assault over her role in a campus demonstration against the war in Gaza in 2024.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
@@ -456,7 +474,7 @@
         "publicationDate": "2026-08-17",
         "category": "Healthcare",
         "summary": "Human traffickers exploit vulnerable individuals for commercial sex and forced labor in a variety of legal and illegal industries, both across the United States and around the world. While some estimates of the incidence of human trafficking exist, comprehensive data on human trafficking within the United States are not available. Criminal Justice Data One method for understanding the extent and nature of a...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47211/R47211.6.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47211/R47211.7.pdf"
     },
     {
         "id": "IF11284",
@@ -493,24 +511,6 @@
         "category": "Defense",
         "summary": "A wave of conservative political change is sweeping across Latin America, creating a timely opening for renewed U.S. leadership in the Western Hemisphere. After years of inconstant American engagement, the region faces a convergence of threats that directly affect U.S. national security: surging narco-terrorism, mass migration, organized criminal violence, and the expanding influence of extra-hemispheric...",
         "url": "https://www.heritage.org/global-politics/report/us-andean-security-cooperation-essential-hemispheric-security-and-stability"
-    },
-    {
-        "id": "https://cms.hoover.org/research/remembering-v-j-day",
-        "source": "Hoover Institution",
-        "title": "Remembering V-J Day",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Although Americans remember September 2, 1945, as the day the representatives of the Japanese government ended World War II by signing the surrender declaration aboard the USS Missouri in Tokyo Bay, Emperor Hirohito had announced the Japanese surrender nearly two weeks earlier.",
-        "url": "https://cms.hoover.org/research/remembering-v-j-day"
-    },
-    {
-        "id": "https://cms.hoover.org/research/justice-thomas-reveals-elite-institution-limits-him-thats-world-were",
-        "source": "Hoover Institution",
-        "title": "Justice Thomas Reveals This Elite Institution Is ‘Off Limits’ To Him: ‘That's The World We're In’",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Thomas alleged that, if not for YouTube, the ideas and works of American economist and Hoover Institution fellow Thomas Sowell, who profoundly shaped his political views, would be lost to the younger generation of students because some people's views are \"unpalatable\" to the student body.",
-        "url": "https://cms.hoover.org/research/justice-thomas-reveals-elite-institution-limits-him-thats-world-were"
     },
     {
         "id": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/",
@@ -567,6 +567,15 @@
         "url": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/"
     },
     {
+        "id": "R49188",
+        "source": "Congressional Research Service",
+        "title": "Ecuador in Brief: Overview and U.S. Relations",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "Ecuador is an ethnically and geographically diverse country of 18.1 million people, encompassing parts of South America’s Pacific coast, Amazon basin, and Andean highlands. Following a period of bilateral tensions under former President Rafael Correa (2006-2017), U.S.-Ecuador ties have strengthened, including under current President Daniel Noboa (2023-present) of the right-leaning National Democratic Action...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49188/R49188.2.pdf"
+    },
+    {
         "id": "R48705",
         "source": "Congressional Research Service",
         "title": "Department of Homeland Security Appropriations: FY2026 Provisions",
@@ -574,15 +583,6 @@
         "category": "Economy",
         "summary": "Through appropriations legislation, Congress provides not only budget authority for federal agencies and departments to operate, but also legally binding direction on how that budget authority can (or cannot) be used. These directions may appear in three places in an appropriations act: in the language of individual appropriations; in administrative provisions at the end of a title; and in general provisions at the...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R48705/R48705.7.pdf"
-    },
-    {
-        "id": "R46797",
-        "source": "Congressional Research Service",
-        "title": "Finding Medicare Fee-for-Service (FFS) Payment System Rules: Schedules and Resources",
-        "publicationDate": "2026-08-14",
-        "category": "Healthcare",
-        "summary": "The Medicare Fee-for-Service (FFS) program pays physicians, hospitals, and other health care facilities based on statutorily established payment systems, most of which are updated annually through regulations. The publication of Medicare FFS proposed and final rules follow schedules based on requirements found in statute, regulation, or both. As Medicare FFS payment system proposed and final rules are issued, they...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46797/R46797.23.pdf"
     },
     {
         "id": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/",
