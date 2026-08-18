@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+        "source": "NPR Politics",
+        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "The GOP primary in Florida's 19th District includes candidates who are new to the state, candidates who've run for Congress before and two candidates who have received pardons from President Trump.",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/6034431-bass-raman-fake-poll/",
         "source": "The Hill",
         "title": "Poll showing LA Mayor Karen Bass leading Nithya Raman by a wide margin was fake: company",
@@ -36,40 +45,76 @@
         "url": "https://thehill.com/homenews/administration/6034334-trump-dismisses-uss-lincoln-report/"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/17/us/politics/hegseth-iowa-campaign-nunn.html",
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
         "source": "New York Times Politics",
-        "title": "Hegseth Campaigns for Republican Zach Nunn in Iowa",
+        "title": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
         "publicationDate": "2026-08-18",
-        "category": "Defense",
-        "summary": "The appearance for Representative Zach Nunn was another departure from previous norms for the defense secretary, whose predecessors kept a greater distance from politics.",
-        "url": "https://www.nytimes.com/2026/08/17/us/politics/hegseth-iowa-campaign-nunn.html"
+        "category": "Midterm Elections (2026)",
+        "summary": "Republicans hold every statewide elected office and have drastically swung voter registration in the state. A newly gerrymandered congressional map has added four Republican-leaning seats.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/17/us/politics/us-airman-trump-impeach-iran.html",
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html",
         "source": "New York Times Politics",
-        "title": "U.S. Airman Says He Would Accept Punishment for Protesting Iran War",
+        "title": "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
         "publicationDate": "2026-08-18",
-        "category": "Defense",
-        "summary": "Major Watson characterized the war in Iran as an act of American aggression and compared the U.S. military actions to Russia’s invasion of Ukraine.",
-        "url": "https://www.nytimes.com/2026/08/17/us/politics/us-airman-trump-impeach-iran.html"
+        "category": "Midterm Elections (2026)",
+        "summary": "Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/17/us/politics/house-panel-investigates-jimmy-gomez.html",
+        "id": "https://www.nytimes.com/2026/08/18/travel/palm-beach-president-donald-trump-airport.html",
         "source": "New York Times Politics",
-        "title": "House Panel Investigates Charges a Democrat Had Sexual Contact With Aide",
+        "title": "What’s in an Airport Code? In West Palm Beach, It’s the President’s Initials.",
         "publicationDate": "2026-08-18",
-        "category": "Ethics and Official Misconduct",
-        "summary": "Representative Jimmy Gomez of California acknowledged “personal mistakes” outside his marriage but denied breaking rules that bar relationships with a direct subordinate.",
-        "url": "https://www.nytimes.com/2026/08/17/us/politics/house-panel-investigates-jimmy-gomez.html"
+        "category": "Foreign Policy",
+        "summary": "The state’s Palm Beach International Airport has been renamed for the president, complete with a rare change in its three-letter airport code.",
+        "url": "https://www.nytimes.com/2026/08/18/travel/palm-beach-president-donald-trump-airport.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/17/us/politics/trump-mail-vote-florida-election.html",
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/what-to-watch-primary-elections.html",
         "source": "New York Times Politics",
-        "title": "Trump Votes by Mail Again in Florida",
+        "title": "What to Watch in Tuesday’s Primary Elections in Alaska, Florida and Beyond",
         "publicationDate": "2026-08-18",
-        "category": "Trump",
-        "summary": "The president also voted by mail in 2020 and in a Florida special election in March, even as he has railed against the practice and equated it to cheating.",
-        "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-mail-vote-florida-election.html"
+        "category": "Midterm Elections (2026)",
+        "summary": "An early glimpse of a pivotal Senate race, heated primaries on a newly redrawn congressional map, and a special election to replace Eric Swalwell will be in the spotlight on Tuesday.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/what-to-watch-primary-elections.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/wwii-memorial-vandalism-trump-pirro.html",
+        "source": "New York Times Politics",
+        "title": "Judge Orders Release of Woman Accused of Vandalizing World War II Memorial",
+        "publicationDate": "2026-08-18",
+        "category": "Vandalism",
+        "summary": "Prosecutors led by Jeanine Pirro, the U.S. attorney in Washington, argued that Melissa Farris posed a flight risk and asked the court to reverse its decision.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/wwii-memorial-vandalism-trump-pirro.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/18/rep-cory-mills-is-running-his-florida-primary-under-an-ethical-cloud/",
+        "source": "Washington Post Politics",
+        "title": "Rep. Cory Mills’s GOP primary offers the latest test of running under an ethical cloud",
+        "publicationDate": "2026-08-18",
+        "category": "Economy",
+        "summary": "The Florida Republican faces allegations of sexual misconduct and domestic abuse, on top of campaign finance violations.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/18/rep-cory-mills-is-running-his-florida-primary-under-an-ethical-cloud/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/18/democrats-road-retaking-senate-complicated-by-michigan/",
+        "source": "Washington Post Politics",
+        "title": "Backlash in Michigan complicates Democrats’ road to retaking the Senate",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "The party’s chances may depend on Abdul El-Sayed, who beat Senate Minority Leader Chuck Schumer’s preferred candidate and has criticized his support for Israel.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/18/democrats-road-retaking-senate-complicated-by-michigan/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/18/aipac-spends-millions-california-congressional-race-replace-swalwell/",
+        "source": "Washington Post Politics",
+        "title": "AIPAC has a new target to exert influence over Democrats",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "The organization’s super PAC poured nearly $2.5 million to boost Melissa Hernandez over Aisha Wahab in a California congressional race.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/18/aipac-spends-millions-california-congressional-race-replace-swalwell/"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/08/17/trump-administration-cant-scrap-plan-move-fbi-headquarters-md-judge-rules/",
@@ -101,7 +146,7 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+        "title": "Russia warns UK will pay for supplying drones to Ukraine",
         "publicationDate": "2026-08-18",
         "category": "Foreign Policy",
         "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
@@ -135,12 +180,39 @@
         "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Global bond sell-off deepens amid fears over inflation and AI issuance",
+        "publicationDate": "2026-08-18",
+        "category": "Economy",
+        "summary": "Long-term government borrowing costs hit multi-decade highs",
+        "url": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/bfc3fbe6-7bd8-41d5-b185-0865cf22ae95?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Labour has no good options on prisons",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "Early release scheme comes with risks, but so does not imprisoning future offenders or releasing all women",
+        "url": "https://www.ft.com/content/bfc3fbe6-7bd8-41d5-b185-0865cf22ae95?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3b211986-f6ea-47f9-8b7c-b58f261ad483",
+        "source": "Financial Times World",
+        "title": "UK pay weakness allays fears of second-round inflation effects",
+        "publicationDate": "2026-08-18",
+        "category": "Economy",
+        "summary": "Private sector regular pay continued to decline in ONS’s latest data",
+        "url": "https://www.ft.com/content/3b211986-f6ea-47f9-8b7c-b58f261ad483"
+    },
+    {
         "id": "https://www.ft.com/content/1e9a7365-ee1f-489c-9dea-39a6fc33837b?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "UK employers shed jobs as labour market weakens further",
         "publicationDate": "2026-08-18",
         "category": "Other",
-        "summary": "Official figures also show unemployment edged higher in second quarter",
+        "summary": "Official figures also show unemployment slightly higher than forecasts",
         "url": "https://www.ft.com/content/1e9a7365-ee1f-489c-9dea-39a6fc33837b?syn-25a6b1a6=1"
     },
     {
@@ -151,33 +223,6 @@
         "category": "Foreign Policy",
         "summary": "Also in today’s newsletter: TCI bets on Italian luxury hotels and Russia fires top economist",
         "url": "https://www.ft.com/content/8cafeb3f-f11b-41ba-a67c-61072823eeb4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "China’s 10-year bond yield falls to 13-month low",
-        "publicationDate": "2026-08-18",
-        "category": "Economy",
-        "summary": "Weak economic growth pushes investors into sovereign debt",
-        "url": "https://www.ft.com/content/c3223b7c-6683-42df-9e60-9dbd2dbdfe07?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "AI: like a debt machine",
-        "publicationDate": "2026-08-18",
-        "category": "Economy",
-        "summary": "Credit (and rates) markets reel from rise and rise of hyperscaler issuance",
-        "url": "https://www.ft.com/content/b2cbbab2-a51a-48f2-a9da-86d858cd4e86?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Seoul rattled by Trump’s threat to drills at heart of US alliance",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "US president’s eleventh-hour demand to ‘reduce’ annual exercises and praise of Kim Jong Un unsettles ally",
-        "url": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5043-1.html",
@@ -310,7 +355,7 @@
         "source": "Centre for European Reform",
         "title": "Mailings webform report",
         "publicationDate": "2026-08-17",
-        "category": "Other",
+        "category": "Economy",
         "summary": "Mailings survery August 26 (240 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Meredith Crowley A monthly newsletter with links to all content Podcasts mc865@cam.ac.uk 2026-08-06 Jerrold Oppenheim About right...",
         "url": "https://www.cer.eu/mailings-webform-report"
     },
@@ -349,15 +394,6 @@
         "category": "Other",
         "summary": "Federal officials acknowledged that ICE special agents tracked a New York man to his house, the airport and a hotel to question him about a critical email he sent to the former head of ICE in January.",
         "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
-        "source": "NPR Politics",
-        "title": "Sen. Mark Kelly says USS Lincoln sailors 'can't get basic needs met'",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "NPR's Sacha Pfeiffer talks with Democratic Sen. Mark Kelly of Arizona about conditions aboard the USS Lincoln and his calls for an investigation into sailors' treatment.",
-        "url": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/live-results-wyoming-midterm-primaries",
@@ -412,42 +448,6 @@
         "category": "Defense",
         "summary": "On Monday, acting Navy Secretary Hung Cao announced that the U.S. Navy awarded a $22.9 billion contract to Raytheon to accelerate production of Tomahawk missiles amid a munitions shortage in the months after the start of the Iran war. The contract \"reinforces the Department’s commitment to rebuilding the defense industrial base and ensuring Navy and...",
         "url": "https://thehill.com/policy/defense/6034283-navy-raytheon-tomahawk-contract/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html",
-        "source": "New York Times Politics",
-        "title": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un",
-        "publicationDate": "2026-08-17",
-        "category": "Foreign Policy",
-        "summary": "Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?",
-        "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/17/justice-department-plans-send-about-1000-monitors-polls-this-fall/",
-        "source": "Washington Post Politics",
-        "title": "Justice Department plans to send about 1,000 monitors to the polls this fall",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "The move to send 1,000 poll monitors is likely the largest number under a Republican president, a DOJ official said.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/17/justice-department-plans-send-about-1000-monitors-polls-this-fall/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/08/17/us-navy-destroyer-lost-power-4-days-south-china-sea/",
-        "source": "Washington Post Politics",
-        "title": "U.S. Navy destroyer lost power for 4 days in South China Sea",
-        "publicationDate": "2026-08-17",
-        "category": "Defense",
-        "summary": "The ship’s crew lost access last month to drinkable water, running toilets and air conditioning, as the fleet sees heavy use by the Trump administration.",
-        "url": "https://www.washingtonpost.com/national-security/2026/08/17/us-navy-destroyer-lost-power-4-days-south-china-sea/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/17/60-days-after-signing-iran-deal-trump-stuck-quagmire-peace-talks-stall/",
-        "source": "Washington Post Politics",
-        "title": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on",
-        "publicationDate": "2026-08-17",
-        "category": "Foreign Policy",
-        "summary": "President Donald Trump’s interim deal with Iran in June set aside two months for negotiations, but the window has now closed and broader talks are at a standstill.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/17/60-days-after-signing-iran-deal-trump-stuck-quagmire-peace-talks-stall/"
     },
     {
         "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
