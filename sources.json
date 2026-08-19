@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://thehill.com/homenews/campaign/6032267-gray-projected-win-house-seat/",
+        "source": "The Hill",
+        "title": "Wyoming secretary of state wins GOP primary for open House seat",
+        "publicationDate": "2026-08-19",
+        "category": "Campaign",
+        "summary": "Wyoming Secretary of State Chuck Gray (R) is projected to win the GOP primary for his state’s at-large House seat, according to Decision Decision HQ. According to the nonpartisan election handicapper Cook Political Report, the seat leans solidly Republican. If he wins later this year, he will succeed Rep. Harriet Hageman (R-Wyo.), who is running...",
+        "url": "https://thehill.com/homenews/campaign/6032267-gray-projected-win-house-seat/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6037215-trump-pauses-canada-tariffs/",
         "source": "The Hill",
         "title": "Trump pauses 50% tariffs on Canada for 3 days",
@@ -36,13 +45,13 @@
         "url": "https://thehill.com/homenews/campaign/6035295-hageman-byrd-wyoming-senate-race/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6021256-strada-wins-florida-house-primary/",
-        "source": "The Hill",
-        "title": "Webster's pick loses GOP primary for open Florida House seat",
+        "id": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
+        "source": "New York Times Politics",
+        "title": "A Stunning Win for the Left in Florida: 6 Takeaways from Tuesday’s Primaries",
         "publicationDate": "2026-08-19",
-        "category": "Campaign",
-        "summary": "Retiring Rep. Daniel Webster's pick to succeed him the House is projected to lose his GOP primary in Florida, according to Decision Desk HQ (DDHQ). Businessman Joe Strada is set to defeat Baker, who previously served in the state Senate and Florida House, and a handful of other candidates in the primary for the 11th...",
-        "url": "https://thehill.com/homenews/campaign/6021256-strada-wins-florida-house-primary/"
+        "category": "Midterm Elections (2026)",
+        "summary": "State Representative Angie Nixon, a progressive firebrand, defeated a moderate who dramatically out-raised her with grass-roots enthusiasm. Can it carry her to victory in November?",
+        "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/18/us/politics/mary-peltola-democratic-senate-alaska.html",
@@ -68,7 +77,7 @@
         "title": "‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate",
         "publicationDate": "2026-08-19",
         "category": "South Carolina",
-        "summary": "Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways.",
+        "summary": "Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways from the debate.",
         "url": "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
     },
     {
@@ -79,15 +88,6 @@
         "category": "Midterm Elections (2026)",
         "summary": "A burst of ad spending is part of a campaign tactic in which the major parties try to boost fringe hopefuls on the other side.",
         "url": "https://www.nytimes.com/2026/08/18/us/politics/alaska-senate-primary-election-meddling.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
-        "source": "New York Times Politics",
-        "title": "Pentagon Scales Back Major Training Exercises With South Korea",
-        "publicationDate": "2026-08-19",
-        "category": "Defense",
-        "summary": "The move to end the military training a week earlier than scheduled comes after President Trump ordered the Defense Department to reduce joint military exercises with the key U.S. ally.",
-        "url": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/18/rep-cory-mills-is-running-his-florida-primary-under-an-ethical-cloud/",
@@ -117,13 +117,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+        "title": "South Korea shortens war games with US, citing Washington request",
         "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
-        "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss"
+        "category": "Defense",
+        "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+        "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
@@ -135,31 +135,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/41c9e4c9-4d02-4ad5-b31f-afef9cd0346e?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Trump says deal reached with Canada and delays tariffs",
+        "title": "Venomous sea creatures plague Europe’s warming beaches",
         "publicationDate": "2026-08-19",
         "category": "Other",
-        "summary": "Eleventh-hour reprieve following ‘intense’ talks with Mark Carney to avert 50% levies on billions of dollars in goods",
-        "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1"
+        "summary": "More sightings of Portuguese men o’ war have coincided with high ocean temperatures caused by climate change",
+        "url": "https://www.ft.com/content/41c9e4c9-4d02-4ad5-b31f-afef9cd0346e?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/de2449f0-c6be-42df-9650-b61a42547651?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "China eases limits on Nvidia H200 chips as AI race escalates",
-        "publicationDate": "2026-08-19",
-        "category": "Foreign Policy",
-        "summary": "Beijing permits small shipments to help leading tech groups in drive to catch up with US rivals",
-        "url": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Chinese humanoid robot maker surges 600% in trading debut",
+        "title": "What high streets can learn from the success of retail parks",
         "publicationDate": "2026-08-19",
         "category": "Other",
-        "summary": "Unitree makes stellar start in Shanghai as investors clamour for shares",
-        "url": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1"
+        "summary": "Once dominated by sellers of bulky goods, parks now attract high street staples",
+        "url": "https://www.ft.com/content/de2449f0-c6be-42df-9650-b61a42547651?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/ade8f80e-a5aa-4696-a6ca-40865c77229f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Private credit’s mounting strains",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "An FT analysis shows stress is spreading across portfolios",
+        "url": "https://www.ft.com/content/ade8f80e-a5aa-4696-a6ca-40865c77229f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/9ea0cde8-129e-4d88-976f-e367b7dd4d2c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Iran eyes military targets in Europe if Trump escalates war, insiders say",
+        "publicationDate": "2026-08-19",
+        "category": "Defense",
+        "summary": "Proposals to retaliate against US assets beyond the Middle East come as many in Tehran see renewed conflict as inevitable",
+        "url": "https://www.ft.com/content/9ea0cde8-129e-4d88-976f-e367b7dd4d2c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/117e3a76-0b5c-4e99-a6da-3421cb8d5da7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Why Britain needs a Messi budget",
+        "publicationDate": "2026-08-19",
+        "category": "Economy",
+        "summary": "The playing style of the great Argentine footballer demonstrates that less can be more",
+        "url": "https://www.ft.com/content/117e3a76-0b5c-4e99-a6da-3421cb8d5da7?syn-25a6b1a6=1"
     },
     {
         "id": "IF12990",
@@ -457,24 +475,6 @@
         "category": "Other",
         "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
         "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/d801e26b-6e5b-42ca-bfdd-bd9d8a1aa3f9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "London’s clean air zone linked to improvement in children’s lung health",
-        "publicationDate": "2026-08-18",
-        "category": "Healthcare",
-        "summary": "Study compared lung size and function of 1,600 six- to nine-year-olds with a matched group in Luton",
-        "url": "https://www.ft.com/content/d801e26b-6e5b-42ca-bfdd-bd9d8a1aa3f9?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Surge in diesel prices deals powerful blow to industrial America",
-        "publicationDate": "2026-08-18",
-        "category": "Foreign Policy",
-        "summary": "Also in today’s newsletter: global private equity avoids China and US chip stocks lead sell-off",
-        "url": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1"
     },
     {
         "id": "R47211",
