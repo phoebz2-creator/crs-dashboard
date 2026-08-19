@@ -110,10 +110,10 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
         "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+        "category": "Economy",
+        "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
         "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -126,13 +126,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Husband and mother-in-law charged over Indian bride's death",
+        "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
         "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-        "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss"
+        "category": "Healthcare",
+        "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+        "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/a888e3d8-e0c3-40ea-96fb-cd3e22e9e6d1",
+        "source": "Financial Times World",
+        "title": "July inflation keeps BoE on course to hold rates in September",
+        "publicationDate": "2026-08-19",
+        "category": "Economy",
+        "summary": "Upward movement in the headline index was driven by energy price cap reset and was expected",
+        "url": "https://www.ft.com/content/a888e3d8-e0c3-40ea-96fb-cd3e22e9e6d1"
     },
     {
         "id": "https://www.ft.com/content/5a606279-3473-4c5b-a16e-ad9db6debafb?syn-25a6b1a6=1",
@@ -140,7 +149,7 @@
         "title": "UK inflation accelerated to 2.9% in July amid Middle East energy shock",
         "publicationDate": "2026-08-19",
         "category": "Economy",
-        "summary": "Figure pushes price growth further above BoE target",
+        "summary": "Rising energy costs push price growth further above BoE target",
         "url": "https://www.ft.com/content/5a606279-3473-4c5b-a16e-ad9db6debafb?syn-25a6b1a6=1"
     },
     {
@@ -153,6 +162,15 @@
         "url": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1"
     },
     {
+        "id": "https://www.ft.com/content/bba9ad75-bc9c-4ca3-af41-77e6714fdce1",
+        "source": "Financial Times World",
+        "title": "Chinese automaker Chery to open UK R&D centre",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe",
+        "url": "https://www.ft.com/content/bba9ad75-bc9c-4ca3-af41-77e6714fdce1"
+    },
+    {
         "id": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Chinese humanoid robot maker surges 600% in trading debut",
@@ -160,24 +178,6 @@
         "category": "Other",
         "summary": "Unitree makes stellar start in Shanghai as investors clamour for shares",
         "url": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/8f896be1-dd04-4476-ae70-8d67a6627ccd?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The defence stocks aren’t defensive",
-        "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "Rearmament might be a dud",
-        "url": "https://www.ft.com/content/8f896be1-dd04-4476-ae70-8d67a6627ccd?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/7775e64c-10aa-41bc-b670-c895e0bd3a41",
-        "source": "Financial Times World",
-        "title": "FTAV’s further reading",
-        "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "Carrion-eaters; pervert glass patent; Spirit’s emails; Musk vs Cards Against Humanity",
-        "url": "https://www.ft.com/content/7775e64c-10aa-41bc-b670-c895e0bd3a41"
     },
     {
         "id": "IF12990",
@@ -306,6 +306,33 @@
         "url": "https://www.hudson.org/foreign-policy/chinese-communist-party-must-answer-wuhan-abomination-miles-yu"
     },
     {
+        "id": "https://cms.hoover.org/plus/research/qa-when-does-government-stimulus-work",
+        "source": "Hoover Institution",
+        "title": "Q&A: When Does Government Stimulus Work?",
+        "publicationDate": "2026-08-18",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/plus/research/qa-when-does-government-stimulus-work"
+    },
+    {
+        "id": "https://cms.hoover.org/plus/research/do-stimulus-checks-actually-stimulate-economy",
+        "source": "Hoover Institution",
+        "title": "Do Stimulus Checks Actually Stimulate the Economy?",
+        "publicationDate": "2026-08-18",
+        "category": "Economy",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/plus/research/do-stimulus-checks-actually-stimulate-economy"
+    },
+    {
+        "id": "https://cms.hoover.org/plus/research/how-economic-stimulus-became-debt-problem",
+        "source": "Hoover Institution",
+        "title": "How Economic Stimulus Became a Debt Problem",
+        "publicationDate": "2026-08-18",
+        "category": "Economy",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/plus/research/how-economic-stimulus-became-debt-problem"
+    },
+    {
         "id": "https://cms.hoover.org/news/hoover-acquires-john-s-widdicombe-papers",
         "source": "Hoover Institution",
         "title": "Hoover Acquires the John S. Widdicombe Papers",
@@ -322,33 +349,6 @@
         "category": "Defense",
         "summary": "This unique window into Lt. Gen. Robert C. Richardson's 1944 tour of Saipan during the Pacific War illuminates the consequences of battle and the Army-Marine rivalry that threatened to undermine the Allied victory.",
         "url": "https://cms.hoover.org/news/hoover-acquires-rare-photograph-archive-us-army-commanders-controversial-1944-tour-saipan-and"
-    },
-    {
-        "id": "https://cms.hoover.org/research/how-defend-taiwan-and-prevent-war-china",
-        "source": "Hoover Institution",
-        "title": "How To Defend Taiwan And Prevent War With China",
-        "publicationDate": "2026-08-18",
-        "category": "Defense",
-        "summary": "Taiwan is the most urgent test of whether the United States and its allies can deter China and preserve peace in the Indo-Pacific. Beijing is increasing pressure on Taiwan while exploiting gaps in allied coordination across military, economic, and political policy.",
-        "url": "https://cms.hoover.org/research/how-defend-taiwan-and-prevent-war-china"
-    },
-    {
-        "id": "https://cms.hoover.org/research/noble-failure-russias-liberal-reformers",
-        "source": "Hoover Institution",
-        "title": "The Noble Failure Of Russia’s Liberal reformers",
-        "publicationDate": "2026-08-18",
-        "category": "Foreign Policy",
-        "summary": "Russia’s rapid economic decline in the 1990s was the result of too little, rather than too much, ‘shock therapy’.",
-        "url": "https://cms.hoover.org/research/noble-failure-russias-liberal-reformers"
-    },
-    {
-        "id": "https://cms.hoover.org/research/what-alexander-hamilton-knew-about-debt",
-        "source": "Hoover Institution",
-        "title": "What Alexander Hamilton Knew About Debt",
-        "publicationDate": "2026-08-18",
-        "category": "Economy",
-        "summary": "How honoring contracts helped build America’s financial reputation.",
-        "url": "https://cms.hoover.org/research/what-alexander-hamilton-knew-about-debt"
     },
     {
         "id": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/",
