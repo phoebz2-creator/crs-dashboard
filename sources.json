@@ -1,5 +1,41 @@
 [
     {
+        "id": "https://thehill.com/homenews/administration/6037215-trump-pauses-canada-tariffs/",
+        "source": "The Hill",
+        "title": "Trump pauses 50% tariffs on Canada for 3 days",
+        "publicationDate": "2026-08-19",
+        "category": "Administration",
+        "summary": "President Trump said late Tuesday that he paused the 50 percent tariffs on a slew of Canadian goods for three days, saying the U.S. and Canada are finalizing a deal. The announcement comes just a few hours before the tariffs were supposed to go into effect at midnight. “I have paused the 50% Tariffs against...",
+        "url": "https://thehill.com/homenews/administration/6037215-trump-pauses-canada-tariffs/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6035903-trump-pick-loses-wyoming-race/",
+        "source": "The Hill",
+        "title": "Trump's choice for Wyoming governor loses GOP primary",
+        "publicationDate": "2026-08-19",
+        "category": "Administration",
+        "summary": "President Trump's pick to succeed term-limited Gov. Mark Gordon (R) is projected to lose the Republican primary, according to Decision Desk HQ (DDHQ). GOP state Sen. Eric Barlow is set to defeat Wyoming Superintendent of Public Instruction Megan Degenfelder and three other Republican candidates, including 2022 gubernatorial contender Brent Bien. Degenfelder was also backed by...",
+        "url": "https://thehill.com/homenews/administration/6035903-trump-pick-loses-wyoming-race/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/",
+        "source": "The Hill",
+        "title": "Shapiro signs order restricting data centers in Pennsylvania",
+        "publicationDate": "2026-08-19",
+        "category": "Technology",
+        "summary": "Pennsylvania Gov. Josh Shapiro (D) on Tuesday signed an executive order that could limit AI data center development in the Keystone State. The executive order, which implements his Governor’s Responsible Infrastructure Development (GRID) requirements, requires prospective developers to provide a notice of intent to comply with the safeguards — which include requiring that firms pay...",
+        "url": "https://thehill.com/policy/technology/6037158-shapiro-signs-ai-data-center-order/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6035295-hageman-byrd-wyoming-senate-race/",
+        "source": "The Hill",
+        "title": "Hageman-Byrd matchup set to replace Lummis in Wyoming",
+        "publicationDate": "2026-08-19",
+        "category": "Campaign",
+        "summary": "Wyoming Rep. Harriet Hageman (R) and former state Rep. James Byrd (D) are projected to face off in the November race to replace retiring Sen. Cynthia Lummis (R-Wy.), according to Decision Desk HQ. Hageman launched her Senate bid in December, just days after Lummis announced her retirement from Congress. President Trump was quick to back...",
+        "url": "https://thehill.com/homenews/campaign/6035295-hageman-byrd-wyoming-senate-race/"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/6021256-strada-wins-florida-house-primary/",
         "source": "The Hill",
         "title": "Webster's pick loses GOP primary for open Florida House seat",
@@ -9,85 +45,49 @@
         "url": "https://thehill.com/homenews/campaign/6021256-strada-wins-florida-house-primary/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6036966-ice-house-democrats-disrupted-operations-stewart-detention/",
-        "source": "The Hill",
-        "title": "ICE alleges House Democrats 'disrupted operations' at Georgia detention center",
-        "publicationDate": "2026-08-19",
-        "category": "House",
-        "summary": "Immigration and Customs Enforcement (ICE) on Tuesday accused several House Democrats, including Rep. Pramila Jayapal (D-Wash.), of having \"disrupted operations\" during a visit to one of its detention centers in Lumpkin, Ga. Jayapal wrote on the social platform X that she brought a delegation of five lawmakers to conduct an oversight visit of Stewart Detention...",
-        "url": "https://thehill.com/homenews/house/6036966-ice-house-democrats-disrupted-operations-stewart-detention/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6037051-sc-gop-senate-debate/",
-        "source": "The Hill",
-        "title": "Graham, Norman tangle in South Carolina GOP Senate debate: Three takeaways",
-        "publicationDate": "2026-08-19",
-        "category": "Campaign",
-        "summary": "Sen. Darline Graham (R-S.C.) and Rep. Ralph Norman (R-S.C.) faced off on the debate stage Tuesday, a day before early voting begins in the runoff to determine which of the two will be South Carolina’s GOP nominee for Senate. Graham, whom South Carolina Gov. Henry McMaster (R) appointed to succeed to her brother, the late...",
-        "url": "https://thehill.com/homenews/campaign/6037051-sc-gop-senate-debate/"
-    },
-    {
-        "id": "https://thehill.com/homenews/media/6036899-fox-watters-trump-ossoff-sleazy-quip/",
-        "source": "The Hill",
-        "title": "Watters: Trump has said 'so much more sleazy things' than Ossoff’s quip",
-        "publicationDate": "2026-08-19",
-        "category": "Media",
-        "summary": "Fox News host Jesse Watters on Tuesday acknowledged that President Trump has said \"so much more sleazy things\" than Sen. Jon Ossoff's (D-Ga.) quip about White House executive assistant Natalie Harp. \"To suggest that Trump surrounds himself with attractive women –– yeah, I think he's done that his whole life,\" Watters said on Fox's \"The...",
-        "url": "https://thehill.com/homenews/media/6036899-fox-watters-trump-ossoff-sleazy-quip/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6021111-gilbert-wins-florida-house-primary/",
-        "source": "The Hill",
-        "title": "Gilbert wins Democratic primary for open Wilson House seat in Florida",
-        "publicationDate": "2026-08-19",
-        "category": "Campaign",
-        "summary": "Oliver Gilbert, Miami-Dade County commissioner, is expected to advance to the November general election after winning the Democratic primary for Florida's 24th Congressional District seat currently held by retiring Rep. Frederica Wilson (D-Fla.), according to preliminary results from Decision Desk HQ (DDHQ). Gilbert defeated six other Democratic candidates who all vied to succeed Wilson and...",
-        "url": "https://thehill.com/homenews/campaign/6021111-gilbert-wins-florida-house-primary/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/mary-peltola-democratic-senate-alaska.html",
         "source": "New York Times Politics",
-        "title": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
-        "publicationDate": "2026-08-19",
-        "category": "United States Politics and Government",
-        "summary": "President Trump’s White House aide Natalie Harp is always by his side. What, exactly, does she do?",
-        "url": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/18/us/politics/florida-republican-primary-19-district.html",
-        "source": "New York Times Politics",
-        "title": "Florida Media Mogul Jim Schwartzel Wins Republican House Primary to Replace Byron Donalds",
+        "title": "5 Things to Know About Mary Peltola, Democratic Senate Candidate in Alaska",
         "publicationDate": "2026-08-19",
         "category": "Midterm Elections (2026)",
-        "summary": "Jim Schwartzel defeated a large field of competitors for a House seat based in Fort Myers, including several candidates who had recently established Florida residency.",
-        "url": "https://www.nytimes.com/2026/08/18/us/politics/florida-republican-primary-19-district.html"
+        "summary": "The Alaska Native, who grew up along the Kuskokwim River near the Bering Sea and fished for salmon, is the leading Democrat in the nonpartisan primary race.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/mary-peltola-democratic-senate-alaska.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/18/us/politics/who-is-byron-donalds.html",
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-republican-senator-alaska.html",
         "source": "New York Times Politics",
-        "title": "5 Things to Know About Byron Donalds, Republican Nominee for Florida Governor",
+        "title": "5 Things to Know About Dan Sullivan, the Alaska Senator Seeking Re-election",
         "publicationDate": "2026-08-19",
-        "category": "Donalds",
-        "summary": "Representative Donalds, the Republican nominee for governor of Florida, made a name as a Black conservative in Congress, but his loyalty to President Trump has been his ticket.",
-        "url": "https://www.nytimes.com/2026/08/18/us/politics/who-is-byron-donalds.html"
+        "category": "Sullivan",
+        "summary": "The incumbent Republican has been a reliable supporter of President Trump, giving Democrats a pickup opportunity in a state where most are politically unaffiliated.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-republican-senator-alaska.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/18/us/politics/5-things-to-know-about-david-jolly-the-democratic-nominee-for-florida-governor.html",
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html",
         "source": "New York Times Politics",
-        "title": "5 Things to Know About David Jolly, the Democratic Nominee for Florida Governor",
+        "title": "‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate",
         "publicationDate": "2026-08-19",
-        "category": "Jolly",
-        "summary": "A former Republican, he plans to run on an affordability agenda.",
-        "url": "https://www.nytimes.com/2026/08/18/us/politics/5-things-to-know-about-david-jolly-the-democratic-nominee-for-florida-governor.html"
+        "category": "South Carolina",
+        "summary": "Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/18/us/politics/florida-republican-primary-25-district.html",
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/alaska-senate-primary-election-meddling.html",
         "source": "New York Times Politics",
-        "title": "Trump Ally Scott Singer Wins Republican Primary in Florida’s 25th District",
+        "title": "Why Democrats and Republicans Are Backing Rivals in Alaska’s Senate Primary",
         "publicationDate": "2026-08-19",
         "category": "Midterm Elections (2026)",
-        "summary": "Scott Singer will face the winner of the Democratic primary in one of the most competitive House races in the nation.",
-        "url": "https://www.nytimes.com/2026/08/18/us/politics/florida-republican-primary-25-district.html"
+        "summary": "A burst of ad spending is part of a campaign tactic in which the major parties try to boost fringe hopefuls on the other side.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/alaska-senate-primary-election-meddling.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
+        "source": "New York Times Politics",
+        "title": "Pentagon Scales Back Major Training Exercises With South Korea",
+        "publicationDate": "2026-08-19",
+        "category": "Defense",
+        "summary": "The move to end the military training a week earlier than scheduled comes after President Trump ordered the Defense Department to reduce joint military exercises with the key U.S. ally.",
+        "url": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/18/rep-cory-mills-is-running-his-florida-primary-under-an-ethical-cloud/",
@@ -106,6 +106,60 @@
         "category": "Foreign Policy",
         "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
         "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Husband and mother-in-law charged over Indian bride's death",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
+        "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump says deal reached with Canada and delays tariffs",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "Eleventh-hour reprieve following ‘intense’ talks with Mark Carney to avert 50% levies on billions of dollars in goods",
+        "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "China eases limits on Nvidia H200 chips as AI race escalates",
+        "publicationDate": "2026-08-19",
+        "category": "Foreign Policy",
+        "summary": "Beijing permits small shipments to help leading tech groups in drive to catch up with US rivals",
+        "url": "https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Chinese humanoid robot maker surges 600% in trading debut",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "Unitree makes stellar start in Shanghai as investors clamour for shares",
+        "url": "https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1"
     },
     {
         "id": "IF12990",
@@ -398,47 +452,11 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Meta hooked children on Facebook and Instagram, court hears",
+        "title": "Meta hooked children on Facebook and Instagram, US court hears",
         "publicationDate": "2026-08-18",
         "category": "Other",
-        "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+        "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
         "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Earthquake rocks Spain's historic Granada, injuring three",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-        "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Brazil's President Lula hails oil discovery near Amazon river",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-        "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Canada faces deadline to stop US tariffs on $20bn of exports",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "Mark Carney spoke to Donald Trump on Tuesday in a final push to avert American trade levies",
-        "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/d801e26b-6e5b-42ca-bfdd-bd9d8a1aa3f9?syn-25a6b1a6=1",
@@ -457,24 +475,6 @@
         "category": "Foreign Policy",
         "summary": "Also in today’s newsletter: global private equity avoids China and US chip stocks lead sell-off",
         "url": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/59c06284-d1fd-4223-8e70-e68956b219da?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Mark Walter sought loan from Apollo backed by Lakers stake",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "Talks over the financing continued until Guggenheim chief reached a deal to sell the holding in the basketball team",
-        "url": "https://www.ft.com/content/59c06284-d1fd-4223-8e70-e68956b219da?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UAE suspends trade with Iran after saying it fired missiles at Gulf state",
-        "publicationDate": "2026-08-18",
-        "category": "Foreign Policy",
-        "summary": "Defence ministry says weapons were targeting maritime traffic but fell into the sea",
-        "url": "https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1"
     },
     {
         "id": "R47211",
