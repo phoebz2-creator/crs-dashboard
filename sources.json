@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://cms.hoover.org/research/economic-and-moral-case-capitalism",
+        "source": "Hoover Institution",
+        "title": "An Economic And Moral Case For Capitalism",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "How does market-based capitalism foster prosperity and freedom? How can it go wrong?",
+        "url": "https://cms.hoover.org/research/economic-and-moral-case-capitalism"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
+        "source": "NPR Politics",
+        "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a \"gerrymandered\" state legislative map inadvertently won him lasting infamy.",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/6036787-nixon-vindman-peltola-primaries/",
         "source": "The Hill",
         "title": "Democratic socialist notches surprise win in Florida Senate primary: 5 takeaways",
@@ -45,6 +63,15 @@
         "url": "https://thehill.com/homenews/administration/6037215-trump-pauses-canada-tariffs/"
     },
     {
+        "id": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html",
+        "source": "New York Times Politics",
+        "title": "The Left Notches Another Win With This Secret Weapon: Old-Fashioned Organizing",
+        "publicationDate": "2026-08-19",
+        "category": "Florida",
+        "summary": "State Representative Angie Nixon scored a stunning upset on Tuesday in Florida’s Democratic Senate primary. Now comes the hard part: running as a progressive firebrand in a red state.",
+        "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/08/19/us/politics/tom-begich-alaska-governor.html",
         "source": "New York Times Politics",
         "title": "Scion of Democratic Politics Makes Runoff for Alaska Governor",
@@ -81,13 +108,13 @@
         "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/18/us/politics/mary-peltola-democratic-senate-alaska.html",
-        "source": "New York Times Politics",
-        "title": "5 Things to Know About Mary Peltola, Democratic Senate Candidate in Alaska",
+        "id": "https://www.washingtonpost.com/politics/2026/08/19/takeaways-surprises-florida-wyoming-alaska-primaries/",
+        "source": "Washington Post Politics",
+        "title": "8 takeaways and surprises from Florida, Wyoming and Alaska primaries",
         "publicationDate": "2026-08-19",
-        "category": "Midterm Elections (2026)",
-        "summary": "The Alaska Native, who grew up along the Kuskokwim River near the Bering Sea and fished for salmon, is the leading Democrat in the nonpartisan primary race.",
-        "url": "https://www.nytimes.com/2026/08/18/us/politics/mary-peltola-democratic-senate-alaska.html"
+        "category": "Other",
+        "summary": "Embattled Rep. Cory Mills (R-Florida) lost his re-election bid, another Trump gubernatorial pick fell, and another democratic socialist won a Democratic primary.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/19/takeaways-surprises-florida-wyoming-alaska-primaries/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/18/rep-cory-mills-is-running-his-florida-primary-under-an-ethical-cloud/",
@@ -108,6 +135,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+        "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
@@ -126,18 +162,27 @@
         "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+        "id": "https://www.ft.com/content/4112da7f-3809-450b-900d-4934bb7c2bab?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Feuding Reform fuels Tory party’s faith in a comeback",
         "publicationDate": "2026-08-19",
-        "category": "Healthcare",
-        "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
-        "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "Suspension of influential Conservative defector Tim Montgomerie curbs momentum and reduces prospect of a pact with rivals",
+        "url": "https://www.ft.com/content/4112da7f-3809-450b-900d-4934bb7c2bab?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/115fc315-66f3-4eee-b717-4105f13f4d9a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Democratic socialist unexpectedly wins Florida primary",
+        "publicationDate": "2026-08-19",
+        "category": "Defense",
+        "summary": "Angie Nixon beats army veteran Alex Vindman in party’s US Senate race",
+        "url": "https://www.ft.com/content/115fc315-66f3-4eee-b717-4105f13f4d9a?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/5a606279-3473-4c5b-a16e-ad9db6debafb?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "UK inflation accelerated to 2.9% in July amid Middle East energy shock",
+        "title": "UK inflation accelerates to 2.9% in July amid Middle East energy shock",
         "publicationDate": "2026-08-19",
         "category": "Economy",
         "summary": "Rising energy costs push price growth further above BoE target",
@@ -160,24 +205,6 @@
         "category": "Economy",
         "summary": "Upward movement in the headline index was driven by energy price cap reset and was expected",
         "url": "https://www.ft.com/content/a888e3d8-e0c3-40ea-96fb-cd3e22e9e6d1"
-    },
-    {
-        "id": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Iran weighs Europe strikes if US restarts war",
-        "publicationDate": "2026-08-19",
-        "category": "Foreign Policy",
-        "summary": "Also in this newsletter: Ukraine wartime election and Europeans’ savings buffers",
-        "url": "https://www.ft.com/content/b2d9e5a2-22ce-4267-98b0-62ab78906509?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/bba9ad75-bc9c-4ca3-af41-77e6714fdce1",
-        "source": "Financial Times World",
-        "title": "Chinese automaker Chery to open UK R&D centre",
-        "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "Owner of Omoda and Jaecoo brands moves to localise operations in Britain and Europe",
-        "url": "https://www.ft.com/content/bba9ad75-bc9c-4ca3-af41-77e6714fdce1"
     },
     {
         "id": "IF12990",
@@ -342,15 +369,6 @@
         "url": "https://cms.hoover.org/news/hoover-acquires-john-s-widdicombe-papers"
     },
     {
-        "id": "https://cms.hoover.org/news/hoover-acquires-rare-photograph-archive-us-army-commanders-controversial-1944-tour-saipan-and",
-        "source": "Hoover Institution",
-        "title": "Hoover Acquires Rare Photograph Archive of a U.S. Army Commander’s Controversial 1944 Tour of Saipan and the Marshall Islands",
-        "publicationDate": "2026-08-18",
-        "category": "Defense",
-        "summary": "This unique window into Lt. Gen. Robert C. Richardson's 1944 tour of Saipan during the Pacific War illuminates the consequences of battle and the Army-Marine rivalry that threatened to undermine the Allied victory.",
-        "url": "https://cms.hoover.org/news/hoover-acquires-rare-photograph-archive-us-army-commanders-controversial-1944-tour-saipan-and"
-    },
-    {
         "id": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/",
         "source": "European Council on Foreign Relations",
         "title": "Cold comfort: What China can teach Europe about adaptation",
@@ -459,15 +477,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/18/david-morens-pleads-guilty-defrauding-us-fauci-is-not-accused-wrongdoing-case/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/18/woman-who-planned-kill-treasury-secretary-bessent-gets-six-years/",
-        "source": "Washington Post Politics",
-        "title": "Woman who planned to kill Treasury Secretary Bessent gets six years in prison",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "Riley English of Massachusetts turned herself in after arriving at the Capitol with miniature molotov cocktails just before Scott Bessent’s Senate confirmation.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/18/woman-who-planned-kill-treasury-secretary-bessent-gets-six-years/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Meta hooked children on Facebook and Instagram, US court hears",
@@ -536,7 +545,7 @@
         "title": "Mailings webform report",
         "publicationDate": "2026-08-17",
         "category": "Economy",
-        "summary": "Mailings survery August 26 (240 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Kate Mullineux Too much A weekly newsletter with links to all content kate@cer.eu 2026-08-06 Godfried De Vidts About right gadv@gadv.be all good,...",
+        "summary": "Mailings survery August 26 (241 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Kate Mullineux Too much A weekly newsletter with links to all content kate@cer.eu 2026-08-06 Godfried De Vidts About right gadv@gadv.be all good,...",
         "url": "https://www.cer.eu/mailings-webform-report"
     },
     {
@@ -547,15 +556,6 @@
         "category": "Other",
         "summary": "\"Carpetbagger\" describes people who move somewhere to run for office. In Southwest Florida, six former congressional hopefuls from other states are taking their shot in this conservative stronghold.",
         "url": "https://www.npr.org/2026/08/17/nx-s1-5913672/florida-gop-race-draws-accusations-of-carpetbagging"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing",
-        "source": "NPR Politics",
-        "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "A federal prosecutor who was fired earlier this year is suing the DOJ, alleging she was unlawfully dismissed for political reasons tied to her work prosecuting a case against anti-abortion activists.",
-        "url": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing"
     },
     {
         "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
