@@ -1,5 +1,14 @@
 [
     {
+        "id": "IN12731",
+        "source": "Congressional Research Service",
+        "title": "Defense Infrastructure Funding in the 119th Congress",
+        "publicationDate": "2026-08-19",
+        "category": "Defense",
+        "summary": "The combination of discretionary and mandatory funding appropriations enacted for fiscal year (FY) 2026 has increased Department of Defense (DOD) infrastructure budgets to their highest level in at least 20 years. The Trump Administration’s discretionary and mandatory funding request for FY2027, if enacted, would further increase infrastructure spending levels. See Figure 1 and Table 2. (DOD is “using a secondary...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12731/IN12731.1.pdf"
+    },
+    {
         "id": "IF13291",
         "source": "Congressional Research Service",
         "title": "Analysis of a Potential Cyber Military Service",
@@ -16,6 +25,15 @@
         "category": "Healthcare",
         "summary": "This report presents findings from four analyses of claims data conducted from September 2023 to September 2025, some of which update prior RAND research, in support of efforts to improve the valuation of global surgical services.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4720-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/trumps-south-korea-move-fuels-growing-fears-of-u-s-retreat-from-asia",
+        "source": "Council on Foreign Relations",
+        "title": "Trump’s South Korea Move Fuels Growing Fears of U.S. Retreat From Asia",
+        "publicationDate": "2026-08-19",
+        "category": "Defense",
+        "summary": "Trump’s abrupt rollback of joint military exercises with South Korea is the latest in a series of actions draining Asian allies’ confidence in U.S. security commitments—and hands China another opening to exploit.",
+        "url": "https://www.cfr.org/articles/trumps-south-korea-move-fuels-growing-fears-of-u-s-retreat-from-asia"
     },
     {
         "id": "https://www.cfr.org/articles/zambias-messy-election",
@@ -43,6 +61,15 @@
         "category": "Foreign Policy",
         "summary": "CFR’s press fellow explains how he went from chasing stories across Asia at age twenty-two to writing one of Washington’s top foreign affairs newsletters—and now pens his own column for The New Yorker.",
         "url": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-ishaan-tharoor"
+    },
+    {
+        "id": "https://www.heritage.org/defense/report/the-regional-security-system-and-the-eastern-caribbean",
+        "source": "Heritage Foundation",
+        "title": "The Regional Security System and the Eastern Caribbean",
+        "publicationDate": "2026-08-19",
+        "category": "Defense",
+        "summary": "Since January 2025, the Trump Administration’s America First approach to border and hemispheric security has secured the southern border and put drug cartels on notice. As policymakers rightly devote more resources and attention to the region, it is pivotal that they incorporate the Eastern Caribbean into their strategic calculus, not least because the cartels are likely to shift to new smuggling routes as U.S. law...",
+        "url": "https://www.heritage.org/defense/report/the-regional-security-system-and-the-eastern-caribbean"
     },
     {
         "id": "https://www.hudson.org/national-security-defense/how-we-won-war-terror-tod-lindberg",
@@ -81,6 +108,33 @@
         "url": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/no-serious-dispute-that-comeys-seashell-post-could-be-read-as-a-trump-threat-prosecutors-say",
+        "source": "PBS NewsHour Politics",
+        "title": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say",
+        "publicationDate": "2026-08-19",
+        "category": "Department of Justice",
+        "summary": "Prosecutors also called into question Comey's account that he had found the seashells in the numerical arrangement of \"86 47\" while walking on a beach in North Carolina and suggested that his May 2025 post on Instagram was an effort to generate attention for a forthcoming novel.",
+        "url": "https://www.pbs.org/newshour/politics/no-serious-dispute-that-comeys-seashell-post-could-be-read-as-a-trump-threat-prosecutors-say"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/kennedy-center-tells-court-it-wont-try-to-restore-trumps-name-to-the-building-before-sept-8",
+        "source": "PBS NewsHour Politics",
+        "title": "Kennedy Center tells court it won't try to restore Trump's name to the building before Sept. 8",
+        "publicationDate": "2026-08-19",
+        "category": "Donald Trump news",
+        "summary": "In a status report filed late Tuesday, opponents of the move said members of the Kennedy Center's Trump-aligned board \"seem intent\" on defying an earlier court order requiring the president's name to be removed from the building.",
+        "url": "https://www.pbs.org/newshour/politics/kennedy-center-tells-court-it-wont-try-to-restore-trumps-name-to-the-building-before-sept-8"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/world/trump-says-us-and-canada-reached-last-minute-deal-to-delay-50-us-tariffs-on-canadian-imports",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump says U.S. and Canada reached last-minute deal to delay 50% US tariffs on Canadian imports",
+        "publicationDate": "2026-08-19",
+        "category": "canada",
+        "summary": "The announcement, which Trump made on his social media platform, buys time for more negotiations and avoids, for now, another strain in already tense relations between the historic allies.",
+        "url": "https://www.pbs.org/newshour/world/trump-says-us-and-canada-reached-last-minute-deal-to-delay-50-us-tariffs-on-canadian-imports"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/gop-rep-donalds-will-run-against-democrat-jolly-in-floridas-race-for-governor",
         "source": "PBS NewsHour Politics",
         "title": "GOP Rep. Donalds will run against Democrat Jolly in Florida's race for governor",
@@ -99,49 +153,49 @@
         "url": "https://www.pbs.org/newshour/politics/progressive-scores-upset-victory-in-florida-and-other-takeaways-from-tuesdays-elections"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6038507-cftc-innovation-committee-kickoff-meeting/",
+        "id": "https://thehill.com/homenews/senate/6038412-slotkin-letter-troops-polls/",
         "source": "The Hill",
-        "title": "Prediction markets shut out of Trump's meeting with tech executives",
+        "title": "Slotkin asks Hegseth, Caine to confirm troops won't be sent to polling places",
         "publicationDate": "2026-08-19",
-        "category": "Administration",
-        "summary": "Predication market officials will not attend a White House event Wednesday that will feature cryptocurrency and other tech leaders. President Trump \"will host an event with tech leaders tomorrow to strengthen America's innovative and technological dominance,” a White House official told Politico. “Prediction market companies will not be a part of the event,” they said....",
-        "url": "https://thehill.com/homenews/administration/6038507-cftc-innovation-committee-kickoff-meeting/"
+        "category": "Defense",
+        "summary": "Democratic Sen. Elissa Slotkin (Mich.) on Monday sent letters to Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Gen. Dan Caine, asking them to confirm they will not deploy U.S. servicemembers to polling places this year. In the letters, Slotkin asked Hegseth and Caine to confirm the Defense Department “will not send Federal...",
+        "url": "https://thehill.com/homenews/senate/6038412-slotkin-letter-troops-polls/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6038415-openai-pauses-ai-training/",
+        "id": "https://thehill.com/homenews/campaign/6038771-axelrod-criticizes-ossoff-trump-comments/",
         "source": "The Hill",
-        "title": "OpenAI pausing some model work over safety concerns",
+        "title": "Axelrod criticizes Ossoff's remark about Natalie Harp: 'Distracted and detracted'",
+        "publicationDate": "2026-08-19",
+        "category": "Campaign",
+        "summary": "Democratic strategist David Axelrod on Wednesday criticized recent comments from Sen. Jon Ossoff (D-Ga.) about President Trump and his longtime aide Natalie Harp. “No one has been more consistently eloquent or incisive in exposing @realDonaldTrump than @Ossoff. The paragraph from his weekend speech that has gotten so much attention was a brutal takedown. But two...",
+        "url": "https://thehill.com/homenews/campaign/6038771-axelrod-criticizes-ossoff-trump-comments/"
+    },
+    {
+        "id": "https://thehill.com/opinion/technology/6037322-texas-legislator-online-safety/",
+        "source": "The Hill",
+        "title": "Texas took on Big Tech's grip on kids — Congress should follow",
         "publicationDate": "2026-08-19",
         "category": "Technology",
-        "summary": "OpenAI said Tuesday it is pausing some frontier model training over safety concerns about its most advanced AI systems. The ChatGPT maker said in a blog post that it \"temporarily slowed the pace of scaling\" after its models independently gained access to the internet during testing and hacked into the tech company Hugging Face. It...",
-        "url": "https://thehill.com/policy/technology/6038415-openai-pauses-ai-training/"
+        "summary": "Texas state Rep. Ellen Troxclair called on Congress to pass the App Store Accountability Act following a U.S. Supreme Court ruling that allowed the state to enforce child safety legislation.",
+        "url": "https://thehill.com/opinion/technology/6037322-texas-legislator-online-safety/"
     },
     {
-        "id": "https://thehill.com/video-clips/6038440-watch-live-donald-trump-white-house-ballroom-helipad-legal-hurdles/",
+        "id": "https://thehill.com/policy/healthcare/6038649-cdc-cyclosporiasis-outbreak-cases/",
         "source": "The Hill",
-        "title": "Watch live: Trump briefs reporters on ballroom project despite legal hurdles",
+        "title": "Cyclosporiasis cases now total 15,716: CDC",
         "publicationDate": "2026-08-19",
-        "category": "Video",
-        "summary": "President Trump held an impromptu briefing from the South Lawn Wednesday, giving reporters an update on the White House ballroom project despite the legal battle. Trump last week urged the Supreme Court to immediately allow construction of the ballroom and berated lower court judges for halting it, insisting the project must proceed for national security...",
-        "url": "https://thehill.com/video-clips/6038440-watch-live-donald-trump-white-house-ballroom-helipad-legal-hurdles/"
+        "category": "Healthcare",
+        "summary": "The number of cyclosporiasis cases in the U.S. has now climbed to more than 15,000, according to the Centers for Disease Control and Prevention (CDC), as federal health officials continue to investigate an outbreak of the “explosive” diarrhea parasite linked to iceberg lettuce. The CDC confirmed Tuesday that it has received reports of 15,716 laboratory-confirmed...",
+        "url": "https://thehill.com/policy/healthcare/6038649-cdc-cyclosporiasis-outbreak-cases/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6038294-ai-concerns-job-displacement/",
+        "id": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6038668-meta-landmark-trial-young-users-addiction-discussion/",
         "source": "The Hill",
-        "title": "Majority 'more concerned than excited' about increased AI use in daily life: Survey",
+        "title": "Meta faces landmark trial over claims it intentionally hooked young users",
         "publicationDate": "2026-08-19",
-        "category": "Defense",
-        "summary": "More Americans are now growing concerned over artificial intelligence use in daily life, according to a recent survey. A new Pew Research survey released Tuesday showed 52 percent of respondents said they are more concerned than excited about AI, matching the all-time high in 2023 since the survey began. When asked if respondents were more...",
-        "url": "https://thehill.com/policy/technology/6038294-ai-concerns-job-displacement/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6038425-us-south-korea-war-games-scaled-back/",
-        "source": "The Hill",
-        "title": "Joint exercises with South Korea shortened by about half after Trump order",
-        "publicationDate": "2026-08-19",
-        "category": "Defense",
-        "summary": "The Pentagon and South Korean military on Wednesday confirmed major joint exercises between the two would be cut in half after President Trump ordered the reduction over the weekend. The exercise, which began on Monday and is known as Ulchi Freedom Shield, will end on Aug. 21 rather than the original date of Aug. 27,...",
-        "url": "https://thehill.com/policy/defense/6038425-us-south-korea-war-games-scaled-back/"
+        "category": "The Gavel - Live Briefing",
+        "summary": "A long-running legal fight is reaching a high-stakes moment this week as Meta faces allegations from a group of states that it intentionally designed its social media platforms to hook young users and downplayed safety risks in public. Join The Hill Legal Affairs Reporter Sophie Brams and Business and Tech Reporter Julia Shapero as they...",
+        "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6038668-meta-landmark-trial-young-users-addiction-discussion/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html",
@@ -184,9 +238,18 @@
         "source": "New York Times Politics",
         "title": "Mary Peltola and Dan Sullivan Advance in Key Alaska Senate Contest",
         "publicationDate": "2026-08-19",
-        "category": "Midterm Elections (2026)",
+        "category": "Alaska",
         "summary": "Both parties see Alaska as key to winning the Senate. The state’s nonpartisan primary put Mary Peltola, a Democratic former congresswoman, on the same ballot as Dan Sullivan, the incumbent Republican she hopes to unseat. Both advanced to the general election.",
         "url": "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/19/how-democratic-socialist-angie-nixon-pulled-off-an-upset-win-florida/",
+        "source": "Washington Post Politics",
+        "title": "Why a stunning democratic socialist win in Florida is different",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "Angie Nixon’s victory in the Senate primary was powered by voters who normally don’t gravitate to progressives in the state’s lowest-income and less-educated counties.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/19/how-democratic-socialist-angie-nixon-pulled-off-an-upset-win-florida/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/19/national-security-question-trips-up-darline-graham-debate/",
@@ -227,10 +290,10 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
         "publicationDate": "2026-08-19",
         "category": "Other",
-        "summary": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
+        "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
         "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -252,6 +315,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Israel opens up tenders for controversial West Bank settlement project",
+        "publicationDate": "2026-08-19",
+        "category": "Foreign Policy",
+        "summary": "Plans to build on the so-called E1 area - east of Jerusalem - have long been internationally condemned and would in effect divide the occupied West Bank in two.",
+        "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "South Korea shortens war games with US, citing Washington request",
@@ -261,13 +333,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+        "id": "https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Moderna shares double on melanoma vaccine trial success",
+        "publicationDate": "2026-08-19",
+        "category": "Healthcare",
+        "summary": "Drugmaker’s cancer shot developed with Merck delivers positive outcome in late-stage trial",
+        "url": "https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/ec9afdc4-5fc8-4333-83a7-80b25e1009bb?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Investigators discover track ‘irregularity’ near site of UK train derailment",
         "publicationDate": "2026-08-19",
         "category": "Other",
-        "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-        "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss"
+        "summary": "Officials examine CCTV footage of area around incident in East Sussex that injured 30 people",
+        "url": "https://www.ft.com/content/ec9afdc4-5fc8-4333-83a7-80b25e1009bb?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/c5551f25-74d5-441f-8eb0-ef7ef20c7ec4?syn-25a6b1a6=1",
@@ -281,7 +362,7 @@
     {
         "id": "https://www.ft.com/content/7a9c6019-bd0b-44b4-9a2d-db02ee881266?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Price of olive oil doubles in five years: how UK inflation has hit shoppers",
+        "title": "Price of olive oil doubles in five years as inflation hits UK shoppers",
         "publicationDate": "2026-08-19",
         "category": "Economy",
         "summary": "The majority of goods and services have shot up in price since 2021",
@@ -297,22 +378,13 @@
         "url": "https://www.ft.com/content/41c9e4c9-4d02-4ad5-b31f-afef9cd0346e?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/bfbc93ef-36e0-4ec0-b9ef-a84691fd41c5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Israel to probe troops over killing of Palestinian child Hind Rajab",
-        "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "Critics dismiss IDF call for two criminal investigations into notorious Gaza killings — one of which sparked film — as ‘charade’",
-        "url": "https://www.ft.com/content/bfbc93ef-36e0-4ec0-b9ef-a84691fd41c5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Moderna shares double on melanoma vaccine trial success",
-        "publicationDate": "2026-08-19",
+        "id": "IN11701",
+        "source": "Congressional Research Service",
+        "title": "Occupational Safety and Health Administration (OSHA) Regulation of Employee Exposure to Heat",
+        "publicationDate": "2026-08-18",
         "category": "Healthcare",
-        "summary": "Drugmaker’s cancer shot developed with Merck delivers positive outcome in late-stage trial",
-        "url": "https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1"
+        "summary": "Employees who work outdoors, including those in industries such as construction and agriculture, may be exposed to extreme heat conditions. Similarly, certain indoor work locations—such as bakeries, warehouses, and steel mills—may also expose employees to unsafe heat levels. The lead federal agency that regulates worker safety and health, the Occupational Safety and Health Administration (OSHA), does not have any...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN11701/IN11701.11.pdf"
     },
     {
         "id": "IF12990",
@@ -349,15 +421,6 @@
         "category": "Defense",
         "summary": "Executive Summary The United States is increasingly ill-equipped to deter or defeat Chinese aggression in the Western Pacific, particularly a potential invasion or blockade of Taiwan. The U.S. military no longer possesses the requisite quantity of warfighting systems—nor the industrial capacity to produce them at scale—needed to counter the People’s Liberation Army’s burgeoning arsenal. To […]",
         "url": "https://www.cfr.org/reports/out-of-ammo-a-two-year-sprint-to-rebuild-the-american-arsenal-and-deter-china"
-    },
-    {
-        "id": "https://www.cfr.org/articles/global-debt-crises-foreshadow-a-perilous-path-for-the-united-states",
-        "source": "Council on Foreign Relations",
-        "title": "Global Debt Crises Foreshadow a Perilous Path for the United States",
-        "publicationDate": "2026-08-18",
-        "category": "Economy",
-        "summary": "Debt crises in Senegal, Indonesia, and the United Kingdom offer warnings and lessons for the U.S.’ fiscal challenges.",
-        "url": "https://www.cfr.org/articles/global-debt-crises-foreshadow-a-perilous-path-for-the-united-states"
     },
     {
         "id": "https://www.heritage.org/global-politics/report/science-statecraft-chinese-research-vessel-operations-around-taiwan",
@@ -441,15 +504,6 @@
         "url": "https://cms.hoover.org/news/hoover-acquires-john-s-widdicombe-papers"
     },
     {
-        "id": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/",
-        "source": "European Council on Foreign Relations",
-        "title": "Cold comfort: What China can teach Europe about adaptation",
-        "publicationDate": "2026-08-18",
-        "category": "Foreign Policy",
-        "summary": "Europe is learning to adapt to a hotter climate. It should take the same approach to economic dependencies: manage the consequences, but also change the conditions that created them",
-        "url": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/"
-    },
-    {
         "id": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
         "source": "NPR Politics",
         "title": "Key results from Florida primaries, so far",
@@ -477,60 +531,6 @@
         "url": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/abc-says-fcc-waging-a-retaliatory-campaign-violating-free-speech-rights",
-        "source": "PBS NewsHour Politics",
-        "title": "ABC says FCC waging a retaliatory campaign violating free speech rights",
-        "publicationDate": "2026-08-18",
-        "category": "abc",
-        "summary": "ABC sued the FCC, arguing the agency is waging a retaliatory campaign of censorship against the broadcast network, violating its right to free speech. ABC says the commission has wielded its regulatory power to punish and pressure the company through investigations and threats to strip local stations of their broadcast licenses. Amna Nawaz discussed more with FCC Commissioner Anna Gomez.",
-        "url": "https://www.pbs.org/newshour/show/abc-says-fcc-waging-a-retaliatory-campaign-violating-free-speech-rights"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/2020-election-deniers-on-the-ballot-for-key-offices-in-battleground-states",
-        "source": "PBS NewsHour Politics",
-        "title": "2020 election deniers on the ballot for key offices in battleground states",
-        "publicationDate": "2026-08-18",
-        "category": "2007 State of the Union",
-        "summary": "In several key battleground states, Republican candidates who have questioned the legitimacy of the 2020 election are on the ballot. If elected to statewide offices like governor and secretary of state, these candidates could shape how elections are administered and certified in the years ahead. White House correspondent Liz Landers reports on election deniers running for office.",
-        "url": "https://www.pbs.org/newshour/show/2020-election-deniers-on-the-ballot-for-key-offices-in-battleground-states"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/the-growing-debate-over-big-money-influence-in-american-politics",
-        "source": "PBS NewsHour Politics",
-        "title": "The growing debate over big money influence in American politics",
-        "publicationDate": "2026-08-18",
-        "category": "alaska",
-        "summary": "Voters in Alaska are considering a ballot measure that aims to reduce the influence of big-money donors in state and local elections. It's part of a wider conversation about money in politics, sparked by a Supreme Court decision that struck down limits on how much parties can spend in coordination with their candidates in national elections. Geoff Bennett discussed more with Daniel Weiner.",
-        "url": "https://www.pbs.org/newshour/show/the-growing-debate-over-big-money-influence-in-american-politics"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/18/trump-revives-unverified-claims-noncitizen-voting-2020/",
-        "source": "Washington Post Politics",
-        "title": "Trump revives unverified claims of noncitizen voting in 2020",
-        "publicationDate": "2026-08-18",
-        "category": "Other",
-        "summary": "President Donald Trump on Tuesday repeated his long-standing falsehoods about a rigged 2020 election.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/18/trump-revives-unverified-claims-noncitizen-voting-2020/"
-    },
-    {
-        "id": "R47211",
-        "source": "Congressional Research Service",
-        "title": "Criminal Justice Data: Human Trafficking",
-        "publicationDate": "2026-08-17",
-        "category": "Healthcare",
-        "summary": "Human traffickers exploit vulnerable individuals for commercial sex and forced labor in a variety of legal and illegal industries, both across the United States and around the world. While some estimates of the incidence of human trafficking exist, comprehensive data on human trafficking within the United States are not available. Criminal Justice Data One method for understanding the extent and nature of a...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47211/R47211.7.pdf"
-    },
-    {
-        "id": "IF11284",
-        "source": "Congressional Research Service",
-        "title": "U.S.-China Trade Relations",
-        "publicationDate": "2026-08-17",
-        "category": "Economy",
-        "summary": "The People’s Republic of China (PRC or China) is the world’s second-largest economy and has been a top U.S. trading partner since China joined the World Trade Organization (WTO) in 2001. China is a major export market for U.S. aircraft, agriculture, semiconductor equipment/chips, gas turbines, and medical devices, and a top source of U.S. consumer goods and manufacturing inputs. At the same time, challenges U.S....",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11284/IF11284.37.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5043-1.html",
         "source": "RAND Corporation",
         "title": "AI Development in the United States and China",
@@ -547,15 +547,6 @@
         "category": "Defense",
         "summary": "A wave of conservative political change is sweeping across Latin America, creating a timely opening for renewed U.S. leadership in the Western Hemisphere. After years of inconstant American engagement, the region faces a convergence of threats that directly affect U.S. national security: surging narco-terrorism, mass migration, organized criminal violence, and the expanding influence of extra-hemispheric...",
         "url": "https://www.heritage.org/global-politics/report/us-andean-security-cooperation-essential-hemispheric-security-and-stability"
-    },
-    {
-        "id": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/",
-        "source": "European Council on Foreign Relations",
-        "title": "Buzzkill: How to defend Europe against drones",
-        "publicationDate": "2026-08-17",
-        "category": "European Security",
-        "summary": "Drone warfare in Europe is no longer tomorrow’s problem. The continent is under attack by drones today, and the threat is not isolated in the east.",
-        "url": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/"
     },
     {
         "id": "https://www.cer.eu/mailings-webform-report",
@@ -576,33 +567,6 @@
         "url": "https://www.npr.org/2026/08/17/nx-s1-5913672/florida-gop-race-draws-accusations-of-carpetbagging"
     },
     {
-        "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
-        "source": "European Council on Foreign Relations",
-        "title": "Legislative Elections (2026)",
-        "publicationDate": "2026-08-15",
-        "category": "Other",
-        "summary": "Elections for the Palestinian Legislative Council (PLC) are scheduled to take place on 28 November 2026 in the West Bank, East Jerusalem, and the Gaza Strip. The registration of electoral lists – which represent a party, coalition of parties, or a group of voters – will take place between 26 September and 7 October. Full […]",
-        "url": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/"
-    },
-    {
-        "id": "R49188",
-        "source": "Congressional Research Service",
-        "title": "Ecuador in Brief: Overview and U.S. Relations",
-        "publicationDate": "2026-08-14",
-        "category": "Defense",
-        "summary": "Ecuador is an ethnically and geographically diverse country of 18.1 million people, encompassing parts of South America’s Pacific coast, Amazon basin, and Andean highlands. Following a period of bilateral tensions under former President Rafael Correa (2006-2017), U.S.-Ecuador ties have strengthened, including under current President Daniel Noboa (2023-present) of the right-leaning National Democratic Action...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49188/R49188.2.pdf"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/",
-        "source": "European Council on Foreign Relations",
-        "title": "Political crisis in Germany",
-        "publicationDate": "2026-08-14",
-        "category": "European Power",
-        "summary": "Mark Leonard welcomes Jörg Lau and Jana Puglierin to discuss Germany’s deepening political crisis, the rise of the AfD and how the country’s regional elections could impact Europe’s largest democracy",
-        "url": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/"
-    },
-    {
         "id": "https://www.heritage.org/education/commentary/applying-the-white-houses-higher-ed-compact-state-level",
         "source": "Heritage Foundation",
         "title": "Applying the White House’s Higher-Ed “Compact” at State Level",
@@ -621,24 +585,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5031-1.html"
     },
     {
-        "id": "https://www.heritage.org/defense/report/maritime-legislation-explainer-and-next-steps",
-        "source": "Heritage Foundation",
-        "title": "Maritime Legislation: Explainer and Next Steps",
-        "publicationDate": "2026-08-12",
-        "category": "Defense",
-        "summary": "The Issue In the coming weeks, Congress will review critical legislation for the nation’s maritime industry (shipping, shipbuilding, and ports)—notably, the Shipbuilding and Harbor Infrastructure for Prosperity and Security (SHIPS) for America Act as amended in the 2027 National Defense Authorization Act (NDAA). This Factsheet provides an overview of the current national maritime revival and explains how various...",
-        "url": "https://www.heritage.org/defense/report/maritime-legislation-explainer-and-next-steps"
-    },
-    {
-        "id": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/",
-        "source": "European Council on Foreign Relations",
-        "title": "Power up: How EU-Africa cooperation can drive Europe’s battery recycling future",
-        "publicationDate": "2026-08-10",
-        "category": "Africa",
-        "summary": "Europeans are making little progress in their efforts to source critical raw materials from recycling. They should establish stricter export controls, expand domestic recycling and refining capacity, and develop stronger EU-Africa partnerships to benefit both continents",
-        "url": "https://ecfr.eu/article/power-up-how-eu-africa-cooperation-can-drive-europes-battery-recycling-future/"
-    },
-    {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
         "source": "Centre for European Reform",
         "title": "Survey: Centre for European Reform mailings",
@@ -655,6 +601,15 @@
         "category": "Foreign Policy",
         "summary": "Ökonom Sander Tordoir warnt vor einem „China-Schock 2.0“: Chinas massive Subventionen, Überkapazitäten und Exportoffensive setzen zentrale deutsche Branchen wie Autoindustrie, Maschinenbau und Chemie zunehmend unter Druck. Im Gespräch mit Paul Ronzheimer erklärt er, warum Deutschland diesmal im Zentrum des wirtschaftlichen Schocks steht, Hunderttausende Industriearbeitsplätze gefährdet sein könnten – und warum...",
         "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
+    },
+    {
+        "id": "R48922",
+        "source": "Congressional Research Service",
+        "title": "Comparison of Selected Versions of H.R. 6644",
+        "publicationDate": "2026-07-17",
+        "category": "Other",
+        "summary": "On July 11, 2026, the 21st Century ROAD to Housing Act was enacted into law. Enactment of the 21st Century ROAD to Housing Act was preceded by the consideration of several related legislative proposals in each chamber in the 119th Congress. This report compares the version of the 21st Century ROAD to Housing Act agreed to by the Senate on March 12 (H.R. 6644 as amended by S.Amdt. 4308), the version of the 21st...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48922/R48922.15.pdf"
     },
     {
         "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
