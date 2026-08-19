@@ -18,6 +18,15 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4720-1.html"
     },
     {
+        "id": "https://www.cfr.org/articles/the-u-s-munitions-crisis",
+        "source": "Council on Foreign Relations",
+        "title": "The U.S. Munitions Crisis",
+        "publicationDate": "2026-08-19",
+        "category": "Foreign Policy",
+        "summary": "The war against Iran has shown that Pentagon’s reliance on hard-to-produce hi-tech weapons creates a vulnerability in a world in which quantity may overwhelm quality.",
+        "url": "https://www.cfr.org/articles/the-u-s-munitions-crisis"
+    },
+    {
         "id": "https://www.cfr.org/podcasts/presidents-inbox/washingtons-missile-shortage",
         "source": "Council on Foreign Relations",
         "title": "Washington’s Missile Shortage, With Michael Horowitz",
@@ -54,13 +63,13 @@
         "url": "https://www.cfr.org/articles/the-1953-overthrow-of-iranian-prime-minister-mohammad-mosaddeq"
     },
     {
-        "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-ishaan-tharoor",
-        "source": "Council on Foreign Relations",
-        "title": "How I Got My Career in Foreign Policy: Ishaan Tharoor",
+        "id": "https://www.heritage.org/education/commentary/dont-military-families-deserve-education-freedom-too",
+        "source": "Heritage Foundation",
+        "title": "Don’t Military Families Deserve Education Freedom Too?",
         "publicationDate": "2026-08-19",
-        "category": "Foreign Policy",
-        "summary": "CFR’s press fellow explains how he went from chasing stories across Asia at age twenty-two to writing one of Washington’s top foreign affairs newsletters—and now pens his own column for The New Yorker.",
-        "url": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-ishaan-tharoor"
+        "category": "Defense",
+        "summary": "If you choose to serve in the U.S. military, you should also be able to choose the best education for your children. Today, nearly 22 million children, or 40 percent of all K-12 students in the U.S., have access to some form of school choice. Why shouldn’t military families enjoy the same freedom regardless of where they’re stationed? Military families say that their children's education is one of the most serious...",
+        "url": "https://www.heritage.org/education/commentary/dont-military-families-deserve-education-freedom-too"
     },
     {
         "id": "https://www.heritage.org/life/commentary/aocs-illogical-case-egg-freezing",
@@ -189,6 +198,15 @@
         "url": "https://cms.hoover.org/research/three-news-items-and-lesson"
     },
     {
+        "id": "https://www.npr.org/2026/08/19/nx-s1-5937530/florida-senate-primary-winner-angie-nixon-relied-on-grassroots-organizing",
+        "source": "NPR Politics",
+        "title": "Florida senate primary winner Angie Nixon relied on grassroots organizing",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "NPR's Juana Summers talks with Angie Nixon, a progressive democrat who won her U.S. Senate primary in Florida despite being massively outmatched in terms of spending.",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5937530/florida-senate-primary-winner-angie-nixon-relied-on-grassroots-organizing"
+    },
+    {
         "id": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
         "source": "NPR Politics",
         "title": "Elbridge who? How the name of a forgotten founder lives on in the word 'gerrymander'",
@@ -196,6 +214,33 @@
         "category": "Other",
         "summary": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a \"gerrymandered\" state legislative map inadvertently won him lasting infamy.",
         "url": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/how-did-u-s-debt-hit-40-trillion-heres-what-to-know",
+        "source": "PBS NewsHour Politics",
+        "title": "How did U.S. debt hit $40 trillion? Here's what to know",
+        "publicationDate": "2026-08-19",
+        "category": "Economy",
+        "summary": "There is a lot to unpack about the national debt. Here's a starter guide to what's happening with the national debt right now.",
+        "url": "https://www.pbs.org/newshour/politics/how-did-u-s-debt-hit-40-trillion-heres-what-to-know"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/what-to-know-about-the-fake-election-poll-numbers-shared-and-retracted-by-a-mysterious-company",
+        "source": "PBS NewsHour Politics",
+        "title": "What to know about the fake election poll numbers shared and retracted by a mysterious company",
+        "publicationDate": "2026-08-19",
+        "category": "california",
+        "summary": "Locked in a competitive reelection race, Los Angeles Mayor Karen Bass declared on social media last week that a new poll was evidence that her campaign was \"gaining momentum.\"",
+        "url": "https://www.pbs.org/newshour/politics/what-to-know-about-the-fake-election-poll-numbers-shared-and-retracted-by-a-mysterious-company"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-talks-about-north-korea-interest-rates-while-hosting-cryptocurrency-leaders-at-the-white-house",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump talks about North Korea, interest rates while hosting cryptocurrency leaders at the White House",
+        "publicationDate": "2026-08-19",
+        "category": "Defense",
+        "summary": "President Donald Trump held court on Wednesday with several cryptocurrency and finance leaders for an event on digital assets.",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-talks-about-north-korea-interest-rates-while-hosting-cryptocurrency-leaders-at-the-white-house"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/watch-trump-previews-new-white-house-helipad",
@@ -216,31 +261,40 @@
         "url": "https://www.pbs.org/newshour/politics/trump-picks-white-house-aide-dr-heidi-overton-to-lead-fda"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/sen-darline-graham-avoids-giving-direct-answer-to-national-security-question-in-s-c-debate-not-my-thing",
-        "source": "PBS NewsHour Politics",
-        "title": "Sen. Darline Graham avoids giving direct answer to national security question in S.C. debate: 'Not my thing'",
+        "id": "https://thehill.com/policy/international/6039509-sergio-gor-india-pakistan-jammu-kashmir/",
+        "source": "The Hill",
+        "title": "US ambassador to India causes diplomatic firestorm with Kashmir comment",
         "publicationDate": "2026-08-19",
-        "category": "Darline Graham",
-        "summary": "It was a high-profile misstep a week before she faces a runoff election in her bid to hold onto the South Carolina seat to which she was appointed last month.",
-        "url": "https://www.pbs.org/newshour/politics/sen-darline-graham-avoids-giving-direct-answer-to-national-security-question-in-s-c-debate-not-my-thing"
+        "category": "Foreign Policy",
+        "summary": "U.S. Ambassador to India Sergio Gor on Wednesday stirred a diplomatic firestorm after he told reporters that the state of Jammu and Kashmir is an “important part of India.” Gor reignited diplomatic tensions over the area of Kashmir, which has been claimed by both India and Pakistan. The two nuclear-armed countries have fought three wars...",
+        "url": "https://thehill.com/policy/international/6039509-sergio-gor-india-pakistan-jammu-kashmir/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/americans-have-elected-only-3-black-governors-this-year-8-major-party-candidates-are-on-the-ballot",
-        "source": "PBS NewsHour Politics",
-        "title": "Americans have elected only 3 Black governors. This year, 8 major party candidates are on the ballot",
+        "id": "https://thehill.com/policy/healthcare/6039782-judge-blocks-trump-teen-pregnancy-program-changes/",
+        "source": "The Hill",
+        "title": "Federal court pauses Trump changes to Teen Pregnancy Prevention program",
         "publicationDate": "2026-08-19",
-        "category": "Byron Donalds",
-        "summary": "With Florida Republicans nominating U.S. Rep. Byron Donalds on Tuesday, there are eight Black major party gubernatorial nominees — men and women, Democrats and Republicans — on November ballots.",
-        "url": "https://www.pbs.org/newshour/politics/americans-have-elected-only-3-black-governors-this-year-8-major-party-candidates-are-on-the-ballot"
+        "category": "Healthcare",
+        "summary": "A federal judge in Washington, D.C., on Wednesday temporarily blocked the Trump administration’s changes to the Teen Pregnancy Prevention (TPP) program that resulted in the abrupt loss of tens of millions of dollars in federal grants. The order from U.S. District Judge Christopher Cooper, who was appointed by former President Obama, pauses the administration's effort...",
+        "url": "https://thehill.com/policy/healthcare/6039782-judge-blocks-trump-teen-pregnancy-program-changes/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/democratic-socialist-angie-nixon-won-the-senate-primary-in-florida-can-she-win-in-november",
-        "source": "PBS NewsHour Politics",
-        "title": "Democratic socialist Angie Nixon won the Senate primary in Florida. Can she win in November?",
+        "id": "https://thehill.com/policy/defense/6039738-uae-halts-iran-trade/",
+        "source": "The Hill",
+        "title": "UAE cuts off trade with Iran after missiles land in water",
         "publicationDate": "2026-08-19",
-        "category": "Angie Nixon",
-        "summary": "Nixon's upset sets up a long-shot challenge to U.S. Sen. Ashley Moody, a former state attorney general who Gov. Ron DeSantis selected to fill the seat after it was vacated by Marco Rubio, who Trump chose as secretary of state.",
-        "url": "https://www.pbs.org/newshour/politics/democratic-socialist-angie-nixon-won-the-senate-primary-in-florida-can-she-win-in-november"
+        "category": "Defense",
+        "summary": "The United Arab Emirates (UAE) announced Tuesday it is cutting off trade with Iran after accusing it of firing two missiles toward the UAE. Afra Al Hameli, director of the UAE's Ministry of Foreign Affairs Strategic Communications Department, stated that “in the light of regional escalations that undermine regional and international peace and security, all...",
+        "url": "https://thehill.com/policy/defense/6039738-uae-halts-iran-trade/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6039728-trump-calls-lower-rates-bond-market/",
+        "source": "The Hill",
+        "title": "Trump plays down bond market fears, pushes interest rate cuts",
+        "publicationDate": "2026-08-19",
+        "category": "Administration",
+        "summary": "President Trump downplayed concerns around the bond market and called for lower interest rates during a meeting with cryptocurrency executives at the White House on Wednesday. “No, I don’t think so,” Trump told reporters, in response to a question about whether Americans should be concerned about volatility in the bond market. “Our country is doing...",
+        "url": "https://thehill.com/homenews/administration/6039728-trump-calls-lower-rates-bond-market/"
     },
     {
         "id": "https://thehill.com/homenews/campaign/6039588-democrats-flip-pennsylvania-state-house-seat/",
@@ -248,44 +302,17 @@
         "title": "Democrats flip Pennsylvania state House seat in Trump district",
         "publicationDate": "2026-08-19",
         "category": "Campaign",
-        "summary": "Democrats are declaring victory in a Tuesday special election for a Pennsylvania state House seat, flipping a district that has supported Republican candidates for decades. Brandon Dukes, the Democrat candidate, defeated Republican Scott Timko with a lead just shy of 100 votes in the race to represent Pennsylvania’s 12th District, according to Decision Desk HQ....",
+        "summary": "Democrats are declaring victory in a Tuesday special election for a Pennsylvania state House seat, flipping a district that has supported Republican candidates for decades. Brandon Dukes, the Democratic candidate, defeated Republican Scott Timko with a lead just shy of 100 votes in the race to represent Pennsylvania’s 12th District, according to Decision Desk HQ....",
         "url": "https://thehill.com/homenews/campaign/6039588-democrats-flip-pennsylvania-state-house-seat/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6039680-kennedy-center-trump-name-delay/",
-        "source": "The Hill",
-        "title": "Kennedy Center delays restoring Trump’s name to front amid legal battle",
+        "id": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html",
+        "source": "New York Times Politics",
+        "title": "Alabama Democrats Look for a Black Backlash Over Voting Rights",
         "publicationDate": "2026-08-19",
-        "category": "Court Battles",
-        "summary": "The Kennedy Center has agreed to hold off on placing President Trump’s name onto the performing arts building amid an ongoing legal battle over the venue. The center’s Trump-aligned board voted last week to add the president’s name to its building again, months after a federal judge ordered it removed. The center said in a...",
-        "url": "https://thehill.com/regulation/court-battles/6039680-kennedy-center-trump-name-delay/"
-    },
-    {
-        "id": "https://thehill.com/homenews/media/6039587-trump-cohen-radio-interview/",
-        "source": "The Hill",
-        "title": "Trump to sit down with Michael Cohen for interview, former fixer says",
-        "publicationDate": "2026-08-19",
-        "category": "Media",
-        "summary": "President Trump will sit for an interview with Michael Cohen, his former personal attorney turned critic, who admitted to facilitating payments to adult film actor Stormy Daniels to cover up an alleged affair ahead of the 2016 presidential election. Cohen, who had sparred with Trump in recent years after a public falling out, has since reconciled with the president,...",
-        "url": "https://thehill.com/homenews/media/6039587-trump-cohen-radio-interview/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6039452-turley-comments-median-strategies-polls/",
-        "source": "The Hill",
-        "title": "Turley says fake pollster 'raises an interesting legal question'",
-        "publicationDate": "2026-08-19",
-        "category": "Campaign",
-        "summary": "Jonathan Turley, a George Washington University Law School professor, on Wednesday said the fake pollster that claimed Los Angeles Mayor Karen Bass (D) and former Wisconsin gubernatorial candidate Francesca Hong (D) led in their respective races by wide margins \"raises an interesting legal question.\" \"The disclosure that Median Strategies released fake polling on major political...",
-        "url": "https://thehill.com/homenews/campaign/6039452-turley-comments-median-strategies-polls/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6039547-lindell-funds-minnesota-recount/",
-        "source": "The Hill",
-        "title": "Lindell calls for self-funded recount after 11-point loss in Minnesota governor's primary",
-        "publicationDate": "2026-08-19",
-        "category": "Campaign",
-        "summary": "MyPillow founder Mike Lindell is privately funding a hand recount and audit of Minnesota’s Republican gubernatorial primary, which he lost by roughly 11 percentage points. Lindell in a statement Wednesday cited multiple “irregularities” that he said were caught by his team during election night — including what were described as vote totals that moved backward during...",
-        "url": "https://thehill.com/homenews/campaign/6039547-lindell-funds-minnesota-recount/"
+        "category": "United States Politics and Government",
+        "summary": "Democrats in Alabama and beyond are trying to harness Black anger over the Supreme Court’s weakening of the Voting Rights Act and the Republican redistricting that followed.",
+        "url": "https://www.nytimes.com/2026/08/19/us/politics/alabama-voting-rights-act-black-voters.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html",
@@ -324,13 +351,22 @@
         "url": "https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html",
-        "source": "New York Times Politics",
-        "title": "Angie Nixon Notches Another Win for the Left Through Old-Fashioned Organizing",
+        "id": "https://www.washingtonpost.com/politics/2026/08/19/what-it-means-that-democrats-are-winning-special-elections-trump-country/",
+        "source": "Washington Post Politics",
+        "title": "What it means that Democrats are winning special elections in Trump country",
         "publicationDate": "2026-08-19",
-        "category": "Florida",
-        "summary": "State Representative Angie Nixon scored a stunning upset on Tuesday in Florida’s Democratic Senate primary. Her victory will test the strength of a democratic socialist in a red state.",
-        "url": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html"
+        "category": "Other",
+        "summary": "The latest victory came in a state House race near Butler, Pennsylvania, where Trump survived an attempt on his life in 2024 and won big.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/19/what-it-means-that-democrats-are-winning-special-elections-trump-country/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/19/gop-memo-warns-ohio-sen-john-husted-is-being-dragged-down-by-data-centers/",
+        "source": "Washington Post Politics",
+        "title": "Ties to data centers could cost Ohio Sen. John Husted his seat, memo warns",
+        "publicationDate": "2026-08-19",
+        "category": "Other",
+        "summary": "A GOP memo obtained by The Post urges the tech industry to take action to improve the image of the controversial facilities.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/19/gop-memo-warns-ohio-sen-john-husted-is-being-dragged-down-by-data-centers/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/19/trump-says-he-expects-meet-with-north-koreas-kim-jong-un-later-this-year/",
@@ -358,24 +394,6 @@
         "category": "Other",
         "summary": "The Justice Department argues the former FBI director intentionally threatened the life of President Donald Trump in part to increase his book sales and says its prosecution of him is not vindictive.",
         "url": "https://www.washingtonpost.com/national-security/2026/08/19/doj-rejects-claim-that-its-prosecution-comey-is-vindictive/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/19/elon-musk-posted-she-lost-her-job-now-she-seeks-clear-her-name/",
-        "source": "Washington Post Politics",
-        "title": "Elon Musk posted, and she lost her job. Now, she seeks to clear her name.",
-        "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "A judge found that Mary Comans unlawfully lost her job at FEMA amid cuts by the U.S. DOGE Service.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/19/elon-musk-posted-she-lost-her-job-now-she-seeks-clear-her-name/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/19/trump-shows-off-his-new-helipad-brags-about-construction-projects/",
-        "source": "Washington Post Politics",
-        "title": "Trump shows off his new helipad, brags about construction projects",
-        "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "For a brief period Wednesday, the president set aside more troubling issues to revel in his role as White House redeveloper.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-shows-off-his-new-helipad-brags-about-construction-projects/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
@@ -423,9 +441,27 @@
         "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/93e67b8b-e7ab-4f4c-8bc9-0a479183bd2e",
+        "source": "Financial Times World",
+        "title": "Green activist who celebrated Iran’s ‘resistance’ elected to party council",
+        "publicationDate": "2026-08-19",
+        "category": "Foreign Policy",
+        "summary": "Eleanora Folan had praised Tehran’s ‘courageous fight against the imperialist dogs’",
+        "url": "https://www.ft.com/content/93e67b8b-e7ab-4f4c-8bc9-0a479183bd2e"
+    },
+    {
+        "id": "https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US government debt hits $40tn as borrowing rises at historic rate",
+        "publicationDate": "2026-08-19",
+        "category": "Economy",
+        "summary": "Public spending surges despite Donald Trump’s vow to stabilise America’s public finances",
+        "url": "https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Moderna shares double on skin cancer vaccine success",
+        "title": "Moderna shares nearly triple on skin cancer vaccine success",
         "publicationDate": "2026-08-19",
         "category": "Healthcare",
         "summary": "Drugmaker’s melanoma shot developed with Merck delivers positive outcome in late-stage trial",
@@ -450,24 +486,6 @@
         "url": "https://www.ft.com/content/6e83ce44-1bff-4a07-86ad-5355c0d240ff?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/89d82561-089a-4723-9111-2fdd30552412",
-        "source": "Financial Times World",
-        "title": "Meet Gregory Fenelon, the (self-declared) $14bn man",
-        "publicationDate": "2026-08-19",
-        "category": "Other",
-        "summary": "He has big stakes. We have big questions.",
-        "url": "https://www.ft.com/content/89d82561-089a-4723-9111-2fdd30552412"
-    },
-    {
-        "id": "https://www.ft.com/content/aad0fdbb-f3bf-4b99-b826-7bde552b9d81?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Fed officials express rising concern over persistently high inflation",
-        "publicationDate": "2026-08-19",
-        "category": "Economy",
-        "summary": "Minutes from July central bank meeting show ‘many’ policymakers are prepared to increase borrowing costs",
-        "url": "https://www.ft.com/content/aad0fdbb-f3bf-4b99-b826-7bde552b9d81?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4999-1.html",
         "source": "RAND Corporation",
         "title": "Building a Defense-in-Depth Biosecurity Strategy for the AI Era",
@@ -484,15 +502,6 @@
         "category": "Other",
         "summary": "This report presents an occupation-based framework to estimate vital workforce size and personal protective equipment demand during a pandemic. An interactive dashboard supports scenario-based planning at the national, state, and regional levels.",
         "url": "https://www.rand.org/pubs/research_reports/RRA5083-1.html"
-    },
-    {
-        "id": "https://www.heritage.org/global-politics/report/science-statecraft-chinese-research-vessel-operations-around-taiwan",
-        "source": "Heritage Foundation",
-        "title": "Science as Statecraft: Chinese Research Vessel Operations Around Taiwan",
-        "publicationDate": "2026-08-18",
-        "category": "Defense",
-        "summary": "On July 23, 2026, Chinese research vessel Lanhai 201 completed a weeklong survey in waters east of Taiwan that Chinese authorities claimed was conducted to collect “biological and environmental data to support the conservation and sustainable management of fisheries.” Liu Chien-pang and Joseph Yeh, “Taiwan Condemns China After Another Research Vessel Enters Its EEZ,” Focus Taiwan (CNA [Central News Agency] English...",
-        "url": "https://www.heritage.org/global-politics/report/science-statecraft-chinese-research-vessel-operations-around-taiwan"
     },
     {
         "id": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/",
@@ -556,15 +565,6 @@
         "category": "Economy",
         "summary": "Mailings survery August 26 (242 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Kate Mullineux Too much A weekly newsletter with links to all content kate@cer.eu 2026-08-06 Godfried De Vidts About right gadv@gadv.be all good,...",
         "url": "https://www.cer.eu/mailings-webform-report"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/17/nx-s1-5913672/florida-gop-race-draws-accusations-of-carpetbagging",
-        "source": "NPR Politics",
-        "title": "Florida GOP race draws accusations of carpetbagging",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "\"Carpetbagger\" describes people who move somewhere to run for office. In Southwest Florida, six former congressional hopefuls from other states are taking their shot in this conservative stronghold.",
-        "url": "https://www.npr.org/2026/08/17/nx-s1-5913672/florida-gop-race-draws-accusations-of-carpetbagging"
     },
     {
         "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
