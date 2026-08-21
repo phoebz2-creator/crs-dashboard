@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://thehill.com/homenews/house/6042857-subramanyam-pushes-data-center-limits-ai/",
+        "source": "The Hill",
+        "title": "House Democrat: Rein in data centers without losing tech race to China",
+        "publicationDate": "2026-08-21",
+        "category": "Foreign Policy",
+        "summary": "Democratic Rep. Suhas Subramanyam (Va.), whose own district lies in a hotbed of data center activity, pushed to rein them in on Thursday, but not enough where the U.S. would lose the technology race to China. “The reality is, if we want to grow and develop some of these emerging technologies like AI and others,...",
+        "url": "https://thehill.com/homenews/house/6042857-subramanyam-pushes-data-center-limits-ai/"
+    },
+    {
+        "id": "https://thehill.com/blogs/in-the-know/6042806-melania-trump-jokes-about-her-low-profile-in-rose-garden-remarks/",
+        "source": "The Hill",
+        "title": "Melania Trump jokes about her low profile in Rose Garden remarks",
+        "publicationDate": "2026-08-21",
+        "category": "In The Know",
+        "summary": "First lady Melania Trump poked fun at her low profile throughout her husband's second term during a White House event Thursday, making her first major public appearance since mid-July. “Good afternoon,” the first lady greeted press at the White House Rose Garden for an event highlighting her new foster care scholarship initiative. “I heard you...",
+        "url": "https://thehill.com/blogs/in-the-know/6042806-melania-trump-jokes-about-her-low-profile-in-rose-garden-remarks/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html",
+        "source": "New York Times Politics",
+        "title": "On the Radio, Trump Has a Reunion (of Sorts) With Michael Cohen",
+        "publicationDate": "2026-08-21",
+        "category": "United States Politics and Government",
+        "summary": "President Trump’s former personal lawyer tried to revisit the past in a radio interview. But this was not exactly a stroll down memory lane.",
+        "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-radio-michael-cohen.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/08/20/us/politics/sean-duffy-american-road-trip.html",
         "source": "New York Times Politics",
         "title": "Transportation Secretary Sean Duffy’s ‘Road Trip’ Highlights America, and Some of Its Sponsors",
@@ -9,13 +36,13 @@
         "url": "https://www.nytimes.com/2026/08/20/us/politics/sean-duffy-american-road-trip.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html",
+        "id": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
         "source": "New York Times Politics",
-        "title": "Targeted by an Islamophobic Provocateur, a City’s Muslims Are on Edge",
+        "title": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
         "publicationDate": "2026-08-21",
-        "category": "Muslims and Islam",
-        "summary": "Jake Lang has descended four times on Dearborn, Mich., which is majority Arab American. His rhetoric and protests have stirred fear among residents.",
-        "url": "https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html"
+        "category": "Foreign Policy",
+        "summary": "A foreign policy specialist, she was politically savvy and well versed in global issues, and traveled widely with her husband, Henry A. Kissinger, on his diplomatic missions.",
+        "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/20/president-donald-trump-appears-podcast-michael-cohen/",
@@ -27,15 +54,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/20/president-donald-trump-appears-podcast-michael-cohen/"
     },
     {
-        "id": "IF10017",
-        "source": "Congressional Research Service",
-        "title": "Export-Import Bank: Overview and Reauthorization Debate",
-        "publicationDate": "2026-08-20",
-        "category": "Defense",
-        "summary": "The Export-Import Bank of the United States (Ex-Im Bank, or the Bank) is a wholly owned government corporation and an export credit agency (ECA). It aims to support U.S. jobs by financing and facilitating U.S. goods and services exports when the private sector is unwilling or unable to provide financing at acceptable rates and/or U.S. exports are competing against foreign ECA-financed exports. Ex-Im Bank operates...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10017/IF10017.42.pdf"
-    },
-    {
         "id": "IF12958",
         "source": "Congressional Research Service",
         "title": "Section 301 and China: Mature-Node Semiconductors",
@@ -43,6 +61,15 @@
         "category": "Defense",
         "summary": "Title III of the Trade Act of 1974 (Sections 301-310, 19 U.S.C. §§2411-2420, referred to as “Section 301”) is one of the principal statutory means by which the United States enforces U.S. rights under trade agreements and addresses “unfair” foreign barriers to U.S. exports. It grants the U.S. Trade Representative (USTR) a range of authorities to investigate foreign trade acts, policies, and practices and to impose...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12958/IF12958.7.pdf"
+    },
+    {
+        "id": "IN12553",
+        "source": "Congressional Research Service",
+        "title": "Stablecoin Legislation: An Overview of the GENIUS Act of 2025 (P.L. 119-27)",
+        "publicationDate": "2026-08-20",
+        "category": "Economy",
+        "summary": "On July 18, 2025, the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) was signed into law as P.L. 119-27. An overview of key policy issues can be found here. The act establishes a regime to regulate U.S. payment stablecoins, as described below. Requirements for Issuing Payment Stablecoins The act defines payment stablecoin as a digital asset issued for payment or settlement and...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12553/IN12553.6.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4772-1.html",
@@ -243,6 +270,15 @@
         "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/state-lawmaker-aisha-wahab-wins-california-special-election-to-replace-former-rep-swalwell",
+        "source": "PBS NewsHour Politics",
+        "title": "State lawmaker Aisha Wahab wins California special election to replace former Rep. Swalwell",
+        "publicationDate": "2026-08-20",
+        "category": "Aisha Wahab",
+        "summary": "Swalwell, a Democrat who was running for California governor, ended his campaign and resigned from Congress in April after he was accused of sexual assault and harassment, which he denies.",
+        "url": "https://www.pbs.org/newshour/politics/state-lawmaker-aisha-wahab-wins-california-special-election-to-replace-former-rep-swalwell"
+    },
+    {
         "id": "https://www.pbs.org/newshour/show/why-treasury-yields-are-at-20-year-highs-and-why-it-matters",
         "source": "PBS NewsHour Politics",
         "title": "Why Treasury yields are at 20-year highs – and why it matters",
@@ -279,15 +315,6 @@
         "url": "https://www.pbs.org/newshour/politics/watch-first-lady-melania-trump-announces-fostering-the-future-partnership-with-indycar-and-fox"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/ap-report-federal-agents-seize-devices-from-ex-rep-eric-swalwell-in-sexual-misconduct-probe",
-        "source": "PBS NewsHour Politics",
-        "title": "AP report: Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe",
-        "publicationDate": "2026-08-20",
-        "category": "california",
-        "summary": "Federal agents seized electronic devices from former Rep. Eric Swalwell and searched his Washington home as part of an investigation into allegations of sexual misconduct by the ex-Democratic congressman from California, according to a person familiar with the matter.",
-        "url": "https://www.pbs.org/newshour/politics/ap-report-federal-agents-seize-devices-from-ex-rep-eric-swalwell-in-sexual-misconduct-probe"
-    },
-    {
         "id": "https://thehill.com/homenews/administration/6042769-trump-cohen-radio-interview-economy/",
         "source": "The Hill",
         "title": "Trump, Cohen set aside beef in radio interview",
@@ -313,33 +340,6 @@
         "category": "Defense",
         "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story US approves $4.5 billion sale of refueling planes to Qatar The U.S. approved on Thursday a possible $4.5 billion sale of four aerial refueling aircraft and related equipment to Qatar. Christopher Pike, Bloomberg via Getty Images...",
         "url": "https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6042667-us-army-phasing-out-drone-unit/",
-        "source": "The Hill",
-        "title": "Army plans to phase out drone unit championed by sacked generals",
-        "publicationDate": "2026-08-20",
-        "category": "Defense",
-        "summary": "The U.S. Army plans to phase out a drone unit that was studying and incorporating lessons from foreign wars, including the use of uncrewed systems in the Russia-Ukraine war, an Army official confirmed to The Hill on Thursday. The infantry battalion, known as the Unmanned Assault Battalion, will participate at the Joint Multinational Readiness Center...",
-        "url": "https://thehill.com/policy/defense/6042667-us-army-phasing-out-drone-unit/"
-    },
-    {
-        "id": "https://thehill.com/homenews/6042671-rogers-pushing-for-one-year-pause-on-data-center-construction/",
-        "source": "The Hill",
-        "title": "Rogers pushing for 1-year pause on data center construction",
-        "publicationDate": "2026-08-20",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story Mike Rogers calls for one-year data center moratorium Former Rep. Mike Rogers, the GOP nominee in a critical Senate battle in Michigan, on Thursday called for a one-year pause on data center construction, the latest sign of the political toxicity of the server warehouses fueling the AI boom....",
-        "url": "https://thehill.com/homenews/6042671-rogers-pushing-for-one-year-pause-on-data-center-construction/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
-        "source": "New York Times Politics",
-        "title": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
-        "publicationDate": "2026-08-20",
-        "category": "Foreign Policy",
-        "summary": "A foreign policy specialist, she was politically savvy and well versed in global issues, and traveled widely with her husband, Henry A. Kissinger, on his diplomatic missions.",
-        "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html",
@@ -486,15 +486,6 @@
         "url": "https://www.ft.com/content/402d716a-0cf1-46e6-b09b-e37d6ea428a5?syn-25a6b1a6=1"
     },
     {
-        "id": "R43311",
-        "source": "Congressional Research Service",
-        "title": "Iran: U.S. Economic Sanctions and the Authority to Lift Restrictions",
-        "publicationDate": "2026-08-19",
-        "category": "Defense",
-        "summary": "U.S. sanctions related to Iran are arguably among the most comprehensive of any such sanctions that the United States unilaterally maintains with respect to a foreign country. The United States has imposed sanctions on thousands of individuals and entities in Iran and in third countries. Such sanctions have contributed to the U.S. government’s long-standing efforts to deprive the Iranian government of resources to...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43311/R43311.40.pdf"
-    },
-    {
         "id": "IN12731",
         "source": "Congressional Research Service",
         "title": "Defense Infrastructure Funding in the 119th Congress",
@@ -518,7 +509,7 @@
         "title": "The U.S. Munitions Crisis",
         "publicationDate": "2026-08-19",
         "category": "Foreign Policy",
-        "summary": "The war against Iran has shown that Pentagon’s reliance on hard-to-produce hi-tech weapons creates a vulnerability in a world in which quantity may overwhelm quality.",
+        "summary": "The war against Iran has shown that the Pentagon’s reliance on hard-to-produce hi-tech weapons creates a vulnerability in a world in which quantity may overwhelm quality.",
         "url": "https://www.cfr.org/articles/the-u-s-munitions-crisis"
     },
     {
@@ -673,5 +664,14 @@
         "category": "Healthcare",
         "summary": "Temporary Assistance for Needy Families (TANF) helps states fund cash assistance programs for needy families with children. It was created in the Personal Responsibility and Work Opportunity Reconciliation Act (PRWORA, P.L. 104-193) during a period of experimentation with different forms of welfare-to-work programs. Engagement of nonemployed cash assistance recipients (mostly single mothers) in job preparation...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R48827/R48827.3.pdf"
+    },
+    {
+        "id": "R43797",
+        "source": "Congressional Research Service",
+        "title": "U.S. Secret Service Protection Mission Funding and Staffing: Fact Sheet",
+        "publicationDate": "2014-11-25",
+        "category": "Defense",
+        "summary": "The U.S. Secret Service (USSS) has two broad missions, criminal investigations and protection. The protection mission, which is the focus of this fact sheet, covers the President, Vice President, their families, and candidates for those offices, along with the White House and Vice President’s residence, through the Service’s Uniformed Division. Protective duties also extend to foreign missions in the District of...",
+        "url": "https://www.congress.gov/crs_external_products/R/HTML/R43797.html"
     }
 ]
