@@ -81,40 +81,58 @@
         "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
         "publicationDate": "2026-08-21",
-        "category": "Foreign Policy",
-        "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
+        "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab",
+        "id": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "North Korea’s economy enjoys rare ‘dash for flash’",
+        "title": "FirstFT: Scott Bessent battles bond vigilantes",
+        "publicationDate": "2026-08-21",
+        "category": "Other",
+        "summary": "Also in this newsletter: Healey’s deficit warning and HSBC’s job cuts",
+        "url": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/4e128c45-b84c-4fc3-98bf-c5033c201ea6?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Japanese inflation rises as central bank weighs rate increase",
         "publicationDate": "2026-08-21",
         "category": "Economy",
-        "summary": "Kim Jong Un’s backing for Russian war on Ukraine fuels construction boom and sales of luxury goods",
-        "url": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab"
+        "summary": "Bank of Japan under pressure to act on rates in September as yen weakens despite joint intervention",
+        "url": "https://www.ft.com/content/4e128c45-b84c-4fc3-98bf-c5033c201ea6?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/2d7e64e8-386a-4987-ae4d-04b6bf2a5e6a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Shanghai’s answer to Nasdaq outstrips Hong Kong amid Chinese tech frenzy",
+        "title": "Healey warned to limit Budget borrowing amid bond sell-off",
         "publicationDate": "2026-08-21",
-        "category": "Other",
-        "summary": "Star 50 index up almost a quarter this year, leaving rivals behind",
-        "url": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1"
+        "category": "Economy",
+        "summary": "New chancellor plans to stay ‘well within’ Labour’s fiscal rules, say allies",
+        "url": "https://www.ft.com/content/2d7e64e8-386a-4987-ae4d-04b6bf2a5e6a?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/2c71652b-8c56-4e53-81f4-a455845ee9d7?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/4b7b8d3f-5625-4dba-ad90-66192c101956?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "India’s troubled SpiceJet wrangles a last-minute break",
+        "title": "Feminism didn’t kill the male breadwinner model, the economy did",
         "publicationDate": "2026-08-21",
-        "category": "Other",
-        "summary": "Also in this newsletter: food safety regulator cracks the whip",
-        "url": "https://www.ft.com/content/2c71652b-8c56-4e53-81f4-a455845ee9d7?syn-25a6b1a6=1"
+        "category": "Economy",
+        "summary": "Young non-graduate men face unique setbacks",
+        "url": "https://www.ft.com/content/4b7b8d3f-5625-4dba-ad90-66192c101956?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Scott Bessent takes on bond vigilantes in $32tn Treasury market",
+        "publicationDate": "2026-08-21",
+        "category": "Economy",
+        "summary": "Wall Street investors say move to buy more long-term US debt is a ‘band-aid on a bullet hole’",
+        "url": "https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1"
     },
     {
         "id": "IF10017",
@@ -277,15 +295,6 @@
         "category": "Other",
         "summary": "The Fed is now growing its balance sheet roughly in step with the quantity of reserve balances needed by banks within each day to make timely payments to each other. Systemically important banks also demand large quantities of reserve balances to comply with liquidity regulations. If the Fed were to aim for a smaller balance sheet, subject to effective monetary policy implementation, the enabling policies...",
         "url": "https://cms.hoover.org/research/payment-system-puts-floor-feds-balance-sheet-0"
-    },
-    {
-        "id": "https://ecfr.eu/publication/in-the-bears-paw-how-europeans-can-loosen-russias-grip-on-belarus/",
-        "source": "European Council on Foreign Relations",
-        "title": "In the bear’s paw: How Europeans can loosen Russia’s grip on Belarus",
-        "publicationDate": "2026-08-20",
-        "category": "Defense",
-        "summary": "Russia’s growing military intervention in Belarus poses a frontline security challenge for Europe. The EU needs to develop a more pragmatic strategy based on protecting its eastern border and shaping Minsk’s autonomy away from Moscow.",
-        "url": "https://ecfr.eu/publication/in-the-bears-paw-how-europeans-can-loosen-russias-grip-on-belarus/"
     },
     {
         "id": "https://www.npr.org/2026/08/20/nx-s1-5930693/so-called-blue-state-refugees-have-helped-turn-florida-red",
@@ -459,24 +468,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "What is Bessent doing with the $32tn Treasury market — and will it work?",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs",
-        "url": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/50665033-4aed-43b0-a2e6-5c15c04e8c19?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK consumer confidence rises to highest level for two years",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "Good weather and the ‘Burnham bounce’ brought on by a new prime minister continued to have a positive effect in August",
-        "url": "https://www.ft.com/content/50665033-4aed-43b0-a2e6-5c15c04e8c19?syn-25a6b1a6=1"
-    },
-    {
         "id": "IF10565",
         "source": "Congressional Research Service",
         "title": "Federal Disaster Assistance for Agriculture",
@@ -576,15 +567,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5083-1.html"
     },
     {
-        "id": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/",
-        "source": "European Council on Foreign Relations",
-        "title": "Cold comfort: What China can teach Europe about adaptation",
-        "publicationDate": "2026-08-18",
-        "category": "Foreign Policy",
-        "summary": "Europe is learning to adapt to a hotter climate. It should take the same approach to economic dependencies: manage the consequences, but also change the conditions that created them",
-        "url": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5043-1.html",
         "source": "RAND Corporation",
         "title": "AI Development in the United States and China",
@@ -594,15 +576,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5043-1.html"
     },
     {
-        "id": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/",
-        "source": "European Council on Foreign Relations",
-        "title": "Buzzkill: How to defend Europe against drones",
-        "publicationDate": "2026-08-17",
-        "category": "European Security",
-        "summary": "Drone warfare in Europe is no longer tomorrow’s problem. The continent is under attack by drones today, and the threat is not isolated in the east.",
-        "url": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/"
-    },
-    {
         "id": "https://www.cer.eu/mailings-webform-report",
         "source": "Centre for European Reform",
         "title": "Mailings webform report",
@@ -610,24 +583,6 @@
         "category": "Economy",
         "summary": "Mailings survery August 26 (243 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Kate Mullineux Too much A weekly newsletter with links to all content kate@cer.eu 2026-08-06 Godfried De Vidts About right gadv@gadv.be all good,...",
         "url": "https://www.cer.eu/mailings-webform-report"
-    },
-    {
-        "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
-        "source": "European Council on Foreign Relations",
-        "title": "Legislative Elections (2026)",
-        "publicationDate": "2026-08-15",
-        "category": "Other",
-        "summary": "Elections for the Palestinian Legislative Council (PLC) are scheduled to take place on 28 November 2026 in the West Bank, East Jerusalem, and the Gaza Strip. The registration of electoral lists – which represent a party, coalition of parties, or a group of voters – will take place between 26 September and 7 October. Full […]",
-        "url": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/",
-        "source": "European Council on Foreign Relations",
-        "title": "Political crisis in Germany",
-        "publicationDate": "2026-08-14",
-        "category": "European Power",
-        "summary": "Mark Leonard welcomes Jörg Lau and Jana Puglierin to discuss Germany’s deepening political crisis, the rise of the AfD and how the country’s regional elections could impact Europe’s largest democracy",
-        "url": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/"
     },
     {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
