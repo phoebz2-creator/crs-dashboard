@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.nytimes.com/2026/08/20/us/politics/sean-duffy-american-road-trip.html",
+        "source": "New York Times Politics",
+        "title": "Transportation Secretary Sean Duffy’s ‘Road Trip’ Highlights America, and Some of Its Sponsors",
+        "publicationDate": "2026-08-21",
+        "category": "Ethics and Official Misconduct",
+        "summary": "The transportation secretary’s six-part YouTube series is fueling ethical concerns over family adventures funded in large part by corporate sponsors regulated by his department.",
+        "url": "https://www.nytimes.com/2026/08/20/us/politics/sean-duffy-american-road-trip.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html",
+        "source": "New York Times Politics",
+        "title": "Targeted by an Islamophobic Provocateur, a City’s Muslims Are on Edge",
+        "publicationDate": "2026-08-21",
+        "category": "Muslims and Islam",
+        "summary": "Jake Lang has descended four times on Dearborn, Mich., which is majority Arab American. His rhetoric and protests have stirred fear among residents.",
+        "url": "https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/08/20/president-donald-trump-appears-podcast-michael-cohen/",
+        "source": "Washington Post Politics",
+        "title": "President Trump and ally-turned-antagonist Michael Cohen reconcile",
+        "publicationDate": "2026-08-21",
+        "category": "Other",
+        "summary": "Trump’s appearance on Cohen’s radio show — their first public conversation since a bitter falling out — seemed to suggest their relationship had been mended.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/20/president-donald-trump-appears-podcast-michael-cohen/"
+    },
+    {
         "id": "IF10017",
         "source": "Congressional Research Service",
         "title": "Export-Import Bank: Overview and Reauthorization Debate",
@@ -126,6 +153,15 @@
         "url": "https://www.hudson.org/national-security-defense/concerns-uss-lincoln-after-nearly-nine-months-sea-bryan-clark"
     },
     {
+        "id": "https://cms.hoover.org/events/redrawing-rules-mid-decade-redistricting-and-future-elections",
+        "source": "Hoover Institution",
+        "title": "Redrawing the Rules? Mid-Decade Redistricting and the Future of Elections",
+        "publicationDate": "2026-08-20",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/events/redrawing-rules-mid-decade-redistricting-and-future-elections"
+    },
+    {
         "id": "https://cms.hoover.org/research/refocusing-medicare-reform-its-cost-taxpayers",
         "source": "Hoover Institution",
         "title": "Refocusing Medicare Reform On Its Cost To Taxpayers",
@@ -162,13 +198,13 @@
         "url": "https://cms.hoover.org/research/payment-system-puts-floor-feds-balance-sheet-0"
     },
     {
-        "id": "https://cms.hoover.org/research/how-corporations-can-mitigate-ai-jobocalypse",
-        "source": "Hoover Institution",
-        "title": "How Corporations Can Mitigate An AI Jobocalypse",
+        "id": "https://ecfr.eu/publication/in-the-bears-paw-how-europeans-can-loosen-russias-grip-on-belarus/",
+        "source": "European Council on Foreign Relations",
+        "title": "In the bear’s paw: How Europeans can loosen Russia’s grip on Belarus",
         "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "Even if AI-related job displacement is less severe than many feared, corporations will need to be enlisted in minimizing its effects in the name of social solidarity. To that end, governments should consider what policy incentives are in place, and large employers should consider their own long-term interests.",
-        "url": "https://cms.hoover.org/research/how-corporations-can-mitigate-ai-jobocalypse"
+        "category": "Defense",
+        "summary": "Russia’s growing military intervention in Belarus poses a frontline security challenge for Europe. The EU needs to develop a more pragmatic strategy based on protecting its eastern border and shaping Minsk’s autonomy away from Moscow.",
+        "url": "https://ecfr.eu/publication/in-the-bears-paw-how-europeans-can-loosen-russias-grip-on-belarus/"
     },
     {
         "id": "https://www.npr.org/2026/08/20/nx-s1-5930693/so-called-blue-state-refugees-have-helped-turn-florida-red",
@@ -189,15 +225,6 @@
         "url": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration"
     },
     {
-        "id": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-        "source": "NPR Politics",
-        "title": "The system meant to protect ICE detainees has collapsed",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
-        "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants"
-    },
-    {
         "id": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
         "source": "NPR Politics",
         "title": "Privacy advocates call on Maryland to investigate data brokers",
@@ -205,6 +232,15 @@
         "category": "Other",
         "summary": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies.",
         "url": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+        "source": "NPR Politics",
+        "title": "The system meant to protect ICE detainees has collapsed",
+        "publicationDate": "2026-08-20",
+        "category": "Other",
+        "summary": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
+        "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants"
     },
     {
         "id": "https://www.pbs.org/newshour/show/why-treasury-yields-are-at-20-year-highs-and-why-it-matters",
@@ -252,6 +288,24 @@
         "url": "https://www.pbs.org/newshour/politics/ap-report-federal-agents-seize-devices-from-ex-rep-eric-swalwell-in-sexual-misconduct-probe"
     },
     {
+        "id": "https://thehill.com/homenews/administration/6042769-trump-cohen-radio-interview-economy/",
+        "source": "The Hill",
+        "title": "Trump, Cohen set aside beef in radio interview",
+        "publicationDate": "2026-08-20",
+        "category": "Administration",
+        "summary": "President Trump and his fixer-turned-enemy Michael Cohen have seemingly turned over a new leaf, with the president saying he respects that Cohen took back things he’s said. Portions of the interview played on Cohen’s radio show on 77 WABC radio in New York City Thursday. The rest is expected to air on Sunday. Cohen was...",
+        "url": "https://thehill.com/homenews/administration/6042769-trump-cohen-radio-interview-economy/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6042726-trump-cohen-interview-clip-pardon-application/",
+        "source": "The Hill",
+        "title": "Trump tells Cohen he was 'weaponized' in feud",
+        "publicationDate": "2026-08-20",
+        "category": "Administration",
+        "summary": "President Trump suggested Michael Cohen was “forced” to testify against him in the 2024 New York hush money trial in a Thursday clip from the president’s upcoming interview with his former personal attorney. “They weaponized government against you and against others, Michael. There were plenty of others too, and it’s a disgrace,” the president told...",
+        "url": "https://thehill.com/homenews/administration/6042726-trump-cohen-interview-clip-pardon-application/"
+    },
+    {
         "id": "https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar/",
         "source": "The Hill",
         "title": "US approves possible $4.5 billion sale of refueling aircraft to Qatar",
@@ -266,7 +320,7 @@
         "title": "Army plans to phase out drone unit championed by sacked generals",
         "publicationDate": "2026-08-20",
         "category": "Defense",
-        "summary": "The U.S. Army plans to phase out a drone unit that was studying and incorporating lessons from foreign wars, including the use of unnamed systems in the Russia-Ukraine war, an Army official confirmed to The Hill on Thursday. The infantry battalion, known as the Unmanned Assault Battalion, will participate at the Joint Multinational Readiness Center...",
+        "summary": "The U.S. Army plans to phase out a drone unit that was studying and incorporating lessons from foreign wars, including the use of uncrewed systems in the Russia-Ukraine war, an Army official confirmed to The Hill on Thursday. The infantry battalion, known as the Unmanned Assault Battalion, will participate at the Joint Multinational Readiness Center...",
         "url": "https://thehill.com/policy/defense/6042667-us-army-phasing-out-drone-unit/"
     },
     {
@@ -277,24 +331,6 @@
         "category": "Technology",
         "summary": "{beacon} Technology Technology The Big Story Mike Rogers calls for one-year data center moratorium Former Rep. Mike Rogers, the GOP nominee in a critical Senate battle in Michigan, on Thursday called for a one-year pause on data center construction, the latest sign of the political toxicity of the server warehouses fueling the AI boom....",
         "url": "https://thehill.com/homenews/6042671-rogers-pushing-for-one-year-pause-on-data-center-construction/"
-    },
-    {
-        "id": "https://thehill.com/policy/sports-gaming/6042577-seattle-times-columnist-resigns-trans-athletes/",
-        "source": "The Hill",
-        "title": "Seattle Times sports columnist resigns over spiked trans athlete story",
-        "publicationDate": "2026-08-20",
-        "category": "Sports & Gaming",
-        "summary": "A sports columnist with The Seattle Times announced Thursday he has resigned after the outlet declined to run his piece on transgender athletes in women's sports. “After 11 years as a sports columnist at the Seattle Times, I have decided to resign. It was entirely my choice, and it was not an easy one. The...",
-        "url": "https://thehill.com/policy/sports-gaming/6042577-seattle-times-columnist-resigns-trans-athletes/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff/",
-        "source": "The Hill",
-        "title": "Schwartz recognizes CDC strife in first talks with staff",
-        "publicationDate": "2026-08-20",
-        "category": "Healthcare",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Schwartz recognizes CDC strife in first talks with staff Erica Schwartz, the newly confirmed director of the Centers for Disease Control and Prevention (CDC), acknowledged the agency she is now tasked with leading faces an uphill battle in terms of...",
-        "url": "https://thehill.com/newsletters/healthcare/6042627-schwartz-recognizes-cdc-strife-in-first-talks-with-staff/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
@@ -322,24 +358,6 @@
         "category": "Economy",
         "summary": "Human rights experts have said that the U.S. attempts to squeeze Cuba’s economy, including an oil blockade, have caused a severe humanitarian crisis.",
         "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-cuba-sanctions.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html",
-        "source": "New York Times Politics",
-        "title": "An Islamophobic Provocateur Keeps Dearborn, Mich., on Edge",
-        "publicationDate": "2026-08-20",
-        "category": "Muslims and Islam",
-        "summary": "Jake Lang has descended four times on Dearborn, Mich., which is majority Arab American. His rhetoric and protests have stirred fear among residents.",
-        "url": "https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html",
-        "source": "New York Times Politics",
-        "title": "Homeland Security Made a Big Claim About Noncitizen Voting. Now It Can’t Prove It.",
-        "publicationDate": "2026-08-20",
-        "category": "Voting and Voters",
-        "summary": "The Department of Homeland Security told Nevada election officials that it identified 185 “potential” noncitizens on the state’s voter rolls, not the nearly 16,000 it claimed last month.",
-        "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/20/woman-arrested-alleged-isis-inspired-plot-bomb-new-york-capitol/",
@@ -378,24 +396,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/20/cook-political-report-shifts-senate-races-texas-iowa-leftward-toss-up/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/20/republicans-notch-win-missouri-congressional-redistricting-fight/",
-        "source": "Washington Post Politics",
-        "title": "Republicans notch win in Missouri congressional redistricting fight",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "A judge allowed Republicans to use their new congressional map this fall, but the state Supreme Court may weigh in.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/20/republicans-notch-win-missouri-congressional-redistricting-fight/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-        "publicationDate": "2026-08-20",
-        "category": "Economy",
-        "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
-        "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -403,6 +403,15 @@
         "category": "Other",
         "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
         "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+        "publicationDate": "2026-08-20",
+        "category": "Economy",
+        "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
@@ -414,6 +423,15 @@
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+        "publicationDate": "2026-08-20",
+        "category": "Defense",
+        "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Dozens dead after boat capsizes in north-western Nigeria",
@@ -423,13 +441,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+        "id": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "What is Bessent doing with the $32tn Treasury market — and will it work?",
         "publicationDate": "2026-08-20",
         "category": "Other",
-        "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
-        "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss"
+        "summary": "US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs",
+        "url": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/50665033-4aed-43b0-a2e6-5c15c04e8c19?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UK consumer confidence rises to highest level for two years",
+        "publicationDate": "2026-08-20",
+        "category": "Other",
+        "summary": "Good weather and the ‘Burnham bounce’ brought on by a new prime minister continued to have a positive effect in August",
+        "url": "https://www.ft.com/content/50665033-4aed-43b0-a2e6-5c15c04e8c19?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1",
@@ -457,24 +484,6 @@
         "category": "Other",
         "summary": "Free Speech Union called on vice-president to focus on censorship at time of Starmer visit to US last year",
         "url": "https://www.ft.com/content/402d716a-0cf1-46e6-b09b-e37d6ea428a5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Guggenheim loan trades in distressed territory after investor call",
-        "publicationDate": "2026-08-20",
-        "category": "Healthcare",
-        "summary": "Chief executive Mark Walter’s business empire has come under pressure amid probe into his insurance holdings",
-        "url": "https://www.ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/d3fbfcb7-ce89-4b46-8267-c2fed9c67134?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Quant funds rocked as Treasury boosts buybacks and Moderna shares leap",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "Tumultuous session puts further pressure on momentum trades that have been unsettled since AI-related stock sell-off",
-        "url": "https://www.ft.com/content/d3fbfcb7-ce89-4b46-8267-c2fed9c67134?syn-25a6b1a6=1"
     },
     {
         "id": "R43311",
@@ -567,6 +576,15 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5083-1.html"
     },
     {
+        "id": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/",
+        "source": "European Council on Foreign Relations",
+        "title": "Cold comfort: What China can teach Europe about adaptation",
+        "publicationDate": "2026-08-18",
+        "category": "Foreign Policy",
+        "summary": "Europe is learning to adapt to a hotter climate. It should take the same approach to economic dependencies: manage the consequences, but also change the conditions that created them",
+        "url": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5043-1.html",
         "source": "RAND Corporation",
         "title": "AI Development in the United States and China",
@@ -576,6 +594,15 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5043-1.html"
     },
     {
+        "id": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/",
+        "source": "European Council on Foreign Relations",
+        "title": "Buzzkill: How to defend Europe against drones",
+        "publicationDate": "2026-08-17",
+        "category": "European Security",
+        "summary": "Drone warfare in Europe is no longer tomorrow’s problem. The continent is under attack by drones today, and the threat is not isolated in the east.",
+        "url": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/"
+    },
+    {
         "id": "https://www.cer.eu/mailings-webform-report",
         "source": "Centre for European Reform",
         "title": "Mailings webform report",
@@ -583,6 +610,24 @@
         "category": "Economy",
         "summary": "Mailings survery August 26 (243 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Kate Mullineux Too much A weekly newsletter with links to all content kate@cer.eu 2026-08-06 Godfried De Vidts About right gadv@gadv.be all good,...",
         "url": "https://www.cer.eu/mailings-webform-report"
+    },
+    {
+        "id": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/",
+        "source": "European Council on Foreign Relations",
+        "title": "Legislative Elections (2026)",
+        "publicationDate": "2026-08-15",
+        "category": "Other",
+        "summary": "Elections for the Palestinian Legislative Council (PLC) are scheduled to take place on 28 November 2026 in the West Bank, East Jerusalem, and the Gaza Strip. The registration of electoral lists – which represent a party, coalition of parties, or a group of voters – will take place between 26 September and 7 October. Full […]",
+        "url": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/",
+        "source": "European Council on Foreign Relations",
+        "title": "Political crisis in Germany",
+        "publicationDate": "2026-08-14",
+        "category": "European Power",
+        "summary": "Mark Leonard welcomes Jörg Lau and Jana Puglierin to discuss Germany’s deepening political crisis, the rise of the AfD and how the country’s regional elections could impact Europe’s largest democracy",
+        "url": "https://ecfr.eu/podcasts/episode/political-crisis-in-germany/"
     },
     {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
