@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://thehill.com/homenews/administration/6042908-vance-bessent-national-debt-plan/",
+        "source": "The Hill",
+        "title": "Vance: Bessent has 'very discreet plan' to shrink $40 trillion national debt",
+        "publicationDate": "2026-08-21",
+        "category": "Economy",
+        "summary": "Vice President Vance said Thursday night that Treasury Secretary Scott Bessent has a “very discreet plan\" to shrink the nation’s debt. “He [Bessent] has had a very discreet plan, of course, supported by the president of the United States, to get the United States to a point where our economy is growing faster than our...",
+        "url": "https://thehill.com/homenews/administration/6042908-vance-bessent-national-debt-plan/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6042780-moulton-markey-massachusetts-debate-summary/",
+        "source": "The Hill",
+        "title": "Markey, Moulton lock horns ahead of Massachusetts Senate primary: 3 takeaways from last debate",
+        "publicationDate": "2026-08-21",
+        "category": "Campaign",
+        "summary": "Rep. Seth Moulton and Sen. Ed Markey exchanged blows from the onset of the final Massachusetts Democratic Senate primary debate as the 47-year-old House lawmaker mounts a longshot bid to oust his 80-year-old progressive opponent. Moulton and Markey appeared for their last televised debate on Thursday, which was hosted by WCVB-TV, WBUR-FM and The Boston...",
+        "url": "https://thehill.com/homenews/campaign/6042780-moulton-markey-massachusetts-debate-summary/"
+    },
+    {
         "id": "https://thehill.com/homenews/house/6042857-subramanyam-pushes-data-center-limits-ai/",
         "source": "The Hill",
         "title": "House Democrat: Rein in data centers without losing tech race to China",
@@ -54,22 +72,58 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/20/president-donald-trump-appears-podcast-michael-cohen/"
     },
     {
-        "id": "IF12958",
-        "source": "Congressional Research Service",
-        "title": "Section 301 and China: Mature-Node Semiconductors",
-        "publicationDate": "2026-08-20",
-        "category": "Defense",
-        "summary": "Title III of the Trade Act of 1974 (Sections 301-310, 19 U.S.C. §§2411-2420, referred to as “Section 301”) is one of the principal statutory means by which the United States enforces U.S. rights under trade agreements and addresses “unfair” foreign barriers to U.S. exports. It grants the U.S. Trade Representative (USTR) a range of authorities to investigate foreign trade acts, policies, and practices and to impose...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12958/IF12958.7.pdf"
+        "id": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "El Niño set to be 'strongest in living memory', says Met Office",
+        "publicationDate": "2026-08-21",
+        "category": "Other",
+        "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+        "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "IN12553",
-        "source": "Congressional Research Service",
-        "title": "Stablecoin Legislation: An Overview of the GENIUS Act of 2025 (P.L. 119-27)",
-        "publicationDate": "2026-08-20",
+        "id": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "publicationDate": "2026-08-21",
+        "category": "Foreign Policy",
+        "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab",
+        "source": "Financial Times World",
+        "title": "North Korea’s economy enjoys rare ‘dash for flash’",
+        "publicationDate": "2026-08-21",
         "category": "Economy",
-        "summary": "On July 18, 2025, the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act) was signed into law as P.L. 119-27. An overview of key policy issues can be found here. The act establishes a regime to regulate U.S. payment stablecoins, as described below. Requirements for Issuing Payment Stablecoins The act defines payment stablecoin as a digital asset issued for payment or settlement and...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12553/IN12553.6.pdf"
+        "summary": "Kim Jong Un’s backing for Russian war on Ukraine fuels construction boom and sales of luxury goods",
+        "url": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab"
+    },
+    {
+        "id": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Shanghai’s answer to Nasdaq outstrips Hong Kong amid Chinese tech frenzy",
+        "publicationDate": "2026-08-21",
+        "category": "Other",
+        "summary": "Star 50 index up almost a quarter this year, leaving rivals behind",
+        "url": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/2c71652b-8c56-4e53-81f4-a455845ee9d7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "India’s troubled SpiceJet wrangles a last-minute break",
+        "publicationDate": "2026-08-21",
+        "category": "Other",
+        "summary": "Also in this newsletter: food safety regulator cracks the whip",
+        "url": "https://www.ft.com/content/2c71652b-8c56-4e53-81f4-a455845ee9d7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "IF10017",
+        "source": "Congressional Research Service",
+        "title": "Export-Import Bank: Overview and Reauthorization Debate",
+        "publicationDate": "2026-08-20",
+        "category": "Defense",
+        "summary": "The Export-Import Bank of the United States (Ex-Im Bank, or the Bank) is a wholly owned government corporation and an export credit agency (ECA). It aims to support U.S. jobs by financing and facilitating U.S. goods and services exports when the private sector is unwilling or unable to provide financing at acceptable rates and/or U.S. exports are competing against foreign ECA-financed exports. Ex-Im Bank operates...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10017/IF10017.42.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4772-1.html",
@@ -324,24 +378,6 @@
         "url": "https://thehill.com/homenews/administration/6042769-trump-cohen-radio-interview-economy/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6042726-trump-cohen-interview-clip-pardon-application/",
-        "source": "The Hill",
-        "title": "Trump tells Cohen he was 'weaponized' in feud",
-        "publicationDate": "2026-08-20",
-        "category": "Administration",
-        "summary": "President Trump suggested Michael Cohen was “forced” to testify against him in the 2024 New York hush money trial in a Thursday clip from the president’s upcoming interview with his former personal attorney. “They weaponized government against you and against others, Michael. There were plenty of others too, and it’s a disgrace,” the president told...",
-        "url": "https://thehill.com/homenews/administration/6042726-trump-cohen-interview-clip-pardon-application/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar/",
-        "source": "The Hill",
-        "title": "US approves possible $4.5 billion sale of refueling aircraft to Qatar",
-        "publicationDate": "2026-08-20",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story US approves $4.5 billion sale of refueling planes to Qatar The U.S. approved on Thursday a possible $4.5 billion sale of four aerial refueling aircraft and related equipment to Qatar. Christopher Pike, Bloomberg via Getty Images...",
-        "url": "https://thehill.com/newsletters/defense-national-security/6042716-us-approves-possible-4-5-billion-sale-of-refueling-aircraft-to-qatar/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/08/20/us/politics/wahab-hernandez-california-special-election.html",
         "source": "New York Times Politics",
         "title": "Aisha Wahab Wins California Special Election to Replace Eric Swalwell",
@@ -414,31 +450,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+        "title": "Why the US economy is ringing alarm bells",
         "publicationDate": "2026-08-20",
-        "category": "Foreign Policy",
-        "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-        "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-        "publicationDate": "2026-08-20",
-        "category": "Defense",
-        "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Dozens dead after boat capsizes in north-western Nigeria",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
-        "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss"
+        "category": "Economy",
+        "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+        "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1",
@@ -459,31 +477,22 @@
         "url": "https://www.ft.com/content/50665033-4aed-43b0-a2e6-5c15c04e8c19?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Scott Bessent’s intervention to prop up US market fails to soothe investors",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "Also in this newsletter: Loan to Guggenheim Partners falls to distressed territory and North Korea fires barrage of ballistic missiles",
-        "url": "https://www.ft.com/content/130f404e-6303-49a8-89d6-3368e3fc70b6?syn-25a6b1a6=1"
+        "id": "IF10565",
+        "source": "Congressional Research Service",
+        "title": "Federal Disaster Assistance for Agriculture",
+        "publicationDate": "2026-08-19",
+        "category": "Healthcare",
+        "summary": "Several federal assistance programs are designed to address agricultural losses following a natural disaster through mechanisms including insurance, direct payments for loss, loans, and cost share to rehabilitate damaged lands. These programs are intended to assist producers recovering from production, financial, and physical losses related to or caused by the disaster. The U.S. Department of Agriculture (USDA)...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10565/IF10565.15.pdf"
     },
     {
-        "id": "https://www.ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Walmart shares tumble as sales growth slows to six-year low",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
-        "url": "https://www.ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/402d716a-0cf1-46e6-b09b-e37d6ea428a5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Tory peer’s free speech group urged Vance to lobby UK government",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "Free Speech Union called on vice-president to focus on censorship at time of Starmer visit to US last year",
-        "url": "https://www.ft.com/content/402d716a-0cf1-46e6-b09b-e37d6ea428a5?syn-25a6b1a6=1"
+        "id": "R43311",
+        "source": "Congressional Research Service",
+        "title": "Iran: U.S. Economic Sanctions and the Authority to Lift Restrictions",
+        "publicationDate": "2026-08-19",
+        "category": "Defense",
+        "summary": "U.S. sanctions related to Iran are arguably among the most comprehensive of any such sanctions that the United States unilaterally maintains with respect to a foreign country. The United States has imposed sanctions on thousands of individuals and entities in Iran and in third countries. Such sanctions have contributed to the U.S. government’s long-standing efforts to deprive the Iranian government of resources to...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43311/R43311.40.pdf"
     },
     {
         "id": "IN12731",
@@ -664,14 +673,5 @@
         "category": "Healthcare",
         "summary": "Temporary Assistance for Needy Families (TANF) helps states fund cash assistance programs for needy families with children. It was created in the Personal Responsibility and Work Opportunity Reconciliation Act (PRWORA, P.L. 104-193) during a period of experimentation with different forms of welfare-to-work programs. Engagement of nonemployed cash assistance recipients (mostly single mothers) in job preparation...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R48827/R48827.3.pdf"
-    },
-    {
-        "id": "R43797",
-        "source": "Congressional Research Service",
-        "title": "U.S. Secret Service Protection Mission Funding and Staffing: Fact Sheet",
-        "publicationDate": "2014-11-25",
-        "category": "Defense",
-        "summary": "The U.S. Secret Service (USSS) has two broad missions, criminal investigations and protection. The protection mission, which is the focus of this fact sheet, covers the President, Vice President, their families, and candidates for those offices, along with the White House and Vice President’s residence, through the Service’s Uniformed Division. Protective duties also extend to foreign missions in the District of...",
-        "url": "https://www.congress.gov/crs_external_products/R/HTML/R43797.html"
     }
 ]
