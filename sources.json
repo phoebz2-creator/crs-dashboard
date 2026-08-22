@@ -1,5 +1,50 @@
 [
     {
+        "id": "https://thehill.com/policy/technology/6044744-teen-drops-social-media-addiction-lawsuit/",
+        "source": "The Hill",
+        "title": "Teen drops high-profile social media addiction lawsuit",
+        "publicationDate": "2026-08-22",
+        "category": "Technology",
+        "summary": "A teenager has dropped her lawsuit against Meta, YouTube and Snapchat, which was set to go to trial later this year as part of a broader series of cases accusing social media giants of designing addictive platforms. The teen, referred to as P.M.Y., previously settled with TikTok and “chose to dismiss the remainder so she...",
+        "url": "https://thehill.com/policy/technology/6044744-teen-drops-social-media-addiction-lawsuit/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6044741-white-house-criticizes-rosie-odonnell/",
+        "source": "The Hill",
+        "title": "White House rips Rosie O'Donnell for Trump, Harp jokes: She's 'a total slob'",
+        "publicationDate": "2026-08-22",
+        "category": "Administration",
+        "summary": "The White House responded Thursday to comments made by comedian Rosie O’Donnell while hosting “Jimmy Kimmel Live!” concerning President Trump and his administration. Davis Ingle, a representative for the White House, said in a statement to news outlets that “Rosie O’Donnell is a nasty woman and a total slob whose brain has been completely destroyed...",
+        "url": "https://thehill.com/homenews/administration/6044741-white-house-criticizes-rosie-odonnell/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/21/us/politics/newsom-trump-accounts.html",
+        "source": "New York Times Politics",
+        "title": "Trump Accounts Get an Unlikely Endorser: Gavin Newsom",
+        "publicationDate": "2026-08-22",
+        "category": "Newsom",
+        "summary": "Mr. Newsom, the governor of California, normally has harsh words for President Trump. But he called the new children’s savings accounts “one of the best things” the president has done.",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/newsom-trump-accounts.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/21/us/politics/jd-vance-middletown-ohio.html",
+        "source": "New York Times Politics",
+        "title": "Drawing on His Rust Belt Roots, Vance Campaigns for Republicans",
+        "publicationDate": "2026-08-22",
+        "category": "United States Politics and Government",
+        "summary": "Vice President JD Vance traveled to his hometown, Middletown, Ohio, and spoke at a steel factory where his grandfather once worked.",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/jd-vance-middletown-ohio.html"
+    },
+    {
+        "id": "https://www.ft.com/content/8b6b2021-bde2-4255-91a3-9c8dd44ffd51?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Pentagon fires military newspaper staffers for insubordination",
+        "publicationDate": "2026-08-22",
+        "category": "Defense",
+        "summary": "Defence department dismisses Stars and Stripes editor-in-chief and Middle East reporter",
+        "url": "https://www.ft.com/content/8b6b2021-bde2-4255-91a3-9c8dd44ffd51?syn-25a6b1a6=1"
+    },
+    {
         "id": "IN12732",
         "source": "Congressional Research Service",
         "title": "Six Imbalances Facing the U.S. Economy",
@@ -72,6 +117,15 @@
         "url": "https://www.hudson.org/intellectual-property/fresenius-says-congress-do-i-say-not-i-do-drug-patents-adam-mossoff"
     },
     {
+        "id": "https://cms.hoover.org/research/do-minimum-wages-help-worker-poor-and-low-income-families",
+        "source": "Hoover Institution",
+        "title": "Do Minimum Wages Help Worker In Poor And Low-Income Families?",
+        "publicationDate": "2026-08-21",
+        "category": "Other",
+        "summary": "We provide the first direct estimates of the effects of minimum wages on low-wage workers in families at different points of the distribution of income-to-needs, using data from the Survey of Income and Program Participation, which oversamples low-income families.",
+        "url": "https://cms.hoover.org/research/do-minimum-wages-help-worker-poor-and-low-income-families"
+    },
+    {
         "id": "https://cms.hoover.org/research/health-policy-trust-access-and-outcomes",
         "source": "Hoover Institution",
         "title": "Health Policy: Trust, Access, and Outcomes",
@@ -81,31 +135,31 @@
         "url": "https://cms.hoover.org/research/health-policy-trust-access-and-outcomes"
     },
     {
-        "id": "https://cms.hoover.org/plus/research/rebuilding-trust-public-health",
+        "id": "https://cms.hoover.org/research/how-credit-card-rewards-became-92-billion-wealth-transfer",
         "source": "Hoover Institution",
-        "title": "Rebuilding Trust in Public Health",
+        "title": "How Credit Card Rewards Became A $9.2 Billion Wealth Transfer",
         "publicationDate": "2026-08-21",
-        "category": "Healthcare",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/plus/research/rebuilding-trust-public-health"
+        "category": "Economy",
+        "summary": "Hoover Institution fellow Amit Seru co-authored a working paper that estimates $30 billion in fees shift from those paying with cash and debit cards to credit card users at similar merchants annually. That windfall is as “economically significant” as government policies that support low- and middle-income Americans, such as the Earned Income Tax Credit and unemployment insurance.",
+        "url": "https://cms.hoover.org/research/how-credit-card-rewards-became-92-billion-wealth-transfer"
     },
     {
-        "id": "https://cms.hoover.org/plus/research/can-competition-fix-american-healthcare",
+        "id": "https://cms.hoover.org/research/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-0",
         "source": "Hoover Institution",
-        "title": "Can Competition Fix American Healthcare?",
+        "title": "US Advisory Body Says China’s Data Dominance Gives It AI Advantage",
         "publicationDate": "2026-08-21",
-        "category": "Healthcare",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/plus/research/can-competition-fix-american-healthcare"
+        "category": "Foreign Policy",
+        "summary": "Hoover Institution fellow Mike Kuiken said, “Over the last half decade, China has been able to consolidate data, find ways to label it and refine it, and hoover up ⁠new data and make sure it’s quickly made available to ⁠entities. It has ​the benefit of advancing their innovation ecosystem, and it has the benefit of enhancing the control of the (Chinese ​Communist) Party.”",
+        "url": "https://cms.hoover.org/research/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-0"
     },
     {
-        "id": "https://cms.hoover.org/plus/research/health-policy-trust-access-and-outcomes",
+        "id": "https://cms.hoover.org/research/axis-aggressors-confronting-americas-authoritarian-adversaries",
         "source": "Hoover Institution",
-        "title": "Health Policy: Trust, Access, and Outcomes",
+        "title": "Axis Of Aggressors: Confronting America’s Authoritarian Adversaries",
         "publicationDate": "2026-08-21",
-        "category": "Healthcare",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/plus/research/health-policy-trust-access-and-outcomes"
+        "category": "Foreign Policy",
+        "summary": "Hoover Institution fellow Matt Pottinger calls the newly released book, Axis of Aggressors: Countering the Cooperation of China, Russia, Iran, and North Korea, “a gift to concerned citizens, strategists, and lawmakers,” noting that “[i]f Washington had heeded a book like this in the 1930s, we might have forestalled much of the bloodshed of the 1940s.”",
+        "url": "https://cms.hoover.org/research/axis-aggressors-confronting-americas-authoritarian-adversaries"
     },
     {
         "id": "https://ecfr.eu/podcasts/episode/germanys-second-china-shock/",
@@ -153,6 +207,15 @@
         "url": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview",
+        "source": "PBS NewsHour Politics",
+        "title": "Stars and Stripes editor, reporter fired for insubordination after doing CBS interview",
+        "publicationDate": "2026-08-21",
+        "category": "Defense",
+        "summary": "The Pentagon on Friday fired the editor-in-chief of Stars and Stripes and a top reporter for insubordination after they spoke publicly against any interference by the Defense Department in the military news outlet that has a long history of editorial independence.",
+        "url": "https://www.pbs.org/newshour/politics/stars-and-stripes-editor-reporter-fired-for-insubordination-after-doing-cbs-interview"
+    },
+    {
         "id": "https://www.pbs.org/newshour/show/from-white-house-ballroom-to-indycar-race-trumps-spectacles-take-center-stage-in-d-c",
         "source": "PBS NewsHour Politics",
         "title": "From White House ballroom to IndyCar race, Trump's spectacles take center stage in D.C.",
@@ -176,7 +239,7 @@
         "title": "U.S. ambassador responds to rising tensions between Israel, Turkey and Syria",
         "publicationDate": "2026-08-21",
         "category": "Defense",
-        "summary": "The Israeli military bombed an airbase in Syria, far from the Israeli border, sparking condemnation not only from Syria, but also Turkey and the Trump administration. U.S. Ambassador to Turkey Tom Barrack accused Israel of an \"unnecessary escalation that does not advance regional stability.\" Nick Schifrin spoke with Barrack to discuss tension.",
+        "summary": "The Israeli military bombed an airbase in Syria, far from the Israeli border, sparking condemnation not only from Syria, but also Turkey and the Trump administration. U.S. Ambassador to Turkey Tom Barrack accused Israel of an \"unnecessary escalation that does not advance regional stability.\" Nick Schifrin spoke with Barrack to discuss the tensions.",
         "url": "https://www.pbs.org/newshour/show/u-s-ambassador-responds-to-rising-tensions-between-israel-turkey-and-syria"
     },
     {
@@ -189,13 +252,22 @@
         "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-how-economic-concerns-defined-the-primaries"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/arizona-ag-declines-to-charge-gov-katie-hobbs-over-pay-to-play-allegations",
-        "source": "PBS NewsHour Politics",
-        "title": "Arizona AG declines to charge Gov. Katie Hobbs over pay-to-play allegations",
+        "id": "https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories/",
+        "source": "The Hill",
+        "title": "Trump eyes vaccine categories",
         "publicationDate": "2026-08-21",
-        "category": "andy biggs",
-        "summary": "State prosecutors declined to file criminal charges over allegations that she took part in a pay-to-play scheme with a group home company that received a rate increase from the state after contributing $100,000 to her inaugural celebration.",
-        "url": "https://www.pbs.org/newshour/politics/arizona-ag-declines-to-charge-gov-katie-hobbs-over-pay-to-play-allegations"
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Trump eyes vaccine categories To support President Trump’s vaccine executive order issued earlier this month, the administration is considering to changing or adding to the categories of vaccinations, in what critics argue is another effort by the White House to...",
+        "url": "https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories/"
+    },
+    {
+        "id": "https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends/",
+        "source": "The Hill",
+        "title": "Log Cabin Republicans cut ties with transgender movement",
+        "publicationDate": "2026-08-21",
+        "category": "LGBTQ",
+        "summary": "The Log Cabin Republicans (LCR) announced Thursday that it would halt its support for the transgender community, calling itself an \"LGB advocacy organization.\" LCR President Ross Hemminger wrote in an op-ed published to the conservative outlet \"Townhall\" that the move signaled an adjustment to its \"national advocacy focus,\" saying the organization wanted to distance itself...",
+        "url": "https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends/"
     },
     {
         "id": "https://thehill.com/homenews/campaign/6044561-donald-trump-darline-graham-defense-debate-mistake/",
@@ -205,42 +277,6 @@
         "category": "Campaign",
         "summary": "President Trump defended Sen. Darline Graham (R-S.C.) on Friday following her stumble on a national security question during the Palmetto State's GOP Senate primary debate this week. The president offered his support to Graham as he was on his way to Myrtle Beach, S.C., where he's set to rally alongside her Friday evening, just days...",
         "url": "https://thehill.com/homenews/campaign/6044561-donald-trump-darline-graham-defense-debate-mistake/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6044628-trump-spending-maga-pac-midterms/",
-        "source": "The Hill",
-        "title": "Trump says he'll spend 'a lot' of MAGA Inc. funds in midterms",
-        "publicationDate": "2026-08-21",
-        "category": "Defense",
-        "summary": "President Trump said he’s prepared to spend \"a lot\" of money from his MAGA Inc. campaign account to support Republican candidates this midterm cycle. “Well, I’ve raised a lot, and nobody knows what it is, but I will tell you it’s about $850 million,” Trump said before boarding Air Force One to fly to South...",
-        "url": "https://thehill.com/homenews/administration/6044628-trump-spending-maga-pac-midterms/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/technology/6044609-rising-data-center-backlash-shakes-up-2026-races/",
-        "source": "The Hill",
-        "title": "Rising data center backlash shakes up 2026 races",
-        "publicationDate": "2026-08-21",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story Rising data center backlash shakes up 2026 races As public pushback to data centers boils over, politicians on both sides of the aisle are racing to distance themselves from the controversial facilities. © Adobe Stock Key swing state candidates are scrambling to endorse stricter data center policies and...",
-        "url": "https://thehill.com/newsletters/technology/6044609-rising-data-center-backlash-shakes-up-2026-races/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv/",
-        "source": "The Hill",
-        "title": "Interior Department outlines short-term plan for water cuts in California, Arizona, Nevada",
-        "publicationDate": "2026-08-21",
-        "category": "Energy & Environment Newsletter",
-        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story DOI outlines short-term plan for water cuts in CA, AZ, NV The federal government has unveiled its short-term plans for Colorado River water cuts from California, Arizona and Nevada — issuing a plan that’s largely in line with what the states themselves have proposed...",
-        "url": "https://thehill.com/newsletters/energy-environment/6044586-doi-outlines-short-term-plan-for-water-cuts-in-ca-az-nv/"
-    },
-    {
-        "id": "https://thehill.com/video-clips/6043894-watch-live-donald-trump-darline-graham-south-carolina-campaign/",
-        "source": "The Hill",
-        "title": "Watch live: Trump stumps for Darline Graham in South Carolina",
-        "publicationDate": "2026-08-21",
-        "category": "Video",
-        "summary": "President Trump will hit the campaign trail Friday in South Carolina to rally support for Sen. Darline Graham (R-S.C.) ahead of the state's Republican runoff next week, when she's set to face off against Rep. Ralph Norman (R-S.C.). Trump’s appearance comes as Graham faces scrutiny for a rough debate performance earlier this week, after which...",
-        "url": "https://thehill.com/video-clips/6043894-watch-live-donald-trump-darline-graham-south-carolina-campaign/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
@@ -270,22 +306,13 @@
         "url": "https://www.nytimes.com/2026/08/21/us/politics/midterm-primaries-south-carolina-wisconsin-michigan.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html",
-        "source": "New York Times Politics",
-        "title": "U.S. Agreed to Pay Liberia $5 Million in Connection with Deportees, Documents Say",
+        "id": "https://www.washingtonpost.com/politics/2026/08/21/trump-heads-south-carolina-campaign-darline-graham/",
+        "source": "Washington Post Politics",
+        "title": "Trump, his clout on the line, stumps for Graham in South Carolina",
         "publicationDate": "2026-08-21",
-        "category": "Deportation",
-        "summary": "The Trump administration approved the payment after Liberia said it would consider taking migrants from other countries.",
-        "url": "https://www.nytimes.com/2026/08/21/us/politics/us-liberia-deportees-payment.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/21/world/africa/us-deportees-liberia-equatorial-guinea.html",
-        "source": "New York Times Politics",
-        "title": "5 Deportees Are Flown by US to Equatorial Guinea After they Resist Deplaning in Liberia",
-        "publicationDate": "2026-08-21",
-        "category": "Deportation",
-        "summary": "Five of the people flown to Liberia under the Trump administration’s third-country deportation program resisted leaving the plane. They were then flown to Equatorial Guinea.",
-        "url": "https://www.nytimes.com/2026/08/21/world/africa/us-deportees-liberia-equatorial-guinea.html"
+        "category": "Other",
+        "summary": "The president brushed aside questions about Darline Graham’s debate stumble, saying she was “very smart” and focused on issues that voters care about like the price of groceries.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/21/trump-heads-south-carolina-campaign-darline-graham/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/21/ed-martin-leaving-justice-dept-after-tumultuous-tenure-that-alienated-colleagues/",
@@ -304,15 +331,6 @@
         "category": "Other",
         "summary": "The administrative stay gives the court more time to weigh an emergency appeal by the Trump administration in a lawsuit challenging the project.",
         "url": "https://www.washingtonpost.com/politics/2026/08/21/supreme-court-says-trump-can-continue-ballroom-work-it-weighs-case/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/21/trump-heads-south-carolina-campaign-darline-graham/",
-        "source": "Washington Post Politics",
-        "title": "Trump, his clout on the line, to stump for Graham in South Carolina",
-        "publicationDate": "2026-08-21",
-        "category": "Other",
-        "summary": "The president brushed aside questions about Darline Graham's debate stumble, saying she was \"very smart\" and was focused on issues that voters care about like the price of groceries.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/21/trump-heads-south-carolina-campaign-darline-graham/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/21/democrats-remain-far-behind-gop-cash-hand-midterms-near/",
@@ -414,15 +432,6 @@
         "url": "https://www.ft.com/content/ff536e6e-dc56-45e3-b5e0-2dfb28148cb6?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1",
-        "source": "Financial Times World",
-        "title": "Iran’s president calls to end war with US from ‘position of strength’",
-        "publicationDate": "2026-08-21",
-        "category": "Foreign Policy",
-        "summary": "Masoud Pezeshkian’s comments reflect debate within regime over how much economic pressure country can endure",
-        "url": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4772-1.html",
         "source": "RAND Corporation",
         "title": "Reduced-Credit Bachelor’s Degrees in Ohio",
@@ -484,15 +493,6 @@
         "category": "Defense",
         "summary": "Trump Cuts US–South Korea Drills Short bbert@hudson.org Thu, 08/20/2026 - 14:36 SVG In the Media Aug 19, 2026 CBS News Trump Cuts US–South Korea Drills Short H.R. McMaster Chair of the Advisory Board, Japan Chair H.R. McMaster In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail...",
         "url": "https://www.hudson.org/national-security-defense/trump-cuts-us-south-korea-drills-short-hr-mcmaster"
-    },
-    {
-        "id": "https://cms.hoover.org/research/california-update-homelessness-billionaire-battles-and-sussex-it",
-        "source": "Hoover Institution",
-        "title": "California Update: Homelessness, Billionaire Battles, And “Sussex-it”",
-        "publicationDate": "2026-08-20",
-        "category": "Economy",
-        "summary": "Why the Golden State’s homelessness problem remains a chronic headache; divisions within the ranks of billionaires financing the effort to defeat the Proposition 40 wealth tax; the odds of Paramount CEO David Ellison relocating his company to a friendlier red state. Plus why Harry and Megan are giving up on their California Dream.",
-        "url": "https://cms.hoover.org/research/california-update-homelessness-billionaire-battles-and-sussex-it"
     },
     {
         "id": "https://ecfr.eu/publication/in-the-bears-paw-how-europeans-can-loosen-russias-grip-on-belarus/",
