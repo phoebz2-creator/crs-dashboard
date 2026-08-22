@@ -2,11 +2,38 @@
     {
         "id": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
         "source": "NPR Politics",
-        "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
+        "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
         "publicationDate": "2026-08-22",
         "category": "Other",
-        "summary": "Trade negotiations between the United States and Canada fell apart on Friday night, shortly before a midnight deadline for 50% tariffs to take effect on $20 billion worth of Canadian products.",
+        "summary": "The midnight deadline means that U.S. will impose 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada \"will match those tariffs dollar for dollar.\"",
         "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6044212-court-lifts-tps-deportation-stays/",
+        "source": "The Hill",
+        "title": "DHS starts deportation flights after end to remaining protections for TPS holders",
+        "publicationDate": "2026-08-22",
+        "category": "Administration",
+        "summary": "Lower court judges have now fully lifted certain limitations on the Department of Homeland Security (DHS) in the wake of a Supreme Court decision that cleared the end of temporary protected status (TPS), removing any final roadblock to deportations. A federal judge earlier this week lifted the final stay that barred immigration officials from carrying...",
+        "url": "https://thehill.com/homenews/administration/6044212-court-lifts-tps-deportation-stays/"
+    },
+    {
+        "id": "https://thehill.com/policy/sports-gaming/6044141-trump-scheduled-indycars-first-dc-grandprix/",
+        "source": "The Hill",
+        "title": "5 things to know about the Freedom 250 Grand Prix in Washington",
+        "publicationDate": "2026-08-22",
+        "category": "Sports & Gaming",
+        "summary": "The streets of Washington will be filled with the roars of professional motor sports this weekend as the IndyCar Series brings its high-speed show to the nation’s capital for the first time ever during the final stretch of its 2026 season. The event, which spans two days and will close streets around the National Mall...",
+        "url": "https://thehill.com/policy/sports-gaming/6044141-trump-scheduled-indycars-first-dc-grandprix/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6042644-median-strategies-fake-polls-trust/",
+        "source": "The Hill",
+        "title": "'Shocking' fake poll firm puts industry under the microscope: 'Unfortunately not surprising'",
+        "publicationDate": "2026-08-22",
+        "category": "Campaign",
+        "summary": "The revelation that two polls released in recent weeks from a purported polling firm were faked is adding a new curveball for a polling industry already trying to improve public trust in its work. Median Strategies made the stunning announcement earlier this past week that its poll results of the Wisconsin Democratic gubernatorial primary and the Los Angeles mayoral race were not real and...",
+        "url": "https://thehill.com/homenews/campaign/6042644-median-strategies-fake-polls-trust/"
     },
     {
         "id": "https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge/",
@@ -25,33 +52,6 @@
         "category": "Defense",
         "summary": "Karoline Leavitt is set to work at President’s Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary confirmed Friday. Leavitt shared her next career move with reporters outside of Air Force One Friday evening, a little over one week after she announced she would step down at the...",
         "url": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6044812-army-secretary-driscoll-exit-end-2026/",
-        "source": "The Hill",
-        "title": "Army Secretary eyes exit around end of year amid Hegseth tensions",
-        "publicationDate": "2026-08-22",
-        "category": "Defense",
-        "summary": "Army Secretary Dan Driscoll is looking to leave his role at the Pentagon around the end of 2026 following a months-long turf war with Defense Secretary Pete Hegseth, a former White House official and another source familiar with the discussions told The Hill on Friday. A third source familiar said Driscoll has long communicated that...",
-        "url": "https://thehill.com/policy/defense/6044812-army-secretary-driscoll-exit-end-2026/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6044782-trump-rallies-graham-south-carolina-runoff/",
-        "source": "The Hill",
-        "title": "President makes final push for Darline Graham in trip to 'Trump country'",
-        "publicationDate": "2026-08-22",
-        "category": "Administration",
-        "summary": "Myrtle Beach, S.C. — President Trump travelled south to rally support for Sen. Darline Graham (R-S.C.) on Friday ahead of next week’s primary runoff and urged Republicans to turn out in November’s midterm elections. “I think Lindsey respected Darline more than any other person he knows including me, and that does not make me happy,\"...",
-        "url": "https://thehill.com/homenews/administration/6044782-trump-rallies-graham-south-carolina-runoff/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6044744-teen-drops-social-media-addiction-lawsuit/",
-        "source": "The Hill",
-        "title": "Teen drops high-profile social media addiction lawsuit",
-        "publicationDate": "2026-08-22",
-        "category": "Technology",
-        "summary": "A teenager has dropped her lawsuit against Meta, YouTube and Snapchat, which was set to go to trial later this year as part of a broader series of cases accusing social media giants of designing addictive platforms. The teen, referred to as P.M.Y., previously settled with TikTok and “chose to dismiss the remainder so she...",
-        "url": "https://thehill.com/policy/technology/6044744-teen-drops-social-media-addiction-lawsuit/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
@@ -119,20 +119,20 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+        "title": "Rescuers dig through wreckage after 16 killed in Russian strike on Ukraine mall",
         "publicationDate": "2026-08-22",
         "category": "Foreign Policy",
         "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
         "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+        "id": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16",
         "publicationDate": "2026-08-22",
-        "category": "Other",
-        "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-        "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war",
+        "url": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
@@ -169,15 +169,6 @@
         "category": "Economy",
         "summary": "The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen",
         "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/48ec5bfd-c0ca-4cf8-8b97-3d73225b8258?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Big running shoe brands are regaining their lead",
-        "publicationDate": "2026-08-22",
-        "category": "Other",
-        "summary": "Nike and Adidas are back in the race after challenger brands such as On Holding and Hoka start to lose momentum",
-        "url": "https://www.ft.com/content/48ec5bfd-c0ca-4cf8-8b97-3d73225b8258?syn-25a6b1a6=1"
     },
     {
         "id": "IN12732",
@@ -439,6 +430,15 @@
         "category": "Foreign Policy",
         "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
         "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "One killed in sword attack at Swedish school",
+        "publicationDate": "2026-08-21",
+        "category": "Other",
+        "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
+        "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R44000",
