@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge/",
+        "source": "The Hill",
+        "title": "Trump administration wants to deny ABA ability to oversee law schools: Report",
+        "publicationDate": "2026-08-22",
+        "category": "Education",
+        "summary": "The Department of Education has suggested ending the American Bar Association’s (ABA) oversight on the law school accreditation process. The ABA has had the power to accredit nearly 200 law schools over the last 70 years, but this power may come to an end, according to a Wall Street Journal report. The department made its...",
+        "url": "https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/",
+        "source": "The Hill",
+        "title": "Leavitt to work at Trump-affiliated super PAC following White House departure",
+        "publicationDate": "2026-08-22",
+        "category": "Defense",
+        "summary": "Karoline Leavitt is set to work at President’s Trump MAGA Inc. super PAC following her departure from the White House, the outgoing press secretary confirmed Friday. Leavitt shared her next career move with reporters outside of Air Force One Friday evening, a little over one week after she announced she would step down at the...",
+        "url": "https://thehill.com/homenews/6044808-karoline-leavitt-trump-super-pac-departure/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6044812-army-secretary-driscoll-exit-end-2026/",
+        "source": "The Hill",
+        "title": "Army Secretary eyes exit around end of year amid Hegseth tensions",
+        "publicationDate": "2026-08-22",
+        "category": "Defense",
+        "summary": "Army Secretary Dan Driscoll is looking to leave his role at the Pentagon around the end of 2026 following a months-long turf war with Defense Secretary Pete Hegseth, a former White House official and another source familiar with the discussions told The Hill on Friday. A third source familiar said Driscoll has long communicated that...",
+        "url": "https://thehill.com/policy/defense/6044812-army-secretary-driscoll-exit-end-2026/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6044782-trump-rallies-graham-south-carolina-runoff/",
         "source": "The Hill",
         "title": "President makes final push for Darline Graham in trip to 'Trump country'",
@@ -18,13 +45,22 @@
         "url": "https://thehill.com/policy/technology/6044744-teen-drops-social-media-addiction-lawsuit/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6044741-white-house-criticizes-rosie-odonnell/",
-        "source": "The Hill",
-        "title": "White House rips Rosie O'Donnell for Trump, Harp jokes: She's 'a total slob'",
+        "id": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
+        "source": "New York Times Politics",
+        "title": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
         "publicationDate": "2026-08-22",
-        "category": "Administration",
-        "summary": "The White House responded Thursday to comments made by comedian Rosie O’Donnell while hosting “Jimmy Kimmel Live!” concerning President Trump and his administration. Davis Ingle, a representative for the White House, said in a statement to news outlets that “Rosie O’Donnell is a nasty woman and a total slob whose brain has been completely destroyed...",
-        "url": "https://thehill.com/homenews/administration/6044741-white-house-criticizes-rosie-odonnell/"
+        "category": "United States Politics and Government",
+        "summary": "President Trump was in South Carolina to stump for Darline Graham, sister of Lindsey. But his own political future was on his mind, too.",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html",
+        "source": "New York Times Politics",
+        "title": "Postal Service Publishes Finalized Plan to Restrict Mail Ballots",
+        "publicationDate": "2026-08-22",
+        "category": "United States Politics and Government",
+        "summary": "The plan complies with President Trump’s executive order to restrict mail voting, which was blocked by federal courts and is under review at the Supreme Court.",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
@@ -54,24 +90,6 @@
         "url": "https://www.nytimes.com/2026/08/21/us/politics/newsom-trump-accounts.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/21/us/politics/jd-vance-middletown-ohio.html",
-        "source": "New York Times Politics",
-        "title": "Drawing on His Rust Belt Roots, Vance Campaigns for Republicans",
-        "publicationDate": "2026-08-22",
-        "category": "United States Politics and Government",
-        "summary": "Vice President JD Vance traveled to his hometown, Middletown, Ohio, and spoke at a steel factory where his grandfather once worked.",
-        "url": "https://www.nytimes.com/2026/08/21/us/politics/jd-vance-middletown-ohio.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html",
-        "source": "New York Times Politics",
-        "title": "Pentagon Fires Editor and Publisher of Independent Military Publication",
-        "publicationDate": "2026-08-22",
-        "category": "Defense",
-        "summary": "The firings at Stars and Stripes also claimed a Middle East correspondent. They are the latest effort by the Pentagon to diminish the news outlet’s editorial independence.",
-        "url": "https://www.nytimes.com/2026/08/21/us/politics/pentagon-fires-stars-stripes-editor.html"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
@@ -83,10 +101,10 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+        "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
         "publicationDate": "2026-08-22",
         "category": "Foreign Policy",
-        "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+        "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
         "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -189,6 +207,24 @@
         "url": "https://www.hudson.org/intellectual-property/fresenius-says-congress-do-i-say-not-i-do-drug-patents-adam-mossoff"
     },
     {
+        "id": "https://cms.hoover.org/research/who-pays-californias-state-budget-and-what-it-spent",
+        "source": "Hoover Institution",
+        "title": "Who pays for California’s state budget, and what is it spent on?",
+        "publicationDate": "2026-08-21",
+        "category": "Economy",
+        "summary": "How big is the budget?",
+        "url": "https://cms.hoover.org/research/who-pays-californias-state-budget-and-what-it-spent"
+    },
+    {
+        "id": "https://cms.hoover.org/research/seoul-o-act",
+        "source": "Hoover Institution",
+        "title": "Seoul-o Act",
+        "publicationDate": "2026-08-21",
+        "category": "Defense",
+        "summary": "On Sunday, August 16, President Donald Trump ordered the U.S. military to scale back its annual joint military exercises, Ulchi Freedom Shield, with South Korea, citing their cost and the “inappropriate and hostile” signal they send to North Korea.",
+        "url": "https://cms.hoover.org/research/seoul-o-act"
+    },
+    {
         "id": "https://cms.hoover.org/research/do-minimum-wages-help-worker-poor-and-low-income-families",
         "source": "Hoover Institution",
         "title": "Do Minimum Wages Help Worker In Poor And Low-Income Families?",
@@ -214,24 +250,6 @@
         "category": "Economy",
         "summary": "Hoover Institution fellow Amit Seru co-authored a working paper that estimates $30 billion in fees shift from those paying with cash and debit cards to credit card users at similar merchants annually. That windfall is as “economically significant” as government policies that support low- and middle-income Americans, such as the Earned Income Tax Credit and unemployment insurance.",
         "url": "https://cms.hoover.org/research/how-credit-card-rewards-became-92-billion-wealth-transfer"
-    },
-    {
-        "id": "https://cms.hoover.org/research/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-0",
-        "source": "Hoover Institution",
-        "title": "US Advisory Body Says China’s Data Dominance Gives It AI Advantage",
-        "publicationDate": "2026-08-21",
-        "category": "Foreign Policy",
-        "summary": "Hoover Institution fellow Mike Kuiken said, “Over the last half decade, China has been able to consolidate data, find ways to label it and refine it, and hoover up ⁠new data and make sure it’s quickly made available to ⁠entities. It has ​the benefit of advancing their innovation ecosystem, and it has the benefit of enhancing the control of the (Chinese ​Communist) Party.”",
-        "url": "https://cms.hoover.org/research/us-advisory-body-says-chinas-data-dominance-gives-it-ai-advantage-0"
-    },
-    {
-        "id": "https://cms.hoover.org/research/axis-aggressors-confronting-americas-authoritarian-adversaries",
-        "source": "Hoover Institution",
-        "title": "Axis Of Aggressors: Confronting America’s Authoritarian Adversaries",
-        "publicationDate": "2026-08-21",
-        "category": "Foreign Policy",
-        "summary": "Hoover Institution fellow Matt Pottinger calls the newly released book, Axis of Aggressors: Countering the Cooperation of China, Russia, Iran, and North Korea, “a gift to concerned citizens, strategists, and lawmakers,” noting that “[i]f Washington had heeded a book like this in the 1930s, we might have forestalled much of the bloodshed of the 1940s.”",
-        "url": "https://cms.hoover.org/research/axis-aggressors-confronting-americas-authoritarian-adversaries"
     },
     {
         "id": "https://ecfr.eu/podcasts/episode/germanys-second-china-shock/",
@@ -322,24 +340,6 @@
         "category": "Economy",
         "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including this week's midterm primary results, the economy taking center stage, President Trump lashing out at key allies and the controversy surrounding a Trump aide.",
         "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-how-economic-concerns-defined-the-primaries"
-    },
-    {
-        "id": "https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories/",
-        "source": "The Hill",
-        "title": "Trump eyes vaccine categories",
-        "publicationDate": "2026-08-21",
-        "category": "Healthcare",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Trump eyes vaccine categories To support President Trump’s vaccine executive order issued earlier this month, the administration is considering to changing or adding to the categories of vaccinations, in what critics argue is another effort by the White House to...",
-        "url": "https://thehill.com/newsletters/healthcare/6044727-trump-eyes-vaccine-categories/"
-    },
-    {
-        "id": "https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends/",
-        "source": "The Hill",
-        "title": "Log Cabin Republicans cut ties with transgender movement",
-        "publicationDate": "2026-08-21",
-        "category": "LGBTQ",
-        "summary": "The Log Cabin Republicans (LCR) announced Thursday that it would halt its support for the transgender community, calling itself an \"LGB advocacy organization.\" LCR President Ross Hemminger wrote in an op-ed published to the conservative outlet \"Townhall\" that the move signaled an adjustment to its \"national advocacy focus,\" saying the organization wanted to distance itself...",
-        "url": "https://thehill.com/homenews/lgbtq/6044688-log-cabin-republicans-transgender-support-ends/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/21/trump-heads-south-carolina-campaign-darline-graham/",
