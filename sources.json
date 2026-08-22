@@ -18,6 +18,15 @@
         "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
     },
     {
+        "id": "https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views/",
+        "source": "The Hill",
+        "title": "'This is my place of business' — cakes and coffee in an age of rage",
+        "publicationDate": "2026-08-22",
+        "category": "Opinions - Civil Rights",
+        "summary": "This coffee shop owner is probably within his rights. Yet it must also be acknowledged what Sheehan is doing is far more extreme than what Jack Phillips did in the Masterpiece Cakeshop case.",
+        "url": "https://thehill.com/opinion/civil-rights/6043787-business-refuses-service-religious-political-views/"
+    },
+    {
         "id": "https://thehill.com/homenews/state-watch/6044956-newsom-praises-trump-investment-accounts/",
         "source": "The Hill",
         "title": "Newsom praises Trump Accounts, first lady foster-youth efforts",
@@ -54,13 +63,13 @@
         "url": "https://thehill.com/policy/international/6044914-carney-suspends-us-trade-talks-tariffs/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6044212-court-lifts-tps-deportation-stays/",
-        "source": "The Hill",
-        "title": "DHS starts deportation flights after end to remaining protections for TPS holders",
+        "id": "https://www.nytimes.com/2026/08/22/upshot/snap-restrictions-soda-sugary-drinks.html",
+        "source": "New York Times Politics",
+        "title": "Some States Banned the Use of Food Stamps to Buy Soda. Did It Work?",
         "publicationDate": "2026-08-22",
-        "category": "Administration",
-        "summary": "Lower court judges have now fully lifted certain limitations on the Department of Homeland Security (DHS) in the wake of a Supreme Court decision that cleared the end of temporary protected status (TPS), removing any final roadblock to deportations. A federal judge earlier this week lifted the final stay that barred immigration officials from carrying...",
-        "url": "https://thehill.com/homenews/administration/6044212-court-lifts-tps-deportation-stays/"
+        "category": "Food Stamps",
+        "summary": "A study shows a modest decline in soda purchases, but it’s not clear that the results will hold up in the long run.",
+        "url": "https://www.nytimes.com/2026/08/22/upshot/snap-restrictions-soda-sugary-drinks.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/22/us/politics/dc-grand-prix-indycar-traffic-damage.html",
@@ -99,15 +108,6 @@
         "url": "https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html",
-        "source": "New York Times Politics",
-        "title": "With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot!",
-        "publicationDate": "2026-08-22",
-        "category": "United States Politics and Government",
-        "summary": "President Trump was in South Carolina to stump for Darline Graham, sister of Lindsey. But his own political future was on his mind, too.",
-        "url": "https://www.nytimes.com/2026/08/21/us/politics/trump-darline-graham-south-carolina.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/world/2026/08/22/shes-trump-acolyte-hes-gringo-sandinista-meet-harps/",
         "source": "Washington Post Politics",
         "title": "She’s a Trump acolyte. He’s a ‘gringo Sandinista.’ Meet the Harps.",
@@ -126,6 +126,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Fourteen killed in strike on Myanmar monastery",
+        "publicationDate": "2026-08-22",
+        "category": "Other",
+        "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -135,15 +144,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio",
-        "publicationDate": "2026-08-22",
-        "category": "Other",
-        "summary": "Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election",
-        "url": "https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16",
@@ -151,6 +151,15 @@
         "category": "Foreign Policy",
         "summary": "Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war",
         "url": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio",
+        "publicationDate": "2026-08-22",
+        "category": "Other",
+        "summary": "Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election",
+        "url": "https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
@@ -173,7 +182,7 @@
     {
         "id": "https://www.ft.com/content/2099aab6-2492-4b86-b028-38e103d9104d?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "The man selling the Lakers: Mark Walter’s unravelling empire",
+        "title": "Mark Walter’s unravelling empire tests the insurance trade behind private credit’s rise",
         "publicationDate": "2026-08-22",
         "category": "Healthcare",
         "summary": "Private capital saw an opportunity to make insurance much more profitable. At what risk?",
@@ -430,15 +439,6 @@
         "category": "Foreign Policy",
         "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
         "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "One killed in sword attack at Swedish school",
-        "publicationDate": "2026-08-21",
-        "category": "Other",
-        "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
-        "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R44000",
