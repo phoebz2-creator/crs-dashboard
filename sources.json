@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+        "source": "NPR Politics",
+        "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+        "publicationDate": "2026-08-22",
+        "category": "Other",
+        "summary": "The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada immediately said it would retaliate, after last-ditch negotiations failed.",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
+    },
+    {
         "id": "https://thehill.com/homenews/education/6044824-trump-admin-bar-association-accreditation-challenge/",
         "source": "The Hill",
         "title": "Trump administration wants to deny ABA ability to oversee law schools: Report",
@@ -90,13 +99,13 @@
         "url": "https://www.nytimes.com/2026/08/21/us/politics/newsom-trump-accounts.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
         "publicationDate": "2026-08-22",
         "category": "Other",
-        "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-        "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss"
+        "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
@@ -110,29 +119,47 @@
     {
         "id": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "US says Canada rejects its trade deal offer",
+        "title": "Canada vows to match US tariffs as trade talks collapse",
         "publicationDate": "2026-08-22",
         "category": "Other",
-        "summary": "Top Washington representative Jamieson Greer criticises Ottawa’s ‘missed opportunity’",
+        "summary": "Mark Carney rejects ‘unfair’ deal as top Washington envoy criticises ‘missed opportunity’",
         "url": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "China’s robots rock, box and mix drinks. Can they outperform humans?",
+        "title": "Bossing the bond market around never works",
         "publicationDate": "2026-08-22",
-        "category": "Foreign Policy",
-        "summary": "Beijing policymakers have made robotics a ‘strategic priority’",
-        "url": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Despite Scott Bessent’s efforts, investors worry something is up",
+        "url": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/8b6b2021-bde2-4255-91a3-9c8dd44ffd51?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/2099aab6-2492-4b86-b028-38e103d9104d?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Pentagon fires military newspaper staffers for insubordination",
+        "title": "The man selling the Lakers: Mark Walter’s unravelling empire",
         "publicationDate": "2026-08-22",
-        "category": "Defense",
-        "summary": "Defence department dismisses Stars and Stripes editor-in-chief and Middle East reporter",
-        "url": "https://www.ft.com/content/8b6b2021-bde2-4255-91a3-9c8dd44ffd51?syn-25a6b1a6=1"
+        "category": "Healthcare",
+        "summary": "Private capital saw an opportunity to make insurance much more profitable. At what risk?",
+        "url": "https://www.ft.com/content/2099aab6-2492-4b86-b028-38e103d9104d?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel",
+        "publicationDate": "2026-08-22",
+        "category": "Economy",
+        "summary": "The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen",
+        "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/48ec5bfd-c0ca-4cf8-8b97-3d73225b8258?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Big running shoe brands are regaining their lead",
+        "publicationDate": "2026-08-22",
+        "category": "Other",
+        "summary": "Nike and Adidas are back in the race after challenger brands such as On Holding and Hoka start to lose momentum",
+        "url": "https://www.ft.com/content/48ec5bfd-c0ca-4cf8-8b97-3d73225b8258?syn-25a6b1a6=1"
     },
     {
         "id": "IN12732",
@@ -405,24 +432,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
-        "publicationDate": "2026-08-21",
-        "category": "Economy",
-        "summary": "President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections",
-        "url": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/12f457bc-8cb0-45bd-bf7f-83abf2d9c7d8?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "SEC accuses ex-Bank of America utilities banker of insider trading",
-        "publicationDate": "2026-08-21",
-        "category": "Other",
-        "summary": "Regulator says Jason Satsky helped a friend make $18.5mn in illegal profits tied to planned takeover of South Jersey Industries",
-        "url": "https://www.ft.com/content/12f457bc-8cb0-45bd-bf7f-83abf2d9c7d8?syn-25a6b1a6=1"
-    },
-    {
         "id": "R44000",
         "source": "Congressional Research Service",
         "title": "Turkey (Türkiye): Major Issues and U.S. Relations",
@@ -493,15 +502,6 @@
         "category": "Defense",
         "summary": "Trump Cuts US–South Korea Drills Short bbert@hudson.org Thu, 08/20/2026 - 14:36 SVG In the Media Aug 19, 2026 CBS News Trump Cuts US–South Korea Drills Short H.R. McMaster Chair of the Advisory Board, Japan Chair H.R. McMaster In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail...",
         "url": "https://www.hudson.org/national-security-defense/trump-cuts-us-south-korea-drills-short-hr-mcmaster"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/20/nx-s1-5930693/so-called-blue-state-refugees-have-helped-turn-florida-red",
-        "source": "NPR Politics",
-        "title": "So-called 'blue state refugees' have helped turn Florida red",
-        "publicationDate": "2026-08-20",
-        "category": "Other",
-        "summary": "Conservatives who move from Democratic-run places to Republican-led states are often called blue state refugees. These conservatives have helped reshape the electorate in Florida.",
-        "url": "https://www.npr.org/2026/08/20/nx-s1-5930693/so-called-blue-state-refugees-have-helped-turn-florida-red"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4720-1.html",
