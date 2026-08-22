@@ -11,11 +11,47 @@
     {
         "id": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
         "source": "NPR Politics",
-        "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
+        "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
         "publicationDate": "2026-08-22",
         "category": "Other",
-        "summary": "The midnight deadline means the U.S. has imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada \"will match those tariffs dollar for dollar.\"",
+        "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month.",
         "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/federal-judge-vacates-trump-policy-that-suspended-processing-of-immigration-visas-from-75-countries",
+        "source": "PBS NewsHour Politics",
+        "title": "Federal judge vacates Trump policy that suspended processing of immigration visas from 75 countries",
+        "publicationDate": "2026-08-22",
+        "category": "immigration",
+        "summary": "The judge ruled that Secretary of State Marco Rubio exceeded his authority by issuing the policy, which \"runs afoul\" of the Immigration and Nationality Act by mandating \"the refusal of visas to eligible applicants without any basis in law.\"",
+        "url": "https://www.pbs.org/newshour/politics/federal-judge-vacates-trump-policy-that-suspended-processing-of-immigration-visas-from-75-countries"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6042162-these-baby-names-are-popular-in-one-state-and-one-state-only-data/",
+        "source": "The Hill",
+        "title": "These baby names are popular in one state and one state only: Data",
+        "publicationDate": "2026-08-22",
+        "category": "State Watch",
+        "summary": "Think your baby has a unique name? You might be right.",
+        "url": "https://thehill.com/homenews/state-watch/6042162-these-baby-names-are-popular-in-one-state-and-one-state-only-data/"
+    },
+    {
+        "id": "https://thehill.com/opinion/judiciary/6033495-california-black-infant-health-lawsuit/",
+        "source": "The Hill",
+        "title": "More discrimination among expectant moms is a bad prescription",
+        "publicationDate": "2026-08-22",
+        "category": "Opinions - Judiciary",
+        "summary": "The better care plan for California’s moms is the same one that The Constitution prescribes: individual treatment.",
+        "url": "https://thehill.com/opinion/judiciary/6033495-california-black-infant-health-lawsuit/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/6045107-canada-retaliates-us-tariffs/",
+        "source": "The Hill",
+        "title": "Canada announces retaliatory tariffs to begin Sept. 8",
+        "publicationDate": "2026-08-22",
+        "category": "Foreign Policy",
+        "summary": "Canadian Prime Minister Mark Carney said Saturday morning that the country will enact retaliatory tariffs on the U.S. beginning on Sept. 8 in response to the Trump administration’s new 50 percent tariffs. The prime minister said during a press conference that the country will “match Washington’s new tariffs dollar for dollar in order to protect...",
+        "url": "https://thehill.com/policy/international/6045107-canada-retaliates-us-tariffs/"
     },
     {
         "id": "https://thehill.com/policy/healthcare/6036144-cases-of-scromiting-condition-tied-to-cannabis-use-spike-among-teens-young-adults-new-study/",
@@ -34,33 +70,6 @@
         "category": "Opinions - Campaign",
         "summary": "Did Angie victory \"hand Republicans a November Gift”? Quite the opposite.",
         "url": "https://thehill.com/opinion/campaign/6044156-nixon-upsets-vindman-florida-democrats/"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/6044498-kennedy-vaccine-order-maha-priorities/",
-        "source": "The Hill",
-        "title": "Across the country, Kennedy touts MAHA, but not vaccines",
-        "publicationDate": "2026-08-22",
-        "category": "Healthcare",
-        "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. stood in the Oval Office last week as President Trump proudly signed an executive order to reduce childhood vaccines, heavily implying a link between vaccines and autism. But when Kennedy made appearances in California and then hit the campaign trail for Republicans in Iowa over the...",
-        "url": "https://thehill.com/policy/healthcare/6044498-kennedy-vaccine-order-maha-priorities/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6045057-federal-judge-blocks-trump-visa-ban/",
-        "source": "The Hill",
-        "title": "Federal judge rules against Trump's 75-country visa ban",
-        "publicationDate": "2026-08-22",
-        "category": "Administration",
-        "summary": "A federal judge ruled against the Trump administration’s pause on issuing visas to immigrants from 75 countries on Friday. In a 61-page decision, U.S. District Judge Jeannette Vargas found that this policy was “contrary to law” and was “in excess” of Secretary of State Marco Rubio’s legal authority. The visa pause order was announced by...",
-        "url": "https://thehill.com/homenews/administration/6045057-federal-judge-blocks-trump-visa-ban/"
-    },
-    {
-        "id": "https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate/",
-        "source": "The Hill",
-        "title": "The US is using the wrong measure of pressure on Iran",
-        "publicationDate": "2026-08-22",
-        "category": "Foreign Policy",
-        "summary": "From Tehran’s perspective, delaying negotiations is not passive behavior — it is an active bargaining strategy.",
-        "url": "https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/22/upshot/snap-restrictions-soda-sugary-drinks.html",
@@ -122,7 +131,7 @@
         "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
         "publicationDate": "2026-08-22",
         "category": "Other",
-        "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
         "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -142,6 +151,15 @@
         "category": "Other",
         "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
         "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "publicationDate": "2026-08-22",
+        "category": "Foreign Policy",
+        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/ccd02363-0e4d-4fca-8bd1-46a153d19aee?syn-25a6b1a6=1",
@@ -378,15 +396,6 @@
         "url": "https://www.pbs.org/newshour/show/u-s-ambassador-responds-to-rising-tensions-between-israel-turkey-and-syria"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-how-economic-concerns-defined-the-primaries",
-        "source": "PBS NewsHour Politics",
-        "title": "Brooks and Capehart on how economic concerns defined the primaries",
-        "publicationDate": "2026-08-21",
-        "category": "Economy",
-        "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including this week's midterm primary results, the economy taking center stage, President Trump lashing out at key allies and the controversy surrounding a Trump aide.",
-        "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-how-economic-concerns-defined-the-primaries"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/21/trump-heads-south-carolina-campaign-darline-graham/",
         "source": "Washington Post Politics",
         "title": "Trump, his clout on the line, stumps for Darline Graham in South Carolina",
@@ -430,15 +439,6 @@
         "category": "Other",
         "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
         "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "publicationDate": "2026-08-21",
-        "category": "Foreign Policy",
-        "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-        "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R44000",
