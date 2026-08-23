@@ -45,22 +45,31 @@
         "url": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets"
     },
     {
+        "id": "https://thehill.com/homenews/campaign/6045731-van-duyne-attacks-talarico/",
+        "source": "The Hill",
+        "title": "Texas GOP Rep on Talarico: 'His views would kill Texas'",
+        "publicationDate": "2026-08-23",
+        "category": "Campaign",
+        "summary": "Texas Rep. Beth Van Duyne (R) said Sunday that Senate Democratic nominee James Talarico backs policies that would “kill” their state. During an interview on “The Hill Sunday,” Van Duyne said Talarico is “pretty much a complete DSA candidate,” referring to the Democratic Socialists of America. Talarico has never been a member of the left-wing...",
+        "url": "https://thehill.com/homenews/campaign/6045731-van-duyne-attacks-talarico/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6044770-fighting-diabetes-rio-grande-valley/",
+        "source": "The Hill",
+        "title": "I grew up on food stamps. That's why I support healthier SNAP standards",
+        "publicationDate": "2026-08-23",
+        "category": "Healthcare",
+        "summary": "Moises Arjona, Jr. argues that SNAP policy should restrict the purchase of unhealthy foods to combat rising obesity and diabetes rates, despite a federal court ruling against such restrictions.",
+        "url": "https://thehill.com/homenews/6044770-fighting-diabetes-rio-grande-valley/"
+    },
+    {
         "id": "https://thehill.com/homenews/house/6045665-johnson-downplays-kushner-jeffries-meeting/",
         "source": "The Hill",
         "title": "Johnson says Kushner 'not directly involved' in Trump administration after reported meeting with Jeffries",
         "publicationDate": "2026-08-23",
         "category": "House",
-        "summary": "Speaker Mike Johnson (R-La.) on Sunday downplayed the reported meeting between President Trump's son-in-law Jared Kushner and House Democratic Leader Hakeem Jeffries (D-N.Y.). “I don’t know what that’s about. I know Jared has interest in lots of other things going on,” Johnson told host Peter Doocy on Fox News’s “The Sunday Briefing.” The Louisiana Republican...",
+        "summary": "Speaker Mike Johnson (R-La.) on Sunday downplayed the reported meeting between Jared Kushner and House Democratic Leader Hakeem Jeffries (D-N.Y.). “I don’t know what that’s about. I know Jared has interest in lots of other things going on,” Johnson told host Peter Doocy on Fox News’s “The Sunday Briefing.” “He’s not really directly involved in...",
         "url": "https://thehill.com/homenews/house/6045665-johnson-downplays-kushner-jeffries-meeting/"
-    },
-    {
-        "id": "https://thehill.com/opinion/criminal-justice/6033653-spanberger-corrections-public-safety/",
-        "source": "The Hill",
-        "title": "Virginia may be building a national model for corrections",
-        "publicationDate": "2026-08-23",
-        "category": "Opinions - Criminal Justice",
-        "summary": "Public safety is not measured only by the number of people sent to prison.",
-        "url": "https://thehill.com/opinion/criminal-justice/6033653-spanberger-corrections-public-safety/"
     },
     {
         "id": "https://thehill.com/homenews/campaign/6043948-trump-oklahoma-governor-runoff-test/",
@@ -72,22 +81,13 @@
         "url": "https://thehill.com/homenews/campaign/6043948-trump-oklahoma-governor-runoff-test/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6045637-us-military-preparedness-iran/",
+        "id": "https://thehill.com/opinion/criminal-justice/6033653-spanberger-corrections-public-safety/",
         "source": "The Hill",
-        "title": "Pence says US must prepare for 'inevitable' action against Iran",
+        "title": "Virginia may be building a national model for corrections",
         "publicationDate": "2026-08-23",
-        "category": "Defense",
-        "summary": "Former Vice President Mike Pence argued Sunday the U.S. military should prepare for further strikes against Iran, action he deemed “inevitable.” “It's going to be absolutely imperative that we keep the pressure on, and that we keep the military assets in the region to be able to take the action that I believe is going...",
-        "url": "https://thehill.com/homenews/administration/6045637-us-military-preparedness-iran/"
-    },
-    {
-        "id": "https://thehill.com/homenews/nexstar_media_wire/6033849-no-more-sunsets-before-5-p-m-how-permanent-daylight-saving-would-change-winter/",
-        "source": "The Hill",
-        "title": "No more sunsets before 5 p.m.? How permanent daylight saving would change winter",
-        "publicationDate": "2026-08-23",
-        "category": "Nexstar Media Wire News",
-        "summary": "A sunset after 7 p.m. in winter? That could be the reality for some.",
-        "url": "https://thehill.com/homenews/nexstar_media_wire/6033849-no-more-sunsets-before-5-p-m-how-permanent-daylight-saving-would-change-winter/"
+        "category": "Opinions - Criminal Justice",
+        "summary": "Public safety is not measured only by the number of people sent to prison.",
+        "url": "https://thehill.com/opinion/criminal-justice/6033653-spanberger-corrections-public-safety/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
@@ -162,15 +162,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/08/23/abdul-el-sayed-faced-wave-anti-muslim-rhetoric-after-michigan-senate-primary-win/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-        "publicationDate": "2026-08-23",
-        "category": "Other",
-        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -178,6 +169,15 @@
         "category": "Foreign Policy",
         "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
         "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+        "publicationDate": "2026-08-23",
+        "category": "Other",
+        "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
@@ -189,6 +189,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+        "publicationDate": "2026-08-23",
+        "category": "Other",
+        "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
@@ -196,15 +205,6 @@
         "category": "Defense",
         "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
         "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "France links rise in drownings to heatwaves",
-        "publicationDate": "2026-08-23",
-        "category": "Other",
-        "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-        "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/552b8fca-6dad-4b41-a0be-54d2cd70e3cb?syn-25a6b1a6=1",
