@@ -9,6 +9,15 @@
         "url": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-31"
     },
     {
+        "id": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
+        "source": "NPR Politics",
+        "title": "Becerra, running for governor of California, faces a health insurance problem",
+        "publicationDate": "2026-08-23",
+        "category": "Healthcare",
+        "summary": "The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance.",
+        "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance"
+    },
+    {
         "id": "https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again",
         "source": "NPR Politics",
         "title": "Trump nominates Cameron Hamilton to lead FEMA (again)",
@@ -27,6 +36,33 @@
         "url": "https://www.npr.org/2026/08/23/nx-s1-5940819/week-in-politics-primaries-results-iran-pressure-korean-relations-flip"
     },
     {
+        "id": "https://thehill.com/policy/international/6045556-iran-warns-middle-east-us-economic-war/",
+        "source": "The Hill",
+        "title": "Iran warns Middle East neighbors against joining US 'economic war'",
+        "publicationDate": "2026-08-23",
+        "category": "Foreign Policy",
+        "summary": "Iran has advised its neighbors in the Middle East against entering an \"economic war\" alongside the U.S., as the conflict between Washington and Tehran nears the six month-mark. According to The Associated Press, Mohsen Rezaei, the Iranian Supreme National Security Council leader, gave a heads-up to surrounding countries to not participate in an American effort...",
+        "url": "https://thehill.com/policy/international/6045556-iran-warns-middle-east-us-economic-war/"
+    },
+    {
+        "id": "https://thehill.com/opinion/congress-blog/labor/6033723-rescinding-mandatory-demographic-reports/",
+        "source": "The Hill",
+        "title": "The EEOC's mission is opportunity for all, not demographic bean-counting",
+        "publicationDate": "2026-08-23",
+        "category": "Congress Blog - Labor",
+        "summary": "It would reduce unnecessary regulatory burden, reaffirm equal opportunity for all, and let business get back to work creating value.",
+        "url": "https://thehill.com/opinion/congress-blog/labor/6033723-rescinding-mandatory-demographic-reports/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/",
+        "source": "The Hill",
+        "title": "Live updates: US-Canada trade war details surface; Trump to take honor lap in IndyCar Grand Prix",
+        "publicationDate": "2026-08-23",
+        "category": "Administration",
+        "summary": "The details of the failed trade negotiations between the U.S. and Canada, which sparked tit-for-tat 50 percent tariffs on certain goods between the two countries, are now coming to light. U.S. Trade Representative Jamieson Greer said in a Saturday evening interview with The New York Times that, before this weekend, officials had offered to reduce...",
+        "url": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6045531-trump-canada-tariffs-retaliation/",
         "source": "The Hill",
         "title": "Trump accuses Canada of wanting 'benefits of being a State, without being one' amid trade war",
@@ -43,33 +79,6 @@
         "category": "Opinion",
         "summary": "reforms limiting the court’s ability to decide constitutional questions might empower the president far more than Congress, particularly if the president insists his ability to interpret the Constitution is just as authoritative as that of Congress or the court.",
         "url": "https://thehill.com/opinion/6043861-supreme-court-reform/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6045366-state-of-texas-big-bend-construction-paused-but-for-how-long/",
-        "source": "The Hill",
-        "title": "State of Texas: Big Bend construction paused, but for how long?",
-        "publicationDate": "2026-08-23",
-        "category": "Energy & Environment",
-        "summary": "The Trump administration temporarily stopped construction on a controversial border security infrastructure project in Big Bend National Park. The move comes after bipartisan pushback to the plan.",
-        "url": "https://thehill.com/policy/energy-environment/6045366-state-of-texas-big-bend-construction-paused-but-for-how-long/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6045218-trump-hormuz-oil-transit/",
-        "source": "The Hill",
-        "title": "Questions rise as US claims deeper control of Strait of Hormuz",
-        "publicationDate": "2026-08-23",
-        "category": "Defense",
-        "summary": "How much oil is actually getting through the Strait of Hormuz? And is the reward for the Pentagon worth the resources it is expending? Those are some of the key outstanding questions as the Trump administration touts some success in steering tankers through a southern channel of the strait along the coast of Oman. The...",
-        "url": "https://thehill.com/policy/defense/6045218-trump-hormuz-oil-transit/"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/6044389-justice-department-us-attorneys-fvra-supreme-court/",
-        "source": "The Hill",
-        "title": "DOJ maneuver on unconfirmed US attorneys inches closer to Supreme Court",
-        "publicationDate": "2026-08-23",
-        "category": "Court Battles",
-        "summary": "A legal maneuver repeatedly used by the Department of Justice (DOJ) to install acting U.S. attorneys without Senate approval may be inching closer to the Supreme Court. Two appeals court panels ruled last week the DOJ cannot sidestep the confirmation process by changing someone’s title or handing them the duties of the top prosecutor. It marks...",
-        "url": "https://thehill.com/regulation/court-battles/6044389-justice-department-us-attorneys-fvra-supreme-court/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
@@ -137,20 +146,29 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
         "publicationDate": "2026-08-23",
         "category": "Foreign Policy",
-        "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+        "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
         "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Girl, 17, killed in Swedish sword attack, police say",
+        "title": "DR Congo and M23 rebels agree roadmap for peace talks",
         "publicationDate": "2026-08-23",
         "category": "Other",
-        "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
-        "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss"
+        "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+        "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+        "publicationDate": "2026-08-23",
+        "category": "Defense",
+        "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+        "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
@@ -216,15 +234,6 @@
         "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt"
     },
     {
-        "id": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-        "source": "NPR Politics",
-        "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
-        "publicationDate": "2026-08-22",
-        "category": "Other",
-        "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month.",
-        "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
-    },
-    {
         "id": "https://www.pbs.org/newshour/world/enriched-uranium-stockpile-undercuts-trump-claim-of-irans-essential-denuclearization",
         "source": "PBS NewsHour Politics",
         "title": "Enriched uranium stockpile undercuts Trump claim of Iran's 'essential denuclearization'",
@@ -286,15 +295,6 @@
         "category": "Other",
         "summary": "Trump aide Natalie Harp is estranged from her brother, Preston, who has used social media and recent interviews to criticize her and highlight his own left-wing politics.",
         "url": "https://www.washingtonpost.com/world/2026/08/22/shes-trump-acolyte-hes-gringo-sandinista-meet-harps/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-        "publicationDate": "2026-08-22",
-        "category": "Other",
-        "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-        "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
