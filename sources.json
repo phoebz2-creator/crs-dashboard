@@ -38,16 +38,43 @@
     {
         "id": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets",
         "source": "PBS NewsHour Politics",
-        "title": "Trump will kick off the IndyCar race before cars zoom through Washington's streets",
+        "title": "Trump waves the green flag to start the IndyCar race as racers zoom through Washington's streets",
         "publicationDate": "2026-08-23",
         "category": "Donald Trump news",
-        "summary": "\"Their beautiful cars are going to make freedom roar. This will be a freedom that's roaring like never before,\" Trump said at the White House earlier this month as he promoted the event.",
+        "summary": "The open-wheel race, with cars whizzing past Washington's monuments at speeds approaching 200 mph, is the latest of Trump's celebrations this year to mark America's 250th birthday.",
         "url": "https://www.pbs.org/newshour/politics/trump-will-kick-off-the-indycar-race-before-cars-zoom-through-washingtons-streets"
+    },
+    {
+        "id": "https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes/",
+        "source": "The Hill",
+        "title": "US pressure needs to be directed at Russia, not Ukraine",
+        "publicationDate": "2026-08-23",
+        "category": "Foreign Policy",
+        "summary": "Author David J. Kramer argues that the Trump administration must consistently defend American corporate interests and global market stability by increasing pressure on Russia to end its aggression against Ukraine.",
+        "url": "https://thehill.com/opinion/international/6044866-vance-urges-ukraine-energy-strikes/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6045751-van-hollen-dsa-endorsement-stance/",
+        "source": "The Hill",
+        "title": "Van Hollen says he wouldn't reject DSA endorsement, but 'certainly not seeking' one",
+        "publicationDate": "2026-08-23",
+        "category": "Campaign",
+        "summary": "Sen. Chris Van Hollen (D-Md.) on Sunday did not shoot down a possible endorsement from the Democratic Socialists of America (DSA), but the Democratic lawmaker added that he “certainly isn’t seeking it.” “I'm not going to sort of look into all these endorsements. I'm not going to reject an endorsement by certain individuals at the...",
+        "url": "https://thehill.com/homenews/campaign/6045751-van-hollen-dsa-endorsement-stance/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/",
+        "source": "The Hill",
+        "title": "Live updates: Trump takes honor lap in IndyCar Grand Prix",
+        "publicationDate": "2026-08-23",
+        "category": "Defense",
+        "summary": "President Donald Trump arrived at the Freedom 250 Grand Prix event in Washington, D.C., on Sunday afternoon, where his motorcade took him on a lap around the racetrack where IndyCar drivers are expected to reach speeds around 180 mph. The event is part of semiquincentennial celebrations and includes flyovers by various branches of the military....",
+        "url": "https://thehill.com/homenews/administration/6045425-live-updates-canada-trade-war-indycar-race/"
     },
     {
         "id": "https://thehill.com/homenews/campaign/6045731-van-duyne-attacks-talarico/",
         "source": "The Hill",
-        "title": "Texas GOP Rep on Talarico: 'His views would kill Texas'",
+        "title": "Texas GOP rep on Talarico: 'His views would kill Texas'",
         "publicationDate": "2026-08-23",
         "category": "Campaign",
         "summary": "Texas Rep. Beth Van Duyne (R) said Sunday that Senate Democratic nominee James Talarico backs policies that would “kill” their state. During an interview on “The Hill Sunday,” Van Duyne said Talarico is “pretty much a complete DSA candidate,” referring to the Democratic Socialists of America. Talarico has never been a member of the left-wing...",
@@ -61,33 +88,6 @@
         "category": "Healthcare",
         "summary": "Moises Arjona, Jr. argues that SNAP policy should restrict the purchase of unhealthy foods to combat rising obesity and diabetes rates, despite a federal court ruling against such restrictions.",
         "url": "https://thehill.com/homenews/6044770-fighting-diabetes-rio-grande-valley/"
-    },
-    {
-        "id": "https://thehill.com/homenews/house/6045665-johnson-downplays-kushner-jeffries-meeting/",
-        "source": "The Hill",
-        "title": "Johnson says Kushner 'not directly involved' in Trump administration after reported meeting with Jeffries",
-        "publicationDate": "2026-08-23",
-        "category": "House",
-        "summary": "Speaker Mike Johnson (R-La.) on Sunday downplayed the reported meeting between Jared Kushner and House Democratic Leader Hakeem Jeffries (D-N.Y.). “I don’t know what that’s about. I know Jared has interest in lots of other things going on,” Johnson told host Peter Doocy on Fox News’s “The Sunday Briefing.” “He’s not really directly involved in...",
-        "url": "https://thehill.com/homenews/house/6045665-johnson-downplays-kushner-jeffries-meeting/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6043948-trump-oklahoma-governor-runoff-test/",
-        "source": "The Hill",
-        "title": "Bitter Oklahoma governor's runoff tests Trump's endorsement power",
-        "publicationDate": "2026-08-23",
-        "category": "Campaign",
-        "summary": "President Trump faces one of the last major primary tests of his endorsement power on Tuesday in Oklahoma, where his pick for governor is battling in a tough runoff. His pick, Republican Mike Mazzei, finished less than a percentage point behind rival Oklahoma Attorney General Gentner Drummond in the initial June GOP primary, as a divided...",
-        "url": "https://thehill.com/homenews/campaign/6043948-trump-oklahoma-governor-runoff-test/"
-    },
-    {
-        "id": "https://thehill.com/opinion/criminal-justice/6033653-spanberger-corrections-public-safety/",
-        "source": "The Hill",
-        "title": "Virginia may be building a national model for corrections",
-        "publicationDate": "2026-08-23",
-        "category": "Opinions - Criminal Justice",
-        "summary": "Public safety is not measured only by the number of people sent to prison.",
-        "url": "https://thehill.com/opinion/criminal-justice/6033653-spanberger-corrections-public-safety/"
     },
     {
         "id": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
@@ -135,6 +135,15 @@
         "url": "https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html"
     },
     {
+        "id": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/",
+        "source": "Washington Post Politics",
+        "title": "See photos from the first Indycar Grand Prix in Washington DC",
+        "publicationDate": "2026-08-23",
+        "category": "Other",
+        "summary": "Photos from the first Grand Prix in Washington DC",
+        "url": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/",
         "source": "Washington Post Politics",
         "title": "Trump’s visa ban on 75 countries struck down by federal judge",
@@ -180,6 +189,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Guinea rubbish landfill collapse kills 30",
+        "publicationDate": "2026-08-23",
+        "category": "Other",
+        "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "DR Congo and M23 rebels agree roadmap for peace talks",
@@ -189,22 +207,40 @@
         "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+        "title": "France links sharp rise in drownings to heatwaves",
         "publicationDate": "2026-08-23",
         "category": "Other",
-        "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss"
+        "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+        "id": "https://www.ft.com/content/252df40a-48c0-47b8-850d-698a3d7a6dfd",
+        "source": "Financial Times World",
+        "title": "Why every French politician is now a Gaullist",
         "publicationDate": "2026-08-23",
-        "category": "Defense",
-        "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-        "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy",
+        "url": "https://www.ft.com/content/252df40a-48c0-47b8-850d-698a3d7a6dfd"
+    },
+    {
+        "id": "https://www.ft.com/content/39baf33e-3238-4923-9fe9-f1db48bb54e4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump accused of risking more pain for Americans with Canada trade war",
+        "publicationDate": "2026-08-23",
+        "category": "Other",
+        "summary": "Collapse of talks threatens to raise prices even higher months before midterm election",
+        "url": "https://www.ft.com/content/39baf33e-3238-4923-9fe9-f1db48bb54e4?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/6aa04f24-c216-467e-834a-7b4af3ef660e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "A week of keynote speeches",
+        "publicationDate": "2026-08-23",
+        "category": "Other",
+        "summary": "Volodymyr Zelenskyy addresses the Ukrainian nation, the Fed’s Kevin Warsh talks monetary policy at Jackson Hole and investors await Nvidia earnings call",
+        "url": "https://www.ft.com/content/6aa04f24-c216-467e-834a-7b4af3ef660e?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/552b8fca-6dad-4b41-a0be-54d2cd70e3cb?syn-25a6b1a6=1",
@@ -223,33 +259,6 @@
         "category": "Economy",
         "summary": "Market Questions is the FT’s guide to the week ahead",
         "url": "https://www.ft.com/content/e05718e3-fa3b-4a0f-8d85-0c7f0f826c96?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/524004a3-d0b4-4ffd-a00d-9aa74cd734c2",
-        "source": "Financial Times World",
-        "title": "Healey’s first Budget is a chance for radical change",
-        "publicationDate": "2026-08-23",
-        "category": "Economy",
-        "summary": "Two good reasons why this chancellor has a better chance than I had of boosting public-sector productivity",
-        "url": "https://www.ft.com/content/524004a3-d0b4-4ffd-a00d-9aa74cd734c2"
-    },
-    {
-        "id": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Mark Carney says Canada ‘at war’ with US over trade",
-        "publicationDate": "2026-08-23",
-        "category": "Other",
-        "summary": "Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack",
-        "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/14eeeead-647f-486a-a8dc-7ca2610f3d35",
-        "source": "Financial Times World",
-        "title": "Zelenskyy rejects election call from fired defence minister",
-        "publicationDate": "2026-08-23",
-        "category": "Foreign Policy",
-        "summary": "President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority",
-        "url": "https://www.ft.com/content/14eeeead-647f-486a-a8dc-7ca2610f3d35"
     },
     {
         "id": "https://www.npr.org/2026/08/22/nx-s1-5938772/the-complexities-of-covering-swing-voters-and-what-they-teach-us-about-politics",
@@ -430,15 +439,6 @@
         "category": "Foreign Policy",
         "summary": "Mark Leonard welcomes Janka Oertel and Andrew Small to discuss how China’s industrial rise is shaking Germany—and Europe’s—economic foundations",
         "url": "https://ecfr.eu/podcasts/episode/germanys-second-china-shock/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/21/trump-heads-south-carolina-campaign-darline-graham/",
-        "source": "Washington Post Politics",
-        "title": "Trump, his clout on the line, stumps for Darline Graham in South Carolina",
-        "publicationDate": "2026-08-21",
-        "category": "Other",
-        "summary": "The president sought to recast opposition to Graham as opposition to him. “They’re only fighting Darline because they want me to lose,” he told the crowd in Myrtle Beach.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/21/trump-heads-south-carolina-campaign-darline-graham/"
     },
     {
         "id": "R44000",
