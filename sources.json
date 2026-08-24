@@ -1,30 +1,30 @@
 [
     {
-        "id": "IF12730",
+        "id": "IF13294",
         "source": "Congressional Research Service",
-        "title": "Kids Online Safety Act",
+        "title": "U.S. Army’s Patriot Air and Missile Defense System",
         "publicationDate": "2026-08-24",
-        "category": "Healthcare",
-        "summary": "Beginning in the 117th Congress, some Members of Congress introduced different versions of the Kids Online Safety Act (KOSA)—a bill seeking to address harms to minors online by creating requirements for certain online platforms, among other provisions. In the 119th Congress, different versions of KOSA have been introduced as stand-alone bills (H.R. 6484, S. 1748). Some provisions have been included in other bills,...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12730/IF12730.6.pdf"
+        "category": "Defense",
+        "summary": "The Patriot air and missile defense (AMD) system (see Figure 1) is an Army ground-based mobile system designed to detect, track, and engage aircraft, uncrewed aerial vehicles (UAVs), cruise missiles, and short-range or tactical ballistic missiles. Some Members of Congress have expressed interest in the cost, availability, and production of Patriot systems and interceptors, particularly in view of conflicts in Iran...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13294/IF13294.1.pdf"
     },
     {
-        "id": "R49292",
+        "id": "IF11772",
         "source": "Congressional Research Service",
-        "title": "Interior, Environment, and Related Agencies: Overview of FY2027 Appropriations",
+        "title": "Payments in Lieu of Taxes (PILT): Section 6902 Payments",
         "publicationDate": "2026-08-24",
-        "category": "Healthcare",
-        "summary": "The Interior, Environment, and Related Agencies appropriations bill—often called the Interior bill—contains funding for about three dozen agencies and entities. They include most of the Department of the Interior (DOI) and certain agencies within other departments, such as the Forest Service (Department of Agriculture) and the Indian Health Service (Department of Health and Human Services). The bill also provides...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49292/R49292.1.pdf"
+        "category": "Defense",
+        "summary": "Introduction Several federal programs compensate local jurisdictions for the presence of nontaxable federal lands. The widest-ranging program is the Department of the Interior’s (DOI’s) Payments in Lieu of Taxes (PILT) program. PILT compensates units of general local government for selected lands administered by several federal agencies. Units of general local government typically are referred to as counties. For...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11772/IF11772.12.pdf"
     },
     {
-        "id": "R47521",
+        "id": "R49308",
         "source": "Congressional Research Service",
-        "title": "Electricity: Overview and Issues for Congress",
+        "title": "First Amendment Challenges to Regulation of Social Media",
         "publicationDate": "2026-08-24",
-        "category": "Economy",
-        "summary": "Electricity is of perennial interest to Congress, especially the policy issues of reliability, security, affordability, and greenhouse gas emissions. The electricity sector is made up of three distinct, but interrelated, systems for generating electricity and delivering it to consumers. The generation system consists of power plants that generate electricity. The transmission system generally consists of...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47521/R47521.9.pdf"
+        "category": "Other",
+        "summary": "Online platforms such as social media sites allow users to communicate with billions around the world. The platforms are significant forums for speech, enabling users to share their own content as well as receive and interact with others’ content. Over the past decade, federal and state policymakers have expressed concerns about a variety of issues related to online platforms, including the spread of objectionable...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49308/R49308.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4496-2.html",
@@ -126,13 +126,22 @@
         "url": "https://www.hudson.org/human-rights/how-faith-courage-stand-against-red-dragon-olivia-enos"
     },
     {
-        "id": "https://cms.hoover.org/research/trump-imposes-harmful-and-illegal-section-338-tariffs-against-many-canadian-imports",
+        "id": "https://cms.hoover.org/profiles/orlando-leon",
         "source": "Hoover Institution",
-        "title": "Trump Imposes Harmful And Illegal Section 338 Tariffs Against Many Canadian Imports",
+        "title": "Orlando Leon",
         "publicationDate": "2026-08-24",
         "category": "Other",
-        "summary": "Hoover Institution fellow Philip Zelikow explained in a guest post; last year, Section 338 was superseded by new legislation enacted in 1962 and 1974, and is therefore defunct. For that reason, it has not been used to impose tariffs since at least the 1940s.",
-        "url": "https://cms.hoover.org/research/trump-imposes-harmful-and-illegal-section-338-tariffs-against-many-canadian-imports"
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/profiles/orlando-leon"
+    },
+    {
+        "id": "https://cms.hoover.org/research/can-palantir-and-ai-transform-uk-better",
+        "source": "Hoover Institution",
+        "title": "Can Palantir And AI Transform The UK For The Better?",
+        "publicationDate": "2026-08-24",
+        "category": "Healthcare",
+        "summary": "Palantir UK chief Louis Mosley joins Secrets of Statecraft to discuss how the company’s technology is transforming warfare, healthcare, and policing.",
+        "url": "https://cms.hoover.org/research/can-palantir-and-ai-transform-uk-better"
     },
     {
         "id": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis",
@@ -144,12 +153,30 @@
         "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
     },
     {
+        "id": "https://www.npr.org/2026/08/24/nx-s1-5936546/an-aluminum-smelter-becomes-part-of-oklahoma-republican-governor-runoff-election",
+        "source": "NPR Politics",
+        "title": "An aluminum smelter becomes part of Oklahoma Republican governor runoff election",
+        "publicationDate": "2026-08-24",
+        "category": "Other",
+        "summary": "A proposed $4 billion aluminum smelter pushed by President Trump is splitting Oklahoma Republicans.",
+        "url": "https://www.npr.org/2026/08/24/nx-s1-5936546/an-aluminum-smelter-becomes-part-of-oklahoma-republican-governor-runoff-election"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+        "source": "NPR Politics",
+        "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+        "publicationDate": "2026-08-24",
+        "category": "Other",
+        "summary": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide.",
+        "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court"
+    },
+    {
         "id": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
         "source": "NPR Politics",
-        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
+        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
         "publicationDate": "2026-08-24",
         "category": "Foreign Policy",
-        "summary": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
+        "summary": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
         "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
     },
     {
@@ -160,6 +187,33 @@
         "category": "Foreign Policy",
         "summary": "NPR's Leila Fadel asks New York Times White House correspondent Peter Baker for his analysis of President Trump's foreign policy.",
         "url": "https://www.npr.org/2026/08/24/nx-s1-5940692/how-trumps-foreign-policy-is-affecting-americas-relationship-with-its-allies"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/live-results-georgia-special-election-runoff-to-replace-rep-david-scott",
+        "source": "PBS NewsHour Politics",
+        "title": "Live Results: Georgia special election runoff to replace Rep. David Scott",
+        "publicationDate": "2026-08-24",
+        "category": "congress",
+        "summary": "Residents of Georgia's 13th Congressional District outside of Atlanta will get a new representative to Congress after a special election runoff Tuesday to replace the late Democratic Rep. David Scott, who died April 22.",
+        "url": "https://www.pbs.org/newshour/politics/live-results-georgia-special-election-runoff-to-replace-rep-david-scott"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/supreme-court-clears-the-way-for-trump-mail-voting-order-ahead-of-midterms",
+        "source": "PBS NewsHour Politics",
+        "title": "Supreme Court clears the way for Trump mail voting order ahead of midterms",
+        "publicationDate": "2026-08-24",
+        "category": "Donald Trump news",
+        "summary": "The U.S. Postal Service laid out how it would implement the order last week, but time is running short to impose major changes with some states beginning to send mail ballots to voters in just a few weeks.",
+        "url": "https://www.pbs.org/newshour/politics/supreme-court-clears-the-way-for-trump-mail-voting-order-ahead-of-midterms"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/u-s-set-for-largest-mass-visa-revocation-in-history-targeting-up-to-200000-foreigners-officials-say",
+        "source": "PBS NewsHour Politics",
+        "title": "U.S. set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+        "publicationDate": "2026-08-24",
+        "category": "Foreign Policy",
+        "summary": "The Trump administration is preparing to revoke the visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States.",
+        "url": "https://www.pbs.org/newshour/politics/u-s-set-for-largest-mass-visa-revocation-in-history-targeting-up-to-200000-foreigners-officials-say"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/pete-buttigieg-returns-to-south-carolina-as-he-weighs-another-white-house-run",
@@ -180,67 +234,67 @@
         "url": "https://www.pbs.org/newshour/world/watch-bessent-announces-new-round-of-iran-sanctions"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/canada-should-be-ready-to-cut-electricity-critical-minerals-ontarios-premier-says",
-        "source": "PBS NewsHour Politics",
-        "title": "Canada should be ready to cut electricity, critical minerals, Ontario's premier says",
-        "publicationDate": "2026-08-24",
-        "category": "canada",
-        "summary": "Ford said \"everything is on the table\" if the dispute worsens, including cutting off electricity and critical minerals from Ontario.",
-        "url": "https://www.pbs.org/newshour/politics/canada-should-be-ready-to-cut-electricity-critical-minerals-ontarios-premier-says"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/world/ontarios-premier-says-reagan-would-be-throwing-up-over-trumps-tariffs",
-        "source": "PBS NewsHour Politics",
-        "title": "Ontario's premier says Reagan would be 'throwing up' over Trump's tariffs",
-        "publicationDate": "2026-08-24",
-        "category": "canada",
-        "summary": "Ford said \"everything is on the table\" after Prime Minister Mark Carney walked away from trade talks late Friday.",
-        "url": "https://www.pbs.org/newshour/world/ontarios-premier-says-reagan-would-be-throwing-up-over-trumps-tariffs"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6047717-nevada-colorado-river-plan-lawsuit/",
+        "id": "https://thehill.com/regulation/court-battles/6047840-doj-appeals-epstein-files-ruling/",
         "source": "The Hill",
-        "title": "Nevada sues Trump administration over Colorado River water use cuts",
+        "title": "DOJ signals it will appeal ruling requiring removal of some redactions in Epstein files",
         "publicationDate": "2026-08-24",
-        "category": "Energy & Environment",
-        "summary": "The state of Nevada is suing the federal government over its plans for Colorado River water use reductions, saying its cuts are too steep. Nevada sued Monday after the federal government finalized its 10-year framework for planned cuts on Friday. The Colorado River provides water for agricultural, municipal and industrial uses for seven states in the...",
-        "url": "https://thehill.com/policy/energy-environment/6047717-nevada-colorado-river-plan-lawsuit/"
+        "category": "Court Battles",
+        "summary": "The Justice Department (DOJ) on Monday signaled its plans to appeal a ruling requiring the department to unredact various documents from the Epstein files in a suit brought by attorney and independent journalist Katie Phang. The preliminary injunction, entered in June, orders redactions be removed in key documents of interest in the files, including “at least...",
+        "url": "https://thehill.com/regulation/court-battles/6047840-doj-appeals-epstein-files-ruling/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6047644-raskin-criticizes-trump-canada-tariffs/",
+        "id": "https://thehill.com/policy/defense/6047832-iran-war-troop-hearing-uss-lincoln/",
         "source": "The Hill",
-        "title": "Raskin: 'Trump's idiotic trade war killing American businesses'",
+        "title": "Senate Democrats call for hearing on Iran war's strain on troops",
         "publicationDate": "2026-08-24",
-        "category": "House",
-        "summary": "Rep. Jamie Raskin (D-Md.) on Sunday went after President Trump for his recent tariffs on Canada. “Stop Trump’s idiotic trade war killing American businesses. Let peaceful commerce among the nations prevail. And hands off Canada, America’s #1 trading partner, whose people are now boycotting American products because of Trump’s imbecilic policies,” Raskin said in a...",
-        "url": "https://thehill.com/homenews/house/6047644-raskin-criticizes-trump-canada-tariffs/"
+        "category": "Defense",
+        "summary": "Nearly all Senate Armed Services Committee minority members on Monday called on the panel’s head to hold a hearing with Pentagon leadership on the impact that extended deployments in support of the Iran war are having on U.S. service members. “Recent reports of sailors suffering from severe mental health issues amid deteriorating conditions on the...",
+        "url": "https://thehill.com/policy/defense/6047832-iran-war-troop-hearing-uss-lincoln/"
     },
     {
-        "id": "https://thehill.com/policy/international/6047622-trump-removes-syria-sst-designation/",
+        "id": "https://thehill.com/regulation/court-battles/6047813-supreme-court-trump-executive-order-mail-voting/",
         "source": "The Hill",
-        "title": "US formally removes Syria’s designation as State Sponsor of Terrorism",
+        "title": "Supreme Court rules blue states sued too early over Trump’s mail voting order",
         "publicationDate": "2026-08-24",
-        "category": "Foreign Policy",
-        "summary": "The Trump administration on Monday formally removed Syria from its State Sponsor of Terrorism (SST) list, an extraordinary milestone for the government of Ahmed al-Sharaa, the former terrorist turned statesman who led the campaign to overthrow the dictatorship of Bashar al-Assad. The removal of the SST designation provides enormous sanctions relief for Syria and the...",
-        "url": "https://thehill.com/policy/international/6047622-trump-removes-syria-sst-designation/"
+        "category": "Court Battles",
+        "summary": "The Supreme Court lifted a judge’s block on President Trump’s executive order adding to mail voting requirements, removing a key roadblock that prevented the policy from going into effect for the midterms. Over the public dissents of three liberal justices, the high court said on Monday that the judge had no authority to block Trump’s...",
+        "url": "https://thehill.com/regulation/court-battles/6047813-supreme-court-trump-executive-order-mail-voting/"
     },
     {
-        "id": "https://thehill.com/policy/international/6047627-zelensky-calls-for-patriot-missiles/",
+        "id": "https://thehill.com/policy/defense/6047724-operation-economic-outcast-tehran-pressure/",
         "source": "The Hill",
-        "title": "Putin wants to mobilize at least 300,000 more troops to Russia-Ukraine war: Zelensky",
+        "title": "Hegseth: Economic pressure hurts Iranian regime 'the most'",
         "publicationDate": "2026-08-24",
-        "category": "Foreign Policy",
-        "summary": "Ukrainian President Volodymyr Zelensky said Sunday that Russian President Vladimir Putin plans to draft 300,000 more troops in his continued war effort against Ukraine. Zelensky told reporters Russia could draft enough troops next year to reach a total of 500,000, according to Reuters. Russian forces have recently ramped up ballistic missile strikes against Ukraine, targeting...",
-        "url": "https://thehill.com/policy/international/6047627-zelensky-calls-for-patriot-missiles/"
+        "category": "Defense",
+        "summary": "Defense Secretary Pete Hegseth said on Monday that the Trump administration’s economic pressure on Iran is hurting the regime “the most right now” but did not rule out the U.S. military resuming airstrikes if necessary. “If we need to use kinetic strikes, we'll use them. If Iran is foolish enough to overplay their hand or...",
+        "url": "https://thehill.com/policy/defense/6047724-operation-economic-outcast-tehran-pressure/"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6046435-3rd-death-florida-flesh-eating-bacteria-vibrio/",
+        "id": "https://thehill.com/homenews/administration/6047577-barrack-clarifies-golan-heights/",
         "source": "The Hill",
-        "title": "3rd person dies from flesh-eating bacteria in Florida",
+        "title": "US envoy clarifies Golan Heights comments after contradicting Trump",
         "publicationDate": "2026-08-24",
-        "category": "State Watch",
-        "summary": "At least two deaths caused by Vibriosis have been reported each year in Florida since 2017.",
-        "url": "https://thehill.com/homenews/state-watch/6046435-3rd-death-florida-flesh-eating-bacteria-vibrio/"
+        "category": "Administration",
+        "summary": "Tom Barrack, President Trump’s U.S. ambassador to Turkey and special envoy for Syria and Iraq, on Sunday walked back comments he made last week suggesting that Israel \"still\" occupies the Golan Heights in violation of United Nations resolutions, which contradict the president's position. Barrack made the remark Friday in an interview with Lebanese Australian entrepreneur Mario Nawfal....",
+        "url": "https://thehill.com/homenews/administration/6047577-barrack-clarifies-golan-heights/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
+        "source": "New York Times Politics",
+        "title": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
+        "publicationDate": "2026-08-24",
+        "category": "United States Politics and Government",
+        "summary": "The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.",
+        "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/24/us/politics/mexico-man-deported-torture.html",
+        "source": "New York Times Politics",
+        "title": "Judge Orders U.S. to Return Deported Man at Risk of Torture",
+        "publicationDate": "2026-08-24",
+        "category": "Healthcare",
+        "summary": "The Mexican man was sent to his home country after assisting federal law enforcement by testifying against Mexican drug cartels.",
+        "url": "https://www.nytimes.com/2026/08/24/us/politics/mexico-man-deported-torture.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
@@ -248,7 +302,7 @@
         "title": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
         "publicationDate": "2026-08-24",
         "category": "Midterm Elections (2026)",
-        "summary": "The president rallied for the sister of Lindsey Graham in her Senate run in South Carolina and pressured other allies to endorse her. A super PAC run by his advisers weighed in. Will it be enough?",
+        "summary": "The president rallied for the sister of Lindsey Graham in her South Carolina Senate run and pressured allies to endorse her. A super PAC run by his advisers has spent nearly $800,000 on her campaign. Will it be enough?",
         "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html"
     },
     {
@@ -270,22 +324,13 @@
         "url": "https://www.nytimes.com/2026/08/24/us/politics/ralph-norman-trump-south-carolina.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/military-boat-strike.html",
-        "source": "New York Times Politics",
-        "title": "U.S. Military Kills 2 People in Attack on Boat in Pacific",
+        "id": "https://www.washingtonpost.com/politics/2026/08/24/trump-moves-re-slope-white-houses-south-lawn/",
+        "source": "Washington Post Politics",
+        "title": "Trump moves to reshape White House’s South Lawn",
         "publicationDate": "2026-08-24",
-        "category": "Defense",
-        "summary": "The United States has killed at least 223 people since its campaign of boat strikes began nearly a year ago.",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/military-boat-strike.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html",
-        "source": "New York Times Politics",
-        "title": "Can Democrats Win Back the Senate? Why Their Chances Are Improving.",
-        "publicationDate": "2026-08-24",
-        "category": "Midterm Elections (2026)",
-        "summary": "Republicans still have some clear advantages on the map, but President Trump’s unpopularity has opened the door for an outcome that once seemed far-fetched.",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html"
+        "category": "Other",
+        "summary": "The president's latest construction project involves changing the lawn's slope to bring it flush with his new helipad.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/24/trump-moves-re-slope-white-houses-south-lawn/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/24/whats-happening-between-us-canada/",
@@ -371,10 +416,10 @@
     {
         "id": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Scott Bessent warns Iran’s partners of sanctions but offers no timeline",
+        "title": "Scott Bessent threatens Iran’s economic partners with more sanctions",
         "publicationDate": "2026-08-24",
         "category": "Foreign Policy",
-        "summary": "US Treasury secretary had billed announcement as ‘D Day’ for Tehran but stopped short of sweeping action",
+        "summary": "US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action",
         "url": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1"
     },
     {
@@ -423,33 +468,6 @@
         "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance"
     },
     {
-        "id": "https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again",
-        "source": "NPR Politics",
-        "title": "Trump nominates Cameron Hamilton to lead FEMA (again)",
-        "publicationDate": "2026-08-23",
-        "category": "Other",
-        "summary": "NPR's Ayesha Rascoe asks \"Politico's\" Thomas Frank about new FEMA administrator Cameron Hamilton and whether his appointment means a change in heart by the Trump administration about the agency.",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/23/nx-s1-5940819/week-in-politics-primaries-results-iran-pressure-korean-relations-flip",
-        "source": "NPR Politics",
-        "title": "Week in politics: primaries results, Iran pressure, Korean relations flip",
-        "publicationDate": "2026-08-23",
-        "category": "Foreign Policy",
-        "summary": "Democrats have not shown a clear preference for progressive candidates over moderate ones. Republicans have rejected some of President Trump's endorsees despite his tight grip on the party's base.",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5940819/week-in-politics-primaries-results-iran-pressure-korean-relations-flip"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/jared-kushner-and-democratic-leader-jeffries-meet-with-house-control-at-stake-in-november",
-        "source": "PBS NewsHour Politics",
-        "title": "Report: Jared Kushner and Democratic leader Jeffries meet with House control at stake in November",
-        "publicationDate": "2026-08-23",
-        "category": "Hakeem Jeffries",
-        "summary": "The meeting, first reported Sunday by The New York Times, touched on issues ranging from housing, immigration to the high costs of living.",
-        "url": "https://www.pbs.org/newshour/politics/jared-kushner-and-democratic-leader-jeffries-meet-with-house-control-at-stake-in-november"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/23/secret-white-house-bunker-undercuts-trumps-ballroom-lawsuit-ex-officials-say/",
         "source": "Washington Post Politics",
         "title": "Secret White House bunker undercuts Trump’s ballroom lawsuit, ex-officials say",
@@ -457,24 +475,6 @@
         "category": "Other",
         "summary": "The White House already has a nuclear-proof facility buried deep underground and built in secret after 9/11.",
         "url": "https://www.washingtonpost.com/politics/2026/08/23/secret-white-house-bunker-undercuts-trumps-ballroom-lawsuit-ex-officials-say/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/",
-        "source": "Washington Post Politics",
-        "title": "Trump’s visa ban on 75 countries struck down by federal judge",
-        "publicationDate": "2026-08-23",
-        "category": "Other",
-        "summary": "A federal judge said the indefinite pause, which affected nationals of countries in every corner of the globe, ran afoul of antidiscrimination protections.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/"
-    },
-    {
-        "id": "IN12732",
-        "source": "Congressional Research Service",
-        "title": "Six Imbalances Facing the U.S. Economy",
-        "publicationDate": "2026-08-21",
-        "category": "Defense",
-        "summary": "The economy has been growing in line with its potential, and the unemployment rate has been relatively low since the recovery from the 2020 COVID pandemic. Nevertheless, the economy faces several imbalances that pose risks to economic expansion if their unwinding were disorderly. The presence of these imbalances does not necessarily suggest that a recession is currently likely—expansions always face risks, and the...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12732/IN12732.2.pdf"
     },
     {
         "id": "https://www.heritage.org/health-care-reform/commentary/making-americans-healthier-again",
@@ -529,15 +529,6 @@
         "category": "Foreign Policy",
         "summary": "Fidelity International is planning to exit its wholly owned China fund unit, which holds just $670 million in assets marking one of the most prominent retreats by a foreign asset manager from the PRC's market amid a broader pullback by peers like Schroders, Vanguard, and Legal & General.",
         "url": "https://cms.hoover.org/research/fidelity-international-plans-pull-out-wholly-owned-china-fund-unit-sources-say"
-    },
-    {
-        "id": "https://cms.hoover.org/research/china-orders-entities-not-assist-eus-jdcom-probe",
-        "source": "Hoover Institution",
-        "title": "China orders entities not to assist EU's JD.com probe",
-        "publicationDate": "2026-08-21",
-        "category": "Economy",
-        "summary": "The PRC Justice Ministry ordered companies and individuals not to comply with an EU investigation into JD.com's $2.5 billion bid for German retailer Ceconomy, denouncing the probe as \"improper extraterritorial jurisdiction\" and threatening retaliation if Brussels persists.",
-        "url": "https://cms.hoover.org/research/china-orders-entities-not-assist-eus-jdcom-probe"
     },
     {
         "id": "https://ecfr.eu/podcasts/episode/germanys-second-china-shock/",
@@ -664,6 +655,15 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
+    },
+    {
+        "id": "R44880",
+        "source": "Congressional Research Service",
+        "title": "Oil and Natural Gas Pipelines: Role of the U.S. Army Corps of Engineers",
+        "publicationDate": "2017-06-28",
+        "category": "Defense",
+        "summary": "Growth in North American crude oil and natural gas production has led to efforts to expand the domestic oil and natural gas pipeline network. Pipeline developers are required to obtain authorizations from the U.S. Army Corps of Engineers (Corps) before constructing certain pipeline segments. Under the agency’s regulatory program, the Corps is responsible for authorizing activities that may affect federally...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44880/R44880.5.pdf"
     },
     {
         "id": "R42653",
