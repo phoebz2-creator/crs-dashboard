@@ -27,6 +27,15 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5144-1.html"
     },
     {
+        "id": "https://www.cfr.org/articles/the-1814-british-sack-of-washington",
+        "source": "Council on Foreign Relations",
+        "title": "The 1814 British Sack of Washington",
+        "publicationDate": "2026-08-24",
+        "category": "Article",
+        "summary": "A war that began with U.S. ambitions to seize Canada led to the burning of the White House and the Capitol Building.",
+        "url": "https://www.cfr.org/articles/the-1814-british-sack-of-washington"
+    },
+    {
         "id": "https://www.cfr.org/articles/cfr-report-takeaways-how-to-reshape-u-s-defense-production-to-counter-china",
         "source": "Council on Foreign Relations",
         "title": "How to Reshape U.S. Defense Production to Counter China",
@@ -45,6 +54,15 @@
         "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
     },
     {
+        "id": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+        "source": "NPR Politics",
+        "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+        "publicationDate": "2026-08-24",
+        "category": "Foreign Policy",
+        "summary": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
+        "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
+    },
+    {
         "id": "https://www.npr.org/2026/08/24/nx-s1-5940692/how-trumps-foreign-policy-is-affecting-americas-relationship-with-its-allies",
         "source": "NPR Politics",
         "title": "How Trump's foreign policy is affecting America's relationship with its allies",
@@ -54,49 +72,58 @@
         "url": "https://www.npr.org/2026/08/24/nx-s1-5940692/how-trumps-foreign-policy-is-affecting-americas-relationship-with-its-allies"
     },
     {
-        "id": "https://thehill.com/opinion/campaign/6043983-alaska-senate-peltola-sulivan/",
+        "id": "https://thehill.com/homenews/media/6046447-arbitrator-washington-post-karen-attiah-opinion-columnist-reenstatement-charlie-kirk-posts/",
         "source": "The Hill",
-        "title": "The Senate races that will define the Democratic Party",
+        "title": "Arbitrator orders Washington Post to reinstate fired columnist",
         "publicationDate": "2026-08-24",
-        "category": "Opinions - Campaign",
-        "summary": "Primaries have trended progressive, and whether that proves to be a winning formula at the statewide level will be among the defining questions of this cycle.",
-        "url": "https://thehill.com/opinion/campaign/6043983-alaska-senate-peltola-sulivan/"
+        "category": "Media",
+        "summary": "An independent arbitrator ordered the Washington Post to rehire a columnist it fired last year over controversial social media posts following the assassination of conservative activist Charlie Kirk. A judge ruled Karen Attiah, an opinion writer at the Post, had been wrongfully terminated over posts and the outlet failed to prove they amounted to \"gross...",
+        "url": "https://thehill.com/homenews/media/6046447-arbitrator-washington-post-karen-attiah-opinion-columnist-reenstatement-charlie-kirk-posts/"
     },
     {
-        "id": "https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar/",
+        "id": "https://thehill.com/opinion/white-house/6045478-trump-politics-new-normal/",
         "source": "The Hill",
-        "title": "Kyle Kirkwood wins ‘Freedom 250’ Grand Prix as IndyCar takes over DC",
+        "title": "Has questionable MAGA behavior become a new norm?",
         "publicationDate": "2026-08-24",
-        "category": "Keeping Score",
-        "summary": "Kyle Kirkwood, an American IndyCar driver racing for Andretti Global, took home the checkered flag Sunday with a win at the Freedom 250 Grand Prix, the first professional motorsports road race ever run on the streets of Washington, D.C. The event, which was billed as a de facto finale to a slew of “America 250”...",
-        "url": "https://thehill.com/newsletters/keeping-score/6046222-kyle-kirkwood-trump-freedom-250-grand-prix-indycar/"
+        "category": "Opinions - White House",
+        "summary": "The ongoing candidacy of individuals like Rep. Max Miller and gubernatorial nominee Victor Marx reflects a shift in American politics toward accepting controversial figures due to Donald Trump's significant influence over the Republican voter base.",
+        "url": "https://thehill.com/opinion/white-house/6045478-trump-politics-new-normal/"
     },
     {
-        "id": "https://thehill.com/opinion/campaign/6044456-redefining-presidential-strength/",
+        "id": "https://thehill.com/homenews/administration/6046476-donald-trump-michael-cohen-new-york-hush-money-case-officials-blame-game/",
         "source": "The Hill",
-        "title": "Is it finally time for a female president?",
+        "title": "Trump blames NY prosecutors for Cohen role in hush money trial",
         "publicationDate": "2026-08-24",
-        "category": "Opinions - Campaign",
-        "summary": "The next presidential election is more than two years away, but several women are already mentioned as possible candidates.",
-        "url": "https://thehill.com/opinion/campaign/6044456-redefining-presidential-strength/"
+        "category": "Administration",
+        "summary": "President Trump blamed New York Attorney General Letitia James (D) and New York County District Attorney Alvin Bragg (D) for pressuring his former fixer Michael Cohen to testify against him in the 2024 hush money trial. “They threatened you with jail. They threatened you with everything if you didn't go against Trump,” the president told...",
+        "url": "https://thehill.com/homenews/administration/6046476-donald-trump-michael-cohen-new-york-hush-money-case-officials-blame-game/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6046363-scott-bessent-donald-trump-warnings-iran-war-endgame/",
+        "id": "https://thehill.com/policy/international/6046482-canadians-support-ending-us-trade-talks/",
         "source": "The Hill",
-        "title": "Bessent doubles down on Trump warnings: 'Entering the endgame' on Iran",
+        "title": "76 percent in Canada say ending US trade negotiations was right call: Survey",
+        "publicationDate": "2026-08-24",
+        "category": "Foreign Policy",
+        "summary": "Over three-quarters of Canadians believe that their country ending trade negotiations with the U.S. was the right call, according to a new poll. In the Angus Reid Institute poll, 76 percent of respondents said their country was in the right “by refusing the terms being offered and ending negotiations without a trade agreement,” while 13...",
+        "url": "https://thehill.com/policy/international/6046482-canadians-support-ending-us-trade-talks/"
+    },
+    {
+        "id": "https://thehill.com/homenews/editors-call/6046390-us-canada-tariff-war-trump-beef-iran-sanctions-darline-graham-south-carolina-discussion/",
+        "source": "The Hill",
+        "title": "Editor's call: US-Canada trade war erupts; Trump faces beef backlash; Graham's final SC push",
+        "publicationDate": "2026-08-24",
+        "category": "Editor's Call",
+        "summary": "Join The Hill's editors for a rundown of a wild few days in economic news, as trade talks with Canada rapidly turn into a tit-for-tat tariff war and President Trump's plan to import discounted beef draws a fierce backlash from his own base. We'll also preview the home stretch in Sen. Darline Graham's (R-S.C.) bid...",
+        "url": "https://thehill.com/homenews/editors-call/6046390-us-canada-tariff-war-trump-beef-iran-sanctions-darline-graham-south-carolina-discussion/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/24/us/politics/military-boat-strike.html",
+        "source": "New York Times Politics",
+        "title": "U.S. Military Kills 2 People in Attack on Boat in Pacific",
         "publicationDate": "2026-08-24",
         "category": "Defense",
-        "summary": "Treasury Secretary Scott Bessent on Sunday previewed the Trump administration’s economic offensive against Iran, set to begin Monday. Echoing President Trump’s rhetoric on the military operations against the Islamic Republic, Bessent said the U.S. has “dismantled Iran’s capabilities, destroyed nearly 100 percent of its military factories, and buried its nuclear program.” The Treasury secretary wrote...",
-        "url": "https://thehill.com/homenews/administration/6046363-scott-bessent-donald-trump-warnings-iran-war-endgame/"
-    },
-    {
-        "id": "https://thehill.com/opinion/healthcare/6046016-preventing-medicare-fraud-through-statutory-law/",
-        "source": "The Hill",
-        "title": "Congress must now do its part on Medicare fraud",
-        "publicationDate": "2026-08-24",
-        "category": "Healthcare",
-        "summary": "Vice President JD Vance urged Congress to codify recent healthcare fraud enforcement successes into permanent law to prevent future administrations from undoing the current administration's progress.",
-        "url": "https://thehill.com/opinion/healthcare/6046016-preventing-medicare-fraud-through-statutory-law/"
+        "summary": "The United States has killed at least 223 people since its campaign of boat strikes began nearly a year ago.",
+        "url": "https://www.nytimes.com/2026/08/24/us/politics/military-boat-strike.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html",
@@ -133,15 +160,6 @@
         "category": "Foreign Policy",
         "summary": "Treasury Secretary Scott Bessent will hold a news conference outlining the new package of measures.",
         "url": "https://www.nytimes.com/live/2026/08/24/us/trump-news-iran-economy/bessent-treasury-assault-iran-economy"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html",
-        "source": "New York Times Politics",
-        "title": "AIPAC Wants to Back This Republican, but He Has Some Reservations",
-        "publicationDate": "2026-08-24",
-        "category": "Midterm Elections (2026)",
-        "summary": "The pro-Israel group has been preparing to spend big for Mike Rogers, the Republican nominee for Senate in Michigan. Does he want that?",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/24/democratic-socialists-biggest-challenge-their-own-platform/",
@@ -198,6 +216,24 @@
         "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/21190130-bb8e-460e-b64c-ef1532f6c673?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Reform UK’s ‘Farage Fest’ went ahead without permission from council",
+        "publicationDate": "2026-08-24",
+        "category": "Other",
+        "summary": "Organisers face potential enforcement after rally to celebrate leader’s Clacton by-election win was denied an events licence",
+        "url": "https://www.ft.com/content/21190130-bb8e-460e-b64c-ef1532f6c673?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f16e4ad3-d61f-4b98-b427-c5bcb1df1972?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Class wars and the midterms",
+        "publicationDate": "2026-08-24",
+        "category": "Other",
+        "summary": "The US economic conversation is expanding to include things such as corruption and the Wall Street-Main Street divide",
+        "url": "https://www.ft.com/content/f16e4ad3-d61f-4b98-b427-c5bcb1df1972?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/bb60f5f1-bf4c-439e-b78b-3b018062c400?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance",
@@ -223,24 +259,6 @@
         "category": "Other",
         "summary": "For the first time, a US court will try one of those alleged to be responsible for the attack",
         "url": "https://www.ft.com/content/895d08d0-5cb9-45f4-9a90-cbfdd164a0dd"
-    },
-    {
-        "id": "https://www.ft.com/content/91b3e407-daca-40b3-8572-47cf3de9dd1a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "French finance minister warns tax on big businesses may be extended",
-        "publicationDate": "2026-08-24",
-        "category": "Economy",
-        "summary": "Roland Lescure says it would be ‘difficult’ to scrap unpopular surcharge on country’s largest firms",
-        "url": "https://www.ft.com/content/91b3e407-daca-40b3-8572-47cf3de9dd1a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/02c73478-c32b-44e5-baab-f81b9db98f04",
-        "source": "Financial Times World",
-        "title": "Harry Potter and the risk of geopolitics",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "European banks write fan fiction",
-        "url": "https://www.ft.com/content/02c73478-c32b-44e5-baab-f81b9db98f04"
     },
     {
         "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-31",
@@ -331,15 +349,6 @@
         "category": "Economy",
         "summary": "“I think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,” the former vice president told CNN.",
         "url": "https://www.washingtonpost.com/politics/2026/08/23/pence-says-us-canada-trade-fight-adds-affordability-concerns-economy/"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/22/nx-s1-5938772/the-complexities-of-covering-swing-voters-and-what-they-teach-us-about-politics",
-        "source": "NPR Politics",
-        "title": "The complexities of covering swing voters and what they teach us about politics",
-        "publicationDate": "2026-08-22",
-        "category": "Other",
-        "summary": "For Reporter's Notebook, an NPR political correspondent shares the lessons she has learned listening in on groups of swing voters in swing states.",
-        "url": "https://www.npr.org/2026/08/22/nx-s1-5938772/the-complexities-of-covering-swing-voters-and-what-they-teach-us-about-politics"
     },
     {
         "id": "https://www.pbs.org/newshour/world/enriched-uranium-stockpile-undercuts-trump-claim-of-irans-essential-denuclearization",
@@ -576,15 +585,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4720-1.html"
     },
     {
-        "id": "https://www.cfr.org/articles/the-u-s-munitions-crisis",
-        "source": "Council on Foreign Relations",
-        "title": "The U.S. Munitions Crisis",
-        "publicationDate": "2026-08-19",
-        "category": "Foreign Policy",
-        "summary": "The war against Iran has shown that the Pentagon’s reliance on hard-to-produce hi-tech weapons creates a vulnerability in a world in which quantity may overwhelm quality.",
-        "url": "https://www.cfr.org/articles/the-u-s-munitions-crisis"
-    },
-    {
         "id": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/",
         "source": "European Council on Foreign Relations",
         "title": "Cold comfort: What China can teach Europe about adaptation",
@@ -639,6 +639,15 @@
         "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
     },
     {
+        "id": "IF13003",
+        "source": "Congressional Research Service",
+        "title": "Alien Registration Requirements",
+        "publicationDate": "2026-08-04",
+        "category": "Foreign Policy",
+        "summary": "Section 1302, Title 8 of the U.S. Code requires aliens (i.e., non-U.S. citizens or nationals) who are age 14 and older and present in the United States for 30 days or more to apply for registration and fingerprinting with immigration authorities. Parents or legal guardians of children under age 14 must ensure the children are registered. Section 1304(e) requires aliens age 18 and over to carry proof of...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13003/IF13003.3.pdf"
+    },
+    {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
         "source": "Centre for European Reform",
         "title": "Bild: Die größte Gefahr für unseren Wohlstand: Ronzheimer trifft Sander Tordoir",
@@ -655,15 +664,6 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
-    },
-    {
-        "id": "TE10108",
-        "source": "Congressional Research Service",
-        "title": "Restoring Congressional Power over VA After Loper Bright Enterprises v. Raimondo",
-        "publicationDate": "2024-12-18",
-        "category": "Defense",
-        "summary": "Before 1988, VA benefits regulations were not subject to the notice-and-comment requirements of the Administrative Procedure Act (APA), and VA’s decisions on entitlement to benefits were not subject to judicial review. The Veterans’ Judicial Review Act (VJRA) changed this paradigm, requiring the VA Secretary to adhere to the APA’s notice-and-comment requirements and establishing the Article I court now called the...",
-        "url": "https://www.congress.gov/crs_external_products/TE/PDF/TE10108/TE10108.2.pdf"
     },
     {
         "id": "TE10103",
