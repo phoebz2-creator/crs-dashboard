@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4980-1.html",
+        "source": "RAND Corporation",
+        "title": "Federal Revenue When AI Replaces Labor",
+        "publicationDate": "2026-08-25",
+        "category": "Defense",
+        "summary": "Artificial intelligence (AI) replacing human labor could sharply reduce U.S. federal revenue, especially if workers are not reemployed or AI is cheap. Proactive fiscal policy is needed to manage these risks.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4980-1.html"
+    },
+    {
         "id": "https://www.cfr.org/articles/why-nato-and-the-transatlantic-bond-will-outlast-trump",
         "source": "Council on Foreign Relations",
         "title": "Why NATO and the Transatlantic Bond Will Outlast Trump",
@@ -34,6 +43,15 @@
         "category": "Foreign Policy",
         "summary": "The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States.",
         "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6047923-trump-beef-canada-tariffs-gop-senators/",
+        "source": "The Hill",
+        "title": "Trump’s fight with GOP senators over trade intensifies",
+        "publicationDate": "2026-08-25",
+        "category": "Senate",
+        "summary": "President Trump is headed for a clash with Senate Republicans over his decision to pause tariffs on beef imports while ratcheting up tariffs on key Canadian goods. Trump’s plan to exempt 300,000 tons of product for ground beef from out-of-quota tariffs to address Americans’ concerns about high food prices while simultaneously threatening Canada with 50...",
+        "url": "https://thehill.com/homenews/senate/6047923-trump-beef-canada-tariffs-gop-senators/"
     },
     {
         "id": "https://thehill.com/policy/defense/6048280-uss-abraham-lincoln-thailand-port-call/",
@@ -72,6 +90,15 @@
         "url": "https://thehill.com/homenews/campaign/6048221-el-sayed-watters-fox-news-clash/"
     },
     {
+        "id": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
+        "source": "New York Times Politics",
+        "title": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
+        "publicationDate": "2026-08-25",
+        "category": "Fetterman",
+        "summary": "Pennsylvania Republicans now view John Fetterman, the state’s Democratic senator, more favorably than its sitting G.O.P. senator, a New York Times/Philadelphia Inquirer/Siena poll found.",
+        "url": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/08/25/us/politics/runoff-election-south-carolina-oklahoma.html",
         "source": "New York Times Politics",
         "title": "What to Watch in Tuesday’s Primary Runoffs in South Carolina and Oklahoma",
@@ -108,13 +135,13 @@
         "url": "https://www.nytimes.com/2026/08/24/us/politics/h1b-visas-fees-proposal-trump.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
-        "source": "New York Times Politics",
-        "title": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
+        "id": "https://www.washingtonpost.com/style/2026/08/25/heres-what-sean-duffys-reality-show-actually-teaches-us-about-america/",
+        "source": "Washington Post Politics",
+        "title": "Here’s what Sean Duffy’s reality show actually teaches us about America",
         "publicationDate": "2026-08-25",
-        "category": "Defense",
-        "summary": "The U.S. has spent 20 years promising ‘crippling sanctions’ on Iran. But the latest effort comes with a reverse twist, after military action failed to accomplish President Trump’s goals.",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html"
+        "category": "Other",
+        "summary": "The government’s YouTube series featuring the transportation secretary is slick, well-made and about the Duffys, not the nation.",
+        "url": "https://www.washingtonpost.com/style/2026/08/25/heres-what-sean-duffys-reality-show-actually-teaches-us-about-america/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/25/trump-tariffs-canada-risks-political-fallout-republicans/",
@@ -171,58 +198,49 @@
         "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/d926671a-4f27-44f3-a2bf-4a0743c67534?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Scott Bessent threatens Iran’s economic partners with more sanctions",
-        "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action",
-        "url": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/80e7dfea-1dae-4ab7-ad56-5ba8dee2e5fd?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham is right to rule out an early election",
+        "title": "Second drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks",
         "publicationDate": "2026-08-25",
         "category": "Other",
-        "summary": "But sticking to a date sometime in 2029 brings political risks too",
-        "url": "https://www.ft.com/content/80e7dfea-1dae-4ab7-ad56-5ba8dee2e5fd?syn-25a6b1a6=1"
+        "summary": "Latest discovery made near scene where explosive-laden drone was discovered on August 4",
+        "url": "https://www.ft.com/content/d926671a-4f27-44f3-a2bf-4a0743c67534?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/aa7ba671-8175-4b53-b6a5-28803a851493?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Nvidia employee charged with smuggling advanced chips into China",
+        "title": "China warns US it could retaliate over Iran sanctions",
         "publicationDate": "2026-08-25",
         "category": "Foreign Policy",
-        "summary": "Prosecutors identify Taiwan-based manager as ‘central figure’ in scheme involving US semiconductor maker’s AI servers",
-        "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1"
+        "summary": "Beijing says it will take ‘all necessary measures’ if Washington expands crackdown on business with Tehran",
+        "url": "https://www.ft.com/content/aa7ba671-8175-4b53-b6a5-28803a851493?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/58142179-593e-4525-bc4e-4c3f766a1a3a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "FirstFT: Iran war punishes US farmers",
+        "title": "Embattled housebuilder Vistry boosted by £350mn UK government contract",
         "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview",
-        "url": "https://www.ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/705bb093-f491-4a2c-90bb-1804be8c1426?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "EU leaders begin heart-to-heart budget talks as year-end deadline looms large",
-        "publicationDate": "2026-08-25",
-        "category": "Economy",
-        "summary": "Also in this newsletter: Merz seeks to reboot his moribund government",
-        "url": "https://www.ft.com/content/705bb093-f491-4a2c-90bb-1804be8c1426?syn-25a6b1a6=1"
-    },
-    {
-        "id": "R49309",
-        "source": "Congressional Research Service",
-        "title": "Broadcast TV Networks and Affiliates: FCC Oversight and Marketplace Dynamics",
-        "publicationDate": "2026-08-24",
         "category": "Other",
-        "summary": "As Congress continues to exercise oversight over the Federal Communications Commission (FCC), an area for consideration is the FCC’s ability to influence the operations of broadcast television (TV) networks. The Radio Act of 1927 gave the Federal Radio Commission (FRC) authority to regulate broadcast radio stations and networks. When Congress replaced the FRC with the FCC, it shifted this provision to the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49309/R49309.1.pdf"
+        "summary": "Award to build 3,028 homes over 10 years sends shares 18% higher",
+        "url": "https://www.ft.com/content/58142179-593e-4525-bc4e-4c3f766a1a3a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d8162910-af1e-4a8a-93e5-a3309252337d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UK backs Devon tungsten mine in effort to secure critical mineral supplies",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "National Wealth Fund invests £71mn in project to produce metal used in aerospace and defence industries",
+        "url": "https://www.ft.com/content/d8162910-af1e-4a8a-93e5-a3309252337d?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/9d61ca14-6939-4efa-a6fe-0ec1b283d77a",
+        "source": "Financial Times World",
+        "title": "Bessent gets Drucked",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "‘Governments defending prices against fundamentals always lose’",
+        "url": "https://www.ft.com/content/9d61ca14-6939-4efa-a6fe-0ec1b283d77a"
     },
     {
         "id": "IF11772",
@@ -241,6 +259,15 @@
         "category": "Other",
         "summary": "Online platforms such as social media sites allow users to communicate with billions around the world. The platforms are significant forums for speech, enabling users to share their own content as well as receive and interact with others’ content. Over the past decade, federal and state policymakers have expressed concerns about a variety of issues related to online platforms, including the spread of objectionable...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49308/R49308.2.pdf"
+    },
+    {
+        "id": "IF13119",
+        "source": "Congressional Research Service",
+        "title": "National Petroleum Reserve in Alaska (NPR-A): A Summary",
+        "publicationDate": "2026-08-24",
+        "category": "Defense",
+        "summary": "The National Petroleum Reserve in Alaska (NPR-A) is a 23-million-acre area in northern Alaska owned and administered by the federal government. Originally designated as an emergency oil reserve for the United States Navy in 1923, the NPR-A has been under the administration of the Department of the Interior’s (DOI’s) Bureau of Land Management (BLM) since 1976. Management and development of the NPR-A have been...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13119/IF13119.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4496-2.html",
@@ -450,15 +477,6 @@
         "url": "https://www.pbs.org/newshour/politics/newsom-returns-to-a-defining-california-fight-who-pays-for-wildfire-damage"
     },
     {
-        "id": "https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns/",
-        "source": "The Hill",
-        "title": "Back-to-school season fuels growing measles concerns",
-        "publicationDate": "2026-08-24",
-        "category": "Healthcare",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Back-to-school season fuels growing measles concerns With back-to-school season underway, students are returning to class amid the worst year of measles in recent U.S. history, record-high vaccine exemptions reported among kindergarteners and continuously changing immunization guidance under the Trump administration. ...",
-        "url": "https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/24/log-cabin-republicans-remove-reference-trans-people-website/",
         "source": "Washington Post Politics",
         "title": "Log Cabin Republicans remove reference to trans people on website",
@@ -484,15 +502,6 @@
         "category": "Economy",
         "summary": "And what it could mean for the American economy.",
         "url": "https://www.washingtonpost.com/politics/2026/08/24/whats-happening-between-us-canada/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/",
-        "source": "Washington Post Politics",
-        "title": "See photos from the first IndyCar race in Washington",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "Drivers are dashing around the National Mall at speeds expected to exceed 185 mph.",
-        "url": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/"
     },
     {
         "id": "https://www.heritage.org/health-care-reform/commentary/making-americans-healthier-again",
@@ -592,15 +601,6 @@
         "category": "Defense",
         "summary": "Russia’s growing military intervention in Belarus poses a frontline security challenge for Europe. The EU needs to develop a more pragmatic strategy based on protecting its eastern border and shaping Minsk’s autonomy away from Moscow.",
         "url": "https://ecfr.eu/publication/in-the-bears-paw-how-europeans-can-loosen-russias-grip-on-belarus/"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4720-1.html",
-        "source": "RAND Corporation",
-        "title": "Quantitative and Policy Analyses Related to Medicare Global Surgical Services",
-        "publicationDate": "2026-08-19",
-        "category": "Healthcare",
-        "summary": "This report presents findings from four analyses of claims data conducted from September 2023 to September 2025, some of which update prior RAND research, in support of efforts to improve the valuation of global surgical services.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4720-1.html"
     },
     {
         "id": "IF12458",
