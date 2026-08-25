@@ -1,5 +1,14 @@
 [
     {
+        "id": "IF12386",
+        "source": "Congressional Research Service",
+        "title": "Defining Final Agency Action for APA and CRA Review",
+        "publicationDate": "2026-08-25",
+        "category": "Defense",
+        "summary": "Executive branch action may be subject to both judicial and congressional review. Two federal statutes authorizing such review are the Administrative Procedure Act (APA), which generally governs judicial review of agency action, and the Congressional Review Act (CRA), which provides an avenue for Congress to review agency rules. Both statutes authorize review only of final actions taken by agencies. This In Focus...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12386/IF12386.2.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3025-4.html",
         "source": "RAND Corporation",
         "title": "Emergency Management Research",
@@ -45,6 +54,24 @@
         "url": "https://www.cfr.org/articles/why-nato-and-the-transatlantic-bond-will-outlast-trump"
     },
     {
+        "id": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+        "source": "NPR Politics",
+        "title": "Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday.",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
+        "source": "NPR Politics",
+        "title": "Several states will decide voter ID ballot measures this year",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "Voters in at least six states will soon decide ballot measures related to voter ID — the largest number of voter ID measures in a single year. The tally includes three prominent swing states.",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures"
+    },
+    {
         "id": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
         "source": "NPR Politics",
         "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
@@ -72,6 +99,33 @@
         "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners"
     },
     {
+        "id": "https://www.pbs.org/newshour/world/watch-live-canada-announces-retaliatory-tariffs-against-the-u-s",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Canada announces retaliatory tariffs against the U.S.",
+        "publicationDate": "2026-08-25",
+        "category": "canada",
+        "summary": "Canada struck back at the United States on Tuesday with retaliatory tariffs on about $20 billion worth of American goods, including steel, dairy products, appliances and farm equipment, as the trade war between the once-friendly neighbors escalated sharply.",
+        "url": "https://www.pbs.org/newshour/world/watch-live-canada-announces-retaliatory-tariffs-against-the-u-s"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/nation/federal-judge-rejects-ghislaine-maxwells-miscarriage-of-justice-claim-and-bid-for-prison-release",
+        "source": "PBS NewsHour Politics",
+        "title": "Federal judge rejects Ghislaine Maxwell's 'miscarriage of justice' claim and bid for prison release",
+        "publicationDate": "2026-08-25",
+        "category": "epstein files",
+        "summary": "Claims by Jeffrey Epstein's former girlfriend and longtime associate Ghislaine Maxwell that her sex trafficking conviction was a \"complete miscarriage of justice\" were rejected Tuesday by a federal judge who said her assertions were based on \"speculation, distortions, and/or outright falsehoods.\"",
+        "url": "https://www.pbs.org/newshour/nation/federal-judge-rejects-ghislaine-maxwells-miscarriage-of-justice-claim-and-bid-for-prison-release"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/nothing-changes-yet-with-the-supreme-courts-order-on-mail-voting-but-it-could-open-door-to-chaos",
+        "source": "PBS NewsHour Politics",
+        "title": "Nothing changes yet with the Supreme Court's order on mail voting. But it could open door to 'chaos'",
+        "publicationDate": "2026-08-25",
+        "category": "Donald Trump news",
+        "summary": "Rather than saying that President Donald Trump's order is legal, the high court said Monday it was too early for Democratic-run states to challenge it in June, when they convinced a federal judge in Boston to freeze the order for November's election.",
+        "url": "https://www.pbs.org/newshour/politics/nothing-changes-yet-with-the-supreme-courts-order-on-mail-voting-but-it-could-open-door-to-chaos"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/darline-graham-ralph-norman-go-head-to-head-in-south-carolinas-gop-senate-runoff",
         "source": "PBS NewsHour Politics",
         "title": "Darline Graham, Ralph Norman go head-to-head in South Carolina's GOP Senate runoff",
@@ -90,49 +144,76 @@
         "url": "https://www.pbs.org/newshour/world/secret-service-confirms-awareness-of-iranian-state-media-video-threatening-barron-trumps-life"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6048989-pennsylvania-measles-deaths-unvaccinated/",
+        "id": "https://thehill.com/homenews/campaign/6049176-trump-mail-in-voting-order-scotus-ruling/",
         "source": "The Hill",
-        "title": "2 measles-related deaths reported in Pennsylvania",
+        "title": "Democratic governors react to Supreme Court ruling on mail-in voting: 'States run elections, not Donald Trump'",
         "publicationDate": "2026-08-25",
-        "category": "Healthcare",
-        "summary": "Two individuals have died due to measles in Pennsylvania, the state’s Department of Health said Tuesday. Both individuals, who were unvaccinated, lived in Lancaster County. The state health department said in a release it will not identify the deceased to protect their privacy and that of their families. Their deaths marked the first measles-related deaths...",
-        "url": "https://thehill.com/policy/healthcare/6048989-pennsylvania-measles-deaths-unvaccinated/"
+        "category": "Campaign",
+        "summary": "Democratic governors are expressing their dissatisfaction with the Supreme Court’s Monday decision to lift a lower court’s block on the Trump administration’s executive order restricting mail-in ballot voting. New Jersey Gov. Mikie Sherrill criticized the move as a “terrible decision” in a social media post. “States run elections, not Donald Trump,” she wrote. “I will...",
+        "url": "https://thehill.com/homenews/campaign/6049176-trump-mail-in-voting-order-scotus-ruling/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6048811-fetterman-mccormick-pennsylvania-republican-voters/",
+        "id": "https://thehill.com/homenews/campaign/6049179-trump-approval-rating-hits-low/",
         "source": "The Hill",
-        "title": "Fetterman viewed more favorably than GOP senator by Pennsylvania Republicans: Poll",
+        "title": "Trump approval reaches record low in new survey",
         "publicationDate": "2026-08-25",
-        "category": "Senate",
-        "summary": "Sen. John Fetterman (Pa.), the centrist Democrat who frequently criticizes his party for catering to its left-wing base, is more popular among Republicans in Pennsylvania than the state’s GOP senator, David McCormick, according to a new poll. A New York Times, Philadelphia Inquirer and Siena University poll of registered voters in Pennsylvania found that 73...",
-        "url": "https://thehill.com/homenews/senate/6048811-fetterman-mccormick-pennsylvania-republican-voters/"
+        "category": "Campaign",
+        "summary": "President Trump’s approval rating for his second term has reached a new low, according to a new poll. In the Reuters/Ipsos poll, the president’s approval rating hit 33 percent, a 14-point slide from the start of his second term, when it was at 47 percent, and a 4-point slide from about a month ago, when...",
+        "url": "https://thehill.com/homenews/campaign/6049179-trump-approval-rating-hits-low/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6048768-doj-request-lift-nationwide-block-restrictions-mail-in-ballots/",
+        "id": "https://thehill.com/regulation/court-battles/6049130-federal-charges-forgery-john-roberts-nsa-impersonation/",
         "source": "The Hill",
-        "title": "DOJ asks judge to lift nationwide block on mail-in voting restrictions",
+        "title": "Man charged with forging Chief Justice John Roberts’s signature, impersonating NSA agent",
         "publicationDate": "2026-08-25",
         "category": "Court Battles",
-        "summary": "The Department of Justice (DOJ) asked a federal judge in Massachusetts late Monday to lift a nationwide block on mail-in voting restrictions ahead of the November midterms. The DOJ wrote in a late-night filing that the Supreme Court’s ruling in a separate challenge to President Trump’s executive order “leaves no room for further dispute” in...",
-        "url": "https://thehill.com/regulation/court-battles/6048768-doj-request-lift-nationwide-block-restrictions-mail-in-ballots/"
+        "summary": "A man is facing federal charges over allegations that he impersonated a federal officer on several occasions and forged Chief Justice John Roberts’s signature on fabricated Indiana court documents. Joshua Culver was indicted last week in the Northern District of Indiana on four counts of falsely impersonating an officer of the United States and one...",
+        "url": "https://thehill.com/regulation/court-battles/6049130-federal-charges-forgery-john-roberts-nsa-impersonation/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/fight-for-2028/6048815-south-carolina-gop-senate-runoff-donald-trump-influence-midterms-discussion/",
+        "id": "https://thehill.com/homenews/campaign/6049032-graham-norman-sc-senate-runoff/",
         "source": "The Hill",
-        "title": "South Carolina GOP Senate runoff puts Trump’s influence to the test",
+        "title": "Graham, Norman tied in South Carolina Senate poll",
         "publicationDate": "2026-08-25",
-        "category": "The Fight for 2028",
-        "summary": "Join The Hill's Amie Parnes and Caroline Vakil for a live discussion of tonight’s GOP faceoff in the South Carolina Senate runoff between Sen. Darline Graham (R-S.C.), who is backed by President Trump, and Rep. Ralph Norman (R-S.C.). The hosts will also talk about some takeaways from Michigan Democratic Senate nominee Abdul El-Sayed's Monday night...",
-        "url": "https://thehill.com/homenews/campaign/fight-for-2028/6048815-south-carolina-gop-senate-runoff-donald-trump-influence-midterms-discussion/"
+        "category": "Campaign",
+        "summary": "Sen. Darline Graham and Rep. Ralph Norman are neck and neck in a new survey, as voting concludes Tuesday to determine which Republican will be on the ballot in South Carolina's Senate race. The poll, which the Trafalgar Group conducted from Saturday through Monday, found that 47.9 percent of 1,031 respondents backed Graham, whom South...",
+        "url": "https://thehill.com/homenews/campaign/6049032-graham-norman-sc-senate-runoff/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6048774-graham-refuses-election-certification-vote/",
+        "id": "https://thehill.com/opinion/energy-environment/6047556-states-lead-clean-energy-transition/",
         "source": "The Hill",
-        "title": "Darline Graham dodges when asked if she would've certified 2020 election",
+        "title": "States can build America's affordable energy future",
         "publicationDate": "2026-08-25",
-        "category": "Defense",
-        "summary": "Sen. Darline Graham (R-S.C.) on Monday refused to say whether she would have voted to certify the 2020 presidential election, as the Republican looks to secure a win in South Carolina’s GOP Senate runoff this week. The senator was asked by MS NOW’s Mychael Schnell about whether she would have affirmed former President Biden’s victory...",
-        "url": "https://thehill.com/homenews/campaign/6048774-graham-refuses-election-certification-vote/"
+        "category": "Opinions - Energy and Environment",
+        "summary": "Former Washington Gov. Jay Inslee argues that state governments must leverage their regulatory authority to advance affordable clean energy initiatives to counter the Trump administration's federal opposition.",
+        "url": "https://thehill.com/opinion/energy-environment/6047556-states-lead-clean-energy-transition/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/25/us/politics/republicans-trump-beef-imports.html",
+        "source": "New York Times Politics",
+        "title": "G.O.P. Lawmakers Rebuke Trump on Plan to Increase Beef Imports",
+        "publicationDate": "2026-08-25",
+        "category": "United States Politics and Government",
+        "summary": "Republicans who have mostly refrained from criticizing the president’s actions have been vocal in opposition to the move, which they say will harm their constituents",
+        "url": "https://www.nytimes.com/2026/08/25/us/politics/republicans-trump-beef-imports.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html",
+        "source": "New York Times Politics",
+        "title": "Trump Wants to Restrict Mail-In Voting. See Which States Rely on It The Most.",
+        "publicationDate": "2026-08-25",
+        "category": "Trump",
+        "summary": "Nearly 30 percent of voters nationwide use mail ballots. President Trump is seeking greater federal control of mail voting.",
+        "url": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/25/business/trump-canada-tariffs.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s Canada Tariffs Rely on Untested Law",
+        "publicationDate": "2026-08-25",
+        "category": "United States Politics and Government",
+        "summary": "The president has invoked a long dormant section of law to hit one of America’s closest allies, a move that has troubled courts in the past.",
+        "url": "https://www.nytimes.com/2026/08/25/business/trump-canada-tariffs.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/25/us/politics/democratic-senators-homeland-security-planes.html",
@@ -151,33 +232,6 @@
         "category": "Fetterman",
         "summary": "Pennsylvania Republicans now view John Fetterman, the state’s Democratic senator, more favorably than its sitting G.O.P. senator, a New York Times/Philadelphia Inquirer/Siena poll found.",
         "url": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/25/us/politics/runoff-election-south-carolina-oklahoma.html",
-        "source": "New York Times Politics",
-        "title": "What to Watch in Tuesday’s Primary Runoffs in South Carolina and Oklahoma",
-        "publicationDate": "2026-08-25",
-        "category": "Midterm Elections (2026)",
-        "summary": "President Trump’s endorsement track record is on the line in two races, including the high-profile contest to succeed the late Senator Lindsey Graham.",
-        "url": "https://www.nytimes.com/2026/08/25/us/politics/runoff-election-south-carolina-oklahoma.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/trump-mass-visa-revocation-asylum.html",
-        "source": "New York Times Politics",
-        "title": "Trump Administration to Target Visas of Up To 200,000 Foreign Citizens Applying for Asylum",
-        "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "The State Department, in a move that could affect as many as 200,000 visa holders and asylum applicants, has begun its review. Cancellations could occur in waves.",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-mass-visa-revocation-asylum.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/jeffries-kushner-meeting-trump-oversight.html",
-        "source": "New York Times Politics",
-        "title": "Jeffries Defends Kushner Meeting, Vowing Tough Oversight of Trump",
-        "publicationDate": "2026-08-25",
-        "category": "United States Politics and Government",
-        "summary": "The Brooklyn Democrat, who is in line to be speaker should his party win the House, has drawn ire from some progressives for huddling with the president’s son-in-law.",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/jeffries-kushner-meeting-trump-oversight.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/25/secret-service-says-it-is-aware-iranian-state-media-video-threatening-barron-trump/",
@@ -225,15 +279,6 @@
         "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Lockerbie bombing trial postponed days before it was due to start",
-        "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-        "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Brain disease in dead NFL players 'higher than previously shown'",
@@ -241,6 +286,15 @@
         "category": "Other",
         "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
         "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "CIA chief in Moscow for unannounced talks, US media reports",
+        "publicationDate": "2026-08-25",
+        "category": "Defense",
+        "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
@@ -252,13 +306,49 @@
         "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+        "title": "Two unvaccinated people die of measles in Pennsylvania",
         "publicationDate": "2026-08-25",
         "category": "Other",
-        "summary": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
-        "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss"
+        "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+        "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/d926671a-4f27-44f3-a2bf-4a0743c67534?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "Latest discovery made near scene where explosive-laden drone was uncovered on August 4",
+        "url": "https://www.ft.com/content/d926671a-4f27-44f3-a2bf-4a0743c67534?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/7a889a33-1af5-4704-a57f-7890d169d94e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Boss of Trump Jr-backed start-up donated to Republicans after winning US contract",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "Companies connected to investment firm of US president’s son have benefited from lucrative government business deals",
+        "url": "https://www.ft.com/content/7a889a33-1af5-4704-a57f-7890d169d94e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/21ef2743-2cc2-41ef-8329-84adce69d975?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Waymo picks Munich for first EU robotaxi launch",
+        "publicationDate": "2026-08-25",
+        "category": "Economy",
+        "summary": "Move by Alphabet-owned group comes as Germany seeks to bolster its struggling auto sector",
+        "url": "https://www.ft.com/content/21ef2743-2cc2-41ef-8329-84adce69d975?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b6009dd2-7e97-4bbc-941d-cd0b8fc046b6?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Can Trump’s ‘economic D-day’ force Iran to capitulate?",
+        "publicationDate": "2026-08-25",
+        "category": "Foreign Policy",
+        "summary": "Tehran made no concessions as a result of ‘maximum pressure’ sanctions eight years ago. Few expect it to yield this time",
+        "url": "https://www.ft.com/content/b6009dd2-7e97-4bbc-941d-cd0b8fc046b6?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/b7a62337-c0f8-41f2-b4d4-7afbe6d63af1?syn-25a6b1a6=1",
@@ -268,42 +358,6 @@
         "category": "Foreign Policy",
         "summary": "Also in today’s newsletter, the political backlash to Trump’s trade war with Canada",
         "url": "https://www.ft.com/content/b7a62337-c0f8-41f2-b4d4-7afbe6d63af1?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5811d9e6-f48d-43ac-bc05-c273287a27d0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Store water and tinned food to prepare for emergencies, UK citizens to be told",
-        "publicationDate": "2026-08-25",
-        "category": "Technology",
-        "summary": "Ministers step up work on ‘war book’ in push for resilience against extreme weather and cyber threats",
-        "url": "https://www.ft.com/content/5811d9e6-f48d-43ac-bc05-c273287a27d0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6b396499-d71d-4e8f-b2a4-66318b1d9426?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Germany on track for strongest GDP growth since 2022",
-        "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "Economists raise forecasts after better than expected second-quarter growth and robust Ifo business index reading",
-        "url": "https://www.ft.com/content/6b396499-d71d-4e8f-b2a4-66318b1d9426?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3e54336f-cffc-44b7-947d-59f6e4999de1?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "How extreme weather threatens energy security — from jellyfish swarms to ‘Super El Niño’",
-        "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "Policymakers, businesses and media need to focus more attention on how climate change will impact energy systems, warn scientists",
-        "url": "https://www.ft.com/content/3e54336f-cffc-44b7-947d-59f6e4999de1?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: China warns US it could retaliate over Iran sanctions",
-        "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "Also in this newsletter: JPMorgan chases AI wealth and António Guterres interview",
-        "url": "https://www.ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4496-2.html",
@@ -378,51 +432,6 @@
         "url": "https://www.hudson.org/human-rights/how-faith-courage-stand-against-red-dragon-olivia-enos"
     },
     {
-        "id": "https://cms.hoover.org/research/august-occasions",
-        "source": "Hoover Institution",
-        "title": "August Occasions",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "So much for escaping the oddities of California politics—not when the governor suffers from wanderlust (it helps to have a compliant Legislature), billionaires can’t agree on campaign tactics, and a former House speaker applies a heavy hand in the race to succeed her in Congress.",
-        "url": "https://cms.hoover.org/research/august-occasions"
-    },
-    {
-        "id": "https://cms.hoover.org/news/rare-russo-dutch-red-cross-field-hospital-photo-album-comes-hoover",
-        "source": "Hoover Institution",
-        "title": "Rare Russo-Dutch Red Cross Field Hospital Photo Album Comes to Hoover",
-        "publicationDate": "2026-08-24",
-        "category": "Healthcare",
-        "summary": "New archival album reveals the untold story of a Russo-Dutch Red Cross field hospital on the brutal front lines of the Russo-Japanese War.",
-        "url": "https://cms.hoover.org/news/rare-russo-dutch-red-cross-field-hospital-photo-album-comes-hoover"
-    },
-    {
-        "id": "https://cms.hoover.org/profiles/orlando-leon",
-        "source": "Hoover Institution",
-        "title": "Orlando Leon",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/profiles/orlando-leon"
-    },
-    {
-        "id": "https://cms.hoover.org/research/can-palantir-and-ai-transform-uk-better",
-        "source": "Hoover Institution",
-        "title": "Can Palantir And AI Transform The UK For The Better?",
-        "publicationDate": "2026-08-24",
-        "category": "Healthcare",
-        "summary": "Palantir UK chief Louis Mosley joins Secrets of Statecraft to discuss how the company’s technology is transforming warfare, healthcare, and policing.",
-        "url": "https://cms.hoover.org/research/can-palantir-and-ai-transform-uk-better"
-    },
-    {
-        "id": "https://cms.hoover.org/research/subjection-feminists",
-        "source": "Hoover Institution",
-        "title": "The Subjection Of Feminists",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "Perhaps the most tragic and consequential failure of Y2KMind happened with feminists in Women’s Studies when, in the spring of 2014, Hoover Institution fellow Ayaan Hirsi Ali would get an honorary degree that year in Feminist/Women’s Studies and rapidly, professors in various theoretically sophisticated disciplines, with Women’s Studies in the fore, objected vehemently to this honor being awarded to an “Islamophobe.”",
-        "url": "https://cms.hoover.org/research/subjection-feminists"
-    },
-    {
         "id": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis",
         "source": "Centre for European Reform",
         "title": "RTÉ Radio 1: EU meet on Ceuta migrant crisis",
@@ -430,51 +439,6 @@
         "category": "Other",
         "summary": "Barry Lenihan, RTÉ Political Correspondent and Camino Mortera-Martinez, an associate fellow at the Centre for European Reform and former adviser to Spanish Prime Minister Pedro Sanchez. Camino Mortera-Martinez View multimedia 04 August 2026",
         "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/24/nx-s1-5936546/an-aluminum-smelter-becomes-part-of-oklahoma-republican-governor-runoff-election",
-        "source": "NPR Politics",
-        "title": "An aluminum smelter becomes part of Oklahoma Republican governor runoff election",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "A proposed $4 billion aluminum smelter pushed by President Trump is splitting Oklahoma Republicans.",
-        "url": "https://www.npr.org/2026/08/24/nx-s1-5936546/an-aluminum-smelter-becomes-part-of-oklahoma-republican-governor-runoff-election"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-        "source": "NPR Politics",
-        "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "The Supreme Court paused a lower court's ruling that blocked key parts of Trump's order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked nationwide.",
-        "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/the-potential-economic-fallout-of-trumps-trade-war-with-canada",
-        "source": "PBS NewsHour Politics",
-        "title": "The potential economic fallout of Trump's trade war with Canada",
-        "publicationDate": "2026-08-24",
-        "category": "canada",
-        "summary": "The trade war between the U.S. and Canada is intensifying after negotiations broke down over the weekend. Canadian Prime Minister Mark Carney said his country had been preparing for a fundamental shift in its relationship with the U.S., which it no longer views as a reliable partner. Geoff Bennett discussed the economic fallout on both sides of the border with Peter Armstrong of the CBC.",
-        "url": "https://www.pbs.org/newshour/show/the-potential-economic-fallout-of-trumps-trade-war-with-canada"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/world/canada-will-announce-retaliatory-tariffs-against-u-s-on-tuesday-official-tells-ap",
-        "source": "PBS NewsHour Politics",
-        "title": "Canada will announce retaliatory tariffs against U.S. on Tuesday, official tells AP",
-        "publicationDate": "2026-08-24",
-        "category": "canada",
-        "summary": "Canada will announce retaliatory tariffs against the United States on Tuesday, an official familiar with the plans told The Associated Press, escalating a trade fight that has sharply worsened since negotiations with the Trump administration collapsed.",
-        "url": "https://www.pbs.org/newshour/world/canada-will-announce-retaliatory-tariffs-against-u-s-on-tuesday-official-tells-ap"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/a-look-at-the-new-u-s-sanctions-on-iran-and-threats-against-its-trading-partners",
-        "source": "PBS NewsHour Politics",
-        "title": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
-        "publicationDate": "2026-08-24",
-        "category": "Foreign Policy",
-        "summary": "The U.S. launched what the Trump administration calls \"Operation Economic Outcast\" against Iran. It includes threats to increase sanctions on Iran's trading partners. The pressure comes as the administration indicates it is trying to avoid returning to war, but cannot overcome Iran's stranglehold over the Strait of Hormuz. Nick Schifrin discussed more with Miad Maleki.",
-        "url": "https://www.pbs.org/newshour/show/a-look-at-the-new-u-s-sanctions-on-iran-and-threats-against-its-trading-partners"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/24/log-cabin-republicans-remove-reference-trans-people-website/",
@@ -630,48 +594,39 @@
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
     },
     {
-        "id": "R43762",
+        "id": "R48163",
         "source": "Congressional Research Service",
-        "title": "The Appointment Process for U.S. Circuit and District Court Nominations: An Overview",
-        "publicationDate": "2016-06-17",
-        "category": "Other",
-        "summary": "In recent decades, the process for appointing judges to the U.S. circuit courts of appeals and the U.S. district courts has been of continuing Senate interest. The responsibility for making these appointments is shared by the President and the Senate. Pursuant to the Constitution’s Appointments Clause, the President nominates persons to fill federal judgeships, with the appointment of each nominee also requiring...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43762/R43762.11.pdf"
-    },
-    {
-        "id": "R41746",
-        "source": "Congressional Research Service",
-        "title": "Earthquake Risk and U.S. Highway Infrastructure: Frequently Asked Questions",
-        "publicationDate": "2016-05-19",
-        "category": "Technology",
-        "summary": "Earthquakes and related events, such as soil liquefaction, landslides, tsunamis, flooding, and fires, pose risks to highway infrastructure. Concerns about the U.S. highway system’s seismic vulnerability stem from interest in protecting public safety, facilitating response and recovery efforts, and minimizing economic loss and social disruption. This report addresses a number of frequently asked questions about...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R41746/R41746.8.pdf"
-    },
-    {
-        "id": "R44316",
-        "source": "Congressional Research Service",
-        "title": "Western Water and Drought: Legislative Analysis of H.R. 2898 and S. 1894",
-        "publicationDate": "2015-12-23",
-        "category": "Technology",
-        "summary": "Several western states are experiencing extreme or exceptional drought conditions. The persistence and intensity of the drought, which began in 2011 in some areas, has received considerable attention from Congress. To date, federal legislative proposals have focused primarily on the management of federal water projects, support for drought-related programs, and needs of fish and wildlife for water. A broad policy...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44316/R44316.8.pdf"
-    },
-    {
-        "id": "R44132",
-        "source": "Congressional Research Service",
-        "title": "Specialty Drugs: Background and Policy Concerns",
-        "publicationDate": "2015-08-03",
-        "category": "Economy",
-        "summary": "Specialty drugs are one of the fastest-growing areas of health care spending. There is no one set definition of specialty drugs, although insurers and other health care payers often characterize them as prescription products requiring extra handling or administration that are used to treat complex diseases including hepatitis C, multiple sclerosis, and cancer. High cost can trigger a specialty drug designation....",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44132/R44132.3.pdf"
-    },
-    {
-        "id": "R40477",
-        "source": "Congressional Research Service",
-        "title": "Desalination and Membrane Technologies: Federal Research and Adoption Issues",
-        "publicationDate": "2015-01-02",
+        "title": "Foreign Nationals in the U.S. Armed Forces: Immigration Issues",
+        "publicationDate": "2026-05-13",
         "category": "Defense",
-        "summary": "In the United States, desalination and membrane technologies are used to augment municipal water supply, produce high-quality industrial water supplies, and reclaim contaminated supplies (including from oil and gas development). Approximately 2,000 desalination facilities larger than 0.3 million gallons per day (MGD) operate in the United States; this represents more than 2% of U.S. municipal and industrial...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R40477/R40477.21.pdf"
+        "summary": "Enlistment and appointment in the U.S. Armed Forces is currently limited to U.S. citizens and U.S. nationals, lawful permanent residents (LPRs), and residents of certain Pacific Islands (Freely Associated States). The U.S. Department of Defense (DOD) may also authorize the enlistment of other categories of foreign nationals (aliens) under certain circumstances, which was the basis for the now-suspended Military...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48163/R48163.5.pdf"
+    },
+    {
+        "id": "IN12664",
+        "source": "Congressional Research Service",
+        "title": "Executive Office for Immigration Review Immigration Judge Staffing Issues",
+        "publicationDate": "2026-03-02",
+        "category": "Defense",
+        "summary": "Immigration judge (IJ) staffing at the U.S. Department of Justice’s (DOJ’s) Executive Office for Immigration Review (EOIR; immigration courts) has long been insufficient to adjudicate its pending caseload and keep up with the receipt of new immigration cases, particularly removal proceedings, contributing to large backlogs in the immigration court system. These backlogs have been exacerbated by record-high case...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12664/IN12664.3.pdf"
+    },
+    {
+        "id": "IN12638",
+        "source": "Congressional Research Service",
+        "title": "FY2025 Immigration Court Data: Case Outcomes",
+        "publicationDate": "2026-01-12",
+        "category": "Foreign Policy",
+        "summary": "Immigration courts within the U.S. Department of Justice’s Executive Office for Immigration Review (EOIR) adjudicate removal proceedings for foreign nationals (aliens) whom the Department of Homeland Security (DHS) has charged with an immigration violation under the Immigration and Nationality Act (INA.) Removal proceedings in immigration court are authorized under INA Section 240. Certain foreign nationals may be...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12638/IN12638.2.pdf"
+    },
+    {
+        "id": "R47504",
+        "source": "Congressional Research Service",
+        "title": "Asylum Process in Immigration Courts and Selected Trends",
+        "publicationDate": "2025-12-10",
+        "category": "Defense",
+        "summary": "Immigration law permits aliens (foreign nationals) to apply for asylum if they are present in the United States or have arrived at a port of entry, irrespective of their immigration status. Individuals charged with an immigration violation by the U.S. Department of Homeland Security (DHS) may be placed in removal proceedings in immigration court within the U.S. Department of Justice’s (DOJ’s) Executive Office for...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47504/R47504.5.pdf"
     }
 ]
