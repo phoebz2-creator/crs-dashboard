@@ -92,20 +92,20 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
         "publicationDate": "2026-08-25",
         "category": "Foreign Policy",
         "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
         "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+        "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
         "publicationDate": "2026-08-25",
         "category": "Foreign Policy",
-        "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
+        "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+        "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
@@ -117,15 +117,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "NZ religious sect leader jailed over death of Chinese follower",
-        "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-        "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "French tourist dies in Death Valley after car gets stuck in mud",
@@ -133,6 +124,15 @@
         "category": "Other",
         "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
         "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Nvidia employee charged with smuggling advanced chips into China",
+        "publicationDate": "2026-08-25",
+        "category": "Foreign Policy",
+        "summary": "Prosecutors identify Taiwan-based manager as ‘central figure’ in scheme involving US semiconductor maker’s AI servers",
+        "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1",
@@ -167,17 +167,17 @@
         "title": "Iranians queue for petrol as US blockade bites",
         "publicationDate": "2026-08-25",
         "category": "Economy",
-        "summary": "Long lines form in capital city as officials warn that war and inflation are triggering fuel shortages",
+        "summary": "Long lines form in capital as officials warn that war and inflation are triggering fuel shortages",
         "url": "https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776"
     },
     {
-        "id": "https://www.ft.com/content/910288e8-5ad1-4f09-90fb-36c3efe275e0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Austerity denial and the mystery of Britain’s shrunken state",
-        "publicationDate": "2026-08-25",
+        "id": "R49309",
+        "source": "Congressional Research Service",
+        "title": "Broadcast TV Networks and Affiliates: FCC Oversight and Marketplace Dynamics",
+        "publicationDate": "2026-08-24",
         "category": "Other",
-        "summary": "There is a ready supply of explanations on offer at Westminster",
-        "url": "https://www.ft.com/content/910288e8-5ad1-4f09-90fb-36c3efe275e0?syn-25a6b1a6=1"
+        "summary": "As Congress continues to exercise oversight over the Federal Communications Commission (FCC), an area for consideration is the FCC’s ability to influence the operations of broadcast television (TV) networks. The Radio Act of 1927 gave the Federal Radio Commission (FRC) authority to regulate broadcast radio stations and networks. When Congress replaced the FRC with the FCC, it shifted this provision to the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49309/R49309.1.pdf"
     },
     {
         "id": "IF11772",
@@ -196,15 +196,6 @@
         "category": "Other",
         "summary": "Online platforms such as social media sites allow users to communicate with billions around the world. The platforms are significant forums for speech, enabling users to share their own content as well as receive and interact with others’ content. Over the past decade, federal and state policymakers have expressed concerns about a variety of issues related to online platforms, including the spread of objectionable...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49308/R49308.2.pdf"
-    },
-    {
-        "id": "IF13119",
-        "source": "Congressional Research Service",
-        "title": "National Petroleum Reserve in Alaska (NPR-A): A Summary",
-        "publicationDate": "2026-08-24",
-        "category": "Defense",
-        "summary": "The National Petroleum Reserve in Alaska (NPR-A) is a 23-million-acre area in northern Alaska owned and administered by the federal government. Originally designated as an emergency oil reserve for the United States Navy in 1923, the NPR-A has been under the administration of the Department of the Interior’s (DOI’s) Bureau of Land Management (BLM) since 1976. Management and development of the NPR-A have been...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13119/IF13119.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4496-2.html",
@@ -493,6 +484,15 @@
         "category": "Other",
         "summary": "The Democratic Socialists of America platform aims to upend the status quo. That can mean a bumpy ride for those trying to win in the short term.",
         "url": "https://www.washingtonpost.com/politics/2026/08/24/democratic-socialists-biggest-challenge-their-own-platform/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Lockerbie bombing trial postponed days before it was due to start",
+        "publicationDate": "2026-08-24",
+        "category": "Other",
+        "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
+        "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.heritage.org/health-care-reform/commentary/making-americans-healthier-again",
