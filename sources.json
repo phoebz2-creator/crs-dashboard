@@ -1,5 +1,14 @@
 [
     {
+        "id": "IF13098",
+        "source": "Congressional Research Service",
+        "title": "National Park Service: Fee Increases for International Visitors",
+        "publicationDate": "2026-08-25",
+        "category": "Economy",
+        "summary": "Congress has debated various measures to generate additional funds for the National Park System in light of a large backlog of deferred maintenance on system lands. One option under discussion has been to raise park entrance fees for international visitors, in line with policies of some other nations that assess different national park fees for domestic versus international visitors. On July 3, 2025, President...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13098/IF13098.8.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3025-4.html",
         "source": "RAND Corporation",
         "title": "Emergency Management Research",
@@ -45,6 +54,24 @@
         "url": "https://www.cfr.org/articles/why-nato-and-the-transatlantic-bond-will-outlast-trump"
     },
     {
+        "id": "https://www.heritage.org/markets-and-finance/commentary/what-the-odd-july-jobs-report-means-the-fed",
+        "source": "Heritage Foundation",
+        "title": "What the Odd July Jobs Report Means for the Fed",
+        "publicationDate": "2026-08-25",
+        "category": "Economy",
+        "summary": "Last month, jobs in the American economy fell by 23,000, yet the unemployment rate improved to 4.1%, giving ammunition to conflicting narratives. The economic pessimists point to falling jobs, and the optimists point to an unemployment rate that matches or beats seven in eight months over the past 50 years. So, are we in a jobs recession, or is everything fine? Paradoxically enough, both the jobs and unemployment...",
+        "url": "https://www.heritage.org/markets-and-finance/commentary/what-the-odd-july-jobs-report-means-the-fed"
+    },
+    {
+        "id": "https://www.heritage.org/life/commentary/assisted-suicide-disguises-murder-compassion",
+        "source": "Heritage Foundation",
+        "title": "Assisted Suicide Disguises Murder As Compassion",
+        "publicationDate": "2026-08-25",
+        "category": "Healthcare",
+        "summary": "Always care, never kill. This philosophy guides many Catholic hospice workers in New York. But as of this month, the integrity of religious hospice care may be compromised by a pernicious practice spreading nationwide: assisted suicide. Religious healthcare providers consider assisted suicide a violation of human dignity. The Catholic Church forbids assisted suicide and other forms of “mercy killing,” and these...",
+        "url": "https://www.heritage.org/life/commentary/assisted-suicide-disguises-murder-compassion"
+    },
+    {
         "id": "https://www.heritage.org/education/commentary/inside-arizonas-battle-school-choice",
         "source": "Heritage Foundation",
         "title": "Inside Arizona’s Battle for School Choice",
@@ -70,6 +97,24 @@
         "category": "Defense",
         "summary": "America Faces the Constraints of Democracy bbert@hudson.org Tue, 08/25/2026 - 10:50 SVG Commentary Aug 24, 2026 Wall Street Journal America Faces the Constraints of Democracy Domestic spending crowded out defense, and the world is more dangerous as a result. Walter Russell Mead Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship Walter Russell Mead Commentary Caption A US sailor directs a...",
         "url": "https://www.hudson.org/national-security-defense/america-faces-constraints-democracy-walter-russell-mead"
+    },
+    {
+        "id": "https://cms.hoover.org/research/future-quantum-technology",
+        "source": "Hoover Institution",
+        "title": "The Future of Quantum Technology",
+        "publicationDate": "2026-08-25",
+        "category": "Technology",
+        "summary": "Quantum technologies show great promise in computing, communications, and sensing, with significant implications for economic competitiveness and national security. Maintaining US leadership will require sustained basic research, a strong quantum workforce, secure supply chains, and strategic public- and private-sector investment.",
+        "url": "https://cms.hoover.org/research/future-quantum-technology"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
+        "source": "NPR Politics",
+        "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "The Trump administration claimed to have found 250,000 noncitizens on the voter rolls in four states. But the agency's communications with states since then indicate that data was preliminary.",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call"
     },
     {
         "id": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
@@ -108,13 +153,22 @@
         "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information"
     },
     {
-        "id": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
-        "source": "NPR Politics",
-        "title": "U.S. set for largest mass visa revocation in history, up to 200,000 foreigners, officials say",
+        "id": "https://www.pbs.org/newshour/nation/watchdog-files-bar-complaint-against-pirro-over-efforts-to-indict-democrats-for-video-urging-troops-to-resist-illegal-orders",
+        "source": "PBS NewsHour Politics",
+        "title": "Watchdog files bar complaint against Pirro over efforts to indict Democrats for video urging troops to resist illegal orders",
         "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States.",
-        "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners"
+        "category": "elissa slotkin",
+        "summary": "The center claims Pirro and her subordinates abused their prosecutorial powers to seek baseless indictments against President Donald Trump's perceived political enemies.",
+        "url": "https://www.pbs.org/newshour/nation/watchdog-files-bar-complaint-against-pirro-over-efforts-to-indict-democrats-for-video-urging-troops-to-resist-illegal-orders"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/former-fema-chief-on-preparing-for-disaster-with-a-changing-climate",
+        "source": "PBS NewsHour Politics",
+        "title": "Former FEMA chief on preparing for disaster with a changing climate",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "Craig Fugate led the Federal Emergency Management Agency (FEMA) through record-breaking disaster years during the Obama administration. In the latest episode of \"Settle In,\" he speaks with Amna Nawaz about how climate change has upended our models for disaster response, criticism that the agency has been politicized and how to prepare for hurricane season.",
+        "url": "https://www.pbs.org/newshour/podcasts/settle-in-with-pbs-news/former-fema-chief-on-preparing-for-disaster-with-a-changing-climate"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/how-trumps-trade-war-with-canada-could-rattle-states-with-key-senate-races",
@@ -144,67 +198,67 @@
         "url": "https://www.pbs.org/newshour/nation/federal-judge-rejects-ghislaine-maxwells-miscarriage-of-justice-claim-and-bid-for-prison-release"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/nothing-changes-yet-with-the-supreme-courts-order-on-mail-voting-but-it-could-open-door-to-chaos",
-        "source": "PBS NewsHour Politics",
-        "title": "Nothing changes yet with the Supreme Court's order on mail voting. But it could open door to 'chaos'",
-        "publicationDate": "2026-08-25",
-        "category": "Donald Trump news",
-        "summary": "Rather than saying that President Donald Trump's order is legal, the high court said Monday it was too early for Democratic-run states to challenge it in June, when they convinced a federal judge in Boston to freeze the order for November's election.",
-        "url": "https://www.pbs.org/newshour/politics/nothing-changes-yet-with-the-supreme-courts-order-on-mail-voting-but-it-could-open-door-to-chaos"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/darline-graham-ralph-norman-go-head-to-head-in-south-carolinas-gop-senate-runoff",
-        "source": "PBS NewsHour Politics",
-        "title": "Darline Graham, Ralph Norman go head-to-head in South Carolina's GOP Senate runoff",
-        "publicationDate": "2026-08-25",
-        "category": "Darline Graham",
-        "summary": "The two-week runoff window since the two Republicans were the top vote-getters in an Aug. 11 primary has been a slugfest.",
-        "url": "https://www.pbs.org/newshour/politics/darline-graham-ralph-norman-go-head-to-head-in-south-carolinas-gop-senate-runoff"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6049508-mike-lindell-minnesota-election-recount-deadline/",
+        "id": "https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit/",
         "source": "The Hill",
-        "title": "Mike Lindell misses deadline for recount payment, seeks restraining order",
+        "title": "CIA Director makes unannounced visit to Russia",
         "publicationDate": "2026-08-25",
-        "category": "Campaign",
-        "summary": "MyPillow founder Mike Lindell (R) announced Monday he will file a temporary restraining order against Minnesota Secretary of State Steve Simon amid his ongoing efforts to fund a private recount of the state’s gubernatorial primaries. His campaign said in a statement that Simon’s office had put Lindell “in an untenable position” by placing restrictions on...",
-        "url": "https://thehill.com/homenews/campaign/6049508-mike-lindell-minnesota-election-recount-deadline/"
+        "category": "Defense",
+        "summary": "CIA Director John Ratcliffe made an unannounced visit to Moscow on Tuesday for meetings with Russian officials, CBS News reported. Flight-trackers spotted a U.S. Air Force Boeing C-17A Globemaster III transport plane flying from Riga, Latvia to Moscow on Tuesday. The CIA and the White House did not immediately respond to The Hill’s request for...",
+        "url": "https://thehill.com/policy/national-security/6049802-cia-director-ratcliffe-moscow-visit/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6049438-dingell-lake-ontario-natalie-harp/",
+        "id": "https://thehill.com/policy/technology/6049563-prosecutor-declines-to-charge-musk-voter-giveaway/",
         "source": "The Hill",
-        "title": "Democrat jabs Trump over Lake Ontario threat: 'Let’s just call it Lake Natalie'",
-        "publicationDate": "2026-08-25",
-        "category": "House",
-        "summary": "Rep. Debbie Dingell (D-Mich.) on Tuesday took a jab at President Trump over his threat to rename Lake Ontario to Lake America amid his trade war with Canada, saying the U.S. should \"just call it Lake Natalie\" after White House executive assistant Natalie Harp. Dingell shared on the social platform X a screenshot of Trump's...",
-        "url": "https://thehill.com/homenews/house/6049438-dingell-lake-ontario-natalie-harp/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6049559-ken-paxton-texas-senate-ai-data-center-plan/",
-        "source": "The Hill",
-        "title": "Paxton unveils data center plan, joining other GOP candidates in calling for restrictions",
+        "title": "Wisconsin district attorney declines to charge Musk over $1M voter giveaway",
         "publicationDate": "2026-08-25",
         "category": "Technology",
-        "summary": "Texas Attorney General Ken Paxton (R) unveiled a plan Monday to place restrictions on data centers if elected to the U.S. Senate, becoming the latest GOP candidate to take a stronger stance against the controversial AI infrastructure. Paxton laid out his four-point plan, vowing to “fiercely advocate” for Gov. Greg Abbott’s (R) state-level data center...",
-        "url": "https://thehill.com/policy/technology/6049559-ken-paxton-texas-senate-ai-data-center-plan/"
+        "summary": "A Wisconsin state prosecutor declined to charge technology billionaire Elon Musk with election bribery for his $1 million check handouts to voters during the state's Supreme Court election last year. In a letter shared with The Hill Tuesday, La Crosse County District Attorney Tim Gruenke (D) said his office decided against pressing charges since, in...",
+        "url": "https://thehill.com/policy/technology/6049563-prosecutor-declines-to-charge-musk-voter-giveaway/"
     },
     {
-        "id": "https://thehill.com/newsletters/1230-report/6049572-supreme-court-throws-election-curveball/",
+        "id": "https://thehill.com/policy/international/6049608-pakistan-iran-peace-progress/",
         "source": "The Hill",
-        "title": "Supreme Court throws election curveball",
+        "title": "Pakistan, Iran made 'significant progress' to end US-Iran war, minister says",
         "publicationDate": "2026-08-25",
-        "category": "12:30 Report",
-        "summary": "Plus:🍁 Canada fires back ‘dollar-for-dollar' {beacon} It’s Tuesday, the last one in the month of August. 🎵 Queue Noah Kahan’s “End of August”🎵 In today's issue: Supreme Court's mail-in voting ruling South Carolina, Oklahoma runoffs USS Lincoln finally heads to port Lake America? Programming note: We’re Joshua Feldstein and Claire Leibowitz, filling in...",
-        "url": "https://thehill.com/newsletters/1230-report/6049572-supreme-court-throws-election-curveball/"
+        "category": "Foreign Policy",
+        "summary": "Pakistan and Iran on Tuesday announced that \"significant progress\" has been made to end the U.S.-Israeli war in Iran, according to Pakistan's interior minister, Reuters reported. Pakistan's Chief of Defence Forces Asim Munir met with Iranian officials in Tehran about measures to prevent the conflict from growing and to reopen the Strait of Hormuz, which...",
+        "url": "https://thehill.com/policy/international/6049608-pakistan-iran-peace-progress/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6049542-carville-criticizes-jeffries-kushner-meeting/",
+        "id": "https://thehill.com/blogs/in-the-know/6049769-dolly-parton-dies/",
         "source": "The Hill",
-        "title": "Carville rips Jeffries for meeting with Kushner: 'We don't want to f‑‑‑ with them'",
+        "title": "Dolly Parton dies at 80",
         "publicationDate": "2026-08-25",
-        "category": "Administration",
-        "summary": "Democratic strategist James Carville went after House Minority Leader Hakeem Jeffries (D-N.Y.) over his recent meeting with President Trump’s son-in-law Jared Kushner. “One thing that I know and you know, these are a pack of crooks, and they're a pack of people that don't give a s‑‑‑ about the United States of America, and we...",
-        "url": "https://thehill.com/homenews/administration/6049542-carville-criticizes-jeffries-kushner-meeting/"
+        "category": "In The Know",
+        "summary": "Dolly Parton — a country music songwriting legend and philanthropist who captured and united fans across the generational and political spectrum — has died. The \"9 to 5\" star \"died peacefully\" at 80 on Tuesday in Nashville, Tenn., her publicity team announced. \"A rhinestone life that shone bright enough for the world to see, Dolly...",
+        "url": "https://thehill.com/blogs/in-the-know/6049769-dolly-parton-dies/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6049653-florida-religious-vaccination-exemptions/",
+        "source": "The Hill",
+        "title": "Florida moves to end certain school vaccination requirements",
+        "publicationDate": "2026-08-25",
+        "category": "Healthcare",
+        "summary": "The state of Florida wants to roll back a requirement that public and private school children receive four vaccines before enrolling. A proposed rule from the state's Department of Health (DOH) would allow students to attend school and enroll in daycare without first receiving hepatitis B, varicella (chicken pox), Haemophilus influenza type b (Hib) and...",
+        "url": "https://thehill.com/policy/healthcare/6049653-florida-religious-vaccination-exemptions/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-runoff-trump-test.html",
+        "source": "New York Times Politics",
+        "title": "South Carolina Election Becomes Test for Trump",
+        "publicationDate": "2026-08-25",
+        "category": "Voting and Voters",
+        "summary": "Runoffs in the state are typically sleepy, but the Republican Senate contest between Darline Graham and Ralph Norman seemed to be drawing relatively high turnout.",
+        "url": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-runoff-trump-test.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/25/us/politics/cia-director-russia.html",
+        "source": "New York Times Politics",
+        "title": "C.I.A. Director Makes Secret Visit to Moscow",
+        "publicationDate": "2026-08-25",
+        "category": "Defense",
+        "summary": "John Ratcliffe flew to Moscow in a military cargo plane from Riga, Latvia. It is not clear whom he met or what the purpose of his trip was.",
+        "url": "https://www.nytimes.com/2026/08/25/us/politics/cia-director-russia.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/25/us/politics/supreme-court-trump-emergency-shadow-docket.html",
@@ -234,22 +288,13 @@
         "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-lake-ontario-america-canada-trade.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/25/us/politics/republicans-trump-beef-imports.html",
-        "source": "New York Times Politics",
-        "title": "G.O.P. Lawmakers Rebuke Trump on Plan to Increase Beef Imports",
+        "id": "https://www.washingtonpost.com/politics/2026/08/25/elon-musk-will-not-be-charged-over-allegedly-bribing-wisconsin-voters-2025/",
+        "source": "Washington Post Politics",
+        "title": "Wisconsin prosecutor declines to charge Musk in election bribery investigation",
         "publicationDate": "2026-08-25",
-        "category": "United States Politics and Government",
-        "summary": "Republicans who have mostly refrained from criticizing the president’s actions have been vocal in opposition to the move, which they say will harm their constituents",
-        "url": "https://www.nytimes.com/2026/08/25/us/politics/republicans-trump-beef-imports.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html",
-        "source": "New York Times Politics",
-        "title": "Trump Wants to Restrict Mail-In Voting. See Which States Rely on It The Most.",
-        "publicationDate": "2026-08-25",
-        "category": "Trump",
-        "summary": "Nearly 30 percent of voters nationwide use mail ballots. President Trump is seeking greater federal control of mail voting.",
-        "url": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html"
+        "category": "Other",
+        "summary": "The tech titan last year had offered voters a chance at a $1 million prize.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/25/elon-musk-will-not-be-charged-over-allegedly-bribing-wisconsin-voters-2025/"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/08/25/cia-director-moscow-rare-unannounced-trip/",
@@ -288,13 +333,13 @@
         "url": "https://www.washingtonpost.com/style/2026/08/25/heres-what-sean-duffys-reality-show-actually-teaches-us-about-america/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/08/25/trump-tariffs-canada-risks-political-fallout-republicans/",
-        "source": "Washington Post Politics",
-        "title": "As U.S.-Canada tensions escalate, Republicans could face political consequences",
+        "id": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "publicationDate": "2026-08-25",
-        "category": "Economy",
-        "summary": "The threat of higher prices for gas, cars, hockey sticks and more gave fresh life to Democratic arguments that the president is destabilizing the economy.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/25/trump-tariffs-canada-risks-political-fallout-republicans/"
+        "category": "Other",
+        "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
@@ -333,13 +378,31 @@
         "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Two unvaccinated people die of measles in Pennsylvania",
+        "id": "https://www.ft.com/content/b3e4d264-55f0-485e-8e1a-0ba0cbe006b6?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Iran and Oman edge towards deal on Strait of Hormuz",
         "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-        "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "Interim proposal on managing shipping is first hint of diplomatic progress to reopen the strategic waterway in weeks",
+        "url": "https://www.ft.com/content/b3e4d264-55f0-485e-8e1a-0ba0cbe006b6?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "AI to fuel global growth as investment spreads beyond US, IMF says",
+        "publicationDate": "2026-08-25",
+        "category": "Economy",
+        "summary": "Managing director Kristalina Georgieva expects world economy to weather energy crisis ignited by Iran war",
+        "url": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/8f1a392a-b43c-4124-916e-61695fffa0da?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "European LNG prices surge to highest level since 2023",
+        "publicationDate": "2026-08-25",
+        "category": "Foreign Policy",
+        "summary": "Continent’s gas inventories were already low before Iran war disrupted shipments",
+        "url": "https://www.ft.com/content/8f1a392a-b43c-4124-916e-61695fffa0da?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/940ed0e8-f746-418c-b6f6-98f62d010007?syn-25a6b1a6=1",
@@ -358,51 +421,6 @@
         "category": "Other",
         "summary": "Hundreds of US goods will face increased levies from September 8",
         "url": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3bce2d44-0067-455a-9b8d-d5e1a27fbf0a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "America’s economic war on Iran has a China problem",
-        "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "The US cannot fully isolate Tehran unless other trade partners co-operate",
-        "url": "https://www.ft.com/content/3bce2d44-0067-455a-9b8d-d5e1a27fbf0a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b3e4d264-55f0-485e-8e1a-0ba0cbe006b6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Iran and Oman edge towards deal on Strait of Hormuz",
-        "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "Interim proposal on managing shipping is first hint of diplomatic progress to reopen the waterway in weeks",
-        "url": "https://www.ft.com/content/b3e4d264-55f0-485e-8e1a-0ba0cbe006b6?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1e50ca97-b54d-4686-aee6-4edecc8ce1f7",
-        "source": "Financial Times World",
-        "title": "Will Iceland join the EU?",
-        "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "A consultative vote next week could rekindle membership talks and pave the way for a new axis of expansion",
-        "url": "https://www.ft.com/content/1e50ca97-b54d-4686-aee6-4edecc8ce1f7"
-    },
-    {
-        "id": "R49312",
-        "source": "Congressional Research Service",
-        "title": "Economic Development Administration: Recent Appropriations and Historical Funding",
-        "publicationDate": "2026-08-24",
-        "category": "Economy",
-        "summary": "The Economic Development Administration (EDA), a bureau of the U.S. Department of Commerce (DOC), is the only federal agency with economic development as its sole mission. The agency was established pursuant to the enactment of the Public Works and Economic Development Act (PWEDA) of 1965 (42 U.S.C. §§3121 et seq.), as amended, to assist state and local stakeholders with developing the conditions and amenities to...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49312/R49312.1.pdf"
-    },
-    {
-        "id": "R49311",
-        "source": "Congressional Research Service",
-        "title": "Economic Development Administration: An Overview of Roles, Structure, and Goals",
-        "publicationDate": "2026-08-24",
-        "category": "Technology",
-        "summary": "The U.S. Economic Development Administration (EDA), a bureau of the U.S. Department of Commerce (DOC), was established pursuant to the enactment of the Public Works and Economic Development Act (PWEDA) of 1965 (42 U.S.C. §§3121 et seq.) to assist state and local stakeholders with developing the conditions and amenities to grow businesses, create jobs, and expand investment in economically distressed areas. Other...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49311/R49311.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4496-2.html",
@@ -486,6 +504,15 @@
         "url": "https://www.hudson.org/human-rights/how-faith-courage-stand-against-red-dragon-olivia-enos"
     },
     {
+        "id": "https://cms.hoover.org/press/hoover-institution-launches-california-decides",
+        "source": "Hoover Institution",
+        "title": "Hoover Institution Launches California Decides",
+        "publicationDate": "2026-08-24",
+        "category": "Other",
+        "summary": "New civic education initiative helps Californians understand their government, the Golden State’s biggest policy challenges, and the choices on the 2026 ballot.",
+        "url": "https://cms.hoover.org/press/hoover-institution-launches-california-decides"
+    },
+    {
         "id": "https://cms.hoover.org/research/august-occasions",
         "source": "Hoover Institution",
         "title": "August Occasions",
@@ -513,24 +540,6 @@
         "url": "https://cms.hoover.org/profiles/orlando-leon"
     },
     {
-        "id": "https://cms.hoover.org/research/can-palantir-and-ai-transform-uk-better",
-        "source": "Hoover Institution",
-        "title": "Can Palantir And AI Transform The UK For The Better?",
-        "publicationDate": "2026-08-24",
-        "category": "Healthcare",
-        "summary": "Palantir UK chief Louis Mosley joins Secrets of Statecraft to discuss how the company’s technology is transforming warfare, healthcare, and policing.",
-        "url": "https://cms.hoover.org/research/can-palantir-and-ai-transform-uk-better"
-    },
-    {
-        "id": "https://cms.hoover.org/research/subjection-feminists",
-        "source": "Hoover Institution",
-        "title": "The Subjection Of Feminists",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "Perhaps the most tragic and consequential failure of Y2KMind happened with feminists in Women’s Studies when, in the spring of 2014, Hoover Institution fellow Ayaan Hirsi Ali would get an honorary degree that year in Feminist/Women’s Studies and rapidly, professors in various theoretically sophisticated disciplines, with Women’s Studies in the fore, objected vehemently to this honor being awarded to an “Islamophobe.”",
-        "url": "https://cms.hoover.org/research/subjection-feminists"
-    },
-    {
         "id": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis",
         "source": "Centre for European Reform",
         "title": "RTÉ Radio 1: EU meet on Ceuta migrant crisis",
@@ -547,24 +556,6 @@
         "category": "Defense",
         "summary": "In 2023, Jason Arday was celebrated as the youngest black professor ever hired by England’s Cambridge University. Three years later, he stood accused of plagiarism, shoddy scholarship, incomprehensible writing, and poor teaching. Sadly, between the time this article was written and its publication, Arday died, apparently at his own hand. No one wished this end. Arday’s life story was a mix of Pinocchio and Forest...",
         "url": "https://www.heritage.org/education/commentary/jason-ardays-life-was-the-tragic-cost-academic-tokenism"
-    },
-    {
-        "id": "https://www.heritage.org/health-care-reform/commentary/making-americans-healthier-again",
-        "source": "Heritage Foundation",
-        "title": "Making Americans Healthier Again",
-        "publicationDate": "2026-08-21",
-        "category": "Economy",
-        "summary": "A little over a year ago, General Mills, maker of Trix and Lucky Charms, promised to pull synthetic dyes from all its U.S. cereals and school foods by the summer of 2026, and from its whole retail line by the end of 2027. Kraft Heinz made the same pledge days earlier, while Nestlé USA, Conagra, and Tyson followed with similar commitments . Nobody forced them. They read the room. The room had changed because of one...",
-        "url": "https://www.heritage.org/health-care-reform/commentary/making-americans-healthier-again"
-    },
-    {
-        "id": "https://www.heritage.org/trade/commentary/tariff-the-chinese-cargo-ship-not-the-american-consignment-shop",
-        "source": "Heritage Foundation",
-        "title": "Tariff the Chinese Cargo Ship, Not the American Consignment Shop",
-        "publicationDate": "2026-08-21",
-        "category": "Economy",
-        "summary": "Affordability is top of mind for millions of Americans today, so it’s good to see the Trump administration adapting its tariff strategy to minimize the impact on household budgets. This refinement is crucial to protecting families’ finances while better utilizing tariffs as tools to punish bad actors like China that engage in all sorts of unfair trade practices. Recently, the administration imposed a 25 percent...",
-        "url": "https://www.heritage.org/trade/commentary/tariff-the-chinese-cargo-ship-not-the-american-consignment-shop"
     },
     {
         "id": "https://ecfr.eu/podcasts/episode/germanys-second-china-shock/",
@@ -585,15 +576,6 @@
         "url": "https://ecfr.eu/publication/in-the-bears-paw-how-europeans-can-loosen-russias-grip-on-belarus/"
     },
     {
-        "id": "R49310",
-        "source": "Congressional Research Service",
-        "title": "Economic Development Administration: An Overview of Programs",
-        "publicationDate": "2026-08-19",
-        "category": "Defense",
-        "summary": "The Economic Development Administration (EDA), a bureau of the U.S. Department of Commerce (DOC), is the only federal agency with economic development as its sole mission. The agency was established pursuant to the enactment of the Public Works and Economic Development Act (PWEDA) of 1965 (42 U.S.C. §§3121 et seq.) to assist state and local stakeholders with developing the conditions and amenities to grow...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49310/R49310.1.pdf"
-    },
-    {
         "id": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/",
         "source": "European Council on Foreign Relations",
         "title": "Cold comfort: What China can teach Europe about adaptation",
@@ -601,24 +583,6 @@
         "category": "Foreign Policy",
         "summary": "Europe is learning to adapt to a hotter climate. It should take the same approach to economic dependencies: manage the consequences, but also change the conditions that created them",
         "url": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/"
-    },
-    {
-        "id": "LSB11471",
-        "source": "Congressional Research Service",
-        "title": "The Reporter’s Privilege and Government Employee Confidential Sources",
-        "publicationDate": "2026-08-17",
-        "category": "Defense",
-        "summary": "In the course of gathering news, journalists frequently rely on confidential sources. Prosecutors or parties in civil litigation may seek to compel reporters to reveal these confidential sources through subpoenas for testimony or documents. Reporters have at times argued that such requests violate their First Amendment rights by burdening the news gathering and reporting process. The Supreme Court has addressed...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11471/LSB11471.1.pdf"
-    },
-    {
-        "id": "R49266",
-        "source": "Congressional Research Service",
-        "title": "Prediction Markets Legislation in the 119th Congress",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Prediction markets are exchange platforms that specialize in offering event contracts. Event contracts allow parties to trade on the occurrence or nonoccurrence of specific events. Prediction markets operate on a quote-based system, where the underlying price for an event contract is determined by participants’ continuous buying and selling reaching an equilibrium. Prediction markets have grown rapidly in recent...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49266/R49266.2.pdf"
     },
     {
         "id": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/",
@@ -666,6 +630,15 @@
         "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
     },
     {
+        "id": "IF11123",
+        "source": "Congressional Research Service",
+        "title": "U.S.-UK Trade Relations: Background and Selected Issues",
+        "publicationDate": "2026-07-24",
+        "category": "Defense",
+        "summary": "The United States and the United Kingdom (UK) are close trade and investment partners. In May 2025, President Trump and then-UK Prime Minister Keir Starmer announced the General Terms of the U.S.-UK Economic Prosperity Deal (EPD) to address certain trade issues, including tariff actions taken by the Trump Administration since January 2025. The 119th Congress may consider whether to modify tariff authorities...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11123/IF11123.22.pdf"
+    },
+    {
         "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
         "source": "Centre for European Reform",
         "title": "National Security Strategy (Joint Committee): Deterrence in an age of Russian aggression",
@@ -673,5 +646,32 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
+    },
+    {
+        "id": "TE10082",
+        "source": "Congressional Research Service",
+        "title": "Legal and Procedural Factors Related to Seating a Cherokee Nation Delegate in the U.S. House of Representatives",
+        "publicationDate": "2022-11-16",
+        "category": "Other",
+        "summary": "The issue of seating a Cherokee Delegate in the House rose to prominence on August 22, 2019, when Cherokee Nation Principal Chief Chuck Hoskin, Jr. announced his tribe’s intention to nominate a delegate to represent the Cherokee Nation. This announcement invoked a provision of the 1835 treaty between the Eastern Cherokee Tribe of Georgia (“Cherokee Tribe” or “Cherokee”) and the U.S. government (New Echota Treaty)....",
+        "url": "https://www.congress.gov/crs_external_products/TE/PDF/TE10082/TE10082.4.pdf"
+    },
+    {
+        "id": "TE10077",
+        "source": "Congressional Research Service",
+        "title": "Better, Together: Examining the Unified Proposed Rule to Modernize the Community Reinvestment Act",
+        "publicationDate": "2022-07-13",
+        "category": "Economy",
+        "summary": "Congress passed the Community Reinvestment Act of 1977 (CRA; P.L. 95-128, 12 U.S.C. §§2901-2908) in response to concerns that federally insured banking institutions were not making sufficient credit available in the local areas in which they were chartered and acquiring deposits. According to some in Congress at that time, a bank charter should entail a continuing obligation for a bank to serve the credit needs of...",
+        "url": "https://www.congress.gov/crs_external_products/TE/PDF/TE10077/TE10077.2.pdf"
+    },
+    {
+        "id": "TE10078",
+        "source": "Congressional Research Service",
+        "title": "The Modernizing Veterans’ Health Care Eligibility Act (H.R. 1216), and other Pending Legislation",
+        "publicationDate": "2022-06-22",
+        "category": "Healthcare",
+        "summary": "Beginning with the early colonial settlements of America, the nation has provided benefits in varying degrees to those who have worn the uniform and suffered physical disabilities in service to the nation—sacrifices that are inherent to the profession of arms. In 1718, for instance, the colony of Rhode Island enacted legislation that provided benefits not only to every officer, soldier, or sailor who served in the...",
+        "url": "https://www.congress.gov/crs_external_products/TE/PDF/TE10078/TE10078.2.pdf"
     }
 ]
