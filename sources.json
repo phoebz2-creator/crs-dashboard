@@ -1,5 +1,41 @@
 [
     {
+        "id": "https://www.nytimes.com/2026/08/24/us/politics/h1b-visas-fees-proposal-trump.html",
+        "source": "New York Times Politics",
+        "title": "Trump Officials Propose Charging More Than $100,000 for Skilled Worker Visas",
+        "publicationDate": "2026-08-25",
+        "category": "United States Politics and Government",
+        "summary": "The proposal comes after the Trump administration ran into legal challenges in its attempt to attach a similar fee to the H-1B visa last year.",
+        "url": "https://www.nytimes.com/2026/08/24/us/politics/h1b-visas-fees-proposal-trump.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
+        "publicationDate": "2026-08-25",
+        "category": "Defense",
+        "summary": "The U.S. has spent 20 years promising ‘crippling sanctions’ on Iran. But the latest effort comes with a reverse twist, after military action failed to accomplish President Trump’s goals.",
+        "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US removes Syria from list of state sponsors of terrorism",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+        "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Moment tornado tears through southern France",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+        "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "R49309",
         "source": "Congressional Research Service",
         "title": "Broadcast TV Networks and Affiliates: FCC Oversight and Marketplace Dynamics",
@@ -135,6 +171,15 @@
         "url": "https://cms.hoover.org/research/august-occasions"
     },
     {
+        "id": "https://cms.hoover.org/news/rare-russo-dutch-red-cross-field-hospital-photo-album-comes-hoover",
+        "source": "Hoover Institution",
+        "title": "Rare Russo-Dutch Red Cross Field Hospital Photo Album Comes to Hoover",
+        "publicationDate": "2026-08-24",
+        "category": "Healthcare",
+        "summary": "New archival album reveals the untold story of a Russo-Dutch Red Cross field hospital on the brutal front lines of the Russo-Japanese War.",
+        "url": "https://cms.hoover.org/news/rare-russo-dutch-red-cross-field-hospital-photo-album-comes-hoover"
+    },
+    {
         "id": "https://cms.hoover.org/profiles/orlando-leon",
         "source": "Hoover Institution",
         "title": "Orlando Leon",
@@ -151,6 +196,15 @@
         "category": "Healthcare",
         "summary": "Palantir UK chief Louis Mosley joins Secrets of Statecraft to discuss how the company’s technology is transforming warfare, healthcare, and policing.",
         "url": "https://cms.hoover.org/research/can-palantir-and-ai-transform-uk-better"
+    },
+    {
+        "id": "https://cms.hoover.org/research/subjection-feminists",
+        "source": "Hoover Institution",
+        "title": "The Subjection Of Feminists",
+        "publicationDate": "2026-08-24",
+        "category": "Other",
+        "summary": "Perhaps the most tragic and consequential failure of Y2KMind happened with feminists in Women’s Studies when, in the spring of 2014, Hoover Institution fellow Ayaan Hirsi Ali would get an honorary degree that year in Feminist/Women’s Studies and rapidly, professors in various theoretically sophisticated disciplines, with Women’s Studies in the fore, objected vehemently to this honor being awarded to an “Islamophobe.”",
+        "url": "https://cms.hoover.org/research/subjection-feminists"
     },
     {
         "id": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis",
@@ -243,6 +297,15 @@
         "url": "https://www.pbs.org/newshour/politics/newsom-returns-to-a-defining-california-fight-who-pays-for-wildfire-damage"
     },
     {
+        "id": "https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns/",
+        "source": "The Hill",
+        "title": "Back-to-school season fuels growing measles concerns",
+        "publicationDate": "2026-08-24",
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Back-to-school season fuels growing measles concerns With back-to-school season underway, students are returning to class amid the worst year of measles in recent U.S. history, record-high vaccine exemptions reported among kindergarteners and continuously changing immunization guidance under the Trump administration. ...",
+        "url": "https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns/"
+    },
+    {
         "id": "https://thehill.com/regulation/court-battles/6048109-justice-jackson-election-chaos-dissent/",
         "source": "The Hill",
         "title": "Jackson calls Supreme Court’s mail-in voting ruling a ‘Kafkaesque nightmare’",
@@ -254,10 +317,10 @@
     {
         "id": "https://thehill.com/homenews/administration/6048047-mass-b1-b2-visa-revocations/",
         "source": "The Hill",
-        "title": "Trump administration preparing to revoke visas of up to 200,000 foreigners in largest mass visa revocation ever",
+        "title": "Trump administration preparing to revoke visas of up to 200K foreigners in largest mass visa revocation ever",
         "publicationDate": "2026-08-24",
         "category": "Foreign Policy",
-        "summary": "The Trump administration is preparing to revoke business and tourism visas from up to 200,000 foreigners who have applied for or are currently seeking asylum in the U.S. on a rolling basis, in what would be the largest mass visa revocation ever, the Associated Press reported Monday. The State Department is expected to announce the...",
+        "summary": "The Trump administration is preparing to revoke business and tourism visas from up to 200,000 migrants who have applied for or are currently seeking asylum in the U.S. on a rolling basis — a move that would trigger the largest mass visa revocation ever, The Associated Press reported Monday. The State Department is expected to...",
         "url": "https://thehill.com/homenews/administration/6048047-mass-b1-b2-visa-revocations/"
     },
     {
@@ -277,24 +340,6 @@
         "category": "Campaign",
         "summary": "Rep. Byron Donalds (R-Fla.) on Monday said President Trump’s son-in-law Jared Kushner met with House Minority Leader Hakeem Jeffries (D-N.Y.) in recent weeks to create an opportunity for future discussions. “I think knowing Jared Kushner, I think he's used to keeping lines of communication open. These are some of the things that he does repeatedly,...",
         "url": "https://thehill.com/homenews/campaign/6048024-kushner-jeffries-meeting-opens-communication/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6048002-maga-inc-spending-darline-graham-south-carolina/",
-        "source": "The Hill",
-        "title": "Trump's super PAC drops more than $800K on Graham in South Carolina",
-        "publicationDate": "2026-08-24",
-        "category": "Campaign",
-        "summary": "President Trump’s super PAC MAGA Inc. spent more than $827,000 to support Sen. Darline Graham (R-S.C.) ahead of the state’s Republican Senate primary runoff on Tuesday, marking the group’s most significant spending in months. The filing with the Federal Election Commission, which was made public on Monday, marks the group’s first independent expenditure since March...",
-        "url": "https://thehill.com/homenews/campaign/6048002-maga-inc-spending-darline-graham-south-carolina/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
-        "source": "New York Times Politics",
-        "title": "An ‘Economic D-Day’ That Must Overcome a Troubled History",
-        "publicationDate": "2026-08-24",
-        "category": "Defense",
-        "summary": "The U.S. has spent 20 years promising ‘crippling sanctions’ on Iran. But the latest effort comes with a reverse twist, after military action failed to accomplish President Trump’s goals.",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
@@ -322,15 +367,6 @@
         "category": "Politics and Government",
         "summary": "The president has made a big bet on a senator’s sister.",
         "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-darline-graham-south-carolina-runoff.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
-        "source": "New York Times Politics",
-        "title": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
-        "publicationDate": "2026-08-24",
-        "category": "United States Politics and Government",
-        "summary": "The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/24/log-cabin-republicans-remove-reference-trans-people-website/",
@@ -396,24 +432,6 @@
         "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-        "publicationDate": "2026-08-24",
-        "category": "Foreign Policy",
-        "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-        "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-        "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "King of Norway's health has worsened, palace says",
@@ -428,53 +446,44 @@
         "title": "Trump says US to increase tariffs on Canadian cars to 50%",
         "publicationDate": "2026-08-24",
         "category": "Other",
-        "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
+        "summary": "Ottawa officials set to announce response to new American levies on Tuesday",
         "url": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/0ed63607-bf79-41d5-8052-f78eeae99d61?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/4e3c99fe-1a8d-4fb2-b99a-da1c1da4db8e?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "First Brands forced into liquidation by bankruptcy court",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "Federal judge in Texas said litigation trust plan floated by company and senior lenders ‘was unconfirmable under any circumstances’",
-        "url": "https://www.ft.com/content/0ed63607-bf79-41d5-8052-f78eeae99d61?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/ab1a870c-4b98-46c0-a2ad-5d149defeb0f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham compromises on council homes plan",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "Prime minister opts not to rip up programme drawn up under Sir Keir Starmer that mostly relies on housing associations",
-        "url": "https://www.ft.com/content/ab1a870c-4b98-46c0-a2ad-5d149defeb0f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Scott Bessent threatens Iran’s economic partners with more sanctions",
+        "title": "Burnham condemns Russia’s ‘outrageous threats’ to UK during Kyiv visit",
         "publicationDate": "2026-08-24",
         "category": "Foreign Policy",
-        "summary": "US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action",
-        "url": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1"
+        "summary": "Prime minister pledges to back Ukraine on long-range missiles",
+        "url": "https://www.ft.com/content/4e3c99fe-1a8d-4fb2-b99a-da1c1da4db8e?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/b0b233bd-882b-43a9-b55f-e2cf33ec09b7?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Burnham rules out early election as he admits UK faces ‘challenging’ financial outlook",
+        "title": "SEC subpoenas Wall Street banks over Situational Awareness",
         "publicationDate": "2026-08-24",
-        "category": "Economy",
-        "summary": "Prime minister stops short of ruling out tax increases in October’s Budget, saying his policies will be ‘funded’",
-        "url": "https://www.ft.com/content/b0b233bd-882b-43a9-b55f-e2cf33ec09b7?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Leopold Aschenbrenner’s AI-focused hedge fund nearly collapsed in July before striking a deal with Citadel",
+        "url": "https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1"
     },
     {
-        "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-31",
-        "source": "Hoover Institution",
-        "title": "2026 Issue 31",
-        "publicationDate": "2026-08-23",
+        "id": "https://www.ft.com/content/b89d51c9-2206-4213-b0d3-8a826262c9d8?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US Supreme Court allows Trump restrictions on mail-in ballots",
+        "publicationDate": "2026-08-24",
         "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-31"
+        "summary": "Justices lift decision to block president’s order to restrict eligibility to a new federal list of voters",
+        "url": "https://www.ft.com/content/b89d51c9-2206-4213-b0d3-8a826262c9d8?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: Shein targets $27bn valuation in Hong Kong IPO",
+        "publicationDate": "2026-08-24",
+        "category": "Other",
+        "summary": "Also in this newsletter: US-Canada trade war erupts and Singapore’s effort to boost birth rates",
+        "url": "https://www.ft.com/content/5162b0a3-e7b1-460d-95a0-9a8e27eddb5a?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
@@ -520,15 +529,6 @@
         "category": "Economy",
         "summary": "Bulgaria’s Prime Minister Radev Remains a Complicated Ally bbert@hudson.org Fri, 08/21/2026 - 10:50 SVG Commentary Aug 21, 2026 RealClearWorld Bulgaria’s Prime Minister Radev Remains a Complicated Ally Matthew Boyse Senior Fellow, Center on Europe and Eurasia Matthew Boyse Commentary Caption Bulgaria's Prime Minister Rumen Radev attends the annual NATO summit in Ankara, Turkey, on July 8, 2026. (Getty Images)...",
         "url": "https://www.hudson.org/foreign-policy/bulgarias-prime-minister-radev-remains-complicated-ally-matthew-boyse"
-    },
-    {
-        "id": "https://cms.hoover.org/research/tiananmen-square-massacre-le-monde-reveals-unseen-footage-chinese-regimes-violent",
-        "source": "Hoover Institution",
-        "title": "Tiananmen Square Massacre: Le Monde Reveals unseen footage of the Chinese regime’s violent repression",
-        "publicationDate": "2026-08-21",
-        "category": "Other",
-        "summary": "Art historian Nathalie Trouveroy shared footage with Le Monde from her personal archives of the Tiananmen Square protests, shedding new light on how the Chinese regime violently repressed the student protests in June 1989.",
-        "url": "https://cms.hoover.org/research/tiananmen-square-massacre-le-monde-reveals-unseen-footage-chinese-regimes-violent"
     },
     {
         "id": "https://ecfr.eu/podcasts/episode/germanys-second-china-shock/",
