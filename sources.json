@@ -18,15 +18,6 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R46746/R46746.5.pdf"
     },
     {
-        "id": "IF13098",
-        "source": "Congressional Research Service",
-        "title": "National Park Service: Fee Increases for International Visitors",
-        "publicationDate": "2026-08-25",
-        "category": "Economy",
-        "summary": "Congress has debated various measures to generate additional funds for the National Park System in light of a large backlog of deferred maintenance on system lands. One option under discussion has been to raise park entrance fees for international visitors, in line with policies of some other nations that assess different national park fees for domestic versus international visitors. On July 3, 2025, President...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13098/IF13098.8.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3025-4.html",
         "source": "RAND Corporation",
         "title": "Emergency Management Research",
@@ -189,6 +180,15 @@
         "url": "https://cms.hoover.org/research/future-quantum-technology"
     },
     {
+        "id": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
+        "source": "NPR Politics",
+        "title": "South Carolina U.S. senate runoff election will test Trump's endorsement",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "The primary runoff in South Carolina between Sen. Darline Graham and Rep. Ralph Norman is another test of President Trump's influence. He's backing Darline, sister of the late Sen. Lindsey Graham.",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement"
+    },
+    {
         "id": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
         "source": "NPR Politics",
         "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
@@ -225,13 +225,13 @@
         "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
     },
     {
-        "id": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
-        "source": "NPR Politics",
-        "title": "U.K. will help Ukraine make long-range missiles by sharing classified tech information",
+        "id": "https://www.pbs.org/newshour/politics/watch-rollins-defends-trumps-trade-war-with-canada-while-acknowledging-concern-from-farmers",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Rollins defends Trump's trade war with Canada while acknowledging 'concern' from farmers",
         "publicationDate": "2026-08-25",
-        "category": "Defense",
-        "summary": "Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
-        "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information"
+        "category": "brooke rollins",
+        "summary": "Agriculture Secretary Brooke Rollins acknowledged American farmers' concerns over the escalating trade war with Canada Tuesday but insisted the United States will come out on top.",
+        "url": "https://www.pbs.org/newshour/politics/watch-rollins-defends-trumps-trade-war-with-canada-while-acknowledging-concern-from-farmers"
     },
     {
         "id": "https://www.pbs.org/newshour/nation/watchdog-files-bar-complaint-against-pirro-over-efforts-to-indict-democrats-for-video-urging-troops-to-resist-illegal-orders",
@@ -270,58 +270,67 @@
         "url": "https://www.pbs.org/newshour/world/watch-live-canada-announces-retaliatory-tariffs-against-the-u-s"
     },
     {
-        "id": "https://www.pbs.org/newshour/nation/federal-judge-rejects-ghislaine-maxwells-miscarriage-of-justice-claim-and-bid-for-prison-release",
-        "source": "PBS NewsHour Politics",
-        "title": "Federal judge rejects Ghislaine Maxwell's 'miscarriage of justice' claim and bid for prison release",
+        "id": "https://thehill.com/newsletters/technology/6050614-paramounts-warner-bros-bid-barrels-toward-antitrust-trial/",
+        "source": "The Hill",
+        "title": "Paramount’s bid to acquire Warner Bros. draws controversy",
         "publicationDate": "2026-08-25",
-        "category": "epstein files",
-        "summary": "Claims by Jeffrey Epstein's former girlfriend and longtime associate Ghislaine Maxwell that her sex trafficking conviction was a \"complete miscarriage of justice\" were rejected Tuesday by a federal judge who said her assertions were based on \"speculation, distortions, and/or outright falsehoods.\"",
-        "url": "https://www.pbs.org/newshour/nation/federal-judge-rejects-ghislaine-maxwells-miscarriage-of-justice-claim-and-bid-for-prison-release"
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story Paramount's Warner Bros. bid barrels toward antitrust trial Paramount’s bid to acquire fellow entertainment giant Warner Brothers Discovery (WBD) has been mired in controversy and drew a lawsuit from critics who argue the deal is bad for the movie-making and media business. Jae C. Hong, Associated Press As...",
+        "url": "https://thehill.com/newsletters/technology/6050614-paramounts-warner-bros-bid-barrels-toward-antitrust-trial/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6030475-live-results-south-carolina-live-results/",
+        "id": "https://thehill.com/policy/energy-environment/6050600-dhs-fema-florida-milton-trump-signs/",
         "source": "The Hill",
-        "title": "Live results: Graham, Norman square off for GOP nod in South Carolina Senate runoff",
+        "title": "Internal watchdog finds FEMA crew violated Hatch Act by skipping homes with Trump signs",
+        "publicationDate": "2026-08-25",
+        "category": "Energy & Environment",
+        "summary": "A Federal Emergency Management Agency (FEMA) crew broke the law when it skipped houses with Trump signs during Hurricane Milton recovery efforts in 2024, according to an internal government watchdog. A new report from the Department of Homeland Security’s Inspector General’s (IG) office determined that the crew violated the Hatch Act and FEMA policy when it skipped...",
+        "url": "https://thehill.com/policy/energy-environment/6050600-dhs-fema-florida-milton-trump-signs/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6050412-pa-attorney-general-snapchat-lawsuit/",
+        "source": "The Hill",
+        "title": "Pennsylvania attorney general accuses Snapchat of failing to protect children in new lawsuit",
+        "publicationDate": "2026-08-25",
+        "category": "Healthcare",
+        "summary": "Pennsylvania Attorney General Dave Sunday (R) announced a lawsuit Tuesday, accusing Snap, the parent company of Snapchat, of failing to protect children from compulsively using its platform. The complaint, filed this week, alleges Snapchat knowingly lies about the frequency of adult-themed material like drug use or sexual content to maintain a 13+ app rating in...",
+        "url": "https://thehill.com/policy/technology/6050412-pa-attorney-general-snapchat-lawsuit/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6050484-el-sayed-distances-piker-comments/",
+        "source": "The Hill",
+        "title": "El-Sayed distances from Piker amid high-stakes Senate race",
         "publicationDate": "2026-08-25",
         "category": "Campaign",
-        "summary": "Sen. Darline Graham is squaring off against Rep. Ralph Norman for the GOP nod in the South Carolina Senate race. The pair advanced to the runoff earlier this month after neither candidate garnered more than half the vote in the crowded primary field. Graham, who notched President Trump's support, led Norman by 8 percentage points...",
-        "url": "https://thehill.com/homenews/campaign/6030475-live-results-south-carolina-live-results/"
+        "summary": "Michigan Democrat Abdul El-Sayed is taking steps to distance his Senate campaign from far-left Twitch streamer Hasan Piker, who’s facing blowback for suggesting that American Jews’ support for Israel could make antisemitism worse. El-Sayed, who faces Republican former Rep. Mike Rogers (Mich.) this fall in a must-win Senate race, had raised the hackles of some fellow Democrats...",
+        "url": "https://thehill.com/homenews/campaign/6050484-el-sayed-distances-piker-comments/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6030474-live-results-oklahoma-gop-governor-primary-runoff/",
+        "id": "https://thehill.com/homenews/6050345-dolly-partons-imagination-library-says-it-will-keep-sending-free-books-to-kids-heres-how-to-sign-up/",
         "source": "The Hill",
-        "title": "Live results: Trump seeks primary win in Oklahoma governor's runoff",
+        "title": "Dolly Parton's Imagination Library says it will keep sending free books to kids. Here's how to sign up",
         "publicationDate": "2026-08-25",
-        "category": "Economy",
-        "summary": "President Trump's pick to succeed term-limited Gov. Kevin Stitt in Oklahoma is duking it out in a Tuesday GOP runoff for the party's nod. Mike Mazzei, a former state senator and state budget secretary, is facing off against state Attorney General Gentner Drummond. Trump has called Drummond a \"fake Republican,\" ripping the candidate for not...",
-        "url": "https://thehill.com/homenews/campaign/6030474-live-results-oklahoma-gop-governor-primary-runoff/"
+        "category": "News",
+        "summary": "The Imagination Library will continue sending books to eligible children in Parton's absence, a spokesperson for the Dollywood Company confirmed.",
+        "url": "https://thehill.com/homenews/6050345-dolly-partons-imagination-library-says-it-will-keep-sending-free-books-to-kids-heres-how-to-sign-up/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6040955-live-results-georgia-house-special-election/",
-        "source": "The Hill",
-        "title": "Live results: Georgia holds special election runoff for David Scott's House seat",
+        "id": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html",
+        "source": "New York Times Politics",
+        "title": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
         "publicationDate": "2026-08-25",
-        "category": "Campaign",
-        "summary": "Voters in Georgia’s 13th Congressional District are at the polls Tuesday for a special election to fill late Rep. David Scott’s (D) seat through the rest of the year. Scott's daughter, Marcye Scott, and Everton Blair, a former Gwinnett County board of education member, advanced from the runoff after no candidate secured more than half...",
-        "url": "https://thehill.com/homenews/campaign/6040955-live-results-georgia-house-special-election/"
+        "category": "United States Politics and Government",
+        "summary": "While the president remains the most dominant figure in the world, other leaders and institutions are pushing back more vigorously than at the beginning of his second term.",
+        "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html"
     },
     {
-        "id": "https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program/",
-        "source": "The Hill",
-        "title": "TSA ditches Gold+ privatized airport security program",
+        "id": "https://www.nytimes.com/2026/08/25/us/politics/log-cabin-republicans-transgender.html",
+        "source": "New York Times Politics",
+        "title": "Conservative Gay Rights Group Ends Support for Trans Causes",
         "publicationDate": "2026-08-25",
-        "category": "Transportation",
-        "summary": "The Transportation Security Administration (TSA) announced Monday it will phase out its new Gold+ private airport screening program, opting instead to optimize its existing Screening Partnership Program (SPP). TSA unveiled the change as part of its Horizon 25 Strategy, named in honor of the agency’s 25th anniversary. The strategy will home in on modernizing TSA...",
-        "url": "https://thehill.com/policy/transportation/6050209-tsa-phases-out-gold-program/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/business-economy/6050352-canada-to-place-retaliatory-tariffs-on-us-goods/",
-        "source": "The Hill",
-        "title": "Canada to place retaliatory tariffs on US goods",
-        "publicationDate": "2026-08-25",
-        "category": "Economy",
-        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Canada strikes back with retaliatory tariffs Canada announced retaliatory tariffs on hundreds of American products as high as 50 percent Tuesday, just days after the collapse of negotiations between the two countries. © Justin Tang/The Canadian...",
-        "url": "https://thehill.com/newsletters/business-economy/6050352-canada-to-place-retaliatory-tariffs-on-us-goods/"
+        "category": "Transgender",
+        "summary": "The Log Cabin Republicans, which is dedicated to gay causes, says that trans rights advocates focus too much on minors.",
+        "url": "https://www.nytimes.com/2026/08/25/us/politics/log-cabin-republicans-transgender.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/25/us/politics/what-to-know-trump-executive-order-mail-voting.html",
@@ -351,27 +360,18 @@
         "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/25/style/angie-nixon-florida-pink.html",
-        "source": "New York Times Politics",
-        "title": "Angie Nixon and the Power of Pink",
+        "id": "https://www.washingtonpost.com/politics/2026/08/25/judge-issues-setback-trump-administration-plans-restrict-mail-in-ballots/",
+        "source": "Washington Post Politics",
+        "title": "Judge issues setback to Trump administration plans to restrict mail-in ballots",
         "publicationDate": "2026-08-25",
-        "category": "United States Politics and Government",
-        "summary": "The electoral playbook has a strategic new shade.",
-        "url": "https://www.nytimes.com/2026/08/25/style/angie-nixon-florida-pink.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-runoff-trump-test.html",
-        "source": "New York Times Politics",
-        "title": "South Carolina Election Becomes Test for Trump",
-        "publicationDate": "2026-08-25",
-        "category": "Voting and Voters",
-        "summary": "Runoffs in the state are typically sleepy, but the Republican Senate contest between Darline Graham and Ralph Norman seemed to be drawing relatively high turnout.",
-        "url": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-runoff-trump-test.html"
+        "category": "Other",
+        "summary": "The ruling is not the final word in a fast-moving legal fight over the administration’s efforts to change voting rules before the midterms.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/25/judge-issues-setback-trump-administration-plans-restrict-mail-in-ballots/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/25/house-gop-faces-complaint-using-floor-coverage-campaign-materials/",
         "source": "Washington Post Politics",
-        "title": "House GOP faces complaint for using floor coverage in campaign materials",
+        "title": "House GOP faces complaint for using floor footage in campaign materials",
         "publicationDate": "2026-08-25",
         "category": "Other",
         "summary": "The action targets Rep. Richard Hudson, chair of House Republicans’ campaign arm. Rules bar lawmakers from using recordings of official proceedings for campaigns.",
@@ -403,15 +403,6 @@
         "category": "Other",
         "summary": "Election experts say confusion, rather than actual changes to law, will be the main hindrance to voter participation in November.",
         "url": "https://www.washingtonpost.com/politics/2026/08/25/trump-is-having-trouble-changing-how-americans-vote/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/08/25/cia-director-moscow-rare-unannounced-trip/",
-        "source": "Washington Post Politics",
-        "title": "CIA director makes rare, unannounced visit to Moscow",
-        "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "The trip came as Ukrainian forces have stepped up attacks deep inside Russia, including in the capital.",
-        "url": "https://www.washingtonpost.com/national-security/2026/08/25/cia-director-moscow-rare-unannounced-trip/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
@@ -459,6 +450,42 @@
         "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/49f9f010-9ac9-4f6b-8b41-e8d959558785?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: China warns US it could retaliate over Iran sanctions",
+        "publicationDate": "2026-08-25",
+        "category": "Foreign Policy",
+        "summary": "Also in this newsletter: Nvidia employee charged in Taiwan with smuggling chips into China and Canada announces $20bn retaliatory tariffs",
+        "url": "https://www.ft.com/content/49f9f010-9ac9-4f6b-8b41-e8d959558785?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/0909f58d-ccfd-4da6-add2-d8b9f420b4c7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Syria’s Kurds dissolve military force and integrate fighters with Damascus",
+        "publicationDate": "2026-08-25",
+        "category": "Defense",
+        "summary": "Merger with Syrian army is a step forward in push to bring country under central government control",
+        "url": "https://www.ft.com/content/0909f58d-ccfd-4da6-add2-d8b9f420b4c7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/857fb8e1-eec6-443e-97e8-f6876302aabc?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump administration pauses immigrant visa applications",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "US state department wants consular officers to screen out people likely to need public benefits",
+        "url": "https://www.ft.com/content/857fb8e1-eec6-443e-97e8-f6876302aabc?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/64fe84f0-0b78-4c8b-a220-1aa2466179f6?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Reform UK pledges to cut data rules and curb liabilities for non-executives",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "Nigel Farage’s party sharpens its pitch to business by promising to scrap the General Data Protection Regulation",
+        "url": "https://www.ft.com/content/64fe84f0-0b78-4c8b-a220-1aa2466179f6?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/1b066355-4412-43bd-b832-74956d3c0a52?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Foot Locker owner plunges after warning nervous consumers are cutting spending",
@@ -468,40 +495,13 @@
         "url": "https://www.ft.com/content/1b066355-4412-43bd-b832-74956d3c0a52?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "SpaceX commits $100bn to Louisiana space base",
-        "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "Elon Musk’s rocket conglomerate plans its second launch complex to support more Starship launches",
-        "url": "https://www.ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b3e4d264-55f0-485e-8e1a-0ba0cbe006b6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Iran and Oman edge towards deal on Strait of Hormuz",
-        "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "Interim proposal on managing shipping is first hint of diplomatic progress to reopen the strategic waterway in weeks",
-        "url": "https://www.ft.com/content/b3e4d264-55f0-485e-8e1a-0ba0cbe006b6?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "AI to fuel global growth as investment spreads beyond US, IMF says",
-        "publicationDate": "2026-08-25",
-        "category": "Economy",
-        "summary": "Managing director Kristalina Georgieva expects world economy to weather energy crisis ignited by Iran war",
-        "url": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/8f1a392a-b43c-4124-916e-61695fffa0da?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "European LNG prices surge to highest level since 2023",
-        "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "Continent’s gas inventories were already low before Iran war disrupted shipments",
-        "url": "https://www.ft.com/content/8f1a392a-b43c-4124-916e-61695fffa0da?syn-25a6b1a6=1"
+        "id": "IF13119",
+        "source": "Congressional Research Service",
+        "title": "National Petroleum Reserve in Alaska (NPR-A): A Summary",
+        "publicationDate": "2026-08-24",
+        "category": "Defense",
+        "summary": "The National Petroleum Reserve in Alaska (NPR-A) is a 23-million-acre area in northern Alaska owned and administered by the federal government. Originally designated as an emergency oil reserve for the United States Navy in 1923, the NPR-A has been under the administration of the Department of the Interior’s (DOI’s) Bureau of Land Management (BLM) since 1976. Management and development of the NPR-A have been...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13119/IF13119.4.pdf"
     },
     {
         "id": "R49308",
@@ -510,7 +510,7 @@
         "publicationDate": "2026-08-24",
         "category": "Other",
         "summary": "Online platforms such as social media sites allow users to communicate with billions around the world. The platforms are significant forums for speech, enabling users to share their own content as well as receive and interact with others’ content. Over the past decade, federal and state policymakers have expressed concerns about a variety of issues related to online platforms, including the spread of objectionable...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49308/R49308.2.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49308/R49308.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4496-2.html",
