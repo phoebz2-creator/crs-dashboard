@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://www.cfr.org/articles/why-nato-and-the-transatlantic-bond-will-outlast-trump",
+        "source": "Council on Foreign Relations",
+        "title": "Why NATO and the Transatlantic Bond Will Outlast Trump",
+        "publicationDate": "2026-08-25",
+        "category": "Defense",
+        "summary": "Trump’s threats and hectoring have rattled Europe, but growing defense budgets and lasting mutual interests mean the alliance is more likely to endure than to collapse.",
+        "url": "https://www.cfr.org/articles/why-nato-and-the-transatlantic-bond-will-outlast-trump"
+    },
+    {
+        "id": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+        "source": "NPR Politics",
+        "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+        "publicationDate": "2026-08-25",
+        "category": "Foreign Policy",
+        "summary": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country.",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions"
+    },
+    {
         "id": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
         "source": "NPR Politics",
         "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
@@ -54,13 +72,22 @@
         "url": "https://thehill.com/homenews/campaign/6048221-el-sayed-watters-fox-news-clash/"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/trump-administration-aims-to-revoke-visas-of-foreign-citizens-applying-for-asylum.html",
+        "id": "https://www.nytimes.com/2026/08/25/us/politics/runoff-election-south-carolina-oklahoma.html",
         "source": "New York Times Politics",
-        "title": "Trump Administration Aims to Revoke Visas of Foreign Citizens Applying for Asylum",
+        "title": "What to Watch in Tuesday’s Primary Runoffs in South Carolina and Oklahoma",
+        "publicationDate": "2026-08-25",
+        "category": "Midterm Elections (2026)",
+        "summary": "President Trump’s endorsement track record is on the line in two races, including the high-profile contest to succeed the late Senator Lindsey Graham.",
+        "url": "https://www.nytimes.com/2026/08/25/us/politics/runoff-election-south-carolina-oklahoma.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/24/us/politics/trump-mass-visa-revocation-asylum.html",
+        "source": "New York Times Politics",
+        "title": "Trump Administration to Target Visas of Up To 200,000 Foreign Citizens Applying for Asylum",
         "publicationDate": "2026-08-25",
         "category": "Foreign Policy",
         "summary": "The State Department, in a move that could affect as many as 200,000 visa holders and asylum applicants, has begun its review. Cancellations could occur in waves.",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-administration-aims-to-revoke-visas-of-foreign-citizens-applying-for-asylum.html"
+        "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-mass-visa-revocation-asylum.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/24/us/politics/jeffries-kushner-meeting-trump-oversight.html",
@@ -90,6 +117,15 @@
         "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/08/25/trump-tariffs-canada-risks-political-fallout-republicans/",
+        "source": "Washington Post Politics",
+        "title": "Trump reminds voters that trade wars are also affecting prices",
+        "publicationDate": "2026-08-25",
+        "category": "Economy",
+        "summary": "The threat of higher prices for gas, cars, hockey sticks and more gave fresh life to Democratic arguments that the president is destabilizing the economy.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/25/trump-tariffs-canada-risks-political-fallout-republicans/"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
@@ -110,7 +146,7 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+        "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
         "publicationDate": "2026-08-25",
         "category": "Foreign Policy",
         "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
@@ -133,6 +169,24 @@
         "category": "Other",
         "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
         "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Scott Bessent threatens Iran’s economic partners with more sanctions",
+        "publicationDate": "2026-08-25",
+        "category": "Foreign Policy",
+        "summary": "US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action",
+        "url": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/80e7dfea-1dae-4ab7-ad56-5ba8dee2e5fd?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Burnham is right to rule out an early election",
+        "publicationDate": "2026-08-25",
+        "category": "Other",
+        "summary": "But sticking to a date sometime in 2029 brings political risks too",
+        "url": "https://www.ft.com/content/80e7dfea-1dae-4ab7-ad56-5ba8dee2e5fd?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
@@ -160,24 +214,6 @@
         "category": "Economy",
         "summary": "Also in this newsletter: Merz seeks to reboot his moribund government",
         "url": "https://www.ft.com/content/705bb093-f491-4a2c-90bb-1804be8c1426?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "JPMorgan eases approach on lending against shares to court AI’s new wealth",
-        "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic",
-        "url": "https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776",
-        "source": "Financial Times World",
-        "title": "Iranians queue for petrol as US blockade bites",
-        "publicationDate": "2026-08-25",
-        "category": "Economy",
-        "summary": "Long lines form in capital as officials warn that war and inflation are triggering fuel shortages",
-        "url": "https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776"
     },
     {
         "id": "R49309",
@@ -268,15 +304,6 @@
         "category": "Article",
         "summary": "A war that began with U.S. ambitions to seize Canada led to the burning of the White House and the Capitol Building.",
         "url": "https://www.cfr.org/articles/the-1814-british-sack-of-washington"
-    },
-    {
-        "id": "https://www.cfr.org/articles/cfr-report-takeaways-how-to-reshape-u-s-defense-production-to-counter-china",
-        "source": "Council on Foreign Relations",
-        "title": "How to Reshape U.S. Defense Production to Counter China",
-        "publicationDate": "2026-08-24",
-        "category": "Defense",
-        "summary": "A new Council on Foreign Relations report finds that long production timelines and supply chain bottlenecks—worsened by munitions stocks depleted in the Iran conflict—mean the United States must enact policy reforms and scale precise mass capabilities to counter China in the next few years. One of the authors provides critical takeaways from the report on the alternatives the U.S. government should pursue.",
-        "url": "https://www.cfr.org/articles/cfr-report-takeaways-how-to-reshape-u-s-defense-production-to-counter-china"
     },
     {
         "id": "https://www.hudson.org/foreign-policy/analyzing-ukraine-war-peter-rough",
@@ -378,15 +405,6 @@
         "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court"
     },
     {
-        "id": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-        "source": "NPR Politics",
-        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-        "publicationDate": "2026-08-24",
-        "category": "Foreign Policy",
-        "summary": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
-        "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/the-potential-economic-fallout-of-trumps-trade-war-with-canada",
         "source": "PBS NewsHour Politics",
         "title": "The potential economic fallout of Trump's trade war with Canada",
@@ -441,15 +459,6 @@
         "url": "https://thehill.com/newsletters/healthcare/6048133-back-to-school-season-fuels-growing-measles-concerns/"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html",
-        "source": "New York Times Politics",
-        "title": "Trump Has Quietly Sought Control Over Postal Service to Transform U.S. Elections",
-        "publicationDate": "2026-08-24",
-        "category": "Voting and Voters",
-        "summary": "That effort got new attention on Monday, when the Supreme Court allowed preparations for mail voting curbs to proceed. The justices said it is not a final determination on the order’s legality.",
-        "url": "https://www.nytimes.com/2026/08/24/us/politics/mail-voting-supreme-court-postal-service-trump.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/08/24/log-cabin-republicans-remove-reference-trans-people-website/",
         "source": "Washington Post Politics",
         "title": "Log Cabin Republicans remove reference to trans people on website",
@@ -484,15 +493,6 @@
         "category": "Other",
         "summary": "Drivers are dashing around the National Mall at speeds expected to exceed 185 mph.",
         "url": "https://www.washingtonpost.com/photography/interactive/2026/08/23/photos-freedom-250-grand-prix/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/24/democratic-socialists-biggest-challenge-their-own-platform/",
-        "source": "Washington Post Politics",
-        "title": "This not-so-secret document is inspiring the left — and tripping up its candidates",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "The Democratic Socialists of America platform aims to upend the status quo. That can mean a bumpy ride for those trying to win in the short term.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/24/democratic-socialists-biggest-challenge-their-own-platform/"
     },
     {
         "id": "https://www.heritage.org/health-care-reform/commentary/making-americans-healthier-again",
