@@ -92,11 +92,29 @@
     {
         "id": "https://www.ft.com/content/c89182ba-283f-43ae-abda-7828bfcef07a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "UK household energy price cap to rise by 4% from October",
+        "title": "UK household energy bills to hit three-year high from October",
         "publicationDate": "2026-08-26",
         "category": "Other",
-        "summary": "Middle East war pushes price limit to three-year high ahead of the winter",
+        "summary": "Middle East war pushes prices up 4 per cent",
         "url": "https://www.ft.com/content/c89182ba-283f-43ae-abda-7828bfcef07a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/930f2c92-f0e3-4609-b0ad-cdd3d791ab70?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Judge rules Evergrande liquidators can pursue PwC International for audit damages",
+        "publicationDate": "2026-08-26",
+        "category": "Foreign Policy",
+        "summary": "Hong Kong court’s ruling against global umbrella organisation has potential to threaten Big Four firms’ partnership network model",
+        "url": "https://www.ft.com/content/930f2c92-f0e3-4609-b0ad-cdd3d791ab70?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
+        "publicationDate": "2026-08-26",
+        "category": "Technology",
+        "summary": "Tech billionaire publishes 6,000-word essay warning the technology will usher in ‘one of the most turbulent times in human history’",
+        "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/49f9f010-9ac9-4f6b-8b41-e8d959558785?syn-25a6b1a6=1",
@@ -117,22 +135,22 @@
         "url": "https://www.ft.com/content/53157379-e404-4798-bc86-dd76927e0497?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/9a6947bf-9d4e-4489-80b9-2178ea657a67",
-        "source": "Financial Times World",
-        "title": "Nvidia’s $200bn ‘balance sheet-as-a-service’",
-        "publicationDate": "2026-08-26",
+        "id": "LSB11472",
+        "source": "Congressional Research Service",
+        "title": "Public Service Loan Forgiveness: Recent Legal Developments",
+        "publicationDate": "2026-08-25",
         "category": "Economy",
-        "summary": "Because ‘vendor finance’ are such ugly words",
-        "url": "https://www.ft.com/content/9a6947bf-9d4e-4489-80b9-2178ea657a67"
+        "summary": "For nearly 20 years, Section 455(m) of the Higher Education Act of 1965 (HEA), as amended, has authorized a benefit for borrowers of federal Direct Loan program student loans commonly known as Public Service Loan Forgiveness (PSLF). First established by the College Cost Reduction Act of 2007 (CCRA), the PSLF program requires the Secretary of Education (Secretary) to cancel the outstanding loan balance of borrowers...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11472/LSB11472.1.pdf"
     },
     {
-        "id": "https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "‘Capitalism’s not working’: why Democrats are turning to socialism",
-        "publicationDate": "2026-08-26",
-        "category": "Other",
-        "summary": "Democratic socialist candidates are winning primary battles in the US as voters turn to progressive policies",
-        "url": "https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1"
+        "id": "R46746",
+        "source": "Congressional Research Service",
+        "title": "Fannie Mae and Freddie Mac: Conservatorship Status and Related Directives",
+        "publicationDate": "2026-08-25",
+        "category": "Economy",
+        "summary": "Congress chartered Fannie Mae and Freddie Mac, also known collectively as the Enterprises, to promote homeownership by providing liquidity to the secondary mortgage market. The Enterprises specifically facilitate financing for single-family residential mortgages and multifamily (apartment and condominium) construction. After purchasing pools of single-family 30-year fixed rate mortgages, the Enterprises retain the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46746/R46746.5.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3025-4.html",
@@ -486,13 +504,31 @@
         "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "R49311",
+        "id": "IF11772",
         "source": "Congressional Research Service",
-        "title": "Economic Development Administration: An Overview of Roles, Structure, and Goals",
+        "title": "Payments in Lieu of Taxes (PILT): Section 6902 Payments",
         "publicationDate": "2026-08-24",
-        "category": "Technology",
-        "summary": "The U.S. Economic Development Administration (EDA), a bureau of the U.S. Department of Commerce (DOC), was established pursuant to the enactment of the Public Works and Economic Development Act (PWEDA) of 1965 (42 U.S.C. §§3121 et seq.) to assist state and local stakeholders with developing the conditions and amenities to grow businesses, create jobs, and expand investment in economically distressed areas. Other...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49311/R49311.1.pdf"
+        "category": "Defense",
+        "summary": "Introduction Several federal programs compensate local jurisdictions for the presence of nontaxable federal lands. The widest-ranging program is the Department of the Interior’s (DOI’s) Payments in Lieu of Taxes (PILT) program. PILT compensates units of general local government for selected lands administered by several federal agencies. Units of general local government typically are referred to as counties. For...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11772/IF11772.13.pdf"
+    },
+    {
+        "id": "IF13119",
+        "source": "Congressional Research Service",
+        "title": "National Petroleum Reserve in Alaska (NPR-A): A Summary",
+        "publicationDate": "2026-08-24",
+        "category": "Defense",
+        "summary": "The National Petroleum Reserve in Alaska (NPR-A) is a 23-million-acre area in northern Alaska owned and administered by the federal government. Originally designated as an emergency oil reserve for the United States Navy in 1923, the NPR-A has been under the administration of the Department of the Interior’s (DOI’s) Bureau of Land Management (BLM) since 1976. Management and development of the NPR-A have been...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13119/IF13119.4.pdf"
+    },
+    {
+        "id": "R49308",
+        "source": "Congressional Research Service",
+        "title": "First Amendment Challenges to Regulation of Social Media",
+        "publicationDate": "2026-08-24",
+        "category": "Other",
+        "summary": "Online platforms such as social media sites allow users to communicate with billions around the world. The platforms are significant forums for speech, enabling users to share their own content as well as receive and interact with others’ content. Over the past decade, federal and state policymakers have expressed concerns about a variety of issues related to online platforms, including the spread of objectionable...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49308/R49308.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4496-2.html",
@@ -576,24 +612,6 @@
         "url": "https://ecfr.eu/publication/in-the-bears-paw-how-europeans-can-loosen-russias-grip-on-belarus/"
     },
     {
-        "id": "R49310",
-        "source": "Congressional Research Service",
-        "title": "Economic Development Administration: An Overview of Programs",
-        "publicationDate": "2026-08-19",
-        "category": "Defense",
-        "summary": "The Economic Development Administration (EDA), a bureau of the U.S. Department of Commerce (DOC), is the only federal agency with economic development as its sole mission. The agency was established pursuant to the enactment of the Public Works and Economic Development Act (PWEDA) of 1965 (42 U.S.C. §§3121 et seq.) to assist state and local stakeholders with developing the conditions and amenities to grow...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49310/R49310.1.pdf"
-    },
-    {
-        "id": "IN11701",
-        "source": "Congressional Research Service",
-        "title": "Occupational Safety and Health Administration (OSHA) Regulation of Employee Exposure to Heat",
-        "publicationDate": "2026-08-18",
-        "category": "Healthcare",
-        "summary": "Employees who work outdoors, including those in industries such as construction and agriculture, may be exposed to extreme heat conditions. Similarly, certain indoor work locations—such as bakeries, warehouses, and steel mills—may also expose employees to unsafe heat levels. The lead federal agency that regulates worker safety and health, the Occupational Safety and Health Administration (OSHA), does not have any...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN11701/IN11701.12.pdf"
-    },
-    {
         "id": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/",
         "source": "European Council on Foreign Relations",
         "title": "Cold comfort: What China can teach Europe about adaptation",
@@ -601,15 +619,6 @@
         "category": "Foreign Policy",
         "summary": "Europe is learning to adapt to a hotter climate. It should take the same approach to economic dependencies: manage the consequences, but also change the conditions that created them",
         "url": "https://ecfr.eu/article/cold-comfort-what-china-can-teach-europe-about-adaptation/"
-    },
-    {
-        "id": "R49266",
-        "source": "Congressional Research Service",
-        "title": "Prediction Markets Legislation in the 119th Congress",
-        "publicationDate": "2026-08-17",
-        "category": "Other",
-        "summary": "Prediction markets are exchange platforms that specialize in offering event contracts. Event contracts allow parties to trade on the occurrence or nonoccurrence of specific events. Prediction markets operate on a quote-based system, where the underlying price for an event contract is determined by participants’ continuous buying and selling reaching an equilibrium. Prediction markets have grown rapidly in recent...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49266/R49266.2.pdf"
     },
     {
         "id": "https://ecfr.eu/publication/buzzkill-how-to-defend-europe-against-drones/",
@@ -664,14 +673,5 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
-    },
-    {
-        "id": "R43778",
-        "source": "Congressional Research Service",
-        "title": "Medicaid Prescription Drug Pricing and Policy",
-        "publicationDate": "2014-11-07",
-        "category": "Healthcare",
-        "summary": "Medicaid is a federal-state entitlement program that pays for health care and related services on behalf of certain low-income individuals. Prescription drugs are an optional Medicaid benefit and all states cover outpatient drugs. States can create formularies, or lists of preferred drugs, but federal rules tend to result in comprehensive coverage, even for beneficiaries enrolled in Medicaid managed care plans....",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43778/R43778.5.pdf"
     }
 ]
