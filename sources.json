@@ -45,6 +45,33 @@
         "url": "https://thehill.com/homenews/state-watch/6050778-alex-pretti-family-immigration-shooting-accountability/"
     },
     {
+        "id": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html",
+        "source": "New York Times Politics",
+        "title": "Even as Trump’s Standing Slips, He Slingshots Darline Graham to Victory",
+        "publicationDate": "2026-08-26",
+        "category": "Trump",
+        "summary": "After facing low approval ratings and endorsement setbacks, the president made a show of force in lifting Darline Graham to the Republican nomination for Senate in South Carolina.",
+        "url": "https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/26/us/politics/joe-manchin-independents-congress.html",
+        "source": "New York Times Politics",
+        "title": "Joe Manchin Pushes for More Independents to Join Congress",
+        "publicationDate": "2026-08-26",
+        "category": "United States Politics and Government",
+        "summary": "The former Democratic-turned-independent senator and his daughter are backing independent bids for the House and the Senate to try to weaken the two-party grip on the Capitol.",
+        "url": "https://www.nytimes.com/2026/08/26/us/politics/joe-manchin-independents-congress.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/08/26/business/energy-environment/soaring-diesel-prices-are-helping-oil-companies-and-hurting-consumers.html",
+        "source": "New York Times Politics",
+        "title": "Soaring Diesel Prices Are Helping Oil Companies and Hurting Consumers",
+        "publicationDate": "2026-08-26",
+        "category": "Foreign Policy",
+        "summary": "The cost of the fuel, used in farm machinery, trucks and other heavy equipment, has surged because of the war in Iran and Ukrainian attacks on Russian refineries.",
+        "url": "https://www.nytimes.com/2026/08/26/business/energy-environment/soaring-diesel-prices-are-helping-oil-companies-and-hurting-consumers.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/08/26/us/politics/bernadette-wilson-alaska-governor.html",
         "source": "New York Times Politics",
         "title": "Conservative Media Personality Makes Runoff for Alaska Governor",
@@ -63,31 +90,31 @@
         "url": "https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html",
-        "source": "New York Times Politics",
-        "title": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff",
+        "id": "https://www.washingtonpost.com/politics/2026/08/26/trumps-endorsement-helps-darline-graham-win-south-carolina/",
+        "source": "Washington Post Politics",
+        "title": "Takeaways from the latest primaries as Trump reverses a losing streak",
         "publicationDate": "2026-08-26",
-        "category": "South Carolina",
-        "summary": "President Trump went all in for Senator Darline Graham in a primary runoff on Tuesday. It worked, preserving his undefeated streak in Republican Senate primaries this year.",
-        "url": "https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html"
+        "category": "Other",
+        "summary": "Tuesday’s contests in South Carolina and Oklahoma tested how much sway the president’s endorsement still has.",
+        "url": "https://www.washingtonpost.com/politics/2026/08/26/trumps-endorsement-helps-darline-graham-win-south-carolina/"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/25/us/politics/trump-saudi-nuclear-deal-congress-review.html",
-        "source": "New York Times Politics",
-        "title": "Trump Administration Sends Saudi Nuclear Deal to Congress for Review",
+        "id": "https://www.ft.com/content/ef62e345-2a76-46b4-8a69-9d02a306126b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Iranian tankers gather off Sri Lankan coast",
         "publicationDate": "2026-08-26",
-        "category": "United States Politics and Government",
-        "summary": "The prospect that the kingdom could enrich uranium has drawn opposition from Democrats and revived concerns about nuclear proliferation in the Middle East.",
-        "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-saudi-nuclear-deal-congress-review.html"
+        "category": "Foreign Policy",
+        "summary": "Cut off from home ports by the US blockade, ships seek shelter close to Sri Lanka’s territorial waters",
+        "url": "https://www.ft.com/content/ef62e345-2a76-46b4-8a69-9d02a306126b?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-senate-graham-norman.html",
-        "source": "New York Times Politics",
-        "title": "Darline Graham, Backed By Trump, Wins Primary for Senate in South Carolina",
+        "id": "https://www.ft.com/content/27f60c74-38b8-4a76-9cdc-144ae54f45f3?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Britain needs a new way to pay for healthcare",
         "publicationDate": "2026-08-26",
-        "category": "Midterm Elections (2026)",
-        "summary": "Ms. Graham, who is temporarily filling the seat long held by her late brother, Senator Lindsey Graham, prevailed in a runoff and will be heavily favored in November.",
-        "url": "https://www.nytimes.com/2026/08/25/us/politics/south-carolina-senate-graham-norman.html"
+        "category": "Healthcare",
+        "summary": "Introducing co-payment will make us more like our rich-world peers and put us on a sustainable footing",
+        "url": "https://www.ft.com/content/27f60c74-38b8-4a76-9cdc-144ae54f45f3?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/c89182ba-283f-43ae-abda-7828bfcef07a?syn-25a6b1a6=1",
@@ -115,24 +142,6 @@
         "category": "Other",
         "summary": "World’s third-largest carmaker to release dozens of new and updated models by 2030",
         "url": "https://www.ft.com/content/557217e6-f62b-4fb6-a451-533e43ce08da?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Bill Gates calls for ‘human reserved’ jobs to protect labour force from AI",
-        "publicationDate": "2026-08-26",
-        "category": "Technology",
-        "summary": "Tech billionaire publishes 6,000-word essay warning the technology will usher in ‘one of the most turbulent times in human history’",
-        "url": "https://www.ft.com/content/42c449c6-03f6-4097-9eae-e119447e8aa5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/49f9f010-9ac9-4f6b-8b41-e8d959558785?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: US Treasury on collision course with Fed",
-        "publicationDate": "2026-08-26",
-        "category": "Other",
-        "summary": "Also in this newsletter: Cashing in on EU sanctions and Germany’s defence push",
-        "url": "https://www.ft.com/content/49f9f010-9ac9-4f6b-8b41-e8d959558785?syn-25a6b1a6=1"
     },
     {
         "id": "LSB11472",
@@ -448,15 +457,6 @@
         "category": "Other",
         "summary": "After the Supreme Court's ruling on Monday, where do things stand in the lawsuits over President Donald Trump's attempt to limit who can cast ballots by mail?",
         "url": "https://www.washingtonpost.com/politics/2026/08/25/what-know-about-court-fights-over-voting-by-mail/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/08/25/court-halts-ohio-proof-of-citizenship-requirement-motor-vehicle-offices/",
-        "source": "Washington Post Politics",
-        "title": "Court halts Ohio proof-of-citizenship requirement at motor vehicle offices",
-        "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "Ohio’s law requiring proof of citizenship at Bureau of Motor Vehicles’ offices conflicts with the federal National Voter Registration Act, the court said.",
-        "url": "https://www.washingtonpost.com/politics/2026/08/25/court-halts-ohio-proof-of-citizenship-requirement-motor-vehicle-offices/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
