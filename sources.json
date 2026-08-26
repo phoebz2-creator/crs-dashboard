@@ -1,5 +1,23 @@
 [
     {
+        "id": "IF12640",
+        "source": "Congressional Research Service",
+        "title": "TikTok and China’s Digital Platforms: Issues for Congress",
+        "publicationDate": "2026-08-26",
+        "category": "Economy",
+        "summary": "Congress and U.S. policymakers at the federal and state levels have taken steps to address their national security-related concerns about the extent to which the People’s Republic of China’s (PRC, or China) influences digital platforms that are directly or indirectly tied to the PRC and operating in the United States (Table 1). Most U.S. actions to date have focused on TikTok, owned by ByteDance, a company with...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12640/IF12640.12.pdf"
+    },
+    {
+        "id": "LSB11459",
+        "source": "Congressional Research Service",
+        "title": "Fifth and Sixth Circuits Divided on Whether the Necessary and Proper Clause Authorizes Federal Ban on At-Home Spirit Distilling",
+        "publicationDate": "2026-08-26",
+        "category": "Economy",
+        "summary": "For more than 150 years, federal law has banned individuals from distilling spirits at home. Internal Revenue Code (IRC) §§ 5601(a)(6) and 5178(a)(1)(B) prohibit individuals from producing spirits at home for personal consumption by restricting a spirit distillery’s location and attaching criminal penalties to noncompliance. In the past few years, persons seeking to engage in at-home distilling have filed federal...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11459/LSB11459.3.pdf"
+    },
+    {
         "id": "https://www.npr.org/2026/08/26/nx-s1-5944299/the-impact-of-the-trade-war-between-the-u-s-and-canada",
         "source": "NPR Politics",
         "title": "The impact of the trade war between the U.S. and Canada",
@@ -9,49 +27,94 @@
         "url": "https://www.npr.org/2026/08/26/nx-s1-5944299/the-impact-of-the-trade-war-between-the-u-s-and-canada"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6051865-supreme-court-trump-justice-department-border-asylum/",
-        "source": "The Hill",
-        "title": "Trump petitions Supreme Court to take up Mexico border asylum ban",
+        "id": "https://www.pbs.org/newshour/politics/democratic-states-file-new-lawsuit-seeking-to-block-trumps-order-limiting-mail-voting-in-midterms",
+        "source": "PBS NewsHour Politics",
+        "title": "Democratic states file new lawsuit seeking to block Trump's order limiting mail voting in midterms",
         "publicationDate": "2026-08-26",
-        "category": "Court Battles",
-        "summary": "The Justice Department (DOJ) is asking the Supreme Court to sign off on President Trump’s Day 1 proclamation shutting down asylum claims at the U.S.-Mexico border, accusing lower courts of “judicial interference” in declaring it illegal. Solicitor General D. John Sauer described it as one of the president’s most important initiatives as he urged the justices...",
-        "url": "https://thehill.com/regulation/court-battles/6051865-supreme-court-trump-justice-department-border-asylum/"
+        "category": "Donald Trump news",
+        "summary": "Democratic-controlled states on Wednesday filed another lawsuit challenging President Donald Trump's executive order seeking to limit mail voting in this year's midterm elections.",
+        "url": "https://www.pbs.org/newshour/politics/democratic-states-file-new-lawsuit-seeking-to-block-trumps-order-limiting-mail-voting-in-midterms"
     },
     {
-        "id": "https://thehill.com/homenews/media/6051878-ingraham-warns-gop-november/",
-        "source": "The Hill",
-        "title": "Laura Ingraham: Republicans need to ‘get their act together’",
+        "id": "https://www.pbs.org/newshour/politics/darline-graham-wins-south-carolina-gop-nomination-to-replace-her-late-brother-in-u-s-senate",
+        "source": "PBS NewsHour Politics",
+        "title": "Darline Graham wins South Carolina GOP nomination to replace her late brother in U.S. Senate",
         "publicationDate": "2026-08-26",
-        "category": "Media",
-        "summary": "Fox News host Laura Ingraham warned Republicans on Tuesday that they could be headed for trouble in November if the party does not shore up support from states that have typically been thought of as safe. “They better get their act together in Iowa,” she said on “The Ingraham Angle” on Tuesday, as guests discussed...",
-        "url": "https://thehill.com/homenews/media/6051878-ingraham-warns-gop-november/"
+        "category": "alaska",
+        "summary": "U.S. Sen. Darline Graham won the Republican nomination to replace her late brother on South Carolina's general election ballot, notching another win for President Donald Trump after he threw his support behind the political novice.",
+        "url": "https://www.pbs.org/newshour/politics/darline-graham-wins-south-carolina-gop-nomination-to-replace-her-late-brother-in-u-s-senate"
     },
     {
-        "id": "https://thehill.com/opinion/international/6049652-china-signals-intelligence-cuba-risk/",
+        "id": "https://www.pbs.org/newshour/politics/republican-with-same-name-as-incumbent-dan-sullivan-advances-from-alaska-u-s-senate-primary",
+        "source": "PBS NewsHour Politics",
+        "title": "Republican with same name as incumbent Dan Sullivan advances from Alaska U.S. Senate primary",
+        "publicationDate": "2026-08-26",
+        "category": "alaska",
+        "summary": "A candidate with the same name as Alaska's incumbent U.S. senator has advanced to the general election in what will be one of the most closely watched races in the country this fall.",
+        "url": "https://www.pbs.org/newshour/politics/republican-with-same-name-as-incumbent-dan-sullivan-advances-from-alaska-u-s-senate-primary"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6052255-iowa-gubernatorial-candidate-rob-sand-kamala-harris-2028-presidential-election/",
         "source": "The Hill",
-        "title": "Don't let China rescue Cuba",
+        "title": "Iowa's Democratic governor candidate: Kamala Harris shouldn't run in 2028",
+        "publicationDate": "2026-08-26",
+        "category": "Campaign",
+        "summary": "Rob Sand, the Democratic gubernatorial nominee in Iowa, said in an interview released Wednesday that former Vice President Kamala Harris should not run for president in 2028. “Nope,” Sand remarked, after Politico’s Jonathan Martin asked him whether Harris should seek the Democratic nomination again. He also brushed off questions about Harris, who ran two unsuccessful...",
+        "url": "https://thehill.com/homenews/campaign/6052255-iowa-gubernatorial-candidate-rob-sand-kamala-harris-2028-presidential-election/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6052333-supreme-court-emergency-ruling-mail-in-voting-meta-settlement-discussion/",
+        "source": "The Hill",
+        "title": "Mail voting questions surge after emergency Supreme Court ruling",
+        "publicationDate": "2026-08-26",
+        "category": "The Gavel - Live Briefing",
+        "summary": "What's happening with mail-in voting? An emergency Supreme Court ruling centered on President Trump's executive order around the practice has led to a flood of questions, just days before states start sending out ballots. Join Legal Affairs Editor Zach Schonfeld and Legal Affairs Reporter Sophie Brams as they break down the ruling, the courts' options...",
+        "url": "https://thehill.com/newsletters/the-gavel/the-gavel-live-briefing/6052333-supreme-court-emergency-ruling-mail-in-voting-meta-settlement-discussion/"
+    },
+    {
+        "id": "https://thehill.com/blogs/in-the-know/in-the-know/6052354-tim-curry-star-of-rocky-horror-and-it-dead-at-80-reports/",
+        "source": "The Hill",
+        "title": "Tim Curry, star of 'Rocky Horror' and 'It,' dead at 80: Reports",
+        "publicationDate": "2026-08-26",
+        "category": "In The Know",
+        "summary": "Tim Curry, the British actor whose long career included a cult role in \"The Rocky Horror Picture Show,\" has died, multiple news outlets report. He was 80 years old.",
+        "url": "https://thehill.com/blogs/in-the-know/in-the-know/6052354-tim-curry-star-of-rocky-horror-and-it-dead-at-80-reports/"
+    },
+    {
+        "id": "https://thehill.com/blogs/in-the-know/6051397-from-a-theme-park-to-moss-the-things-named-after-dolly-parton/",
+        "source": "The Hill",
+        "title": "From a theme park to moss: The things named after Dolly Parton",
+        "publicationDate": "2026-08-26",
+        "category": "In The Know",
+        "summary": "You may have to do some trekking to find some things named after Dolly Parton.",
+        "url": "https://thehill.com/blogs/in-the-know/6051397-from-a-theme-park-to-moss-the-things-named-after-dolly-parton/"
+    },
+    {
+        "id": "https://thehill.com/opinion/national-security/6049822-trump-defense-spending-weakness/",
+        "source": "The Hill",
+        "title": "Why high defense spending is bad for America",
         "publicationDate": "2026-08-26",
         "category": "Defense",
-        "summary": "The Chinese in Cuba have maintained a “persistent intelligence-gathering presence.”",
-        "url": "https://thehill.com/opinion/international/6049652-china-signals-intelligence-cuba-risk/"
+        "summary": "Secretary of Defense Pete Hegseth recently testified before the Senate that, should Congress fail to pass the entire requested $1.5 trillion defense budget, it would put the United States in danger. Contrary to Hegseth’s testimony, however, this threat inflation and oversized defense budget only makes America weaker.",
+        "url": "https://thehill.com/opinion/national-security/6049822-trump-defense-spending-weakness/"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6049602-who-will-have-the-best-view-of-this-weeks-blood-moon-lunar-eclipse/",
-        "source": "The Hill",
-        "title": "Who will have the best view of this week's blood moon lunar eclipse?",
+        "id": "https://www.nytimes.com/2026/08/26/us/politics/trump-lindsey-graham-darline-graham.html",
+        "source": "New York Times Politics",
+        "title": "How Trump Folded the Graham Family Dynasty Into His Own",
         "publicationDate": "2026-08-26",
-        "category": "State Watch",
-        "summary": "Just about everyone in the U.S. will have an opportunity to see the blood moon lunar eclipse this week, but some people will end up having a much better view than others.",
-        "url": "https://thehill.com/homenews/state-watch/6049602-who-will-have-the-best-view-of-this-weeks-blood-moon-lunar-eclipse/"
+        "category": "Politics and Government",
+        "summary": "The president came to see Lindsey and Darline Graham as part of his own political legacy.",
+        "url": "https://www.nytimes.com/2026/08/26/us/politics/trump-lindsey-graham-darline-graham.html"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6051255-live-updates-trump-iran-canada-dolly-parton/",
-        "source": "The Hill",
-        "title": "Live updates: Trump notches endorsement wins; Meta, state AGs reach lawsuit settlement",
+        "id": "https://www.nytimes.com/2026/08/26/us/politics/dean-roy-vermont-governor-election.html",
+        "source": "New York Times Politics",
+        "title": "Meet Dean Roy, the 15-Year-Old Running for Vermont Governor and Ready for ‘Impact’",
         "publicationDate": "2026-08-26",
-        "category": "Administration",
-        "summary": "President Trump notched two big wins in Tuesday's elections, with Sen. Darline Graham (S.C.) and former state Sen. Mike Mazzei (Okla.) clinching the GOP nominations in their respective primary runoff races. Trump's super PAC, MAGA Inc., poured over $800,000 into Graham's effort. Both races were a test of the president's influence. Read more takeaways here....",
-        "url": "https://thehill.com/homenews/administration/6051255-live-updates-trump-iran-canada-dolly-parton/"
+        "category": "United States Politics and Government",
+        "summary": "Dean Roy, 15, will appear on the ballot in November as a third-party candidate. He said his generation’s concerns, like affordability and climate change, have been ignored for too long.",
+        "url": "https://www.nytimes.com/2026/08/26/us/politics/dean-roy-vermont-governor-election.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/26/us/politics/uss-abraham-lincoln-sailor-father-arrested-immigration-released.html",
@@ -79,24 +142,6 @@
         "category": "United States Politics and Government",
         "summary": "The former Democratic-turned-independent senator and his daughter are backing independent bids for the House and the Senate to try to weaken the two-party grip on the Capitol.",
         "url": "https://www.nytimes.com/2026/08/26/us/politics/joe-manchin-independents-congress.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html",
-        "source": "New York Times Politics",
-        "title": "Diesel Price Nears Record High, Helping Oil Companies and Hurting Consumers",
-        "publicationDate": "2026-08-26",
-        "category": "Foreign Policy",
-        "summary": "The cost of the fuel, used in farm machinery, trucks and other heavy equipment, has surged because of the war in Iran and Ukrainian attacks on Russian refineries.",
-        "url": "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/26/us/politics/bernadette-wilson-alaska-governor.html",
-        "source": "New York Times Politics",
-        "title": "Conservative Media Personality Makes Runoff for Alaska Governor",
-        "publicationDate": "2026-08-26",
-        "category": "Alaska",
-        "summary": "Bernadette Wilson, who has appealed to other Republicans to consolidate around her party’s top finisher, will be one of four finalists on the ranked-choice ballot in November.",
-        "url": "https://www.nytimes.com/2026/08/26/us/politics/bernadette-wilson-alaska-governor.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/26/texas-senate-race-talarico-seeks-depositions-that-could-damage-paxton/",
@@ -158,8 +203,17 @@
         "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
         "publicationDate": "2026-08-26",
         "category": "Healthcare",
-        "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+        "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
         "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+        "publicationDate": "2026-08-26",
+        "category": "Other",
+        "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+        "url": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
@@ -171,67 +225,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+        "id": "https://www.ft.com/content/083d21f8-ac03-4d72-b149-e8ded11c11a9?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Heatwaves spark interest in Gulf-style extreme cooling",
         "publicationDate": "2026-08-26",
         "category": "Other",
-        "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
-        "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss"
+        "summary": "From chilled walkways to heat-reflecting roofs, wealthy oil states have pioneered ways to cope with high temperatures",
+        "url": "https://www.ft.com/content/083d21f8-ac03-4d72-b149-e8ded11c11a9?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/70949883-f543-4444-a330-503b8e4c141a?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/284f83f5-b6af-41a9-909d-26ca5693e5a9?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’",
+        "title": "Burnham seeks to bridge gap with nervous business community",
         "publicationDate": "2026-08-26",
-        "category": "Other",
-        "summary": "TWG Global hits out at ‘multipronged attacks’ on investment empire, which has stakes in high-profile sports teams",
-        "url": "https://www.ft.com/content/70949883-f543-4444-a330-503b8e4c141a?syn-25a6b1a6=1"
+        "category": "Economy",
+        "summary": "New prime minister hits crowd-pleasing note but private sector will reserve judgment until October Budget",
+        "url": "https://www.ft.com/content/284f83f5-b6af-41a9-909d-26ca5693e5a9?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/21dcbd96-ee57-445c-a9ba-0938c49b91c0?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Meta to pay up to $16.7bn to settle children’s social media harm case",
+        "title": "Meta to pay up to $18bn to settle children’s social media harm case",
         "publicationDate": "2026-08-26",
         "category": "Other",
         "summary": "Case relating to alleged failures of child protection was getting under way in California",
         "url": "https://www.ft.com/content/21dcbd96-ee57-445c-a9ba-0938c49b91c0?syn-25a6b1a6=1"
     },
     {
+        "id": "https://www.ft.com/content/d7b89b34-8961-484d-b776-707520e942c5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "CIA chief makes rare visit to Moscow",
+        "publicationDate": "2026-08-26",
+        "category": "Foreign Policy",
+        "summary": "John Ratcliffe is first US spy chief to travel to Russia since 2022 invasion of Ukraine",
+        "url": "https://www.ft.com/content/d7b89b34-8961-484d-b776-707520e942c5?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/1809a163-07b8-46fd-b056-7ee25d5023d4?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Victory Capital to acquire First Eagle in $7bn deal",
+        "title": "Vanguard and Victory Capital bet on scale as fund industry consolidates",
         "publicationDate": "2026-08-26",
         "category": "Other",
-        "summary": "Acquisition comes after Texas-based investment house lost out on race to buy Janus Henderson earlier this year",
+        "summary": "Asset management deal volumes have reached $53.8bn this year, the highest since at least 1995 according to Dealogic",
         "url": "https://www.ft.com/content/1809a163-07b8-46fd-b056-7ee25d5023d4?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/56750716-10a5-4c43-88bc-ed69f591da28?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "London is worst area in England and Wales for heat-related deaths",
-        "publicationDate": "2026-08-26",
-        "category": "Other",
-        "summary": "New data shows relative mortality risk increases by 50% when temperature rises above 24C",
-        "url": "https://www.ft.com/content/56750716-10a5-4c43-88bc-ed69f591da28?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a97acd81-ed7c-4d27-a9c9-298348242e37?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Hundreds reported missing after flood on Nepal border with China",
-        "publicationDate": "2026-08-26",
-        "category": "Foreign Policy",
-        "summary": "Nepal says more than 50 people confirmed dead, with 384 foreign and local tourists reported missing",
-        "url": "https://www.ft.com/content/a97acd81-ed7c-4d27-a9c9-298348242e37?syn-25a6b1a6=1"
-    },
-    {
-        "id": "IF13098",
+        "id": "R49319",
         "source": "Congressional Research Service",
-        "title": "National Park Service: Fee Increases for International Visitors",
+        "title": "China’s Diplomacy: Selected Issues for Congress",
         "publicationDate": "2026-08-25",
-        "category": "Economy",
-        "summary": "Congress has debated various measures to generate additional funds for the National Park System in light of a large backlog of deferred maintenance on system lands. One option under discussion has been to raise park entrance fees for international visitors, in line with policies of some other nations that assess different national park fees for domestic versus international visitors. On July 3, 2025, President...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13098/IF13098.8.pdf"
+        "category": "Defense",
+        "summary": "The People’s Republic of China (PRC or China) uses diplomacy to influence governments, publics, international organizations, and international affairs across the world. Under Communist Party of China (CPC) General Secretary Xi Jinping (2012-present), the PRC has adopted a more dynamic, expansive foreign policy vision than that which the PRC had articulated since the 1990s. This more dynamic vision has led the PRC...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49319/R49319.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3025-4.html",
@@ -459,33 +504,6 @@
         "url": "https://www.pbs.org/newshour/show/canadian-trade-minister-says-reaching-deal-with-u-s-in-best-interest-for-both-countries"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/constitutional-law-professor-explains-supreme-courts-ruling-on-mail-in-voting",
-        "source": "PBS NewsHour Politics",
-        "title": "Constitutional law professor explains Supreme Court's ruling on mail-in voting",
-        "publicationDate": "2026-08-25",
-        "category": "Donald Trump news",
-        "summary": "The Supreme Court on Monday issued an emergency order that allows the Trump administration to move forward, for now, with plans to restrict mail-in voting ahead of the midterm elections in November. Opponents say it will bring chaos to the election process only days before ballots in some states are mailed out. Liz Landers discussed more with Steve Vladeck of the Georgetown University Law Center.",
-        "url": "https://www.pbs.org/newshour/show/constitutional-law-professor-explains-supreme-courts-ruling-on-mail-in-voting"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/a-look-at-the-devastating-impact-of-usaid-cuts-in-rural-afghanistan",
-        "source": "PBS NewsHour Politics",
-        "title": "A look at the devastating impact of USAID cuts in rural Afghanistan",
-        "publicationDate": "2026-08-25",
-        "category": "Foreign Policy",
-        "summary": "It's been 18 months since the Trump administration made cuts to foreign aid. One of the countries hardest-hit is Afghanistan. The five years since the U.S. withdrawal have been grim for the people there, and Refugees International attributes over 160 deaths during the last 18 months to cuts in aid. Special correspondent Leila Molana-Allen and videographer Eric O'Connor report.",
-        "url": "https://www.pbs.org/newshour/show/a-look-at-the-devastating-impact-of-usaid-cuts-in-rural-afghanistan"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-rollins-defends-trumps-trade-war-with-canada-while-acknowledging-concern-from-farmers",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Rollins defends Trump's trade war with Canada while acknowledging 'concern' from farmers",
-        "publicationDate": "2026-08-25",
-        "category": "brooke rollins",
-        "summary": "Agriculture Secretary Brooke Rollins acknowledged American farmers' concerns over the escalating trade war with Canada Tuesday but insisted the United States will come out on top.",
-        "url": "https://www.pbs.org/newshour/politics/watch-rollins-defends-trumps-trade-war-with-canada-while-acknowledging-concern-from-farmers"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -493,6 +511,15 @@
         "category": "Other",
         "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
         "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "IF11772",
+        "source": "Congressional Research Service",
+        "title": "Payments in Lieu of Taxes (PILT): Section 6902 Payments",
+        "publicationDate": "2026-08-24",
+        "category": "Defense",
+        "summary": "Introduction Several federal programs compensate local jurisdictions for the presence of nontaxable federal lands. The widest-ranging program is the Department of the Interior’s (DOI’s) Payments in Lieu of Taxes (PILT) program. PILT compensates units of general local government for selected lands administered by several federal agencies. Units of general local government typically are referred to as counties. For...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11772/IF11772.13.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4496-2.html",
@@ -612,6 +639,15 @@
         "url": "https://ecfr.eu/special/mapping_palestinian_politics/legislative-elections-2026/"
     },
     {
+        "id": "LSB11469",
+        "source": "Congressional Research Service",
+        "title": "Supreme Court Says Negligence Suits Against Military Contractor Operating in a Combat Zone Are Not Preempted",
+        "publicationDate": "2026-08-14",
+        "category": "Defense",
+        "summary": "On April 22, 2026, the U.S. Supreme Court decided the case Hencely v. Fluor Corp. This case involves a former servicemember (Winston Tyler Hencely) who sued a military contractor (Fluor) under South Carolina law for injuries he suffered on a U.S. military base in Afghanistan in 2016, allegedly due to Fluor’s negligence. Fluor employed an individual who carried out a suicide-bomb attack at the base that wounded...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11469/LSB11469.2.pdf"
+    },
+    {
         "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
         "source": "Centre for European Reform",
         "title": "Survey: Centre for European Reform mailings",
@@ -630,15 +666,6 @@
         "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
     },
     {
-        "id": "IF11123",
-        "source": "Congressional Research Service",
-        "title": "U.S.-UK Trade Relations: Background and Selected Issues",
-        "publicationDate": "2026-07-24",
-        "category": "Defense",
-        "summary": "The United States and the United Kingdom (UK) are close trade and investment partners. In May 2025, President Trump and then-UK Prime Minister Keir Starmer announced the General Terms of the U.S.-UK Economic Prosperity Deal (EPD) to address certain trade issues, including tariff actions taken by the Trump Administration since January 2025. The 119th Congress may consider whether to modify tariff authorities...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11123/IF11123.22.pdf"
-    },
-    {
         "id": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression",
         "source": "Centre for European Reform",
         "title": "National Security Strategy (Joint Committee): Deterrence in an age of Russian aggression",
@@ -646,32 +673,5 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
-    },
-    {
-        "id": "TE10082",
-        "source": "Congressional Research Service",
-        "title": "Legal and Procedural Factors Related to Seating a Cherokee Nation Delegate in the U.S. House of Representatives",
-        "publicationDate": "2022-11-16",
-        "category": "Other",
-        "summary": "The issue of seating a Cherokee Delegate in the House rose to prominence on August 22, 2019, when Cherokee Nation Principal Chief Chuck Hoskin, Jr. announced his tribe’s intention to nominate a delegate to represent the Cherokee Nation. This announcement invoked a provision of the 1835 treaty between the Eastern Cherokee Tribe of Georgia (“Cherokee Tribe” or “Cherokee”) and the U.S. government (New Echota Treaty)....",
-        "url": "https://www.congress.gov/crs_external_products/TE/PDF/TE10082/TE10082.4.pdf"
-    },
-    {
-        "id": "TE10077",
-        "source": "Congressional Research Service",
-        "title": "Better, Together: Examining the Unified Proposed Rule to Modernize the Community Reinvestment Act",
-        "publicationDate": "2022-07-13",
-        "category": "Economy",
-        "summary": "Congress passed the Community Reinvestment Act of 1977 (CRA; P.L. 95-128, 12 U.S.C. §§2901-2908) in response to concerns that federally insured banking institutions were not making sufficient credit available in the local areas in which they were chartered and acquiring deposits. According to some in Congress at that time, a bank charter should entail a continuing obligation for a bank to serve the credit needs of...",
-        "url": "https://www.congress.gov/crs_external_products/TE/PDF/TE10077/TE10077.2.pdf"
-    },
-    {
-        "id": "TE10078",
-        "source": "Congressional Research Service",
-        "title": "The Modernizing Veterans’ Health Care Eligibility Act (H.R. 1216), and other Pending Legislation",
-        "publicationDate": "2022-06-22",
-        "category": "Healthcare",
-        "summary": "Beginning with the early colonial settlements of America, the nation has provided benefits in varying degrees to those who have worn the uniform and suffered physical disabilities in service to the nation—sacrifices that are inherent to the profession of arms. In 1718, for instance, the colony of Rhode Island enacted legislation that provided benefits not only to every officer, soldier, or sailor who served in the...",
-        "url": "https://www.congress.gov/crs_external_products/TE/PDF/TE10078/TE10078.2.pdf"
     }
 ]
