@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/08/29/nx-s1-5945108/week-in-politics-trump-renames-lake-ontario-lake-america-fed-chair-signals-hikes",
+        "source": "NPR Politics",
+        "title": "Week in Politics: Trump renames Lake Ontario 'Lake America'; Fed chair signals hikes",
+        "publicationDate": "2026-08-29",
+        "category": "Economy",
+        "summary": "President Trump signed an executive order to change the name of Lake Ontario to Lake America to provoke Canadian leaders. Meanwhile, the new Fed chair says inflation continues to be a problem.",
+        "url": "https://www.npr.org/2026/08/29/nx-s1-5945108/week-in-politics-trump-renames-lake-ontario-lake-america-fed-chair-signals-hikes"
+    },
+    {
         "id": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
         "source": "NPR Politics",
         "title": "Why is one WNBA team calling in national security experts?",
@@ -9,49 +18,58 @@
         "url": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6058417-harris-political-viability-concerns/",
+        "id": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/",
         "source": "The Hill",
-        "title": "Democrats on campaign trail divided by Kamala Harris",
+        "title": "Abbott bars Texas agencies from funding Flock cameras",
         "publicationDate": "2026-08-29",
-        "category": "Campaign",
-        "summary": "Democratic candidates in competitive election races are taking different tacks this cycle over how close to affiliate themselves with former Vice President Kamala Harris, who’s lent her support to many of them but whose loss in the 2024 election has made her a more polarizing figure. Iowa state Rep. Josh Turek (D) told reporters this...",
-        "url": "https://thehill.com/homenews/campaign/6058417-harris-political-viability-concerns/"
+        "category": "State Watch",
+        "summary": "Texas Gov. Greg Abbott (R) ordered all state agencies this week to halt funding for Flock cameras amid growing concerns nationwide about the misuse of the roadside camera network. The decision, which was communicated to state agencies on Thursday evening, came as The Texas Tribune said it was preparing to publish an investigation into the...",
+        "url": "https://thehill.com/homenews/state-watch/6058974-abbott-halts-texas-flock-agencies-funding/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6058344-meta-kids-online-safety-settlement-youtube-tiktok/",
+        "id": "https://thehill.com/homenews/state-watch/6053265-noaa-almanacs-release-fall-weather-predictions-what-could-it-be-like-near-you/",
         "source": "The Hill",
-        "title": "Meta settlement backs competitors into a corner on kids safety",
+        "title": "NOAA, almanacs release fall weather predictions: What could it be like near you?",
         "publicationDate": "2026-08-29",
-        "category": "Technology",
-        "summary": "Meta’s settlement with nearly every state in the country is putting some of its biggest competitors on notice as the Instagram and Facebook parent firm tries to steer an industry standard on kids online safety. After years of scrutiny, the company agreed to pay billions of dollars to states and make significant changes to better...",
-        "url": "https://thehill.com/policy/technology/6058344-meta-kids-online-safety-settlement-youtube-tiktok/"
+        "category": "State Watch",
+        "summary": "Cold and wet, hot and dry - what's in store for you may depend on the forecast you look at.",
+        "url": "https://thehill.com/homenews/state-watch/6053265-noaa-almanacs-release-fall-weather-predictions-what-could-it-be-like-near-you/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6058739-ice-robot-dogs-2-million-plans/",
+        "id": "https://thehill.com/opinion/international/6056167-trump-besent-iran-sanctions/",
         "source": "The Hill",
-        "title": "ICE plans to spend $2 million on dog-like robots for immigration enforcement",
+        "title": "Operation Economic Outcast needs an off-ramp, not just a noose",
+        "publicationDate": "2026-08-29",
+        "category": "Economy",
+        "summary": "Treasury Secretary Scott Bessent announced Operation Economic Outcast on Aug. 24, a massive expansion of sanctions aimed at severing Iran's ties to the global economy by targeting the infrastructure used for evasion.",
+        "url": "https://thehill.com/opinion/international/6056167-trump-besent-iran-sanctions/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6058917-white-house-teleprompter-speech-bets-fined/",
+        "source": "The Hill",
+        "title": "White House teleprompter operator who placed bets on Trump’s speeches ordered to pay $172K",
         "publicationDate": "2026-08-29",
         "category": "Administration",
-        "summary": "Immigration and Customs Enforcement (ICE) is planning to spend up to $2 million on robot “dogs” to assist its agents' operations, according to a Department of Homeland Security (DHS) funding document. A funding document posted to DHS's Acquisition Planning Forecast System on Thursday said the agency could spend between $1 million and $2 million on...",
-        "url": "https://thehill.com/homenews/administration/6058739-ice-robot-dogs-2-million-plans/"
+        "summary": "The White House teleprompter operator who placed online bets on President Trump’s speeches has been ordered to pay a total of $172,000, a federal agency said Friday. The Commodity Futures Trading Commission (CFTC) said in a news release that Gabriel Perez must pay out his profits from trade, totaling $107,539.02, in addition to a civil...",
+        "url": "https://thehill.com/homenews/administration/6058917-white-house-teleprompter-speech-bets-fined/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6058719-vance-zeldin-epa-probe-ohio-derailment/",
+        "id": "https://thehill.com/opinion/judiciary/6058738-supreme-court-emergency-docket-litigation/",
         "source": "The Hill",
-        "title": "Vance, Zeldin ask for EPA probe into East Palestine train derailment response",
+        "title": "Judge Talwani and why liberal complaints about the 'shadow docket' are so hollow",
         "publicationDate": "2026-08-29",
-        "category": "Administration",
-        "summary": "Two Trump administration officials are calling for an independent Environmental Protection Agency (EPA) investigation into the government's response to the 2023 East Palestine, Ohio, train derailment — which caused toxic chemicals to spill into the town. In a joint Friday letter, Vice President JD Vance and EPA Administrator Lee Zeldin asked the EPA’s acting inspector...",
-        "url": "https://thehill.com/homenews/administration/6058719-vance-zeldin-epa-probe-ohio-derailment/"
+        "category": "Opinions - Judiciary",
+        "summary": "Litigants have been accused of forum shopping. Here's what that means.",
+        "url": "https://thehill.com/opinion/judiciary/6058738-supreme-court-emergency-docket-litigation/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6058676-canada-cbc-9-11-terrorism-guidance-backlash/",
-        "source": "The Hill",
-        "title": "Canadian broadcaster reverses policy barring use of 'terrorist attack' label for 9/11",
+        "id": "https://www.nytimes.com/2026/08/29/us/politics/teleprompter-trump-speech-kalshi-perez-bet.html",
+        "source": "New York Times Politics",
+        "title": "Teleprompter Operator Who Bet on Trump Speeches Is Ordered to Pay Fine",
         "publicationDate": "2026-08-29",
-        "category": "Administration",
-        "summary": "The Canadian Broadcasting Corporation’s (CBC) walked back its move Friday to advise its journalists not to refer directly to Al Qaeda's Sept. 11, 2001, attack on the U.S. as an act of terrorism — guidance that garnered widespread criticism from political leaders. In an internal memo this week first reported by The Toronto Sun, CBC’s...",
-        "url": "https://thehill.com/homenews/administration/6058676-canada-cbc-9-11-terrorism-guidance-backlash/"
+        "category": "Gambling",
+        "summary": "Gabriel Perez had access to the president’s speeches before they were delivered and was accused of placing unlawful wagers on words that would be spoken.",
+        "url": "https://www.nytimes.com/2026/08/29/us/politics/teleprompter-trump-speech-kalshi-perez-bet.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/29/us/politics/midterms-senate-race-georgia-alaska-texas-fact-check.html",
@@ -88,15 +106,6 @@
         "category": "United States Politics and Government",
         "summary": "Senator Jon Ossoff, the youngest sitting senator and the only Democrat seeking re-election this year in a state President Trump won in 2024, hasn’t moderated his message in his critical race.",
         "url": "https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html"
-    },
-    {
-        "id": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html",
-        "source": "New York Times Politics",
-        "title": "How Trump’s Deportation Agenda Spreads Overseas",
-        "publicationDate": "2026-08-29",
-        "category": "Deportation",
-        "summary": "Our White House correspondent Zolan Kanno-Youngs explains how so-called third-country deportations are sending immigrants to countries across the globe.",
-        "url": "https://www.nytimes.com/video/us/politics/100000011104736/how-trumps-deportation-agenda-spreads-overseas.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/29/how-texas-fight-over-an-ice-agent-could-open-new-political-battleground/",
@@ -137,10 +146,10 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
         "publicationDate": "2026-08-29",
-        "category": "Other",
-        "summary": "The attack sparked a series of explosions, prompting an investigation into whether ammunition was being stored on site.",
+        "category": "Defense",
+        "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
         "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -162,49 +171,49 @@
         "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/930386eb-b5d4-4a62-a258-f7ab46401655?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "US campaign to isolate Iran closes in on Dubai",
+        "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
+        "publicationDate": "2026-08-29",
+        "category": "Other",
+        "summary": "The president says the countries’ joint venture will lower petrol prices for Americans",
+        "url": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Warsh puts Fed on collision course with Trump ahead of midterms",
+        "publicationDate": "2026-08-29",
+        "category": "Other",
+        "summary": "US central bank chair’s Jackson Hole hint that rates may rise runs counter to the reduction in borrowing costs the US president desires",
+        "url": "https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/40eaeba7-9514-4e6b-9bd3-4a9381618c84",
+        "source": "Financial Times World",
+        "title": "Dozens killed in Russian strike on ammunition depot near Kyiv",
         "publicationDate": "2026-08-29",
         "category": "Foreign Policy",
-        "summary": "Gulf city has for decades served as an offshore hub for Iranian financial services, trade and access to global markets that the regime needs",
-        "url": "https://www.ft.com/content/930386eb-b5d4-4a62-a258-f7ab46401655?syn-25a6b1a6=1"
+        "summary": "Lengthy air raids by Moscow’s jet-powered drones have triggered 27 alerts since Thursday in one of the longest attacks of the war",
+        "url": "https://www.ft.com/content/40eaeba7-9514-4e6b-9bd3-4a9381618c84"
     },
     {
-        "id": "https://www.ft.com/content/4f9bd1ed-f783-45c9-8542-addd8b57ee9f?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/4822389d-5bb2-4e31-a627-bcda849630c8?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "What the Indiana state fair reveals about Trump’s America",
+        "title": "Swiss wealth managers urge delay to ownership register after Liechtenstein hack",
+        "publicationDate": "2026-08-29",
+        "category": "Technology",
+        "summary": "Bankers also raised cyber security concerns over list of ultimate owners of more than 500,000 companies and other entities",
+        "url": "https://www.ft.com/content/4822389d-5bb2-4e31-a627-bcda849630c8?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/0d24c0e8-eb65-4009-a236-f2dbf1eaa416",
+        "source": "Financial Times World",
+        "title": "Trump deportations take a bite out of an unexpected industry: US fast food",
         "publicationDate": "2026-08-29",
         "category": "Other",
-        "summary": "Will the most ornery state in the conservative Midwest finally reject his politics?",
-        "url": "https://www.ft.com/content/4f9bd1ed-f783-45c9-8542-addd8b57ee9f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/7fb4b375-f858-4a79-8dd5-9e21c223078b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "‘In a flash, everything was gone’: Nepal rushes to rescue flood survivors",
-        "publicationDate": "2026-08-29",
-        "category": "Foreign Policy",
-        "summary": "Destruction of infrastructure by torrent that devastated settlements near border with China has left many people stranded",
-        "url": "https://www.ft.com/content/7fb4b375-f858-4a79-8dd5-9e21c223078b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Risk of a new age of financial repression is rising",
-        "publicationDate": "2026-08-29",
-        "category": "Other",
-        "summary": "The idea of pushing US government bonds down the throats of investors is being taken increasingly seriously",
-        "url": "https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6249139a-6ca6-4888-86e2-f2f381e9b8a8?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Football clubs’ race for data creates bright spot in Britain labour market",
-        "publicationDate": "2026-08-29",
-        "category": "Other",
-        "summary": "Britain’s top teams are using their growing financial strength to expand their off-field operations",
-        "url": "https://www.ft.com/content/6249139a-6ca6-4888-86e2-f2f381e9b8a8?syn-25a6b1a6=1"
+        "summary": "A sector that relies on population increases for sales growth struggles with new reality of fewer mouths to feed",
+        "url": "https://www.ft.com/content/0d24c0e8-eb65-4009-a236-f2dbf1eaa416"
     },
     {
         "id": "IF13302",
@@ -385,15 +394,6 @@
         "category": "Other",
         "summary": "Limited public discussion of the trust fund's shortfall has experts worried that most Americans don't fully understand the problems Social Security faces — let alone be able to weigh in on solutions.",
         "url": "https://www.npr.org/2026/08/28/nx-s1-5898447/social-security-trust-fund-voters"
-    },
-    {
-        "id": "https://www.npr.org/2026/08/28/nx-s1-5940881/democrats-congress-midterm-elections-trump",
-        "source": "NPR Politics",
-        "title": "How Democrats in Congress are preparing for Trump midterm election interference",
-        "publicationDate": "2026-08-28",
-        "category": "Other",
-        "summary": "As Election Day draws nearer, Democrats are preparing for a range of scenarios, intent on avoiding what they see as the failure of imagination that kept lawmakers from anticipating the Jan. 6 attack.",
-        "url": "https://www.npr.org/2026/08/28/nx-s1-5940881/democrats-congress-midterm-elections-trump"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/trump-says-u-s-has-entered-deal-with-venezuela-to-control-65-billion-barrels-of-its-oil-reserves",
