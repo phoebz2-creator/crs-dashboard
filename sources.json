@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Canada installs large Lake Ontario sign in latest jab at US",
+        "publicationDate": "2026-08-30",
+        "category": "Other",
+        "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+        "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.npr.org/2026/08/29/nx-s1-5945108/week-in-politics-trump-renames-lake-ontario-lake-america-fed-chair-signals-hikes",
         "source": "NPR Politics",
         "title": "Week in Politics: Trump renames Lake Ontario 'Lake America'; Fed chair signals hikes",
@@ -63,6 +72,24 @@
         "url": "https://www.pbs.org/newshour/economy/warsh-raises-stakes-for-feds-next-meeting-and-other-takeaways-from-jackson-hole-conference"
     },
     {
+        "id": "https://thehill.com/homenews/house/6059254-beatty-trump-kennedy-center-threat/",
+        "source": "The Hill",
+        "title": "Beatty on Trump admin threats to demolish Kennedy Center: 'Who’s going to stop them?'",
+        "publicationDate": "2026-08-29",
+        "category": "House",
+        "summary": "Rep. Joyce Beatty (D-Ohio) said Saturday she believes the ongoing legal battle over the Kennedy Center could stand in the way of President Trump tearing down the building, after his administration raised demolition as a possibility earlier this week. Beatty, an ex officio member of the center’s board who has successfully challenged Trump’s proposed changes...",
+        "url": "https://thehill.com/homenews/house/6059254-beatty-trump-kennedy-center-threat/"
+    },
+    {
+        "id": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/",
+        "source": "The Hill",
+        "title": "Sunday shows preview: Trump admin economic tensions leave GOP vulnerable; U.S. foreign relations shift",
+        "publicationDate": "2026-08-29",
+        "category": "Foreign Policy",
+        "summary": "Republicans are nearing the final stretch of the midterm election cycle with an increasingly unstable political landscape, as races for traditionally safe red seats grow competitive amid tensions over President Trump’s economic agenda. Democrats are looking to flip a handful of key battleground states to regain a Congressional majority come November. Senate races in Texas,...",
+        "url": "https://thehill.com/homenews/sunday-talk-shows/6059207-sunday-shows-trump-gop-economic-tensions-foreign-relations/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6058288-karoline-leavitt-leaves-white-house/",
         "source": "The Hill",
         "title": "Leavitt is leaving the White House. Don't expect her to go far",
@@ -90,22 +117,13 @@
         "url": "https://thehill.com/homenews/administration/6059100-milo-yiannopoulos-deported-uk/"
     },
     {
-        "id": "https://thehill.com/opinion/technology/6056562-ai-consciousness-societal-impact/",
-        "source": "The Hill",
-        "title": "AI could become conscious. What if it wants us dead?",
+        "id": "https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s Venezuelan Oil Deal Relies on a Powerful and Divisive Partner",
         "publicationDate": "2026-08-29",
-        "category": "Defense",
-        "summary": "As artificial intelligence advances toward potential sentience, experts warn of significant societal risks ranging from existential dependency on a digital mind to catastrophic outcomes if autonomous systems prioritize their own survival over human interests.",
-        "url": "https://thehill.com/opinion/technology/6056562-ai-consciousness-societal-impact/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6059052-democrats-slam-trump-venezuela-oil-deal/",
-        "source": "The Hill",
-        "title": "Democrats sound alarm on US-Venezuela oil deal: 'This isn't a win'",
-        "publicationDate": "2026-08-29",
-        "category": "Senate",
-        "summary": "Democrats slammed Friday's announcement by President Trump on a new deal to acquire majority U.S. control of over 65 million barrels of Venezuelan oil. “Let's be clear: this isn't a win,” Maryland Sen. Chris Van Hollen (D) wrote in a social media post. “This is proof Trump put our service members at risk to get...",
-        "url": "https://thehill.com/homenews/senate/6059052-democrats-slam-trump-venezuela-oil-deal/"
+        "category": "Foreign Policy",
+        "summary": "The administration will work with a private Venezuelan oil company that has close ties to the country’s government.",
+        "url": "https://www.nytimes.com/2026/08/29/business/energy-environment/venezuela-alejandro-betancourt-oil-trump.html"
     },
     {
         "id": "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html",
@@ -142,15 +160,6 @@
         "category": "United States Politics and Government",
         "summary": "Candidates’ attacks are focused on illegal immigration, faith and stock trading.",
         "url": "https://www.nytimes.com/2026/08/29/us/politics/midterms-senate-race-georgia-alaska-texas-fact-check.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html",
-        "source": "New York Times Politics",
-        "title": "Carney Has Canadians’ Support on Trump. Now Comes the Hard Part.",
-        "publicationDate": "2026-08-29",
-        "category": "Carney",
-        "summary": "The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?",
-        "url": "https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/08/29/flock-cameras-stir-bipartisan-fury-gov-greg-abbott-blocks-them-texas/",
@@ -225,13 +234,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Former Ecuadorian president imprisoned for corruption",
+        "id": "https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Oil deal with US is denounced by both sides of Venezuelan politics",
         "publicationDate": "2026-08-29",
         "category": "Other",
-        "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss"
+        "summary": "Opposition said agreement with Trump administration was potentially illegal while government hardliners cast it as a betrayal",
+        "url": "https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/8eaa49a6-6722-46fc-be4c-cce25ed449ca?syn-25a6b1a6=1",
@@ -268,15 +277,6 @@
         "category": "Other",
         "summary": "US central bank chair’s Jackson Hole hint that rates may rise runs counter to the reduction in borrowing costs the US president desires",
         "url": "https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/40eaeba7-9514-4e6b-9bd3-4a9381618c84",
-        "source": "Financial Times World",
-        "title": "Dozens killed in Russian strike on ammunition depot near Kyiv",
-        "publicationDate": "2026-08-29",
-        "category": "Foreign Policy",
-        "summary": "Lengthy air raids by Moscow’s jet-powered drones have triggered 27 alerts since Thursday in one of the longest attacks of the war",
-        "url": "https://www.ft.com/content/40eaeba7-9514-4e6b-9bd3-4a9381618c84"
     },
     {
         "id": "IF13302",
