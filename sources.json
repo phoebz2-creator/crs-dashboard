@@ -1,12 +1,30 @@
 [
     {
-        "id": "R49326",
+        "id": "R49328",
         "source": "Congressional Research Service",
-        "title": "Data Centers and the Electricity Grid: Frequently Asked Questions",
+        "title": "Chile in Brief: Overview and U.S. Relations",
         "publicationDate": "2026-09-01",
         "category": "Defense",
-        "summary": "A data center is a physical facility that houses computer systems for managing and transmitting data. The federal government has been pursuing policies to promote data center development, particularly as a primary component of artificial intelligence (AI), a “critical and emerging technology” with enormous data storage and processing requirements. Data centers require large quantities of electrical power. To date,...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49326/R49326.1.pdf"
+        "summary": "Chile traditionally has been a close U.S. partner in Latin America. Since Chile’s 1990 return to democracy, the United States and Chile have maintained close economic and security ties, worked to promote democracy and human rights, and cooperated on scientific research and in other areas. Congress has helped shape the bilateral relationship at times, including through the imposition of restrictions on arms sales...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49328/R49328.1.pdf"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4333-1.html",
+        "source": "RAND Corporation",
+        "title": "When Counties Invest in Early Childhood",
+        "publicationDate": "2026-09-01",
+        "category": "Other",
+        "summary": "The authors evaluated the implementation of the Early Childhood Impact Fund (ECIF) in Harris County, Texas. ECIF provided $15 million to programs serving children from birth to age 5, their caregivers, and early childhood professionals.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4333-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/guide-countries-trumps-travel-ban-list",
+        "source": "Council on Foreign Relations",
+        "title": "A Guide to Trump’s Travel Ban and Visa Pause, by Country",
+        "publicationDate": "2026-09-01",
+        "category": "Foreign Policy",
+        "summary": "The White House’s growing travel ban is now shutting down immigrant visa processing indefinitely for seventy-five countries, including Brazil, Iran, Russia, and Somalia, among several others.",
+        "url": "https://www.cfr.org/articles/guide-countries-trumps-travel-ban-list"
     },
     {
         "id": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-bruce-hoffman",
@@ -27,49 +45,58 @@
         "url": "https://www.cfr.org/podcasts/spillover/beyond-drill-baby-drill-why-efficiency-is-the-real-path-to-energy-security"
     },
     {
-        "id": "https://cms.hoover.org/research/selection-problem-aligning-pacific-allies-algorithmic-warfare",
-        "source": "Hoover Institution",
-        "title": "The Selection Problem: Aligning Pacific Allies for Algorithmic Warfare",
+        "id": "https://www.hudson.org/foreign-policy/dangerous-delusion-quiet-diplomacy-china-miles-yu",
+        "source": "Hudson Institute",
+        "title": "The Dangerous Delusion of Quiet Diplomacy with China",
         "publicationDate": "2026-09-01",
-        "category": "Foreign Policy",
-        "summary": "In a war over Taiwan, the key challenge for allied forces will not be finding targets but choosing among them. China can flood the battlespace with militia boats, dual-use ferries, and merchant ships carrying concealed missiles.",
-        "url": "https://cms.hoover.org/research/selection-problem-aligning-pacific-allies-algorithmic-warfare"
+        "category": "Defense",
+        "summary": "The Dangerous Delusion of Quiet Diplomacy with China bbert@hudson.org Tue, 09/01/2026 - 09:41 SVG Commentary Sep 1, 2026 Washington Times The Dangerous Delusion of Quiet Diplomacy with China Few modern US doctrines have produced so few results. Miles Yu Senior Fellow and Director, China Center Miles Yu Commentary Caption Officials close a curtain during a meeting between China's President Xi Jinping and US...",
+        "url": "https://www.hudson.org/foreign-policy/dangerous-delusion-quiet-diplomacy-china-miles-yu"
     },
     {
-        "id": "https://cms.hoover.org/profiles/maggie-gray",
+        "id": "https://cms.hoover.org/profiles/doug-beck",
         "source": "Hoover Institution",
-        "title": "Maggie Gray",
+        "title": "Doug Beck",
         "publicationDate": "2026-09-01",
         "category": "Other",
         "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/profiles/maggie-gray"
+        "url": "https://cms.hoover.org/profiles/doug-beck"
     },
     {
-        "id": "https://cms.hoover.org/profiles/logan-istre",
+        "id": "https://cms.hoover.org/plus/research/part-3-qa-can-america-rebuild-shared-civic-culture",
         "source": "Hoover Institution",
-        "title": "Logan Istre",
+        "title": "Part 3 - Q&A: Can America Rebuild a Shared Civic Culture?",
+        "publicationDate": "2026-09-01",
+        "category": "Healthcare",
+        "summary": "A healthy civic culture depends not only on institutions, but on how citizens participate in public life. Rebuilding it requires political engagement, greater restraint in public discourse, and a willingness to preserve common civic bonds across deep disagreement.",
+        "url": "https://cms.hoover.org/plus/research/part-3-qa-can-america-rebuild-shared-civic-culture"
+    },
+    {
+        "id": "https://cms.hoover.org/plus/research/part-2-erosion-american-self-government",
+        "source": "Hoover Institution",
+        "title": "Part 2 - The Erosion of American Self-Government",
+        "publicationDate": "2026-09-01",
+        "category": "Other",
+        "summary": "American self-government depends on power being divided, limited, and accountable to voters. That balance erodes when unelected officials expand their authority, constitutional procedures are bypassed, and national sovereignty is ceded to institutions beyond direct democratic control.",
+        "url": "https://cms.hoover.org/plus/research/part-2-erosion-american-self-government"
+    },
+    {
+        "id": "https://cms.hoover.org/plus/research/part-1-what-holds-america-together",
+        "source": "Hoover Institution",
+        "title": "Part 1 - What Holds America Together?",
+        "publicationDate": "2026-09-01",
+        "category": "Other",
+        "summary": "A self-governing society depends on citizens who share civic knowledge, economic independence, and allegiance to a common national culture. Sustaining that system requires a strong middle class, successful assimilation, and a civic identity that rises above tribal loyalties.",
+        "url": "https://cms.hoover.org/plus/research/part-1-what-holds-america-together"
+    },
+    {
+        "id": "https://cms.hoover.org/node/392451",
+        "source": "Hoover Institution",
+        "title": "The End of Citizenship: America’s Test of Self-Government",
         "publicationDate": "2026-09-01",
         "category": "Other",
         "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/profiles/logan-istre"
-    },
-    {
-        "id": "https://cms.hoover.org/profiles/kaitlyn-robinson",
-        "source": "Hoover Institution",
-        "title": "Kaitlyn Robinson",
-        "publicationDate": "2026-09-01",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/profiles/kaitlyn-robinson"
-    },
-    {
-        "id": "https://cms.hoover.org/profiles/joshua-dunn",
-        "source": "Hoover Institution",
-        "title": "Joshua Dunn",
-        "publicationDate": "2026-09-01",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/profiles/joshua-dunn"
+        "url": "https://cms.hoover.org/node/392451"
     },
     {
         "id": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
@@ -108,49 +135,85 @@
         "url": "https://www.npr.org/2026/09/01/nx-s1-5948069/in-massachusetts-sen-ed-markey-and-rep-seth-moulton-vie-for-senate-nomination"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/what-to-know-about-the-dispute-between-rfk-jr-and-gov-shapiro-over-measles-associated-deaths",
+        "source": "PBS NewsHour Politics",
+        "title": "What to know about the dispute between RFK Jr. and Gov. Shapiro over 'measles-associated deaths'",
+        "publicationDate": "2026-09-01",
+        "category": "Healthcare",
+        "summary": "Here's a timeline of how federal public health officials went from offering Pennsylvanians their condolences to questioning whether the deaths occurred.",
+        "url": "https://www.pbs.org/newshour/politics/what-to-know-about-the-dispute-between-rfk-jr-and-gov-shapiro-over-measles-associated-deaths"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/whistleblower-postal-services-work-to-comply-with-trump-order-is-rushed-and-sloppy",
+        "source": "PBS NewsHour Politics",
+        "title": "Whistleblower: Postal Service's work to comply with Trump order is rushed and sloppy",
+        "publicationDate": "2026-09-01",
+        "category": "Donald Trump news",
+        "summary": "The U.S. Postal Service is poised to launch a hastily built, error-riddled computer system that could jeopardize the process of mail voting relied upon by one-third of all voters, according to a whistleblower statement released Tuesday by Democratic Sen. Richard Blumenthal.",
+        "url": "https://www.pbs.org/newshour/politics/whistleblower-postal-services-work-to-comply-with-trump-order-is-rushed-and-sloppy"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/army-secretary-dan-driscoll-is-stepping-down-after-18-months-on-the-job-white-house-says",
+        "source": "PBS NewsHour Politics",
+        "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
+        "publicationDate": "2026-09-01",
+        "category": "Defense",
+        "summary": "No reason was given for the departure of Driscoll, who is a friend of Vice President JD Vance, but tensions with Defense Secretary Pete Hegseth have been widely reported.",
+        "url": "https://www.pbs.org/newshour/politics/army-secretary-dan-driscoll-is-stepping-down-after-18-months-on-the-job-white-house-says"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6063637-hakeem-jeffries-denounces-loomer-racism/",
+        "source": "The Hill",
+        "title": "Hakeem Jeffries calls Laura Loomer a ‘stone-cold racist,’ demands Republicans denounce her",
+        "publicationDate": "2026-09-01",
+        "category": "House",
+        "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) went after right-wing influencer Laura Loomer for her rhetoric toward prominent left-leaning Black women in politics including Florida Democratic Senate candidate Angie Nixon and Reps. Ilhan Omar (D-Minn.) and Ayanna Pressley (D-Mass.). “The media will clip my language about @AngieNixon, @IlhanMN, @AyannaPressley, @CoriBush, and [Supreme Court] Justice Ketanji Brown...",
+        "url": "https://thehill.com/homenews/house/6063637-hakeem-jeffries-denounces-loomer-racism/"
+    },
+    {
+        "id": "https://thehill.com/business/6063570-treasury-scott-bessent-socialism-underachievers/",
+        "source": "The Hill",
+        "title": "Bessent slams US supporters of socialism as 'underachievers'",
+        "publicationDate": "2026-09-01",
+        "category": "Business",
+        "summary": "Treasury Secretary Scott Bessent described U.S. supporters of socialism Tuesday as “underachievers” who are “jealous” of others. “When you talk about socialism here in the U.S., and when you look at the demographic of those voters, they are over-educated and under-earning,” Bessent told Fox Business' Larry Kudlow during a live interview at the Group of...",
+        "url": "https://thehill.com/business/6063570-treasury-scott-bessent-socialism-underachievers/"
+    },
+    {
+        "id": "https://thehill.com/opinion/national-security/6062270-presidents-rejecting-bad-news/",
+        "source": "The Hill",
+        "title": "Putin and Trump refuse to accept the realities of their wars",
+        "publicationDate": "2026-09-01",
+        "category": "Opinions - National Security",
+        "summary": "Neither Trump nor Putin respond well to negative feedback.",
+        "url": "https://thehill.com/opinion/national-security/6062270-presidents-rejecting-bad-news/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/",
         "source": "The Hill",
-        "title": "Live updates: Trump will huddle with oil, gas executives; House set to vote on shutdown bill",
+        "title": "Live updates: House faction aims to freeze Johnson's agenda; US strikes Iran targets",
         "publicationDate": "2026-09-01",
-        "category": "Administration",
-        "summary": "President Trump will meet Tuesday with oil and gas executives at the White House and is expected to discuss how to expand U.S. refining capacity as part of an effort to lower gasoline prices, according to a White House official. Energy Secretary Chris Wright will head to Venezuela later Tuesday, days after the nation entered...",
+        "category": "Defense",
+        "summary": "U.S. Central Command announced Tuesday afternoon on X that the military had started striking Islamic Revolutionary Guard Corps (IRGC) targets following \"recent attempted attacks by the IRGC against commercial shipping in the Strait of Hormuz and against American service members deployed to the region.\" As House Speaker Mike Johnson tries to get through a legislative...",
         "url": "https://thehill.com/homenews/administration/6062462-live-updates-trump-energy-iran-house/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6062829-walmart-recalled-mexican-mangoes/",
+        "id": "https://thehill.com/homenews/campaign/6063549-paxton-super-pac-texas-ads/",
         "source": "The Hill",
-        "title": "Mangoes recalled in 4 states over salmonella risk",
+        "title": "Paxton allies plan $15 million ad campaign",
         "publicationDate": "2026-09-01",
-        "category": "Healthcare",
-        "summary": "The mangoes were sold from Aug. 10 to 21, some in select Walmart stores.",
-        "url": "https://thehill.com/policy/healthcare/6062829-walmart-recalled-mexican-mangoes/"
+        "category": "Campaign",
+        "summary": "A super PAC backing Texas Senate GOP nominee Ken Paxton released two new ads on Tuesday, as the Republican is locked in a bitter fight against Democrat James Talarico. The ads from Lone Star Liberty PAC cost $15 million and will air across 18 markets in Texas over the next two weeks, a spokesperson for...",
+        "url": "https://thehill.com/homenews/campaign/6063549-paxton-super-pac-texas-ads/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6062792-sean-duffy-lee-zeldin-start-stop-features-cars-emissions-rules/",
-        "source": "The Hill",
-        "title": "Duffy thanks Zeldin for getting rid of 'stop-start' feature in cars: 'I hate it'",
+        "id": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
+        "source": "New York Times Politics",
+        "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
         "publicationDate": "2026-09-01",
-        "category": "Administration",
-        "summary": "Transportation Secretary Sean Duffy on Monday commended Environmental Protection Agency (EPA) Administrator Lee Zeldin for targeting his “pet peeve” — an auto feature intended to reduce greenhouse gas emissions. “You know the on/off, the stop-start button on your car? I hate that thing,” Duffy told the crowd at an event in Detroit. “Thank you, Lee...",
-        "url": "https://thehill.com/homenews/administration/6062792-sean-duffy-lee-zeldin-start-stop-features-cars-emissions-rules/"
-    },
-    {
-        "id": "https://thehill.com/opinion/healthcare/6062184-trump-boosts-psychedelic-depression-research/",
-        "source": "The Hill",
-        "title": "New reasons not to be depressed about depression",
-        "publicationDate": "2026-09-01",
-        "category": "Healthcare",
-        "summary": "President Trump's administration directed $50 million in federal funding toward accelerating research into psychedelic treatments like psilocybin to help combat the rising number of U.S. adults suffering from treatment-resistant depression.",
-        "url": "https://thehill.com/opinion/healthcare/6062184-trump-boosts-psychedelic-depression-research/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/the-movement/6062310-meta-settlement-conservatives/",
-        "source": "The Hill",
-        "title": "The Movement: Meta settlement gets praise, pushback from the right",
-        "publicationDate": "2026-09-01",
-        "category": "The Movement",
-        "summary": "Family- and culture-focused groups on the right praised last week’s court settlement that requires Meta to institute safety and addiction guardrails for teenagers on its platforms. But free speech and innovation advocates are less than thrilled, as the settlement represents the biggest victory yet for a novel legal strategy that avoids First Amendment concerns. The settlement lands...",
-        "url": "https://thehill.com/newsletters/the-movement/6062310-meta-settlement-conservatives/"
+        "category": "Names",
+        "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
+        "url": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html",
@@ -180,22 +243,40 @@
         "url": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-internal-records-sealed.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html",
+        "id": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-coalition.html",
         "source": "New York Times Politics",
-        "title": "Vance Defends Approach to Antisemitism in Remarks to Jewish Conservatives",
+        "title": "Can JD Vance Win Over Skeptical Jewish Voters?",
         "publicationDate": "2026-09-01",
         "category": "United States Politics and Government",
-        "summary": "In private remarks, Vice President JD Vance explained why he engages with some influencers accused of antisemitism. He also urged the audience to help articulate why a strong relationship with Israel is in America’s interest.",
-        "url": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-committee.html"
+        "summary": "The vice president is attempting to unite conservative Jews with their antagonists in one coalition, as one appearance in Nevada on Monday showed. Some are uneasy about it.",
+        "url": "https://www.nytimes.com/2026/09/01/us/politics/vance-republican-jewish-coalition.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-        "source": "New York Times Politics",
-        "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
+        "id": "https://www.washingtonpost.com/politics/2026/09/01/jury-lindsay-clancy-trial-is-deadlocked-will-continue-deliberations/",
+        "source": "Washington Post Politics",
+        "title": "Jury in Lindsay Clancy trial is deadlocked, will continue deliberations",
         "publicationDate": "2026-09-01",
-        "category": "Defense",
-        "summary": "The Defense Department’s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump’s oil deal.",
-        "url": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html"
+        "category": "Other",
+        "summary": "Jurors are in their fourth day of trying to reach a unanimous verdict. The judge has told them to continue trying.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/01/jury-lindsay-clancy-trial-is-deadlocked-will-continue-deliberations/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/01/house-vote-rep-chuck-edwards-censure-over-unprofessional-conduct-toward-female-staffers/",
+        "source": "Washington Post Politics",
+        "title": "House to vote on Rep. Chuck Edwards censure over ‘unprofessional conduct’ toward female staffers",
+        "publicationDate": "2026-09-01",
+        "category": "Other",
+        "summary": "Rep. Chuck Edwards will face a censure vote today.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/01/house-vote-rep-chuck-edwards-censure-over-unprofessional-conduct-toward-female-staffers/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/",
+        "source": "Washington Post Politics",
+        "title": "Thanks to Lake Ontario, MapQuest is popular all over again",
+        "publicationDate": "2026-09-01",
+        "category": "Other",
+        "summary": "As of Tuesday, the 30-year-old navigation tool was Apple’s No. 1 free app after the company rebuffed an executive order renaming the Great Lake.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/01/thanks-lake-ontario-mapquest-is-popular-all-over-again/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/01/trump-urges-congress-pass-tax-incentives-film-production/",
@@ -216,31 +297,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/01/vance-wades-into-caustic-michigan-senate-race-calling-candidate-evil/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/01/whistleblower-warns-usps-system-could-block-mail-ballots/",
-        "source": "Washington Post Politics",
-        "title": "Postal Service plans may keep voters from getting ballots, whistleblower says",
+        "id": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Germany says Russia behind Leipzig airport drone attack",
         "publicationDate": "2026-09-01",
-        "category": "Other",
-        "summary": "An anonymous federal official warns that a rushed USPS portal tied to Trump’s mail-voting order could reject large batches of ballots before the midterms.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/01/whistleblower-warns-usps-system-could-block-mail-ballots/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/01/why-candidate-leading-north-carolina-is-running-like-he-is-behind/",
-        "source": "Washington Post Politics",
-        "title": "Why a candidate leading in North Carolina is running like he is behind",
-        "publicationDate": "2026-09-01",
-        "category": "Other",
-        "summary": "Roy Cooper, a Democrat running for Senate who has won four statewide races in North Carolina over a nearly four-decade career, finds himself in an enviable position — at least on paper.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/01/why-candidate-leading-north-carolina-is-running-like-he-is-behind/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/01/lake-ontario-is-now-lake-america-residents-trump-voting-ontario-have-thoughts/",
-        "source": "Washington Post Politics",
-        "title": "In the Trump-voting town of Ontario, lake’s new name splits Republicans",
-        "publicationDate": "2026-09-01",
-        "category": "Other",
-        "summary": "Trump's order to rename Lake Ontario to Lake America has sparked both pride and objections among residents of Upstate New York.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/01/lake-ontario-is-now-lake-america-residents-trump-voting-ontario-have-thoughts/"
+        "category": "Foreign Policy",
+        "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
@@ -252,112 +315,85 @@
         "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+        "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
         "publicationDate": "2026-09-01",
         "category": "Other",
-        "summary": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss"
+        "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+        "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+        "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
         "publicationDate": "2026-09-01",
-        "category": "Foreign Policy",
-        "summary": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "The final minutes before floodwater crashed through Nepal-China border",
-        "publicationDate": "2026-09-01",
-        "category": "Foreign Policy",
-        "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
-        "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
-        "publicationDate": "2026-09-01",
-        "category": "Defense",
-        "summary": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
-        "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/bbbce2e1-6542-4806-9c26-d35e8c3b702e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Saudi and South Korean oil tankers hit in Strait of Hormuz",
+        "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
         "publicationDate": "2026-09-01",
         "category": "Other",
-        "summary": "The increase in shipping attacks comes after a period of relative calm in the war",
-        "url": "https://www.ft.com/content/bbbce2e1-6542-4806-9c26-d35e8c3b702e?syn-25a6b1a6=1"
+        "summary": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
+        "url": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/fa69076c-ca25-4d28-9815-1b1105b51c9c?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Far-right Restore Britain receives £500,000 from tech entrepreneur",
-        "publicationDate": "2026-09-01",
-        "category": "Other",
-        "summary": "Nativist upstart shows growing potential to peel voters off from Nigel Farage’s Reform UK",
-        "url": "https://www.ft.com/content/fa69076c-ca25-4d28-9815-1b1105b51c9c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b0bde505-2093-4d72-9f20-b1db23e08261?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Warsh clears up his own mess, but US credibility is still stretched",
-        "publicationDate": "2026-09-01",
-        "category": "Other",
-        "summary": "Many of the economic policy problems the Fed chair has to deal with stem from the administration",
-        "url": "https://www.ft.com/content/b0bde505-2093-4d72-9f20-b1db23e08261?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/61c9b686-2db7-4f24-80a0-8b75a144c7b6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Keir Starmer to stand down as MP",
-        "publicationDate": "2026-09-01",
-        "category": "Other",
-        "summary": "Decision by former prime minister will trigger by-election in his London seat, with Greens likely to challenge ruling Labour Party",
-        "url": "https://www.ft.com/content/61c9b686-2db7-4f24-80a0-8b75a144c7b6?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/99a48c12-cb13-47dd-8a31-fff9a157d7ea",
-        "source": "Financial Times World",
-        "title": "ECB to raise rates again amid higher Eurozone inflation",
+        "title": "Global bond sell-off deepens amid inflation fears",
         "publicationDate": "2026-09-01",
         "category": "Economy",
-        "summary": "The headline HICP rate rose again in August",
-        "url": "https://www.ft.com/content/99a48c12-cb13-47dd-8a31-fff9a157d7ea"
+        "summary": "UK borrowing costs rise to highest level since 2008 and Japanese yields hit peaks not seen since 1990s",
+        "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1"
     },
     {
-        "id": "IF12040",
-        "source": "Congressional Research Service",
-        "title": "U.S. Security Assistance to Ukraine Since 2022",
-        "publicationDate": "2026-08-31",
-        "category": "Defense",
-        "summary": "The United States has cooperated with European governments, the European Union (EU), NATO, and others to provide increased security assistance to Ukraine in response to Russia’s full-scale invasion of Ukraine starting in 2022. From February 2022 through June 2026, the United States committed more than $68.2 billion in defense articles and services to Ukraine, according to the Special Inspector General for Operation...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12040/IF12040.37.pdf"
-    },
-    {
-        "id": "R46574",
-        "source": "Congressional Research Service",
-        "title": "Appropriations Measures for Fiscal Years Coinciding with Lame Duck Sessions: 103rd Congress-118th Congress",
-        "publicationDate": "2026-08-31",
-        "category": "Other",
-        "summary": "Fifteen of the past 16 completed Congresses (103rd Congress-118th Congress) have concluded with post-election, or “lame duck,” sessions. Under contemporary conditions, any meeting of Congress that occurs between a congressional election in November and the beginning of the new Congress the following January is termed a lame duck session. The defining characteristic of a lame duck session is that its participants...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46574/R46574.8.pdf"
-    },
-    {
-        "id": "IN12733",
-        "source": "Congressional Research Service",
-        "title": "Immigration Enforcement Fines for Immigrants with Final Removal Orders",
-        "publicationDate": "2026-08-31",
+        "id": "https://www.ft.com/content/066b0d08-421b-46a1-8bf1-7698aec161d2?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Politics keeps European stocks in America’s shadow",
+        "publicationDate": "2026-09-01",
         "category": "Economy",
-        "summary": "According to a press release from the Department of Homeland Security (DHS), foreign nationals (aliens) who have been ordered removed from the United States and have not left the country have been issued fines, which in some cases reportedly total as much as $1.8 million per alien. Civil penalties for failure to depart were authorized in the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 but...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12733/IN12733.1.pdf"
+        "summary": "The bloc’s policymakers typically lean towards protecting consumers and taxpayers at the expense of investors",
+        "url": "https://www.ft.com/content/066b0d08-421b-46a1-8bf1-7698aec161d2?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1edf7290-1289-459f-9f72-2a7d7c3da381",
+        "source": "Financial Times World",
+        "title": "America can’t win the AI race if the rollout lacks public support",
+        "publicationDate": "2026-09-01",
+        "category": "Foreign Policy",
+        "summary": "The US will fall behind China if people believe the technology is something being done to them rather than built with them",
+        "url": "https://www.ft.com/content/1edf7290-1289-459f-9f72-2a7d7c3da381"
+    },
+    {
+        "id": "https://www.ft.com/content/5f643674-bf2b-48f1-bc3e-a7fe54820c99?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Action camera maker GoPro to be acquired after decade-long decline",
+        "publicationDate": "2026-09-01",
+        "category": "Other",
+        "summary": "Shares jump as much as 80% after announcement of $285mn cash deal with AI hardware group",
+        "url": "https://www.ft.com/content/5f643674-bf2b-48f1-bc3e-a7fe54820c99?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/74bf27e2-7f9c-445f-ba2e-9f7280425054?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Summer 2026 was the hottest since records began in 1884, Met Office says",
+        "publicationDate": "2026-09-01",
+        "category": "Other",
+        "summary": "Top five warmest seasons have all occurred since 2003 as human-caused climate change takes hold, UK scientists say",
+        "url": "https://www.ft.com/content/74bf27e2-7f9c-445f-ba2e-9f7280425054?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R49329",
+        "source": "Congressional Research Service",
+        "title": "State Actions to Lower Drug Prices: Selected Legal Issues",
+        "publicationDate": "2026-08-31",
+        "category": "Healthcare",
+        "summary": "As federal lawmakers engage in efforts to target high prescription drug prices, states have also taken actions intended to reduce drug prices and make drugs more affordable for consumers. States have enacted a variety of legislative measures, including some that restrict drug manufacturers from pricing their drugs at certain levels, and others that regulate the business practices of pharmacy benefit managers...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49329/R49329.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5137-1.html",
@@ -396,15 +432,6 @@
         "url": "https://www.cfr.org/articles/a-conversation-with-jennifer-klein-the-history-of-gender-policy-at-the-white-house-and-where-we-go-from-here"
     },
     {
-        "id": "https://www.cfr.org/articles/more-persecution-of-the-bahai-in-qatar",
-        "source": "Council on Foreign Relations",
-        "title": "More Persecution of the Baha’i in Qatar",
-        "publicationDate": "2026-08-31",
-        "category": "Economy",
-        "summary": "One might have thought that a Middle East war that has badly reduced Qatar’s natural gas exports and greatly harmed its economy would fully occupy the Qatari government. Not so; it has found time throughout 2026 to persecute the small and law-abiding Baha’i community. As I wrote here earlier this year, “In recent months there […]",
-        "url": "https://www.cfr.org/articles/more-persecution-of-the-bahai-in-qatar"
-    },
-    {
         "id": "https://www.hudson.org/foreign-policy/economic-pressure-political-future-iran-rebeccah-heinrichs",
         "source": "Hudson Institute",
         "title": "Economic Pressure and the Political Future of Iran",
@@ -439,15 +466,6 @@
         "category": "Defense",
         "summary": "Financially Strangling the Iranian Regime bbert@hudson.org Mon, 08/31/2026 - 12:05 SVG In the Media Aug 29, 2026 CNN Financially Strangling the Iranian Regime Ludovic Hood Senior Fellow, Center for Peace and Security in the Middle East Ludovic Hood In the Media Caption (Screenshot via CNN) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share...",
         "url": "https://www.hudson.org/foreign-policy/financially-strangling-iranian-regime-ludovic-hood"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/confronting-authoritarian-bloc-rebeccah-heinrichs",
-        "source": "Hudson Institute",
-        "title": "Confronting the Authoritarian Bloc",
-        "publicationDate": "2026-08-31",
-        "category": "Defense",
-        "summary": "Confronting the Authoritarian Bloc bbert@hudson.org Mon, 08/31/2026 - 11:45 SVG Podcast Aug 28, 2026 Brian Kilmeade Show Confronting the Authoritarian Bloc Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs Podcast Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn...",
-        "url": "https://www.hudson.org/foreign-policy/confronting-authoritarian-bloc-rebeccah-heinrichs"
     },
     {
         "id": "https://ecfr.eu/article/climate-of-concern-the-changing-face-of-social-movements-in-north-africa/",
@@ -502,42 +520,6 @@
         "category": "Defense",
         "summary": "For perspective on the latest developments in the war with Iran, Amna Nawaz spoke with retired U.S. Navy Rear Adm. Mark Montgomery and Michelle Wiese Bockmann, an analyst at Windward, a London-based maritime intelligence company.",
         "url": "https://www.pbs.org/newshour/show/what-the-latest-u-s-iran-strikes-mean-for-oil-supplies-and-maritime-safety"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges",
-        "source": "PBS NewsHour Politics",
-        "title": "News Wrap: Supreme Court allows Trump ballroom construction to continue amid challenges",
-        "publicationDate": "2026-08-31",
-        "category": "Other",
-        "summary": "In our news wrap Monday, the Supreme Court is allowing construction to continue on President Trump's White House ballroom project as legal challenges play out, the Metropolitan Museum of Art is canceling a planned Met Gala exhibit on British designer John Galliano following a backlash and soccer superstar Lionel Messi says he's retiring from Argentina's national team.",
-        "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-allows-trump-ballroom-construction-to-continue-amid-challenges"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil",
-        "source": "PBS NewsHour Politics",
-        "title": "Analyst breaks down challenges U.S. will face to unlock Venezuela's oil",
-        "publicationDate": "2026-08-31",
-        "category": "Donald Trump news",
-        "summary": "President Trump announced an unprecedented agreement in which the Pentagon would become an investor in a private company granted exclusive oil development rights in Venezuela. Nick Schifrin discussed the deal with Francisco Monaldi, director of the Latin America Energy Program for the Baker Institute at Rice University.",
-        "url": "https://www.pbs.org/newshour/show/analyst-breaks-down-challenges-u-s-will-face-to-unlock-venezuelas-oil"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence",
-        "source": "PBS NewsHour Politics",
-        "title": "Tamara Keith and Amy Walter on Trump's midterm influence",
-        "publicationDate": "2026-08-31",
-        "category": "Politics Monday",
-        "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Amna Nawaz to discuss the latest political news, including President Trump's popularity going into the midterms as some Republicans start to distance themselves, the Michigan Senate race and Democrats still debating their November message.",
-        "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-midterm-influence"
-    },
-    {
-        "id": "IF12888",
-        "source": "Congressional Research Service",
-        "title": "The Great American Outdoors Act (GAOA): Frequently Asked Questions",
-        "publicationDate": "2026-08-28",
-        "category": "Economy",
-        "summary": "What Is the Great American Outdoors Act (GAOA)? The Great American Outdoors Act (GAOA; P.L. 116-152) established in the U.S. Treasury a new fund—the National Parks and Public Land Legacy Restoration Fund (LRF)—with mandatory spending authority to address deferred maintenance (DM) needs of five federal agencies. These agencies are the Bureau of Indian Education (BIE), Bureau of Land Management (BLM), National Park...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12888/IF12888.5.pdf"
     },
     {
         "id": "https://www.heritage.org/american-history/commentary/remembering-911-when-youre-too-young-remember-it",
@@ -621,15 +603,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4704-1.html"
     },
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5025-1.html",
-        "source": "RAND Corporation",
-        "title": "Evaluating the Case for Solar Panel Recycling Mandates in the United States",
-        "publicationDate": "2026-08-25",
-        "category": "Other",
-        "summary": "The authors analyze major rationales for government intervention to increase recycling and whether a mandate to recycle end-of-life photovoltaic modules (i.e., solar panels) can be justified on environmental, national security, or economic grounds.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5025-1.html"
-    },
-    {
         "id": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis",
         "source": "Centre for European Reform",
         "title": "RTÉ Radio 1: EU meet on Ceuta migrant crisis",
@@ -673,5 +646,32 @@
         "category": "Foreign Policy",
         "summary": "Armida van Rij gave evidence to UK Parliament's Joint Committee on the National Security Strategy for its inquiry into deterrence in an age of Russian aggression. View the whole committee meeting here . Armida van Rij View multimedia 13 July 2026",
         "url": "https://www.cer.eu/media/national-security-strategy-joint-committee-deterrence-age-russian-aggression"
+    },
+    {
+        "id": "R47621",
+        "source": "Congressional Research Service",
+        "title": "The Universal Service Fund and Related FCC Broadband Programs: Overview and Considerations for Congress",
+        "publicationDate": "2026-01-21",
+        "category": "Foreign Policy",
+        "summary": "Universal service is the principle that all Americans should have access to communications services. It is the cornerstone of the Communications Act of 1934 (P.L. 73-416)—the law that established the Federal Communications Commission (FCC). The FCC is an independent federal agency charged with regulating interstate and international communications by radio, television, wire, satellite, and cable. Since the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47621/R47621.11.pdf"
+    },
+    {
+        "id": "R45699",
+        "source": "Congressional Research Service",
+        "title": "The Federal Communications Commission: Structure, Operations, and Budget",
+        "publicationDate": "2025-06-18",
+        "category": "Economy",
+        "summary": "The Federal Communications Commission (FCC) is an independent federal agency established by the Communications Act of 1934 (1934 Act, or “Communications Act”). The agency is charged with regulating interstate and international communications by radio, television, wire, satellite, and cable. The mission of the FCC is to make available for all people of the United States, “without discrimination on the basis of race,...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45699/R45699.21.pdf"
+    },
+    {
+        "id": "R48123",
+        "source": "Congressional Research Service",
+        "title": "U.S. Overseas Basing: Background and Issues for Congress",
+        "publicationDate": "2024-07-10",
+        "category": "Defense",
+        "summary": "Since World War II, the U.S. military has maintained a large network of overseas bases (that is, military facilities located outside the United States and its territories). Currently, the U.S. Department of Defense (DOD) manages or uses at least 128 overseas bases in at least 51 different countries. Policymakers cite a variety of strategic reasons for the maintenance of overseas bases, including Facilitating rapid...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48123/R48123.4.pdf"
     }
 ]
