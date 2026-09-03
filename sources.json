@@ -1,21 +1,39 @@
 [
     {
-        "id": "R49023",
+        "id": "RS22937",
         "source": "Congressional Research Service",
-        "title": "FY2027 Defense Budget: Funding for Selected Weapon Systems",
+        "title": "Nuclear Cooperation with Other Countries: A Primer",
         "publicationDate": "2026-09-03",
-        "category": "Defense",
-        "summary": "The second Trump Administration’s Department of Defense (DOD) budget request for FY2027 included $1.1 trillion in discretionary funding and $350.0 billion in mandatory funding. (DOD is “using a secondary Department of War designation,” under Executive Order 14347, dated September 5, 2025.) DOD requested $413.1 billion in procurement and $343.7 billion in research, development, test, and evaluation (RDT&E)...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49023/R49023.3.pdf"
+        "category": "Other",
+        "summary": "In order for the United States to engage in significant civilian nuclear cooperation with other states, it must conclude a framework agreement that meets specific requirements under Section 123 of the Atomic Energy Act (AEA). Significant nuclear cooperation includes the export of reactors, critical parts of reactors, and reactor fuel. The AEA also provides for export control licensing procedures and criteria for...",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS22937/RS22937.96.pdf"
     },
     {
-        "id": "LSB11170",
+        "id": "LSB11475",
         "source": "Congressional Research Service",
-        "title": "The Department of Justice Asks the Supreme Court to Review Constitutionality of Federal Prohibition on Felons Possessing Firearms",
+        "title": "State Marijuana Laws and the Dormant Commerce Clause",
+        "publicationDate": "2026-09-03",
+        "category": "Foreign Policy",
+        "summary": "Federal law classifies marijuana as a controlled substance under the federal Controlled Substances Act (CSA) and, thus, criminalizes many marijuana-related activities. Despite these federal prohibitions, a majority of U.S. states have adopted laws permitting certain types of marijuana sales and other marijuana-related activities. The state and local laws authorizing marijuana-related activities vary considerably....",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11475/LSB11475.1.pdf"
+    },
+    {
+        "id": "LSB11438",
+        "source": "Congressional Research Service",
+        "title": "Mandatory Detention During Removal Proceedings: Circuit Split",
+        "publicationDate": "2026-09-03",
+        "category": "Foreign Policy",
+        "summary": "The Department of Homeland Security (DHS) may arrest and detain aliens for immigration status violations that render them removable from the United States. While the agency generally has discretion to release aliens from custody during the pendency of their removal proceedings, some categories of aliens must be detained. Under 8 U.S.C. § 1225(b)(2)(A), if an immigration officer determines that an individual is an...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11438/LSB11438.3.pdf"
+    },
+    {
+        "id": "IF13276",
+        "source": "Congressional Research Service",
+        "title": "U.S. Marine Corps Ground Combat Element 2040 Initiative",
         "publicationDate": "2026-09-03",
         "category": "Defense",
-        "summary": "Federal appeals courts disagree as to whether the federal ban on individuals convicted of felonies from possessing firearms—located at 18 U.S.C. § 922(g)(1) and commonly known as the “felon-in-possession” prohibition—violates the Second Amendment. The Department of Justice (DOJ) has asked the Supreme Court to review a case on one side of divide: United States v. Hembree, in which the U.S. Court of Appeals for the...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11170/LSB11170.2.pdf"
+        "summary": "Introduction In March 2020, the U.S. Marine Corps announced a major force design initiative it referred to as “Force Design 2030,” now known as “Force Design.” As part of this 10-year initiative, the Marines planned to redesign the service to prioritize naval expeditionary warfare as part of U.S. military plans to strategically compete with China and Russia. Since 2020, the Marines have eliminated and reorganized...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13276/IF13276.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4996-1.html",
@@ -25,6 +43,15 @@
         "category": "Defense",
         "summary": "The author describes a formal model of artificial intelligence (AI) adoption and proliferation that focuses on the demand for AI capability.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4996-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-influence-operation-that-ran-on-borrowed-reputations",
+        "source": "Council on Foreign Relations",
+        "title": "The Influence Operation That Ran on Borrowed Reputations",
+        "publicationDate": "2026-09-03",
+        "category": "Defense",
+        "summary": "A Russia-linked operation used ChatGPT to build a credible-looking research institute, complete with papers, an index, and real experts—including ones at CFR—who never agreed to be listed. Its posts earned little reach, but the infrastructure it created, using artificial intelligence (AI), shows the advancement of tech-powered influence operations.",
+        "url": "https://www.cfr.org/articles/the-influence-operation-that-ran-on-borrowed-reputations"
     },
     {
         "id": "https://www.cfr.org/articles/far-right-afd-and-russian-hybrid-campaign-pose-twin-threat-to-germanys-merz",
@@ -72,6 +99,15 @@
         "url": "https://www.heritage.org/technology/commentary/china-working-against-us-data-centers"
     },
     {
+        "id": "https://cms.hoover.org/research/letting-go",
+        "source": "Hoover Institution",
+        "title": "Letting go",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "Why nations win or lose the technological race",
+        "url": "https://cms.hoover.org/research/letting-go"
+    },
+    {
         "id": "https://www.cer.eu/cer-fringe-events-liberal-democrat-labour-and-conservative-party-conferences-2026",
         "source": "Centre for European Reform",
         "title": "CER fringe events: Liberal Democrat, Labour and Conservative party conferences 2026",
@@ -79,6 +115,15 @@
         "category": "Other",
         "summary": "Description not available from the source feed.",
         "url": "https://www.cer.eu/cer-fringe-events-liberal-democrat-labour-and-conservative-party-conferences-2026"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+        "source": "NPR Politics",
+        "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's attempt to restrict mail-in voting for the midterm election.",
+        "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps"
     },
     {
         "id": "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
@@ -101,10 +146,10 @@
     {
         "id": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
         "source": "NPR Politics",
-        "title": "Fox News star Maria Bartiromo is out at the network",
+        "title": "Fox News abruptly parts ways with scandal-tarred star Maria Bartiromo",
         "publicationDate": "2026-09-03",
         "category": "Other",
-        "summary": "Fox News suddently announced it had cut ties with anchor Maria Bartiromo after more than a dozen years.",
+        "summary": "Fox News abruptly announced it had cut ties with anchor Maria Bartiromo after more than a dozen years.",
         "url": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news"
     },
     {
@@ -115,15 +160,6 @@
         "category": "Technology",
         "summary": "The lawmakers wrote that they share \"grave concern that time is running out … to assist state and local election officials in protecting our elections from cyber and mis-and disinformation threats.\"",
         "url": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
-        "source": "NPR Politics",
-        "title": "Inside the failed mission to eliminate FEMA",
-        "publicationDate": "2026-09-03",
-        "category": "Other",
-        "summary": "David Richardson worked to eliminate the country's top disaster agency when he led FEMA last year. Now, he says the administration has abandoned that goal.",
-        "url": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/democrats-promise-a-big-agenda-if-they-win-control-of-congress-but-their-unity-is-being-tested",
@@ -149,7 +185,7 @@
         "title": "WATCH: Vance holds White House briefing after Leavitt's departure",
         "publicationDate": "2026-09-03",
         "category": "Donald Trump news",
-        "summary": "President Donald Trump urged Republican lawmakers facing tough reelection campaigns to run on his record in the White House despite his sagging popularity, and he pledged to campaign in all of the roughly three dozen contests that are likely to determine control of Congress.",
+        "summary": "White House press secretary Karoline Leavitt has left the White House and President Donald Trump has yet to name a replacement. So Vice President JD Vance stepped in Thursday to brief the media.",
         "url": "https://www.pbs.org/newshour/politics/watch-live-vance-holds-white-house-briefing-after-leavitts-departure"
     },
     {
@@ -171,58 +207,85 @@
         "url": "https://www.pbs.org/newshour/politics/trump-promises-to-campaign-for-republicans-and-says-they-have-a-winning-midterm-message"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6069932-bipartisan-house-introduces-insulin-cap-legislation/",
+        "id": "https://thehill.com/newsletters/business-economy/6070375-trade-deficit-ticks-up/",
         "source": "The Hill",
-        "title": "Bipartisan insulin price cap introduced in House as lawmakers seek affordability win",
+        "title": "Trade deficit ticks up",
         "publicationDate": "2026-09-03",
-        "category": "Healthcare",
-        "summary": "Bipartisan House lawmakers, including two battleground Republicans, introduced legislation Thursday to ensure people with private health insurance don’t pay more than $35 a month for insulin. Lawmakers have discussed the idea of an insulin cap for years but haven’t been able to get legislation over the finish line, due to GOP resistance to government setting...",
-        "url": "https://thehill.com/policy/healthcare/6069932-bipartisan-house-introduces-insulin-cap-legislation/"
+        "category": "Economy",
+        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Trade deficit ticks up The U.S. trade deficit grew to $88.6 billion in July, rising to its highest level in more than a year, according to new data from the Commerce Department. © Mario Tama, Getty...",
+        "url": "https://thehill.com/newsletters/business-economy/6070375-trade-deficit-ticks-up/"
     },
     {
-        "id": "https://thehill.com/policy/defense/6069868-leon-panetta-hegseth-criticism-undermines-military/",
+        "id": "https://thehill.com/regulation/court-battles/6070230-lindsay-clancy-defense-juror-deadlock-blame/",
         "source": "The Hill",
-        "title": "Panetta says Hegseth is 'undermining the strength' of the US military",
+        "title": "Lindsay Clancy trial jurors excused again after defense blames one for deadlock",
         "publicationDate": "2026-09-03",
         "category": "Defense",
-        "summary": "Former Defense Secretary Leon Panetta blasted current Pentagon chief Pete Hegseth on Thursday for \"undermining the strength\" of the U.S. military. “I think the secretary is undermining the strength of our military, and particularly the Army, by creating the kind of turmoil in the command structure that he’s been creating,” Panetta told host Wolf Blitzer...",
-        "url": "https://thehill.com/policy/defense/6069868-leon-panetta-hegseth-criticism-undermines-military/"
+        "summary": "The jury in the Lindsay Clancy trial was sent home again Thursday afternoon after her defense attorney blamed one \"spurned\" juror for causing deliberations to extend into Friday, which would be their seventh consecutive day. Jurors appear to be split 11-1 and will return to court Friday morning for another day of discussions, seeking to...",
+        "url": "https://thehill.com/regulation/court-battles/6070230-lindsay-clancy-defense-juror-deadlock-blame/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6069864-vance-defends-tucker-carlson-friendship/",
+        "id": "https://thehill.com/homenews/campaign/6070220-jim-justice-considers-wv-governor-run/",
         "source": "The Hill",
-        "title": "Vance says he won't turn on 'friend' Carlson over Trump, Rogers criticism",
+        "title": "Jim Justice considering run for West Virginia governor",
+        "publicationDate": "2026-09-03",
+        "category": "Campaign",
+        "summary": "West Virginia Sen. Jim Justice (R) said Thursday he is considering a run at the governor’s mansion in 2028, after leaving it to join the upper chamber less than two years ago. During an appearance on MetroNews’s “Talkline” radio show, Justice said he was “100 percent” considering a primary challenge to incumbent West Virginia Gov....",
+        "url": "https://thehill.com/homenews/campaign/6070220-jim-justice-considers-wv-governor-run/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/technology/6070307-trump-takes-the-risk-on-data-centers/",
+        "source": "The Hill",
+        "title": "Trump takes the risk on data centers",
+        "publicationDate": "2026-09-03",
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story Trump, AI industry go on offensive to counter data center backlash President Trump and the AI industry are going on the offensive, attempting to bolster support for data centers as they contend with a groundswell of public opposition that has swept across party lines. © Manuel Balce Ceneta, Associated Press Trump has not shied away from embracing the controversial...",
+        "url": "https://thehill.com/newsletters/technology/6070307-trump-takes-the-risk-on-data-centers/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6070277-jd-vance-sept-11-memorial/",
+        "source": "The Hill",
+        "title": "Vance 'really looking forward to hanging out with Joe Biden' at 9/11 ceremony",
         "publicationDate": "2026-09-03",
         "category": "Administration",
-        "summary": "Vice President Vance defended his relationship with right-wing media personality Tucker Carlson during Thursday's White House press briefing, saying he won't allow political disagreements to ruin friendships. Carlson this past week has said President Trump should be removed from office for \"actively considering\" preemptive nuclear strikes, while also saying he wouldn't vote for former Rep....",
-        "url": "https://thehill.com/homenews/administration/6069864-vance-defends-tucker-carlson-friendship/"
+        "summary": "Vice President Vance on Thursday quipped he was “really looking forward” to seeing former President Biden at a New York City memorial service marking the 25th anniversary of the Sept. 11, 2001, terrorist attacks. “As you can probably guess, I’m really looking forward to hanging out with Joe Biden,” Vance said during a press briefing. ...",
+        "url": "https://thehill.com/homenews/administration/6070277-jd-vance-sept-11-memorial/"
     },
     {
-        "id": "https://thehill.com/policy/energy-environment/6069727-patagonia-joins-national-monuments-lawsuit/",
-        "source": "The Hill",
-        "title": "Patagonia joins lawsuit against Trump's Utah national monument reduction",
-        "publicationDate": "2026-09-03",
-        "category": "Defense",
-        "summary": "The outdoor retailer Patagonia on Wednesday joined a lawsuit against the Trump administration over its executive orders to shrink the sizes of the Bears Ears and Grand Staircase-Escalante national monuments in Utah. Patagonia joined a coalition of Native American groups, the Natural Resources Defense Council and other environmental groups to reopen two 2017 lawsuits against...",
-        "url": "https://thehill.com/policy/energy-environment/6069727-patagonia-joins-national-monuments-lawsuit/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/6069785-lindsay-clancy-trial/",
-        "source": "The Hill",
-        "title": "Could Lindsay Clancy walk free after a mistrial?",
-        "publicationDate": "2026-09-03",
-        "category": "State Watch",
-        "summary": "Legal experts say other options include offering Clancy a plea deal or deciding not to put her on trial again.",
-        "url": "https://thehill.com/homenews/state-watch/6069785-lindsay-clancy-trial/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html",
+        "id": "https://www.nytimes.com/2026/09/03/us/politics/trump-white-house-visitor-center-planning-commission.html",
         "source": "New York Times Politics",
-        "title": "Judge Suggests Trump Mail-In Voting Rules Could Cause ‘Major Disenfrachisement’",
+        "title": "Proposal for White House Visitor Screening Center Advances",
+        "publicationDate": "2026-09-03",
+        "category": "Building (Construction)",
+        "summary": "A federal panel again paved the way for one of President Trump’s construction projects, even as it heard opposition to another proposal to fence in a park north of the White House.",
+        "url": "https://www.nytimes.com/2026/09/03/us/politics/trump-white-house-visitor-center-planning-commission.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html",
+        "source": "New York Times Politics",
+        "title": "JD Vance Says He Wouldn’t Call Iran Conflict a War",
+        "publicationDate": "2026-09-03",
+        "category": "Foreign Policy",
+        "summary": "In the first White House press briefing since Karoline Leavitt left as press secretary, the vice president suggested that when the conflict would end was up to Tehran.",
+        "url": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html",
+        "source": "New York Times Politics",
+        "title": "Trump Administration Asks Supreme Court to Allow Mail Voting Limits",
+        "publicationDate": "2026-09-03",
+        "category": "United States Politics and Government",
+        "summary": "The justices have been asked to weigh in again on the Trump administration’s efforts to restrict mail voting — this time on whether the plans violate the Constitution.",
+        "url": "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
+    },
+    {
+        "id": "https://www.nytimes.com/live/2026/09/03/us/trump-news/mail-ballots-usps-restraining-order",
+        "source": "New York Times Politics",
+        "title": "A judge suggests that Trump mail-in voting rules could cause ‘major disenfranchisement.’",
         "publicationDate": "2026-09-03",
         "category": "Federal-State Relations (US)",
         "summary": "Judge Indira Talwani said the Postal Service appeared to be trying a haphazard “experiment” with a new rule that could result in valid ballots being tossed.",
-        "url": "https://www.nytimes.com/2026/09/03/us/politics/mail-ballots-usps-restraining-order.html"
+        "url": "https://www.nytimes.com/live/2026/09/03/us/trump-news/mail-ballots-usps-restraining-order"
     },
     {
         "id": "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html",
@@ -234,76 +297,49 @@
         "url": "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/03/us/politics/the-docket-senior-mail-ballot.html",
-        "source": "New York Times Politics",
-        "title": "Is Letting Only Seniors Vote by Mail Unconstitutional?",
-        "publicationDate": "2026-09-03",
-        "category": "Absentee Voting",
-        "summary": "Federal appeals courts have split on the question, making Supreme Court review likely.",
-        "url": "https://www.nytimes.com/2026/09/03/us/politics/the-docket-senior-mail-ballot.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
-        "source": "New York Times Politics",
-        "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
-        "publicationDate": "2026-09-03",
-        "category": "Economy",
-        "summary": "Christopher J. Waller, a Federal Reserve governor, sounded optimistic about inflation’s trajectory but indicated he would support higher rates if progress does not continue.",
-        "url": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
-        "source": "New York Times Politics",
-        "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
-        "publicationDate": "2026-09-03",
-        "category": "Steinem",
-        "summary": "She challenged sexist assumptions, helping women develop a sense of self-worth and gain a measure of equality at work, at home and in society at large.",
-        "url": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/03/gop-led-house-scraps-two-weeks-work-ahead-midterms/",
-        "source": "Washington Post Politics",
-        "title": "GOP-led House scraps two weeks of work ahead of midterms",
-        "publicationDate": "2026-09-03",
-        "category": "Other",
-        "summary": "The move gives candidates more time to sell themselves to voters. It means little, if any, legislation is likely to pass Congress before November.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/03/gop-led-house-scraps-two-weeks-work-ahead-midterms/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/03/what-watch-when-voting-midterms/",
-        "source": "Washington Post Politics",
-        "title": "What to watch for when voting in the midterms",
-        "publicationDate": "2026-09-03",
-        "category": "Other",
-        "summary": "The Justice Department plans to send 1,000 monitors to polls and voting by mail could be tricky if you don’t plan ahead.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/03/what-watch-when-voting-midterms/"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/09/03/ice-agent-charged-with-making-false-statements-minneapolis-shooting/",
         "source": "Washington Post Politics",
         "title": "ICE agent charged with lying to investigators in nonfatal Minneapolis shooting",
         "publicationDate": "2026-09-03",
         "category": "Other",
-        "summary": "The case is the first known instance of the Justice Department seeking to prosecute a federal immigration officer for their actions during the operation.",
+        "summary": "The case is the first known instance of the Justice Department seeking to prosecute a federal immigration officer for actions taken during the Minneapolis operation.",
         "url": "https://www.washingtonpost.com/national-security/2026/09/03/ice-agent-charged-with-making-false-statements-minneapolis-shooting/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/03/trumps-super-pac-has-not-spent-key-midterm-races-gop-fears-he-never-will/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/03/trump-backs-secret-service-push-fortify-white-house-complex/",
         "source": "Washington Post Politics",
-        "title": "Republicans fear Trump will keep super PAC money and not spend on the midterms",
+        "title": "Secret Service is getting the fortified White House that past presidents resisted",
         "publicationDate": "2026-09-03",
         "category": "Other",
-        "summary": "President Donald Trump has kept most of his super PAC money on the sidelines and been reticent on his spending plans, worrying Republicans ahead of this fall’s elections.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/03/trumps-super-pac-has-not-spent-key-midterm-races-gop-fears-he-never-will/"
+        "summary": "President Donald Trump has backed plans including permanently fencing Lafayette Square that were previously rejected to maintain public access to the “People’s House.”",
+        "url": "https://www.washingtonpost.com/politics/2026/09/03/trump-backs-secret-service-push-fortify-white-house-complex/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/03/epstein-client-leon-black-sues-oversight-committee-over-investigation/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/03/construction-trump-giant-arch-dc-begin-within-two-weeks/",
         "source": "Washington Post Politics",
-        "title": "Billionaire Leon Black ignores Epstein investigation subpoena, sues congressional committee",
+        "title": "Trump officials say work will start on triumphal arch within two weeks",
         "publicationDate": "2026-09-03",
         "category": "Other",
-        "summary": "Black was a client of Epstein’s; he’s sued the House Oversight Committee over its Epstein investigation after ignoring a subpoena.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/03/epstein-client-leon-black-sues-oversight-committee-over-investigation/"
+        "summary": "The planned 250-foot-tall structure near Arlington National Cemetery is one of the president’s top construction priorities.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/03/construction-trump-giant-arch-dc-begin-within-two-weeks/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/",
+        "source": "Washington Post Politics",
+        "title": "Trump administration asks Supreme Court to allow mail-in ballot restrictions",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "The question of whether President Donald Trump’s restrictions can move forward in time for November’s midterm elections has been the subject of a dizzying legal battle in recent weeks.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/03/connecticut-senator-urges-democrats-speak-up-about-fighting-corporate-power/",
+        "source": "Washington Post Politics",
+        "title": "Connecticut senator urges Democrats to speak up about fighting corporate power",
+        "publicationDate": "2026-09-03",
+        "category": "Economy",
+        "summary": "As Chris Murphy walks the length of his state for the 10th time, he warned that those in his party must tell voters how the economy benefits the ultrarich.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/03/connecticut-senator-urges-democrats-speak-up-about-fighting-corporate-power/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
@@ -351,58 +387,58 @@
         "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/35ac0ba7-9cce-4ee3-b5f2-cce744c9f97e?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/1fed215c-49a6-4ac2-91ee-221972e0a10a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Reform UK woos bond investors as markets shake UK political debate",
+        "title": "US charges ICE agent with lying about shooting of Venezuelan immigrant",
         "publicationDate": "2026-09-03",
         "category": "Other",
-        "summary": "Treasury spokesman Robert Jenrick tells annual conference that party will ‘index towards reassurance’",
+        "summary": "Officer charged with false statements over circumstances of shooting that fuelled uprising in Minnesota early this year",
+        "url": "https://www.ft.com/content/1fed215c-49a6-4ac2-91ee-221972e0a10a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/35ac0ba7-9cce-4ee3-b5f2-cce744c9f97e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Nigel Farage and Reform UK hit by illicit funding sting",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "Undercover investigation shows party leader meeting a fake US supporter",
         "url": "https://www.ft.com/content/35ac0ba7-9cce-4ee3-b5f2-cce744c9f97e?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/89d4575d-c0ca-4ac9-ba2c-5e6016244055?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/f86672dd-5ee5-46f6-8419-3c959814dd1c?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Nvidia’s $13bn deal cements its $5.5tn advantage",
+        "title": "Microsoft challenges data centre costs after pledging to protect ratepayers",
         "publicationDate": "2026-09-03",
         "category": "Other",
-        "summary": "It’s an investor, backer, supplier and guarantor for companies its Hugging Face acquisition potentially disrupts",
-        "url": "https://www.ft.com/content/89d4575d-c0ca-4ac9-ba2c-5e6016244055?syn-25a6b1a6=1"
+        "summary": "Tech giant appealed to Virginia Supreme Court over new rules requiring builders to fund transmission infrastructure upfront",
+        "url": "https://www.ft.com/content/f86672dd-5ee5-46f6-8419-3c959814dd1c?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/6d084723-4938-44be-970e-77358d86e96b?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "UAE billionaire’s son revealed as buyer of £190mn London mansion",
-        "publicationDate": "2026-09-03",
-        "category": "Other",
-        "summary": "Abbas Sajwani, son of the ‘Donald of Dubai’, set to make one of the UK’s most expensive purchases",
-        "url": "https://www.ft.com/content/6d084723-4938-44be-970e-77358d86e96b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Hugging Face attack is a wake-up call about the risks of AI",
-        "publicationDate": "2026-09-03",
-        "category": "Other",
-        "summary": "Agents involved in hack exhibited some alarming behaviours including suppressing ethical qualms",
-        "url": "https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/dc2f9b7f-6d14-4b15-8ce9-fe2cc86d81f6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Tory plan to fund defence risks rise in homelessness, say charities",
+        "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
         "publicationDate": "2026-09-03",
         "category": "Defense",
-        "summary": "Conservative leader Kemi Badenoch has promised billions in welfare cuts to pay for extra military spending if party wins general election",
-        "url": "https://www.ft.com/content/dc2f9b7f-6d14-4b15-8ce9-fe2cc86d81f6?syn-25a6b1a6=1"
+        "summary": "ChatGPT maker claims its ‘Astra’ could be considered ‘artificial general intelligence’",
+        "url": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1"
     },
     {
-        "id": "LSB11473",
+        "id": "https://www.ft.com/content/c5dadf10-7c7e-4035-ae21-e18535d7d609?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US oil deal sparks ‘anger’ in Venezuela, says opposition leader",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "María Corina Machado’s comments reflect widespread unease over agreement but stop short of criticising US President Donald Trump",
+        "url": "https://www.ft.com/content/c5dadf10-7c7e-4035-ae21-e18535d7d609?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R49334",
         "source": "Congressional Research Service",
-        "title": "Two Years After SEC v. Jarkesy: Overview of Selected Appellate Decisions",
+        "title": "Judicial and Administrative Developments in the Tax Treatment of Digital Assets",
         "publicationDate": "2026-09-02",
         "category": "Economy",
-        "summary": "In 2024, the Supreme Court decided Securities and Exchange Commission (SEC) v. Jarkesy. The Court held that the Seventh Amendment—which provides a right to jury trial in common law actions—prohibits the SEC from imposing civil penalties for securities fraud by way of a jury-less, in-house adjudication. Under Jarkesy, SEC instead must litigate such enforcement actions in Article III courts, where jury trials are...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11473/LSB11473.2.pdf"
+        "summary": "In 2021, Section 80603 of the Infrastructure Investment and Jobs Act (IIJA, Pub. L. No. 117-58) defined the term “digital asset” in the Internal Revenue Code (IRC) for tax purposes. Several years before the codified tax definition, however, the Internal Revenue Service (IRS) had begun issuing guidance on how cryptocurrency should be treated for tax purposes. The IRS treats digital assets as property, which means...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49334/R49334.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5093-1.html",
@@ -430,15 +466,6 @@
         "category": "Article",
         "summary": "Speculation abounds that the CIA director flew to Moscow to deliver a message to the Kremlin, but his real audience may have been elsewhere.",
         "url": "https://www.cfr.org/articles/making-sense-of-john-ratcliffes-trip-to-moscow"
-    },
-    {
-        "id": "https://www.cfr.org/articles/ai-needs-a-ten-commandments",
-        "source": "Council on Foreign Relations",
-        "title": "AI Needs a Ten Commandments",
-        "publicationDate": "2026-09-02",
-        "category": "Defense",
-        "summary": "As artiﬁcial intelligence (AI) becomes increasingly autonomous, we need a simple set of rules that everyone—not just technologists and lawyers—can understand.",
-        "url": "https://www.cfr.org/articles/ai-needs-a-ten-commandments"
     },
     {
         "id": "https://www.heritage.org/middle-east/commentary/trump-gives-every-nation-easy-choice-do-business-america-or-terrorist-iran",
@@ -529,24 +556,6 @@
         "category": "Other",
         "summary": "Historian Andrew Roberts joins Peter Robinson to defend Winston Churchill’s legacy and explore how great leaders, historical memory, and the lessons of the past can guide a troubled West.",
         "url": "https://cms.hoover.org/research/andrew-roberts-churchill-napoleon-and-men-who-change-history"
-    },
-    {
-        "id": "https://cms.hoover.org/research/august-2026-trumps-trade-wars-venezuela-and-unforgettable-vacation",
-        "source": "Hoover Institution",
-        "title": "August 2026: Trump’s Trade Wars, Venezuela, And An Unforgettable Vacation",
-        "publicationDate": "2026-09-02",
-        "category": "Other",
-        "summary": "Reflections from a month spent at home and abroad.",
-        "url": "https://cms.hoover.org/research/august-2026-trumps-trade-wars-venezuela-and-unforgettable-vacation"
-    },
-    {
-        "id": "IN12713",
-        "source": "Congressional Research Service",
-        "title": "Commission Without Commissioners: The U.S. Election Assistance Commission",
-        "publicationDate": "2026-09-01",
-        "category": "Technology",
-        "summary": "Commissioner Donald Palmer resigned from the U.S. Election Assistance Commission (EAC) on April 30, 2026. On July 9, the remaining three members of the four-person commission were effectively removed from their positions. According to media reports and interviews with some of the commissioners, Commissioners Thomas Hicks and Benjamin Hovland were notified of their dismissals via email from the Executive Office of...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12713/IN12713.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4333-1.html",
@@ -655,15 +664,6 @@
         "category": "Other",
         "summary": "Thank you for providing your feedback on the options for the CER's publications and podcast mailings. Your name: The amount of email I receive from the CER is: About right Too much If you have selected 'too much' above would you prefer to receive: A weekly newsletter with links to all content A monthly newsletter with links to all content Would you like to opt-out of receiving: Publications Podcasts Your email:...",
         "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
-    },
-    {
-        "id": "R49046",
-        "source": "Congressional Research Service",
-        "title": "Energy and Water Development and Related Agencies Appropriations: Funding History and Agency Descriptions",
-        "publicationDate": "2026-07-27",
-        "category": "Defense",
-        "summary": "The Energy and Water Development and Related Agencies appropriations (E&W) bill, typically enacted on an annual basis, funds civil works activities of the U.S. Army Corps of Engineers (USACE) in the Department of Defense; the Department of the Interior’s Bureau of Reclamation (Reclamation) and Central Utah Project (CUP); the Department of Energy (DOE); the Nuclear Regulatory Commission (NRC); the Appalachian...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49046/R49046.4.pdf"
     },
     {
         "id": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir",
