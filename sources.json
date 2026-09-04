@@ -1,39 +1,12 @@
 [
     {
-        "id": "RS22937",
-        "source": "Congressional Research Service",
-        "title": "Nuclear Cooperation with Other Countries: A Primer",
-        "publicationDate": "2026-09-03",
+        "id": "https://www.washingtonpost.com/politics/2026/09/03/court-throws-out-missouri-congressional-map-helping-democrats-keep-seat/",
+        "source": "Washington Post Politics",
+        "title": "Court throws out Missouri congressional map, helping Democrats keep seat",
+        "publicationDate": "2026-09-04",
         "category": "Other",
-        "summary": "In order for the United States to engage in significant civilian nuclear cooperation with other states, it must conclude a framework agreement that meets specific requirements under Section 123 of the Atomic Energy Act (AEA). Significant nuclear cooperation includes the export of reactors, critical parts of reactors, and reactor fuel. The AEA also provides for export control licensing procedures and criteria for...",
-        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS22937/RS22937.96.pdf"
-    },
-    {
-        "id": "LSB11475",
-        "source": "Congressional Research Service",
-        "title": "State Marijuana Laws and the Dormant Commerce Clause",
-        "publicationDate": "2026-09-03",
-        "category": "Foreign Policy",
-        "summary": "Federal law classifies marijuana as a controlled substance under the federal Controlled Substances Act (CSA) and, thus, criminalizes many marijuana-related activities. Despite these federal prohibitions, a majority of U.S. states have adopted laws permitting certain types of marijuana sales and other marijuana-related activities. The state and local laws authorizing marijuana-related activities vary considerably....",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11475/LSB11475.1.pdf"
-    },
-    {
-        "id": "LSB11438",
-        "source": "Congressional Research Service",
-        "title": "Mandatory Detention During Removal Proceedings: Circuit Split",
-        "publicationDate": "2026-09-03",
-        "category": "Foreign Policy",
-        "summary": "The Department of Homeland Security (DHS) may arrest and detain aliens for immigration status violations that render them removable from the United States. While the agency generally has discretion to release aliens from custody during the pendency of their removal proceedings, some categories of aliens must be detained. Under 8 U.S.C. § 1225(b)(2)(A), if an immigration officer determines that an individual is an...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11438/LSB11438.3.pdf"
-    },
-    {
-        "id": "IF13276",
-        "source": "Congressional Research Service",
-        "title": "U.S. Marine Corps Ground Combat Element 2040 Initiative",
-        "publicationDate": "2026-09-03",
-        "category": "Defense",
-        "summary": "Introduction In March 2020, the U.S. Marine Corps announced a major force design initiative it referred to as “Force Design 2030,” now known as “Force Design.” As part of this 10-year initiative, the Marines planned to redesign the service to prioritize naval expeditionary warfare as part of U.S. military plans to strategically compete with China and Russia. Since 2020, the Marines have eliminated and reorganized...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13276/IF13276.2.pdf"
+        "summary": "In addition, Maryland's high court cleared the way for voters to decide in November whether to back a plan to eliminate a GOP-held seat in 2028.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/03/court-throws-out-missouri-congressional-map-helping-democrats-keep-seat/"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4996-1.html",
@@ -43,6 +16,15 @@
         "category": "Defense",
         "summary": "The author describes a formal model of artificial intelligence (AI) adoption and proliferation that focuses on the demand for AI capability.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4996-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-u-s-corporate-tax-base-that-now-resides-in-ireland",
+        "source": "Council on Foreign Relations",
+        "title": "The U.S. Corporate Tax Base That Now Resides in Ireland",
+        "publicationDate": "2026-09-03",
+        "category": "Economy",
+        "summary": "America’s largest companies often pay more tax in Dublin than they do in D.C.",
+        "url": "https://www.cfr.org/articles/the-u-s-corporate-tax-base-that-now-resides-in-ireland"
     },
     {
         "id": "https://www.cfr.org/articles/the-influence-operation-that-ran-on-borrowed-reputations",
@@ -99,13 +81,49 @@
         "url": "https://www.heritage.org/technology/commentary/china-working-against-us-data-centers"
     },
     {
+        "id": "https://cms.hoover.org/research/how-freaked-out-should-you-be-about-trumps-plot-disrupt-mail-voting",
+        "source": "Hoover Institution",
+        "title": "How Freaked Out Should You Be About Trump’s Plot To Disrupt Mail Voting?",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "\"This is kind of a flawed political strategy wrapped in a rather vocally charged policy from the president,\" Ben Ginsberg, Hoover Institution fellow and a longtime GOP election attorney, told CNN.",
+        "url": "https://cms.hoover.org/research/how-freaked-out-should-you-be-about-trumps-plot-disrupt-mail-voting"
+    },
+    {
+        "id": "https://cms.hoover.org/research/taiwan-should-diversify-us-academic",
+        "source": "Hoover Institution",
+        "title": "Taiwan Should Diversify: US Academic",
+        "publicationDate": "2026-09-03",
+        "category": "Foreign Policy",
+        "summary": "Glenn D. Tiffert, distinguished research fellow and cochair of the Program on the US, China and the World at Stanford University’s Hoover Institution, made the remarks during a panel discussion on trusted supply chains at a forum hosted by the Research Institute for Democracy, Society and Emerging Technology (DSET) and SEMI in Taipei.",
+        "url": "https://cms.hoover.org/research/taiwan-should-diversify-us-academic"
+    },
+    {
+        "id": "https://cms.hoover.org/research/book-review-august-coup",
+        "source": "Hoover Institution",
+        "title": "Book Review: The August Coup",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "A new book by the capitalist academic and Hoover Institution fellow Robert Service covers the dramatic events in the Summer of 1991.",
+        "url": "https://cms.hoover.org/research/book-review-august-coup"
+    },
+    {
         "id": "https://cms.hoover.org/research/letting-go",
         "source": "Hoover Institution",
-        "title": "Letting go",
+        "title": "Letting Go",
         "publicationDate": "2026-09-03",
         "category": "Other",
         "summary": "Why nations win or lose the technological race",
         "url": "https://cms.hoover.org/research/letting-go"
+    },
+    {
+        "id": "https://cms.hoover.org/research/victor-davis-hanson-president-trump-has-completely-changed-america-better",
+        "source": "Hoover Institution",
+        "title": "Victor Davis Hanson: President Trump Has Completely Changed America For The Better",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Victor Davis Hanson says midterms are approaching, and anxiety is spreading among Republicans.",
+        "url": "https://cms.hoover.org/research/victor-davis-hanson-president-trump-has-completely-changed-america-better"
     },
     {
         "id": "https://www.cer.eu/cer-fringe-events-liberal-democrat-labour-and-conservative-party-conferences-2026",
@@ -115,6 +133,24 @@
         "category": "Other",
         "summary": "Description not available from the source feed.",
         "url": "https://www.cer.eu/cer-fringe-events-liberal-democrat-labour-and-conservative-party-conferences-2026"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit",
+        "source": "NPR Politics",
+        "title": "The Trump administration still aims to make state citizenship lists ahead of midterms",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "The Trump administration is taking the unprecedented step of creating lists of adult citizens who are eligible to vote in each state – but will not meet its own deadline 60 days before Election Day.",
+        "url": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit",
+        "source": "NPR Politics",
+        "title": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
+        "publicationDate": "2026-09-03",
+        "category": "Other",
+        "summary": "The billionaire investor is under two subpoenas from the House Oversight Committee. But in his lawsuit, Black says the panel doesn't have the authority to compel him to share nondisclosure agreements.",
+        "url": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit"
     },
     {
         "id": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
@@ -144,22 +180,22 @@
         "url": "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer"
     },
     {
-        "id": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
-        "source": "NPR Politics",
-        "title": "Fox News abruptly parts ways with scandal-tarred star Maria Bartiromo",
+        "id": "https://www.pbs.org/newshour/politics/trump-again-appeals-to-supreme-court-on-mail-voting-restrictions-as-midterms-loom",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump again appeals to Supreme Court on mail voting restrictions as midterms loom",
         "publicationDate": "2026-09-03",
-        "category": "Other",
-        "summary": "Fox News abruptly announced it had cut ties with anchor Maria Bartiromo after more than a dozen years.",
-        "url": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news"
+        "category": "Donald Trump news",
+        "summary": "The Trump administration on Thursday asked the Supreme Court to reject an order by a federal judge that halts it from implementing a new rule regulating mail ballots, hours after being unable to tell that judge whether the computer system that would govern the entire project was operational yet.",
+        "url": "https://www.pbs.org/newshour/politics/trump-again-appeals-to-supreme-court-on-mail-voting-restrictions-as-midterms-loom"
     },
     {
-        "id": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
-        "source": "NPR Politics",
-        "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+        "id": "https://www.pbs.org/newshour/politics/trump-appointees-advance-plans-for-lafayette-square-fencing-and-white-house-gates",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump appointees advance plans for Lafayette Square fencing and White House gates",
         "publicationDate": "2026-09-03",
-        "category": "Technology",
-        "summary": "The lawmakers wrote that they share \"grave concern that time is running out … to assist state and local election officials in protecting our elections from cyber and mis-and disinformation threats.\"",
-        "url": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats"
+        "category": "Donald Trump news",
+        "summary": "Pieces of President Donald Trump's wide-ranging Washington makeover made their next step toward approval Thursday, but not without substantial critiques of plans for permanent fencing and gates around Lafayette Square in front of the White House.",
+        "url": "https://www.pbs.org/newshour/politics/trump-appointees-advance-plans-for-lafayette-square-fencing-and-white-house-gates"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/democrats-promise-a-big-agenda-if-they-win-control-of-congress-but-their-unity-is-being-tested",
@@ -189,67 +225,67 @@
         "url": "https://www.pbs.org/newshour/politics/watch-live-vance-holds-white-house-briefing-after-leavitts-departure"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/federal-judge-considers-whether-to-extend-ban-against-u-s-postal-service-mail-voting-changes",
-        "source": "PBS NewsHour Politics",
-        "title": "Federal judge considers whether to extend ban against U.S. Postal Service mail voting changes",
-        "publicationDate": "2026-09-03",
-        "category": "Donald Trump news",
-        "summary": "U.S. District Court Judge Indira Talwani is deciding whether to extend her prohibition on the proposed regulation of mail ballots, an effort undertaken as part of an executive order by President Donald Trump.",
-        "url": "https://www.pbs.org/newshour/politics/federal-judge-considers-whether-to-extend-ban-against-u-s-postal-service-mail-voting-changes"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-promises-to-campaign-for-republicans-and-says-they-have-a-winning-midterm-message",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump promises to campaign for Republicans and says they have a winning midterm message",
-        "publicationDate": "2026-09-03",
-        "category": "Economy",
-        "summary": "Voters' dim views of the economy and the war in Iran have put Republicans in a tough spot as the midterm election season enters its final stretch.",
-        "url": "https://www.pbs.org/newshour/politics/trump-promises-to-campaign-for-republicans-and-says-they-have-a-winning-midterm-message"
-    },
-    {
-        "id": "https://thehill.com/newsletters/business-economy/6070375-trade-deficit-ticks-up/",
+        "id": "https://thehill.com/policy/transportation/6070614-auto-companies-congress-letter-chinese-car-ban/",
         "source": "The Hill",
-        "title": "Trade deficit ticks up",
+        "title": "Auto companies call for ban on Chinese-made cars",
         "publicationDate": "2026-09-03",
-        "category": "Economy",
-        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Trade deficit ticks up The U.S. trade deficit grew to $88.6 billion in July, rising to its highest level in more than a year, according to new data from the Commerce Department. © Mario Tama, Getty...",
-        "url": "https://thehill.com/newsletters/business-economy/6070375-trade-deficit-ticks-up/"
+        "category": "Foreign Policy",
+        "summary": "A group representing American automakers sent a letter Thursday to congressional leaders asking for a “permanent ban” on Chinese-made cars in the U.S. John Bozzella, the Alliance for Automotive Innovation's CEO and president, described in the letter China’s manufacturing industry as “rooted in a well-documented pattern of unfair trade, subsidies, intellectual property theft and surveillance.\"...",
+        "url": "https://thehill.com/policy/transportation/6070614-auto-companies-congress-letter-chinese-car-ban/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6070230-lindsay-clancy-defense-juror-deadlock-blame/",
+        "id": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/",
         "source": "The Hill",
-        "title": "Lindsay Clancy trial jurors excused again after defense blames one for deadlock",
-        "publicationDate": "2026-09-03",
-        "category": "Defense",
-        "summary": "The jury in the Lindsay Clancy trial was sent home again Thursday afternoon after her defense attorney blamed one \"spurned\" juror for causing deliberations to extend into Friday, which would be their seventh consecutive day. Jurors appear to be split 11-1 and will return to court Friday morning for another day of discussions, seeking to...",
-        "url": "https://thehill.com/regulation/court-battles/6070230-lindsay-clancy-defense-juror-deadlock-blame/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6070220-jim-justice-considers-wv-governor-run/",
-        "source": "The Hill",
-        "title": "Jim Justice considering run for West Virginia governor",
-        "publicationDate": "2026-09-03",
-        "category": "Campaign",
-        "summary": "West Virginia Sen. Jim Justice (R) said Thursday he is considering a run at the governor’s mansion in 2028, after leaving it to join the upper chamber less than two years ago. During an appearance on MetroNews’s “Talkline” radio show, Justice said he was “100 percent” considering a primary challenge to incumbent West Virginia Gov....",
-        "url": "https://thehill.com/homenews/campaign/6070220-jim-justice-considers-wv-governor-run/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/technology/6070307-trump-takes-the-risk-on-data-centers/",
-        "source": "The Hill",
-        "title": "Trump takes the risk on data centers",
-        "publicationDate": "2026-09-03",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story Trump, AI industry go on offensive to counter data center backlash President Trump and the AI industry are going on the offensive, attempting to bolster support for data centers as they contend with a groundswell of public opposition that has swept across party lines. © Manuel Balce Ceneta, Associated Press Trump has not shied away from embracing the controversial...",
-        "url": "https://thehill.com/newsletters/technology/6070307-trump-takes-the-risk-on-data-centers/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6070277-jd-vance-sept-11-memorial/",
-        "source": "The Hill",
-        "title": "Vance 'really looking forward to hanging out with Joe Biden' at 9/11 ceremony",
+        "title": "Trump administration warns agencies could stop helping Smithsonian",
         "publicationDate": "2026-09-03",
         "category": "Administration",
-        "summary": "Vice President Vance on Thursday quipped he was “really looking forward” to seeing former President Biden at a New York City memorial service marking the 25th anniversary of the Sept. 11, 2001, terrorist attacks. “As you can probably guess, I’m really looking forward to hanging out with Joe Biden,” Vance said during a press briefing. ...",
-        "url": "https://thehill.com/homenews/administration/6070277-jd-vance-sept-11-memorial/"
+        "summary": "The Trump administration is threatening to cut off federal agencies’ participation with the Smithsonian Institution, accusing its leaders of promoting a “culture of ideological activism\" — the latest move in an ongoing dispute surrounding the world’s largest museum complex's presentation of exhibits about the U.S. In a letter to Smithsonian leaders last Friday, Interior Secretary...",
+        "url": "https://thehill.com/homenews/administration/6070543-trump-administration-warns-agencies-could-stop-helping-smithsonian/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6070592-trump-adam-telle-army-secretary-announcement/",
+        "source": "The Hill",
+        "title": "Trump announces Telle as acting Army secretary following Driscoll's resignation",
+        "publicationDate": "2026-09-03",
+        "category": "Defense",
+        "summary": "President Trump announced Thursday evening that Adam Telle, the current assistant secretary of the Army for Civil Works, will be the acting Army secretary following this week’s resignation of Dan Driscoll. “He is a Great Patriot, who is respected by all,” the president wrote in a Truth Social post announcing Telle's appointment. As assistant secretary...",
+        "url": "https://thehill.com/homenews/administration/6070592-trump-adam-telle-army-secretary-announcement/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/healthcare/6070586-what-to-know-about-respiratory-vaccine-recommendations/",
+        "source": "The Hill",
+        "title": "What to know about respiratory vaccine recommendations",
+        "publicationDate": "2026-09-03",
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story What to know about respiratory vaccine recommendations Several medical groups have joined together to release 2026-2027 respiratory virus immunization recommendations, filling a void left by the relative silence from the Centers for Disease Control and Prevention. AP Photo/Juan Karita, File...",
+        "url": "https://thehill.com/newsletters/healthcare/6070586-what-to-know-about-respiratory-vaccine-recommendations/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/defense-national-security/6070569-vance-extremely-skeptical-of-iran-wedding-attack-reports/",
+        "source": "The Hill",
+        "title": "Vance 'extremely skeptical' of Iran wedding attack reports",
+        "publicationDate": "2026-09-03",
+        "category": "Defense",
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} View Online Defense &National Security Defense &National Security The Big Story Vance 'extremely skeptical' of Iran wedding attack reports Vice President Vance said on Thursday that he is “extremely skeptical” of the reports that a U.S. missile struck a home in southern Iran where people...",
+        "url": "https://thehill.com/newsletters/defense-national-security/6070569-vance-extremely-skeptical-of-iran-wedding-attack-reports/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html",
+        "source": "New York Times Politics",
+        "title": "Trump Taps Army Engineering Official as Acting Secretary",
+        "publicationDate": "2026-09-03",
+        "category": "Defense",
+        "summary": "The move came days after the resignation of Daniel P. Driscoll, who had clashed with Defense Secretary Pete Hegseth over the purge of top generals in the Army.",
+        "url": "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
+        "source": "New York Times Politics",
+        "title": "Trump to Break Ground on Arch Before Getting Approval",
+        "publicationDate": "2026-09-03",
+        "category": "United States Politics and Government",
+        "summary": "Doug Burgum, the interior secretary, announced plans to start work on the site of the 250-foot-tall triumphal arch. Final approval of the project is still pending.",
+        "url": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/03/us/politics/trump-white-house-visitor-center-planning-commission.html",
@@ -279,22 +315,13 @@
         "url": "https://www.nytimes.com/2026/09/03/us/politics/trump-supreme-court-mail-ballots.html"
     },
     {
-        "id": "https://www.nytimes.com/live/2026/09/03/us/trump-news/mail-ballots-usps-restraining-order",
-        "source": "New York Times Politics",
-        "title": "A judge suggests that Trump mail-in voting rules could cause ‘major disenfranchisement.’",
+        "id": "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/",
+        "source": "Washington Post Politics",
+        "title": "Trump administration asks Supreme Court to allow mail-in ballot restrictions",
         "publicationDate": "2026-09-03",
-        "category": "Federal-State Relations (US)",
-        "summary": "Judge Indira Talwani said the Postal Service appeared to be trying a haphazard “experiment” with a new rule that could result in valid ballots being tossed.",
-        "url": "https://www.nytimes.com/live/2026/09/03/us/trump-news/mail-ballots-usps-restraining-order"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html",
-        "source": "New York Times Politics",
-        "title": "Hillary Clinton, Meghan Markle, Lena Dunham and Others Pay Tribute to Gloria Steinem",
-        "publicationDate": "2026-09-03",
-        "category": "Steinem",
-        "summary": "After Ms. Steinem’s death at 92, celebrities and politicians reflected on her decades of activism for women’s rights and equality.",
-        "url": "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html"
+        "category": "Other",
+        "summary": "The question of whether President Donald Trump’s restrictions can move forward in time for November’s midterm elections has been the subject of a dizzying legal battle in recent weeks.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/09/03/ice-agent-charged-with-making-false-statements-minneapolis-shooting/",
@@ -324,22 +351,22 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/03/construction-trump-giant-arch-dc-begin-within-two-weeks/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/",
-        "source": "Washington Post Politics",
-        "title": "Trump administration asks Supreme Court to allow mail-in ballot restrictions",
+        "id": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
         "publicationDate": "2026-09-03",
-        "category": "Other",
-        "summary": "The question of whether President Donald Trump’s restrictions can move forward in time for November’s midterm elections has been the subject of a dizzying legal battle in recent weeks.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/03/trump-administration-asks-supreme-court-allow-mail-in-ballot-restrictions/"
+        "category": "Foreign Policy",
+        "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran.",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/03/connecticut-senator-urges-democrats-speak-up-about-fighting-corporate-power/",
-        "source": "Washington Post Politics",
-        "title": "Connecticut senator urges Democrats to speak up about fighting corporate power",
+        "id": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US investigating if missile hit Iran wedding, Vance says",
         "publicationDate": "2026-09-03",
-        "category": "Economy",
-        "summary": "As Chris Murphy walks the length of his state for the 10th time, he warned that those in his party must tell voters how the economy benefits the ultrarich.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/03/connecticut-senator-urges-democrats-speak-up-about-fighting-corporate-power/"
+        "category": "Foreign Policy",
+        "summary": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
@@ -351,13 +378,13 @@
         "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
         "publicationDate": "2026-09-03",
         "category": "Other",
-        "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
-        "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss"
+        "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
@@ -369,22 +396,13 @@
         "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-        "publicationDate": "2026-09-03",
-        "category": "Defense",
-        "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-        "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
+        "id": "https://www.ft.com/content/06c157ee-aa37-485c-9e5b-0f3045beb01e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "What are the latest claims against Nigel Farage?",
         "publicationDate": "2026-09-03",
         "category": "Other",
-        "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
-        "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss"
+        "summary": "A sting operation has abruptly overturned the Reform UK leader’s attempt to put financing scandals behind him",
+        "url": "https://www.ft.com/content/06c157ee-aa37-485c-9e5b-0f3045beb01e?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/1fed215c-49a6-4ac2-91ee-221972e0a10a?syn-25a6b1a6=1",
@@ -398,7 +416,7 @@
     {
         "id": "https://www.ft.com/content/35ac0ba7-9cce-4ee3-b5f2-cce744c9f97e?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Nigel Farage and Reform UK hit by illicit funding sting",
+        "title": "Nigel Farage and Reform UK hit by illicit-funding sting",
         "publicationDate": "2026-09-03",
         "category": "Other",
         "summary": "Undercover investigation shows party leader meeting a fake US supporter",
@@ -423,24 +441,6 @@
         "url": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/c5dadf10-7c7e-4035-ae21-e18535d7d609?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US oil deal sparks ‘anger’ in Venezuela, says opposition leader",
-        "publicationDate": "2026-09-03",
-        "category": "Other",
-        "summary": "María Corina Machado’s comments reflect widespread unease over agreement but stop short of criticising US President Donald Trump",
-        "url": "https://www.ft.com/content/c5dadf10-7c7e-4035-ae21-e18535d7d609?syn-25a6b1a6=1"
-    },
-    {
-        "id": "R49334",
-        "source": "Congressional Research Service",
-        "title": "Judicial and Administrative Developments in the Tax Treatment of Digital Assets",
-        "publicationDate": "2026-09-02",
-        "category": "Economy",
-        "summary": "In 2021, Section 80603 of the Infrastructure Investment and Jobs Act (IIJA, Pub. L. No. 117-58) defined the term “digital asset” in the Internal Revenue Code (IRC) for tax purposes. Several years before the codified tax definition, however, the Internal Revenue Service (IRS) had begun issuing guidance on how cryptocurrency should be treated for tax purposes. The IRS treats digital assets as property, which means...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49334/R49334.3.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5093-1.html",
         "source": "RAND Corporation",
         "title": "Operational reliance on AI in supply chains and emerging insurance risks",
@@ -457,15 +457,6 @@
         "category": "Foreign Policy",
         "summary": "We Discuss: Mentioned on the Episode: Vladimir Putin, with Nataliya Gevorkyan, Natalya Timakova, and Andrei Kolesnikov, First Person: An Astonishingly Frank Self-Portrait by Russia’s President Vladimir Putin, PublicAffairs Barak Ravid, “CIA Director Ratcliffe Floated Trump-Putin-Zelensky Summit During Moscow Visit, Sources Say,” Axios “Sanctioning Russia Act of 2025 (S.1241),” U.S. Congress",
         "url": "https://www.cfr.org/podcasts/presidents-inbox/the-cia-directors-not-so-secret-trip-to-moscow"
-    },
-    {
-        "id": "https://www.cfr.org/articles/making-sense-of-john-ratcliffes-trip-to-moscow",
-        "source": "Council on Foreign Relations",
-        "title": "Making Sense of John Ratcliffe’s Trip to Moscow",
-        "publicationDate": "2026-09-02",
-        "category": "Article",
-        "summary": "Speculation abounds that the CIA director flew to Moscow to deliver a message to the Kremlin, but his real audience may have been elsewhere.",
-        "url": "https://www.cfr.org/articles/making-sense-of-john-ratcliffes-trip-to-moscow"
     },
     {
         "id": "https://www.heritage.org/middle-east/commentary/trump-gives-every-nation-easy-choice-do-business-america-or-terrorist-iran",
@@ -520,42 +511,6 @@
         "category": "Defense",
         "summary": "Standoff in the Strait of Hormuz and Iran’s Economic Collapse bbert@hudson.org Wed, 09/02/2026 - 11:00 SVG In the Media Sep 2, 2026 Fox News Standoff in the Strait of Hormuz and Iran’s Economic Collapse Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox News) Toggle Table of Contents Contents Contents Share to Twitter Twitter...",
         "url": "https://www.hudson.org/foreign-policy/standoff-strait-hormuz-irans-economic-collapse-rebeccah-heinrichs"
-    },
-    {
-        "id": "https://cms.hoover.org/research/how-thomas-sowell-thankfully-made-me-contrarian-educator",
-        "source": "Hoover Institution",
-        "title": "How Thomas Sowell Thankfully Made Me A Contrarian Educator",
-        "publicationDate": "2026-09-02",
-        "category": "Other",
-        "summary": "Ian Rowe explains how Thomas Sowell’s uncompromising pursuit of truth inspires students to reject victimhood and become architects of their own lives.",
-        "url": "https://cms.hoover.org/research/how-thomas-sowell-thankfully-made-me-contrarian-educator"
-    },
-    {
-        "id": "https://cms.hoover.org/research/why-churchill-still-matters-andrew-roberts-great-men-history",
-        "source": "Hoover Institution",
-        "title": "Why Churchill Still Matters: Andrew Roberts On Great Men in History",
-        "publicationDate": "2026-09-02",
-        "category": "Other",
-        "summary": "Historian Andrew Roberts joins Peter Robinson to defend Winston Churchill’s legacy and explore how great leaders, historical memory, and the lessons of the past can guide a troubled West.",
-        "url": "https://cms.hoover.org/research/why-churchill-still-matters-andrew-roberts-great-men-history"
-    },
-    {
-        "id": "https://cms.hoover.org/plus/research/china-exporting-tools-dictatorship",
-        "source": "Hoover Institution",
-        "title": "China: Exporting the Tools of Dictatorship",
-        "publicationDate": "2026-09-02",
-        "category": "Foreign Policy",
-        "summary": "China’s digital exports are transforming the global balance of power. What began as telecom development has become an international architecture of surveillance empowering autocrats worldwide.",
-        "url": "https://cms.hoover.org/plus/research/china-exporting-tools-dictatorship"
-    },
-    {
-        "id": "https://cms.hoover.org/research/andrew-roberts-churchill-napoleon-and-men-who-change-history",
-        "source": "Hoover Institution",
-        "title": "Andrew Roberts On Churchill, Napoleon, And The Men Who Change History",
-        "publicationDate": "2026-09-02",
-        "category": "Other",
-        "summary": "Historian Andrew Roberts joins Peter Robinson to defend Winston Churchill’s legacy and explore how great leaders, historical memory, and the lessons of the past can guide a troubled West.",
-        "url": "https://cms.hoover.org/research/andrew-roberts-churchill-napoleon-and-men-who-change-history"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4333-1.html",
@@ -673,5 +628,50 @@
         "category": "Foreign Policy",
         "summary": "Ökonom Sander Tordoir warnt vor einem „China-Schock 2.0“: Chinas massive Subventionen, Überkapazitäten und Exportoffensive setzen zentrale deutsche Branchen wie Autoindustrie, Maschinenbau und Chemie zunehmend unter Druck. Im Gespräch mit Paul Ronzheimer erklärt er, warum Deutschland diesmal im Zentrum des wirtschaftlichen Schocks steht, Hunderttausende Industriearbeitsplätze gefährdet sein könnten – und warum...",
         "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
+    },
+    {
+        "id": "IF11731",
+        "source": "Congressional Research Service",
+        "title": "Aviation Security Measures and Domestic Terrorism Threats",
+        "publicationDate": "2021-01-15",
+        "category": "Defense",
+        "summary": "After the January 6, 2021, security breach of the United States Capitol, some Members of Congress have advocated restricting the air travel of individuals who may seek to incite or carry out further violence. The Federal Bureau of Investigation (FBI) is reportedly considering placing individuals who illegally entered the Capitol on the Transportation Security Administration (TSA) No-Fly List. This In Focus...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11731/IF11731.3.pdf"
+    },
+    {
+        "id": "R46610",
+        "source": "Congressional Research Service",
+        "title": "Reclamation of Coal Mining Operations: Select Issues and Legislation",
+        "publicationDate": "2020-11-17",
+        "category": "Healthcare",
+        "summary": "In the United States, coal mining operations supported economic growth and electrical power generation needs throughout the 20th century. Prior to the enactment of the Surface Mining Control and Reclamation Act (SMCRA) in 1977, no federal law had authorized reclamation requirements for coal mining operators to restore lands and waters affected by mining practices. Title V of SMCRA authorized a federal regulatory...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46610/R46610.2.pdf"
+    },
+    {
+        "id": "IF10778",
+        "source": "Congressional Research Service",
+        "title": "Overview of the Steam Electric Power Generator Effluent Limitation Guidelines and Standards",
+        "publicationDate": "2020-10-01",
+        "category": "Technology",
+        "summary": "Overview The Clean Water Act (CWA) directs the Environmental Protection Agency (EPA) to regulate the discharge of pollutants into waters of the United States. Such discharges are prohibited without a permit. Thus, industrial dischargers and others must obtain permits from states or EPA that set limits on pollutants in their effluent. To guide the limits set in permits for industrial dischargers, EPA issues Effluent...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10778/IF10778.5.pdf"
+    },
+    {
+        "id": "R46483",
+        "source": "Congressional Research Service",
+        "title": "Addressing COVID-19 Pandemic Impacts on Civil Aviation Operations",
+        "publicationDate": "2020-08-17",
+        "category": "Economy",
+        "summary": "The COVID-19 pandemic has had a large impact on civil aviation, particularly commercial passenger airline operations. The combination of travel restrictions; state and local mandates to stay at home, shelter-in-place, and self-quarantine after travel from certain areas; and public concerns over the risk of contracting COVID-19 from travel-related activities has resulted in a significant decrease in air travel...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46483/R46483.2.pdf"
+    },
+    {
+        "id": "R45656",
+        "source": "Congressional Research Service",
+        "title": "America’s Water Infrastructure Act of 2018 (P.L. 115-270): Drinking Water Provisions",
+        "publicationDate": "2019-03-28",
+        "category": "Defense",
+        "summary": "Congress has long deliberated on the condition of drinking water infrastructure and drinking water quality as well as the financial and technical challenges some public water systems face in ensuring the delivery of safe and adequate water supplies. Several events and circumstances—including source water contamination incidents; water infrastructure damage from natural disasters, such as hurricanes; detection of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45656/R45656.5.pdf"
     }
 ]
