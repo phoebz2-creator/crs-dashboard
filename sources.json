@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://thehill.com/homenews/6072728-judge-declines-stars-and-stripes-firing-halt/",
+        "source": "The Hill",
+        "title": "Federal judge declines to halt firings of Stars and Stripes staffers",
+        "publicationDate": "2026-09-05",
+        "category": "News",
+        "summary": "A federal judge on Friday declined to stop the Pentagon's termination of three Stars and Stripes staffers for alleged insubordination, ruling they were not likely to succeed in their claims that the firings violated the First Amendment. Judge Trevor McFadden issued the decision hours after a hearing that focused on whether two of the employees...",
+        "url": "https://thehill.com/homenews/6072728-judge-declines-stars-and-stripes-firing-halt/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
+        "source": "New York Times Politics",
+        "title": "Pentagon Subjects Roughly 50 Members of the Joint Staff to Polygraph Tests in Expanded Leak Hunt",
+        "publicationDate": "2026-09-05",
+        "category": "Defense",
+        "summary": "The aggressive effort comes in the wake of news reports about the military’s diminished stocks of crucial munitions as the U.S. fights Iran.",
+        "url": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
+    },
+    {
+        "id": "R49338",
+        "source": "Congressional Research Service",
+        "title": "Air Force Fighter Force Structure: Background and Issues for Congress",
+        "publicationDate": "2026-09-04",
+        "category": "Defense",
+        "summary": "Since the U.S. Air Force’s establishment in the National Security Act of 1947 (P.L. 80-253, Title II, §207), Congress has provided oversight of the size and composition of Air Force aircraft fleet. The service’s aircraft fleet includes tactical fighter aircraft for various missions, including air-to-air combat, air-to-ground attack, air interdiction, suppression or destruction of enemy air defenses, close air...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49338/R49338.1.pdf"
+    },
+    {
         "id": "https://www.cfr.org/articles/horse-wrestling-and-hegemony-why-central-asias-nomad-games-matter-this-year",
         "source": "Council on Foreign Relations",
         "title": "Horse Wrestling and Hegemony: Why Central Asia’s Nomad Games Matter This Year",
@@ -180,49 +207,76 @@
         "url": "https://www.npr.org/2026/09/04/nx-s1-5955592/wesleyan-president-trump-tax-exempt-race-programs"
     },
     {
-        "id": "https://www.pbs.org/newshour/education/trump-administration-scrubs-gender-based-bullying-data-from-school-civil-rights-survey",
+        "id": "https://www.pbs.org/newshour/politics/federal-judge-extends-block-on-trump-order-seeking-to-limit-mail-voting-in-the-midterms",
         "source": "PBS NewsHour Politics",
-        "title": "Trump administration scrubs gender-based bullying data from school civil rights survey",
+        "title": "Federal judge extends block on Trump order seeking to limit mail voting in the midterms",
         "publicationDate": "2026-09-04",
-        "category": "bullying",
-        "summary": "The Trump administration this week quietly released an update to a major survey on civil rights in schools that was scrubbed of all data related to nonbinary students or bullying based on gender identity.",
-        "url": "https://www.pbs.org/newshour/education/trump-administration-scrubs-gender-based-bullying-data-from-school-civil-rights-survey"
+        "category": "Donald Trump news",
+        "summary": "A federal judge on Friday extended her prohibition against the U.S. Postal Service implementing President Donald Trump's executive order seeking to limit mail voting during the midterms, putting another major obstacle in the way of the administration as the first states begin sending out mail ballots.",
+        "url": "https://www.pbs.org/newshour/politics/federal-judge-extends-block-on-trump-order-seeking-to-limit-mail-voting-in-the-midterms"
     },
     {
-        "id": "https://www.pbs.org/newshour/nation/ice-officer-pleads-not-guilty-to-lying-about-shooting-and-is-ordered-released-from-custody",
+        "id": "https://www.pbs.org/newshour/show/why-the-u-s-job-market-remains-resilient-in-face-of-global-pressures-and-inflation",
         "source": "PBS NewsHour Politics",
-        "title": "ICE officer pleads not guilty to lying about shooting and is ordered released from custody",
-        "publicationDate": "2026-09-04",
-        "category": "immigration enforcement",
-        "summary": "A U.S. Immigration and Customs Enforcement officer was ordered released from federal custody Friday after pleading not guilty to lying to investigators about the circumstances that led to the shooting of a Venezuelan man during the Minnesota immigration crackdown last winter.",
-        "url": "https://www.pbs.org/newshour/nation/ice-officer-pleads-not-guilty-to-lying-about-shooting-and-is-ordered-released-from-custody"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/world/watch-trump-calls-iran-war-small-potatoes-and-very-intermittent",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump calls Iran war 'small potatoes' and 'very intermittent'",
-        "publicationDate": "2026-09-04",
-        "category": "Defense",
-        "summary": "President Donald Trump said Friday that he calls the Iran war a \"military conflict\" because he thinks it's \"small potatoes\" for the United States.",
-        "url": "https://www.pbs.org/newshour/world/watch-trump-calls-iran-war-small-potatoes-and-very-intermittent"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/economy/trump-says-skilled-foreign-workers-take-jobs-away-from-americans-its-not-that-simple-experts-say",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump says skilled foreign workers take jobs away from Americans. It's not that simple, experts say",
+        "title": "Why the U.S. job market remains resilient in face of global pressures and inflation",
         "publicationDate": "2026-09-04",
         "category": "Economy",
-        "summary": "Economists have studied the impacts H-1B employees have within individual companies and at the local labor market level and reached similar conclusions about foreign workers' impacts on American jobs.",
-        "url": "https://www.pbs.org/newshour/economy/trump-says-skilled-foreign-workers-take-jobs-away-from-americans-its-not-that-simple-experts-say"
+        "summary": "The job market delivered a surprising rebound in August, adding 162,000 jobs, far more than economists had expected. The unemployment rate held steady at 4.1%, and the Labor Department revised July numbers upward. The stronger-than-expected report comes as the Federal Reserve is set to weigh interest rates. Geoff Bennett discussed more with Roben Farzad, host of \"Full Disclosure.\"",
+        "url": "https://www.pbs.org/newshour/show/why-the-u-s-job-market-remains-resilient-in-face-of-global-pressures-and-inflation"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/epa-seeks-more-public-comments-as-it-struggles-to-devise-water-rule-that-limits-scope-on-wetlands",
+        "id": "https://www.pbs.org/newshour/show/whats-next-for-lindsay-clancy-after-a-mistrial-in-her-murder-case",
         "source": "PBS NewsHour Politics",
-        "title": "EPA seeks more public comments as it struggles to devise water rule that limits scope on wetlands",
+        "title": "What's next for Lindsay Clancy after a mistrial in her murder case",
         "publicationDate": "2026-09-04",
-        "category": "clean water",
-        "summary": "The request, announced Friday, comes nearly a year after the agency proposed a rule defining \"waters of the United States,\" or WOTUS, based on a 2023 Supreme Court ruling that removed federal protections for vast areas.",
-        "url": "https://www.pbs.org/newshour/politics/epa-seeks-more-public-comments-as-it-struggles-to-devise-water-rule-that-limits-scope-on-wetlands"
+        "category": "Lindsay Clancy",
+        "summary": "After five weeks of testimony and seven days of deliberation, the trial of Lindsay Clancy, who's charged with killing her three children, ended in a mistrial after the jury deadlocked. Clancy's lawyers argued she was experiencing postpartum psychosis and should not be held criminally responsible. Prosecutors said she planned the killings ahead of time. Ali Rogin discussed more with Brad Bailey.",
+        "url": "https://www.pbs.org/newshour/show/whats-next-for-lindsay-clancy-after-a-mistrial-in-her-murder-case"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/news-wrap-2-men-rescued-from-nepal-tunnel-9-days-after-catastrophic-flood",
+        "source": "PBS NewsHour Politics",
+        "title": "News Wrap: 2 men rescued from Nepal tunnel 9 days after catastrophic flood",
+        "publicationDate": "2026-09-04",
+        "category": "Foreign Policy",
+        "summary": "In our news wrap Friday, two men were pulled from a tunnel more than a week after the catastrophic deluge that barreled through Himalayan river valleys, Ukraine's president says a Russian drone struck the headquarters of the country's security service and New York police fatally shot a man wielding a knife on the city's iconic Brooklyn Bridge.",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-2-men-rescued-from-nepal-tunnel-9-days-after-catastrophic-flood"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-administration-stalled-a-survey-of-pfas-in-wastewater-former-epa-officials-say",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump administration stalled a survey of PFAS in wastewater, former EPA officials say",
+        "publicationDate": "2026-09-04",
+        "category": "Donald Trump news",
+        "summary": "The Trump administration has stalled a study that would help regulators understand which industries dump harmful forever chemicals with their wastewater, according to two former agency officials who were involved in its development.",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-stalled-a-survey-of-pfas-in-wastewater-former-epa-officials-say"
+    },
+    {
+        "id": "https://thehill.com/newsletters/technology/6072688-how-are-ai-chatbots-answering-voting-questions/",
+        "source": "The Hill",
+        "title": "How are AI chatbots answering voting questions?",
+        "publicationDate": "2026-09-04",
+        "category": "Defense",
+        "summary": "{beacon} Technology Technology The Big Story Nearly a third of AI chatbot replies to voting questions inaccurate, outdated: study Artificial intelligence chatbots are becoming a source for voters to ask questions about upcoming elections, but a new study determined nearly a third of AI-generated replies could be inaccurate or outdated. AP Photo/Matt Rourke, File...",
+        "url": "https://thehill.com/newsletters/technology/6072688-how-are-ai-chatbots-answering-voting-questions/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/energy-environment/6072675-trump-considers-narrowing-water-pollution-protections/",
+        "source": "The Hill",
+        "title": "Trump considers narrowing water pollution protections",
+        "publicationDate": "2026-09-04",
+        "category": "Defense",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump considers narrowing water pollution protections The Trump administration on Friday said it will consider further narrowing protections for streams and wetlands under the Clean Water Act © Mike Catalini, Associated Press The Environmental Protection Agency (EPA) and Army Corps of Engineers issued a...",
+        "url": "https://thehill.com/newsletters/energy-environment/6072675-trump-considers-narrowing-water-pollution-protections/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6072673-matt-bevin-sentenced-jail-contempt/",
+        "source": "The Hill",
+        "title": "Judge denies bail, orders jail time for ex-Kentucky Gov. Matt Bevin",
+        "publicationDate": "2026-09-04",
+        "category": "State Watch",
+        "summary": "A judge on Friday ordered former Kentucky Gov. Matt Bevin (R) to serve 60 days in jail without bond after he was arrested on an outstanding warrant in a child support case involving his estranged wife. “He has over and over again demonstrated a complete disregard and utter disrespect for this court,” Judge Angela Johnson...",
+        "url": "https://thehill.com/homenews/state-watch/6072673-matt-bevin-sentenced-jail-contempt/"
     },
     {
         "id": "https://thehill.com/newsletters/healthcare/6072630-pennsylvania-infants-death-confirmed-to-have-been-caused-by-measles/",
@@ -234,85 +288,40 @@
         "url": "https://thehill.com/newsletters/healthcare/6072630-pennsylvania-infants-death-confirmed-to-have-been-caused-by-measles/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6072553-paul-ryan-blasts-politics-unserious/",
-        "source": "The Hill",
-        "title": "Paul Ryan: Current state of politics 'fundamentally unserious'",
-        "publicationDate": "2026-09-04",
-        "category": "Economy",
-        "summary": "Former House Speaker Paul Ryan (R-Wis.) blasted the current state of American politics, arguing that both parties have focused on embracing populism rather than serious efforts to rein in the national debt. “Our politics are just fundamentally unserious right now, and they used to be better,” Ryan said Thursday during an appearance on CNBC’s “Squawk...",
-        "url": "https://thehill.com/homenews/house/6072553-paul-ryan-blasts-politics-unserious/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/business-economy/6072471-us-economy-adds-162000-jobs-in-august/",
-        "source": "The Hill",
-        "title": "US economy adds 162,000 jobs in August",
-        "publicationDate": "2026-09-04",
-        "category": "Economy",
-        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story August jobs report beats expectations The U.S. economy added 162,000 jobs in August, soaring past expectations and raising the prospect that the Federal Reserve could hike interest rates next month. AP Photo/Nam Y. Huh The unemployment...",
-        "url": "https://thehill.com/newsletters/business-economy/6072471-us-economy-adds-162000-jobs-in-august/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6072371-trump-lindsay-clancy-trial-comments-mistrial/",
-        "source": "The Hill",
-        "title": "Trump offers first comments on Lindsay Clancy case",
-        "publicationDate": "2026-09-04",
-        "category": "Administration",
-        "summary": "President Trump responded Friday to a judge’s decision to declare a mistrial in the Lindsay Clancy murder trial, weighing in for the first time on the legal battle that has captured national attention. “It’s a shame. It’s a horrible tragedy,” the president said when asked about Clancy's case during an executive order signing ceremony in...",
-        "url": "https://thehill.com/homenews/administration/6072371-trump-lindsay-clancy-trial-comments-mistrial/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/6072305-missouri-redistricting-latest-news/",
-        "source": "The Hill",
-        "title": "What to know about latest Missouri redistricting ruling",
-        "publicationDate": "2026-09-04",
-        "category": "State Watch",
-        "summary": "The Missouri Supreme Court delivered a last-minute twist in the midterm redistricting saga this week when the predominantly Republican governor-appointed court ruled that new maps passed by state lawmakers to give their party an extra seat couldn’t immediately go into effect. Instead, the high court said, the coalition looking to temporarily stall the new GOP-favored...",
-        "url": "https://thehill.com/homenews/state-watch/6072305-missouri-redistricting-latest-news/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/04/us/politics/cdc-measles-deaths.html",
+        "id": "https://www.nytimes.com/2026/09/04/us/politics/stars-and-stripes-journalists-fired.html",
         "source": "New York Times Politics",
-        "title": "C.D.C. Says No Deaths This Year Attributed to Measles",
+        "title": "Judge Will Not Block Pentagon Move to Fire Stars and Stripes Journalists",
         "publicationDate": "2026-09-04",
-        "category": "Deaths (Fatalities)",
-        "summary": "The agency’s weekly update escalates a political fight after Pennsylvania said two deaths had been caused by the virus.",
-        "url": "https://www.nytimes.com/2026/09/04/us/politics/cdc-measles-deaths.html"
+        "category": "Defense",
+        "summary": "A judge appeared skeptical of the journalists’ arguments that they were fired for coverage of worsening conditions on a Navy warship.",
+        "url": "https://www.nytimes.com/2026/09/04/us/politics/stars-and-stripes-journalists-fired.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html",
+        "id": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html",
         "source": "New York Times Politics",
-        "title": "Judge Once Again Blocks Mail-In Ballot Rules",
+        "title": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
         "publicationDate": "2026-09-04",
-        "category": "Decisions and Verdicts",
-        "summary": "The ruling arrived before the Supreme Court could decide whether to intervene but appeared certain to set off yet another round of appeals.",
-        "url": "https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html"
+        "category": "Whistle-Blowers",
+        "summary": "The Trump administration’s effort to screen mail-in ballots for the midterms is facing numerous challenges.",
+        "url": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/04/us/politics/trump-campaign-funds.html",
+        "id": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-adds-new-restrictions-to-vote-by-mail-program.html",
         "source": "New York Times Politics",
-        "title": "Trump Says He Will Spend Some of His War Chest on Republicans",
+        "title": "North Carolina Adds New Restrictions to Vote-by-Mail Program",
         "publicationDate": "2026-09-04",
-        "category": "United States Politics and Government",
-        "summary": "President Trump said he intends to hold some money back, even as Republican candidates ask for financial support.",
-        "url": "https://www.nytimes.com/2026/09/04/us/politics/trump-campaign-funds.html"
+        "category": "Voting and Voters",
+        "summary": "The changes are almost certain to cause some votes to be tossed. They come at a time when President Trump is promoting false claims of widespread fraud in mail voting.",
+        "url": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-adds-new-restrictions-to-vote-by-mail-program.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/04/us/politics/white-house-tetris-clone.html",
+        "id": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html",
         "source": "New York Times Politics",
-        "title": "The Tetris Company Denounces Trump White House Clone of Tetris",
+        "title": "Trump’s Latest Clemency Grants Benefit Drug Offenders, Union Boss",
         "publicationDate": "2026-09-04",
-        "category": "Computer and Video Games",
-        "summary": "Responding to Build the Wall, an apparent copy of the retro video game, the Tetris Company said “we take copyright infringement very seriously.”",
-        "url": "https://www.nytimes.com/2026/09/04/us/politics/white-house-tetris-clone.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/04/arts/design/trump-administration-kehinde-wiley-embassy-lesbian-picnic.html",
-        "source": "New York Times Politics",
-        "title": "Ambassador Who Removed Kehinde Wiley Work Described It as a Lesbian Picnic",
-        "publicationDate": "2026-09-04",
-        "category": "Art",
-        "summary": "Trump officials recently removed a painting from the U.S. Embassy in the Dominican Republic without explaining why. An interview by Ambassador Leah Campos shed some light.",
-        "url": "https://www.nytimes.com/2026/09/04/arts/design/trump-administration-kehinde-wiley-embassy-lesbian-picnic.html"
+        "category": "Healthcare",
+        "summary": "The president issued pardons or commutations to 30 people on Thursday, continuing his unorthodox and unpredictable use of clemency power.",
+        "url": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/",
@@ -360,6 +369,15 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/04/first-lady-melania-trump-will-not-attend-republican-midterm-convention/"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+        "publicationDate": "2026-09-04",
+        "category": "Other",
+        "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+        "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -378,13 +396,13 @@
         "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+        "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
         "publicationDate": "2026-09-04",
         "category": "Other",
-        "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
-        "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss"
+        "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
@@ -396,13 +414,13 @@
         "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+        "id": "https://www.ft.com/content/298476d0-c280-4804-bcb1-14192f06c1e1?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Reform in hot water … again",
         "publicationDate": "2026-09-04",
         "category": "Other",
-        "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-        "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss"
+        "summary": "Plus, the FT sits down with chancellor John Healey",
+        "url": "https://www.ft.com/content/298476d0-c280-4804-bcb1-14192f06c1e1?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/e2524b81-a089-4022-869c-1fa54da24285?syn-25a6b1a6=1",
@@ -428,7 +446,7 @@
         "title": "Maga’s favourite combat sport takes off in China",
         "publicationDate": "2026-09-04",
         "category": "Foreign Policy",
-        "summary": "The Las Vegas-headquartered UFC now has 20 Chinese fighters on its roster",
+        "summary": "The Las Vegas-based UFC now has 20 Chinese fighters on its roster",
         "url": "https://www.ft.com/content/966cbb76-93a1-4215-a610-cea5709f3d6a?syn-25a6b1a6=1"
     },
     {
@@ -439,15 +457,6 @@
         "category": "Economy",
         "summary": "New chancellor tells the FT that he and Prime Minister Andy Burnham are determined ‘to meet the fiscal rules’",
         "url": "https://www.ft.com/content/6d43b599-3d7c-471c-88c2-0f056475a840?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
-        "publicationDate": "2026-09-04",
-        "category": "Other",
-        "summary": "AI giant on track to unveil paperwork underpinning its blockbuster Wall Street debut as soon as next week",
-        "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1"
     },
     {
         "id": "R49023",
@@ -475,15 +484,6 @@
         "category": "Other",
         "summary": "In order for the United States to engage in significant civilian nuclear cooperation with other states, it must conclude a framework agreement that meets specific requirements under Section 123 of the Atomic Energy Act (AEA). Significant nuclear cooperation includes the export of reactors, critical parts of reactors, and reactor fuel. The AEA also provides for export control licensing procedures and criteria for...",
         "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS22937/RS22937.97.pdf"
-    },
-    {
-        "id": "LSB11475",
-        "source": "Congressional Research Service",
-        "title": "State Marijuana Laws and the Dormant Commerce Clause",
-        "publicationDate": "2026-09-03",
-        "category": "Foreign Policy",
-        "summary": "Federal law classifies marijuana as a controlled substance under the federal Controlled Substances Act (CSA) and, thus, criminalizes many marijuana-related activities. Despite these federal prohibitions, a majority of U.S. states have adopted laws permitting certain types of marijuana sales and other marijuana-related activities. The state and local laws authorizing marijuana-related activities vary considerably....",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11475/LSB11475.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4996-1.html",
