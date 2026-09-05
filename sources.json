@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
+        "source": "NPR Politics",
+        "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+        "publicationDate": "2026-09-05",
+        "category": "Other",
+        "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
+        "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
+        "source": "NPR Politics",
+        "title": "Flock cameras draw opposition from across the political spectrum",
+        "publicationDate": "2026-09-05",
+        "category": "Other",
+        "summary": "As political races heat up heading into the midterms, candidates from both parties are increasingly joining the fray to voice concerns over Flock surveillance cameras.",
+        "url": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6072826-labor-secretary-chavez-deremer-workplace-misconduct-report/",
         "source": "The Hill",
         "title": "Watchdog issues scathing report on Trump's former labor secretary",
@@ -36,6 +54,33 @@
         "url": "https://thehill.com/homenews/6072728-judge-declines-stars-and-stripes-firing-halt/"
     },
     {
+        "id": "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html",
+        "source": "New York Times Politics",
+        "title": "Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections",
+        "publicationDate": "2026-09-05",
+        "category": "Midterm Elections (2026)",
+        "summary": "Data from Gallup shows that Democrats and Democratic-leaning independents have their largest advantage over Republicans since 2008.",
+        "url": "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/05/us/politics/looking-back-on-the-summer-of-high-maga-in-trumps-washington.html",
+        "source": "New York Times Politics",
+        "title": "Looking Back on the Summer of High MAGA in Trump's Washington",
+        "publicationDate": "2026-09-05",
+        "category": "Trump",
+        "summary": "Racecars, crypto, billionaires, troops, sequins and a bloody cage fight.",
+        "url": "https://www.nytimes.com/2026/09/05/us/politics/looking-back-on-the-summer-of-high-maga-in-trumps-washington.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
+        "source": "New York Times Politics",
+        "title": "What the War in Iran Has Cost One Gold Star Family",
+        "publicationDate": "2026-09-05",
+        "category": "Foreign Policy",
+        "summary": "First Lt. Tyler James Feehan, who was 25, had been deployed to an air base in Jordan when enemy missiles and drones lit up the sky. He is among the 18 Americans who have died since the war began.",
+        "url": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/09/04/us/politics/kentucky-governor-arrested-matt-bevin.html",
         "source": "New York Times Politics",
         "title": "Former Kentucky Governor Is Arrested Amid Child Support Battle",
@@ -54,6 +99,24 @@
         "url": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/",
+        "source": "Washington Post Politics",
+        "title": "ChatGPT bans campaigns from using AI to make ads. They’re doing it anyway.",
+        "publicationDate": "2026-09-05",
+        "category": "Other",
+        "summary": "A Washington Post review found 39 campaigns that disclosed payments to AI companies, but consultants say many more do it and don’t disclose it.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/elections/2026/09/05/republican-house-candidates-tone-down-trump-their-campaign-websites/",
+        "source": "Washington Post Politics",
+        "title": "Republican House candidates tone down Trump on their campaign websites",
+        "publicationDate": "2026-09-05",
+        "category": "Other",
+        "summary": "Several congressional hopefuls have removed or downplayed mentions of the president and his priorities as Trump’s popularity wanes.",
+        "url": "https://www.washingtonpost.com/elections/2026/09/05/republican-house-candidates-tone-down-trump-their-campaign-websites/"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
@@ -63,22 +126,31 @@
         "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "UN votes to adopt new world map to reflect Africa's true size",
+        "title": "Trump signs order to remove endangered species protection for grey wolves",
         "publicationDate": "2026-09-05",
         "category": "Other",
-        "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
-        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss"
+        "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+        "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "At least two dead in blast at Bolivia military barracks",
+        "id": "https://www.ft.com/content/5c4f86d2-411f-4b3b-9926-d27432ffc290?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Nigel Farage insists Reform has ‘broken no law’ after key advisers step down",
         "publicationDate": "2026-09-05",
-        "category": "Defense",
-        "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-        "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss"
+        "category": "Other",
+        "summary": "Party’s conference in Birmingham overshadowed by alleged attempts to seek illegal overseas funding",
+        "url": "https://www.ft.com/content/5c4f86d2-411f-4b3b-9926-d27432ffc290?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/9876d74e-ab17-4b15-a129-2de0c030b1b7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The NBA drops the hammer on Steve Ballmer",
+        "publicationDate": "2026-09-05",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: skyrocketing US Open ticket prices",
+        "url": "https://www.ft.com/content/9876d74e-ab17-4b15-a129-2de0c030b1b7?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/18639405-0e49-44e5-be69-cd7988cbdf27?syn-25a6b1a6=1",
@@ -106,24 +178,6 @@
         "category": "Economy",
         "summary": "When debt is the disease, fiscal medicine may be as likely to harm as heal",
         "url": "https://www.ft.com/content/e1afdbf1-eb21-45c0-ad88-1ec0913b1f7c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1e2ceb39-1e32-41d9-bd49-f3d2c7e0c574?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "‘What the blazers?’ The long fight over school uniform costs",
-        "publicationDate": "2026-09-05",
-        "category": "Other",
-        "summary": "Successive governments have grappled with the problem without managing to impose a standardised policy",
-        "url": "https://www.ft.com/content/1e2ceb39-1e32-41d9-bd49-f3d2c7e0c574?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/bf518b6c-ca5c-49d3-b16a-4aa5bcf25ed9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Camaraderie and nostalgia: how Germany’s far-right AfD is winning the east",
-        "publicationDate": "2026-09-05",
-        "category": "Other",
-        "summary": "The party is predicted to secure than 40% of the vote in Saxony-Anhalt on Sunday",
-        "url": "https://www.ft.com/content/bf518b6c-ca5c-49d3-b16a-4aa5bcf25ed9?syn-25a6b1a6=1"
     },
     {
         "id": "R49338",
@@ -234,6 +288,42 @@
         "url": "https://cms.hoover.org/research/25-years-after-911-are-we-safer"
     },
     {
+        "id": "https://ecfr.eu/article/orchestrators-not-customers-a-new-role-for-european-governments-in-defence/",
+        "source": "European Council on Foreign Relations",
+        "title": "Orchestrators, not customers: A new role for European governments in defence",
+        "publicationDate": "2026-09-04",
+        "category": "ECFR Council",
+        "summary": "Weapons that took decades to develop can now be countered within months. European governments need to stop buying finished platforms and start running an innovation cycle, in which soldiers learn from one system and build these lessons into the next",
+        "url": "https://ecfr.eu/article/orchestrators-not-customers-a-new-role-for-european-governments-in-defence/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/bonus-episode-the-eu-enlargement-game/",
+        "source": "European Council on Foreign Relations",
+        "title": "Bonus episode: The EU enlargement game",
+        "publicationDate": "2026-09-04",
+        "category": "European Security",
+        "summary": "In a special episode recorded live from Lisbon, Jessica Hendrick puts six EU candidate countries through an enlargement simulation to find out what happens when crisis, cash, disinformation and political pressure collide with the race to join the EU",
+        "url": "https://ecfr.eu/podcasts/episode/bonus-episode-the-eu-enlargement-game/"
+    },
+    {
+        "id": "https://ecfr.eu/article/a-no-to-the-eu-not-to-europe-what-icelanders-actually-voted-on/",
+        "source": "European Council on Foreign Relations",
+        "title": "A no to the EU, not to Europe: What Icelanders actually voted on",
+        "publicationDate": "2026-09-04",
+        "category": "ECFR Council",
+        "summary": "Icelanders voted no because of old, domestic reasons: fish, the currency and comfort with the status quo. The result was not a victory for the far-right—but the heated campaign is a warning sign for Icelandic political life.",
+        "url": "https://ecfr.eu/article/a-no-to-the-eu-not-to-europe-what-icelanders-actually-voted-on/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/maximum-pressure-on-iran-round-two/",
+        "source": "European Council on Foreign Relations",
+        "title": "Maximum pressure on Iran, round two",
+        "publicationDate": "2026-09-04",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Ellie Geranmayeh to discuss the latest phase of the US-Iran conflict, the escalating economic pressure campaign against Tehran and the risks of a prolonged war without a clear exit strategy",
+        "url": "https://ecfr.eu/podcasts/episode/maximum-pressure-on-iran-round-two/"
+    },
+    {
         "id": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
         "source": "NPR Politics",
         "title": "4 things investigators learned about the dysfunction at Trump's Labor Department",
@@ -252,31 +342,13 @@
         "url": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals"
     },
     {
-        "id": "https://www.npr.org/2026/09/04/nx-s1-5946840/el-sayed-divided-michigan-democrats-whether-they-unify-could-decide-senate-control",
+        "id": "https://www.npr.org/2026/09/03/nx-s1-5946840/abdul-el-sayed-michigan-senate-race",
         "source": "NPR Politics",
-        "title": "El-Sayed divided Michigan Democrats. Whether they unify could decide Senate control",
+        "title": "El-Sayed split Michigan Democrats. Whether they unify could decide Senate control",
         "publicationDate": "2026-09-04",
         "category": "Other",
-        "summary": "After a bruising primary, Democrats in Michigan are working to unify their coalition ahead of what is expected to be a razor-thin Senate race this fall for a seat they need to hold if they hope to retake the Senate majority.",
-        "url": "https://www.npr.org/2026/09/04/nx-s1-5946840/el-sayed-divided-michigan-democrats-whether-they-unify-could-decide-senate-control"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
-        "source": "NPR Politics",
-        "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
-        "publicationDate": "2026-09-04",
-        "category": "Other",
-        "summary": "Interior Secretary Doug Burgum says \"excavation work\" will begin in the next two weeks, without approval from a key federal body. Veterans who sued over the arch want a judge to intervene before then.",
-        "url": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/04/nx-s1-5955592/wesleyan-president-trump-tax-exempt-race-programs",
-        "source": "NPR Politics",
-        "title": "Wesleyan president calls Trump's tax-exempt proposal 'extraordinary overreach'",
-        "publicationDate": "2026-09-04",
-        "category": "Economy",
-        "summary": "The Trump administration wants to end tax-exempt status for universities with certain race-based programs. Wesleyan President Michael Roth says the plan could frighten schools.",
-        "url": "https://www.npr.org/2026/09/04/nx-s1-5955592/wesleyan-president-trump-tax-exempt-race-programs"
+        "summary": "After a bruising Senate primary, Michigan Democrats are trying to unify to hold onto a must-win seat. But healing those fissures is proving not so simple.",
+        "url": "https://www.npr.org/2026/09/03/nx-s1-5946840/abdul-el-sayed-michigan-senate-race"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/federal-judge-extends-block-on-trump-order-seeking-to-limit-mail-voting-in-the-midterms",
@@ -333,33 +405,6 @@
         "url": "https://thehill.com/newsletters/technology/6072688-how-are-ai-chatbots-answering-voting-questions/"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/04/us/politics/stars-and-stripes-journalists-fired.html",
-        "source": "New York Times Politics",
-        "title": "Judge Will Not Block Pentagon Move to Fire Stars and Stripes Journalists",
-        "publicationDate": "2026-09-04",
-        "category": "Defense",
-        "summary": "A judge appeared skeptical of the journalists’ arguments that they were fired for coverage of worsening conditions on a Navy warship.",
-        "url": "https://www.nytimes.com/2026/09/04/us/politics/stars-and-stripes-journalists-fired.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html",
-        "source": "New York Times Politics",
-        "title": "Postal Service Internal Watchdog Opens Inquiry After Whistle-Blower’s Complaint",
-        "publicationDate": "2026-09-04",
-        "category": "Whistle-Blowers",
-        "summary": "The Trump administration’s effort to screen mail-in ballots for the midterms is facing numerous challenges.",
-        "url": "https://www.nytimes.com/2026/09/04/us/politics/postal-service-internal-watchdog-inquiry.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-adds-new-restrictions-to-vote-by-mail-program.html",
-        "source": "New York Times Politics",
-        "title": "North Carolina Adds New Restrictions to Vote-by-Mail Program",
-        "publicationDate": "2026-09-04",
-        "category": "Voting and Voters",
-        "summary": "The changes are almost certain to cause some votes to be tossed. They come at a time when President Trump is promoting false claims of widespread fraud in mail voting.",
-        "url": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-adds-new-restrictions-to-vote-by-mail-program.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/09/04/supreme-court-rules-political-parties-should-get-discounted-tv-ad-rates/",
         "source": "Washington Post Politics",
         "title": "In boost to GOP, Supreme Court says parties should get lower TV ad rates",
@@ -387,24 +432,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/04/trump-says-he-will-spend-some-political-war-chest-midterms/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/",
-        "source": "Washington Post Politics",
-        "title": "Judge orders DOJ to disclose who conceived of now-defunct payout fund",
-        "publicationDate": "2026-09-04",
-        "category": "Other",
-        "summary": "The Trump administration dropped plans for a fund to compensate people who say they were unfairly prosecuted, but several lawsuits are ongoing.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/04/judge-orders-doj-disclose-who-conceived-now-defunct-payout-fund/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/04/first-lady-melania-trump-will-not-attend-republican-midterm-convention/",
-        "source": "Washington Post Politics",
-        "title": "Melania Trump will not attend the Republican midterm convention",
-        "publicationDate": "2026-09-04",
-        "category": "Other",
-        "summary": "Scheduled for the middle of next week in Dallas, the event designed to project party unity will be missing a well-known figure.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/04/first-lady-melania-trump-will-not-attend-republican-midterm-convention/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
@@ -421,6 +448,15 @@
         "category": "Foreign Policy",
         "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
         "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+        "publicationDate": "2026-09-04",
+        "category": "Other",
+        "summary": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
+        "url": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R49023",
@@ -583,6 +619,15 @@
         "category": "Defense",
         "summary": "U.S. space defense industrial base workforce shortfalls threaten the ability to reconstitute space capabilities after a conflict. The U.S. Space Force must invest now in STEM pipelines, technician training, and automation to build surge capacity.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3665-2.html"
+    },
+    {
+        "id": "https://ecfr.eu/article/climate-of-concern-the-changing-face-of-social-movements-in-north-africa/",
+        "source": "European Council on Foreign Relations",
+        "title": "Climate of concern: The changing face of social movements in North Africa",
+        "publicationDate": "2026-08-31",
+        "category": "Climate and Energy",
+        "summary": "Social movements in North Africa increasingly focus on environmental concerns and the impact of climate change. Europeans must ensure their cooperation with governments in the region does not end up adding to activists’ grievances",
+        "url": "https://ecfr.eu/article/climate-of-concern-the-changing-face-of-social-movements-in-north-africa/"
     },
     {
         "id": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis",
