@@ -1,5 +1,68 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4634-1.html",
+        "source": "RAND Corporation",
+        "title": "Novel technologies for security-sector governance and management",
+        "publicationDate": "2026-09-08",
+        "category": "Technology",
+        "summary": "RAND Europe scoped technology use in security-sector governance and management, mapping opportunities and risks from real-world cases and distilling lessons and good practices to embed good governance in the adoption and use of these tools.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4634-1.html"
+    },
+    {
+        "id": "https://ecfr.eu/article/beyond-saxony-anhalt-what-merzs-crisis-means-for-europe/",
+        "source": "European Council on Foreign Relations",
+        "title": "Beyond Saxony-Anhalt: What Merz’s crisis means for Europe",
+        "publicationDate": "2026-09-08",
+        "category": "European Power",
+        "summary": "The far-right AfD’s win in a small German state calls for dynamism in Berlin and hedging in Brussels",
+        "url": "https://ecfr.eu/article/beyond-saxony-anhalt-what-merzs-crisis-means-for-europe/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/emergency-room-the-afds-victory-in-saxony-anhalt/",
+        "source": "European Council on Foreign Relations",
+        "title": "Emergency Room: The AfD’s victory in Saxony-Anhalt",
+        "publicationDate": "2026-09-08",
+        "category": "European Power",
+        "summary": "Mark Leonard welcomes Jana Puglierin, senior policy fellow and head of ECFR’s Berlin office, to discuss the Alternative for Germany (AfD)’s election win in Saxony-Anhalt—and what it means for Germany and Europe",
+        "url": "https://ecfr.eu/podcasts/episode/emergency-room-the-afds-victory-in-saxony-anhalt/"
+    },
+    {
+        "id": "https://ecfr.eu/article/britons-back-ban-on-trade-with-israeli-settlements-by-more-than-two-to-one/",
+        "source": "European Council on Foreign Relations",
+        "title": "Britons back ban on trade with Israeli settlements by more than two to one",
+        "publicationDate": "2026-09-08",
+        "category": "Middle East and North Africa",
+        "summary": "New polling published by ECFR shows that Britons across the political divide favour banning trade with illegal Israeli settlements",
+        "url": "https://ecfr.eu/article/britons-back-ban-on-trade-with-israeli-settlements-by-more-than-two-to-one/"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
+        "source": "NPR Politics",
+        "title": "The 2026 midterm general election season is upon us. Here's what to watch",
+        "publicationDate": "2026-09-08",
+        "category": "Other",
+        "summary": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump's unpopularity and Democratic enthusiasm means control of Congress is on the ballot.",
+        "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/08/nx-s1-5950566/republicans-hope-unconventional-convention-will-rally-voters-ahead-of-midterms",
+        "source": "NPR Politics",
+        "title": "Republicans hope unconventional convention will rally voters ahead of midterms",
+        "publicationDate": "2026-09-08",
+        "category": "Other",
+        "summary": "The Republican party is calling it a \"Trumpapalooza.\" The party is throwing an unconventional convention in Dallas this week to try to boost Republican voter enthusiasm.",
+        "url": "https://www.npr.org/2026/09/08/nx-s1-5950566/republicans-hope-unconventional-convention-will-rally-voters-ahead-of-midterms"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/08/nx-s1-5960438/political-commentator-on-what-we-might-expect-from-trumps-midterm-convention",
+        "source": "NPR Politics",
+        "title": "Political commentator on what we might expect from Trump's midterm convention",
+        "publicationDate": "2026-09-08",
+        "category": "Other",
+        "summary": "NPR's Steve Inskeep speaks with commentator Jonah Goldberg about this week's unusual Republican midterm gathering.",
+        "url": "https://www.npr.org/2026/09/08/nx-s1-5960438/political-commentator-on-what-we-might-expect-from-trumps-midterm-convention"
+    },
+    {
         "id": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
         "source": "NPR Politics",
         "title": "What to know about Canada's escalating trade war with the U.S.",
@@ -9,49 +72,139 @@
         "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us"
     },
     {
-        "id": "https://thehill.com/policy/energy-environment/6075479-labor-day-gas-prices-rise/",
+        "id": "https://thehill.com/opinion/education/6073732-new-regulations-target-diversity-admissions/",
         "source": "The Hill",
-        "title": "Gas prices reach Labor Day high amid Iran war",
+        "title": "Trump is using the IRS and nonprofit status to chill affirmative action",
         "publicationDate": "2026-09-08",
-        "category": "Foreign Policy",
-        "summary": "The average price of gas going into this Labor Day weekend reached a record holiday high compared to past years at $4.14 a gallon, according to a national tracking average from AAA. The previous record for Labor Day was $3.82 in 2012. The high price for fuel comes as diesel hit its highest price ever on Friday,...",
-        "url": "https://thehill.com/policy/energy-environment/6075479-labor-day-gas-prices-rise/"
+        "category": "Opinions - Education",
+        "summary": "If upheld, affirmative action in education benefiting Black and other racial minority students is dead as a doornail.",
+        "url": "https://thehill.com/opinion/education/6073732-new-regulations-target-diversity-admissions/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6075446-worker-rescued-white-house-scaffolding/",
+        "id": "https://thehill.com/policy/6075420-vance-defends-tucker-carlson-friendship/",
         "source": "The Hill",
-        "title": "Worker injured during White House construction rescued by emergency crew",
+        "title": "The Movement: Vance faces pressure over Carlson friendship",
         "publicationDate": "2026-09-08",
-        "category": "Healthcare",
-        "summary": "An emergency crew rescued a construction worker from high up in scaffolding on the White House North Portico on Monday afternoon, responding to a dispatch saying that a worker had been injured. The worker was put into a stretcher and ambulance, which then went to the hospital, according to the Washington Post. The White House did...",
-        "url": "https://thehill.com/homenews/administration/6075446-worker-rescued-white-house-scaffolding/"
+        "category": "Policy",
+        "summary": "Vice President Vance is in hot water with some conservatives after a press briefing last week where he defended his friendship with Tucker Carlson. “Tucker is a friend of mine,” Vance said. “Tucker is a friend, despite the fact that we disagree on a number of things. And I’m not going to play the game where I throw friends under the bus because...",
+        "url": "https://thehill.com/policy/6075420-vance-defends-tucker-carlson-friendship/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6075409-hunter-biden-laptop-meme-coin/",
+        "id": "https://thehill.com/opinion/congress-blog/6072391-senate-house-aging-concerns/",
         "source": "The Hill",
-        "title": "Hunter Biden to launch crypto meme coin",
+        "title": "Congress needs a plan to remove incapable lawmakers who refuse to step down",
         "publicationDate": "2026-09-08",
-        "category": "Technology",
-        "summary": "Hunter Biden, son of former President Joe Biden, announced Monday that he’s debuting a meme coin, traded under the ticker $LAPTOP, in reference to the political controversy that swarmed him in 2020 and since over his personal laptop. Biden teased the launch, first reported by the Wall Street Journal, with a video that compiled clips of news outlets...",
-        "url": "https://thehill.com/policy/technology/6075409-hunter-biden-laptop-meme-coin/"
+        "category": "Congress Blog",
+        "summary": "Democracy requires that voters choose the people who represent them. But it also requires that the people charged with that responsibility must be able to discharge it.",
+        "url": "https://thehill.com/opinion/congress-blog/6072391-senate-house-aging-concerns/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/07/trump-officials-remove-sign-arlington-cemetery-that-criticized-confederate-statue/",
-        "source": "Washington Post Politics",
-        "title": "Trump officials strip military language criticizing Confederate memorial",
+        "id": "https://thehill.com/homenews/campaign/6075677-senate-toss-up-2026-midterms-decision-desk-hq/",
+        "source": "The Hill",
+        "title": "Senate 'pure toss-up' ahead of midterms: DDHQ",
+        "publicationDate": "2026-09-08",
+        "category": "Campaign",
+        "summary": "Fight for control of the Senate hangs in the balance with just eight weeks to go until the midterm elections, according to Decision Desk HQ (DDHQ). The nonpartisan election analyst on Monday shifted its November forecast to “a pure toss-up” for the upper chamber of Congress for the first time since the beginning of June....",
+        "url": "https://thehill.com/homenews/campaign/6075677-senate-toss-up-2026-midterms-decision-desk-hq/"
+    },
+    {
+        "id": "https://thehill.com/homenews/education/6075608-aei-college-100k-tuition-value-future/",
+        "source": "The Hill",
+        "title": "Education expert questions whether $100K-a-year colleges are worth it",
+        "publicationDate": "2026-09-08",
+        "category": "Education",
+        "summary": "Pondiscio says four-year degree holders still earn about $1 million more over a lifetime than those without one — but that math may not hold forever.",
+        "url": "https://thehill.com/homenews/education/6075608-aei-college-100k-tuition-value-future/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/08/us/politics/hmong-refugee-deportation-michigan-laos.html",
+        "source": "New York Times Politics",
+        "title": "‘Don’t Let Me Disappear’: The 100-Day Scramble to Free Lue Yang",
+        "publicationDate": "2026-09-08",
+        "category": "Deportation",
+        "summary": "Lue Yang, who was convicted in a home invasion as a teenager, was facing deportation to Laos. With a plane on the tarmac, he wondered whether an appeal would be heard.",
+        "url": "https://www.nytimes.com/2026/09/08/us/politics/hmong-refugee-deportation-michigan-laos.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
+        "source": "New York Times Politics",
+        "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
         "publicationDate": "2026-09-08",
         "category": "Defense",
-        "summary": "A new sign at Arlington National Cemetery omits wording that said the 32-foot bronze statue “mythologized” the Confederacy and gave “sanitized” depictions of slavery.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/07/trump-officials-remove-sign-arlington-cemetery-that-criticized-confederate-statue/"
+        "summary": "The attack, discovered by A.I. researchers, could have compromised hundreds of millions of devices within hours, experts said.",
+        "url": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/07/with-ohios-governorship-up-grabs-toxic-race-turns-violent/",
+        "id": "https://www.nytimes.com/2026/09/08/us/politics/lawrence-barrett-michigan-house-seat.html",
+        "source": "New York Times Politics",
+        "title": "Can William Lawrence, a Progressive, Flip a Key Michigan House Seat?",
+        "publicationDate": "2026-09-08",
+        "category": "United States Politics and Government",
+        "summary": "William Lawrence, a progressive challenging a first-term Republican, is trying to rewrite the playbook for Democrats running in swing districts.",
+        "url": "https://www.nytimes.com/2026/09/08/us/politics/lawrence-barrett-michigan-house-seat.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-primaries-what-to-watch.html",
+        "source": "New York Times Politics",
+        "title": "What to Watch in Tuesday’s New Hampshire Primary Elections",
+        "publicationDate": "2026-09-08",
+        "category": "Midterm Elections (2026)",
+        "summary": "Voters will nominate candidates for one of the most high-stakes Senate races in the country. And a Democratic House primary has emerged as a test of the party’s establishment.",
+        "url": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-primaries-what-to-watch.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/08/us/politics/sept11-victims-memorial.html",
+        "source": "New York Times Politics",
+        "title": "A Place Where Memories of the 9/11 Victims Have Faded Away",
+        "publicationDate": "2026-09-08",
+        "category": "Defense",
+        "summary": "Relatives who traveled to the U.S. Navy base in Guantánamo Bay left memory stones and messages for those killed in the attacks 25 years ago.",
+        "url": "https://www.nytimes.com/2026/09/08/us/politics/sept11-victims-memorial.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/08/are-political-dynasties-losing-power/",
         "source": "Washington Post Politics",
-        "title": "With Ohio’s governorship up for grabs, a toxic race turns violent",
+        "title": "The last test of dynastic politics in an anti-establishment primary season",
         "publicationDate": "2026-09-08",
         "category": "Other",
-        "summary": "An alleged assailant forced his way Sunday toward Democratic candidate Amy Acton at a county fair, officials and witnesses said. Authorities said he was carrying two pistols and a Taser.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/07/with-ohios-governorship-up-grabs-toxic-race-turns-violent/"
+        "summary": "The two distinct races represent the last gasp of dynastic politics in a primary season largely defined by deep antiestablishment fervor.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/08/are-political-dynasties-losing-power/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/08/democrat-shannon-taylor-touts-prosecutor-past-battleground-house-race/",
+        "source": "Washington Post Politics",
+        "title": "This House candidate wants you to know she helped imprison a fellow Democrat",
+        "publicationDate": "2026-09-08",
+        "category": "Other",
+        "summary": "Shannon Taylor touts her prosecutor past as she runs against Rep. Rob Wittman (R) for a battleground seat in Virginia.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/08/democrat-shannon-taylor-touts-prosecutor-past-battleground-house-race/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/08/year-after-charlie-kirk-death-turning-point-focuses-2028-vance/",
+        "source": "Washington Post Politics",
+        "title": "After Charlie Kirk’s death, Turning Point forges ahead, with eyes on JD Vance",
+        "publicationDate": "2026-09-08",
+        "category": "Other",
+        "summary": "The conservative group’s leaders still grapple with grief. But they also have a mission: 2028.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/08/year-after-charlie-kirk-death-turning-point-focuses-2028-vance/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/",
+        "source": "Washington Post Politics",
+        "title": "Rare charges against ICE agent highlight DOJ’s broader retreat from shooting probes",
+        "publicationDate": "2026-09-08",
+        "category": "Other",
+        "summary": "The case against Christian Castro is unprecedented in President Donald Trump’s second term, as ICE agents face little fallout from shootings of protesters and others.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/08/rare-charges-against-agent-highlight-broader-retreat-ice-shooting-probes/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/08/push-halt-arch-construction-comes-site-work-is-set-begin/",
+        "source": "Washington Post Politics",
+        "title": "Veterans and Democrats intensify fight against Trump’s planned arch",
+        "publicationDate": "2026-09-08",
+        "category": "Defense",
+        "summary": "Opponents of the 250-foot triumphal arch project say it could disrupt military burials at Arlington, during construction and after its completion.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/08/push-halt-arch-construction-comes-site-work-is-set-begin/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
@@ -63,49 +216,85 @@
         "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/0815cd34-bf4c-4771-8bf5-710eff286763?syn-25a6b1a6=1",
+        "id": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "At least two people dead after Russian strikes on Kyiv",
+        "publicationDate": "2026-09-08",
+        "category": "Foreign Policy",
+        "summary": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
+        "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+        "publicationDate": "2026-09-08",
+        "category": "Other",
+        "summary": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
+        "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Highest paid world leader to get salary increase of $1 million",
+        "publicationDate": "2026-09-08",
+        "category": "Other",
+        "summary": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m).",
+        "url": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "publicationDate": "2026-09-08",
+        "category": "Other",
+        "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/0815cd34-bf4c-4771-8bf5-710eff286763",
         "source": "Financial Times World",
         "title": "Russia launches missile strikes against Kyiv as pause in raids ends",
         "publicationDate": "2026-09-08",
         "category": "Foreign Policy",
         "summary": "Overnight attacks come after Ukraine visit by Steve Witkoff and Jared Kushner fails to deliver breakthrough",
-        "url": "https://www.ft.com/content/0815cd34-bf4c-4771-8bf5-710eff286763?syn-25a6b1a6=1"
+        "url": "https://www.ft.com/content/0815cd34-bf4c-4771-8bf5-710eff286763"
     },
     {
-        "id": "https://www.ft.com/content/1f71d2d0-d2e2-46da-a96f-99d20936223e?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/769abc3f-5e34-41b4-946a-16cab58010a7",
         "source": "Financial Times World",
-        "title": "UK set to announce trade ban on Israeli settlements in West Bank",
-        "publicationDate": "2026-09-08",
-        "category": "Foreign Policy",
-        "summary": "Foreign secretary Ed Miliband’s intervention expected to provoke rebuke from Washington",
-        "url": "https://www.ft.com/content/1f71d2d0-d2e2-46da-a96f-99d20936223e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/0bdd8292-efaa-4329-b41e-d81a5063c4c0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Australia proposes opt-out law for social media algorithms",
+        "title": "Is it time for Eurozone GDP ex-Ireland?",
         "publicationDate": "2026-09-08",
         "category": "Other",
-        "summary": "Draft legislation follows under-16 ban as part of widening effort to rein in Big Tech",
-        "url": "https://www.ft.com/content/0bdd8292-efaa-4329-b41e-d81a5063c4c0?syn-25a6b1a6=1"
+        "summary": "Once the Celtic Tiger, now the tail that wags the bloc",
+        "url": "https://www.ft.com/content/769abc3f-5e34-41b4-946a-16cab58010a7"
     },
     {
-        "id": "https://www.ft.com/content/5cc2d577-0418-4728-8657-aa6b2efb6597?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/a386c753-9f55-4429-b2c9-251d3bff8f58?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "The strangely disappointing EM inflows",
+        "title": "Ceuta demands EU help over migrant ‘pressure cooker’",
         "publicationDate": "2026-09-08",
         "category": "Other",
-        "summary": "Tough crowd",
-        "url": "https://www.ft.com/content/5cc2d577-0418-4728-8657-aa6b2efb6597?syn-25a6b1a6=1"
+        "summary": "Leader of Spanish exclave requests assistance to repatriate migrants after influx in July",
+        "url": "https://www.ft.com/content/a386c753-9f55-4429-b2c9-251d3bff8f58?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/56bcc2fb-99eb-4ad9-af67-101c8d0382cb?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/359e9dac-cc19-4a93-8155-3d087adf4103",
         "source": "Financial Times World",
-        "title": "China’s export surge sets stage for record annual surplus",
+        "title": "Healey vows to maintain fiscal credibility as pressure on public finances mounts",
         "publicationDate": "2026-09-08",
-        "category": "Foreign Policy",
-        "summary": "Data released ahead of crucial meeting between Donald Trump and Xi Jinping on extending tariff truce",
-        "url": "https://www.ft.com/content/56bcc2fb-99eb-4ad9-af67-101c8d0382cb?syn-25a6b1a6=1"
+        "category": "Economy",
+        "summary": "Chancellor takes his first questions in parliament since replacing Rachel Reeves",
+        "url": "https://www.ft.com/content/359e9dac-cc19-4a93-8155-3d087adf4103"
+    },
+    {
+        "id": "https://www.ft.com/content/dda770b2-79b4-48bb-b141-0e1291d08115?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The new fiscal threats to monetary policy",
+        "publicationDate": "2026-09-08",
+        "category": "Economy",
+        "summary": "High public deficits and debt undermine central banks’ ability to control inflation",
+        "url": "https://www.ft.com/content/dda770b2-79b4-48bb-b141-0e1291d08115?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4997-1.html",
@@ -133,24 +322,6 @@
         "category": "Other",
         "summary": "President Trump is transforming Washington. New York Magazine's Ben Terris says the ballroom, the planned arch and other changes are an attempt to achieve \"architectural immortality.\"",
         "url": "https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/07/nx-s1-5955739/with-the-midterms-fast-approaching-campaign-season-begins",
-        "source": "NPR Politics",
-        "title": "With the midterms fast approaching, campaign season begins",
-        "publicationDate": "2026-09-07",
-        "category": "Other",
-        "summary": "Labor Day marks the unofficial kickoff of the general election season as Republicans work to maintain control of the House and the Senate amid President Trump's unpopular second term.",
-        "url": "https://www.npr.org/2026/09/07/nx-s1-5955739/with-the-midterms-fast-approaching-campaign-season-begins"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/07/nx-s1-5955604/what-to-expect-as-midterm-campaign-season-kicks-off",
-        "source": "NPR Politics",
-        "title": "What to expect as midterm campaign season kicks off",
-        "publicationDate": "2026-09-07",
-        "category": "Other",
-        "summary": "NPR's Leila Fadel speaks with Charlie Cook, founder of the nonpartisan Cook Political Report, about the outlook for Democrats and Republicans as midterm campaign season kicks off.",
-        "url": "https://www.npr.org/2026/09/07/nx-s1-5955604/what-to-expect-as-midterm-campaign-season-kicks-off"
     },
     {
         "id": "https://www.pbs.org/newshour/show/far-right-afd-win-signals-shift-in-germany-raises-alarm-in-europe",
@@ -198,132 +369,6 @@
         "url": "https://www.pbs.org/newshour/show/inside-southern-lebanons-villages-where-israeli-occupation-has-upended-daily-life"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6075377-giuliani-criticizes-mamdani-911/",
-        "source": "The Hill",
-        "title": "Rudy Giuliani urges Mamdani to not attend 9/11 anniversary",
-        "publicationDate": "2026-09-07",
-        "category": "State Watch",
-        "summary": "Rudy Giuliani, the former mayor of New York City who later worked as President Trump’s personal lawyer, publicly criticized current Mayor Zohran Mamdani for planning to attend a 9/11 commemoration ceremony at Ground Zero on Friday. “Frankly, whatever he’d like to say, he doesn’t agree that September 11th was an Islamic terrorist attack on the...",
-        "url": "https://thehill.com/homenews/state-watch/6075377-giuliani-criticizes-mamdani-911/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6075345-trump-dc-beautification-projects/",
-        "source": "The Hill",
-        "title": "Trump posts updates about his DC ‘beautification’ projects",
-        "publicationDate": "2026-09-07",
-        "category": "Administration",
-        "summary": "President Donald Trump made several posts on social media on Monday morning with pictures of statues and landmarks around Washington, D.C., that the National Park Service has been updating. Trump has been emphasizing his efforts to “beautify” D.C., including constructing an arch in his honor, fixing fountains and gold-plating statues, among other projects. Each post...",
-        "url": "https://thehill.com/homenews/administration/6075345-trump-dc-beautification-projects/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/07/arts/design/blue-sculpture-kennedy-center-rubenstein.html",
-        "source": "New York Times Politics",
-        "title": "Ousted Kennedy Center Chairman Buys Dismantled ‘Blue’ Sculpture",
-        "publicationDate": "2026-09-07",
-        "category": "Sculpture",
-        "summary": "David Rubenstein purchased the sculpture, which was removed from the center last week, from the artist’s foundation. He will display it at the National Gallery of Art.",
-        "url": "https://www.nytimes.com/2026/09/07/arts/design/blue-sculpture-kennedy-center-rubenstein.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html",
-        "source": "New York Times Politics",
-        "title": "5 Races to Watch This Fall for Answers to the Biggest Midterm Questions",
-        "publicationDate": "2026-09-07",
-        "category": "Foreign Policy",
-        "summary": "From Iowa to Michigan to Texas, key contests will offer clues about voters’ views of President Trump, progressive ideas, the war with Iran and more.",
-        "url": "https://www.nytimes.com/2026/09/07/us/politics/midterms-key-races-to-watch.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html",
-        "source": "New York Times Politics",
-        "title": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’",
-        "publicationDate": "2026-09-07",
-        "category": "Trump",
-        "summary": "The suggestion, posted on social media, appeared to be the latest in the president’s efforts to alter geographic names.",
-        "url": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/07/us/politics/fact-check-midterm-ads-jeffrey-epstein-files.html",
-        "source": "New York Times Politics",
-        "title": "Fact-Checking Midterm Ads Referring to Jeffrey Epstein",
-        "publicationDate": "2026-09-07",
-        "category": "Epstein",
-        "summary": "Candidates have traded attacks on votes to releasing the Epstein files and political donations from those with links to Jeffrey Epstein.",
-        "url": "https://www.nytimes.com/2026/09/07/us/politics/fact-check-midterm-ads-jeffrey-epstein-files.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
-        "source": "New York Times Politics",
-        "title": "As War Grinds On, Trump Relishes Renovation Projects",
-        "publicationDate": "2026-09-07",
-        "category": "United States Politics and Government",
-        "summary": "President Trump is basking in the momentum of the various projects he has spurred around downtown Washington.",
-        "url": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/07/emergency-crew-rescues-worker-injured-during-white-house-construction/",
-        "source": "Washington Post Politics",
-        "title": "Emergency crew rescues worker injured during White House construction",
-        "publicationDate": "2026-09-07",
-        "category": "Other",
-        "summary": "Local dispatchers called for a “high-angle rescue” for the worker, who was part of a team removing scaffolding from Trump’s project on the North Portico.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/07/emergency-crew-rescues-worker-injured-during-white-house-construction/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/07/trump-suggests-renaming-new-mexico-amid-torrent-online-memes-taunts/",
-        "source": "Washington Post Politics",
-        "title": "Trump suggests renaming New Mexico amid torrent of online memes and taunts",
-        "publicationDate": "2026-09-07",
-        "category": "Other",
-        "summary": "The suggestion came as the president unleashed dozens of social media posts. He lacks authority to rename New Mexico or any other state.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/07/trump-suggests-renaming-new-mexico-amid-torrent-online-memes-taunts/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/06/armed-individual-lunged-democrat-nominee-ohio-governor-campaign-says/",
-        "source": "Washington Post Politics",
-        "title": "Armed individual lunged at Democratic nominee for Ohio governor",
-        "publicationDate": "2026-09-07",
-        "category": "Other",
-        "summary": "Multiple people were injured at the event for Amy Acton at a county fair in Canfield, Ohio.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/06/armed-individual-lunged-democrat-nominee-ohio-governor-campaign-says/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-        "publicationDate": "2026-09-07",
-        "category": "Other",
-        "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-        "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Flight recorders recovered from Amazon cargo plane crash",
-        "publicationDate": "2026-09-07",
-        "category": "Foreign Policy",
-        "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
-        "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-        "publicationDate": "2026-09-07",
-        "category": "Other",
-        "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-        "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-        "publicationDate": "2026-09-07",
-        "category": "Other",
-        "summary": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
-        "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://cms.hoover.org/research/china-flatlining",
         "source": "Hoover Institution",
         "title": "China Is Flatlining",
@@ -367,15 +412,6 @@
         "category": "Other",
         "summary": "The Shanghai Cooperation Organization (SCO) summit in Kyrgyzstan served as a venue to display Xi Jinping’s growing influence and the marginalization of India. In many ways India faces the same choices it had during the First Cold War: join the bloc dominated by Moscow and Beijing, join the Western bloc, or seek to build its own bloc.",
         "url": "https://cms.hoover.org/research/scos-diminishing-usefulness-india"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/06/nx-s1-5948148/public-backlash-against-data-centers-is-rising-politicians-are-playing-catchup",
-        "source": "NPR Politics",
-        "title": "Public backlash against data centers is rising. Politicians are playing catchup",
-        "publicationDate": "2026-09-06",
-        "category": "Other",
-        "summary": "Public sentiment against data centers is running high this election season, leaving politicians of all stripes scrambling to respond. We look at how this is playing out in Pennsylvania.",
-        "url": "https://www.npr.org/2026/09/06/nx-s1-5948148/public-backlash-against-data-centers-is-rising-politicians-are-playing-catchup"
     },
     {
         "id": "R49338",
@@ -448,33 +484,6 @@
         "category": "ECFR Council",
         "summary": "Weapons that took decades to develop can now be countered within months. European governments need to stop buying finished platforms and start running an innovation cycle, in which soldiers learn from one system and build these lessons into the next",
         "url": "https://ecfr.eu/article/orchestrators-not-customers-a-new-role-for-european-governments-in-defence/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/bonus-episode-the-eu-enlargement-game/",
-        "source": "European Council on Foreign Relations",
-        "title": "Bonus episode: The EU enlargement game",
-        "publicationDate": "2026-09-04",
-        "category": "European Security",
-        "summary": "In a special episode recorded live from Lisbon, Jessica Hendrick puts six EU candidate countries through an enlargement simulation to find out what happens when crisis, cash, disinformation and political pressure collide with the race to join the EU",
-        "url": "https://ecfr.eu/podcasts/episode/bonus-episode-the-eu-enlargement-game/"
-    },
-    {
-        "id": "https://ecfr.eu/article/a-no-to-the-eu-not-to-europe-what-icelanders-actually-voted-on/",
-        "source": "European Council on Foreign Relations",
-        "title": "A no to the EU, not to Europe: What Icelanders actually voted on",
-        "publicationDate": "2026-09-04",
-        "category": "ECFR Council",
-        "summary": "Icelanders voted no because of old, domestic reasons: fish, the currency and comfort with the status quo. The result was not a victory for the far-right—but the heated campaign is a warning sign for Icelandic political life.",
-        "url": "https://ecfr.eu/article/a-no-to-the-eu-not-to-europe-what-icelanders-actually-voted-on/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/maximum-pressure-on-iran-round-two/",
-        "source": "European Council on Foreign Relations",
-        "title": "Maximum pressure on Iran, round two",
-        "publicationDate": "2026-09-04",
-        "category": "Foreign Policy",
-        "summary": "Mark Leonard welcomes Ellie Geranmayeh to discuss the latest phase of the US-Iran conflict, the escalating economic pressure campaign against Tehran and the risks of a prolonged war without a clear exit strategy",
-        "url": "https://ecfr.eu/podcasts/episode/maximum-pressure-on-iran-round-two/"
     },
     {
         "id": "R49023",
@@ -601,15 +610,6 @@
         "category": "Defense",
         "summary": "Join United States Representatives Mark Messmer (IN-08) and Vince Fong (CA-20) of the Hypersonics Caucus in conversation with Dr. Joesph S. Jewell , Assistant Secretary of War for Science and Technology, Dr. James W. Weber , Senior Official for the Scaled Hypersonics Critical Technology Area, and Heritage’s Robert Peters as they discuss the hypersonic capabilities developed by adversaries, what offensive systems...",
         "url": "https://www.heritage.org/missile-defense/event/the-hypersonic-landscape-emerging-threats-and-new-opportunities"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5137-1.html",
-        "source": "RAND Corporation",
-        "title": "Preparing Students for What Comes Next",
-        "publicationDate": "2026-08-31",
-        "category": "Other",
-        "summary": "The authors analyze data from three RAND survey panels to examine career-connected learning in kindergarten through grade 12 schools in academic year 2025–2026 using the perspectives of district leaders, school leaders, and high school students.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5137-1.html"
     },
     {
         "id": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis",
