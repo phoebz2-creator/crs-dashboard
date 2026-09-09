@@ -1,5 +1,23 @@
 [
     {
+        "id": "R49340",
+        "source": "Congressional Research Service",
+        "title": "Budgetary Effects Excluded or Eliminated from the Statutory Pay-As-You-Go Scorecards",
+        "publicationDate": "2026-09-09",
+        "category": "Economy",
+        "summary": "The Statutory Pay-As-You-Go Act of 2010 (Statutory PAYGO, P.L. 111-139, 2 U.S.C. §§931-939) is a budget enforcement mechanism intended to ensure that laws affecting direct (mandatory) spending or revenues do not, in aggregate, increase budget deficits. Under the act, the Office of Management and Budget (OMB) is required to maintain two scorecards that record the estimated average annual net effects on the deficit...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49340/R49340.1.pdf"
+    },
+    {
+        "id": "98-684",
+        "source": "Congressional Research Service",
+        "title": "Latin America and the Caribbean: Fact Sheet on Leaders and Elections",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "This fact sheet tracks current heads of government in Central and South America, Mexico, and the Caribbean. It provides dates of the last and next elections for the head of government and the national independence date for each country.",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/98-684/98-684.227.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4946-1.html",
         "source": "RAND Corporation",
         "title": "What Can Public Data Tell Us About Corporate Support for Veterans?",
@@ -18,6 +36,51 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4766-2.html"
     },
     {
+        "id": "https://www.cfr.org/articles/much-ado-about-mapping",
+        "source": "Council on Foreign Relations",
+        "title": "Much Ado About Mapping",
+        "publicationDate": "2026-09-09",
+        "category": "Article",
+        "summary": "The lone dissent came from Washington on a UN resolution over a map long criticized for making Africa look smaller than it is.",
+        "url": "https://www.cfr.org/articles/much-ado-about-mapping"
+    },
+    {
+        "id": "https://www.heritage.org/china/report/xi-comes-washington-expectations-the-trump-xi-summit",
+        "source": "Heritage Foundation",
+        "title": "Xi Comes to Washington: Expectations for the Trump–Xi Summit",
+        "publicationDate": "2026-09-09",
+        "category": "Defense",
+        "summary": "On September 24, 2026, President Donald Trump is scheduled to host Chinese General Secretary Xi Jinping for a summit in Washington, DC. This will be the leaders’ second summit of 2026, following their Beijing Summit in May. Key deliverables from May’s summit included the announcements of the concept of “constructive strategic stability,” ostensible alignment on not wanting Iran to obtain a nuclear weapon, Chinese...",
+        "url": "https://www.heritage.org/china/report/xi-comes-washington-expectations-the-trump-xi-summit"
+    },
+    {
+        "id": "https://cms.hoover.org/node/392855",
+        "source": "Hoover Institution",
+        "title": "The Commons: Africa Engagement",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/node/392855"
+    },
+    {
+        "id": "https://cms.hoover.org/commons-africa-engagement-hoover-institution",
+        "source": "Hoover Institution",
+        "title": "The Commons: Africa Engagement at the Hoover Institution",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "On May 26, 2026, The Commons: Africa Engagement brought together experts and practitioners with deep knowledge and experience related to Africa to discuss the continent’s evolving role in the world.",
+        "url": "https://cms.hoover.org/commons-africa-engagement-hoover-institution"
+    },
+    {
+        "id": "https://cms.hoover.org/research/can-central-banks-rescue-us-high-interest-rates-and-rising-debt",
+        "source": "Hoover Institution",
+        "title": "Can Central Banks Rescue Us From High Interest Rates And Rising Debt?",
+        "publicationDate": "2026-09-09",
+        "category": "Economy",
+        "summary": "Raghuram Rajan joins Steve Davis at Jackson Hole to offer his take on Kevin Warsh’s speech and Scott Bessent’s recent bond market interventions.",
+        "url": "https://cms.hoover.org/research/can-central-banks-rescue-us-high-interest-rates-and-rising-debt"
+    },
+    {
         "id": "https://cms.hoover.org/research/cryptography-security-moving-target",
         "source": "Hoover Institution",
         "title": "Cryptography: Security as a Moving Target",
@@ -34,6 +97,15 @@
         "category": "Defense",
         "summary": "The trilateral defense agreement between Saudi Arabia, Turkey, and Pakistan, signed in Mecca on August 7th is more than another security cooperation agreement in the Middle East. It could signal a new phase in regional states’ efforts to build security networks that do not rely exclusively on the United States. From Israel’s perspective, this is a development that warrants careful examination—not because a military...",
         "url": "https://cms.hoover.org/research/mecca-agreement-new-strategic-triangle-middle-east"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/09/nx-s1-5845147/trump-us-census-citizenship-question-race-categories",
+        "source": "NPR Politics",
+        "title": "Trump officials propose sweeping changes to the census that would reshape voting maps",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "A Trump census proposal would stop asking about race and exclude millions of U.S. residents from a count that the 14th Amendment says must include the \"whole number of persons in each state.\"",
+        "url": "https://www.npr.org/2026/09/09/nx-s1-5845147/trump-us-census-citizenship-question-race-categories"
     },
     {
         "id": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
@@ -65,56 +137,74 @@
     {
         "id": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge",
         "source": "NPR Politics",
-        "title": "Judges may face unprecedented decisions this election. A new guide seeks to help",
+        "title": "Ballot seizures seemed impossible. But judges and officials are prepping for them now",
         "publicationDate": "2026-09-09",
         "category": "Other",
         "summary": "The idea of law enforcement taking possession of ballots in the middle of an active election used to be considered impossible. Now, it's a scenario voting officials — and judges — are training for.",
         "url": "https://www.npr.org/2026/09/09/nx-s1-5954189/2026-midterm-election-ballot-security-search-warrant-judge"
     },
     {
-        "id": "https://thehill.com/opinion/international/6076505-us-venezuela-oil-deal-democracy/",
-        "source": "The Hill",
-        "title": "Despite the oil deal, Venezuela's dictatorship is still blocking progress",
+        "id": "https://www.pbs.org/newshour/politics/with-sununu-vs-pappas-familiar-names-will-compete-in-new-hampshire-senate-race",
+        "source": "PBS NewsHour Politics",
+        "title": "With Sununu vs. Pappas, familiar names will compete in New Hampshire Senate race",
         "publicationDate": "2026-09-09",
-        "category": "Foreign Policy",
-        "summary": "In Venezuela, the repressive apparatus and its key figures continue to usurp power and enjoy its benefits.",
-        "url": "https://thehill.com/opinion/international/6076505-us-venezuela-oil-deal-democracy/"
+        "category": "chris pappas",
+        "summary": "Republican John E. Sununu, a former U.S. senator, and Democrat Chris Pappas, a member of the U.S. House, are vying to replace U.S. Sen. Jeanne Shaheen, whose decision not to seek reelection created a cascade of competitive races.",
+        "url": "https://www.pbs.org/newshour/politics/with-sununu-vs-pappas-familiar-names-will-compete-in-new-hampshire-senate-race"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6077021-health-risks-tobacco-smoking-infertility-world-health-organization-report/",
-        "source": "The Hill",
-        "title": "WHO report warns of link between smoking and infertility",
+        "id": "https://www.pbs.org/newshour/politics/trump-gave-45000-holiday-gifts-to-natalie-harp-and-two-other-white-house-aides",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump gave $45,000 holiday gifts to Natalie Harp and two other White House aides",
         "publicationDate": "2026-09-09",
-        "category": "Healthcare",
-        "summary": "A new report summarizes decades of evidence linking tobacco smoke with fertility problems.",
-        "url": "https://thehill.com/policy/healthcare/6077021-health-risks-tobacco-smoking-infertility-world-health-organization-report/"
+        "category": "Donald Trump news",
+        "summary": "President Donald Trump gave sizable holiday gifts to four White House aides, according to new financial disclosures released by the administration.",
+        "url": "https://www.pbs.org/newshour/politics/trump-gave-45000-holiday-gifts-to-natalie-harp-and-two-other-white-house-aides"
     },
     {
-        "id": "https://thehill.com/business/6077526-liv-golf-chapter-11-bankruptcy-new-model/",
+        "id": "https://thehill.com/business/6079152-treasury-increases-maximum-buyback-to-6-billion-in-effort-to-lower-bond-yields/",
         "source": "The Hill",
-        "title": "LIV Golf could soon be majority player-owned as organization files for Chapter 11 bankruptcy",
+        "title": "Treasury increases maximum buyback to $6 billion in effort to lower bond yields",
         "publicationDate": "2026-09-09",
-        "category": "Business",
-        "summary": "LIV Golf, the professional men's golf tour owned by the Public Investment Fund of Saudi Arabia, has filed for Chapter 11 bankruptcy protection as it begins restructuring, the organization announced on Tuesday.",
-        "url": "https://thehill.com/business/6077526-liv-golf-chapter-11-bankruptcy-new-model/"
+        "category": "Economy",
+        "summary": "The Treasury Department announced Wednesday it will triple the maximum amount of U.S. government debt it can buy back, part of its effort to tamp down surging bond yields. The Treasury will increase its buyback limit from $2 billion to $6 billion per operation, according to its updated buyback operations schedule. The department will repurchase...",
+        "url": "https://thehill.com/business/6079152-treasury-increases-maximum-buyback-to-6-billion-in-effort-to-lower-bond-yields/"
     },
     {
-        "id": "https://thehill.com/policy/international/6078254-us-iran-war-jordan-retaliation-oil-tankers-sunk/",
+        "id": "https://thehill.com/homenews/administration/6077751-live-updates-trump-republican-midterm-convention-dallas/",
         "source": "The Hill",
-        "title": "Iran attacks vessels, US base in Jordan after tankers sunk",
+        "title": "Live updates: Republicans converge on Dallas for Trump's midterm convention",
         "publicationDate": "2026-09-09",
-        "category": "Defense",
-        "summary": "Iran said Wednesday that it targeted 10 ships near the Strait of Hormuz, including two U.S. vessels and eight oil tankers, after the U.S. military attacked and destroyed five Iranian oil tankers Tuesday. The Islamic Revolutionary Guard Corps (IRGC) said it struck the vessels as they attempted to pass through an area Iran declared off...",
-        "url": "https://thehill.com/policy/international/6078254-us-iran-war-jordan-retaliation-oil-tankers-sunk/"
+        "category": "Administration",
+        "summary": "Administration officials, Republican candidates and party leaders will join President Trump in Dallas on Wednesday for the opening of a two-day Republican National Committee midterm convention. The president will give a keynote speech to close out the day. Several GOP lawmakers will give remarks throughout the gathering's first day, including Reps. Brandon Gill (Texas), Rob...",
+        "url": "https://thehill.com/homenews/administration/6077751-live-updates-trump-republican-midterm-convention-dallas/"
     },
     {
-        "id": "https://thehill.com/newsletters/the-gavel/6077380-supreme-court-trump-midterms/",
+        "id": "https://thehill.com/policy/technology/6078653-bipartisan-push-government-ai-testing/",
         "source": "The Hill",
-        "title": "Supreme Court races against midterms clock",
+        "title": "Bipartisan coalition pushes Trump administration on AI security framework release",
         "publicationDate": "2026-09-09",
-        "category": "The Gavel",
-        "summary": "President Trump’s mail voting restrictions are on the emergency docket again, but ballots have already begun going out in one state. Justice Brett Kavanaugh declined to restore Missouri Republicans’ congressional map just ahead of the deadline to lock in the state’s ballot, but a ruling in a separate lawsuit has led to continued confusion. Plus, another...",
-        "url": "https://thehill.com/newsletters/the-gavel/6077380-supreme-court-trump-midterms/"
+        "category": "Technology",
+        "summary": "A group of organizations from both sides of the aisle are calling on President Trump to publicly release his administration's framework on government AI testing, arguing the closed-door policy raises concerns around transparency. \"The government has a fundamental responsibility to share the parameters of the process for reviewing frontier AI models prior to wider deployment,\"...",
+        "url": "https://thehill.com/policy/technology/6078653-bipartisan-push-government-ai-testing/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6079214-eric-holder-todd-blanche-gop-midterm-convention-speech-critique/",
+        "source": "The Hill",
+        "title": "Holder blasts Blanche over planned GOP convention speech: 'Disgraceful'",
+        "publicationDate": "2026-09-09",
+        "category": "Administration",
+        "summary": "Former Attorney General Eric Holder on Tuesday slammed the sitting Department of Justice (DOJ) chief over his decision to address attendees at the Republican National Committee’s (RNC) first midterm convention in Dallas, which kicks off Wednesday. Holder, who served in the Obama administration, called Attorney General Todd Blanche's planned speech “unprecedented” and “disgraceful” in comments...",
+        "url": "https://thehill.com/homenews/administration/6079214-eric-holder-todd-blanche-gop-midterm-convention-speech-critique/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/1230-report/6079263-trump-a-palooza-kicks-off-in-texas/",
+        "source": "The Hill",
+        "title": "'Trump-a-palooza' kicks off in Texas",
+        "publicationDate": "2026-09-09",
+        "category": "12:30 Report",
+        "summary": "Plus: 🤔Is Jimmy Kimmel staying with ABC? {beacon} It’s Wednesday, and the wait is over for football fans. The NFL regular season kicks off tonight! In today's issue: Day 1 of RNC convention Rhode Island elections Oil, gas prices soar Super Bowl rematch Programming note: We're Joshua Feldstein and Abigail Walker, filling in...",
+        "url": "https://thehill.com/newsletters/1230-report/6079263-trump-a-palooza-kicks-off-in-texas/"
     },
     {
         "id": "https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html",
@@ -128,10 +218,10 @@
     {
         "id": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
         "source": "New York Times Politics",
-        "title": "Trump’s Super PAC Is Tied to Mystery Group Spending $25 Million on Midterms",
+        "title": "Trump’s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
         "publicationDate": "2026-09-09",
         "category": "Trump",
-        "summary": "The recently created Republican group is pumping cash into half a dozen key midterm races, with the largest amounts going toward Senate contests in New Hampshire and Alaska.",
+        "summary": "A recently created Republican group tied to the president’s super PAC is pumping cash into half a dozen key midterm races, with the largest amounts going toward Senate contests in Michigan and Ohio.",
         "url": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html"
     },
     {
@@ -155,11 +245,47 @@
     {
         "id": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
         "source": "New York Times Politics",
-        "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
+        "title": "Why California Is Reconsidering Its Decision to Shun Nuclear Power",
         "publicationDate": "2026-09-09",
         "category": "State Legislatures",
         "summary": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals.",
         "url": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/09/what-republicans-are-campaigning-midterms/",
+        "source": "Washington Post Politics",
+        "title": "What Republicans are campaigning on for the midterms",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "They’d rather not talk about Trump and gas prices.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/09/what-republicans-are-campaigning-midterms/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/business/2026/09/09/oils-rise-past-100-per-barrel-deepens-gops-midterm-challenge/",
+        "source": "Washington Post Politics",
+        "title": "Oil’s rise past $100 per barrel deepens GOP’s midterm challenge",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "The high gas prices are likely to haunt Republican candidates through Election Day.",
+        "url": "https://www.washingtonpost.com/business/2026/09/09/oils-rise-past-100-per-barrel-deepens-gops-midterm-challenge/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/09/lindsay-clancy-case-holdout-juror-had-reasonable-doubt-foreperson-says/",
+        "source": "Washington Post Politics",
+        "title": "Holdout juror in Clancy case admitted ‘reasonable doubt,’ foreperson says",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "Lindsay Clancy's trial ended in a mistrial after the Massachusetts jury could not reach a unanimous decision in the triple-murder case.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/09/lindsay-clancy-case-holdout-juror-had-reasonable-doubt-foreperson-says/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/09/jb-pritzker-plans-20-million-effort-target-maga-republicans/",
+        "source": "Washington Post Politics",
+        "title": "A potential 2028 presidential contender plans $20 million to help Democrats",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "Illinois Gov. JB Pritzker has formed a political action committee to help elect Democrats as he dances around a presidential bid.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/09/jb-pritzker-plans-20-million-effort-target-maga-republicans/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/09/how-much-does-trump-care-about-gop/",
@@ -171,40 +297,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/09/how-much-does-trump-care-about-gop/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/09/how-canada-with-elbows-up-could-hurt-trump-midterms/",
-        "source": "Washington Post Politics",
-        "title": "How Canada, with elbows up, could hurt Trump in the midterms",
+        "id": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
         "publicationDate": "2026-09-09",
         "category": "Other",
-        "summary": "The president's fight with our neighbor to the north — a constant over the course of his second term with a focus on trade — has turned ugly in recent weeks.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/09/how-canada-with-elbows-up-could-hurt-trump-midterms/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/09/trump-remakes-white-house-historical-association-stays-quiet/",
-        "source": "Washington Post Politics",
-        "title": "Trump is remodeling the White House. The group set up to protect it has stayed quiet.",
-        "publicationDate": "2026-09-09",
-        "category": "Other",
-        "summary": "The White House Historical Association, a nonprofit set up by Jacqueline Kennedy to preserve the building’s character, has declined to criticize the president’s changes.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/09/trump-remakes-white-house-historical-association-stays-quiet/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/09/takeaways-new-hampshire-primaries-where-sununu-pappas-won-senate/",
-        "source": "Washington Post Politics",
-        "title": "Takeaways from the New Hampshire primaries and an under-the-radar Senate race",
-        "publicationDate": "2026-09-09",
-        "category": "Other",
-        "summary": "Former Republican senator John E. Sununu and Democratic Rep. Chris Pappas easily won their primaries for an open U.S. Senate seat.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/09/takeaways-new-hampshire-primaries-where-sununu-pappas-won-senate/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/09/gop-indulges-trump-with-2-day-pep-rally-putting-him-right-where-democrats-want-him/",
-        "source": "Washington Post Politics",
-        "title": "Trump makes GOP midterm convention about himself, much to Democrats’ delight.",
-        "publicationDate": "2026-09-09",
-        "category": "Other",
-        "summary": "At Trump's urging, the GOP is staging a midterm convention centered on him.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/09/gop-indulges-trump-with-2-day-pep-rally-putting-him-right-where-democrats-want-him/"
+        "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
@@ -225,103 +324,67 @@
         "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Europe's royalty pay respects to King Harald V in Norway",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+        "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+        "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
         "publicationDate": "2026-09-09",
         "category": "Foreign Policy",
-        "summary": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
+        "summary": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
         "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "publicationDate": "2026-09-09",
-        "category": "Other",
-        "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+        "id": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Oil hits $100 for first time since July",
         "publicationDate": "2026-09-09",
         "category": "Foreign Policy",
-        "summary": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
-        "url": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss"
+        "summary": "Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch",
+        "url": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/88614cc3-6769-47c2-8fcb-76784cef5fca?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Number 10 backs UK air traffic control boss as airlines hit out at disruption",
-        "publicationDate": "2026-09-09",
-        "category": "Other",
-        "summary": "Pressure mounts on Martin Rolfe after software failure chaos that grounded more than 1,000 flights on Tuesday stretches into second day",
-        "url": "https://www.ft.com/content/88614cc3-6769-47c2-8fcb-76784cef5fca?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b6f7e0f4-ab56-4c7a-9238-44d83c244298",
-        "source": "Financial Times World",
-        "title": "PMQs live: Burnham signals more cost of living support",
-        "publicationDate": "2026-09-09",
-        "category": "Economy",
-        "summary": "MPs press Prime Minister over UK defence spending as government tries to calm investors ahead of Budget",
-        "url": "https://www.ft.com/content/b6f7e0f4-ab56-4c7a-9238-44d83c244298"
-    },
-    {
-        "id": "https://www.ft.com/content/bc02e99c-c6e0-4b1e-825c-330b4646ee9e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Kushner and Witkoff’s blind amateurism",
+        "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
         "publicationDate": "2026-09-09",
         "category": "Foreign Policy",
-        "summary": "The misguided belief that dangling potential postwar profits can lead to peace has hampered US diplomacy from Ukraine to Gaza and Iran",
-        "url": "https://www.ft.com/content/bc02e99c-c6e0-4b1e-825c-330b4646ee9e?syn-25a6b1a6=1"
+        "summary": "CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv",
+        "url": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/07e5851c-5e3b-43a8-ad23-527c0f191089?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Saudi Arabia’s other war enters dangerous new chapter",
+        "title": "US Treasury yields jump as plans for $6bn buybacks disappoint investors",
         "publicationDate": "2026-09-09",
-        "category": "Foreign Policy",
-        "summary": "Iran-backed Houthis launch biggest attack on the kingdom in years this week, taking their conflict to a new level",
-        "url": "https://www.ft.com/content/07e5851c-5e3b-43a8-ad23-527c0f191089?syn-25a6b1a6=1"
+        "category": "Economy",
+        "summary": "Scott Bessent seeks to steady government debt market with expanded purchase programme",
+        "url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/d24c2645-cc17-4dc9-924f-e114a4e22a8d",
+        "id": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Mirrors are reaching new depths",
+        "title": "‘I am the house now’: Bessent warns traders not to bet against yen",
         "publicationDate": "2026-09-09",
         "category": "Other",
-        "summary": "Reflective surfaces are being used less for vanity and more to create tension, intrigue and a sense of double-take fun",
-        "url": "https://www.ft.com/content/d24c2645-cc17-4dc9-924f-e114a4e22a8d"
+        "summary": "Comments follow July’s rare joint intervention with Tokyo to support Japanese currency",
+        "url": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1"
     },
     {
-        "id": "IF13307",
-        "source": "Congressional Research Service",
-        "title": "The Private Nondelegation Doctrine",
-        "publicationDate": "2026-09-08",
-        "category": "Economy",
-        "summary": "To preserve the separation of powers inherent in the U.S. constitutional structure, the Supreme Court has recognized legal doctrines prohibiting one branch of government from giving away its powers to another branch or entity. The private nondelegation doctrine is one such principle and is potentially implicated whenever the federal government—be it Congress, the President, or an agency—grants federal powers or...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13307/IF13307.1.pdf"
-    },
-    {
-        "id": "R48845",
-        "source": "Congressional Research Service",
-        "title": "Surface Transportation Reauthorization: Federal Highway Programs",
-        "publicationDate": "2026-09-08",
-        "category": "Economy",
-        "summary": "Federal funding for public roads is provided primarily through highway programs administered by the Department of Transportation’s (DOT’s) Federal Highway Administration (FHWA). Congress most recently authorized the federal highway programs for FY2022-FY2026 as part of the Infrastructure Investment and Jobs Act (IIJA; P.L. 117-58), a five-year surface transportation authorization act. Congress may consider future...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48845/R48845.11.pdf"
-    },
-    {
-        "id": "IF13308",
-        "source": "Congressional Research Service",
-        "title": "Overview of FY2027 Budget Request for the Census Bureau",
-        "publicationDate": "2026-09-08",
-        "category": "Economy",
-        "summary": "Introduction As a Department of Commerce agency, the U.S. Census Bureau is primarily funded through the annual Commerce, Justice, Science, and Related Agencies (CJS) appropriations bill. This In Focus provides an overview of the FY2027 budget request for the U.S. Census Bureau, certain comparisons to previous years' appropriations, and congressional action to date. Information is drawn from the Census Bureau's...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13308/IF13308.1.pdf"
+        "id": "https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "New Apple CEO to unveil $2,000 folding iPhone",
+        "publicationDate": "2026-09-09",
+        "category": "Other",
+        "summary": "Investors braced for price rises across smartphone line-up as memory costs hit",
+        "url": "https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4634-1.html",
@@ -369,6 +432,24 @@
         "url": "https://www.heritage.org/global-politics/report/us-romanian-relations-pivotal-partnership-unstable-region"
     },
     {
+        "id": "https://www.heritage.org/defense/commentary/how-the-drug-lords-learned-drone-war-ukraine",
+        "source": "Heritage Foundation",
+        "title": "How the Drug Lords Learned Drone War in Ukraine",
+        "publicationDate": "2026-09-08",
+        "category": "Defense",
+        "summary": "Last summer, European news outlets reported that “volunteers” from Mexican and Colombian drug cartels had infiltrated Ukraine’s military—considered the world’s “ drone superpower ”—to learn cutting-edge drone warfare so they could use the knowledge to kill their enemies back home. Claims that this problem is ongoing have not yet been publicly verified by the U.S. intelligence community or the media. As yet,...",
+        "url": "https://www.heritage.org/defense/commentary/how-the-drug-lords-learned-drone-war-ukraine"
+    },
+    {
+        "id": "https://www.hudson.org/events/fixing-shipping-shipbuilding-plotting-course-ahead",
+        "source": "Hudson Institute",
+        "title": "Fixing Shipping and Shipbuilding: Plotting the Course Ahead",
+        "publicationDate": "2026-09-08",
+        "category": "Defense",
+        "summary": "Fixing Shipping and Shipbuilding: Plotting the Course Ahead nhuergo@hudson.org Tue, 09/08/2026 - 16:11 16 September 2026 In-Person Event Fixing Shipping and Shipbuilding: Plotting the Course Ahead Register for Event WEDNESDAY 1:45 p.m. - 4:15 p.m. Event will also air live on this page. Inquiries: nhuergo@hudson.org . Register for Event Fixing Shipping and Shipbuilding: Plotting the Course Ahead In-Person Event...",
+        "url": "https://www.hudson.org/events/fixing-shipping-shipbuilding-plotting-course-ahead"
+    },
+    {
         "id": "https://www.hudson.org/events/contested-lebanon-israel-iran-us-strategy-fractured-state",
         "source": "Hudson Institute",
         "title": "Contested Lebanon: Israel, Iran, and US Strategy in a Fractured State",
@@ -376,6 +457,15 @@
         "category": "Defense",
         "summary": "Contested Lebanon: Israel, Iran, and US Strategy in a Fractured State nhuergo@hudson.org Tue, 09/08/2026 - 15:22 15 September 2026 In-Person Event Contested Lebanon: Israel, Iran, and US Strategy in a Fractured State TUESDAY 9:00 a.m. - 10:00 a.m. Event will also air live on this page. Inquiries: nhuergo@hudson.org . Contested Lebanon: Israel, Iran, and US Strategy in a Fractured State In-Person Event Invite Only...",
         "url": "https://www.hudson.org/events/contested-lebanon-israel-iran-us-strategy-fractured-state"
+    },
+    {
+        "id": "https://www.hudson.org/events/somaliland-strategic-partner-horn-africa",
+        "source": "Hudson Institute",
+        "title": "Somaliland as a Strategic Partner in the Horn of Africa",
+        "publicationDate": "2026-09-08",
+        "category": "Foreign Policy",
+        "summary": "Somaliland as a Strategic Partner in the Horn of Africa nhuergo@hudson.org Tue, 09/08/2026 - 15:09 14 September 2026 In-Person Event Somaliland as a Strategic Partner in the Horn of Africa MONDAY 3:30 p.m. - 5:00 p.m. Event will also air live on this page. Inquiries: nhuergo@hudson.org . Somaliland as a Strategic Partner in the Horn of Africa In-Person Event Invite Only September 14, 2026 Share: Share to Twitter...",
+        "url": "https://www.hudson.org/events/somaliland-strategic-partner-horn-africa"
     },
     {
         "id": "https://www.hudson.org/foreign-policy/nato-russia-hybrid-warfare-europe-falling-boiling-frog-trap-tsiporah-fried",
@@ -394,60 +484,6 @@
         "category": "Defense",
         "summary": "US Defense and Global Security Challenges bbert@hudson.org Tue, 09/08/2026 - 14:13 SVG Podcast Sep 5, 2026 Defense and Aerospace US Defense and Global Security Challenges Patrick M. Cronin Asia-Pacific Security Chair Patrick M. Cronin Podcast Caption Acting Secretary of the Navy Hung Cao speaks to the crew of Wasp-class amphibious assault ship USS Makin Island during an all-hands call on the flight deck on August...",
         "url": "https://www.hudson.org/foreign-policy/us-defense-global-security-challenges-patrick-cronin"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/how-america-keeps-winning-walter-russell-mead",
-        "source": "Hudson Institute",
-        "title": "Why the World Order is Collapsing and American Power is Rising",
-        "publicationDate": "2026-09-08",
-        "category": "Defense",
-        "summary": "Why the World Order is Collapsing and American Power is Rising bbert@hudson.org Tue, 09/08/2026 - 13:56 SVG Podcast Sep 8, 2026 Colossus Why the World Order is Collapsing and American Power is Rising Walter Russell Mead Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship Walter Russell Mead Podcast Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter...",
-        "url": "https://www.hudson.org/foreign-policy/how-america-keeps-winning-walter-russell-mead"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/how-does-conflict-iran-influence-south-caucasus-russia-ukraine-war-luke-coffey",
-        "source": "Hudson Institute",
-        "title": "How Does the Conflict in Iran Influence the South Caucasus and the Russia-Ukraine War?",
-        "publicationDate": "2026-09-08",
-        "category": "Defense",
-        "summary": "How Does the Conflict in Iran Influence the South Caucasus and the Russia-Ukraine War? bbert@hudson.org Tue, 09/08/2026 - 13:42 SVG In the Media Sep 8, 2026 Crescent Research Center How Does the Conflict in Iran Influence the South Caucasus and the Russia-Ukraine War? Luke Coffey Senior Fellow, Center on Europe and Eurasia Luke Coffey In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents...",
-        "url": "https://www.hudson.org/foreign-policy/how-does-conflict-iran-influence-south-caucasus-russia-ukraine-war-luke-coffey"
-    },
-    {
-        "id": "https://cms.hoover.org/node/392827",
-        "source": "Hoover Institution",
-        "title": "Japanese Diaspora Initiative Workshop",
-        "publicationDate": "2026-09-08",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/node/392827"
-    },
-    {
-        "id": "https://cms.hoover.org/research/securing-panama-canal",
-        "source": "Hoover Institution",
-        "title": "Securing the Panama Canal",
-        "publicationDate": "2026-09-08",
-        "category": "Other",
-        "summary": "The Panama Canal—the transoceanic waterway through which five percent of global commerce flows—is critical for U.S. national security.",
-        "url": "https://cms.hoover.org/research/securing-panama-canal"
-    },
-    {
-        "id": "https://cms.hoover.org/research/ships-fool-fight-fort-chokepoints-coastal-firepower-and-new-contest-maritime-commons",
-        "source": "Hoover Institution",
-        "title": "“A Ship’s a Fool to Fight a Fort”: Chokepoints, Coastal Firepower, and the New Contest for the Maritime Commons",
-        "publicationDate": "2026-09-08",
-        "category": "Other",
-        "summary": "The proliferation of land-based missiles, cheap drones, and integrated anti-access/area-denial networks has overturned centuries of assumptions about naval dominance, allowing regional powers—and their proxies—to hold critical maritime trade at risk. Traditional sea powers must adapt on two fronts: preventing chokepoint closures through deterrence by denial and mitigating them through resilience by design.",
-        "url": "https://cms.hoover.org/research/ships-fool-fight-fort-chokepoints-coastal-firepower-and-new-contest-maritime-commons"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
-        "source": "NPR Politics",
-        "title": "The 2026 midterm general election season is upon us. Here's what to watch",
-        "publicationDate": "2026-09-08",
-        "category": "Other",
-        "summary": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump's unpopularity and Democratic enthusiasm means control of Congress is on the ballot.",
-        "url": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump"
     },
     {
         "id": "https://www.pbs.org/newshour/economy/u-s-will-ban-dairy-products-motorcycles-and-most-alcoholic-beverages-from-canada",
@@ -477,24 +513,6 @@
         "url": "https://www.pbs.org/newshour/show/canadian-tariffs-on-u-s-goods-take-effect-marking-turning-point-in-relations"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/how-the-u-s-canada-trade-dispute-is-impacting-the-economy-on-both-sides-of-the-border",
-        "source": "PBS NewsHour Politics",
-        "title": "How the U.S.-Canada trade dispute is impacting the economy on both sides of the border",
-        "publicationDate": "2026-09-08",
-        "category": "Economy",
-        "summary": "To discuss the impact of the tariffs on the United States and Canada, Amna Nawaz spoke with Matthew Shoemaker. He is the mayor of Sault Ste. Marie, Ontario, a Canadian city just across the border from its sister city, Sault Ste. Marie, Michigan.",
-        "url": "https://www.pbs.org/newshour/show/how-the-u-s-canada-trade-dispute-is-impacting-the-economy-on-both-sides-of-the-border"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/trumps-trade-war-with-canada-looms-over-key-congressional-races",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump's trade war with Canada looms over key congressional races",
-        "publicationDate": "2026-09-08",
-        "category": "canada",
-        "summary": "President Trump's tariff policies are shaping key races for control of Congress this fall. Geoff Bennett discussed the impact on the midterms with congressional correspondent Lisa Desjardins.",
-        "url": "https://www.pbs.org/newshour/show/trumps-trade-war-with-canada-looms-over-key-congressional-races"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4997-1.html",
         "source": "RAND Corporation",
         "title": "An analysis of Veterans’ and Reservists’ participation in the labour market",
@@ -510,7 +528,7 @@
         "publicationDate": "2026-09-04",
         "category": "Defense",
         "summary": "Since the U.S. Air Force’s establishment in the National Security Act of 1947 (P.L. 80-253, Title II, §207), Congress has provided oversight of the size and composition of Air Force aircraft fleet. The service’s aircraft fleet includes tactical fighter aircraft for various missions, including air-to-air combat, air-to-ground attack, air interdiction, suppression or destruction of enemy air defenses, close air...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49338/R49338.2.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49338/R49338.3.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/horse-wrestling-and-hegemony-why-central-asias-nomad-games-matter-this-year",
@@ -522,6 +540,24 @@
         "url": "https://www.cfr.org/articles/horse-wrestling-and-hegemony-why-central-asias-nomad-games-matter-this-year"
     },
     {
+        "id": "IF13306",
+        "source": "Congressional Research Service",
+        "title": "Congressional Authority to Regulate Data Centers",
+        "publicationDate": "2026-09-03",
+        "category": "Defense",
+        "summary": "Data centers are facilities that house computer systems for managing and transmitting digital information. They are integral components in the development and use of artificial intelligence (AI), and large-scale investment in AI has led to rapid buildout of “hyperscale” data centers that consume large amounts of electricity and water. Concerns about those resource impacts, and related financial impacts on...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13306/IF13306.2.pdf"
+    },
+    {
+        "id": "IF12959",
+        "source": "Congressional Research Service",
+        "title": "The Cybersecurity Information Sharing Act of 2015: Expiring Provisions",
+        "publicationDate": "2026-09-03",
+        "category": "Defense",
+        "summary": "A decade ago, Congress authorized a cybersecurity information sharing structure that allows the federal government to collect and disseminate threat information, and enabled private sector entities to voluntarily share that information with the government, as well as among themselves. Congress passed this authorization after discussing the need for an information sharing protection framework with stakeholders in...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12959/IF12959.10.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4996-1.html",
         "source": "RAND Corporation",
         "title": "Buying Time Against AI Proliferation",
@@ -529,15 +565,6 @@
         "category": "Defense",
         "summary": "The author describes a formal model of artificial intelligence (AI) adoption and proliferation that focuses on the demand for AI capability.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4996-1.html"
-    },
-    {
-        "id": "https://www.cfr.org/articles/the-u-s-corporate-tax-base-that-now-resides-in-ireland",
-        "source": "Council on Foreign Relations",
-        "title": "The U.S. Corporate Tax Base That Now Resides in Ireland",
-        "publicationDate": "2026-09-03",
-        "category": "Economy",
-        "summary": "America’s largest companies often pay more tax in Dublin than they do in D.C.",
-        "url": "https://www.cfr.org/articles/the-u-s-corporate-tax-base-that-now-resides-in-ireland"
     },
     {
         "id": "https://www.heritage.org/global-politics/commentary/how-norway-can-do-more-forestall-the-russian-threat",
@@ -556,24 +583,6 @@
         "category": "Defense",
         "summary": "The State Department recently announced it had revoked more than 175,000 visas since President Donald Trump took office. Thanks to “continuous vetting,” it’s been able to yank the visas from foreigners who abused our hospitality by committing fraud and crime. That might sound like a lot, but in fiscal 2024 the U.S. issued 612,258 permanent immigrant visas and almost 11 million temporary visas to visitors and...",
         "url": "https://www.heritage.org/border-security/commentary/combating-rising-tide-visa-fraud"
-    },
-    {
-        "id": "https://www.heritage.org/energy/commentary/good-news-president-trump-you-can-slash-gas-prices-yourself",
-        "source": "Heritage Foundation",
-        "title": "Good News, President Trump. You Can Slash Gas Prices Yourself.",
-        "publicationDate": "2026-09-03",
-        "category": "Defense",
-        "summary": "Here’s some good news for President Donald Trump, who’s clearly concerned about the impact of high gas prices on Americans’ wallets (and perhaps their midterm votes): He can slash them without any help from Congress. Buried within Environmental Protection Agency regulations is a little known premium on every gallon of gasoline and diesel— more than double the federal gasoline tax—and Trump can erase it. If he does...",
-        "url": "https://www.heritage.org/energy/commentary/good-news-president-trump-you-can-slash-gas-prices-yourself"
-    },
-    {
-        "id": "https://www.heritage.org/technology/commentary/china-working-against-us-data-centers",
-        "source": "Heritage Foundation",
-        "title": "Is China Working Against U.S. Data Centers?",
-        "publicationDate": "2026-09-03",
-        "category": "Defense",
-        "summary": "Over the past year, the Trump administration’s efforts to position the United States as a global leader in artificial intelligence (AI) have drawn increasing left-wing criticism . And that’s just the way the Chinese Communist Party (CCP) likes it. CCP-linked actors have aggressively amplified anti-data center voices in America, even as Beijing generously subsidizes China’s own AI rollout and data center...",
-        "url": "https://www.heritage.org/technology/commentary/china-working-against-us-data-centers"
     },
     {
         "id": "https://www.cer.eu/cer-fringe-events-liberal-democrat-labour-and-conservative-party-conferences-2026",
@@ -619,14 +628,5 @@
         "category": "Foreign Policy",
         "summary": "Ökonom Sander Tordoir warnt vor einem „China-Schock 2.0“: Chinas massive Subventionen, Überkapazitäten und Exportoffensive setzen zentrale deutsche Branchen wie Autoindustrie, Maschinenbau und Chemie zunehmend unter Druck. Im Gespräch mit Paul Ronzheimer erklärt er, warum Deutschland diesmal im Zentrum des wirtschaftlichen Schocks steht, Hunderttausende Industriearbeitsplätze gefährdet sein könnten – und warum...",
         "url": "https://www.cer.eu/media/bild-die-gr%C3%B6%C3%9Fte-gefahr-f%C3%BCr-unseren-wohlstand-ronzheimer-trifft-sander-tordoir"
-    },
-    {
-        "id": "R44245",
-        "source": "Congressional Research Service",
-        "title": "Israel: Major Issues and U.S. Relations",
-        "publicationDate": "2026-07-02",
-        "category": "Defense",
-        "summary": "The United States and Israel have cooperated closely for decades, reflecting assessments across several Administrations and Congresses that the countries share a number of strategic interests, including in countering mutual threats from other regional states and militant groups. Large-scale U.S. assistance, as approved by Congress (generally more than $3.8 billion annually), has helped Israel develop conventional...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44245/R44245.151.pdf"
     }
 ]
