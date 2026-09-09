@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://thehill.com/homenews/campaign/6077147-shaheen-wins-nh-primary/",
+        "source": "The Hill",
+        "title": "Shaheen wins Democratic primary for New Hampshire House seat left open by Pappas",
+        "publicationDate": "2026-09-09",
+        "category": "Healthcare",
+        "summary": "Stefany Shaheen, a health tech entrepreneur and daughter of Sen. Jeanne Shaheen (D-N.H.), is projected to narrowly defeat state Democratic Party Vice Chair Maura Sullivan in the bitter Democratic primary for outgoing Rep. Chris Pappas’s (D-N.H.) seat with 90% of precincts reporting, according to Decision Desk HQ. Stefany Shaheen and Sullivan, a former top official at...",
+        "url": "https://thehill.com/homenews/campaign/6077147-shaheen-wins-nh-primary/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement/",
+        "source": "The Hill",
+        "title": "Charlotte food bank receives 270,000 eggs as part of NC Attorney General's settlement with producers",
+        "publicationDate": "2026-09-09",
+        "category": "State Watch",
+        "summary": "North Carolina Attorney General Jeff Jackson (D) announced Tuesday that a Charlotte food bank received 270,000 eggs as part of his antitrust settlement with three of the country’s largest egg producers. Second Harvest Food Bank of Metrolina in Charlotte accepted the donation, after food banks in Raleigh and Winston-Salem received eggs last month. Five more...",
+        "url": "https://thehill.com/homenews/state-watch/6077962-egg-producers-antitrust-settlement/"
+    },
+    {
         "id": "https://thehill.com/business/6077886-trump-bans-canadian-dairy-vehicles/",
         "source": "The Hill",
         "title": "Trump banning Canada's dairy products, motorcycles and many alcoholic beverages",
@@ -27,22 +45,13 @@
         "url": "https://thehill.com/blogs/in-the-know/6077857-page-six-reports-kimmel-exit/"
     },
     {
-        "id": "https://thehill.com/newsletters/defense-national-security/6077894-trump-foreign-policy-saves-taxpayers/",
-        "source": "The Hill",
-        "title": "Trump’s foreign policy saves taxpayers $320 billion over 4 years: Report",
+        "id": "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html",
+        "source": "New York Times Politics",
+        "title": "Amazon Cargo Jet Pilots Appeared to Try Aborting Landing, N.T.S.B. Investigation Indicates",
         "publicationDate": "2026-09-09",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Trump’s foreign policy saves taxpayers $320 billion over 4 years: Report President Trump’s foreign policy approach in the second term - hard border security, shifting weapons support to allied-financed purchases, hawkish actions in the Middle East...",
-        "url": "https://thehill.com/newsletters/defense-national-security/6077894-trump-foreign-policy-saves-taxpayers/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6077306-dilorenzo-wins-new-hampshire-house-primary/",
-        "source": "The Hill",
-        "title": "Trump's pick wins GOP primary for open Pappas House seat",
-        "publicationDate": "2026-09-09",
-        "category": "Defense",
-        "summary": "Anthony DiLorenzo, President Trump's pick for an open House seat in New Hampshire, is projected to win the Republican nomination, according to Decision Desk HQ. DiLorenzo defeated fellow GOP candidate Hollie Noveletsky, a military veteran and businesswoman, to advance to the general election in what will likely be a pivotal race for control of the...",
-        "url": "https://thehill.com/homenews/campaign/6077306-dilorenzo-wins-new-hampshire-house-primary/"
+        "category": "Airlines and Airplanes",
+        "summary": "The sequence of events detailed by National Transportation Safety Board investigators showed that the pilots lost crucial seconds before the plane ran off the runway in Miami.",
+        "url": "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html",
@@ -108,58 +117,76 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+        "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
         "publicationDate": "2026-09-09",
         "category": "Foreign Policy",
-        "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-        "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
+        "summary": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran.",
+        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US slaps import ban on Canadian alcohol and other goods",
+        "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
         "publicationDate": "2026-09-09",
         "category": "Other",
-        "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+        "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
         "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/5e23e1bc-e340-4c51-bcce-77cf2ec5ebe0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "DeepSeek fundraising frenzy spawns costly shadow market",
+        "id": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "South Park creators rename show 'South America' in apparent dig at Trump",
         "publicationDate": "2026-09-09",
         "category": "Other",
-        "summary": "New investment round triggers rush of vehicles with escalating fees and five-year lock-ups",
-        "url": "https://www.ft.com/content/5e23e1bc-e340-4c51-bcce-77cf2ec5ebe0?syn-25a6b1a6=1"
+        "summary": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state.",
+        "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/2b171670-c0ce-442f-85a0-2d475369ffa3?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/88614cc3-6769-47c2-8fcb-76784cef5fca?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "CVC hires TPG’s second-in-command Todd Sisitsky as co-CEO",
+        "title": "UK airports warn of further travel disruption",
         "publicationDate": "2026-09-09",
         "category": "Other",
-        "summary": "Private equity group brings on executive as part of succession plan for chief Rob Lucas",
-        "url": "https://www.ft.com/content/2b171670-c0ce-442f-85a0-2d475369ffa3?syn-25a6b1a6=1"
+        "summary": "Airlines race to restore schedules after air traffic control software failure grounded over 1,000 flights on Tuesday",
+        "url": "https://www.ft.com/content/88614cc3-6769-47c2-8fcb-76784cef5fca?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/61faf30d-751a-4537-b8c1-4ba5322107be",
+        "id": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Last Seen — Patrick Brammall searches for his long-lost daughter in this Harlan Coben-esque thriller",
+        "title": "Oil hits $100 for first time since July",
         "publicationDate": "2026-09-09",
         "category": "Other",
-        "summary": "Set in small-town Australia, this dreary Apple TV series is studded with explosive melodrama and preposterous plot twists",
-        "url": "https://www.ft.com/content/61faf30d-751a-4537-b8c1-4ba5322107be"
+        "summary": "Brent crude advances amid fears of a renewed global supply crunch",
+        "url": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "US bans Canadian dairy, motorcycles and most alcoholic beverages",
+        "title": "Oil nears $100 as US launches new strikes on Iranian tankers",
         "publicationDate": "2026-09-09",
-        "category": "Other",
-        "summary": "Trump administration announces move day after Ottawa imposed US$20bn in retaliatory tariffs on US goods",
-        "url": "https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad?syn-25a6b1a6=1"
+        "category": "Defense",
+        "summary": "American military hit ‘multiple’ ships linked to Revolutionary Guards following attempted missile attacks on US warship",
+        "url": "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/33d4674f-31db-4551-9ad3-c43d5c94c94c",
+        "source": "Financial Times World",
+        "title": "The clock is ticking on Senegal’s ‘total return swaps’",
+        "publicationDate": "2026-09-09",
+        "category": "Economy",
+        "summary": "Not such a FAB way to manage sovereign debt",
+        "url": "https://www.ft.com/content/33d4674f-31db-4551-9ad3-c43d5c94c94c"
+    },
+    {
+        "id": "https://www.ft.com/content/0715a142-311f-422f-a9dd-9e31bc3d7d61?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: Anthropic withheld AI model from UK testers",
+        "publicationDate": "2026-09-09",
+        "category": "Economy",
+        "summary": "Also in today’s newsletter: US bans Canadian dairy and Revolut targets business banking",
+        "url": "https://www.ft.com/content/0715a142-311f-422f-a9dd-9e31bc3d7d61?syn-25a6b1a6=1"
     },
     {
         "id": "IF13308",
@@ -414,15 +441,6 @@
         "url": "https://www.pbs.org/newshour/show/trumps-trade-war-with-canada-looms-over-key-congressional-races"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/08/us/politics/cia-deputy-director-china.html",
-        "source": "New York Times Politics",
-        "title": "Chinese Threat Requires a Broader Spying Mission, C.I.A. Deputy Director Says",
-        "publicationDate": "2026-09-08",
-        "category": "Foreign Policy",
-        "summary": "China’s economic competition with the United States makes Chinese companies a legitimate target, the agency’s deputy director, Michael Ellis, said at a conference.",
-        "url": "https://www.nytimes.com/2026/09/08/us/politics/cia-deputy-director-china.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/09/08/us-launches-strikes-5-iranian-oil-tankers-after-latest-attacks-warships/",
         "source": "Washington Post Politics",
         "title": "U.S. launches strikes on 5 Iranian oil tankers after latest attacks on warship",
@@ -452,29 +470,11 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+        "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
         "publicationDate": "2026-09-08",
         "category": "Other",
         "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
         "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Renoir paintings worth millions stolen in French museum heist",
-        "publicationDate": "2026-09-08",
-        "category": "Other",
-        "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
-        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/4d6d28a0-4b12-438e-8850-4b3d49fc57f5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "OpenAI faces competing claims around maths breakthrough",
-        "publicationDate": "2026-09-08",
-        "category": "Other",
-        "summary": "Chief executive Sam Altman says the lab was threatened with ‘unfounded accusations of plagiarism’",
-        "url": "https://www.ft.com/content/4d6d28a0-4b12-438e-8850-4b3d49fc57f5?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4997-1.html",
@@ -529,15 +529,6 @@
         "category": "Economy",
         "summary": "Assisted living is a term often applied to community-based residential settings that provide housing and meals (i.e., room and board), as well as long-term services and supports (LTSS), to older adults and individuals with disabilities. LTSS can include personal care, medication assistance, and housekeeping, as well as social and other health-related activities. States license these residential settings and refer...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11544/IF11544.8.pdf"
-    },
-    {
-        "id": "LSB11475",
-        "source": "Congressional Research Service",
-        "title": "State Marijuana Laws and the Dormant Commerce Clause",
-        "publicationDate": "2026-09-03",
-        "category": "Foreign Policy",
-        "summary": "Federal law classifies marijuana as a controlled substance under the federal Controlled Substances Act (CSA) and, thus, criminalizes many marijuana-related activities. Despite these federal prohibitions, a majority of U.S. states have adopted laws permitting certain types of marijuana sales and other marijuana-related activities. The state and local laws authorizing marijuana-related activities vary considerably....",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11475/LSB11475.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4996-1.html",
@@ -673,5 +664,14 @@
         "category": "Defense",
         "summary": "This Insight accompanies the Congressional District Geography Workbook, a Microsoft Excel file that congressional users can download from CRS.gov. The workbook provides information about U.S. House districts as configured in the 119th Congress (2025-2026). It supersedes the version published for the 118th Congress: CRS Insight IN12393, Congressional District Geography Workbook (118th Congress): An Interactive Tool...",
         "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12489/IN12489.14.pdf"
+    },
+    {
+        "id": "R48970",
+        "source": "Congressional Research Service",
+        "title": "Labor, Health and Human Services, and Education: FY2026 Appropriations",
+        "publicationDate": "2026-05-28",
+        "category": "Economy",
+        "summary": "This report offers an overview of the FY2026 Departments of Labor, Health and Human Services, and Education, and Related Agencies (LHHS) appropriations bill. This bill includes all accounts funded through the annual appropriations process at the U.S. Department of Labor (DOL) and U.S. Department of Education (ED). It also provides annual appropriations for most agencies within the U.S. Department of Health and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48970/R48970.7.pdf"
     }
 ]
