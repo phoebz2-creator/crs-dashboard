@@ -1,5 +1,23 @@
 [
     {
+        "id": "IF11545",
+        "source": "Congressional Research Service",
+        "title": "Overview of Federally Certified Long-Term Care Facilities",
+        "publicationDate": "2026-09-10",
+        "category": "Economy",
+        "summary": "Long-term care facilities (LTCFs), commonly referred to as nursing homes, provide both skilled nursing care over a short period of time for recuperation or rehabilitation after an acute illness or injury (i.e., post-acute care), and continuous care for an extended period, including around-the-clock supervision of, and assistance with, basic personal care activities (i.e., long-term services and supports, or LTSS)....",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11545/IF11545.2.pdf"
+    },
+    {
+        "id": "IF12938",
+        "source": "Congressional Research Service",
+        "title": "U.S. Satellite Capabilities for Tracking the Wildfire Life Cycle",
+        "publicationDate": "2026-09-10",
+        "category": "Economy",
+        "summary": "Satellite capabilities support virtually every stage of the wildfire life cycle: characterizing the prefire environment (e.g., seasonal climate predictions, vegetation); detecting and monitoring wildfires and smoke; and assessing postfire hazards (e.g., debris flows, flash floods) and ecosystem recovery. The National Oceanic and Atmospheric Administration (NOAA) notes that certain satellites provide “information...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12938/IF12938.2.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4841-1.html",
         "source": "RAND Corporation",
         "title": "Implementation and Outcome Evaluation of LA DOOR, a Proposition 47–Funded Program in Los Angeles",
@@ -34,6 +52,51 @@
         "category": "Foreign Policy",
         "summary": "A quarter century after the attacks on the World Trade Center and the Pentagon, Washington’s response offers important lessons for U.S. foreign policy today.",
         "url": "https://www.cfr.org/articles/the-lessons-of-september-11"
+    },
+    {
+        "id": "https://www.heritage.org/defense/commentary/post-911-lessons-reform-immigration-end-perpetual-wars",
+        "source": "Heritage Foundation",
+        "title": "Post 9/11 Lessons—Reform Immigration, End Perpetual Wars",
+        "publicationDate": "2026-09-10",
+        "category": "Defense",
+        "summary": "Remember where you were 25 years ago, on Sept. 11? I was driving back from a nice day at the beach in France when I heard that 19 terrorists had hijacked jet planes and flown them into the Twin Towers in New York City and the Pentagon in Washington. For every generation, there’s a date people remember. For the “Greatest Generation,” it’s probably the day the Japanese bombed Pearl Harbor. For boomers, the day of...",
+        "url": "https://www.heritage.org/defense/commentary/post-911-lessons-reform-immigration-end-perpetual-wars"
+    },
+    {
+        "id": "https://www.heritage.org/europe/commentary/iceland-puts-the-freeze-brussels-ever-closer-union",
+        "source": "Heritage Foundation",
+        "title": "Iceland Puts the Freeze on Brussels’ “Ever Closer Union”",
+        "publicationDate": "2026-09-10",
+        "category": "Defense",
+        "summary": "Icelanders have delivered a humiliating rebuke to Europe’s political elite: The continent does not belong to Brussels, and cooperation among free nations does not require surrendering sovereignty to the European Union. On Saturday, by 52.8% to 47.2%, with an extraordinary 82.5% turnout, voters rejected reopening EU membership talks. This was not a vote against Europe, trade or the Western alliance. It was a vote...",
+        "url": "https://www.heritage.org/europe/commentary/iceland-puts-the-freeze-brussels-ever-closer-union"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/ukraine-military-situation-report-september-9-can-kasapoglu",
+        "source": "Hudson Institute",
+        "title": "Ukraine Military Situation Report | September 9",
+        "publicationDate": "2026-09-10",
+        "category": "Defense",
+        "summary": "Ukraine Military Situation Report | September 9 bbert@hudson.org Thu, 09/10/2026 - 12:18 SVG Commentary Sep 9, 2026 Hudson Institute Ukraine Military Situation Report | September 9 Can Kasapoğlu Senior Fellow (Nonresident) Can Kasapoğlu Commentary Caption A serviceman of the 208th Kherson Anti-Aircraft Missile Brigade stands on combat duty near a launcher of the MIM-23 Hawk surface-to-air missile system in Mykolaiv...",
+        "url": "https://www.hudson.org/foreign-policy/ukraine-military-situation-report-september-9-can-kasapoglu"
+    },
+    {
+        "id": "https://cms.hoover.org/news/alliance-civics-academy-newsletter-august-2026",
+        "source": "Hoover Institution",
+        "title": "Alliance for Civics in the Academy Newsletter | August 2026",
+        "publicationDate": "2026-09-10",
+        "category": "Other",
+        "summary": "Welcome to the August issue of the ACA newsletter! Each month, we focus on a central theme and feature related webinar discussions, resources, and ACA members’ work. We also spotlight past webinar discussions from our series.",
+        "url": "https://cms.hoover.org/news/alliance-civics-academy-newsletter-august-2026"
+    },
+    {
+        "id": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/",
+        "source": "European Council on Foreign Relations",
+        "title": "Booted, then suited: Veterans and the making of Putin’s new proto-elite",
+        "publicationDate": "2026-09-10",
+        "category": "Foreign Policy",
+        "summary": "The Kremlin is promoting Ukraine war veterans--cultivating a proto-elite who could reinforce Russia’s militarised course.",
+        "url": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/"
     },
     {
         "id": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe",
@@ -83,11 +146,29 @@
     {
         "id": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
         "source": "NPR Politics",
-        "title": "After Trump promised to pay $5,000 if Republicans win, here's what to expect Thursday",
+        "title": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
         "publicationDate": "2026-09-10",
         "category": "Other",
-        "summary": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, setting high expectations for the convention's final night.",
+        "summary": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, drawing a strong response from House Democrats.",
         "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/supreme-court-again-rejects-push-to-use-trump-backed-congressional-map-in-missouri",
+        "source": "PBS NewsHour Politics",
+        "title": "Supreme Court again rejects push to use Trump-backed congressional map in Missouri",
+        "publicationDate": "2026-09-10",
+        "category": "Donald Trump news",
+        "summary": "The U.S. Supreme Court again rejected Missouri congressional maps backed by President Donald Trump on Thursday, a loss for Republicans trying to maintain control of the House in the pivotal midterm elections.",
+        "url": "https://www.pbs.org/newshour/politics/supreme-court-again-rejects-push-to-use-trump-backed-congressional-map-in-missouri"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-2026-republican-midterm-convention-night-2",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
+        "publicationDate": "2026-09-10",
+        "category": "dallas",
+        "summary": "Republicans spent the first night denouncing Democrats as extremists before President Donald Trump capped Wednesday with a speech saying the choice this election is \"very, very simple\" and making the outlandish promise of $5,000 to each American adult, if his party wins.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-2026-republican-midterm-convention-night-2"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/foulkes-defeats-rhode-islands-mckee-1st-governor-in-8-years-to-lose-a-primary",
@@ -99,94 +180,112 @@
         "url": "https://www.pbs.org/newshour/politics/foulkes-defeats-rhode-islands-mckee-1st-governor-in-8-years-to-lose-a-primary"
     },
     {
-        "id": "https://thehill.com/opinion/national-security/6079253-trump-iran-blockade-risks/",
+        "id": "https://thehill.com/homenews/media/6082338-fcc-commissioner-censorship-jimmy-kimmel-abc/",
         "source": "The Hill",
-        "title": "Trump should remove the Iran War’s most dangerous tripwire",
+        "title": "FCC commissioner: Kimmel's 'self censorship' shows Trump's bid to 'control' media working",
         "publicationDate": "2026-09-10",
-        "category": "Foreign Policy",
-        "summary": "The blockade hurts Iran, but it no longer justifies the risks.",
-        "url": "https://thehill.com/opinion/national-security/6079253-trump-iran-blockade-risks/"
+        "category": "Media",
+        "summary": "The Federal Communications Commission's (FCC) lone Democratic commissioner is pointing to ABC comedian Jimmy Kimmel's decision not to broadcast an interview with Texas Senate nominee James Talarico (D) as evidence of what she called the Trump administration's attempts to stifle free press. “Jimmy Kimmel’s decision to keep his interview with a Senate candidate off the air...",
+        "url": "https://thehill.com/homenews/media/6082338-fcc-commissioner-censorship-jimmy-kimmel-abc/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6081417-deluzio-criticizes-fetterman-pennsylvania/",
+        "id": "https://thehill.com/video-clips/6082532-trump-if-gop-wins-midterms-all-adult-citizens-will-get-5k-dividend-rising-yt/",
         "source": "The Hill",
-        "title": "Pennsylvania Democrat: Fetterman 'nowhere to be found'",
+        "title": "Trump: If GOP wins midterms, all adult citizens will get $5K dividend | RISING",
         "publicationDate": "2026-09-10",
-        "category": "Senate",
-        "summary": "Rep. Chris Deluzio (D-Pa.) said Wednesday that Sen. John Fetterman (D-Pa.) was “nowhere to be found” in his home state. In an interview with CNN’s Jake Tapper, Deluzio commented on the growing tension between Fetterman and his constituents in the Keystone State. “My constituents and folks all over Pennsylvania are pretty frustrated with John Fetterman,”...",
-        "url": "https://thehill.com/homenews/senate/6081417-deluzio-criticizes-fetterman-pennsylvania/"
+        "category": "Video",
+        "summary": "OPINION: President Trump says he will give $5,000 to every adult American if Republicans retain control of the House and Senate in this year's midterms.",
+        "url": "https://thehill.com/video-clips/6082532-trump-if-gop-wins-midterms-all-adult-citizens-will-get-5k-dividend-rising-yt/"
     },
     {
-        "id": "https://thehill.com/opinion/criminal-justice/6079440-corporations-stolen-wages-economic-impact/",
+        "id": "https://thehill.com/policy/energy-environment/6082122-summer-2026-hottest-on-record-noaa/",
         "source": "The Hill",
-        "title": "Wage theft is the heavyweight champion of American larceny",
-        "publicationDate": "2026-09-10",
-        "category": "Opinions - Criminal Justice",
-        "summary": "If America is serious about being tough on crime, it might start by cuffing the thieves who wear cufflinks.",
-        "url": "https://thehill.com/opinion/criminal-justice/6079440-corporations-stolen-wages-economic-impact/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/data-nerds/6081382-democratic-chances-senate-control-midterms-ddhq-live-discussion/",
-        "source": "The Hill",
-        "title": "Could Democrats win Senate control? What the DDHQ forecast shows: Live discussion",
-        "publicationDate": "2026-09-10",
-        "category": "Data Nerds",
-        "summary": "Democrats now have a very slight chance of winning Senate control in the latest Decision Desk HQ (DDHQ) forecast, leaving the battle effectively a coin flip while signaling a notable shift away from Republicans. What is driving this recent trend for Dems? Plus, the postprimary landscape in the New Hampshire Senate race, new polling from...",
-        "url": "https://thehill.com/homenews/campaign/data-nerds/6081382-democratic-chances-senate-control-midterms-ddhq-live-discussion/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6081044-clean-drinking-water-not-constitutional-right-appeals-court-ruling/",
-        "source": "The Hill",
-        "title": "Federal appeals court says clean drinking water is not a constitutional right",
+        "title": "Summer 2026 was the US's hottest on record: NOAA",
         "publicationDate": "2026-09-10",
         "category": "Energy & Environment",
-        "summary": "The ruling followed a lawsuit filed in 2022 by residents in Jackson, Mississippi, over the city's lead-contaminated water system.",
-        "url": "https://thehill.com/policy/energy-environment/6081044-clean-drinking-water-not-constitutional-right-appeals-court-ruling/"
+        "summary": "The National Oceanic and Atmospheric Administration (NOAA) on Wednesday announced that this summer marked the hottest on record in the U.S. NOAA found that the average temperature for meteorological summer was 74.4 degrees, 3 degrees above average. August's average temperature hit 75.6 degrees. Both were the warmest temperatures in agency's 132-year record. Most of the...",
+        "url": "https://thehill.com/policy/energy-environment/6082122-summer-2026-hottest-on-record-noaa/"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html",
+        "id": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/",
+        "source": "The Hill",
+        "title": "Missouri judges press state on map plans after Supreme Court ruling",
+        "publicationDate": "2026-09-10",
+        "category": "Court Battles",
+        "summary": "Missouri’s top judges pressed the state on Thursday over how it will revert to an old congressional map after the Supreme Court blocked officials from implementing their new, GOP-favored lines. That block landed moments before a hearing on whether Republican Secretary of State Denny Hoskins should be held in contempt for directing local officials to proceed with the design, which would have...",
+        "url": "https://thehill.com/regulation/court-battles/6082429-missouri-judges-gop-friendly-map-redistricting-battle-supreme-court/"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6082394-dean-calls-fetterman-video-stunt/",
+        "source": "The Hill",
+        "title": "Rep. Madeleine Dean slams Fetterman, calls video appearance 'gravely disappointing'",
+        "publicationDate": "2026-09-10",
+        "category": "House",
+        "summary": "Rep. Madeleine Dean (D-Pa.) didn’t mince words about Sen. John Fetterman (D-Pa.) and his video appearance at Republicans’ midterm convention, calling it a “stunt” that she said was “gravely disappointing.” “I will tell you from the ground from suburban Philadelphia, my constituents are livid,” Dean told reporters at House Democratic event responding to the GOP convention on...",
+        "url": "https://thehill.com/homenews/house/6082394-dean-calls-fetterman-video-stunt/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
         "source": "New York Times Politics",
-        "title": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
+        "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+        "publicationDate": "2026-09-10",
+        "category": "Biological and Chemical Warfare",
+        "summary": "In a new report, the A.I. start-up added that it could not determine if the research was legitimate or nefarious, leading the company to shut down the work.",
+        "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/10/us/politics/dhs-sikh-optimus-prime.html",
+        "source": "New York Times Politics",
+        "title": "D.H.S. Takes Down Post Depicting Sikh Trucker and Optimus Prime",
         "publicationDate": "2026-09-10",
         "category": "United States Politics and Government",
-        "summary": "The ruling deferred to Missouri’s state Supreme Court, which had invalidated G.O.P.-friendly district lines, saying voters must first have an opportunity to approve the map in a statewide referendum.",
-        "url": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html"
+        "summary": "Critics said the post, which showed the popular Transformers character facing off against “Mr. Singh,” stigmatized Sikhs, and Hasbro objected to the use of its brand.",
+        "url": "https://www.nytimes.com/2026/09/10/us/politics/dhs-sikh-optimus-prime.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-check.html",
+        "id": "https://www.nytimes.com/2026/09/10/us/politics/the-docket-ten-commandments.html",
         "source": "New York Times Politics",
-        "title": "Trump Wants to Give Out $5,000 Checks. It Would Cost More Than $1 Trillion.",
+        "title": "Defying Precedent in Ten Commandments Case",
         "publicationDate": "2026-09-10",
         "category": "United States Politics and Government",
-        "summary": "The president’s pledge to hand every American adult a “dividend” if Republicans keep control of Congress in the midterm elections raises questions.",
-        "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-check.html"
+        "summary": "A much-reversed appeals court upheld a Texas law requiring schools to post the sacred text.",
+        "url": "https://www.nytimes.com/2026/09/10/us/politics/the-docket-ten-commandments.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/10/us/politics/department-of-justice-election-fraud-states.html",
+        "id": "https://www.nytimes.com/2026/09/10/us/politics/us-airstrikes-houthis-civilian-deaths.html",
         "source": "New York Times Politics",
-        "title": "D.O.J. Escalates Threats to States in Battle for Election Records",
+        "title": "U.S. Airstrikes Targeting Houthis Killed Scores of Civilians in Yemen",
         "publicationDate": "2026-09-10",
-        "category": "Voting and Voters",
-        "summary": "The department sent letters to at least 30 states demanding they retain election records, an outgrowth of President Trump’s baseless claims of widespread election fraud.",
-        "url": "https://www.nytimes.com/2026/09/10/us/politics/department-of-justice-election-fraud-states.html"
+        "category": "Foreign Policy",
+        "summary": "A new report found that most of the deaths occurred during President Trump’s second term as his administration pursued the Iran-backed group.",
+        "url": "https://www.nytimes.com/2026/09/10/us/politics/us-airstrikes-houthis-civilian-deaths.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
+        "id": "https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html",
         "source": "New York Times Politics",
-        "title": "Down in the Polls, Republicans Embrace a Familiar Tool: Fear",
+        "title": "A.I. Data Center Pollution Poses Health Threat, Former E.P.A. Officials Warn",
         "publicationDate": "2026-09-10",
-        "category": "Midterm Elections (2026)",
-        "summary": "At an unusual midterm gathering, President Trump and his allies painted Democrats as dangerously un-American.",
-        "url": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html"
+        "category": "Healthcare",
+        "summary": "Air pollution from gas-fired power plants to run data centers is expected to add at least $20 billion in annual health care costs by 2028, the group warns.",
+        "url": "https://www.nytimes.com/2026/09/10/climate/ai-data-centers-air-pollution-health.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
-        "source": "New York Times Politics",
-        "title": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
+        "id": "https://www.washingtonpost.com/politics/2026/09/10/trump-has-proposed-direct-payments-americans-before-they-havent-happened/",
+        "source": "Washington Post Politics",
+        "title": "Trump has proposed direct payments to Americans before. They haven’t happened.",
         "publicationDate": "2026-09-10",
-        "category": "Trump",
-        "summary": "In his convention speech, the president floated a $5,000 “Trump Dividend” for every adult American if Republicans keep control of Congress. The idea, like many others, may not come to pass.",
-        "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html"
+        "category": "Other",
+        "summary": "The White House hasn’t elaborated on how a newly proposed $5,000 “dividend” would work.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/10/trump-has-proposed-direct-payments-americans-before-they-havent-happened/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/10/new-mexico-leaders-ask-apple-google-not-use-new-america-their-maps/",
+        "source": "Washington Post Politics",
+        "title": "New Mexico leaders ask Apple and Google not to use ‘New America’ on their maps",
+        "publicationDate": "2026-09-10",
+        "category": "Other",
+        "summary": "Members of the state’s congressional delegation said they don’t want a repeat of what happened with Lake America and the Gulf of America.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/10/new-mexico-leaders-ask-apple-google-not-use-new-america-their-maps/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/10/what-know-about-trumps-promised-5000-payouts/",
@@ -198,139 +297,130 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/10/what-know-about-trumps-promised-5000-payouts/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/10/katie-miller-sharply-criticizes-ai-companies-online-has-stake-rival/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/10/sending-armed-ice-agents-polling-places-would-be-federal-crime-lawsuit-says/",
         "source": "Washington Post Politics",
-        "title": "Ex-DOGE aide Katie Miller attacked OpenAI while invested in rival xAI",
+        "title": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says",
         "publicationDate": "2026-09-10",
         "category": "Other",
-        "summary": "Conservative podcaster Katie Miller has used her social media megaphone to denounce the AI chatbots ChatGPT, Claude and Gemini. She hasn't told her followers about her large stake in a rival firm, xAI.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/10/katie-miller-sharply-criticizes-ai-companies-online-has-stake-rival/"
+        "summary": "Latino civil rights groups and Denver sued the Trump administration on Thursday, invoking a law Congress passed in the final months of the Civil War.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/10/sending-armed-ice-agents-polling-places-would-be-federal-crime-lawsuit-says/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/10/democrats-play-up-trump-investigations-epstein-files-during-gop-convention-dallas/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/10/trump-says-administration-will-send-500-rebates-obamacare-premiums/",
         "source": "Washington Post Politics",
-        "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas",
+        "title": "Trump claims rebate checks are on the way for people overcharged by ACA",
         "publicationDate": "2026-09-10",
         "category": "Other",
-        "summary": "The countermessaging includes speaking to Texas voters about affordability issues and Democratic efforts to regain control of the House.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/10/democrats-play-up-trump-investigations-epstein-files-during-gop-convention-dallas/"
+        "summary": "President Donald Trump announced that $500 rebate checks would go to about 1 million Americans he said had been wrongly overcharged through the Affordable Care Act.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/10/trump-says-administration-will-send-500-rebates-obamacare-premiums/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/10/democratic-socialist-david-morales-wins-providence-rhode-island-mayoral-primary/",
-        "source": "Washington Post Politics",
-        "title": "Democratic socialist wins primary for mayor of Providence, Rhode Island",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "David Morales, a state lawmaker backed by the Democratic Socialists of America, defeated incumbent Mayor Brett P. Smiley.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/10/democratic-socialist-david-morales-wins-providence-rhode-island-mayoral-primary/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/10/meet-lawmaker-whos-worried-about-christian-nationalism/",
-        "source": "Washington Post Politics",
-        "title": "Meet the lawmaker who’s worried about Christian nationalism",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Rep. Jared Huffman is concerned about religious freedom.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/10/meet-lawmaker-whos-worried-about-christian-nationalism/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-        "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Watch: Is Trump's $5,000 election pledge legal?",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-        "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Iran war won't end until after crucial November elections, says Trump",
+        "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
         "publicationDate": "2026-09-10",
         "category": "Foreign Policy",
-        "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss"
+        "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+        "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+        "title": "Can Trump really pay $5,000 to every American adult?",
         "publicationDate": "2026-09-10",
         "category": "Other",
-        "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss"
+        "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+        "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
         "publicationDate": "2026-09-10",
         "category": "Other",
-        "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
-        "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss"
+        "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/cd652b20-1fa3-4a51-bea7-4d7e33b1eaa2?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Houthis capture Red Sea port in blow to Saudis",
+        "id": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
         "publicationDate": "2026-09-10",
         "category": "Other",
-        "summary": "Rebels overrun historic Yemeni port of Mocha as they advance south towards strategic Bab al-Mandeb Strait",
-        "url": "https://www.ft.com/content/cd652b20-1fa3-4a51-bea7-4d7e33b1eaa2?syn-25a6b1a6=1"
+        "summary": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+        "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/a98cb11f-e665-46ee-9ac5-0f85ec73e3b2",
-        "source": "Financial Times World",
-        "title": "European Central Bank raises interest rates with hawkish guidance",
-        "publicationDate": "2026-09-10",
-        "category": "Economy",
-        "summary": "Widely expected move comes with slightly stronger growth and inflation forecasts despite a higher market-implied rate path",
-        "url": "https://www.ft.com/content/a98cb11f-e665-46ee-9ac5-0f85ec73e3b2"
-    },
-    {
-        "id": "https://www.ft.com/content/c090f503-1299-4f33-8539-79bbfb50c21b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "British man charged with volunteering to sabotage UK drone factory for Russia",
+        "id": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Twenty-five dead after fire on cargo ship in eastern China",
         "publicationDate": "2026-09-10",
         "category": "Foreign Policy",
-        "summary": "Joshua Cammidge was arrested last week at his home in Swindon and charged with breaches of the National Security Act",
-        "url": "https://www.ft.com/content/c090f503-1299-4f33-8539-79bbfb50c21b?syn-25a6b1a6=1"
+        "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
+        "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/6b9afdfb-26f5-4746-8ff9-027a8d04cb1f?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/7816ad68-58ed-494c-a66f-091a9cca2cbc?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Is Trump losing his touch? You asked, Jemima Kelly answered",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Our FT society, politics and ideas columnist, who has observed Maga-world up close from Mar-a-Lago, replied to readers",
-        "url": "https://www.ft.com/content/6b9afdfb-26f5-4746-8ff9-027a8d04cb1f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/59baaebd-ba30-4e75-bbf9-a9a46459816f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "England’s mayors to be allowed to introduce unlimited tourism tax",
+        "title": "ECB prepares for ‘longer-lasting’ inflation as it lifts interest rates to 2.5%",
         "publicationDate": "2026-09-10",
         "category": "Economy",
-        "summary": "Hotel rooms, bed and breakfasts and Airbnb-type rentals face new levy",
-        "url": "https://www.ft.com/content/59baaebd-ba30-4e75-bbf9-a9a46459816f?syn-25a6b1a6=1"
+        "summary": "Central bank president Christine Lagarde warns price shock driven by Middle East conflict will persist well into 2027",
+        "url": "https://www.ft.com/content/7816ad68-58ed-494c-a66f-091a9cca2cbc?syn-25a6b1a6=1"
     },
     {
-        "id": "R49340",
+        "id": "https://www.ft.com/content/6508d169-35b1-4e56-a29a-57911d9123d8?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Say goodbye to the SaaSpocalypse and hello to the RenaiSaaS",
+        "publicationDate": "2026-09-10",
+        "category": "Other",
+        "summary": "Software companies have shown they can be beneficiaries of AI, rather than easy targets for it, though some risks remain",
+        "url": "https://www.ft.com/content/6508d169-35b1-4e56-a29a-57911d9123d8?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f9969f50-b2bb-4a8b-933b-1e39932d6e27?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Reform candidate for London mayor said Tories ‘should have borrowed and borrowed’",
+        "publicationDate": "2026-09-10",
+        "category": "Other",
+        "summary": "Comments by Laila Cunningham about more government borrowing when interest rates were ‘zero per cent’ appear to put her at odds with party leader",
+        "url": "https://www.ft.com/content/f9969f50-b2bb-4a8b-933b-1e39932d6e27?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a3cb053b-08eb-43c5-8cc4-9c4c22fbf529?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Ourselves Alone: a partial glimpse inside Ireland’s Sinn Féin",
+        "publicationDate": "2026-09-10",
+        "category": "Other",
+        "summary": "The party’s former press adviser chronicles how Sinn Féin’s 2024 electoral ambitions imploded",
+        "url": "https://www.ft.com/content/a3cb053b-08eb-43c5-8cc4-9c4c22fbf529?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/aa78428b-747f-4486-bac5-e3500386abaf?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Spain’s new citizenship law to spark fresh tensions with Morocco",
+        "publicationDate": "2026-09-10",
+        "category": "Other",
+        "summary": "Madrid paves way for tens of thousands of people born in Western Sahara before 1977 and their descendants to become Spanish",
+        "url": "https://www.ft.com/content/aa78428b-747f-4486-bac5-e3500386abaf?syn-25a6b1a6=1"
+    },
+    {
+        "id": "IF13310",
         "source": "Congressional Research Service",
-        "title": "Budgetary Effects Excluded or Eliminated from the Statutory Pay-As-You-Go Scorecards",
+        "title": "Tech Hubs and Build to Scale (B2S) Program Updates and Considerations",
         "publicationDate": "2026-09-09",
-        "category": "Economy",
-        "summary": "The Statutory Pay-As-You-Go Act of 2010 (Statutory PAYGO, P.L. 111-139, 2 U.S.C. §§931-939) is a budget enforcement mechanism intended to ensure that laws affecting direct (mandatory) spending or revenues do not, in aggregate, increase budget deficits. Under the act, the Office of Management and Budget (OMB) is required to maintain two scorecards that record the estimated average annual net effects on the deficit...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49340/R49340.2.pdf"
+        "category": "Defense",
+        "summary": "The Economic Development Administration (EDA), a bureau of the U.S. Department of Commerce (DOC), administers grants to assist state and local stakeholders with developing the conditions and amenities necessary to grow businesses, create jobs, and expand local opportunities for private investment. Regional Technology and Innovation Hubs (Tech Hubs) and Build to Scale (B2S) are two EDA programs that focus on...",
+        "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF13310.html"
+    },
+    {
+        "id": "R48881",
+        "source": "Congressional Research Service",
+        "title": "Surface Transportation Reauthorization: Passenger and Freight Rail Issues",
+        "publicationDate": "2026-09-09",
+        "category": "Technology",
+        "summary": "The Infrastructure Investment and Jobs Act (IIJA; P.L. 117-58) contained, among other provisions, a five-year reauthorization of federal surface transportation (highway, public transportation, and rail) programs set to expire on December 11, 2026. Funding for Amtrak or for discretionary grant programs, rail safety, and the rail industry are all issues addressed in the IIJA or prior reauthorizations that could be...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48881/R48881.7.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4946-1.html",
@@ -486,15 +576,6 @@
         "url": "https://cms.hoover.org/research/how-china-stealing-americas-ai"
     },
     {
-        "id": "https://cms.hoover.org/research/adams-and-jefferson-friendship-transcended-politics",
-        "source": "Hoover Institution",
-        "title": "Adams And Jefferson: A Friendship That Transcended Politics",
-        "publicationDate": "2026-09-09",
-        "category": "Other",
-        "summary": "The two heroes of the Revolution, reaching for amity and wisdom, embodied a time as polarized as ours.",
-        "url": "https://cms.hoover.org/research/adams-and-jefferson-friendship-transcended-politics"
-    },
-    {
         "id": "https://ecfr.eu/article/a-future-with-chinese-characteristics/",
         "source": "European Council on Foreign Relations",
         "title": "A future with Chinese characteristics",
@@ -531,67 +612,13 @@
         "url": "https://www.pbs.org/newshour/show/ai-researcher-warns-companies-are-ignoring-catastrophic-risks"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/news-wrap-white-house-defends-trumps-45000-gifts-to-natalie-harp-and-other-aides",
-        "source": "PBS NewsHour Politics",
-        "title": "News Wrap: White House defends Trump's $45,000 gifts to Natalie Harp and other aides",
-        "publicationDate": "2026-09-09",
-        "category": "Foreign Policy",
-        "summary": "In our news wrap Wednesday, the White House is defending President Trump's gift of $45,000 to his executive assistant Natalie Harp and others, the U.S. and Iran are trading more attacks in a fight to control the Strait of Hormuz and the trade war between the U.S. and Canada is escalating even further after the Trump administration announced a ban on certain Canadian imports.",
-        "url": "https://www.pbs.org/newshour/show/news-wrap-white-house-defends-trumps-45000-gifts-to-natalie-harp-and-other-aides"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/what-to-expect-from-the-gops-first-ever-midterm-convention",
-        "source": "PBS NewsHour Politics",
-        "title": "What to expect from the GOP's first-ever midterm convention",
-        "publicationDate": "2026-09-09",
-        "category": "2026 Republican Midterm Convention",
-        "summary": "Republicans are gathering in Dallas for an unusual two-day midterm convention, with President Trump set to address the party both nights. The event, part rally and part political showcase, is aimed at energizing Republican voters. White House correspondent Liz Landers reports from Dallas.",
-        "url": "https://www.pbs.org/newshour/show/what-to-expect-from-the-gops-first-ever-midterm-convention"
-    },
-    {
-        "id": "IF13309",
+        "id": "R40781",
         "source": "Congressional Research Service",
-        "title": "Service-Disabled Veteran-Owned Small Business Contracting Program",
+        "title": "The Housing Trust Fund: An Overview",
         "publicationDate": "2026-09-08",
-        "category": "Defense",
-        "summary": "Among federal small business contracting programs (see CRS Report R45576, An Overview of Small Business Contracting) that provide contracting preferences to small businesses, the federal preference for small businesses owned by veterans is specifically for those who are service-disabled, known as the service-disabled veteran-owned small business (SDVOSB) contracting program. Separately, the Department of Veterans...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13309/IF13309.2.pdf"
-    },
-    {
-        "id": "R48580",
-        "source": "Congressional Research Service",
-        "title": "Avian Influenza (Bird Flu) in the United States",
-        "publicationDate": "2026-09-08",
-        "category": "Foreign Policy",
-        "summary": "Avian influenza, sometimes referred to as “bird flu,” is a disease caused by influenza A viruses. It can be highly contagious and has a history of infecting birds, wildlife, and humans. A subtype of avian influenza, H5N1, was first detected in 1996 in Guangdong Province in China and has been spread globally by migratory birds. A 2021 outbreak of H5N1 that originated in Europe has caused a panzootic in birds that...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48580/R48580.4.pdf"
-    },
-    {
-        "id": "https://www.heritage.org/global-politics/report/us-romanian-relations-pivotal-partnership-unstable-region",
-        "source": "Heritage Foundation",
-        "title": "U.S.–Romanian Relations: A Pivotal Partnership in an Unstable Region",
-        "publicationDate": "2026-09-08",
-        "category": "Defense",
-        "summary": "The United States confronts a critical inflection point on the eastern front of the North Atlantic Treaty Organization (NATO). Throughout the history of the region, the Black Sea has proven to be geopolitically and economically important. Washington has long prioritized military cooperation with Romania and increasingly recognizes the valuable growth opportunities in the economic dimension of the U.S.–Romanian...",
-        "url": "https://www.heritage.org/global-politics/report/us-romanian-relations-pivotal-partnership-unstable-region"
-    },
-    {
-        "id": "https://www.heritage.org/defense/commentary/how-the-drug-lords-learned-drone-war-ukraine",
-        "source": "Heritage Foundation",
-        "title": "How the Drug Lords Learned Drone War in Ukraine",
-        "publicationDate": "2026-09-08",
-        "category": "Defense",
-        "summary": "Last summer, European news outlets reported that “volunteers” from Mexican and Colombian drug cartels had infiltrated Ukraine’s military—considered the world’s “ drone superpower ”—to learn cutting-edge drone warfare so they could use the knowledge to kill their enemies back home. Claims that this problem is ongoing have not yet been publicly verified by the U.S. intelligence community or the media. As yet,...",
-        "url": "https://www.heritage.org/defense/commentary/how-the-drug-lords-learned-drone-war-ukraine"
-    },
-    {
-        "id": "https://www.hudson.org/events/transatlantic-watchtower-icelands-role-great-power-competition",
-        "source": "Hudson Institute",
-        "title": "The Transatlantic Watchtower: Iceland’s Role in Great Power Competition",
-        "publicationDate": "2026-09-08",
-        "category": "Other",
-        "summary": "The Transatlantic Watchtower: Iceland’s Role in Great Power Competition nhuergo@hudson.org Tue, 09/08/2026 - 17:47 16 September 2026 In-Person Event The Transatlantic Watchtower: Iceland’s Role in Great Power Competition Register for Event WEDNESDAY 10:00 a.m. - 11:00 a.m. Event will also air live on this page. Inquiries: nhuergo@hudson.org . Register for Event The Transatlantic Watchtower: Iceland’s Role in Great...",
-        "url": "https://www.hudson.org/events/transatlantic-watchtower-icelands-role-great-power-competition"
+        "category": "Economy",
+        "summary": "The Housing Trust Fund (HTF) was established by the Housing and Economic Recovery Act of 2008 (HERA, P.L. 110-289) to provide funds to states to use for affordable housing activities, with a primary focus on the production, preservation, and rehabilitation of rental housing for extremely low-income households. It is administered by the Department of Housing and Urban Development (HUD) and is funded through...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R40781/R40781.26.pdf"
     },
     {
         "id": "https://ecfr.eu/special/future-nostalgia-europes-unfinished-song/",
@@ -610,33 +637,6 @@
         "category": "European Power",
         "summary": "The far-right AfD’s win in a small German state calls for dynamism in Berlin and hedging in Brussels",
         "url": "https://ecfr.eu/article/beyond-saxony-anhalt-what-merzs-crisis-means-for-europe/"
-    },
-    {
-        "id": "https://ecfr.eu/podcasts/episode/emergency-room-the-afds-victory-in-saxony-anhalt/",
-        "source": "European Council on Foreign Relations",
-        "title": "Emergency Room: The AfD’s victory in Saxony-Anhalt",
-        "publicationDate": "2026-09-08",
-        "category": "European Power",
-        "summary": "Mark Leonard welcomes Jana Puglierin, senior policy fellow and head of ECFR’s Berlin office, to discuss the Alternative for Germany (AfD)’s election win in Saxony-Anhalt—and what it means for Germany and Europe",
-        "url": "https://ecfr.eu/podcasts/episode/emergency-room-the-afds-victory-in-saxony-anhalt/"
-    },
-    {
-        "id": "R49342",
-        "source": "Congressional Research Service",
-        "title": "Department of Homeland Security Appropriations: FY2027 Provisions",
-        "publicationDate": "2026-09-05",
-        "category": "Economy",
-        "summary": "Through appropriations legislation, Congress provides not only budget authority for federal agencies and departments to operate, but also legally binding direction on how that budget authority can (or cannot) be used. These directions may appear in three places in an appropriations act: in the language of individual appropriations; in administrative provisions at the end of a title; and in general provisions at the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49342/R49342.1.pdf"
-    },
-    {
-        "id": "R49341",
-        "source": "Congressional Research Service",
-        "title": "Transportation, Housing and Urban Development, and Related Agencies (THUD) Appropriations for FY2027",
-        "publicationDate": "2026-09-03",
-        "category": "Economy",
-        "summary": "The House and the Senate Transportation, Housing and Urban Development, and Related Agencies (THUD) Appropriations Subcommittees are charged with providing annual appropriations for the U.S. Department of Transportation (DOT), the U.S. Department of Housing and Urban Development (HUD), and certain related agencies. Of the 12 regular appropriations bills, THUD is typically the fourth largest in terms of...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49341/R49341.3.pdf"
     },
     {
         "id": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026",
