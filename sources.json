@@ -1,5 +1,23 @@
 [
     {
+        "id": "R47639",
+        "source": "Congressional Research Service",
+        "title": "Presidential Medal of Freedom",
+        "publicationDate": "2026-09-11",
+        "category": "Technology",
+        "summary": "The Presidential Medal of Freedom is considered the U.S. government’s highest civilian honor. Awarded by the President, it is often presented to individuals to recognize a lifetime of significant achievements in the arts, public service, science, or other fields. Created by President Harry S. Truman in 1945 as the Medal of Freedom, the medal was renamed by President John F. Kennedy in 1963 as the Presidential Medal...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47639/R47639.23.pdf"
+    },
+    {
+        "id": "R48759",
+        "source": "Congressional Research Service",
+        "title": "Surface Transportation Reauthorization: Commercial Trucking Issues",
+        "publicationDate": "2026-09-11",
+        "category": "Economy",
+        "summary": "Trucks carry approximately 65% of the nation’s freight when measured by weight and 75% of the nation’s freight when measured by cargo value. If Congress considers reauthorizing surface transportation funding programs, numerous policy questions pertaining to the commercial operation of trucks may arise, including the following: Should Congress consider a ban on or the regulation of lease-purchase agreements between...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48759/R48759.4.pdf"
+    },
+    {
         "id": "R44324",
         "source": "Congressional Research Service",
         "title": "Staff Pay, Selected Positions in Senators’ Offices, FY2001-FY2025",
@@ -9,24 +27,6 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R44324/R44324.21.pdf"
     },
     {
-        "id": "R44325",
-        "source": "Congressional Research Service",
-        "title": "Senate Committee Staff Pay, Selected Positions, FY2001-FY2025",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "The level of pay for congressional staff is a source of recurring interest among Members of Congress, congressional staff, and the public. There may be interest in congressional pay data from multiple perspectives, including assessment of the costs of congressional operations; guidance in setting pay levels for staff in committee offices; consideration by staff when negotiating compensation for a new position or...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44325/R44325.14.pdf"
-    },
-    {
-        "id": "R44323",
-        "source": "Congressional Research Service",
-        "title": "Staff Pay, Selected Positions in House Member Offices, 2001-2025",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Levels of pay for congressional staff are a source of recurring questions among Members of Congress, congressional staff, and the public. There may be interest in congressional pay data for multiple reasons, including assessment of the costs of congressional operations, guidance in setting pay levels for staff in Member offices, or comparison of congressional staff pay levels with those of other federal government...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44323/R44323.17.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5284-1.html",
         "source": "RAND Corporation",
         "title": "Public procurement and AI governance",
@@ -34,6 +34,15 @@
         "category": "Other",
         "summary": "This report examines how AI middle powers can use public procurement to govern frontier AI. It develops a set of procurement guarantees, and assesses whether coordinated purchasing standards could strengthen state bargaining power.",
         "url": "https://www.rand.org/pubs/research_reports/RRA5284-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/charles-lindberghs-des-moines-speech",
+        "source": "Council on Foreign Relations",
+        "title": "Charles Lindbergh’s Des Moines Speech",
+        "publicationDate": "2026-09-11",
+        "category": "Article",
+        "summary": "The famed aviator and staunch isolationist discredited himself and his cause by blaming “the British, the Jewish, and the Roosevelt administration” for seeking to maneuver the United States into World War II.",
+        "url": "https://www.cfr.org/articles/charles-lindberghs-des-moines-speech"
     },
     {
         "id": "https://www.cfr.org/articles/lessons-from-9-11-and-its-aftermath",
@@ -144,6 +153,15 @@
         "url": "https://www.hudson.org/technology/ai-can-give-cyber-defenders-upper-hand-alexandra-seymour"
     },
     {
+        "id": "https://cms.hoover.org/events/new-space-race-power-policy-and-moon",
+        "source": "Hoover Institution",
+        "title": "The New Space Race: Power, Policy, And The Moon",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/events/new-space-race-power-policy-and-moon"
+    },
+    {
         "id": "https://cms.hoover.org/node/393000",
         "source": "Hoover Institution",
         "title": "2026 Indigenous Student Seminar",
@@ -207,6 +225,24 @@
         "url": "https://ecfr.eu/podcasts/episode/the-geopolitics-of-global-hunger/"
     },
     {
+        "id": "https://www.npr.org/2026/09/11/nx-s1-5963499/mayor-of-the-air-capital-of-the-world-reacts-to-trumps-threats-against-bombardier",
+        "source": "NPR Politics",
+        "title": "Mayor of the 'Air Capital of the World' reacts to Trump's threats against Bombardier",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "NPR's Sacha Pfeiffer talks with Wichita Mayor Lily Wu about President Trump's tariff war with Canada, Bombardier aircrafts, and the trade war's potential impact on her city.",
+        "url": "https://www.npr.org/2026/09/11/nx-s1-5963499/mayor-of-the-air-capital-of-the-world-reacts-to-trumps-threats-against-bombardier"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/11/nx-s1-5958496/trump-heads-to-ireland-to-watch-some-golf-at-his-club-and-conduct-some-diplomacy",
+        "source": "NPR Politics",
+        "title": "Trump heads to Ireland to watch some golf at his club and conduct some diplomacy",
+        "publicationDate": "2026-09-11",
+        "category": "Foreign Policy",
+        "summary": "President Trump heads to Ireland hoping for a little diplomacy as he watches a tournament at his golf club in Doonbeg.",
+        "url": "https://www.npr.org/2026/09/11/nx-s1-5958496/trump-heads-to-ireland-to-watch-some-golf-at-his-club-and-conduct-some-diplomacy"
+    },
+    {
         "id": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
         "source": "NPR Politics",
         "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
@@ -234,22 +270,22 @@
         "url": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms"
     },
     {
-        "id": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
-        "source": "NPR Politics",
-        "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-leads-rnc-in-pledge-to-cheat-like-hell-in-november-elections",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump leads RNC in pledge to 'cheat like hell' in November elections",
         "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections.",
-        "url": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs"
+        "category": "2026 Republican Midterm Convention",
+        "summary": "After President Donald Trump told attendees at the Republican midterm convention Thursday night that \"we want honesty in our elections,\" he led them in a pledge to \"cheat like hell\" and \"go out and vote\" in the midterm elections.",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-leads-rnc-in-pledge-to-cheat-like-hell-in-november-elections"
     },
     {
-        "id": "https://www.npr.org/2026/09/11/nx-s1-5965527/vance-trump-urge-americans-to-support-republicans-on-last-night-of-convention",
-        "source": "NPR Politics",
-        "title": "Vance, Trump urge Americans to support Republicans on last night of convention",
+        "id": "https://www.pbs.org/newshour/politics/cia-releases-dozens-of-presidential-daily-briefs-on-bin-laden-and-al-qaida-before-sept-11",
+        "source": "PBS NewsHour Politics",
+        "title": "CIA releases dozens of presidential daily briefs on bin Laden and al-Qaida before Sept. 11",
         "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Vice President Vance delivered remarks at the final night of the Republican Midterm Convention, as President Trump relished his last convention as the Republican Party's dominant leader.",
-        "url": "https://www.npr.org/2026/09/11/nx-s1-5965527/vance-trump-urge-americans-to-support-republicans-on-last-night-of-convention"
+        "category": "9/11",
+        "summary": "The documents illustrate security analysts' tracking of bin Laden's movements and support system, as well as concerns about possible threats to U.S. targets.",
+        "url": "https://www.pbs.org/newshour/politics/cia-releases-dozens-of-presidential-daily-briefs-on-bin-laden-and-al-qaida-before-sept-11"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/afghan-woman-whose-case-was-the-first-for-a-long-dormant-court-has-been-deported-officials-say",
@@ -279,67 +315,67 @@
         "url": "https://www.pbs.org/newshour/world/as-trump-squeezes-the-international-criminal-court-more-countries-are-leaving"
     },
     {
-        "id": "https://www.pbs.org/newshour/world/trump-list-of-u-s-designated-foreign-terrorist-organizations-in-latin-america-grows-to-21",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump list of U.S.-designated 'foreign terrorist organizations' in Latin America grows to 21",
-        "publicationDate": "2026-09-11",
-        "category": "Foreign Policy",
-        "summary": "The Trump administration has designated 21 Latin American and Caribbean criminal groups as \"foreign terrorist organizations,\" with the latest an Ecuadorian group added to the list on Wednesday.",
-        "url": "https://www.pbs.org/newshour/world/trump-list-of-u-s-designated-foreign-terrorist-organizations-in-latin-america-grows-to-21"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/vance-rubio-desantis-cruz-republicans-at-dallas-convention-ponder-options-for-post-trump-leader",
-        "source": "PBS NewsHour Politics",
-        "title": "Vance? Rubio? DeSantis? Cruz? Republicans at Dallas convention ponder options for post-Trump leader",
-        "publicationDate": "2026-09-11",
-        "category": "dallas",
-        "summary": "The vice president's speech solidified his status as a potential frontrunner, and President Donald Trump talked him up afterwards as a \"very talented guy\" who \"did a very good job.\"",
-        "url": "https://www.pbs.org/newshour/politics/vance-rubio-desantis-cruz-republicans-at-dallas-convention-ponder-options-for-post-trump-leader"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/6085116-cdc-cyclospora-outbreak-over/",
+        "id": "https://thehill.com/newsletters/business-economy/6085552-stubborn-inflation-fed-rate-hike/",
         "source": "The Hill",
-        "title": "Health officials declare end to largest cyclospora outbreak in history",
+        "title": "Stubborn inflation raises prospect of Fed rate hike",
         "publicationDate": "2026-09-11",
-        "category": "Healthcare",
-        "summary": "The country's largest outbreak of cyclospora illness has ended, federal health officials said Friday. The foodborne illness linked to contaminated lettuce sickened 12,883 people across 21 states, according to the Centers for Disease Control and Prevention, with more than 500 people hospitalized. Two people died in Michigan, which was the hardest-hit state, though health authorities...",
-        "url": "https://thehill.com/policy/healthcare/6085116-cdc-cyclospora-outbreak-over/"
+        "category": "Economy",
+        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Stubborn inflation raises prospect of Fed rate hike The Federal Reserve appears increasingly likely to hike interest rates next week, as inflation remains stubbornly elevated amid the war with Iran. © AP Photo/Julio Cortez New data...",
+        "url": "https://thehill.com/newsletters/business-economy/6085552-stubborn-inflation-fed-rate-hike/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6085207-court-strikes-michigan-coal-plant-order/",
+        "id": "https://thehill.com/homenews/senate/6085514-husted-political-director-nazi-imagery/",
         "source": "The Hill",
-        "title": "Federal court rules against Trump order keeping Michigan coal plant running",
+        "title": "Husted ousts his political director over posts with Nazi imagery",
         "publicationDate": "2026-09-11",
-        "category": "Administration",
-        "summary": "A federal appeals court on Friday struck down an order from the Trump administration keeping a Michigan coal plant open past its planned retirement. The U.S. Court of Appeals for the D.C. Circuit ruled that the Energy Department went beyond its authority when it ordered J.H. Campbell Generating Plant in West Olive to remain open...",
-        "url": "https://thehill.com/homenews/administration/6085207-court-strikes-michigan-coal-plant-order/"
+        "category": "Senate",
+        "summary": "Sen. Jon Husted (R-Ohio) fired his campaign's political director, Stephen Woytek, on Friday after learning about social media posts linked to Woytek, including a Facebook profile photo of Nazi officers and a public playlist of songs celebrating Rhodesia, a now-defunct nation often venerated by white supremacists. A spokesperson for Husted’s campaign told The Hill that...",
+        "url": "https://thehill.com/homenews/senate/6085514-husted-political-director-nazi-imagery/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/",
+        "id": "https://thehill.com/policy/defense/6085396-cia-releases-911-intelligence-briefings/",
         "source": "The Hill",
-        "title": "Live updates: Trump, Vance, past presidents pause to remember Sept. 11",
+        "title": "CIA releases never-before-seen warnings to Bush, Clinton about al Qaeda",
         "publicationDate": "2026-09-11",
         "category": "Defense",
-        "summary": "President Trump and Defense Secretary Pete Hegseth remembered Sept. 11 at the Pentagon, while Vice President Vance joined past presidents and New York City Mayor Zohran Mamdani (D) at Ground Zero on Friday morning, as America pauses to honor the victims of the 2001 terrorist attacks. While the memorial in New York included no politics,...",
-        "url": "https://thehill.com/homenews/administration/6083845-live-updates-trump-vance-sept-11/"
+        "summary": "The CIA on Friday publicly released for the first time a tranche of daily intelligence briefings provided ahead of Sept. 11, 2001, to former Presidents George W. Bush and Clinton about al Qaeda's plans to commit terrorist attacks on U.S. soil. The intelligence agency released 71 declassified documents in what CIA Director John Ratcliffe called...",
+        "url": "https://thehill.com/policy/defense/6085396-cia-releases-911-intelligence-briefings/"
     },
     {
-        "id": "https://thehill.com/blogs/in-the-know/6082539-savannah-guthrie-ireland-trip-nbc-nancy-guthrie-search/",
+        "id": "https://thehill.com/homenews/administration/6085410-lincoln-memorial-pool-renovation-errors/",
         "source": "The Hill",
-        "title": "Savannah Guthrie opens up about mom, Nancy, ahead of Ireland trip",
-        "publicationDate": "2026-09-11",
-        "category": "In The Know",
-        "summary": "Savannah Guthrie revealed that the \"Today\" crew is heading to Ireland, where her mother's family has roots in Galway.",
-        "url": "https://thehill.com/blogs/in-the-know/6082539-savannah-guthrie-ireland-trip-nbc-nancy-guthrie-search/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6085200-justice-department-deports-afghan-woman/",
-        "source": "The Hill",
-        "title": "Trump administration announces first-ever deportation from terrorist removal court",
+        "title": "Contractor blames Lincoln Memorial pool problems on itself, not vandals: Report",
         "publicationDate": "2026-09-11",
         "category": "Administration",
-        "summary": "The Justice Department on Friday noted the removal of an Afghan woman in the first-ever Alien Terrorist Removal Court (ATRC) case, announcing the resolution on the anniversary of the 9/11 attacks although the woman was deported last month. Nazira Haji Zada, a 47-year-old Afghan woman living in Fort Worth, Texas, was the first person to...",
-        "url": "https://thehill.com/homenews/administration/6085200-justice-department-deports-afghan-woman/"
+        "summary": "The contractor behind the Lincoln Memorial Reflecting Pool renovation says mistakes made during the repair caused the pool’s new blue liner to peel and blister, according to a new report. Atlantic Industrial Coatings found that workers did not apply enough primer in some areas and that two materials used for the liner were not compatible,...",
+        "url": "https://thehill.com/homenews/administration/6085410-lincoln-memorial-pool-renovation-errors/"
+    },
+    {
+        "id": "https://thehill.com/business/6085407-cpi-inflation-federal-reserve-interest-rates/",
+        "source": "The Hill",
+        "title": "Stubborn inflation raises prospect of Fed rate hike",
+        "publicationDate": "2026-09-11",
+        "category": "Economy",
+        "summary": "The Federal Reserve appears increasingly likely to hike interest rates next week, as inflation remains stubbornly elevated amid the war with Iran. New data out Friday showed annual inflation remained unchanged in August, still well above the central bank’s target 2 percent rate. This is raising expectations of a rate hike, even as President Trump pushes...",
+        "url": "https://thehill.com/business/6085407-cpi-inflation-federal-reserve-interest-rates/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html",
+        "source": "New York Times Politics",
+        "title": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
+        "publicationDate": "2026-09-11",
+        "category": "United States Politics and Government",
+        "summary": "The president attacked three Democrats running for Senate this week with inaccurate claims to portray them as too extreme.",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
+        "source": "New York Times Politics",
+        "title": "Trump Appears to Defend Iran War During 9/11 Anniversary Speech",
+        "publicationDate": "2026-09-11",
+        "category": "Foreign Policy",
+        "summary": "The president appeared to embrace the idea that after 9/11, no risk can be tolerated, an echo of reasoning used by previous American officials in the “forever wars” that he has long denounced.",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/11/us/politics/cia-officer-gold-bars-plea-deal.html",
@@ -369,22 +405,31 @@
         "url": "https://www.nytimes.com/2026/09/11/us/politics/cia-sept-11-intelligence.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html",
-        "source": "New York Times Politics",
-        "title": "Trump’s ‘Midterm Convention’ Tried to Reach Die-Hard Republican Voters, but Lacked Oomph",
+        "id": "https://www.washingtonpost.com/national-security/2026/09/11/woman-deported-afghanistan-first-use-alien-terrorist-removal-court/",
+        "source": "Washington Post Politics",
+        "title": "Woman deported to Afghanistan in first use of Alien Terrorist Removal Court",
         "publicationDate": "2026-09-11",
-        "category": "Television",
-        "summary": "The long, odd two-night TV production hoped to reach a select audience of die-hard voters (if football didn’t intercept them).",
-        "url": "https://www.nytimes.com/2026/09/11/arts/television/republican-midterm-convention-trump-notebook.html"
+        "category": "Other",
+        "summary": "Nazira Haji Zada conceded being an “alien terrorist” in a case heard by a secretive court established three decades ago but which held its first hearing this year.",
+        "url": "https://www.washingtonpost.com/national-security/2026/09/11/woman-deported-afghanistan-first-use-alien-terrorist-removal-court/"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-republican-convention-influencers-message.html",
-        "source": "New York Times Politics",
-        "title": "Influencers Invited to the Republican Midterm Convention Largely Avoided Talking About The Economy",
+        "id": "https://www.washingtonpost.com/politics/2026/09/11/years-bush-was-mocked-this-911-moment-now-hes-painted-it/",
+        "source": "Washington Post Politics",
+        "title": "For years, Bush was mocked for this 9/11 moment. Now he’s painted it.",
         "publicationDate": "2026-09-11",
-        "category": "Economy",
-        "summary": "Online media stars eager to promote President Trump and Republicans worked to find a message that would resonate with an audience that is struggling with an affordability crisis.",
-        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-republican-convention-influencers-message.html"
+        "category": "Other",
+        "summary": "President George W. Bush took up painting after leaving the White House in 2009 and has since made it a conspicuous part of his post-presidency.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/11/years-bush-was-mocked-this-911-moment-now-hes-painted-it/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/11/ohio-senate-campaign-staffer-used-nazi-soldiers-profile-photo/",
+        "source": "Washington Post Politics",
+        "title": "Ohio Senate campaign staffer used Nazi soldiers as profile photo",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "A top staffer for Sen. Jon Husted's reelection campaign recently made a playlist of songs in honor of White colonists in Rhodesia and wore a Nazi uniform.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/11/ohio-senate-campaign-staffer-used-nazi-soldiers-profile-photo/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/11/florida-fight-over-mail-in-ballots-hints-chaos-if-trump-rules-take-effect/",
@@ -403,33 +448,6 @@
         "category": "Foreign Policy",
         "summary": "President Donald Trump spoke at a solemn Pentagon ceremony marking the attacks of Sept. 11, 2001, and edged close to embracing policies he has long criticized.",
         "url": "https://www.washingtonpost.com/politics/2026/09/11/pentagon-trump-edges-toward-embracing-post-911-policies-he-attacked/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/11/trump-asks-rnc-miderm-convention-crowd-pledge-that-they-will-vote-cheat/",
-        "source": "Washington Post Politics",
-        "title": "Trump asks convention crowd to pledge to him they will vote, ‘cheat like hell’",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "At the midterm event, the president had audience members raise their hands and repeat after him.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/11/trump-asks-rnc-miderm-convention-crowd-pledge-that-they-will-vote-cheat/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/11/gop-state-senator-who-defied-trump-named-winner-four-months-after-close-election/",
-        "source": "Washington Post Politics",
-        "title": "GOP state senator who defied Trump named winner, four months after close election",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "The Indiana state Senate election was held in May but was close, prompting a challenge.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/11/gop-state-senator-who-defied-trump-named-winner-four-months-after-close-election/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/11/al-franken-other-jewish-americans-endorse-el-sayed-michigan-senate-race/",
-        "source": "Washington Post Politics",
-        "title": "Al Franken, other Jewish Americans endorse El-Sayed in Michigan Senate race",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Abdul El-Sayed, the Democratic nominee in the Michigan Senate race, has faced a backlash from some Jewish Democrats for his intense criticism of Israel.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/11/al-franken-other-jewish-americans-endorse-el-sayed-michigan-senate-race/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
@@ -486,6 +504,33 @@
         "url": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1"
     },
     {
+        "id": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Lone Pine’s co-CIO to join early SpaceX backer Atreides Management",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker",
+        "url": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "JPMorgan cut off Situational Awareness lending after AI losses",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during sell-off",
+        "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "Move is likely to put further momentum behind fast-rising oil prices",
+        "url": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/645b8e7d-39d6-4500-b761-c9a2edbc1a37?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Trump’s $5,000 dividend is bad corporate finance",
@@ -495,40 +540,13 @@
         "url": "https://www.ft.com/content/645b8e7d-39d6-4500-b761-c9a2edbc1a37?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Situational Awareness builds relationships with new brokers as it attempts rebound",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during AI sell-off",
-        "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/c3740cd0-3c4c-44d0-b3e8-4ccb1bac65b0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Is Bessent winning the wrong battle in markets?",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Treasury secretary’s intervention in the yen has made an impact but US bond yields are climbing higher and higher",
-        "url": "https://www.ft.com/content/c3740cd0-3c4c-44d0-b3e8-4ccb1bac65b0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Scott Bessent fails to break ‘fever’ in US bond market",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Treasury secretary’s $6bn bond operation is insufficient to stem the recent surge in borrowing costs, investors warn",
-        "url": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1"
-    },
-    {
         "id": "IF12938",
         "source": "Congressional Research Service",
         "title": "U.S. Satellite Capabilities for Tracking the Wildfire Life Cycle",
         "publicationDate": "2026-09-10",
         "category": "Economy",
         "summary": "Satellite capabilities support virtually every stage of the wildfire life cycle: characterizing the prefire environment (e.g., seasonal climate predictions, vegetation); detecting and monitoring wildfires and smoke; and assessing postfire hazards (e.g., debris flows, flash floods) and ecosystem recovery. The National Oceanic and Atmospheric Administration (NOAA) notes that certain satellites provide “information...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12938/IF12938.2.pdf"
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12938/IF12938.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4841-1.html",
@@ -576,15 +594,6 @@
         "url": "https://www.cfr.org/backgrounders/what-are-un-sustainable-development-goals"
     },
     {
-        "id": "https://www.cfr.org/articles/the-lessons-of-september-11",
-        "source": "Council on Foreign Relations",
-        "title": "What Policymakers Can Still Learn From the War on Terrorism",
-        "publicationDate": "2026-09-10",
-        "category": "Foreign Policy",
-        "summary": "A quarter century after the attacks on the World Trade Center and the Pentagon, Washington’s response offers important lessons for U.S. foreign policy today.",
-        "url": "https://www.cfr.org/articles/the-lessons-of-september-11"
-    },
-    {
         "id": "https://cms.hoover.org/research/how-deal-was-won-insider-view-2008-india-us-nuclear-deal",
         "source": "Hoover Institution",
         "title": "How The Deal Was Won | Insider View On 2008 India-US Nuclear Deal",
@@ -592,15 +601,6 @@
         "category": "Other",
         "summary": "Key insiders share their insights on the diplomatic breakthrough of the Indo-US nuclear deal in 2008.",
         "url": "https://cms.hoover.org/research/how-deal-was-won-insider-view-2008-india-us-nuclear-deal"
-    },
-    {
-        "id": "https://cms.hoover.org/research/slogan-infuriates-beijing-judges-have-turned-it-crime",
-        "source": "Hoover Institution",
-        "title": "This Slogan Infuriates Beijing. Judges Have Turned It Into A Crime.",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Hong Kong convictions target democracy leaders for demanding political reform.",
-        "url": "https://cms.hoover.org/research/slogan-infuriates-beijing-judges-have-turned-it-crime"
     },
     {
         "id": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/",
@@ -628,15 +628,6 @@
         "category": "Economy",
         "summary": "The authors analyzed public disclosures, foundation tax returns, and federal contractor reports to assess how S&P 500 companies support veterans and found little alignment among corporate statements, foundation giving, and protected veteran hiring.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4946-1.html"
-    },
-    {
-        "id": "R49344",
-        "source": "Congressional Research Service",
-        "title": "Status of FY2027 Labor, Health and Human Services, and Education Appropriations: In Brief",
-        "publicationDate": "2026-09-08",
-        "category": "Economy",
-        "summary": "This report provides an overview of FY2027 Labor, Health and Human Services, and Education, and Related Agencies (LHHS) appropriations, including relevant congressional actions and a top-line comparison of discretionary funding proposed for FY2027 versus prior-year funding for FY2025 and FY2026. It also provides background on the scope of the bill and context for congressional budgetary decisionmaking. Full-year...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49344/R49344.3.pdf"
     },
     {
         "id": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026",
@@ -673,5 +664,14 @@
         "category": "Other",
         "summary": "Thank you for providing your feedback on the options for the CER's publications and podcast mailings. Your name: The amount of email I receive from the CER is: About right Too much If you have selected 'too much' above would you prefer to receive: A weekly newsletter with links to all content A monthly newsletter with links to all content Would you like to opt-out of receiving: Publications Podcasts Your email:...",
         "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
+    },
+    {
+        "id": "R47645",
+        "source": "Congressional Research Service",
+        "title": "U.S. Regional Fishery Management Councils",
+        "publicationDate": "2026-07-09",
+        "category": "Other",
+        "summary": "Eight U.S. Regional Fishery Management Councils (FMCs) jointly manage federal marine fisheries (i.e., those occurring in waters up to 200 nautical miles offshore beyond state or territorial waters) with the National Oceanic and Atmospheric Administration (NOAA). The Magnuson-Stevens Fishery Conservation and Management Act (MSA; P.L. 94-265) established the FMCs, their roles, and their responsibilities. Congress...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47645/R47645.12.pdf"
     }
 ]
