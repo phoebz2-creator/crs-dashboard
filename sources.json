@@ -1,5 +1,41 @@
 [
     {
+        "id": "https://thehill.com/homenews/campaign/6083650-vance-rnc-keynote-2028-chatter/",
+        "source": "The Hill",
+        "title": "RNC finale ‘all about Vance’ as GOP base looks to 2028",
+        "publicationDate": "2026-09-11",
+        "category": "Campaign",
+        "summary": "Vice President Vance roused the closing night crowd at the Republican National Committee’s Dallas convention amid growing chatter about his 2028 prospects. The Thursday night keynote — interrupted at one point with chants of \"48\" — offered the vice president a chance to charm the base that will be critical if he decides to run...",
+        "url": "https://thehill.com/homenews/campaign/6083650-vance-rnc-keynote-2028-chatter/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6083586-oz-wants-fetterman-join-gop/",
+        "source": "The Hill",
+        "title": "Oz wants ‘unexpected star’ Fetterman to cross the aisle and become Republican",
+        "publicationDate": "2026-09-11",
+        "category": "Healthcare",
+        "summary": "Centers for Medicare & Medicaid (CMM) Administrator Dr. Mehmet Oz said on a podcast Thursday that he wants Sen. John Fetterman (D), his rival in Pennsylvania's 2022 Senate race, to cross the aisle and join the Republican party. Oz's comments come a day after Fetterman's surprise video appearance at the Republican National Committee's midterm convention...",
+        "url": "https://thehill.com/homenews/state-watch/6083586-oz-wants-fetterman-join-gop/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention/",
+        "source": "The Hill",
+        "title": "Trump leads convention in pledge: 'You go to h---’ if you don’t vote",
+        "publicationDate": "2026-09-11",
+        "category": "Administration",
+        "summary": "President Trump closed out the Republican midterm convention in Dallas on Thursday by urging attendees to pledge to go out and vote in November’s midterm elections. “Please raise your right hand,” Trump told a stadium packed with his supporters as he was met with some laughter. “I pledge to the greatest president in the history...",
+        "url": "https://thehill.com/homenews/administration/6083597-trump-midterm-pledge-vote-convention/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6083576-vance-criticizes-talarico-gop-convention-speech/",
+        "source": "The Hill",
+        "title": "Vance takes aim at Talarico in Texas convention speech",
+        "publicationDate": "2026-09-11",
+        "category": "Campaign",
+        "summary": "Vice President Vance issued sharp criticism of James Talarico in the Democratic Senate candidate's backyard, while speaking at the Republican National Committee’s (RNC) midterm convention in Dallas on Thursday evening. Talarico, a state lawmaker, is running against Texas Attorney General Ken Paxton (R) this November to replace incumbent GOP Sen. John Cornyn. “But this Talarico...",
+        "url": "https://thehill.com/homenews/campaign/6083576-vance-criticizes-talarico-gop-convention-speech/"
+    },
+    {
         "id": "https://thehill.com/policy/technology/6083529-lawmakers-urge-apple-google-new-mexico/",
         "source": "The Hill",
         "title": "New Mexico Democrats call on Apple, Google to keep state's name on map",
@@ -9,58 +45,67 @@
         "url": "https://thehill.com/policy/technology/6083529-lawmakers-urge-apple-google-new-mexico/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6083451-trump-potential-democratic-majority-probably-deals/",
-        "source": "The Hill",
-        "title": "Trump says he would ‘probably’ be able to make deals with Democrats",
+        "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’",
         "publicationDate": "2026-09-11",
-        "category": "Administration",
-        "summary": "President Trump said he would “probably” be able to make deals with Democrats should they take back majorities in Congress — but warned he would also work to block their agenda. “I’ll be a block. I’ll end up being a blocker. I’ll block all of their bad stuff for two years,” Trump said in an...",
-        "url": "https://thehill.com/homenews/administration/6083451-trump-potential-democratic-majority-probably-deals/"
+        "category": "Trump",
+        "summary": "The president made clear as his midterm convention wrapped up that he wants to carry his party through a tough midterms. He just won’t go too far out of his way to do it.",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-pledge-republican-convention-speech.html"
     },
     {
-        "id": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/we-have-banned-corporate-tycoons-from-buying-up-our-housing-stock-because-we-hold-the-simple-belief-that-american-homes-ought-to",
+        "id": "https://www.nytimes.com/2026/09/11/us/politics/vance-republican-convention-speech-trump.html",
         "source": "New York Times Politics",
-        "title": "“We have banned corporate tycoons from buying up our housing stock because we hold the simple belief that American homes ought to go to the American people.”",
+        "title": "Vance, Eying 2028, Relishes the Spotlight at Trump’s Convention",
         "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/we-have-banned-corporate-tycoons-from-buying-up-our-housing-stock-because-we-hold-the-simple-belief-that-american-homes-ought-to"
+        "category": "United States Politics and Government",
+        "summary": "The vice president, widely seen as a potential White House candidate, sought to use his speech in Dallas to show a more personal side to the MAGA faithful.",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/vance-republican-convention-speech-trump.html"
     },
     {
-        "id": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/under-donald-trumps-leadership-weve-created-one-million-new-jobs-and-unlike-the-last-administration-where-most-of-the-job-growth",
+        "id": "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html",
         "source": "New York Times Politics",
-        "title": "“Under Donald Trump’s leadership, we’ve created one million new jobs. And unlike the last administration, where most of the job growth went to illegal aliens, 100 percent of the job growth in the United States of America is going to American citizens, which is exactly where it belongs.”",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/under-donald-trumps-leadership-weve-created-one-million-new-jobs-and-unlike-the-last-administration-where-most-of-the-job-growth"
-    },
-    {
-        "id": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/when-medicaid-programs-for-homeless-or-expecting-mothers-in-states-like-minnesota-and-wisconsin-they-began-to-fall-apart-because",
-        "source": "New York Times Politics",
-        "title": "“When Medicaid programs for homeless or expecting mothers in states like Minnesota and Wisconsin, they began to fall apart because the money that you had paid to support those expectant mothers was going to fraudsters. Here’s what the Democrats did: They refused to prosecute the crime.”",
-        "publicationDate": "2026-09-11",
-        "category": "Healthcare",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/when-medicaid-programs-for-homeless-or-expecting-mothers-in-states-like-minnesota-and-wisconsin-they-began-to-fall-apart-because"
-    },
-    {
-        "id": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/americans-who-were-finishing-school-suddenly-found-themselves-competing-not-against-their-fellow-americans-for-jobs-but-against-",
-        "source": "New York Times Politics",
-        "title": "“Americans who were finishing school suddenly found themselves competing not against their fellow Americans for jobs, but against 25 million new illegal immigrants.”",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/americans-who-were-finishing-school-suddenly-found-themselves-competing-not-against-their-fellow-americans-for-jobs-but-against-"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/10/us/politics/dallas-texas-republican-convention.html",
-        "source": "New York Times Politics",
-        "title": "Fears of a Democratic Wave Push Texas to Center Stage at G.O.P. Convention",
+        "title": "7 Takeaways From the Republican Midterm Convention",
         "publicationDate": "2026-09-11",
         "category": "Midterm Elections (2026)",
-        "summary": "A parade of speakers focused on crucial races in the reliably red Texas, where Democrats are running close, or even ahead, of Republican nominees.",
-        "url": "https://www.nytimes.com/2026/09/10/us/politics/dallas-texas-republican-convention.html"
+        "summary": "On the second night of the Republican gathering in Dallas, Vice President JD Vance was the headliner. But President Trump returned to center stage.",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/republican-midterm-convention-vance-takeaways.html"
+    },
+    {
+        "id": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/think-of-it-22-trillion-coming-into-this-country",
+        "source": "New York Times Politics",
+        "title": "“Think of it: $22 trillion coming into this country.”",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/think-of-it-22-trillion-coming-into-this-country"
+    },
+    {
+        "id": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/we-delivered-the-largest-tax-cuts-in-american-history",
+        "source": "New York Times Politics",
+        "title": "“We delivered the largest tax cuts in American history.”",
+        "publicationDate": "2026-09-11",
+        "category": "Economy",
+        "summary": "Description not available from the source feed.",
+        "url": "https://www.nytimes.com/live/2026/09/10/us/trump-rnc-midterm-convention-updates/we-delivered-the-largest-tax-cuts-in-american-history"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/10/gop-convention-attendee-calls-shooting-democrats-during-cruzs-speech/",
+        "source": "Washington Post Politics",
+        "title": "GOP convention attendee calls for shooting Democrats during Cruz’s speech",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "Democrats condemned the calls for violence. The Republican senator did not address the outburst in the moment but later posted a clip in which it could be clearly heard.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/10/gop-convention-attendee-calls-shooting-democrats-during-cruzs-speech/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/10/vance-keynote-speech-gop-midterm-event-strengthens-image-heir/",
+        "source": "Washington Post Politics",
+        "title": "Vance appears more like Trump’s heir apparent at GOP convention",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "The vice president characterized Democrats as the “party of hatred,” while urging Republicans to unify. His role could strengthen his potential presidential bid.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/10/vance-keynote-speech-gop-midterm-event-strengthens-image-heir/"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/09/10/joseph-digenova-prosecutor-leading-probe-into-trump-foes-resigns/",
@@ -86,35 +131,80 @@
         "title": "RFK Jr. uses military aircraft as he campaigns for GOP in midterms",
         "publicationDate": "2026-09-11",
         "category": "Defense",
-        "summary": "The White House and Department of Health and Human Services lawyers signed off on the plan to let the health secretary use military jets, five people said.",
+        "summary": "The White House and Department of Health and Human Services lawyers signed off on the plan to let the health secretary use military jets, according to people familiar with the plan.",
         "url": "https://www.washingtonpost.com/health/2026/09/10/rfk-jr-uses-military-aircraft-he-campaigns-gop-midterms/"
     },
     {
-        "id": "R49327",
+        "id": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Man jailed after threatening to kill son's teacher in French village",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "The father had threatened to behead a female primary school teacher near Toulouse.",
+        "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/e1aacb1c-45d1-4d21-b5e9-0166c12c54cd?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UK economy unexpectedly grew 0.4% in July on back of AI investment boom",
+        "publicationDate": "2026-09-11",
+        "category": "Economy",
+        "summary": "Resilient start to third quarter comes as surging oil price reignites inflation fears",
+        "url": "https://www.ft.com/content/e1aacb1c-45d1-4d21-b5e9-0166c12c54cd?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US rate rise fears ripple through global bond markets",
+        "publicationDate": "2026-09-11",
+        "category": "Economy",
+        "summary": "Houthi advances push oil prices higher while markets await inflation data on Friday",
+        "url": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f7ca7904-b0d8-428b-9bf7-883740ba9922?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Bessent’s intervention risks damaging BoJ’s credibility, bankers warn",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "US Treasury secretary’s claims of insider knowledge could erode market perceptions of Japanese central bank’s independence",
+        "url": "https://www.ft.com/content/f7ca7904-b0d8-428b-9bf7-883740ba9922?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a525a00f-231f-4376-9ca6-645ed956ea69?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Oil is scary again",
+        "publicationDate": "2026-09-11",
+        "category": "Economy",
+        "summary": "Plus wage growth and inflation",
+        "url": "https://www.ft.com/content/a525a00f-231f-4376-9ca6-645ed956ea69?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/819e34f5-7ba7-4cb3-942f-012d5fc501ce?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Macron shoots for the moon with pitch to Europe’s struggling space sector",
+        "publicationDate": "2026-09-11",
+        "category": "Foreign Policy",
+        "summary": "Also in this newsletter: Europe keeps buying more Russian gas",
+        "url": "https://www.ft.com/content/819e34f5-7ba7-4cb3-942f-012d5fc501ce?syn-25a6b1a6=1"
+    },
+    {
+        "id": "IF12988",
         "source": "Congressional Research Service",
-        "title": "Army Corps Provisions in Water Resources Development Act of 2026 (WRDA 2026) Legislation: In Brief",
+        "title": "Housing Supply",
         "publicationDate": "2026-09-10",
         "category": "Defense",
-        "summary": "The U.S. Army Corps of Engineers (USACE) is an agency in the Department of Defense that develops water resources projects, among other civil and military missions. Congress often, but not always, considers on a biennial schedule omnibus legislation to authorize USACE water resources studies and projects and to refine congressional policy direction for the agency’s water resources activities. Congress commonly...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49327/R49327.4.pdf"
+        "summary": "Housing supply (along with housing demand) affects the affordability and availability of homes to own and rent. Many researchers suggest that the United States currently has an undersupply of homes, though estimates and methodologies differ. While local housing markets vary, the selected indicators presented below provide an overview of supply conditions nationally. Although housing supply is largely determined by...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12988/IF12988.5.pdf"
     },
     {
-        "id": "LSB11480",
+        "id": "IF12415",
         "source": "Congressional Research Service",
-        "title": "SEC Proposes ”Regulation Crypto Assets”",
+        "title": "CFIUS: Executive Branch Actions on Evolving National Security Risks and Enforcement",
         "publicationDate": "2026-09-10",
-        "category": "Economy",
-        "summary": "On August 18, 2026, the Securities and Exchange Commission (SEC) issued a proposed rule that would create a tailored offering and disclosure framework for certain types of crypto assets. In announcing the proposal—titled Regulation Crypto Assets (Reg CA)—SEC Chairman Paul Atkins described it as “the most historic step yet to modernize federal securities regulations for crypto assets.” The proposed rule includes new...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11480/LSB11480.1.pdf"
-    },
-    {
-        "id": "IF12850",
-        "source": "Congressional Research Service",
-        "title": "Millennium Challenge Corporation",
-        "publicationDate": "2026-09-10",
-        "category": "Economy",
-        "summary": "The Millennium Challenge Corporation (MCC) is an independent agency established in 2004 by the Millennium Challenge Act (Title VI of Division D, P.L. 108-199). Congress created MCC amid intense debate over U.S. foreign aid effectiveness. Some MCC features reflect key elements of that debate: Singular Mission. Congress created MCC to focus solely on global development, refraining from directing MCC to focus on...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12850/IF12850.6.pdf"
+        "category": "Defense",
+        "summary": "In 2022, the Biden Administration issued the “first-ever presidential directive” defining additional national security factors for the Committee on Foreign Investment in the United States (CFIUS) to consider in evaluating foreign investment transactions. Executive Order (EO) 14083 reaffirms a “commitment to open investment,” while seeking to ensure CFIUS “remains responsive to an evolving national security...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12415/IF12415.9.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4841-1.html",
@@ -288,15 +378,6 @@
         "url": "https://cms.hoover.org/research/condoleezza-rice-norah-odonnell-join-speaker-series"
     },
     {
-        "id": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/",
-        "source": "European Council on Foreign Relations",
-        "title": "Booted, then suited: Veterans and the making of Putin’s new proto-elite",
-        "publicationDate": "2026-09-10",
-        "category": "Foreign Policy",
-        "summary": "The Kremlin is promoting Ukraine war veterans--cultivating a proto-elite who could reinforce Russia’s militarised course.",
-        "url": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/"
-    },
-    {
         "id": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe",
         "source": "Centre for European Reform",
         "title": "VRT Max: Radio 1: Europese kwaliteit boven Chinese prijzen: Europese Commissie presenteert nieuwe regels rond openbare aanbestedingen",
@@ -396,51 +477,6 @@
         "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-again-rejects-gop-push-for-new-congressional-map-in-missouri"
     },
     {
-        "id": "https://thehill.com/homenews/6083417-benchmark-mortgage-rate-14-month-high/",
-        "source": "The Hill",
-        "title": "Benchmark mortgage rate hits 14-month high as bond yields keep rising",
-        "publicationDate": "2026-09-10",
-        "category": "News",
-        "summary": "The U.S. 30-year mortgage rate reached a 14-month high on Thursday, as global bond yields continue to rise. The benchmark 30-year fixed mortgage rate is 6.76 percent this week, up from 6.71 percent a week ago, Freddie Mac reported Thursday. That marks the highest point for the 30-year rate since the week ending June 26,...",
-        "url": "https://thehill.com/homenews/6083417-benchmark-mortgage-rate-14-month-high/"
-    },
-    {
-        "id": "https://thehill.com/homenews/6082956-uk-bans-trade-with-israeli-settlements-in-west-bank-yt/",
-        "source": "The Hill",
-        "title": "UK bans trade with Israeli settlements in West Bank",
-        "publicationDate": "2026-09-10",
-        "category": "Foreign Policy",
-        "summary": "Israel’s international isolation is growing this week after the United Kingdom, Canada and France all announced they would move to restrict trade with settlements in the occupied West Bank. Tellingly, it’s not yet clear how hard the Trump administration will fight back on Israel’s behalf.",
-        "url": "https://thehill.com/homenews/6082956-uk-bans-trade-with-israeli-settlements-in-west-bank-yt/"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-tobacco-drug-investments/",
-        "source": "The Hill",
-        "title": "Trump surgeon general nominee discloses tobacco, pharma investments",
-        "publicationDate": "2026-09-10",
-        "category": "Foreign Policy",
-        "summary": "President Trump’s surgeon general nominee reported investments in the tobacco company Philip Morris International as well as beverage companies Monster Beverage Corp., Coca Cola Co. and Pepsi Co., according to financial disclosures released Thursday. Nicole Saphier disclosed these investments in an ethics agreement, where she pledged to completely or partially divest from those companies, as...",
-        "url": "https://thehill.com/policy/healthcare/6083278-trump-surgeon-general-nominee-tobacco-drug-investments/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/10/vance-keynote-speech-gop-midterm-event-strengthens-image-heir/",
-        "source": "Washington Post Politics",
-        "title": "Vance appears more like Trump’s heir apparent at GOP convention",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Vice President JD Vance’s role at the Republican midterm convention is strengthening the perception that he is President Donald Trump’s chosen successor.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/10/vance-keynote-speech-gop-midterm-event-strengthens-image-heir/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/10/trump-team-expands-midterms-spending-57-million-so-far/",
-        "source": "Washington Post Politics",
-        "title": "Trump team expands midterms spending to $57 million so far",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "The operation’s long-awaited spree extended competitive House races",
-        "url": "https://www.washingtonpost.com/politics/2026/09/10/trump-team-expands-midterms-spending-57-million-so-far/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
@@ -450,13 +486,13 @@
         "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Can Trump really pay $5,000 to every American adult?",
+        "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
         "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+        "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
@@ -477,58 +513,13 @@
         "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "More than 20 children killed in DR Congo school fire",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
-        "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Oracle’s data centre revenue surges as AI strategy accelerates",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Faster sales growth suggests progress in its risky push to compete in the AI infrastructure race",
-        "url": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Anthropic says it stopped scientists potentially developing bioweapons with AI",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Start-up discloses five examples of when users ‘circumvented controls’ and made efforts to ‘obfuscate’ the purpose of their research",
-        "url": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/57045557-574a-4bd6-9912-adb64fd6110f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Israel blows up Hizbollah tunnel system in southern Lebanon",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Destruction of complex under Ali al-Taher ridge follows months-long effort to gain control of strategic site",
-        "url": "https://www.ft.com/content/57045557-574a-4bd6-9912-adb64fd6110f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a79892a3-c6c2-4c0b-8c3a-a37e9a32cf4f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "How would Trump’s $5,000 voting payout work?",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "President’s pledge to give cash to all American adults if Republicans win midterms will be at heart of his party’s campaign",
-        "url": "https://www.ft.com/content/a79892a3-c6c2-4c0b-8c3a-a37e9a32cf4f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/92a1f269-2832-4bcd-aad6-629fd86dda0f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham urged not to snub Commonwealth summit amid reparations demands",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "UK prime minister is weighing up whether to attend biennial event being held in Antigua",
-        "url": "https://www.ft.com/content/92a1f269-2832-4bcd-aad6-629fd86dda0f?syn-25a6b1a6=1"
+        "id": "R47162",
+        "source": "Congressional Research Service",
+        "title": "Overview of U.S. Army Corps of Engineers Environmental Infrastructure (EI) Assistance",
+        "publicationDate": "2026-09-09",
+        "category": "Defense",
+        "summary": "Congress has authorized and appropriated funding for U.S. Army Corps of Engineers (USACE) environmental infrastructure (EI) assistance for the design and construction of certain infrastructure in specified municipalities, counties, and states. This assistance supports different projects at publicly owned and operated facilities. Projects include construction of water distribution works, stormwater management,...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47162/R47162.28.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4946-1.html",
@@ -585,49 +576,22 @@
         "url": "https://www.heritage.org/energy/commentary/americas-nuclear-revolution-here-and-it-wont-look-the-last-one"
     },
     {
-        "id": "https://ecfr.eu/article/a-future-with-chinese-characteristics/",
-        "source": "European Council on Foreign Relations",
-        "title": "A future with Chinese characteristics",
-        "publicationDate": "2026-09-09",
-        "category": "Foreign Policy",
-        "summary": "The world is undergoing a historical and cultural rupture. Just as Hollywood and other American exports once gave the rest of the world a glimpse of modern life and the future that awaited them, China is now doing the same for African, Latin American and even American young people",
-        "url": "https://ecfr.eu/article/a-future-with-chinese-characteristics/"
-    },
-    {
-        "id": "https://ecfr.eu/article/friends-without-benefits-why-the-eu-should-offer-canada-more-than-casual-defence-ties/",
-        "source": "European Council on Foreign Relations",
-        "title": "Friends without benefits: Why the EU should offer Canada more than casual defence ties",
-        "publicationDate": "2026-09-09",
-        "category": "Defense",
-        "summary": "Trump is pushing Canada—a quiet military powerhouse—away from America. The EU should seize the chance and fold it into its own defence",
-        "url": "https://ecfr.eu/article/friends-without-benefits-why-the-eu-should-offer-canada-more-than-casual-defence-ties/"
-    },
-    {
-        "id": "https://ecfr.eu/special/future-nostalgia-europes-unfinished-song/",
-        "source": "European Council on Foreign Relations",
-        "title": "Future nostalgia: Europe’s unfinished song",
-        "publicationDate": "2026-09-08",
-        "category": "Data & polling",
-        "summary": "ECFR’s new research reveals Europeans are suffering from an imagination gap. Many people want to see Europe strong and flourishing—but fewer can picture a credible route from today’s disruptions to that destination",
-        "url": "https://ecfr.eu/special/future-nostalgia-europes-unfinished-song/"
-    },
-    {
-        "id": "https://ecfr.eu/article/beyond-saxony-anhalt-what-merzs-crisis-means-for-europe/",
-        "source": "European Council on Foreign Relations",
-        "title": "Beyond Saxony-Anhalt: What Merz’s crisis means for Europe",
-        "publicationDate": "2026-09-08",
-        "category": "European Power",
-        "summary": "The far-right AfD’s win in a small German state calls for dynamism in Berlin and hedging in Brussels",
-        "url": "https://ecfr.eu/article/beyond-saxony-anhalt-what-merzs-crisis-means-for-europe/"
-    },
-    {
-        "id": "IF12959",
+        "id": "IF13309",
         "source": "Congressional Research Service",
-        "title": "The Cybersecurity Information Sharing Act of 2015: Expiring Provisions",
-        "publicationDate": "2026-09-03",
+        "title": "Service-Disabled Veteran-Owned Small Business Contracting Program",
+        "publicationDate": "2026-09-08",
         "category": "Defense",
-        "summary": "A decade ago, Congress authorized a cybersecurity information sharing structure that allows the federal government to collect and disseminate threat information, and enabled private sector entities to voluntarily share that information with the government, as well as among themselves. Congress passed this authorization after discussing the need for an information sharing protection framework with stakeholders in...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12959/IF12959.11.pdf"
+        "summary": "Among federal small business contracting programs (see CRS Report R45576, An Overview of Small Business Contracting) that provide contracting preferences to small businesses, the federal preference for small businesses owned by veterans is specifically for those who are service-disabled, known as the service-disabled veteran-owned small business (SDVOSB) contracting program. Separately, the Department of Veterans...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13309/IF13309.3.pdf"
+    },
+    {
+        "id": "R49344",
+        "source": "Congressional Research Service",
+        "title": "Status of FY2027 Labor, Health and Human Services, and Education Appropriations: In Brief",
+        "publicationDate": "2026-09-08",
+        "category": "Economy",
+        "summary": "This report provides an overview of FY2027 Labor, Health and Human Services, and Education, and Related Agencies (LHHS) appropriations, including relevant congressional actions and a top-line comparison of discretionary funding proposed for FY2027 versus prior-year funding for FY2025 and FY2026. It also provides background on the scope of the bill and context for congressional budgetary decisionmaking. Full-year...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49344/R49344.2.pdf"
     },
     {
         "id": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026",
@@ -646,15 +610,6 @@
         "category": "Other",
         "summary": "Barry Lenihan, RTÉ Political Correspondent and Camino Mortera-Martinez, an associate fellow at the Centre for European Reform and former adviser to Spanish Prime Minister Pedro Sanchez. Camino Mortera-Martinez View multimedia 04 August 2026",
         "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
-    },
-    {
-        "id": "R49310",
-        "source": "Congressional Research Service",
-        "title": "Economic Development Administration: An Overview of Programs",
-        "publicationDate": "2026-08-19",
-        "category": "Defense",
-        "summary": "The Economic Development Administration (EDA), a bureau of the U.S. Department of Commerce (DOC), is the only federal agency with economic development as its sole mission. The agency was established pursuant to the enactment of the Public Works and Economic Development Act (PWEDA) of 1965 (42 U.S.C. §§3121 et seq.) to assist state and local stakeholders with developing the conditions and amenities to grow...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49310/R49310.4.pdf"
     },
     {
         "id": "https://www.cer.eu/mailings-webform-report",
