@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
+        "source": "NPR Politics",
+        "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "Nazira Haji Zada, a lawful permanent resident, conceded to being an \"alien terrorist.\" It marks the first case in the Alien Terrorist Removal Court.",
+        "url": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan"
+    },
+    {
         "id": "https://www.npr.org/2026/09/12/nx-s1-5965806/democrats-and-republicans-can-agree-there-should-be-more-monetary-support-for-child-care",
         "source": "NPR Politics",
         "title": "Democrats and Republicans can agree: there should be more monetary support for child care",
@@ -36,6 +45,24 @@
         "url": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/ap-analysis-justice-department-went-after-protesters-for-felony-assault-but-juries-and-judges-were-unconvinced",
+        "source": "PBS NewsHour Politics",
+        "title": "AP analysis: Justice Department went after protesters for felony assault, but juries and judges were unconvinced",
+        "publicationDate": "2026-09-12",
+        "category": "Department of Justice",
+        "summary": "The Associated Press' analysis focused on arrests made during protests last summer and fall in LA, Chicago, Portland and Washington, D.C. — cities with significant protests where President Donald Trump sought to or successfully deployed the National Guard.",
+        "url": "https://www.pbs.org/newshour/politics/ap-analysis-justice-department-went-after-protesters-for-felony-assault-but-juries-and-judges-were-unconvinced"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-touches-a-nerve-while-in-ireland-by-saying-reunification-would-be-fantastic",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump touches a nerve while in Ireland by saying reunification would be 'fantastic'",
+        "publicationDate": "2026-09-12",
+        "category": "Donald Trump news",
+        "summary": "At a meeting with Irish Prime Minister Micheál Martin in Dublin, Trump said he would love to see the reunification of the Republic of Ireland with the United Kingdom's Northern Ireland.",
+        "url": "https://www.pbs.org/newshour/politics/trump-touches-a-nerve-while-in-ireland-by-saying-reunification-would-be-fantastic"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/trump-asks-smithsonian-to-install-george-washington-statues-and-exhibit",
         "source": "PBS NewsHour Politics",
         "title": "Trump asks Smithsonian to install George Washington statues and exhibit",
@@ -45,49 +72,58 @@
         "url": "https://www.pbs.org/newshour/politics/trump-asks-smithsonian-to-install-george-washington-statues-and-exhibit"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6085604-gop-candidates-split-strategy/",
+        "id": "https://thehill.com/homenews/administration/6086235-trump-adviser-gop-midterm-optimism/",
         "source": "The Hill",
-        "title": "Trump plots a campaign blitz; GOP candidates face a decision",
+        "title": "Trump political adviser is 'cautiously optimistic' about GOP in upcoming midterms",
         "publicationDate": "2026-09-12",
         "category": "Administration",
-        "summary": "President Trump’s upcoming midterm campaign blitz is risking dragging down Republicans facing tough reelection bids as his approval rating plummets ahead of November. Trump will head to battleground North Carolina to campaign with Senate nominee Michael Whatley on Wednesday in an effort to boost Republican efforts in the fight to keep the seat red. The...",
-        "url": "https://thehill.com/homenews/administration/6085604-gop-candidates-split-strategy/"
+        "summary": "A top political adviser to President Trump said he is “cautiously optimistic” that Republicans can keep control of Congress in November, despite political headwinds for the party and the president’s sinking approval ratings. \"I won’t predict, you know, how many seats are going to be in either chamber come November,\" James Blair told NBC News's...",
+        "url": "https://thehill.com/homenews/administration/6086235-trump-adviser-gop-midterm-optimism/"
     },
     {
-        "id": "https://thehill.com/opinion/campaign/6082879-vp-vance-rejects-political-cancel-culture/",
+        "id": "https://thehill.com/opinion/healthcare/6084852-training-american-doctors/",
         "source": "The Hill",
-        "title": "JD Vance was right to stand by Tucker Carlson — and free speech",
+        "title": "America's doctor shortage is a national security threat",
         "publicationDate": "2026-09-12",
-        "category": "Foreign Policy",
-        "summary": "ance not only chose loyalty over political expediency, he demonstrated that he was one of the few “adults in the room” on the international stage.",
-        "url": "https://thehill.com/opinion/campaign/6082879-vp-vance-rejects-political-cancel-culture/"
+        "category": "Healthcare",
+        "summary": "The United States faces a projected deficit of approximately 187,000 physicians by the mid-2030s due to a federal residency funding cap established in 1997.",
+        "url": "https://thehill.com/opinion/healthcare/6084852-training-american-doctors/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6086086-darline-graham-annie-andrews-debate-announcement/",
+        "id": "https://thehill.com/policy/technology/6086167-anthropic-ceo-ai-development-guardrails/",
         "source": "The Hill",
-        "title": "Graham accepts debate with Andrews after challenger pushes for more",
+        "title": "Anthropic CEO calls to 'slow the pace' of AI development amid safety concerns",
         "publicationDate": "2026-09-12",
-        "category": "Campaign",
-        "summary": "Sen. Darline Graham (R-S.C.) announced Friday she plans to debate her Democratic challenger in South Carolina’s Senate race, pediatrician Annie Andrews, ahead of November's elections. “I’m in,” Graham wrote in a social media post. “On October 11, I will take the debate stage and expose Annie Andrews’ radical positions she’s spent the last year hiding...",
-        "url": "https://thehill.com/homenews/campaign/6086086-darline-graham-annie-andrews-debate-announcement/"
+        "category": "Defense",
+        "summary": "Anthropic CEO Dario Amodei said Saturday that artificial intelligence development must slow down to allow for the implementation of necessary risk prevention safeguards. “We must slow the pace at which we improve the capabilities of AI models,” Amodei wrote in a blog post. “Progress will still seem fast, and we must make wise use of...",
+        "url": "https://thehill.com/policy/technology/6086167-anthropic-ceo-ai-development-guardrails/"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6079819-new-virus-detected-in-a-tick-invasive-to-the-us-should-we-be-concerned/",
+        "id": "https://thehill.com/opinion/healthcare/6081964-immigration-pathways-nursing-staffing/",
         "source": "The Hill",
-        "title": "New virus detected in a tick invasive to the US. Should we be concerned?",
+        "title": "Loss of legal immigrant caregivers puts America's seniors at risk",
         "publicationDate": "2026-09-12",
-        "category": "State Watch",
-        "summary": "Since first being discovered in the U.S. in 2017, the tick has spread to more than two dozen states.",
-        "url": "https://thehill.com/homenews/state-watch/6079819-new-virus-detected-in-a-tick-invasive-to-the-us-should-we-be-concerned/"
+        "category": "Healthcare",
+        "summary": "Every lapsed visa or expired protection is a resident who loses the person who knows their routines, care needs and potential risks best.",
+        "url": "https://thehill.com/opinion/healthcare/6081964-immigration-pathways-nursing-staffing/"
     },
     {
-        "id": "https://thehill.com/policy/sports-gaming/6086052-cruz-espn-college-gameday-act-boos/",
+        "id": "https://thehill.com/regulation/court-battles/6086160-texas-surrogacy-case-supreme-court-appeal/",
         "source": "The Hill",
-        "title": "Cruz met with jeers on ESPN's College Gameday during appearance advocating for Senate college sports bill",
+        "title": "Surrogate who fled to Texas to avoid abortion appeals custody case to Supreme Court",
         "publicationDate": "2026-09-12",
-        "category": "Sports & Gaming",
-        "summary": "Sen. Ted Cruz (R-Texas) appeared on ESPN's College Gameday Saturday morning to make the case for the Protect College Sports Act, a bipartisan piece of legislation that would regulate the big business of the industry. Cruz, who was in Austin ahead of the Longhorns' primetime showdown with Ohio State University, spoke with ESPN host Rece...",
-        "url": "https://thehill.com/policy/sports-gaming/6086052-cruz-espn-college-gameday-act-boos/"
+        "category": "Court Battles",
+        "summary": "The surrogate who fled to Texas after the unborn child's biological parents requested she have an abortion is asking the Supreme Court to intervene in the custody battle — which garnered national attention and state Attorney General Ken Paxton's (R) intervention. McKenna West filed an emergency application Wednesday asking the high court to temporarily block...",
+        "url": "https://thehill.com/regulation/court-battles/6086160-texas-surrogacy-case-supreme-court-appeal/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
+        "source": "New York Times Politics",
+        "title": "Republican Campaign Aide Is Fired Over Nazi Photo",
+        "publicationDate": "2026-09-12",
+        "category": "United States Politics and Government",
+        "summary": "Senator Jon Husted, running in a high-stakes race in Ohio, dismissed his political director because of social media activity displaying a “complete lack” of judgment, a spokeswoman said.",
+        "url": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html",
@@ -104,7 +140,7 @@
         "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
         "publicationDate": "2026-09-12",
         "category": "Foreign Policy",
-        "summary": "The United States is officially neutral on an issue that had been a source of decades of violence in Northern Ireland until a 1998 peace deal.",
+        "summary": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal.",
         "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html"
     },
     {
@@ -126,18 +162,9 @@
         "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html",
-        "source": "New York Times Politics",
-        "title": "Republicans, Facing Midterm Peril, Try to Brand Democrats as Communists",
-        "publicationDate": "2026-09-12",
-        "category": "United States Politics and Government",
-        "summary": "Communism, in the president’s hyperbolic telling, is a graver threat to the country than the Pearl Harbor or 9/11 attacks were. Whether this midterm strategy works is an open question.",
-        "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/world/2026/09/12/trump-dublin-says-he-would-love-see-irish-reunification/",
         "source": "Washington Post Politics",
-        "title": "Trump, in Dublin, says he ‘would love to see’ Ireland reunified",
+        "title": "Trump endorses Irish reunification, breaking with decades of U.S. policy",
         "publicationDate": "2026-09-12",
         "category": "Other",
         "summary": "Trump’s comments broke with longstanding U.S. neutrality on the question of reuniting the Republic of Ireland and Northern Ireland — a highly sensitive issue in the U.K.",
@@ -158,7 +185,7 @@
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "publicationDate": "2026-09-12",
         "category": "Other",
-        "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
         "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -198,6 +225,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "India’s central bank tells Tata Sons to take conglomerate public",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO",
+        "url": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Brics push for Gulf peace as war worries mount",
@@ -232,15 +268,6 @@
         "category": "Other",
         "summary": "Move is likely to put further momentum behind fast-rising oil prices",
         "url": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/4dc6710b-7911-44c6-b57a-2fb47b6b04ed?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Canada seeks $1tn from investors looking for a haven from Trump",
-        "publicationDate": "2026-09-12",
-        "category": "Other",
-        "summary": "Prime Minister Mark Carney hosts a summit to put money behind his plan to decouple from an increasingly hostile US",
-        "url": "https://www.ft.com/content/4dc6710b-7911-44c6-b57a-2fb47b6b04ed?syn-25a6b1a6=1"
     },
     {
         "id": "R47639",
@@ -423,13 +450,40 @@
         "url": "https://cms.hoover.org/research/victor-davis-hanson-only-way-check-abuse-ai-deter-it"
     },
     {
-        "id": "https://www.npr.org/2026/09/11/nx-s1-5964970/ethics-watchdogs-await-rfk-jr-s-financial-report",
-        "source": "NPR Politics",
-        "title": "Ethics watchdogs await RFK Jr.'s financial report",
+        "id": "https://ecfr.eu/article/remembering-emma-bonino/",
+        "source": "European Council on Foreign Relations",
+        "title": "Remembering Emma Bonino",
         "publicationDate": "2026-09-11",
-        "category": "Healthcare",
-        "summary": "Health Secretary RFK Jr.'s annual financial disclosure is late. When it posts, the public could learn how much he has earned from a vaccine-related lawsuit against Merck, which RFK now regulates.",
-        "url": "https://www.npr.org/2026/09/11/nx-s1-5964970/ethics-watchdogs-await-rfk-jr-s-financial-report"
+        "category": "Foreign Policy",
+        "summary": "ECFR founding member and co-chair emerita Emma Bonino has died at the age of 78. A towering figure in European foreign policy, she was an inspiration to millions across the continent. She left a deep mark on European and Italian politics, and on ECFR",
+        "url": "https://ecfr.eu/article/remembering-emma-bonino/"
+    },
+    {
+        "id": "https://ecfr.eu/article/the-eus-unfinished-business-in-the-western-balkans/",
+        "source": "European Council on Foreign Relations",
+        "title": "The EU’s unfinished business in the Western Balkans",
+        "publicationDate": "2026-09-11",
+        "category": "ECFR Council",
+        "summary": "Montenegro and Albania are moving closer to EU membership. But Brussels should not forget its responsibility towards the Western Balkans as a whole",
+        "url": "https://ecfr.eu/article/the-eus-unfinished-business-in-the-western-balkans/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/ukraine-the-battle-beyond-war/",
+        "source": "European Council on Foreign Relations",
+        "title": "Ukraine: The battle beyond war",
+        "publicationDate": "2026-09-11",
+        "category": "Foreign Policy",
+        "summary": "Jessica Hendrick welcomes Roman Petrov and Svitlana Zalishchuk to discuss Ukraine’s simultaneous fight for survival on the frontlines and battle for democracy at home",
+        "url": "https://ecfr.eu/podcasts/episode/ukraine-the-battle-beyond-war/"
+    },
+    {
+        "id": "https://ecfr.eu/podcasts/episode/the-geopolitics-of-global-hunger/",
+        "source": "European Council on Foreign Relations",
+        "title": "The geopolitics of global hunger",
+        "publicationDate": "2026-09-11",
+        "category": "European Security",
+        "summary": "Mark Leonard welcomes Cary Fowler and Jim O’Brien to discuss the factors behind the escalating risk of a major food crisis—and Europe’s role in preventing catastrophe",
+        "url": "https://ecfr.eu/podcasts/episode/the-geopolitics-of-global-hunger/"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/officials-in-nashville-unite-across-the-aisle-over-renaming-airport-after-dolly-parton",
@@ -448,24 +502,6 @@
         "category": "chris wright",
         "summary": "In a defeat for the Trump administration, a federal court on Friday ruled that the Energy Department exceeded its authority when it forced a Michigan coal-fired power plant to stay open past its scheduled retirement date last year.",
         "url": "https://www.pbs.org/newshour/politics/federal-court-rejects-trump-administration-order-keeping-michigan-coal-plant-open"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/americans-remember-the-lives-lost-in-the-9-11-attacks-25-years-ago",
-        "source": "PBS NewsHour Politics",
-        "title": "Americans remember the lives lost in the 9/11 attacks 25 years ago",
-        "publicationDate": "2026-09-11",
-        "category": "9/11",
-        "summary": "Families, survivors, first responders and dignitaries marked the 25th anniversary of the 9/11 attacks with somber and poignant ceremonies. That included major gatherings in New York, at the Pentagon and in Shanksville, Pennsylvania. The attacks killed 2,977 people and set the country on a course that would define the next quarter-century. Geoff Bennett reports.",
-        "url": "https://www.pbs.org/newshour/show/americans-remember-the-lives-lost-in-the-9-11-attacks-25-years-ago"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/iran-backed-houthis-seize-island-at-entrance-to-red-sea-threatening-saudi-oil-exports",
-        "source": "PBS NewsHour Politics",
-        "title": "Iran-backed Houthis seize island at entrance to Red Sea, threatening Saudi oil exports",
-        "publicationDate": "2026-09-11",
-        "category": "Foreign Policy",
-        "summary": "Houthi rebels in Yemen consolidated lightning gains across the country's western coast. The group, which recently resumed fighting with the Saudi-backed government, also extended its hold on the Bab al-Mandab Strait, a crucial chokepoint at the southern reaches of the Red Sea. Ali Rogin reports.",
-        "url": "https://www.pbs.org/newshour/show/iran-backed-houthis-seize-island-at-entrance-to-red-sea-threatening-saudi-oil-exports"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/09/11/woman-deported-afghanistan-first-use-alien-terrorist-removal-court/",
@@ -538,6 +574,15 @@
         "category": "Backgrounder",
         "summary": "The United Nations’ ambitious development agenda aims to protect people and the planet via seventeen goals. But experts say governments aren’t doing enough to implement them ahead of the 2030 deadline.",
         "url": "https://www.cfr.org/backgrounders/what-are-un-sustainable-development-goals"
+    },
+    {
+        "id": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/",
+        "source": "European Council on Foreign Relations",
+        "title": "Booted, then suited: Veterans and the making of Putin’s new proto-elite",
+        "publicationDate": "2026-09-10",
+        "category": "Foreign Policy",
+        "summary": "The Kremlin is promoting Ukraine war veterans--cultivating a proto-elite who could reinforce Russia’s militarised course.",
+        "url": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/"
     },
     {
         "id": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe",
