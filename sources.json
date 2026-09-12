@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
+        "source": "NPR Politics",
+        "title": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing. A year later, the damage to political discourse in the U.S. remains.",
+        "url": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing"
+    },
+    {
         "id": "https://thehill.com/policy/defense/6085776-north-korea-launches-missiles/",
         "source": "The Hill",
         "title": "North Korea fires ballistic missiles after condemning military drill as threat",
@@ -27,6 +36,33 @@
         "url": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/"
     },
     {
+        "id": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
+        "source": "New York Times Politics",
+        "title": "Inflation Complicates Trump’s Midterms Pitch to Voters",
+        "publicationDate": "2026-09-12",
+        "category": "Economy",
+        "summary": "Gas prices are high, mortgage rates are climbing and inflation remains well above target, complicating the president’s midterm appeal.",
+        "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+        "source": "New York Times Politics",
+        "title": "How Trump Is Wielding Power to Stifle Speech",
+        "publicationDate": "2026-09-12",
+        "category": "United States Politics and Government",
+        "summary": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.",
+        "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html",
+        "source": "New York Times Politics",
+        "title": "Republicans, Facing Midterm Peril, Try to Brand Democrats as Communists",
+        "publicationDate": "2026-09-12",
+        "category": "United States Politics and Government",
+        "summary": "Communism, in the president’s hyperbolic telling, is a graver threat to the country than the Pearl Harbor or 9/11 attacks were. Whether this midterm strategy works is an open question.",
+        "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-library-legal-action.html",
         "source": "New York Times Politics",
         "title": "Federal Judge Poised to Dismiss Lawsuit Challenging Trump’s Library",
@@ -45,6 +81,15 @@
         "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/09/12/house-democrats-plan-sweeping-trump-investigations-if-they-win-november/",
+        "source": "Washington Post Politics",
+        "title": "These are the Trump investigations Democrats plan if they win in November",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "Democrats hope to retake control of the House, and to use that power to probe Trump’s business ventures, legal maneuvers and policies.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/12/house-democrats-plan-sweeping-trump-investigations-if-they-win-november/"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -52,6 +97,24 @@
         "category": "Defense",
         "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
         "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump meeting Irish leader Micheál Martin during visit",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+        "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
@@ -63,13 +126,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "id": "https://www.ft.com/content/be8d08d3-e3c1-413c-ab6e-5a38b19ce4b6?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The long shadow of quantitative easing",
         "publicationDate": "2026-09-12",
         "category": "Other",
-        "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss"
+        "summary": "Central bank balance sheets will stay large",
+        "url": "https://www.ft.com/content/be8d08d3-e3c1-413c-ab6e-5a38b19ce4b6?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d5584fd7-cc24-4d3e-813f-c65f041e2d0e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "LIV Golf’s bleak future shifts to the courtroom",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: Hyrox gets a power boost",
+        "url": "https://www.ft.com/content/d5584fd7-cc24-4d3e-813f-c65f041e2d0e?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
@@ -99,24 +171,6 @@
         "url": "https://www.ft.com/content/a83e620a-bb72-478a-ac77-10635ec653bd?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/4ee10e45-072d-40bc-a773-bcaa5539c7af?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Why the British glass industry could be Number 10 North’s first major test",
-        "publicationDate": "2026-09-12",
-        "category": "Other",
-        "summary": "Heavily northern-based sector says intervention by Burnham is needed to reverse ‘dramatic decline’ caused by new packaging levies",
-        "url": "https://www.ft.com/content/4ee10e45-072d-40bc-a773-bcaa5539c7af?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6fa49d3c-e7b9-4bcd-9eb1-b737ff0c552e",
-        "source": "Financial Times World",
-        "title": "South Korea arms itself to protect chip secrets from foreign spies",
-        "publicationDate": "2026-09-12",
-        "category": "Foreign Policy",
-        "summary": "Seoul broadens its espionage legislation for the first time in more than seven decades",
-        "url": "https://www.ft.com/content/6fa49d3c-e7b9-4bcd-9eb1-b737ff0c552e"
-    },
-    {
         "id": "R47639",
         "source": "Congressional Research Service",
         "title": "Presidential Medal of Freedom",
@@ -133,33 +187,6 @@
         "category": "Other",
         "summary": "This report examines how AI middle powers can use public procurement to govern frontier AI. It develops a set of procurement guarantees, and assesses whether coordinated purchasing standards could strengthen state bargaining power.",
         "url": "https://www.rand.org/pubs/research_reports/RRA5284-1.html"
-    },
-    {
-        "id": "https://www.cfr.org/articles/charles-lindberghs-des-moines-speech",
-        "source": "Council on Foreign Relations",
-        "title": "Charles Lindbergh’s Des Moines Speech",
-        "publicationDate": "2026-09-11",
-        "category": "Article",
-        "summary": "The famed aviator and staunch isolationist discredited himself and his cause by blaming “the British, the Jewish, and the Roosevelt administration” for seeking to maneuver the United States into World War II.",
-        "url": "https://www.cfr.org/articles/charles-lindberghs-des-moines-speech"
-    },
-    {
-        "id": "https://www.cfr.org/articles/lessons-from-9-11-and-its-aftermath",
-        "source": "Council on Foreign Relations",
-        "title": "Lessons From 9/11 and Its Aftermath",
-        "publicationDate": "2026-09-11",
-        "category": "Article",
-        "summary": "CFR President Michael Froman reflects on how the world has changed since 9/11 on the twenty-fifth anniversary of the attacks.",
-        "url": "https://www.cfr.org/articles/lessons-from-9-11-and-its-aftermath"
-    },
-    {
-        "id": "https://www.cfr.org/articles/fdrs-shoot-on-sight-fireside-chat-and-the-ethics-of-misleading-the-public",
-        "source": "Council on Foreign Relations",
-        "title": "FDR's “Shoot-on-Sight” Fireside Chat and the Ethics of Misleading the Public",
-        "publicationDate": "2026-09-11",
-        "category": "Article",
-        "summary": "Was President Franklin D. Roosevelt right to accuse Germany of launching an unprovoked attack on a U.S. destroyer when he knew the facts said otherwise?",
-        "url": "https://www.cfr.org/articles/fdrs-shoot-on-sight-fireside-chat-and-the-ethics-of-misleading-the-public"
     },
     {
         "id": "https://www.heritage.org/life/commentary/what-the-us-reproductive-tourism-industry-really-selling",
@@ -369,15 +396,6 @@
         "url": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting"
     },
     {
-        "id": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
-        "source": "NPR Politics",
-        "title": "Empty seats, socialism and Trump dominate the Republican midterm convention",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "The two day Republican convention in Dallas showcased the party's biggest asset in trying to win competitive midterm races and its greatest obstacle: President Trump.",
-        "url": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/officials-in-nashville-unite-across-the-aisle-over-renaming-airport-after-dolly-parton",
         "source": "PBS NewsHour Politics",
         "title": "Officials in Nashville unite across the aisle over renaming airport after Dolly Parton",
@@ -441,33 +459,6 @@
         "url": "https://thehill.com/policy/defense/6085660-houthis-takeover-port-saudi-gas-pipeline/"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/11/us/politics/sept-11-women-special-operations-gala.html",
-        "source": "New York Times Politics",
-        "title": "Women Special Operations Veterans Remember Their Battles",
-        "publicationDate": "2026-09-11",
-        "category": "Defense",
-        "summary": "The only fraternal organization for women special operations veterans held a gala to mark the wars that began 25 years ago. It came as the Pentagon questions women’s roles in the military.",
-        "url": "https://www.nytimes.com/2026/09/11/us/politics/sept-11-women-special-operations-gala.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html",
-        "source": "New York Times Politics",
-        "title": "Will Stark Warnings About AI Shape the Midterm Elections?",
-        "publicationDate": "2026-09-11",
-        "category": "Politics and Government",
-        "summary": "Stark warnings from A.I. researchers have reverberated across the country.",
-        "url": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html",
-        "source": "New York Times Politics",
-        "title": "Fact-Checking Trump’s Attacks on Democratic Senate Candidates",
-        "publicationDate": "2026-09-11",
-        "category": "United States Politics and Government",
-        "summary": "The president attacked three Democrats running for Senate this week with inaccurate claims to portray them as too extreme.",
-        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/national-security/2026/09/11/woman-deported-afghanistan-first-use-alien-terrorist-removal-court/",
         "source": "Washington Post Politics",
         "title": "Woman deported to Afghanistan in first use of Alien Terrorist Removal Court",
@@ -504,15 +495,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/11/florida-fight-over-mail-in-ballots-hints-chaos-if-trump-rules-take-effect/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/11/pentagon-trump-edges-toward-embracing-post-911-policies-he-attacked/",
-        "source": "Washington Post Politics",
-        "title": "At the Pentagon, Trump ties the legacy of 9/11 to his Iran war",
-        "publicationDate": "2026-09-11",
-        "category": "Foreign Policy",
-        "summary": "President Donald Trump spoke at a solemn Pentagon ceremony marking the attacks of Sept. 11, 2001, and edged close to embracing policies he has long criticized.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/11/pentagon-trump-edges-toward-embracing-post-911-policies-he-attacked/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
@@ -520,15 +502,6 @@
         "category": "Other",
         "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
         "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Passenger train derails in France leaving at least 44 injured",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-        "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4841-1.html",
@@ -558,24 +531,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4739-1.html"
     },
     {
-        "id": "https://www.cfr.org/articles/ten-resources-debunking-september-11-conspiracy-theories",
-        "source": "Council on Foreign Relations",
-        "title": "Ten Resources Debunking September 11 Conspiracy Theories",
-        "publicationDate": "2026-09-10",
-        "category": "Article",
-        "summary": "Twenty-five years after the terrorist attacks on the World Trade Center and the Pentagon and the crash of United Flight 93, conspiracy theories about what happened that day continue to flourish.",
-        "url": "https://www.cfr.org/articles/ten-resources-debunking-september-11-conspiracy-theories"
-    },
-    {
-        "id": "https://www.cfr.org/backgrounders/what-are-un-sustainable-development-goals",
-        "source": "Council on Foreign Relations",
-        "title": "What Are the UN Sustainable Development Goals (SDGs)?",
-        "publicationDate": "2026-09-10",
-        "category": "Backgrounder",
-        "summary": "The United Nations’ ambitious development agenda aims to protect people and the planet via seventeen goals. But experts say governments aren’t doing enough to implement them ahead of the 2030 deadline.",
-        "url": "https://www.cfr.org/backgrounders/what-are-un-sustainable-development-goals"
-    },
-    {
         "id": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/",
         "source": "European Council on Foreign Relations",
         "title": "Booted, then suited: Veterans and the making of Putin’s new proto-elite",
@@ -583,15 +538,6 @@
         "category": "Foreign Policy",
         "summary": "The Kremlin is promoting Ukraine war veterans--cultivating a proto-elite who could reinforce Russia’s militarised course.",
         "url": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/"
-    },
-    {
-        "id": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe",
-        "source": "Centre for European Reform",
-        "title": "VRT Max: Radio 1: Europese kwaliteit boven Chinese prijzen: Europese Commissie presenteert nieuwe regels rond openbare aanbestedingen",
-        "publicationDate": "2026-09-10",
-        "category": "Foreign Policy",
-        "summary": "De Europese Commissie heeft nieuwe regels voorgesteld rond openbare aanbestedingen. De focus ligt daarbij meer op Europese productie en de mogelijkheid om China uit de markt te weren. Sander Tordoir, hoofdeconoom van de Europese denktank Centre for European Reform: \"In feite trekt Europa hiermee het speelveld gelijk.\" Sander Tordoir View multimedia 09 September 2026",
-        "url": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe"
     },
     {
         "id": "R49345",
@@ -619,42 +565,6 @@
         "category": "Economy",
         "summary": "The Housing Trust Fund (HTF) was established by the Housing and Economic Recovery Act of 2008 (HERA, P.L. 110-289) to provide funds to states to use for affordable housing activities, with a primary focus on the production, preservation, and rehabilitation of rental housing for extremely low-income households. It is administered by the Department of Housing and Urban Development (HUD) and is funded through...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R40781/R40781.27.pdf"
-    },
-    {
-        "id": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026",
-        "source": "Centre for European Reform",
-        "title": "CER/Delegation of the EU to the UK party conference fringe events 2026",
-        "publicationDate": "2026-09-03",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026"
-    },
-    {
-        "id": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis",
-        "source": "Centre for European Reform",
-        "title": "RTÉ Radio 1: EU meet on Ceuta migrant crisis",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "Barry Lenihan, RTÉ Political Correspondent and Camino Mortera-Martinez, an associate fellow at the Centre for European Reform and former adviser to Spanish Prime Minister Pedro Sanchez. Camino Mortera-Martinez View multimedia 04 August 2026",
-        "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
-    },
-    {
-        "id": "https://www.cer.eu/mailings-webform-report",
-        "source": "Centre for European Reform",
-        "title": "Mailings webform report",
-        "publicationDate": "2026-08-17",
-        "category": "Economy",
-        "summary": "Mailings survery August 26 (249 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Kate Mullineux Too much A weekly newsletter with links to all content kate@cer.eu 2026-08-06 Godfried De Vidts About right gadv@gadv.be all good,...",
-        "url": "https://www.cer.eu/mailings-webform-report"
-    },
-    {
-        "id": "https://www.cer.eu/survey-centre-european-reform-mailings",
-        "source": "Centre for European Reform",
-        "title": "Survey: Centre for European Reform mailings",
-        "publicationDate": "2026-08-05",
-        "category": "Other",
-        "summary": "Thank you for providing your feedback on the options for the CER's publications and podcast mailings. Your name: The amount of email I receive from the CER is: About right Too much If you have selected 'too much' above would you prefer to receive: A weekly newsletter with links to all content A monthly newsletter with links to all content Would you like to opt-out of receiving: Publications Podcasts Your email:...",
-        "url": "https://www.cer.eu/survey-centre-european-reform-mailings"
     },
     {
         "id": "R47645",
