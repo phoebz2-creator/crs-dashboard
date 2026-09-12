@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html",
+        "source": "New York Times Politics",
+        "title": "Trump Heads to Ireland for the Irish Open at His Golf Course",
+        "publicationDate": "2026-09-12",
+        "category": "United States Politics and Government",
+        "summary": "President Trump’s trip comes after a two-day Republican rally in Dallas, where he tried to energize voters amid fears that the party could face losses in the midterms.",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Arrest made over the death of black woman found hanged from tree",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "R47639",
         "source": "Congressional Research Service",
         "title": "Presidential Medal of Freedom",
@@ -7,24 +25,6 @@
         "category": "Technology",
         "summary": "The Presidential Medal of Freedom is considered the U.S. government’s highest civilian honor. Awarded by the President, it is often presented to individuals to recognize a lifetime of significant achievements in the arts, public service, science, or other fields. Created by President Harry S. Truman in 1945 as the Medal of Freedom, the medal was renamed by President John F. Kennedy in 1963 as the Presidential Medal...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R47639/R47639.23.pdf"
-    },
-    {
-        "id": "R48759",
-        "source": "Congressional Research Service",
-        "title": "Surface Transportation Reauthorization: Commercial Trucking Issues",
-        "publicationDate": "2026-09-11",
-        "category": "Economy",
-        "summary": "Trucks carry approximately 65% of the nation’s freight when measured by weight and 75% of the nation’s freight when measured by cargo value. If Congress considers reauthorizing surface transportation funding programs, numerous policy questions pertaining to the commercial operation of trucks may arise, including the following: Should Congress consider a ban on or the regulation of lease-purchase agreements between...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48759/R48759.4.pdf"
-    },
-    {
-        "id": "R44324",
-        "source": "Congressional Research Service",
-        "title": "Staff Pay, Selected Positions in Senators’ Offices, FY2001-FY2025",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Levels of pay for congressional staff are a source of recurring questions among Members of Congress, congressional staff, and the public. There may be interest in congressional pay data from multiple perspectives, including assessment of the costs of congressional operations, guidance in setting pay levels for staff in Member offices, or comparison of congressional staff pay levels with those of other federal...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44324/R44324.21.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5284-1.html",
@@ -153,6 +153,24 @@
         "url": "https://www.hudson.org/technology/ai-can-give-cyber-defenders-upper-hand-alexandra-seymour"
     },
     {
+        "id": "https://cms.hoover.org/nerds-roundtable",
+        "source": "Hoover Institution",
+        "title": "Nerds of the Roundtable",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/nerds-roundtable"
+    },
+    {
+        "id": "https://cms.hoover.org/news/two-days-september",
+        "source": "Hoover Institution",
+        "title": "Two Days in September",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "A Hoover oral history project asked Americans and Afghans where they were when the world changed, and found them living one event from opposite ends of the earth.",
+        "url": "https://cms.hoover.org/news/two-days-september"
+    },
+    {
         "id": "https://cms.hoover.org/events/new-space-race-power-policy-and-moon",
         "source": "Hoover Institution",
         "title": "The New Space Race: Power, Policy, And The Moon",
@@ -162,31 +180,22 @@
         "url": "https://cms.hoover.org/events/new-space-race-power-policy-and-moon"
     },
     {
-        "id": "https://cms.hoover.org/node/393000",
+        "id": "https://cms.hoover.org/plus/research/should-we-regulate-ai-its-too-late",
         "source": "Hoover Institution",
-        "title": "2026 Indigenous Student Seminar",
+        "title": "Should We Regulate AI (Before It's Too Late)?",
         "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/node/393000"
+        "category": "Defense",
+        "summary": "Artificial intelligence could become one of the most consequential drivers of productivity and economic growth in a generation. Yet concerns about job displacement, misinformation, and political disruption have prompted calls to regulate the technology before its effects are fully understood. History shows that major innovations disrupt existing industries while creating new forms of work and enterprise that...",
+        "url": "https://cms.hoover.org/plus/research/should-we-regulate-ai-its-too-late"
     },
     {
-        "id": "https://cms.hoover.org/news/indigenous-students-us-and-abroad-forge-new-paths-economic-resilience-hoover",
+        "id": "https://cms.hoover.org/research/victor-davis-hanson-only-way-check-abuse-ai-deter-it",
         "source": "Hoover Institution",
-        "title": "Indigenous Students from US and Abroad Forge New Paths to Economic Resilience at Hoover",
+        "title": "Victor Davis Hanson: The Only Way To Check The Abuse Of AI Is To Deter It",
         "publicationDate": "2026-09-11",
         "category": "Other",
-        "summary": "Indigenous students and young professionals hoping to build capacity and economic resilience for their home communities gathered for the Indigenous Student Seminar at the Hoover Institution on Aug. 3-7, 2026.",
-        "url": "https://cms.hoover.org/news/indigenous-students-us-and-abroad-forge-new-paths-economic-resilience-hoover"
-    },
-    {
-        "id": "https://cms.hoover.org/research/amidst-world-generational-change-911s-lessons-and-legacy",
-        "source": "Hoover Institution",
-        "title": "Amidst “A World Of Generational Change”: 9/11’s Lessons And Legacy",
-        "publicationDate": "2026-09-11",
-        "category": "Foreign Policy",
-        "summary": "The 9/11 attacks on the US were 25 years ago this week and, while there hasn’t been a second such shock, questions remain as to the Free World’s preparedness, whether a divided America can rediscover unity, and the strength of international alliances. Phillip Zelikow, the Hoover Institution’s Botha-Chan senior fellow and executive director of the 9/11 Commission, discusses lessons learned from the attack.",
-        "url": "https://cms.hoover.org/research/amidst-world-generational-change-911s-lessons-and-legacy"
+        "summary": "Hoover Institution fellow Victor Davis Hanson discusses concerns of AI becoming deadly.",
+        "url": "https://cms.hoover.org/research/victor-davis-hanson-only-way-check-abuse-ai-deter-it"
     },
     {
         "id": "https://ecfr.eu/article/remembering-emma-bonino/",
@@ -270,94 +279,112 @@
         "url": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-trump-leads-rnc-in-pledge-to-cheat-like-hell-in-november-elections",
+        "id": "https://www.pbs.org/newshour/politics/officials-in-nashville-unite-across-the-aisle-over-renaming-airport-after-dolly-parton",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump leads RNC in pledge to 'cheat like hell' in November elections",
+        "title": "Officials in Nashville unite across the aisle over renaming airport after Dolly Parton",
         "publicationDate": "2026-09-11",
-        "category": "2026 Republican Midterm Convention",
-        "summary": "After President Donald Trump told attendees at the Republican midterm convention Thursday night that \"we want honesty in our elections,\" he led them in a pledge to \"cheat like hell\" and \"go out and vote\" in the midterm elections.",
-        "url": "https://www.pbs.org/newshour/politics/watch-trump-leads-rnc-in-pledge-to-cheat-like-hell-in-november-elections"
+        "category": "airports",
+        "summary": "The change would make Parton the first woman whose name adorns one of America's 50 busiest airports.",
+        "url": "https://www.pbs.org/newshour/politics/officials-in-nashville-unite-across-the-aisle-over-renaming-airport-after-dolly-parton"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/cia-releases-dozens-of-presidential-daily-briefs-on-bin-laden-and-al-qaida-before-sept-11",
+        "id": "https://www.pbs.org/newshour/politics/federal-court-rejects-trump-administration-order-keeping-michigan-coal-plant-open",
         "source": "PBS NewsHour Politics",
-        "title": "CIA releases dozens of presidential daily briefs on bin Laden and al-Qaida before Sept. 11",
+        "title": "Federal court rejects Trump administration order keeping Michigan coal plant open",
+        "publicationDate": "2026-09-11",
+        "category": "chris wright",
+        "summary": "In a defeat for the Trump administration, a federal court on Friday ruled that the Energy Department exceeded its authority when it forced a Michigan coal-fired power plant to stay open past its scheduled retirement date last year.",
+        "url": "https://www.pbs.org/newshour/politics/federal-court-rejects-trump-administration-order-keeping-michigan-coal-plant-open"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/americans-remember-the-lives-lost-in-the-9-11-attacks-25-years-ago",
+        "source": "PBS NewsHour Politics",
+        "title": "Americans remember the lives lost in the 9/11 attacks 25 years ago",
         "publicationDate": "2026-09-11",
         "category": "9/11",
-        "summary": "The documents illustrate security analysts' tracking of bin Laden's movements and support system, as well as concerns about possible threats to U.S. targets.",
-        "url": "https://www.pbs.org/newshour/politics/cia-releases-dozens-of-presidential-daily-briefs-on-bin-laden-and-al-qaida-before-sept-11"
+        "summary": "Families, survivors, first responders and dignitaries marked the 25th anniversary of the 9/11 attacks with somber and poignant ceremonies. That included major gatherings in New York, at the Pentagon and in Shanksville, Pennsylvania. The attacks killed 2,977 people and set the country on a course that would define the next quarter-century. Geoff Bennett reports.",
+        "url": "https://www.pbs.org/newshour/show/americans-remember-the-lives-lost-in-the-9-11-attacks-25-years-ago"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/afghan-woman-whose-case-was-the-first-for-a-long-dormant-court-has-been-deported-officials-say",
+        "id": "https://www.pbs.org/newshour/show/iran-backed-houthis-seize-island-at-entrance-to-red-sea-threatening-saudi-oil-exports",
         "source": "PBS NewsHour Politics",
-        "title": "Afghan woman whose case was the first for a long-dormant court has been deported, officials say",
-        "publicationDate": "2026-09-11",
-        "category": "Department of Justice",
-        "summary": "Nazira Haji Zada, 47, was arrested in July at her Fort Worth, Texas, home and brought before the Alien Terrorist Removal Court on a Justice Department application to deport her from the U.S.",
-        "url": "https://www.pbs.org/newshour/politics/afghan-woman-whose-case-was-the-first-for-a-long-dormant-court-has-been-deported-officials-say"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face",
-        "source": "PBS NewsHour Politics",
-        "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face",
-        "publicationDate": "2026-09-11",
-        "category": "Defense",
-        "summary": "Sen. Josh Hawley, R-Mo., launched an investigation Thursday into OpenAI for its artificial intelligence system hacking into another AI company on its own.",
-        "url": "https://www.pbs.org/newshour/politics/senators-from-both-parties-question-openai-on-breach-of-ai-startup-hugging-face"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/world/as-trump-squeezes-the-international-criminal-court-more-countries-are-leaving",
-        "source": "PBS NewsHour Politics",
-        "title": "As Trump squeezes the International Criminal Court, more countries are leaving",
+        "title": "Iran-backed Houthis seize island at entrance to Red Sea, threatening Saudi oil exports",
         "publicationDate": "2026-09-11",
         "category": "Foreign Policy",
-        "summary": "As the United States ratchets up the pressure on the International Criminal Court, sanctioning two more high-ranking staff members in recent weeks, a small but growing number of the global tribunal's member states have announced they will quit the institution.",
-        "url": "https://www.pbs.org/newshour/world/as-trump-squeezes-the-international-criminal-court-more-countries-are-leaving"
+        "summary": "Houthi rebels in Yemen consolidated lightning gains across the country's western coast. The group, which recently resumed fighting with the Saudi-backed government, also extended its hold on the Bab al-Mandab Strait, a crucial chokepoint at the southern reaches of the Red Sea. Ali Rogin reports.",
+        "url": "https://www.pbs.org/newshour/show/iran-backed-houthis-seize-island-at-entrance-to-red-sea-threatening-saudi-oil-exports"
     },
     {
-        "id": "https://thehill.com/newsletters/business-economy/6085552-stubborn-inflation-fed-rate-hike/",
-        "source": "The Hill",
-        "title": "Stubborn inflation raises prospect of Fed rate hike",
+        "id": "https://www.pbs.org/newshour/show/news-wrap-august-inflation-report-shows-consumer-prices-up-3-4",
+        "source": "PBS NewsHour Politics",
+        "title": "News Wrap: August inflation report shows consumer prices up 3.4%",
         "publicationDate": "2026-09-11",
         "category": "Economy",
-        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Stubborn inflation raises prospect of Fed rate hike The Federal Reserve appears increasingly likely to hike interest rates next week, as inflation remains stubbornly elevated amid the war with Iran. © AP Photo/Julio Cortez New data...",
-        "url": "https://thehill.com/newsletters/business-economy/6085552-stubborn-inflation-fed-rate-hike/"
+        "summary": "In our news wrap Friday, the Labor Department reported that consumer prices rose 3.4% in August when compared to last year, the inflation report is fueling speculation that the Fed will raise interest rates, U.S. health officials declared an end to the cyclospora outbreak and a British official says more than half a million Russian troops have been killed since the start of the Ukraine invasion.",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-august-inflation-report-shows-consumer-prices-up-3-4"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6085514-husted-political-director-nazi-imagery/",
+        "id": "https://thehill.com/newsletters/defense-national-security/6085685-trump-hegseth-tie-iran-war-into-9-11-speeches/",
         "source": "The Hill",
-        "title": "Husted ousts his political director over posts with Nazi imagery",
-        "publicationDate": "2026-09-11",
-        "category": "Senate",
-        "summary": "Sen. Jon Husted (R-Ohio) fired his campaign's political director, Stephen Woytek, on Friday after learning about social media posts linked to Woytek, including a Facebook profile photo of Nazi officers and a public playlist of songs celebrating Rhodesia, a now-defunct nation often venerated by white supremacists. A spokesperson for Husted’s campaign told The Hill that...",
-        "url": "https://thehill.com/homenews/senate/6085514-husted-political-director-nazi-imagery/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6085396-cia-releases-911-intelligence-briefings/",
-        "source": "The Hill",
-        "title": "CIA releases never-before-seen warnings to Bush, Clinton about al Qaeda",
+        "title": "Trump, Hegseth tie Iran war into 9/11 speeches",
         "publicationDate": "2026-09-11",
         "category": "Defense",
-        "summary": "The CIA on Friday publicly released for the first time a tranche of daily intelligence briefings provided ahead of Sept. 11, 2001, to former Presidents George W. Bush and Clinton about al Qaeda's plans to commit terrorist attacks on U.S. soil. The intelligence agency released 71 declassified documents in what CIA Director John Ratcliffe called...",
-        "url": "https://thehill.com/policy/defense/6085396-cia-releases-911-intelligence-briefings/"
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story A link between Iran war and 9/11 in Trump administration speeches President Trump and Defense Secretary Pete Hegseth tied the Iran war to the Sept. 11, 2001, terrorist attacks in remarks at the Pentagon, suggesting the...",
+        "url": "https://thehill.com/newsletters/defense-national-security/6085685-trump-hegseth-tie-iran-war-into-9-11-speeches/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6085410-lincoln-memorial-pool-renovation-errors/",
+        "id": "https://thehill.com/policy/defense/6085660-houthis-takeover-port-saudi-gas-pipeline/",
         "source": "The Hill",
-        "title": "Contractor blames Lincoln Memorial pool problems on itself, not vandals: Report",
+        "title": "Proxy fight in Yemen heats up, risking new front in US-Iran war",
+        "publicationDate": "2026-09-11",
+        "category": "Defense",
+        "summary": "The Iranian-backed Houthi rebel group’s reported takeover of a Yemen port city is raising the stakes in Tehran’s war with the U.S. Saudi Arabia, which backs Yemen’s military, is reportedly urging President Trump to strike the rebels, while the U.S. has sent more than 100 advisors to aid its Saudi allies in the fight. In...",
+        "url": "https://thehill.com/policy/defense/6085660-houthis-takeover-port-saudi-gas-pipeline/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6085658-us-mint-presents-911-coins/",
+        "source": "The Hill",
+        "title": "US Mint commemorating 9/11 with new half-dollar coin",
         "publicationDate": "2026-09-11",
         "category": "Administration",
-        "summary": "The contractor behind the Lincoln Memorial Reflecting Pool renovation says mistakes made during the repair caused the pool’s new blue liner to peel and blister, according to a new report. Atlantic Industrial Coatings found that workers did not apply enough primer in some areas and that two materials used for the liner were not compatible,...",
-        "url": "https://thehill.com/homenews/administration/6085410-lincoln-memorial-pool-renovation-errors/"
+        "summary": "The U.S. Mint presented nearly 3,000 specially marked half dollar coins to the National September 11 Memorial & Museum on Friday to honor the victims of the 2001 and 1993 World Trade Center attacks. The Enduring Liberty Half Dollar coins feature a special 9/11 privy mark on the front of the coin that reads “9-11-01”...",
+        "url": "https://thehill.com/homenews/administration/6085658-us-mint-presents-911-coins/"
     },
     {
-        "id": "https://thehill.com/business/6085407-cpi-inflation-federal-reserve-interest-rates/",
+        "id": "https://thehill.com/newsletters/technology/6085640-the-debate-over-ai-doomsday-warnings/",
         "source": "The Hill",
-        "title": "Stubborn inflation raises prospect of Fed rate hike",
+        "title": "The debate over AI 'doomsday' warnings",
         "publicationDate": "2026-09-11",
-        "category": "Economy",
-        "summary": "The Federal Reserve appears increasingly likely to hike interest rates next week, as inflation remains stubbornly elevated amid the war with Iran. New data out Friday showed annual inflation remained unchanged in August, still well above the central bank’s target 2 percent rate. This is raising expectations of a rate hike, even as President Trump pushes...",
-        "url": "https://thehill.com/business/6085407-cpi-inflation-federal-reserve-interest-rates/"
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story Debate explodes over AI 'doomsday' warnings A former Anthropic researcher’s warning that AI could soon destroy humanity broke past the typical tech circles last week, setting off a new firestorm of debate over the technology’s rapid development. © Envato Researchers have warned of AI’s potential danger for years, but nothing...",
+        "url": "https://thehill.com/newsletters/technology/6085640-the-debate-over-ai-doomsday-warnings/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/healthcare/6085623-cdc-declares-cyclospora-outbreak-over/",
+        "source": "The Hill",
+        "title": "CDC declares cyclospora outbreak over",
+        "publicationDate": "2026-09-11",
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story CDC declares cyclospora outbreak over After nearly 13,000 cases and more than 500 hospitalizations, the Centers for Disease Control and Prevention (CDC) said there is no longer any risk of contracting cyclosporiasis from the source linked to the outbreak. David...",
+        "url": "https://thehill.com/newsletters/healthcare/6085623-cdc-declares-cyclospora-outbreak-over/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/11/us/politics/sept-11-women-special-operations-gala.html",
+        "source": "New York Times Politics",
+        "title": "Women Special Operations Veterans Remember Their Battles",
+        "publicationDate": "2026-09-11",
+        "category": "Defense",
+        "summary": "The only fraternal organization for women special operations veterans held a gala to mark the wars that began 25 years ago. It came as the Pentagon questions women’s roles in the military.",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/sept-11-women-special-operations-gala.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html",
+        "source": "New York Times Politics",
+        "title": "Will Stark Warnings About AI Shape the Midterm Elections?",
+        "publicationDate": "2026-09-11",
+        "category": "Politics and Government",
+        "summary": "Stark warnings from A.I. researchers have reverberated across the country.",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html",
@@ -376,33 +403,6 @@
         "category": "Foreign Policy",
         "summary": "The president appeared to embrace the idea that after 9/11, no risk can be tolerated, an echo of reasoning used by previous American officials in the “forever wars” that he has long denounced.",
         "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/11/us/politics/cia-officer-gold-bars-plea-deal.html",
-        "source": "New York Times Politics",
-        "title": "C.I.A. Officer Found With Gold Bars in Basement Reaches Tentative Plea Deal",
-        "publicationDate": "2026-09-11",
-        "category": "Classified Information and State Secrets",
-        "summary": "David J. Rush was fired from the C.I.A. after the F.B.I. found 303 gold bars in his Virginia home. Officials have said he created a fake classified program to funnel himself millions of dollars.",
-        "url": "https://www.nytimes.com/2026/09/11/us/politics/cia-officer-gold-bars-plea-deal.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/11/climate/reflecting-pool-contractor-trump.html",
-        "source": "New York Times Politics",
-        "title": "Reflecting Pool Contractor Blames Its Own Repairs, Not Vandals, for Damage",
-        "publicationDate": "2026-09-11",
-        "category": "Reflecting Pool",
-        "summary": "The contractor said the pool’s new blue liner peeled and tore because of “human oversight” and a flawed plan that involved layering two incompatible chemicals, documents show.",
-        "url": "https://www.nytimes.com/2026/09/11/climate/reflecting-pool-contractor-trump.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/11/us/politics/cia-sept-11-intelligence.html",
-        "source": "New York Times Politics",
-        "title": "C.I.A. Releases Intelligence Sent to Clinton and Bush on Al Qaeda Before 9/11 Attacks",
-        "publicationDate": "2026-09-11",
-        "category": "Defense",
-        "summary": "The spy agency released dozens of intelligence documents it had sent to Presidents Bill Clinton and George W. Bush, outlining what was known about Al Qaeda.",
-        "url": "https://www.nytimes.com/2026/09/11/us/politics/cia-sept-11-intelligence.html"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/09/11/woman-deported-afghanistan-first-use-alien-terrorist-removal-court/",
@@ -459,6 +459,24 @@
         "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+        "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Passenger train derails in France leaving at least 44 injured",
+        "publicationDate": "2026-09-11",
+        "category": "Other",
+        "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+        "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
@@ -468,31 +486,31 @@
         "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Israel says it has destroyed major underground Hezbollah base",
+        "id": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
         "publicationDate": "2026-09-11",
         "category": "Other",
-        "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-        "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss"
+        "summary": "Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI",
+        "url": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Princess Diana's 'revenge dress' goes up for auction",
+        "id": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Early SpaceX investor Atreides hires co-CIO of Lone Pine",
         "publicationDate": "2026-09-11",
         "category": "Other",
-        "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-        "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss"
+        "summary": "Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker",
+        "url": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+        "id": "https://www.ft.com/content/936ac952-43a6-44d5-be69-afa344e042f5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Reform UK receives record £36mn donation",
         "publicationDate": "2026-09-11",
         "category": "Other",
-        "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-        "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss"
+        "summary": "The gift from crypto billionaire Ben Delo is the largest donation in British political history",
+        "url": "https://www.ft.com/content/936ac952-43a6-44d5-be69-afa344e042f5?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
@@ -504,49 +522,13 @@
         "url": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Lone Pine’s co-CIO to join early SpaceX backer Atreides Management",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker",
-        "url": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1"
-    },
-    {
         "id": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "JPMorgan cut off Situational Awareness lending after AI losses",
         "publicationDate": "2026-09-11",
         "category": "Other",
-        "summary": "Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during sell-off",
+        "summary": "Leopold Aschenbrenner’s hedge fund previously shed billions of dollars during sell-off",
         "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Move is likely to put further momentum behind fast-rising oil prices",
-        "url": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/645b8e7d-39d6-4500-b761-c9a2edbc1a37?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump’s $5,000 dividend is bad corporate finance",
-        "publicationDate": "2026-09-11",
-        "category": "Economy",
-        "summary": "US president’s proposed $1.2tn handout fails to make sense in a country lacking excess cash and in need of investment",
-        "url": "https://www.ft.com/content/645b8e7d-39d6-4500-b761-c9a2edbc1a37?syn-25a6b1a6=1"
-    },
-    {
-        "id": "IF12938",
-        "source": "Congressional Research Service",
-        "title": "U.S. Satellite Capabilities for Tracking the Wildfire Life Cycle",
-        "publicationDate": "2026-09-10",
-        "category": "Economy",
-        "summary": "Satellite capabilities support virtually every stage of the wildfire life cycle: characterizing the prefire environment (e.g., seasonal climate predictions, vegetation); detecting and monitoring wildfires and smoke; and assessing postfire hazards (e.g., debris flows, flash floods) and ecosystem recovery. The National Oceanic and Atmospheric Administration (NOAA) notes that certain satellites provide “information...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12938/IF12938.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4841-1.html",
@@ -594,15 +576,6 @@
         "url": "https://www.cfr.org/backgrounders/what-are-un-sustainable-development-goals"
     },
     {
-        "id": "https://cms.hoover.org/research/how-deal-was-won-insider-view-2008-india-us-nuclear-deal",
-        "source": "Hoover Institution",
-        "title": "How The Deal Was Won | Insider View On 2008 India-US Nuclear Deal",
-        "publicationDate": "2026-09-10",
-        "category": "Other",
-        "summary": "Key insiders share their insights on the diplomatic breakthrough of the Indo-US nuclear deal in 2008.",
-        "url": "https://cms.hoover.org/research/how-deal-was-won-insider-view-2008-india-us-nuclear-deal"
-    },
-    {
         "id": "https://ecfr.eu/publication/booted-then-suited-veterans-and-the-making-of-putins-new-proto-elite/",
         "source": "European Council on Foreign Relations",
         "title": "Booted, then suited: Veterans and the making of Putin’s new proto-elite",
@@ -621,6 +594,15 @@
         "url": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe"
     },
     {
+        "id": "R49345",
+        "source": "Congressional Research Service",
+        "title": "Implementation of the Whole Milk for Healthy Kids Act of 2025 (P.L. 119-69): In Brief",
+        "publicationDate": "2026-09-09",
+        "category": "Healthcare",
+        "summary": "The Whole Milk for Healthy Kids Act of 2025 (P.L. 119-69) was enacted on January 14, 2026. The act allows whole and reduced-fat (2%) milk in federally funded school lunches and exempts milk from federal saturated fat limits. Such milks were previously prohibited from the National School Lunch Program (NSLP) since school year (SY) 2011-2012, following a change made by the Healthy, Hunger-Free Kids Act of 2010 (P.L....",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49345/R49345.1.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4946-1.html",
         "source": "RAND Corporation",
         "title": "What Can Public Data Tell Us About Corporate Support for Veterans?",
@@ -628,6 +610,15 @@
         "category": "Economy",
         "summary": "The authors analyzed public disclosures, foundation tax returns, and federal contractor reports to assess how S&P 500 companies support veterans and found little alignment among corporate statements, foundation giving, and protected veteran hiring.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4946-1.html"
+    },
+    {
+        "id": "R40781",
+        "source": "Congressional Research Service",
+        "title": "The Housing Trust Fund: An Overview",
+        "publicationDate": "2026-09-08",
+        "category": "Economy",
+        "summary": "The Housing Trust Fund (HTF) was established by the Housing and Economic Recovery Act of 2008 (HERA, P.L. 110-289) to provide funds to states to use for affordable housing activities, with a primary focus on the production, preservation, and rehabilitation of rental housing for extremely low-income households. It is administered by the Department of Housing and Urban Development (HUD) and is funded through...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R40781/R40781.27.pdf"
     },
     {
         "id": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026",
@@ -673,5 +664,14 @@
         "category": "Other",
         "summary": "Eight U.S. Regional Fishery Management Councils (FMCs) jointly manage federal marine fisheries (i.e., those occurring in waters up to 200 nautical miles offshore beyond state or territorial waters) with the National Oceanic and Atmospheric Administration (NOAA). The Magnuson-Stevens Fishery Conservation and Management Act (MSA; P.L. 94-265) established the FMCs, their roles, and their responsibilities. Congress...",
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R47645/R47645.12.pdf"
+    },
+    {
+        "id": "IN10835",
+        "source": "Congressional Research Service",
+        "title": "What Happens If the National Flood Insurance Program (NFIP) Lapses?",
+        "publicationDate": "2025-09-25",
+        "category": "Healthcare",
+        "summary": "This Insight provides a short overview of what could happen if the National Flood Insurance Program (NFIP) were not to be reauthorized by December 11, 2026, and allowed to lapse. Expiration of Certain NFIP Authorities The NFIP is the primary source of flood insurance coverage for residential properties in the United States. The NFIP has nearly 4.5 million flood insurance policies providing almost $1.3 trillion in...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN10835/IN10835.61.pdf"
     }
 ]
