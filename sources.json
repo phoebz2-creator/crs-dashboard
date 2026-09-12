@@ -1,5 +1,41 @@
 [
     {
+        "id": "https://thehill.com/policy/defense/6085776-north-korea-launches-missiles/",
+        "source": "The Hill",
+        "title": "North Korea fires ballistic missiles after condemning military drill as threat",
+        "publicationDate": "2026-09-12",
+        "category": "Defense",
+        "summary": "North Korea launched ballistic missiles toward the sea Saturday, a day after the U.S., South Korea and Japan completed a trilateral military drill in response to North Korean nuclear threats. The missiles were launched from the Wonsan area on North Korea’s eastern coast, according to South Korea’s military. Seoul said it was closely monitoring its...",
+        "url": "https://thehill.com/policy/defense/6085776-north-korea-launches-missiles/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6085748-florida-offers-asylum-holdout-juror/",
+        "source": "The Hill",
+        "title": "DeSantis: 'Florida will provide asylum' to holdout juror in Lindsay Clancy case",
+        "publicationDate": "2026-09-12",
+        "category": "State Watch",
+        "summary": "Florida Gov. Ron DeSantis (R) on Friday accused the media of launching a smear campaign against the lone holdout juror in the Lindsay Clancy murder trial, after a report revealed that the juror had a history of alleged domestic violence and an active restraining order. “A man objected to allowing a woman to kill her...",
+        "url": "https://thehill.com/homenews/state-watch/6085748-florida-offers-asylum-holdout-juror/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/",
+        "source": "The Hill",
+        "title": "Bacon says he's mulling 2028 White House bid",
+        "publicationDate": "2026-09-12",
+        "category": "Campaign",
+        "summary": "Rep. Don Bacon (R-Neb.) said he is considering a run for president in 2028 as he prepares to leave Congress next year. Bacon, who has previously floated a bid for the White House, said in an interview to be released in full Saturday that he would “love” to run. “I won’t lie. Yes, I would...",
+        "url": "https://thehill.com/homenews/campaign/6085724-don-bacon-considers-2028-presidency/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-library-legal-action.html",
+        "source": "New York Times Politics",
+        "title": "Federal Judge Poised to Dismiss Lawsuit Challenging Trump’s Library",
+        "publicationDate": "2026-09-12",
+        "category": "United States Politics and Government",
+        "summary": "The judge, in halting the pretrial fact-finding process, said President Trump’s claim of immunity could “dispose of the entire case” involving the library to be built in Miami.",
+        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-library-legal-action.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html",
         "source": "New York Times Politics",
         "title": "Trump Heads to Ireland for the Irish Open at His Golf Course",
@@ -9,13 +45,76 @@
         "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "publicationDate": "2026-09-12",
+        "category": "Defense",
+        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Arrest made over the death of black woman found hanged from tree",
+        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
         "publicationDate": "2026-09-12",
         "category": "Other",
         "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
         "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "We are setting up a generation to fail at school",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "The disturbing global decline in test results rests on wrong-headed curriculum changes",
+        "url": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b7a64635-2dcd-4d07-be75-47cd682b59e1?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Why I, a non-billionaire, am not leaving the UK",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "If Britain is good enough for Harry and Meghan, the Bayeux Tapestry and Asian hornets, it’s good enough for me",
+        "url": "https://www.ft.com/content/b7a64635-2dcd-4d07-be75-47cd682b59e1?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a83e620a-bb72-478a-ac77-10635ec653bd?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "High oil prices could force ECB to raise rates further, warns top policymaker",
+        "publicationDate": "2026-09-12",
+        "category": "Economy",
+        "summary": "Austrian central bank governor Martin Kocher says risk of elevated inflation is higher than it was a few months ago",
+        "url": "https://www.ft.com/content/a83e620a-bb72-478a-ac77-10635ec653bd?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/4ee10e45-072d-40bc-a773-bcaa5539c7af?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Why the British glass industry could be Number 10 North’s first major test",
+        "publicationDate": "2026-09-12",
+        "category": "Other",
+        "summary": "Heavily northern-based sector says intervention by Burnham is needed to reverse ‘dramatic decline’ caused by new packaging levies",
+        "url": "https://www.ft.com/content/4ee10e45-072d-40bc-a773-bcaa5539c7af?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/6fa49d3c-e7b9-4bcd-9eb1-b737ff0c552e",
+        "source": "Financial Times World",
+        "title": "South Korea arms itself to protect chip secrets from foreign spies",
+        "publicationDate": "2026-09-12",
+        "category": "Foreign Policy",
+        "summary": "Seoul broadens its espionage legislation for the first time in more than seven decades",
+        "url": "https://www.ft.com/content/6fa49d3c-e7b9-4bcd-9eb1-b737ff0c552e"
     },
     {
         "id": "R47639",
@@ -234,6 +333,15 @@
         "url": "https://ecfr.eu/podcasts/episode/the-geopolitics-of-global-hunger/"
     },
     {
+        "id": "https://www.npr.org/2026/09/11/nx-s1-5964970/ethics-watchdogs-await-rfk-jr-s-financial-report",
+        "source": "NPR Politics",
+        "title": "Ethics watchdogs await RFK Jr.'s financial report",
+        "publicationDate": "2026-09-11",
+        "category": "Healthcare",
+        "summary": "Health Secretary RFK Jr.'s annual financial disclosure is late. When it posts, the public could learn how much he has earned from a vaccine-related lawsuit against Merck, which RFK now regulates.",
+        "url": "https://www.npr.org/2026/09/11/nx-s1-5964970/ethics-watchdogs-await-rfk-jr-s-financial-report"
+    },
+    {
         "id": "https://www.npr.org/2026/09/11/nx-s1-5963499/mayor-of-the-air-capital-of-the-world-reacts-to-trumps-threats-against-bombardier",
         "source": "NPR Politics",
         "title": "Mayor of the 'Air Capital of the World' reacts to Trump's threats against Bombardier",
@@ -259,15 +367,6 @@
         "category": "Other",
         "summary": "NPR reflects on the events of 9/11 and the toll it left on the U.S. 25 years later. And, President Trump and Vice President Vance's convention speeches urge voters to back the GOP in the midterms.",
         "url": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
-        "source": "NPR Politics",
-        "title": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
-        "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review"
     },
     {
         "id": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
@@ -342,33 +441,6 @@
         "url": "https://thehill.com/policy/defense/6085660-houthis-takeover-port-saudi-gas-pipeline/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6085658-us-mint-presents-911-coins/",
-        "source": "The Hill",
-        "title": "US Mint commemorating 9/11 with new half-dollar coin",
-        "publicationDate": "2026-09-11",
-        "category": "Administration",
-        "summary": "The U.S. Mint presented nearly 3,000 specially marked half dollar coins to the National September 11 Memorial & Museum on Friday to honor the victims of the 2001 and 1993 World Trade Center attacks. The Enduring Liberty Half Dollar coins feature a special 9/11 privy mark on the front of the coin that reads “9-11-01”...",
-        "url": "https://thehill.com/homenews/administration/6085658-us-mint-presents-911-coins/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/technology/6085640-the-debate-over-ai-doomsday-warnings/",
-        "source": "The Hill",
-        "title": "The debate over AI 'doomsday' warnings",
-        "publicationDate": "2026-09-11",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story Debate explodes over AI 'doomsday' warnings A former Anthropic researcher’s warning that AI could soon destroy humanity broke past the typical tech circles last week, setting off a new firestorm of debate over the technology’s rapid development. © Envato Researchers have warned of AI’s potential danger for years, but nothing...",
-        "url": "https://thehill.com/newsletters/technology/6085640-the-debate-over-ai-doomsday-warnings/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/healthcare/6085623-cdc-declares-cyclospora-outbreak-over/",
-        "source": "The Hill",
-        "title": "CDC declares cyclospora outbreak over",
-        "publicationDate": "2026-09-11",
-        "category": "Healthcare",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story CDC declares cyclospora outbreak over After nearly 13,000 cases and more than 500 hospitalizations, the Centers for Disease Control and Prevention (CDC) said there is no longer any risk of contracting cyclosporiasis from the source linked to the outbreak. David...",
-        "url": "https://thehill.com/newsletters/healthcare/6085623-cdc-declares-cyclospora-outbreak-over/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/09/11/us/politics/sept-11-women-special-operations-gala.html",
         "source": "New York Times Politics",
         "title": "Women Special Operations Veterans Remember Their Battles",
@@ -394,15 +466,6 @@
         "category": "United States Politics and Government",
         "summary": "The president attacked three Democrats running for Senate this week with inaccurate claims to portray them as too extreme.",
         "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-democats-senate-races-fact-check.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
-        "source": "New York Times Politics",
-        "title": "Trump Appears to Defend Iran War During 9/11 Anniversary Speech",
-        "publicationDate": "2026-09-11",
-        "category": "Foreign Policy",
-        "summary": "The president appeared to embrace the idea that after 9/11, no risk can be tolerated, an echo of reasoning used by previous American officials in the “forever wars” that he has long denounced.",
-        "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/09/11/woman-deported-afghanistan-first-use-alien-terrorist-removal-court/",
@@ -450,15 +513,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/11/pentagon-trump-edges-toward-embracing-post-911-policies-he-attacked/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "publicationDate": "2026-09-11",
-        "category": "Foreign Policy",
-        "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-        "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
@@ -475,60 +529,6 @@
         "category": "Other",
         "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
         "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-        "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI",
-        "url": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Early SpaceX investor Atreides hires co-CIO of Lone Pine",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker",
-        "url": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/936ac952-43a6-44d5-be69-afa344e042f5?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Reform UK receives record £36mn donation",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "The gift from crypto billionaire Ben Delo is the largest donation in British political history",
-        "url": "https://www.ft.com/content/936ac952-43a6-44d5-be69-afa344e042f5?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Houthis seize Red Sea islands in lightning offensive",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets",
-        "url": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "JPMorgan cut off Situational Awareness lending after AI losses",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Leopold Aschenbrenner’s hedge fund previously shed billions of dollars during sell-off",
-        "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4841-1.html",
