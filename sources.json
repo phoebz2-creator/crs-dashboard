@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://thehill.com/policy/defense/6086519-driscoll-touts-ukraines-military-innovation-in-first-public-appearance-since-resigning-as-army-secretary/",
+        "source": "The Hill",
+        "title": "Driscoll touts Ukraine's military innovation in first public appearance since resigning as Army Secretary",
+        "publicationDate": "2026-09-13",
+        "category": "Defense",
+        "summary": "Former Army Secretary Dan Driscoll appeared for the first time since his resignation in August from the role, discussing Ukraine’s military innovations at the Yalta European Strategy forum – an annual conference in Ukraine about challenges facing the country. Driscoll appeared on a panel alongside former Google CEO Eric Schmidt and lauded Kyiv’s wartime technologies,...",
+        "url": "https://thehill.com/policy/defense/6086519-driscoll-touts-ukraines-military-innovation-in-first-public-appearance-since-resigning-as-army-secretary/"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/6086478-alaska-senate-debate-peltola-sullivan/",
         "source": "The Hill",
         "title": "Sullivan, Peltola face off in fish-focused debate",
@@ -9,6 +18,24 @@
         "url": "https://thehill.com/homenews/campaign/6086478-alaska-senate-debate-peltola-sullivan/"
     },
     {
+        "id": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
+        "source": "New York Times Politics",
+        "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
+        "publicationDate": "2026-09-13",
+        "category": "Technology",
+        "summary": "During a private fund-raiser, the former president warned that the technology could be “dangerous” if not managed urgently and with a clear plan.",
+        "url": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/12/us/politics/fema-cuts-homeland-security-trump-judge-rules.html",
+        "source": "New York Times Politics",
+        "title": "Judge Rules Homeland Security Plan to Cut FEMA Staff in Half Is Unlawful",
+        "publicationDate": "2026-09-13",
+        "category": "Disasters and Emergencies",
+        "summary": "The judge said the plan would hinder the agency’s ability to respond to disasters.",
+        "url": "https://www.nytimes.com/2026/09/12/us/politics/fema-cuts-homeland-security-trump-judge-rules.html"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
@@ -16,6 +43,51 @@
         "category": "Other",
         "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
         "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How Russia’s new drones are changing the air war",
+        "publicationDate": "2026-09-13",
+        "category": "Defense",
+        "summary": "Jet-powered Geran-5 model proves Kremlin’s military is also capable of innovation",
+        "url": "https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58",
+        "source": "Financial Times World",
+        "title": "As Europe’s memory fades, radicalism is returning",
+        "publicationDate": "2026-09-13",
+        "category": "Other",
+        "summary": "For younger voters, both communism and fascism belong to a distant past that no longer defines their political choices",
+        "url": "https://www.ft.com/content/65181a27-bea2-4ac0-96df-2d0d8dfe0b58"
+    },
+    {
+        "id": "https://www.ft.com/content/681a9df8-ab39-4b9f-bc86-7dcf6f68a8c0",
+        "source": "Financial Times World",
+        "title": "Paris and Beirut push to extend UN peacekeepers’ mission in Lebanon",
+        "publicationDate": "2026-09-13",
+        "category": "Other",
+        "summary": "Drive to extend mandate comes as Israel occupies large area of country’s south and Hizbollah refuses to disarm",
+        "url": "https://www.ft.com/content/681a9df8-ab39-4b9f-bc86-7dcf6f68a8c0"
+    },
+    {
+        "id": "https://www.ft.com/content/f3ecfe7f-25df-434f-a61d-a9ce0ac1e611?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Why Britain’s super-rich are looking for the exit",
+        "publicationDate": "2026-09-13",
+        "category": "Economy",
+        "summary": "Tax rises, political instability — and the fear of worse to come — are forcing the UK’s wealthiest residents to reconsider their future in the country",
+        "url": "https://www.ft.com/content/f3ecfe7f-25df-434f-a61d-a9ce0ac1e611?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Musk’s secretive backer builds $40bn SpaceX stake",
+        "publicationDate": "2026-09-13",
+        "category": "Other",
+        "summary": "Low-profile venture capital firm Vy Capital has emerged as one of the rocket maker’s largest shareholders",
+        "url": "https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
@@ -126,15 +198,6 @@
         "url": "https://thehill.com/regulation/court-battles/6086363-trump-fema-cuts-illegal-federal-judge/"
     },
     {
-        "id": "https://thehill.com/homenews/6085372-missouri-redistricting-election-chaos/",
-        "source": "The Hill",
-        "title": "Redistricting rulings injects chaos, uncertainty into Missouri House races",
-        "publicationDate": "2026-09-12",
-        "category": "News",
-        "summary": "Missouri election officials and candidates are bracing for chaos in November amid concerns the state's redistricting saga could spark widespread confusion for voters at the ballot box. The Supreme Court paved the way for the state to use its old map that favored the GOP six seats to two, instead of the newer 7-1 House...",
-        "url": "https://thehill.com/homenews/6085372-missouri-redistricting-election-chaos/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
         "source": "New York Times Politics",
         "title": "Republican Campaign Aide Is Fired Over Nazi Photo",
@@ -162,24 +225,6 @@
         "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
-        "source": "New York Times Politics",
-        "title": "Inflation Complicates Trump’s Midterms Pitch to Voters",
-        "publicationDate": "2026-09-12",
-        "category": "Economy",
-        "summary": "Gas prices are high, mortgage rates are climbing and inflation remains well above target, complicating the president’s midterm appeal.",
-        "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
-        "source": "New York Times Politics",
-        "title": "How Trump Is Wielding Power to Stifle Speech",
-        "publicationDate": "2026-09-12",
-        "category": "United States Politics and Government",
-        "summary": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.",
-        "url": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -187,15 +232,6 @@
         "category": "Other",
         "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
         "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-        "publicationDate": "2026-09-12",
-        "category": "Defense",
-        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
@@ -207,58 +243,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Fire at nursing home in Chile kills 16 residents",
-        "publicationDate": "2026-09-12",
-        "category": "Other",
-        "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/8d8b5195-e16f-457e-ae77-f6e843934058?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham resists calls to reform student loans in Budget",
-        "publicationDate": "2026-09-12",
-        "category": "Economy",
-        "summary": "Treasury select committee argues the repayment threshold should rise in line with inflation",
-        "url": "https://www.ft.com/content/8d8b5195-e16f-457e-ae77-f6e843934058?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Larry Ellison cancels $7.5bn Oracle share sale",
-        "publicationDate": "2026-09-12",
-        "category": "Other",
-        "summary": "About-face comes a day after a filing revealed plans to sell up to 50mn shares by the end of October",
-        "url": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "India’s central bank tells Tata Sons to take conglomerate public",
-        "publicationDate": "2026-09-12",
-        "category": "Other",
-        "summary": "RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO",
-        "url": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Brics push for Gulf peace as war worries mount",
+        "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
         "publicationDate": "2026-09-12",
         "category": "Foreign Policy",
-        "summary": "India-China rapprochement faces obstacles over economic and geopolitical rivalry",
-        "url": "https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1"
+        "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+        "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump says united Ireland ‘inevitable’ and ‘a very cool thing’",
+        "id": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
         "publicationDate": "2026-09-12",
-        "category": "Other",
-        "summary": "Off-the-cuff remarks from US president during a visit to Ireland anger pro-UK parties",
-        "url": "https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1"
+        "category": "Defense",
+        "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R47639",
