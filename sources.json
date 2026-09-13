@@ -45,6 +45,15 @@
         "url": "https://cms.hoover.org/research/irans-covert-weapons-supply-chain-runs-through-canada-and-china-fueled-trade-based-money"
     },
     {
+        "id": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+        "source": "NPR Politics",
+        "title": "Trump warns against slowing down AI but he is not against some guardrails",
+        "publicationDate": "2026-09-13",
+        "category": "Other",
+        "summary": "President Trump said there were \"negative forces\" predicting things that he says won't happen.",
+        "url": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown"
+    },
+    {
         "id": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
         "source": "NPR Politics",
         "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
@@ -81,6 +90,15 @@
         "url": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/trump-downplays-the-need-to-check-ai-development-and-says-he-doesnt-want-to-cede-edge-to-china",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+        "publicationDate": "2026-09-13",
+        "category": "Foreign Policy",
+        "summary": "While acknowledging the need for some regulation, Trump provided no specifics about potential rules and attributed warnings about the technology moving too quickly and with little oversight to \"negative forces\" he did not identify.",
+        "url": "https://www.pbs.org/newshour/politics/trump-downplays-the-need-to-check-ai-development-and-says-he-doesnt-want-to-cede-edge-to-china"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/inside-a-philadelphia-barbershop-black-men-debate-their-political-past-and-future",
         "source": "PBS NewsHour Politics",
         "title": "Inside a Philadelphia barbershop, Black men debate their political past and future",
@@ -101,10 +119,10 @@
     {
         "id": "https://www.pbs.org/newshour/world/swedish-voters-go-to-polls-to-choose-a-new-parliament-as-hard-right-bids-for-role-in-government",
         "source": "PBS NewsHour Politics",
-        "title": "Exit polls show left-wing opposition ahead in Swedish vote, projected to win majority",
+        "title": "Partial returns show close race between Sweden's conservative government and left-wing opposition",
         "publicationDate": "2026-09-13",
         "category": "conservative",
-        "summary": "The polls from Swedish public broadcaster SVT project Andersson's four-party group winning a majority, paving the way for her to return to office pending coalition talks.",
+        "summary": "Exit polls from public broadcaster SVT had initially shown the left-wing parties ahead by several percentage points but with two-thirds of the actual vote counted, the two blocs were nearly dead even.",
         "url": "https://www.pbs.org/newshour/world/swedish-voters-go-to-polls-to-choose-a-new-parliament-as-hard-right-bids-for-role-in-government"
     },
     {
@@ -117,58 +135,49 @@
         "url": "https://www.pbs.org/newshour/politics/the-secret-ballot-has-been-an-article-of-faith-in-u-s-elections-thats-being-tested-in-georgia"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/rep-tom-tiffany-swims-to-safety-after-plane-makes-emergency-landing-in-a-wisconsin-lake",
-        "source": "PBS NewsHour Politics",
-        "title": "Rep. Tom Tiffany swims to safety after plane makes emergency landing in a Wisconsin lake",
+        "id": "https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition/",
+        "source": "The Hill",
+        "title": "Poll: Democratic voters driven by Trump opposition more than party platform",
         "publicationDate": "2026-09-13",
-        "category": "emergency landing",
-        "summary": "Tiffany and the pilot got out of the plane and called 911. They were rescued by emergency responders in a fire department airboat.",
-        "url": "https://www.pbs.org/newshour/politics/rep-tom-tiffany-swims-to-safety-after-plane-makes-emergency-landing-in-a-wisconsin-lake"
+        "category": "Campaign",
+        "summary": "A new poll shows that Democratic voters are more driven to cast their ballots in the November midterms elections out of their opposition to President Trump more so than the party's platform. The CBS News/YouGov poll released Sunday found that 54 percent of Democratic voters said they will vote for their Democratic candidate to Congress...",
+        "url": "https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition/"
     },
     {
-        "id": "https://thehill.com/newsletters/this-week-on-the-hill/6086967-senate-budget-resolution-crypto-farm-bill/",
+        "id": "https://thehill.com/homenews/campaign/6087218-el-sayed-denies-piker-relevance/",
         "source": "The Hill",
-        "title": "This Week on The Hill: Congress returns to a packed agenda",
+        "title": "El-Sayed on Piker: Not interested 'in having a conversation about streamers in California'",
         "publicationDate": "2026-09-13",
-        "category": "Economy",
-        "summary": "The Senate returns this week to a packed agenda, with lawmakers facing a trio of unfinished priorities: crypto legislation, the farm bill and the budget resolution that Republicans need to unlock a third reconciliation package. The biggest question hanging over the chamber is whether Republicans can get on the same page on the budget resolution....",
-        "url": "https://thehill.com/newsletters/this-week-on-the-hill/6086967-senate-budget-resolution-crypto-farm-bill/"
+        "category": "Campaign",
+        "summary": "Michigan Democratic Senate candidate Abdul El-Sayed on Sunday pushed back on questions about far-left streamer Hasan Piker, who he previously campaigned with. “There are Jewish voters in your state who are concerned about your relationship with Piker. You have condemned antisemitism but not called out his rhetoric directly. Why not?” CBS News’s Weijia Jiang asked...",
+        "url": "https://thehill.com/homenews/campaign/6087218-el-sayed-denies-piker-relevance/"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6085057-maine-lobster-industry-pressures/",
+        "id": "https://thehill.com/homenews/state-watch/6087103-charlie-kirk-statue-vandalized/",
         "source": "The Hill",
-        "title": "Maine’s lobster industry finds itself squeezed on all sides amid Canada trade war",
+        "title": "Charlie Kirk statue vandalized outside of Turning Point USA headquarters",
         "publicationDate": "2026-09-13",
-        "category": "Foreign Policy",
-        "summary": "STONINGTON, MAINE — The Maine lobster business has found itself in the crosshairs of a trade war and congressional infighting as rising costs and other pressures leave the heritage industry in a precarious state. The war with Iran has sent diesel fuel prices soaring at a time when warming waters mean lobstermen are traveling further...",
-        "url": "https://thehill.com/homenews/state-watch/6085057-maine-lobster-industry-pressures/"
+        "category": "State Watch",
+        "summary": "The Phoenix, Ariz., Police Department on Sunday said a statue of conservative activist Charlie Kirk outside the headquarters of his organization, Turning Point USA (TPUSA), was vandalized days after the one-year anniversary of his death. Police told The Hill's sister network NewsNation that they received calls about vandalism to a memorial in the area of...",
+        "url": "https://thehill.com/homenews/state-watch/6087103-charlie-kirk-statue-vandalized/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6087028-democrats-urge-congress-ai-safety/",
+        "id": "https://thehill.com/business/6087112-trump-to-lift-irish-whiskey-tariffs/",
         "source": "The Hill",
-        "title": "Dem rep urges Johnson: 'Bring us back to Congress' to discuss AI",
+        "title": "Trump says he plans to lift tariffs on Irish whiskey",
+        "publicationDate": "2026-09-13",
+        "category": "Business",
+        "summary": "President Trump said Sunday that he plans to lift tariffs on Irish whiskey, an announcement he made while visiting the Emerald Isle. “Ireland itself has been so incredible, so inviting, and we're very honored by presenting you with a great course. It's been great,” the president said while speaking at a ceremony for the Amgen...",
+        "url": "https://thehill.com/business/6087112-trump-to-lift-irish-whiskey-tariffs/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6087006-centcom-commander-dismisses-munition-shortage/",
+        "source": "The Hill",
+        "title": "Centcom commander 'not concerned at all' about munitions stockpiles",
         "publicationDate": "2026-09-13",
         "category": "Defense",
-        "summary": "Democratic Rep. Greg Stanton (Ariz.) said Sunday that Speaker Mike Johnson (R-La.) should keep lawmakers in session to address the risks of rapidly advancing artificial intelligence (AI) models. “We should take the warnings of the leading investigators of AI very, very seriously,” Stanton told host Chris Stirewalt on NewsNation’s “The Hill Sunday,” after a former...",
-        "url": "https://thehill.com/policy/technology/6087028-democrats-urge-congress-ai-safety/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6086989-flood-calls-ai-safeguards/",
-        "source": "The Hill",
-        "title": "GOP rep on AI: 'Let's get on top of it'",
-        "publicationDate": "2026-09-13",
-        "category": "Defense",
-        "summary": "GOP Rep. Mike Flood (Neb.) said Sunday the federal government should implement artificial intelligence safeguards to prevent the technology from falling into the wrong “hands.” During an interview on NewsNation’s “The Hill Sunday,” Flood said the leaders of top AI companies should be “answering questions” on the safety of the technology and its risks. “This...",
-        "url": "https://thehill.com/policy/technology/6086989-flood-calls-ai-safeguards/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6086928-trump-compares-iran-venezuela-oil/",
-        "source": "The Hill",
-        "title": "Trump floats idea to 'stay and keep the oil' in Iran, noting Venezuela deal",
-        "publicationDate": "2026-09-13",
-        "category": "Foreign Policy",
-        "summary": "President Trump on Sunday floated the idea that the U.S. could \"stay and keep the oil\" in Iran, comparing the notion to the U.S.'s major oil deal with Venezuela. Trump told reporters while in Doonbeg, Ireland, that the conflict with Iran will \"end after the midterm\" elections and that the Iranian regime \"wants to make...",
-        "url": "https://thehill.com/policy/energy-environment/6086928-trump-compares-iran-venezuela-oil/"
+        "summary": "Adm. Brad Cooper, the commander of U.S. Central Command (Centcom), said he is \"not concerned at all\" about the U.S.'s munitions inventories amid reports that the Pentagon has depleted its stockpiles to fight Iran. CBS News's \"Face the Nation\" aired part of Norah O'Donnell's interview with Cooper earlier on Sunday, where she asked if the...",
+        "url": "https://thehill.com/policy/defense/6087006-centcom-commander-dismisses-munition-shortage/"
     },
     {
         "id": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
@@ -288,6 +297,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Swedish party blocs tied after Sunday vote, projections say",
+        "publicationDate": "2026-09-13",
+        "category": "Other",
+        "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -297,67 +315,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-        "publicationDate": "2026-09-13",
-        "category": "Other",
-        "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-        "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/9cd8cc79-e98a-449f-a903-609b034a56e3?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Canada seeks Ukraine loan role to deepen EU ties",
+        "title": "Gulf states postpone talks with Iran over Hormuz impasse",
         "publicationDate": "2026-09-13",
         "category": "Foreign Policy",
-        "summary": "Prime Minister Mark Carney to meet leaders in Europe this week as he tries to reduce his country’s dependence on the US",
-        "url": "https://www.ft.com/content/9cd8cc79-e98a-449f-a903-609b034a56e3?syn-25a6b1a6=1"
+        "summary": "Delay to crunch meeting because of lack of consensus sets back efforts to restore shipping through vital waterway",
+        "url": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Trump calls on Ukraine to stop striking Russian diesel refineries",
+        "title": "Michael Dell’s family office nears deal to take $4.1bn insurance broker private",
         "publicationDate": "2026-09-13",
-        "category": "Foreign Policy",
-        "summary": "US president says the attacks and not his war in Iran are responsible for the fuel hitting record highs",
-        "url": "https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25a6b1a6=1"
+        "category": "Healthcare",
+        "summary": "DFO Management in advanced talks with Baldwin Group as historically fragmented industry undergoes wave of consolidation",
+        "url": "https://www.ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/7de7cc10-e7a5-414b-a40f-3296eaf49ce7?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Russians to vote, but the outcome is already decided",
+        "title": "Trump rejects calls from tech bosses for AI slowdown",
         "publicationDate": "2026-09-13",
-        "category": "Economy",
-        "summary": "First election for the Duma since the Ukraine invasion, inflation reports dominate the economic data run, and the Fed, BoE and BoJ make interest rate announcements",
-        "url": "https://www.ft.com/content/7de7cc10-e7a5-414b-a40f-3296eaf49ce7?syn-25a6b1a6=1"
+        "category": "Technology",
+        "summary": "President denounces demands for regulation as existential fears over technology move to the centre of US politics",
+        "url": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/e56e5e77-f131-46ea-a756-9431f1908b7d?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/60ef3d28-8e1b-4c2b-b8c1-0b0059c4eedc?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Rayner suggests political donations cap on table after Reform’s £72mn boost",
+        "title": "Burnham promises a ‘culture shift’ in how Britain does business",
         "publicationDate": "2026-09-13",
         "category": "Other",
-        "summary": "Debate rises up agenda again after record-breaking gifts given to Nigel Farage’s party",
-        "url": "https://www.ft.com/content/e56e5e77-f131-46ea-a756-9431f1908b7d?syn-25a6b1a6=1"
+        "summary": "Prime minister to tell business leaders and entrepreneurs that his government will be a ‘partner for growth’",
+        "url": "https://www.ft.com/content/60ef3d28-8e1b-4c2b-b8c1-0b0059c4eedc?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/aa4465ff-5261-4c3b-874f-ce1a607efa70?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Russia strikes Ukraine train line moments after foreign dignitaries pass",
+        "title": "Trump scraps tariffs on Irish whiskey during visit to country",
         "publicationDate": "2026-09-13",
-        "category": "Foreign Policy",
-        "summary": "Train struck on route used by David Petraeus, Boris Johnson, Carl Bildt and other senior officials",
-        "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
-        "source": "NPR Politics",
-        "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-        "publicationDate": "2026-09-12",
         "category": "Other",
-        "summary": "Nazira Haji Zada, a lawful permanent resident, conceded to being an \"alien terrorist.\" It marks the first case in the Alien Terrorist Removal Court.",
-        "url": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan"
+        "summary": "The surprise move came a day after the US president stirred controversy by calling for Irish reunification",
+        "url": "https://www.ft.com/content/aa4465ff-5261-4c3b-874f-ce1a607efa70?syn-25a6b1a6=1"
     },
     {
         "id": "R47639",
