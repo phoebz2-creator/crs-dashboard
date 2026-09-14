@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://thehill.com/homenews/administration/6087307-trump-promises-5000-dividend-checks/",
+        "source": "The Hill",
+        "title": "Trump says $5K dividend checks to Americans will 'happen 100 percent'",
+        "publicationDate": "2026-09-14",
+        "category": "Defense",
+        "summary": "President Trump on Sunday said $5,000 dividend checks will \"happen 100 percent\" if the GOP maintains its majority in Congress after the midterm elections. The president compared the potential payouts to the $1,776 checks that went out to U.S. service members, telling reporters outside Air Force One on Sunday that he's received the same type...",
+        "url": "https://thehill.com/homenews/administration/6087307-trump-promises-5000-dividend-checks/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/health/2026/09/13/pennsylvania-woman-dies-measles-related-complications-local-coroner-says/",
+        "source": "Washington Post Politics",
+        "title": "Pennsylvania woman died from complications of probable measles case, coroner says",
+        "publicationDate": "2026-09-14",
+        "category": "Other",
+        "summary": "The coroner said the unvaccinated 40-year-old woman exhibited many common symptoms of measles, such as a fever, cough, white spots inside the mouth and a rash.",
+        "url": "https://www.washingtonpost.com/health/2026/09/13/pennsylvania-woman-dies-measles-related-complications-local-coroner-says/"
+    },
+    {
         "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-34",
         "source": "Hoover Institution",
         "title": "2026 Issue 34",
@@ -47,7 +65,7 @@
     {
         "id": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
         "source": "NPR Politics",
-        "title": "Trump warns against slowing down AI but he is not against some guardrails",
+        "title": "Trump downplays calls for AI slowdown",
         "publicationDate": "2026-09-13",
         "category": "Other",
         "summary": "President Trump said there were \"negative forces\" predicting things that he says won't happen.",
@@ -135,6 +153,15 @@
         "url": "https://www.pbs.org/newshour/politics/the-secret-ballot-has-been-an-article-of-faith-in-u-s-elections-thats-being-tested-in-georgia"
     },
     {
+        "id": "https://thehill.com/policy/healthcare/6087275-pennsylvania-third-measles-death/",
+        "source": "The Hill",
+        "title": "Pennsylvania woman dies from measles complications",
+        "publicationDate": "2026-09-13",
+        "category": "Healthcare",
+        "summary": "The Jefferson County, Pa., Coroner's Office on Sunday said a 40-year-old woman died from complications with measles, the state's third measles-related death this year. Coroner Greg Furlong wrote on Facebook that the woman, a Jefferson County resident, died on Saturday. He added that his office was working with the Pennsylvania Department of Health on this...",
+        "url": "https://thehill.com/policy/healthcare/6087275-pennsylvania-third-measles-death/"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/6087181-democrats-voter-motivation-trump-opposition/",
         "source": "The Hill",
         "title": "Poll: Democratic voters driven by Trump opposition more than party platform",
@@ -160,24 +187,6 @@
         "category": "State Watch",
         "summary": "The Phoenix, Ariz., Police Department on Sunday said a statue of conservative activist Charlie Kirk outside the headquarters of his organization, Turning Point USA (TPUSA), was vandalized days after the one-year anniversary of his death. Police told The Hill's sister network NewsNation that they received calls about vandalism to a memorial in the area of...",
         "url": "https://thehill.com/homenews/state-watch/6087103-charlie-kirk-statue-vandalized/"
-    },
-    {
-        "id": "https://thehill.com/business/6087112-trump-to-lift-irish-whiskey-tariffs/",
-        "source": "The Hill",
-        "title": "Trump says he plans to lift tariffs on Irish whiskey",
-        "publicationDate": "2026-09-13",
-        "category": "Business",
-        "summary": "President Trump said Sunday that he plans to lift tariffs on Irish whiskey, an announcement he made while visiting the Emerald Isle. “Ireland itself has been so incredible, so inviting, and we're very honored by presenting you with a great course. It's been great,” the president said while speaking at a ceremony for the Amgen...",
-        "url": "https://thehill.com/business/6087112-trump-to-lift-irish-whiskey-tariffs/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6087006-centcom-commander-dismisses-munition-shortage/",
-        "source": "The Hill",
-        "title": "Centcom commander 'not concerned at all' about munitions stockpiles",
-        "publicationDate": "2026-09-13",
-        "category": "Defense",
-        "summary": "Adm. Brad Cooper, the commander of U.S. Central Command (Centcom), said he is \"not concerned at all\" about the U.S.'s munitions inventories amid reports that the Pentagon has depleted its stockpiles to fight Iran. CBS News's \"Face the Nation\" aired part of Norah O'Donnell's interview with Cooper earlier on Sunday, where she asked if the...",
-        "url": "https://thehill.com/policy/defense/6087006-centcom-commander-dismisses-munition-shortage/"
     },
     {
         "id": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
@@ -234,15 +243,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/13/trump-rejects-calls-so-slow-ai-development-citing-chinese-competition/"
     },
     {
-        "id": "https://www.washingtonpost.com/health/2026/09/13/pennsylvania-woman-dies-measles-related-complications-local-coroner-says/",
-        "source": "Washington Post Politics",
-        "title": "Pennsylvania woman dies of measles-related complications, local coroner says",
-        "publicationDate": "2026-09-13",
-        "category": "Healthcare",
-        "summary": "The 40-year-old woman, who was from Jefferson County, was unvaccinated, according to the coroner. The state health department is conducting a \"thorough review\" of the case.",
-        "url": "https://www.washingtonpost.com/health/2026/09/13/pennsylvania-woman-dies-measles-related-complications-local-coroner-says/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/09/13/rep-tom-tiffany-says-he-swam-safety-after-emergency-plane-landing/",
         "source": "Washington Post Politics",
         "title": "Wisconsin lawmaker says he swam to safety after emergency plane landing",
@@ -284,7 +284,7 @@
         "title": "Trump downplays warnings of AI risks, citing rivalry with China",
         "publicationDate": "2026-09-13",
         "category": "Foreign Policy",
-        "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+        "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
     },
     {
