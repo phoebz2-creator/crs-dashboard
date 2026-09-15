@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html",
+        "source": "New York Times Politics",
+        "title": "Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots",
+        "publicationDate": "2026-09-15",
+        "category": "United States Politics and Government",
+        "summary": "The Trump administration had asked the justices to allow a new Postal Service plan to screen ballots just weeks before the midterm elections.",
+        "url": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html"
+    },
+    {
         "id": "IN12304",
         "source": "Congressional Research Service",
         "title": "Revisions to Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity",
@@ -7,15 +16,6 @@
         "category": "Economy",
         "summary": "The Office of Management and Budget (OMB) oversees the collection of race and ethnicity data through Statistical Policy Directive (SPD) No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity. SPD No. 15 intends to “ensure the comparability of race and ethnicity across Federal datasets and to maximize the quality of that data by ensuring that the format, language, and...",
         "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12304/IN12304.7.pdf"
-    },
-    {
-        "id": "R42346",
-        "source": "Congressional Research Service",
-        "title": "Federal Land Ownership: Overview and Data",
-        "publicationDate": "2026-09-14",
-        "category": "Defense",
-        "summary": "The federal government owns roughly 640 million acres, about 28% of the 2.27 billion acres of land in the United States. Four major federal land management agencies administer 606.8 million acres of this land (as of September 30, 2024). They are the Bureau of Land Management (BLM), U.S. Fish and Wildlife Service (FWS), and National Park Service (NPS) in the Department of the Interior (DOI) and the U.S. Forest...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42346/R42346.20.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5112-1.html",
@@ -34,6 +34,15 @@
         "category": "Other",
         "summary": "In this report, the authors analyze the cost to implement Zearn Math in a large Texas school district, finding that Zearn Math is a promising approach to improving math achievement and costs less than peer math products.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4924-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/building-trust-in-ai-is-critical-to-the-frontiers-future",
+        "source": "Council on Foreign Relations",
+        "title": "Building Trust in AI Is Critical to the Frontier’s Future",
+        "publicationDate": "2026-09-14",
+        "category": "Article",
+        "summary": "Voluntary AI lab commitments are a start, but genuine security and safety will require enforceable standards and independent oversight.",
+        "url": "https://www.cfr.org/articles/building-trust-in-ai-is-critical-to-the-frontiers-future"
     },
     {
         "id": "https://www.cfr.org/books/bringing-order-to-anarchy",
@@ -70,15 +79,6 @@
         "category": "Healthcare",
         "summary": "Gang warfare, hunger, and a disintegrating health-care chain has hollowed out Haiti’s capital, Port-au-Prince. Seven hundred miles away, the U.S. government has revoked TPS, a humanitarian immigration status used by Haitians since the devastating earthquake in 2010. Up to 350,000 Haitian migrants could now be deported to a country beset by violence.",
         "url": "https://www.cfr.org/articles/on-the-ground-in-haiti-the-growing-war-zone-facing-u-s-deportees"
-    },
-    {
-        "id": "https://www.cfr.org/articles/the-birth-of-the-star-spangled-banner",
-        "source": "Council on Foreign Relations",
-        "title": "The Birth of the Star-Spangled Banner",
-        "publicationDate": "2026-09-14",
-        "category": "Article",
-        "summary": "The U.S. national anthem marks its 212th anniversary.",
-        "url": "https://www.cfr.org/articles/the-birth-of-the-star-spangled-banner"
     },
     {
         "id": "https://www.heritage.org/conservatism/report/make-classical-education-roman-again",
@@ -153,6 +153,24 @@
         "url": "https://www.hudson.org/national-security-defense/houthis-threaten-strait-hormuz-rebeccah-heinrichs"
     },
     {
+        "id": "https://cms.hoover.org/research/higher-education-must-overcome-comforting-delusions",
+        "source": "Hoover Institution",
+        "title": "Higher Education Must Overcome Comforting Delusions",
+        "publicationDate": "2026-09-14",
+        "category": "Other",
+        "summary": "It is comforting to suppose that the resentment and anger we provoke arise from misunderstandings on the part of others.",
+        "url": "https://cms.hoover.org/research/higher-education-must-overcome-comforting-delusions"
+    },
+    {
+        "id": "https://cms.hoover.org/research/examining-healthcare-markets-fraud-and-competition",
+        "source": "Hoover Institution",
+        "title": "Examining Healthcare Markets: Fraud And Competition",
+        "publicationDate": "2026-09-14",
+        "category": "Healthcare",
+        "summary": "(23:52) Hoover Institution fellow Dr. Brian Miller testifies in front of the House Judiciary Subcommittee on the Administrative State, Regulatory Reform, and Antitrust in a hearing titled \"Examining Healthcare Markets: Fraud and Competition.\"",
+        "url": "https://cms.hoover.org/research/examining-healthcare-markets-fraud-and-competition"
+    },
+    {
         "id": "https://cms.hoover.org/library-archives/histories/choosing-freedom/iraq",
         "source": "Hoover Institution",
         "title": "Freedom from Ba‘athism: Iraqi Testimonies",
@@ -162,31 +180,22 @@
         "url": "https://cms.hoover.org/library-archives/histories/choosing-freedom/iraq"
     },
     {
-        "id": "https://cms.hoover.org/research/makers-our-fate",
+        "id": "https://cms.hoover.org/research/ai-and-society-law-health-and-consequences",
         "source": "Hoover Institution",
-        "title": "The Makers Of Our Fate",
+        "title": "AI And Society: Law, Health, And Consequences",
         "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "Amidst rogue AI swarms, autonomous math breakthroughs, and proclamations of extinction risk from inside the labs, society is waking up. And this is why I don’t buy claims of imminent extinction.",
-        "url": "https://cms.hoover.org/research/makers-our-fate"
+        "category": "Healthcare",
+        "summary": "Hoover Institution fellow Scott Atlas is participating in a panel discussion on AI and Society: Law, Health and Consequences on November 17 from 6:00 PM to 8:00 PM in Sarasota, Florida.",
+        "url": "https://cms.hoover.org/research/ai-and-society-law-health-and-consequences"
     },
     {
-        "id": "https://cms.hoover.org/research/refractory-facts-cognitive-dissonance-and-permanence-false-belief",
+        "id": "https://cms.hoover.org/research/thinking-911-through",
         "source": "Hoover Institution",
-        "title": "Refractory To Facts: Cognitive Dissonance And The Permanence Of False Belief",
+        "title": "Thinking 9/11 Through",
         "publicationDate": "2026-09-14",
         "category": "Other",
-        "summary": "In October 2020, from inside the White House, I stopped attending the Coronavirus Task Force meetings. I wrote to the vice president’s office in frustration that I had no time to spend teaching people who were “refractory to facts.” I did not yet understand that this was not confined to that room or that time.",
-        "url": "https://cms.hoover.org/research/refractory-facts-cognitive-dissonance-and-permanence-false-belief"
-    },
-    {
-        "id": "https://cms.hoover.org/news/hoover-convenes-congressional-staff-palo-alto-policy-briefings",
-        "source": "Hoover Institution",
-        "title": "Hoover Convenes Congressional Staff In Palo Alto For Policy Briefings",
-        "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "The Hoover Institution’s Grady Family Congressional Fellowship Program convened congressional staff at Stanford University for two days of policy briefings with Hoover fellows earlier this month.",
-        "url": "https://cms.hoover.org/news/hoover-convenes-congressional-staff-palo-alto-policy-briefings"
+        "summary": "Hoover Institution fellow Ayaan Hirsi Ali said, \"A serious 25-year stocktaking has to recover the fact that not every culture in the world is compatible with ours. Particularly when one is looking at absorbing millions of people into democratic societies shaped by Western values that developed over thousands of years and remain culturally unique, one is looking at a civilizational task that would appear to require...",
+        "url": "https://cms.hoover.org/research/thinking-911-through"
     },
     {
         "id": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security",
@@ -196,6 +205,33 @@
         "category": "Foreign Policy",
         "summary": "Ian Bond deputy director of the CER spoke alongside the Lithuanian Vice Foreign Minister Lina Rukštelienė in a discussion with Yaroslav Trofimov on Ukraine's future as a pillar of European security (from 4:35:40 mins). Ian Bond 10 September 2026",
         "url": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+        "source": "NPR Politics",
+        "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
+        "publicationDate": "2026-09-14",
+        "category": "Other",
+        "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election.",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
+        "source": "NPR Politics",
+        "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
+        "publicationDate": "2026-09-14",
+        "category": "Healthcare",
+        "summary": "McConnell spent weeks in recovery before explaining he was \"briefly unconscious\" following the fall that sent him to the hospital and a weeks-long recovery process.",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
+        "source": "NPR Politics",
+        "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+        "publicationDate": "2026-09-14",
+        "category": "Other",
+        "summary": "Federal agents may have broken state laws after the Department of Homeland Security began surging personnel for what it called the Unlawful Voter Initiative, a federal whistleblower alleges.",
+        "url": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud"
     },
     {
         "id": "https://www.npr.org/2026/09/14/nx-s1-5968629/whats-next-for-senator-john-fetterman",
@@ -216,166 +252,166 @@
         "url": "https://www.npr.org/2026/09/14/nx-s1-5954286/inside-the-unprecedented-threats-election-officials-are-facing-ahead-of-mid-terms"
     },
     {
-        "id": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
-        "source": "NPR Politics",
-        "title": "Kennedy Center says it's on the brink of bankruptcy, might close as early as Tuesday",
+        "id": "https://www.pbs.org/newshour/nation/mahmoud-khalil-lawsuit-says-columbia-university-failed-to-protect-pro-palestinian-activists",
+        "source": "PBS NewsHour Politics",
+        "title": "Mahmoud Khalil lawsuit says Columbia University failed to protect pro-Palestinian activists",
         "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can \"rescue\" it.",
-        "url": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state"
+        "category": "columbia university",
+        "summary": "The university's \"deliberate indifference\" led to the doxing of multiple group members and Khalil's detention by immigration agents, according to the civil rights lawsuit filed in federal court in New York City.",
+        "url": "https://www.pbs.org/newshour/nation/mahmoud-khalil-lawsuit-says-columbia-university-failed-to-protect-pro-palestinian-activists"
     },
     {
-        "id": "https://www.npr.org/2026/09/14/nx-s1-5968058/texas-rep-greg-casar-discusses-bill-to-temporarily-pause-advanced-ai-development",
-        "source": "NPR Politics",
-        "title": "Texas Rep. Greg Casar discusses bill to temporarily pause advanced AI development",
+        "id": "https://www.pbs.org/newshour/show/trump-pushes-back-as-ai-leaders-fuel-calls-to-rein-in-rapidly-advancing-technology",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump pushes back as AI leaders fuel calls to rein in rapidly advancing technology",
         "publicationDate": "2026-09-14",
         "category": "Defense",
-        "summary": "NPR's Leila Fadel speaks with U.S. Rep. Greg Casar, D-Texas, about his efforts to regulate artificial intelligence.",
-        "url": "https://www.npr.org/2026/09/14/nx-s1-5968058/texas-rep-greg-casar-discusses-bill-to-temporarily-pause-advanced-ai-development"
+        "summary": "President Trump rejected calls for greater oversight of artificial intelligence despite the dire warnings of some in the industry. The president's pushback comes after Anthropic CEO Dario Amodei published an essay arguing for a slowdown across leading AI companies, warning rapid advances in the technology now pose an existential threat to society. Amna Nawaz discussed more with Stephen Witt.",
+        "url": "https://www.pbs.org/newshour/show/trump-pushes-back-as-ai-leaders-fuel-calls-to-rein-in-rapidly-advancing-technology"
     },
     {
-        "id": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
-        "source": "NPR Politics",
-        "title": "The powerful millionaires hiding in plain sight",
+        "id": "https://www.pbs.org/newshour/show/news-wrap-kennedy-center-warns-of-fiscal-collapse-without-trumps-name-on-building",
+        "source": "PBS NewsHour Politics",
+        "title": "News Wrap: Kennedy Center warns of 'fiscal collapse' without Trump's name on building",
+        "publicationDate": "2026-09-14",
+        "category": "Foreign Policy",
+        "summary": "In our news wrap Monday, officials at the Kennedy Center are warning of \"certain fiscal collapse\" unless President Trump's name is added to the exterior of the building, several state election officials tell the News Hour they are bracing for uncertainty over mail-in ballots ahead of the midterms and NATO Secretary-General Mark Rutte condemned Russia's attacks near Ukraine's border with Poland.",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-kennedy-center-warns-of-fiscal-collapse-without-trumps-name-on-building"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-mcconnell-returns-to-the-senate-for-the-first-time-since-his-june-hospitalization",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: McConnell returns to the Senate for the first time since his June hospitalization",
+        "publicationDate": "2026-09-14",
+        "category": "Healthcare",
+        "summary": "Republican Sen. Mitch McConnell of Kentucky has returned to the Senate after a long absence. The 94-year-old senator has not been to the U.S. Capitol since June 14, when he was hospitalized for a fall in his home.",
+        "url": "https://www.pbs.org/newshour/politics/watch-mcconnell-returns-to-the-senate-for-the-first-time-since-his-june-hospitalization"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/houthi-gains-in-yemen-attack-on-saudi-pipeline-compound-pressure-on-oil-markets",
+        "source": "PBS NewsHour Politics",
+        "title": "Houthi gains in Yemen, attack on Saudi pipeline compound pressure on oil markets",
+        "publicationDate": "2026-09-14",
+        "category": "Houthi",
+        "summary": "Yemen's Houthi rebels seized more islands in the strategically crucial Bab al-Mandab Strait and now control the west coast of the country. This comes as a crucial pipeline in Saudi Arabia will be out of commission for weeks. Ali Rogin discussed the latest with Michael Ratney, the U.S. ambassador to Saudi Arabia during the Biden administration.",
+        "url": "https://www.pbs.org/newshour/show/houthi-gains-in-yemen-attack-on-saudi-pipeline-compound-pressure-on-oil-markets"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6089304-paxton-receives-54-million-slf/",
+        "source": "The Hill",
+        "title": "Paxton gets $54M boost from Senate Leadership Fund's Texas PAC",
+        "publicationDate": "2026-09-14",
+        "category": "State Watch",
+        "summary": "Texas Attorney General Ken Paxton’s (R) Senate campaign received nearly $54 million from the GOP-aligned Senate Leadership Fund’s (SLF) Texas affiliate, according to a filing. The Austin-based Texas PAC donated more than $53.8 million to Paxton’s campaign, based on filings to the Federal Election Commission (FEC). The committee is affiliated with the SLF, which is...",
+        "url": "https://thehill.com/homenews/state-watch/6089304-paxton-receives-54-million-slf/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6089348-supreme-court-rejects-trump-mail-ballots/",
+        "source": "The Hill",
+        "title": "Supreme Court won’t restore Trump’s mail-in voting plan for midterms",
+        "publicationDate": "2026-09-14",
+        "category": "Court Battles",
+        "summary": "The Supreme Court refused to clear the way for President Trump’s mail-in voting plan for the midterms on Monday over the dissents of two conservative justices, keeping intact a judge’s block that declared the plan unlawful. It’s the third time the Trump administration brought the plan to the high court’s emergency docket after groups have blocked the effort. Previously, the...",
+        "url": "https://thehill.com/regulation/court-battles/6089348-supreme-court-rejects-trump-mail-ballots/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6089324-iranian-strikes-us-diplomatic-damage/",
+        "source": "The Hill",
+        "title": "Iran strikes on US diplomatic facilities in 4 Gulf countries cost $184M: IG report",
+        "publicationDate": "2026-09-14",
+        "category": "Defense",
+        "summary": "U.S. diplomatic facilities in four Gulf countries suffered around $184 million in estimated damages from Iranian military strikes, according to a new report from the Pentagon’s watchdog made public on Monday. The posts are located in Iraq, Kuwait, Saudi Arabia and the United Arab Emirates (UAE), the Pentagon watchdog said in the 44-page report, the first...",
+        "url": "https://thehill.com/policy/defense/6089324-iranian-strikes-us-diplomatic-damage/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/defense-national-security/6089323-iran-strikes-on-us-diplomatic-facilities-raise-war-cost/",
+        "source": "The Hill",
+        "title": "Iran strikes on US diplomatic facilities raise war cost",
+        "publicationDate": "2026-09-14",
+        "category": "Defense",
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Iran strikes on US diplomatic facilities raise war cost U.S. diplomatic facilities in four Gulf countries suffered around $184 million in estimated damages from Iranian military strikes, a new Pentagon watchdog report found. © Farid Abdulwahed,...",
+        "url": "https://thehill.com/newsletters/defense-national-security/6089323-iran-strikes-on-us-diplomatic-facilities-raise-war-cost/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/business-economy/6089318-crypto-regulation-bill-faces-senate-vote/",
+        "source": "The Hill",
+        "title": "Crypto regulation bill faces Senate vote",
+        "publicationDate": "2026-09-14",
+        "category": "Economy",
+        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Clarity Act faces Senate test A cryptocurrency regulation bill is poised to face a key test on the Senate floor this week, as lawmakers weigh whether to advance the measure after nearly a year of negotiations....",
+        "url": "https://thehill.com/newsletters/business-economy/6089318-crypto-regulation-bill-faces-senate-vote/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html",
+        "source": "New York Times Politics",
+        "title": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
+        "publicationDate": "2026-09-14",
+        "category": "Foreign Policy",
+        "summary": "Judge F. Dennis Saylor IV wrote that the administration’s reasons for a rule limiting the length of stay for academics and journalists were “exceptionally weak.”",
+        "url": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-campaign-midterms.html",
+        "source": "New York Times Politics",
+        "title": "Why is JD Vance Campaigning in Kansas, a Red State?",
+        "publicationDate": "2026-09-14",
+        "category": "Politics and Government",
+        "summary": "Why is JD Vance campaigning in a red state?",
+        "url": "https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-campaign-midterms.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html",
+        "source": "New York Times Politics",
+        "title": "Gavin Newsom Says He Won’t Run in 2028 if Kamala Harris Does",
+        "publicationDate": "2026-09-14",
+        "category": "Newsom",
+        "summary": "The comments made to CNN, if taken at face value, seemed to fly in the face of the California governor’s presidential ambitions.",
+        "url": "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/14/us/politics/mcconnell-senate-absence.html",
+        "source": "New York Times Politics",
+        "title": "Mitch McConnell Returns to Senate After Three Month Absence",
+        "publicationDate": "2026-09-14",
+        "category": "Healthcare",
+        "summary": "Senator Mitch McConnell, the 84-year-old Kentucky Republican and former leader, had been absent for more than 13 weeks after a health incident, fueling questions about his ability to continue serving.",
+        "url": "https://www.nytimes.com/2026/09/14/us/politics/mcconnell-senate-absence.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/14/supreme-court-blocks-sweeping-mail-ballot-restrictions-midterm-elections/",
+        "source": "Washington Post Politics",
+        "title": "Supreme Court blocks sweeping mail ballot restrictions for midterm elections",
         "publicationDate": "2026-09-14",
         "category": "Other",
-        "summary": "They own car dealerships, law firms, dental practices, and restaurant chains. Collectively, these overlooked business owners hold far more wealth than the Forbes 400 — and wield considerable political power.",
-        "url": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight"
+        "summary": "The Trump administration had said the plan was necessary to protect against voter fraud, while states and voting rights groups said it could inject chaos in contests that will determine control of Congress.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/14/supreme-court-blocks-sweeping-mail-ballot-restrictions-midterm-elections/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-patel-testifies-on-fbi-oversight-before-senate-panel-amid-troubled-tenure",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Patel testifies on FBI oversight before Senate panel amid troubled tenure",
+        "id": "https://www.washingtonpost.com/politics/2026/09/14/senate-returns-monday-its-not-clear-if-mcconnell-will-be-back/",
+        "source": "Washington Post Politics",
+        "title": "McConnell returns to Senate, casting first vote since suffering a fall in June",
         "publicationDate": "2026-09-14",
-        "category": "fbi",
-        "summary": "FBI Director Kash Patel is set to appear before the Senate Judiciary Committee on Tuesday for an oversight hearing on the nation's lead law enforcement agency.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-patel-testifies-on-fbi-oversight-before-senate-panel-amid-troubled-tenure"
+        "category": "Healthcare",
+        "summary": "The Kentucky Republican voted in the Senate on Monday evening for the first time since he was hospitalized in June.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/14/senate-returns-monday-its-not-clear-if-mcconnell-will-be-back/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/live-results-delaware-midterm-primaries",
-        "source": "PBS NewsHour Politics",
-        "title": "Live Results: Delaware midterm primaries",
+        "id": "https://www.washingtonpost.com/politics/2026/09/14/gavin-newsom-says-he-wont-run-president-if-kamala-harris-does/",
+        "source": "Washington Post Politics",
+        "title": "Gavin Newsom says he won’t run for president if Kamala Harris does",
         "publicationDate": "2026-09-14",
-        "category": "Chris Coons",
-        "summary": "Delaware's Democratic U.S. senator, U.S. representative and state attorney general will go before voters in a state primary Tuesday as they seek reelection.",
-        "url": "https://www.pbs.org/newshour/politics/live-results-delaware-midterm-primaries"
+        "category": "Other",
+        "summary": "The pair share deep roots in California politics.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/14/gavin-newsom-says-he-wont-run-president-if-kamala-harris-does/"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/some-democrats-recalibrating-approach-to-transgender-issues",
-        "source": "PBS NewsHour Politics",
-        "title": "Some Democrats recalibrating approach to transgender issues",
+        "id": "https://www.washingtonpost.com/national-security/2026/09/14/grand-conspiracy-probe-trump-foes-goes-after-prosecutors-departure/",
+        "source": "Washington Post Politics",
+        "title": "‘Grand conspiracy’ probe of Trump foes goes on after prosecutor’s departure",
         "publicationDate": "2026-09-14",
-        "category": "Democrats",
-        "summary": "An increasing number of Democratic leaders have begun to push back against their party's unflinching support for the transgender community this midterm season.",
-        "url": "https://www.pbs.org/newshour/politics/some-democrats-recalibrating-approach-to-transgender-issues"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/nation/republicans-say-trump-agreed-to-new-ethics-rules-to-get-crypto-bill-across-the-line",
-        "source": "PBS NewsHour Politics",
-        "title": "Republicans say Trump agreed to new ethics rules to get crypto bill across the line",
-        "publicationDate": "2026-09-14",
-        "category": "crypto",
-        "summary": "Republicans said Trump had agreed to a requirement to either divest or place in a blind trust any \"significant\" financial interest in an entity that issues cryptocurrencies.",
-        "url": "https://www.pbs.org/newshour/nation/republicans-say-trump-agreed-to-new-ethics-rules-to-get-crypto-bill-across-the-line"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/kennedy-center-board-to-propose-new-options-for-honoring-trump-according-to-court-filing",
-        "source": "PBS NewsHour Politics",
-        "title": "Kennedy Center board to propose new options for honoring Trump, according to court filing",
-        "publicationDate": "2026-09-14",
-        "category": "Donald Trump news",
-        "summary": "The document proposes 10 options for adding the president's name to the building's exterior.",
-        "url": "https://www.pbs.org/newshour/politics/kennedy-center-board-to-propose-new-options-for-honoring-trump-according-to-court-filing"
-    },
-    {
-        "id": "https://thehill.com/newsletters/technology/6089059-trump-doubles-down-on-ai-approach/",
-        "source": "The Hill",
-        "title": "Trump doubles down on AI approach",
-        "publicationDate": "2026-09-14",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story Trump defends AI approach amid mounting scrutiny President Trump defended his approach to AI on Monday, saying the only protections needed are a “STRONG AND SMART (High IQ!) PRESIDENT” amid calls for AI guardrails. © AP Photo/Alex Brandon “The only control or ‘guardrails’ that AI needs is a...",
-        "url": "https://thehill.com/newsletters/technology/6089059-trump-doubles-down-on-ai-approach/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6088997-costco-nearly-doubles-cost-of-motor-oil-limits-purchases/",
-        "source": "The Hill",
-        "title": "Costco nearly doubles cost of motor oil, limits purchases",
-        "publicationDate": "2026-09-14",
-        "category": "Energy & Environment",
-        "summary": "A price hike and purchase limits may take you back to the days of empty shelves where toilet paper once stood, but this likely won't impact you as much as you may immediately fear.",
-        "url": "https://thehill.com/policy/energy-environment/6088997-costco-nearly-doubles-cost-of-motor-oil-limits-purchases/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6088993-trump-nominates-wesley-hunt-ambassador/",
-        "source": "The Hill",
-        "title": "Trump nominates Wesley Hunt to Saudi Arabia ambassador post",
-        "publicationDate": "2026-09-14",
-        "category": "Administration",
-        "summary": "President Trump on Monday nominated Rep. Wesley Hunt (R-Texas) to serve as U.S. ambassador to Saudi Arabia. Trump sent the nominations of Hunt and a slew of other individuals to the Senate, which has to confirm his appointments. The U.S. has not had a full-time ambassador to Saudi Arabia since Michael Ratney left office at...",
-        "url": "https://thehill.com/homenews/administration/6088993-trump-nominates-wesley-hunt-ambassador/"
-    },
-    {
-        "id": "https://thehill.com/homenews/house/6089031-jeffries-ai-congress-washington/",
-        "source": "The Hill",
-        "title": "Jeffries calls on Congress to stay in Washington to address AI concerns",
-        "publicationDate": "2026-09-14",
-        "category": "Technology",
-        "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) is calling on House GOP leaders to remain in Washington to allow Congress to consider new limits on AI companies following dire warnings from industry insiders about the threat the technology poses to humanity. Speaking to reporters Monday in the Capitol, Jeffries said the calls for a slowdown from...",
-        "url": "https://thehill.com/homenews/house/6089031-jeffries-ai-congress-washington/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6088870-trump-epa-climate-change-coal-gas-power-plants/",
-        "source": "The Hill",
-        "title": "Trump guts climate rules for coal and gas power plants",
-        "publicationDate": "2026-09-14",
-        "category": "Energy & Environment",
-        "summary": "The Trump administration on Monday gutted regulations that limited planet-warming emissions from coal- and gas-fired power plants. The move allows a sector that makes up a large share of the U.S.’s climate change contributions to release greenhouse gases unchecked by the government. It’s expected to be a win for the fossil fuel industry, while allowing...",
-        "url": "https://thehill.com/policy/energy-environment/6088870-trump-epa-climate-change-coal-gas-power-plants/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/14/us/politics/bernie-sanders-steve-bannon-ai-regulation-midterm-candidates.html",
-        "source": "New York Times Politics",
-        "title": "From Bernie Sanders to Steve Bannon, Political Figures Sound Alarms on A.I.",
-        "publicationDate": "2026-09-14",
-        "category": "Technology",
-        "summary": "The two men will appear separately at an event calling for a “pro-human” approach to A.I. as warnings mount from the industry and the technology’s danger becomes a midterm issue.",
-        "url": "https://www.nytimes.com/2026/09/14/us/politics/bernie-sanders-steve-bannon-ai-regulation-midterm-candidates.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html",
-        "source": "New York Times Politics",
-        "title": "Russian Businessman With Putin Ties Paid for Donald Trump Jr.’s Wedding Party",
-        "publicationDate": "2026-09-14",
-        "category": "Foreign Policy",
-        "summary": "The payments, totaling hundreds of thousands of dollars, represented an extraordinary flouting of ethical norms for an American president’s family member.",
-        "url": "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html",
-        "source": "New York Times Politics",
-        "title": "What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.",
-        "publicationDate": "2026-09-14",
-        "category": "Foreign Policy",
-        "summary": "President Trump recently blamed Ukrainian attacks on Russian refineries for causing a spike in diesel prices, but analysts say the Iran war is probably a bigger factor.",
-        "url": "https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html"
-    },
-    {
-        "id": "https://www.nytimes.com/video/us/politics/100000011133700/why-is-dhs-getting-involved-in-elections.html",
-        "source": "New York Times Politics",
-        "title": "Why Is D.H.S. Getting Involved in Elections?",
-        "publicationDate": "2026-09-14",
-        "category": "Midterm Elections (2026)",
-        "summary": "The Department of Homeland Security is in the midst of a weeks-long hunt for noncitizens among the nation’s registered voters despite the absence of evidence of widespread fraud. Reporter Hamed Aleaziz breaks down how a D.H.S. agency is using open-source state voter registration websites in their search for voter fraud.",
-        "url": "https://www.nytimes.com/video/us/politics/100000011133700/why-is-dhs-getting-involved-in-elections.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/14/us/politics/homeland-security-voter-fraud-investigation.html",
-        "source": "New York Times Politics",
-        "title": "Whistle-Blower: Federal Agents May Have Broken State Laws in Search For Voter Fraud",
-        "publicationDate": "2026-09-14",
-        "category": "Voter Fraud (Election Fraud)",
-        "summary": "Agents expressed concern about being directed by top Homeland Security leaders to use private information to look up voter records in state databases.",
-        "url": "https://www.nytimes.com/2026/09/14/us/politics/homeland-security-voter-fraud-investigation.html"
+        "category": "Other",
+        "summary": "Former CIA director John O. Brennan received a subpoena seeking his testimony before a grand jury in October, his lawyer said.",
+        "url": "https://www.washingtonpost.com/national-security/2026/09/14/grand-conspiracy-probe-trump-foes-goes-after-prosecutors-departure/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/14/onstage-call-with-nvidia-ceo-trump-deems-ai-fears-hoax/",
@@ -385,42 +421,6 @@
         "category": "Other",
         "summary": "The president has rejected calls by industry leaders for a coordinated slowdown in technological development.",
         "url": "https://www.washingtonpost.com/politics/2026/09/14/onstage-call-with-nvidia-ceo-trump-deems-ai-fears-hoax/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/14/rep-jasmine-crockett-honors-chris-brown-concert-drawing-backlash/",
-        "source": "Washington Post Politics",
-        "title": "Rep. Jasmine Crockett honors Chris Brown at concert, drawing backlash",
-        "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "Crockett gave singers Chris Brown and Usher a congressional recognition at a Saturday concert in Dallas.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/14/rep-jasmine-crockett-honors-chris-brown-concert-drawing-backlash/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/14/russian-businessman-tied-putin-paid-much-donald-trump-jr-wedding/",
-        "source": "Washington Post Politics",
-        "title": "Trump Jr. wedding celebrations were sponsored by powerful Russian businessman",
-        "publicationDate": "2026-09-14",
-        "category": "Foreign Policy",
-        "summary": "Umar Kremlev, who heads the International Boxing Association and does business with the state, hosted two nights of parties, according to bride Bettina Trump.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/14/russian-businessman-tied-putin-paid-much-donald-trump-jr-wedding/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/business/2026/09/14/trump-agrees-stricter-ethics-rules-democrats-demanded-cryptocurrency-bill/",
-        "source": "Washington Post Politics",
-        "title": "Trump agrees to stricter ethics rules Democrats demanded in crypto bill",
-        "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "Provision would allow state attorneys general to sue if federal officials violate ethics rules in the Clarity Act barring them from creating assets while in office.",
-        "url": "https://www.washingtonpost.com/business/2026/09/14/trump-agrees-stricter-ethics-rules-democrats-demanded-cryptocurrency-bill/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/14/what-mike-johnson-trump-had-say-about-5000-payments-this-weekend/",
-        "source": "Washington Post Politics",
-        "title": "What Mike Johnson and Trump had to say about $5,000 payments this weekend",
-        "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "The president doubled down on his idea to pay Americans if the GOP keeps control of Congress in November. But the House speaker was more circumspect.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/14/what-mike-johnson-trump-had-say-about-5000-payments-this-weekend/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
@@ -468,6 +468,42 @@
         "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/bff0291d-d93f-4815-9abe-5b674e144a69?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Scotland and Wales renew push for independence — using Burnham’s own rhetoric",
+        "publicationDate": "2026-09-14",
+        "category": "Other",
+        "summary": "Leaders of three devolved nations take part in ‘historic’ meeting in Cardiff",
+        "url": "https://www.ft.com/content/bff0291d-d93f-4815-9abe-5b674e144a69?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5eb7f823-3b3f-4b22-9f25-44162a014d72?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump to scrap Biden-era climate protections on power plant pollution",
+        "publicationDate": "2026-09-14",
+        "category": "Other",
+        "summary": "Move continues dismantling of environmental protections during the president’s second term as he boosts fossil-fuel industry",
+        "url": "https://www.ft.com/content/5eb7f823-3b3f-4b22-9f25-44162a014d72?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b2d98dad-29e2-4e4a-8602-f4e7d3ab90bc?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UK chancellor offers pact to chief executives on growth",
+        "publicationDate": "2026-09-14",
+        "category": "Other",
+        "summary": "John Healey pledges to provide fiscal and economic discipline in return for investment and jobs",
+        "url": "https://www.ft.com/content/b2d98dad-29e2-4e4a-8602-f4e7d3ab90bc?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Carney urges EU to cement trade deal as Ottawa seeks pivot from US",
+        "publicationDate": "2026-09-14",
+        "category": "Other",
+        "summary": "Canada’s prime minister tells FT deeper ties with Europe will make both sides ‘more resilient’ amid Trump turmoil",
+        "url": "https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Oil hits $109 after Saudi Arabia closes vital export pipeline",
@@ -477,49 +513,13 @@
         "url": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US tech stocks fall after big AI groups call for slowdown",
-        "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs",
-        "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Ten-year Treasury yield hits 5% for first time since 2023",
-        "publicationDate": "2026-09-14",
-        "category": "Economy",
-        "summary": "World’s most widely watched financial marker moves towards levels not seen in decades as inflation shock from Iran war lingers",
-        "url": "https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a8789270-aeee-4bfd-89a3-207c0a46730d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Tories look at ways to cut UK inheritance tax",
-        "publicationDate": "2026-09-14",
-        "category": "Economy",
-        "summary": "Conservative leader Kemi Badenoch says the levy mainly caught ‘home-owning middle-class families’ instead of the super wealthy",
-        "url": "https://www.ft.com/content/a8789270-aeee-4bfd-89a3-207c0a46730d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/757da464-7102-4e69-9598-ba65b5a4c3e9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Nigel Farage refuses to say if Reform UK’s £72mn gifts would comply with new cap",
-        "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "Under Labour’s proposed rules, overseas donors would be prevented from giving more than £100,000 a year, retrospective to March 25",
-        "url": "https://www.ft.com/content/757da464-7102-4e69-9598-ba65b5a4c3e9?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-34",
-        "source": "Hoover Institution",
-        "title": "2026 Issue 34",
-        "publicationDate": "2026-09-13",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-34"
+        "id": "IN10835",
+        "source": "Congressional Research Service",
+        "title": "What Happens If the National Flood Insurance Program (NFIP) Lapses?",
+        "publicationDate": "2026-09-11",
+        "category": "Healthcare",
+        "summary": "This Insight provides a short overview of what could happen if the National Flood Insurance Program (NFIP) were not to be reauthorized by December 11, 2026, and allowed to lapse. Expiration of Certain NFIP Authorities The NFIP is the primary source of flood insurance coverage for residential properties in the United States. The NFIP has nearly 4.5 million flood insurance policies providing almost $1.3 trillion in...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN10835/IN10835.62.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5284-1.html",
@@ -585,6 +585,15 @@
         "url": "https://ecfr.eu/podcasts/episode/the-geopolitics-of-global-hunger/"
     },
     {
+        "id": "IF12988",
+        "source": "Congressional Research Service",
+        "title": "Housing Supply",
+        "publicationDate": "2026-09-10",
+        "category": "Defense",
+        "summary": "Housing supply (along with housing demand) affects the affordability and availability of homes to own and rent. Many researchers suggest that the United States currently has an undersupply of homes, though estimates and methodologies differ. While local housing markets vary, the selected indicators presented below provide an overview of supply conditions nationally. Although housing supply is largely determined by...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12988/IF12988.6.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4841-1.html",
         "source": "RAND Corporation",
         "title": "Implementation and Outcome Evaluation of LA DOOR, a Proposition 47–Funded Program in Los Angeles",
@@ -621,6 +630,15 @@
         "url": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe"
     },
     {
+        "id": "R49345",
+        "source": "Congressional Research Service",
+        "title": "Implementation of the Whole Milk for Healthy Kids Act of 2025 (P.L. 119-69): In Brief",
+        "publicationDate": "2026-09-09",
+        "category": "Healthcare",
+        "summary": "The Whole Milk for Healthy Kids Act of 2025 (P.L. 119-69) was enacted on January 14, 2026. The act allows whole and reduced-fat (2%) milk in federally funded school lunches and exempts milk from federal saturated fat limits. Such milks were previously prohibited from the National School Lunch Program (NSLP) since school year (SY) 2011-2012, following a change made by the Healthy, Hunger-Free Kids Act of 2010 (P.L....",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49345/R49345.2.pdf"
+    },
+    {
         "id": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026",
         "source": "Centre for European Reform",
         "title": "CER/Delegation of the EU to the UK party conference fringe events 2026",
@@ -655,23 +673,5 @@
         "category": "Economy",
         "summary": "Mailings survery August 26 (249 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Kate Mullineux Too much A weekly newsletter with links to all content kate@cer.eu 2026-08-06 Godfried De Vidts About right gadv@gadv.be all good,...",
         "url": "https://www.cer.eu/mailings-webform-report"
-    },
-    {
-        "id": "R49105",
-        "source": "Congressional Research Service",
-        "title": "Lapses in DHS Appropriations: History and Plans",
-        "publicationDate": "2026-08-07",
-        "category": "Economy",
-        "summary": "Every year, the federal government’s fiscal year ends at midnight on September 30. As this deadline approaches, if any of the regular, full-year appropriations measures are not expected to be enacted by the end of the fiscal year executive branch agencies prepare for either the passage of a continuing resolution, or a lapse in appropriations, which results in a partial or complete government shutdown (including the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49105/R49105.6.pdf"
-    },
-    {
-        "id": "IN10835",
-        "source": "Congressional Research Service",
-        "title": "What Happens If the National Flood Insurance Program (NFIP) Lapses?",
-        "publicationDate": "2025-09-25",
-        "category": "Healthcare",
-        "summary": "This Insight provides a short overview of what could happen if the National Flood Insurance Program (NFIP) were not to be reauthorized by December 11, 2026, and allowed to lapse. Expiration of Certain NFIP Authorities The NFIP is the primary source of flood insurance coverage for residential properties in the United States. The NFIP has nearly 4.5 million flood insurance policies providing almost $1.3 trillion in...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN10835/IN10835.61.pdf"
     }
 ]
