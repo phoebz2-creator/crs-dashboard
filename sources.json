@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA5130-1.html",
+        "source": "RAND Corporation",
+        "title": "The Insurability of Artificial Intelligence",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "A mismatch exists between rapid enterprise adoption of artificial intelligence (AI) and the market for insuring it. This report examines AI incidents, lawsuits, laws, and insurance filings to assess coverage responses and accumulation risks.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5130-1.html"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3894-1.html",
         "source": "RAND Corporation",
         "title": "Research, development, and innovation talent in Qatar",
@@ -27,6 +36,33 @@
         "url": "https://cms.hoover.org/research/burnham-coup-was-suez-moment-britain"
     },
     {
+        "id": "https://ecfr.eu/publication/an-outsider-within-the-paradox-of-the-europe-turkey-relationship/",
+        "source": "European Council on Foreign Relations",
+        "title": "An outsider within: The paradox of the Europe-Turkey relationship",
+        "publicationDate": "2026-09-16",
+        "category": "European Power",
+        "summary": "Turkey is neither drifting away from the West nor is it coming home. It has become an embedded outsider: a middle power that has learned to build strategic autonomy from inside the Western system rather than by leaving it.",
+        "url": "https://ecfr.eu/publication/an-outsider-within-the-paradox-of-the-europe-turkey-relationship/"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
+        "source": "NPR Politics",
+        "title": "How are rising prices affecting you? NPR wants to know",
+        "publicationDate": "2026-09-16",
+        "category": "Economy",
+        "summary": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear.",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/16/nx-s1-5969910/rep-thomas-massie-moves-to-impeach-defense-secretary-pete-hegseth-over-the-iran-war",
+        "source": "NPR Politics",
+        "title": "Rep. Thomas Massie moves to impeach Defense Secretary Pete Hegseth over the Iran war",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "Rep. Thomas Massie has moved to impeach Defense Secretary Pete Hegseth. The Kentucky Republican alleges that Hegseth has waged the Iran war illegally, among other \"high crimes and misdemeanors.\"",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5969910/rep-thomas-massie-moves-to-impeach-defense-secretary-pete-hegseth-over-the-iran-war"
+    },
+    {
         "id": "https://www.npr.org/2026/09/16/nx-s1-5970450/vanity-fair-feature-profiles-the-political-development-of-jd-vance-at-yale",
         "source": "NPR Politics",
         "title": "Vanity Fair feature profiles the political development of JD Vance at Yale",
@@ -45,49 +81,67 @@
         "url": "https://www.npr.org/2026/09/16/nx-s1-5953990/ai-political-ads-2026-midterms"
     },
     {
-        "id": "https://thehill.com/business/6090682-fed-chair-warsh-interest-rate-decision/",
-        "source": "The Hill",
-        "title": "Warsh under pressure as Fed considers rate hike",
+        "id": "https://www.pbs.org/newshour/politics/watch-live-senate-meets-after-advancing-college-sports-act",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Senate meets after advancing College Sports Act",
         "publicationDate": "2026-09-16",
-        "category": "Economy",
-        "summary": "Federal Reserve Chair Kevin Warsh finds himself in a tricky position as the central bank commences its September meeting, as rising expectations of an interest rate hike clash with President Trump’s demands for cuts. Warsh gave himself wiggle room for a rate hike in late August, saying the central bank had “work to do” if underlying inflation was not moving toward its 2 percent target. But Trump, who...",
-        "url": "https://thehill.com/business/6090682-fed-chair-warsh-interest-rate-decision/"
+        "category": "college sports",
+        "summary": "A bill that proposes to fix some of the biggest problems in college sports — spiraling spending, constant lawsuits and a transfer portal run amok — cleared a major hurdle Tuesday when the Senate voted 74-24 to halt debate and move the measure one step closer to a final up-or-down vote.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-senate-meets-after-advancing-college-sports-act"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6091418-trump-whatley-north-carolina-stump/",
-        "source": "The Hill",
-        "title": "Trump seeks to help Republican in uphill North Carolina battle",
+        "id": "https://www.pbs.org/newshour/politics/watch-live-dr-nicole-saphier-testifies-in-confirmation-hearing-for-u-s-surgeon-general",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Dr. Nicole Saphier testifies in confirmation hearing for U.S. surgeon general",
         "publicationDate": "2026-09-16",
-        "category": "Campaign",
-        "summary": "Republicans are hoping President Trump can give North Carolina Senate nominee Michael Whatley a much-needed boost as Democrats appear increasingly optimistic about flipping the state in November. Trump is slated to travel to the state, the only battleground he has won three times, to stump with Whatley on Wednesday. The visit comes as recent polling...",
-        "url": "https://thehill.com/homenews/campaign/6091418-trump-whatley-north-carolina-stump/"
+        "category": "confirmation hearings",
+        "summary": "Saphier, President Donald Trump's third nominee to serve as surgeon general, will face lawmakers at her confirmation hearing Wednesday in the latest attempt to fill the post known as the nation's doctor.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-dr-nicole-saphier-testifies-in-confirmation-hearing-for-u-s-surgeon-general"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6090827-texas-universities-courses-abbott/",
+        "id": "https://thehill.com/opinion/international/6090561-japan-india-veer-guardian-jets/",
         "source": "The Hill",
-        "title": "Texas universities purge core courses as political pressure takes its toll",
-        "publicationDate": "2026-09-16",
-        "category": "State Watch",
-        "summary": "Public universities in Texas have dropped hundreds of courses from their core curricula — or altogether — amid rising political pressure over the last two years. Texas A&M University has removed 350 core listings across its system, many dealing with gender, race and other popular GOP targets. The University of Houston has nixed 133 classes...",
-        "url": "https://thehill.com/homenews/state-watch/6090827-texas-universities-courses-abbott/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6090590-key-surprises-2026-primary-elections/",
-        "source": "The Hill",
-        "title": "7 biggest surprises from the 2026 primary cycle",
-        "publicationDate": "2026-09-16",
-        "category": "Campaign",
-        "summary": "The 2026 primary cycle has served up enough surprises to fill out a bingo card. Tuesday's primaries in Delaware marked the last contests of the season, as both parties gear up for the battle for control of Congress Over the last six months, the left flank of the Democratic Party cemented its political power, ousting...",
-        "url": "https://thehill.com/homenews/campaign/6090590-key-surprises-2026-primary-elections/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/6091536-senate-plans-spending-cuts/",
-        "source": "The Hill",
-        "title": "Trump’s allies eye big spending cuts as part of postelection agenda",
+        "title": "Japan joins India in military exercises to counter China",
         "publicationDate": "2026-09-16",
         "category": "Defense",
-        "summary": "Senate conservatives allied with President Trump are laying the groundwork for substantial cuts to federal spending in the postelection, lame-duck Congress to offset tens of billions of dollars in new defense spending, including funding for the war in Iran, if Democrats pick up seats on Election Day. Senate Majority Leader John Thune (R-S.D.) announced Tuesday...",
-        "url": "https://thehill.com/homenews/state-watch/6091536-senate-plans-spending-cuts/"
+        "summary": "The ongoing exercise showcases Japan’s growing military capabilities.",
+        "url": "https://thehill.com/opinion/international/6090561-japan-india-veer-guardian-jets/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6092873-edelson-slams-ai-leaders/",
+        "source": "The Hill",
+        "title": "'You can't trust anything' from Anthropic, OpenAI leaders, lawyer says",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "Attorney Jay Edelson slammed the heads of the leading artificial intelligence companies Tuesday, declaring “you can’t trust anything” they say. Appearing on News Nation with Leland Vittert, Edelson – who is currently leading lawsuits against OpenAI, Anthropic and other major technology companies – was asked if he had ever seen leaders within an industry abdicate...",
+        "url": "https://thehill.com/policy/technology/6092873-edelson-slams-ai-leaders/"
+    },
+    {
+        "id": "https://thehill.com/business/6092725-amazon-increases-minimum-starting-pay-adds-new-discount-for-employees/",
+        "source": "The Hill",
+        "title": "Amazon increases minimum starting pay, adds new discount for employees",
+        "publicationDate": "2026-09-16",
+        "category": "Business",
+        "summary": "The move bumps the company's average hourly wage to almost $24 an hour.",
+        "url": "https://thehill.com/business/6092725-amazon-increases-minimum-starting-pay-adds-new-discount-for-employees/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6092827-gop-thom-tillis-donald-trump-ai-anxieties/",
+        "source": "The Hill",
+        "title": "Senate Republican on Trump claim AI threat is 'hoax': 'Come on'",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "Sen. Thom Tillis (R-N.C.) on Tuesday criticized President Trump’s dismissal of rising concerns about the dangers of artificial intelligence technology. “Come on, it’s not a hoax. It’s a real thing,” Tillis, who is not running for reelection, told reporters at the Capitol. “This is something that I’ve spent a lot of my professional career in,...",
+        "url": "https://thehill.com/homenews/senate/6092827-gop-thom-tillis-donald-trump-ai-anxieties/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/6092548-ursula-von-der-leyen-mark-carney-european-union-bloc-canada/",
+        "source": "The Hill",
+        "title": "EU chief wants Canada as bloc's first associate member",
+        "publicationDate": "2026-09-16",
+        "category": "Foreign Policy",
+        "summary": "European Commission President Ursula von der Leyen said Wednesday she wants Canada to join the European Union as an associate member, as the North American nation is embroiled in a trade war with the U.S. “I would like to work with you on opening the door for Canada to being the first associate member of...",
+        "url": "https://thehill.com/policy/international/6092548-ursula-von-der-leyen-mark-carney-european-union-bloc-canada/"
     },
     {
         "id": "https://www.nytimes.com/2026/09/16/world/africa/trump-visas-south-africa.html",
@@ -130,63 +184,81 @@
         "source": "New York Times Politics",
         "title": "Trump Plans Blitz of $138 Million and Counting to Save Midterm Republicans",
         "publicationDate": "2026-09-16",
-        "category": "Trump",
+        "category": "United States Politics and Government",
         "summary": "His powerful super PAC is suddenly spending heavily on some races, after drawing fire from some Republicans that the group might not throw its weight behind the party’s candidates.",
         "url": "https://www.nytimes.com/2026/09/15/us/politics/trump-maga-inc-midterm-spending.html"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/16/trump-told-republicans-talk-about-him-tout-5000-payouts-they-arent/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/16/actblue-democratic-fundraising-machine-under-gop-investigation-is-fighting-back/",
         "source": "Washington Post Politics",
-        "title": "Trump told Republicans to talk about him. Data shows they aren’t listening.",
+        "title": "The Democratic fundraising machine under GOP investigation is fighting back",
         "publicationDate": "2026-09-16",
         "category": "Other",
-        "summary": "A Post analysis of more than a million social media posts shows that GOP candidates are largely ignoring the president’s midterm advice.",
+        "summary": "A law firm representing ActBlue reviewed its donation history and met with congressional investigators to present its evidence that the Democratic fundraising platform did not mislead Congress.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/16/actblue-democratic-fundraising-machine-under-gop-investigation-is-fighting-back/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/15/iran-war-has-caused-strategic-munitions-shortfall-inspector-general-report-says/",
+        "source": "Washington Post Politics",
+        "title": "Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "The report by the Pentagon's inspector general also detailed the extent of munitions shortfalls in the first comprehensive public accounting of the cost and military impact of the war with Iran.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/15/iran-war-has-caused-strategic-munitions-shortfall-inspector-general-report-says/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/dc-md-va/2026/09/16/virginia-democrats-band-together-flip-house-seats/",
+        "source": "Washington Post Politics",
+        "title": "Spanberger is bullish about Virginia House races even without a favorable map",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "An unusual fundraising alliance among Virginia Democrats highlights how the state can still help determine balance of power in the House this fall even though redistricting efforts were nullified by a court ruling.",
+        "url": "https://www.washingtonpost.com/dc-md-va/2026/09/16/virginia-democrats-band-together-flip-house-seats/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/16/trump-told-republicans-talk-about-him-tout-5000-payouts-they-arent/",
+        "source": "Washington Post Politics",
+        "title": "GOP candidates are largely ignoring Trump’s midterm advice, Post analysis shows",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "A review of over a million social media messages reveals that Republicans haven’t heeded the president’s call to act like he’s on the ballot and promise $5,000 payouts.",
         "url": "https://www.washingtonpost.com/politics/2026/09/16/trump-told-republicans-talk-about-him-tout-5000-payouts-they-arent/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/16/takeaways-disruptive-primary-election-season/",
         "source": "Washington Post Politics",
-        "title": "Takeaways from a disruptive primary election season",
+        "title": "Antiestablishment anger is raging, and 4 other takeaways from primary season",
         "publicationDate": "2026-09-16",
         "category": "Other",
-        "summary": "Six months of primaries offer pointed insights into how voters feel heading into the November midterms.",
+        "summary": "Six months of elections offer pointed insights into how voters feel heading into the November midterms.",
         "url": "https://www.washingtonpost.com/politics/2026/09/16/takeaways-disruptive-primary-election-season/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/16/why-general-election-is-over-most-americans/",
-        "source": "Washington Post Politics",
-        "title": "The midterms are over. Sort of.",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Most Americans don’t live in competitive House districts, so who will represent them in Congress next year was likely decided in the primary.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/16/why-general-election-is-over-most-americans/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/16/senate-control-could-hinge-this-ex-senators-ability-win-back-working-class-voters/",
-        "source": "Washington Post Politics",
-        "title": "Senate control could hinge on this ex-lawmaker’s ability to win back working-class voters",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Democrat Sherrod Brown is seeking to return to the chamber two years after losing his seat when many blue-collar voters embraced Donald Trump.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/16/senate-control-could-hinge-this-ex-senators-ability-win-back-working-class-voters/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/health/2026/09/16/trumps-third-surgeon-general-nominee-nicole-saphier-face-senate/",
-        "source": "Washington Post Politics",
-        "title": "Trump’s third surgeon general nominee, Nicole Saphier, to face Senate",
-        "publicationDate": "2026-09-16",
-        "category": "Healthcare",
-        "summary": "The health department’s No. 2 pick and the choice for the Substance Abuse and Mental Health Services Administration will also face questioning.",
-        "url": "https://www.washingtonpost.com/health/2026/09/16/trumps-third-surgeon-general-nominee-nicole-saphier-face-senate/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "EU chief opens door for Canada to become 'associate member'",
+        "title": "EU chief backs plan for Canada to become 'associate member'",
         "publicationDate": "2026-09-16",
         "category": "Other",
         "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
         "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+        "publicationDate": "2026-09-16",
+        "category": "Foreign Policy",
+        "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+        "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
@@ -198,67 +270,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+        "title": "Eight German state premiers back Merz amid speculation over future",
         "publicationDate": "2026-09-16",
         "category": "Other",
-        "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss"
+        "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
+        "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "At least 20 killed after war-damaged Gaza building collapses",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/96ea6daf-086f-49ff-bbe3-c42cf63561ec?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/57c085c9-741e-4202-8be7-812ea7bd6d19?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "FirstFT: US mega-donors overwhelmingly back Republicans, FT analysis shows",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: European Commission president endorses Canada’s ‘associate member’ pitch, and the Fed should defy Trump and raise rates, say economists",
-        "url": "https://www.ft.com/content/96ea6daf-086f-49ff-bbe3-c42cf63561ec?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1655b0eb-5f54-4ad0-afbb-cf9ffb09bc32?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham considers plan to give mayors greater oversight of water companies",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "UK prime minister looks at proposal to create nine regional bodies that would set objectives for industry",
-        "url": "https://www.ft.com/content/1655b0eb-5f54-4ad0-afbb-cf9ffb09bc32?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/bad109a9-1a34-4663-9dd8-e757b3f38c62?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Scientists test new (and old) navigation systems to end GPS dependence",
-        "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "Military operations and civilian air traffic have been hit by satellite jamming and spoofing in modern wars",
-        "url": "https://www.ft.com/content/bad109a9-1a34-4663-9dd8-e757b3f38c62?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/885dc9fe-d877-47c5-941d-fd271f1a3f0c",
-        "source": "Financial Times World",
-        "title": "Schostal, the store keeping the stars in pyjamas",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "When in Rome, head to the 155-year-old haberdashery",
-        "url": "https://www.ft.com/content/885dc9fe-d877-47c5-941d-fd271f1a3f0c"
-    },
-    {
-        "id": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Inflation and interest rates tracker: see how your country compares",
+        "title": "UK inflation rose to 3.1% in August",
         "publicationDate": "2026-09-16",
         "category": "Economy",
-        "summary": "Explore the latest data through interactive charts",
-        "url": "https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2?syn-25a6b1a6=1"
+        "summary": "Figure worsens squeeze on households ahead of BoE meeting",
+        "url": "https://www.ft.com/content/57c085c9-741e-4202-8be7-812ea7bd6d19?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/35b6c207-98b1-44fb-82b9-3c8c29507e0a",
+        "source": "Financial Times World",
+        "title": "The EU should not increase resilience at the expense of trusted partners",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "Its Industrial Accelerator Act would threaten supply chain connections with the likes of Japan",
+        "url": "https://www.ft.com/content/35b6c207-98b1-44fb-82b9-3c8c29507e0a"
+    },
+    {
+        "id": "https://www.ft.com/content/384d4e2f-9730-4e3f-9b72-3f6744125431?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Wave of murders spreads fear in Johannesburg",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "Deaths of eight women have led to a backlash against government’s response to endemic violence",
+        "url": "https://www.ft.com/content/384d4e2f-9730-4e3f-9b72-3f6744125431?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/0a6dbcf3-adb9-493a-83d7-b1f43a2f75b3?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Salary stand-off delays abolition of NHS quango",
+        "publicationDate": "2026-09-16",
+        "category": "Healthcare",
+        "summary": "Health service leaders are urging ministers to set up a temporary body to resolve deadlock",
+        "url": "https://www.ft.com/content/0a6dbcf3-adb9-493a-83d7-b1f43a2f75b3?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Chinese oil prices hit record highs after attacks on Saudi pipeline",
+        "publicationDate": "2026-09-16",
+        "category": "Foreign Policy",
+        "summary": "Beijing has cushioned global impact of Iran war by drawing down stocks but is now ‘coming off its crash diet’",
+        "url": "https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-2.html",
@@ -432,24 +495,6 @@
         "url": "https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech"
     },
     {
-        "id": "https://www.npr.org/2026/09/15/nx-s1-5961512/for-many-pennsylvania-democrats-frustration-with-fetterman-is-at-a-breaking-point",
-        "source": "NPR Politics",
-        "title": "For many Pennsylvania Democrats, frustration with Fetterman is at a breaking point",
-        "publicationDate": "2026-09-15",
-        "category": "Other",
-        "summary": "A group of former campaign and Senate staffers for John Fetterman say they will soon begin dropping damaging stories about the Pennsylvania Democrat. Many of his constituents are already fed up.",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5961512/for-many-pennsylvania-democrats-frustration-with-fetterman-is-at-a-breaking-point"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name",
-        "source": "NPR Politics",
-        "title": "Kennedy Center board votes to close it, as judge again keeps Trump's name off",
-        "publicationDate": "2026-09-15",
-        "category": "Other",
-        "summary": "The board's vote to shutter the historic arts center came amid concerns about financial, structural problems.",
-        "url": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/elections-officials-get-mail-in-voting-clarity-after-supreme-court-decision",
         "source": "PBS NewsHour Politics",
         "title": "Election officials get mail-in voting clarity after Supreme Court decision",
@@ -477,67 +522,22 @@
         "url": "https://www.pbs.org/newshour/show/news-wrap-democrats-block-crypto-bill-demand-limits-on-trumps-investments"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/nato-jets-shoot-down-drone-in-lithuania-as-russia-continues-to-provoke-europe",
-        "source": "PBS NewsHour Politics",
-        "title": "NATO jets shoot down drone in Lithuania as Russia continues to provoke Europe",
-        "publicationDate": "2026-09-15",
-        "category": "Defense",
-        "summary": "A drone was shot down in Lithuania by a NATO jet. It is unknown from where the drone was launched, but it's the latest in a series of incursions and sabotage attacks across Europe. As Russia presses its war in Ukraine, it is also now confronting NATO. Stephanie Sy discussed more with Doug Lute, a retired Army lieutenant general who was U.S. ambassador to NATO during the Obama administration.",
-        "url": "https://www.pbs.org/newshour/show/nato-jets-shoot-down-drone-in-lithuania-as-russia-continues-to-provoke-europe"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-rep-massie-introduces-articles-of-impeachment-against-hegseth-on-house-floor",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Rep. Massie introduces articles of impeachment against Hegseth on House floor",
-        "publicationDate": "2026-09-15",
-        "category": "Defense",
-        "summary": "Massie said Hegseth abused his powers by deploying the U.S. military in the war against Iran without seeking congressional approval under the War Powers Act. He said these are \"unlawful orders\" and \"high crimes and misdemeanors.\"",
-        "url": "https://www.pbs.org/newshour/politics/watch-rep-massie-introduces-articles-of-impeachment-against-hegseth-on-house-floor"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-        "publicationDate": "2026-09-15",
-        "category": "Foreign Policy",
-        "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-        "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "R49350",
+        "id": "R42346",
         "source": "Congressional Research Service",
-        "title": "National Ambient Air Quality Standards and Selected Issues for Congress",
+        "title": "Federal Land Ownership: Overview and Data",
         "publicationDate": "2026-09-14",
-        "category": "Healthcare",
-        "summary": "Congress passed the Clean Air Act Amendments of 1970 to provide “a more effective program to improve the quality of the Nation’s air.” This legislation included provisions that helped regulate criteria air pollutants present nationwide in the ambient (outdoor) air, based on the criteria that they were a danger to public health or welfare and were emitted from “numerous diverse mobile or stationary sources.” The...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49350/R49350.3.pdf"
+        "category": "Defense",
+        "summary": "The federal government owns roughly 640 million acres, about 28% of the 2.27 billion acres of land in the United States. Four major federal land management agencies administer 606.8 million acres of this land (as of September 30, 2024). They are the Bureau of Land Management (BLM), U.S. Fish and Wildlife Service (FWS), and National Park Service (NPS) in the Department of the Interior (DOI) and the U.S. Forest...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42346/R42346.21.pdf"
     },
     {
-        "id": "R43805",
+        "id": "IF13312",
         "source": "Congressional Research Service",
-        "title": "The Earned Income Tax Credit (EITC): How It Works and Who Receives It",
+        "title": "The Small Business Administration’s (SBA’s) Women’s Business Centers Program",
         "publicationDate": "2026-09-14",
         "category": "Economy",
-        "summary": "The Earned Income Tax Credit (EITC) is a refundable tax credit that boosts the incomes of eligible low-income workers, especially those with children. Because the credit is refundable, an EITC recipient need not owe income taxes to receive the benefit. Eligibility for and the amount of the EITC are based on a variety of factors, including the amount of earned income and other sources of income, the presence and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43805/R43805.21.pdf"
-    },
-    {
-        "id": "R48064",
-        "source": "Congressional Research Service",
-        "title": "Considerations for Federal Leasing of Onshore Energy: Oil and Gas and Geothermal Power",
-        "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "Both oil and gas (O&G) and geothermal power are long-standing energy sectors for the United States. The two sectors have many similar characteristics, including use of subsurface resources, ability to provide baseload electricity production, development timelines, drilling technologies and processes, and types of environmental impacts. The technologies also have significant differences. O&G is a more mature sector,...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48064/R48064.13.pdf"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5112-1.html",
-        "source": "RAND Corporation",
-        "title": "Open-Weight AI Models May Increase Biological Misuse Risks",
-        "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "Open-weight LLMs can be modified by users, creating benefits but also biosecurity risks. We find that removing an LLM’s safety training is feasible and may amplify realistic threat pathways, while enhancing an LLM’s biological capabilities is harder.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5112-1.html"
+        "summary": "The Small Business Administration’s (SBA’s) management and technical assistance programs offer free counseling, training, and resources to small business owners and entrepreneurs. Although these programs are open to any type of small business owner and entrepreneur, some management and technical assistance providers target specific demographics. Among those are Women’s Business Centers (WBCs). SBA funds WBCs...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13312/IF13312.1.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/building-trust-in-ai-is-critical-to-the-frontiers-future",
@@ -594,15 +594,6 @@
         "url": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security"
     },
     {
-        "id": "R48937",
-        "source": "Congressional Research Service",
-        "title": "Congressional Votes on Surface Transportation Authorizations, 1978-2021",
-        "publicationDate": "2026-09-11",
-        "category": "Other",
-        "summary": "Prior to 1978, Congress enacted separate highway and public transportation authorization acts. Congress began passing multiyear surface transportation authorization acts in 1978. These acts were often extended prior to the passage of subsequent multiyear acts. This report compiles congressional votes on enacted multiyear legislation related to surface transportation authorizations as well as information regarding...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48937/R48937.8.pdf"
-    },
-    {
         "id": "https://ecfr.eu/article/remembering-emma-bonino/",
         "source": "European Council on Foreign Relations",
         "title": "Remembering Emma Bonino",
@@ -621,15 +612,6 @@
         "url": "https://ecfr.eu/article/the-eus-unfinished-business-in-the-western-balkans/"
     },
     {
-        "id": "https://ecfr.eu/podcasts/episode/the-geopolitics-of-global-hunger/",
-        "source": "European Council on Foreign Relations",
-        "title": "The geopolitics of global hunger",
-        "publicationDate": "2026-09-11",
-        "category": "European Security",
-        "summary": "Mark Leonard welcomes Cary Fowler and Jim O’Brien to discuss the factors behind the escalating risk of a major food crisis—and Europe’s role in preventing catastrophe",
-        "url": "https://ecfr.eu/podcasts/episode/the-geopolitics-of-global-hunger/"
-    },
-    {
         "id": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe",
         "source": "Centre for European Reform",
         "title": "VRT Max: Radio 1: Europese kwaliteit boven Chinese prijzen: Europese Commissie presenteert nieuwe regels rond openbare aanbestedingen",
@@ -637,6 +619,15 @@
         "category": "Foreign Policy",
         "summary": "De Europese Commissie heeft nieuwe regels voorgesteld rond openbare aanbestedingen. De focus ligt daarbij meer op Europese productie en de mogelijkheid om China uit de markt te weren. Sander Tordoir, hoofdeconoom van de Europese denktank Centre for European Reform: \"In feite trekt Europa hiermee het speelveld gelijk.\" Sander Tordoir View multimedia 09 September 2026",
         "url": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe"
+    },
+    {
+        "id": "R49342",
+        "source": "Congressional Research Service",
+        "title": "Department of Homeland Security Appropriations: FY2027 Provisions",
+        "publicationDate": "2026-09-05",
+        "category": "Economy",
+        "summary": "Through appropriations legislation, Congress provides not only budget authority for federal agencies and departments to operate, but also legally binding direction on how that budget authority can (or cannot) be used. These directions may appear in three places in an appropriations act: in the language of individual appropriations; in administrative provisions at the end of a title; and in general provisions at the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49342/R49342.3.pdf"
     },
     {
         "id": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026",
@@ -666,12 +657,21 @@
         "url": "https://www.cer.eu/mailings-webform-report"
     },
     {
-        "id": "LSB11442",
+        "id": "R48705",
         "source": "Congressional Research Service",
-        "title": "Supreme Court Clarifies Federal Arbitration Act Exemption for Transportation Workers",
-        "publicationDate": "2026-06-25",
-        "category": "Foreign Policy",
-        "summary": "Employment contracts often include a pre-dispute arbitration agreement in which the parties waive their right to litigate future disputes between them in court and instead agree to submit legal claims to binding arbitration before a neutral third party. The Federal Arbitration Act (FAA) (9 U.S.C. §§ 1–16) generally requires federal and state courts to enforce arbitration agreements that fall under the Act’s broad...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11442/LSB11442.3.pdf"
+        "title": "Department of Homeland Security Appropriations: FY2026 Provisions",
+        "publicationDate": "2026-08-14",
+        "category": "Economy",
+        "summary": "Through appropriations legislation, Congress provides not only budget authority for federal agencies and departments to operate, but also legally binding direction on how that budget authority can (or cannot) be used. These directions may appear in three places in an appropriations act: in the language of individual appropriations; in administrative provisions at the end of a title; and in general provisions at the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48705/R48705.8.pdf"
+    },
+    {
+        "id": "IF12173",
+        "source": "Congressional Research Service",
+        "title": "Firearms and Ammunition Excise Tax (FAET)",
+        "publicationDate": "2026-02-06",
+        "category": "Defense",
+        "summary": "The federal government first imposed excise taxes on firearms and ammunition over 100 years ago. Today, Section 4181 of the Internal Revenue Code imposes an excise tax at 10% of the manufacturer’s price for pistols and revolvers and 11% of the manufacturer’s price for other firearms (rifles and shotguns), cartridges, and shells. The firearms and ammunition excise tax (FAET) is imposed on the manufacturer and...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12173/IF12173.11.pdf"
     }
 ]
