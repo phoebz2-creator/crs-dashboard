@@ -1,21 +1,30 @@
 [
     {
-        "id": "R41759",
+        "id": "IF11365",
         "source": "Congressional Research Service",
-        "title": "Past Government Shutdowns: Key Resources",
+        "title": "U.S. Court of Appeals for Veterans Claims: A Brief Introduction",
         "publicationDate": "2026-09-16",
-        "category": "Economy",
-        "summary": "When federal government agencies and programs lack budget authority after the expiration of either full-year or interim appropriations, they experience a “funding gap,” also known as a lapse in appropriations. In many cases, under the Antideficiency Act (31 U.S.C. §§1341 et seq.), agencies and programs affected by a funding gap must cease operations—except in certain circumstances when continued activities are...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R41759/R41759.45.pdf"
+        "category": "Defense",
+        "summary": "The U.S. Court of Appeals for Veterans Claims (CAVC) provides the exclusive forum for veterans and other claimants, such as veterans’ surviving spouses, to appeal U.S. Department of Veterans Affairs (VA) decisions denying various veterans’ benefits. This In Focus describes the CAVC’s creation, jurisdiction, authority, and procedures before identifying several issues that may interest the 119th Congress. Creation...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11365/IF11365.4.pdf"
     },
     {
-        "id": "IF11557",
+        "id": "IF12595",
         "source": "Congressional Research Service",
-        "title": "Congress, the Judiciary, and Federal Court Procedure",
+        "title": "U.S.-Canada Trade Relations",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "The United States and Canada have one of the largest bilateral trade relationships in the world, including highly integrated energy and automotive markets. Since 1989, U.S.-Canada trade has been governed by the U.S.-Canada Free Trade Agreement, then by the 1994 North American Free Trade Agreement (NAFTA), and now by the 2020 United States-Mexico-Canada Agreement (USMCA). Since 2025, U.S.-Canada trade tensions have...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12595/IF12595.33.pdf"
+    },
+    {
+        "id": "IN12736",
+        "source": "Congressional Research Service",
+        "title": "Health Insurance Exchanges: Sources for Enrollment Data",
         "publicationDate": "2026-09-16",
         "category": "Economy",
-        "summary": "Court procedural rules control how parties present their cases in court and how courts decide them. These rules play a key role in litigation—a party’s case may succeed or fail based not only on the merits of their substantive claims but also on their compliance or noncompliance with the applicable procedures. While many are aware of Congress’s role in enacting and the courts’ role in interpreting substantive laws,...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11557/IF11557.2.pdf"
+        "summary": "Under the Patient Protection and Affordable Care Act (P.L. 111-148, as amended), exchanges (sometimes called marketplaces) have been established in every state. Generally, states have two types of exchanges—individual exchanges and small business health options program (SHOP) exchanges—in which consumers and small businesses, respectively, can shop for private health insurance coverage. Different types of exchange...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12736/IN12736.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5130-1.html",
@@ -27,15 +36,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5130-1.html"
     },
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA3894-1.html",
-        "source": "RAND Corporation",
-        "title": "Research, development, and innovation talent in Qatar",
-        "publicationDate": "2026-09-16",
-        "category": "Foreign Policy",
-        "summary": "Qatar aims to become a global hub for research, development, and innovation (RDI). This report reviews international approaches to developing, attracting, and retaining RDI talent, examining Qatar's landscape and identifying gaps and opportunities.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA3894-1.html"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3894-2.html",
         "source": "RAND Corporation",
         "title": "Positioning Qatar in the Global Research, Development, and Innovation Landscape",
@@ -45,40 +45,94 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3894-2.html"
     },
     {
-        "id": "https://cms.hoover.org/hoover-acquires-personal-papers-shih-ming-te-revolutionary-contemporary-taiwan",
-        "source": "Hoover Institution",
-        "title": "Hoover Acquires the Personal Papers of Shih Ming-te, a Revolutionary in Contemporary Taiwan",
+        "id": "https://www.rand.org/pubs/research_reports/RRA3894-1.html",
+        "source": "RAND Corporation",
+        "title": "Research, development, and innovation talent in Qatar",
         "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Twenty-five years in prison, thirteen of which were in solitary confinement. Discover the personal papers of Shih Ming-te, the legendary dissident whose unwavering commitment to democracy helped transform Taiwan from dictatorship to democracy.",
-        "url": "https://cms.hoover.org/hoover-acquires-personal-papers-shih-ming-te-revolutionary-contemporary-taiwan"
+        "category": "Foreign Policy",
+        "summary": "Qatar aims to become a global hub for research, development, and innovation (RDI). This report reviews international approaches to developing, attracting, and retaining RDI talent, examining Qatar's landscape and identifying gaps and opportunities.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA3894-1.html"
     },
     {
-        "id": "https://cms.hoover.org/news/remarkable-pictorial-archive-female-wwii-photographer-agnes-pickering-comes-hoover",
-        "source": "Hoover Institution",
-        "title": "Remarkable Pictorial Archive of Female WWII Photographer Agnes Pickering Comes to Hoover",
+        "id": "https://www.cfr.org/articles/the-u-s-canada-trade-war-could-mark-a-breaking-point",
+        "source": "Council on Foreign Relations",
+        "title": "The U.S.-Canada Trade War Could Mark a Breaking Point",
+        "publicationDate": "2026-09-16",
+        "category": "Article",
+        "summary": "The United States and Canada may settle their current trade dispute, but the decades-long movement to integrate the two economies is likely at an end.",
+        "url": "https://www.cfr.org/articles/the-u-s-canada-trade-war-could-mark-a-breaking-point"
+    },
+    {
+        "id": "https://www.cfr.org/podcasts/presidents-inbox/elbows-up-how-canada-is-fighting-trumps-tariffs",
+        "source": "Council on Foreign Relations",
+        "title": "Elbows Up: How Canada Is Fighting Trump’s Tariffs",
+        "publicationDate": "2026-09-16",
+        "category": "Podcast",
+        "summary": "We Discuss: Mentioned on the Episode: Ronald Reagan, “Radio Address to the Nation on Free and Fair Trade,” Ronald Reagan Presidential Library",
+        "url": "https://www.cfr.org/podcasts/presidents-inbox/elbows-up-how-canada-is-fighting-trumps-tariffs"
+    },
+    {
+        "id": "https://www.hudson.org/national-security-defense/us-path-out-war-iran-russian-missile-testing-rebeccah-heinrichs",
+        "source": "Hudson Institute",
+        "title": "The US Path out of War with Iran and Russian Missile Testing",
         "publicationDate": "2026-09-16",
         "category": "Defense",
-        "summary": "Over two thousand previously unpublished photographs documents female military service throughout World War II. Agnes “Jo” Pickering captured these historic scenes, tracing her journey from California training sites to European Victory in Europe Day festivities.",
-        "url": "https://cms.hoover.org/news/remarkable-pictorial-archive-female-wwii-photographer-agnes-pickering-comes-hoover"
+        "summary": "The US Path out of War with Iran and Russian Missile Testing bbert@hudson.org Wed, 09/16/2026 - 11:49 SVG In the Media Sep 15, 2026 Fox Business The US Path out of War with Iran and Russian Missile Testing Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox Business) Toggle Table of Contents Contents Contents Share to Twitter...",
+        "url": "https://www.hudson.org/national-security-defense/us-path-out-war-iran-russian-missile-testing-rebeccah-heinrichs"
     },
     {
-        "id": "https://cms.hoover.org/research/critical-conditions-operating-framework-allied-economic-statecraft-japanese",
-        "source": "Hoover Institution",
-        "title": "Critical Conditions: An Operating Framework for Allied Economic Statecraft (Japanese)",
+        "id": "https://www.hudson.org/national-security-defense/tensions-flare-red-sea-houthis-attack-saudi-arabia-rebeccah-heinrichs",
+        "source": "Hudson Institute",
+        "title": "Tensions Flare in the Red Sea as Houthis Attack Saudi Arabia",
         "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "米国とその同盟国は、重要な原材料、製品、およ び技術が、中国との戦略的競争の核心にあるとい う点で概ね一致している。しかし、経済的な重要度 （クリティカリティ）を定義し、どの資源、技術、製品 が他よりも重要であるかを評価するための、強固で 共通の枠組みを有していない。重要度をめぐる議 論は、抽象的なリスクに終始することが多い。政策 立案者たちは、どの依存関係が武器化される可能 性が最も高いか、世界経済や第三国が武器化に どう適応するか、そして重要な依存関係を事前に 「是正」するためにどれほどのコストがかかるか、と いった点を十分に検討することなく、性急に行動 に移そうとしている。",
-        "url": "https://cms.hoover.org/research/critical-conditions-operating-framework-allied-economic-statecraft-japanese"
+        "category": "Defense",
+        "summary": "Tensions Flare in the Red Sea as Houthis Attack Saudi Arabia bbert@hudson.org Wed, 09/16/2026 - 10:00 SVG In the Media Sep 15, 2026 Fox News Tensions Flare in the Red Sea as Houthis Attack Saudi Arabia Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox News) Toggle Table of Contents Contents Contents Share to Twitter Twitter...",
+        "url": "https://www.hudson.org/national-security-defense/tensions-flare-red-sea-houthis-attack-saudi-arabia-rebeccah-heinrichs"
     },
     {
-        "id": "https://cms.hoover.org/research/democracy-britain-burnham-coup-was-suez-moment",
+        "id": "https://cms.hoover.org/research/china-tightens-restrictions-citizens-foreign-travels-targeting-those-money-talent-well",
         "source": "Hoover Institution",
-        "title": "Democracy in Britain: The Burnham ‘Coup’ was a Suez Moment",
+        "title": "China Tightens Restrictions On Citizens’ Foreign Travels, Targeting Those With Money, Talent, As Well As Activists",
+        "publicationDate": "2026-09-16",
+        "category": "Foreign Policy",
+        "summary": "Oversight of overseas travel by party officials and state-enterprise employees has remained tightened for years while increasingly extending the scrutiny into the private sector. The new rules would make the system more “permanent and give officials more confidence to intervene,” and enable them to tighten document checks to avoid blame for lax implementation, Dan Wang, Hoover Institution fellow and China director...",
+        "url": "https://cms.hoover.org/research/china-tightens-restrictions-citizens-foreign-travels-targeting-those-money-talent-well"
+    },
+    {
+        "id": "https://cms.hoover.org/research/indias-semiconductor-startups-raise-14-billion-nearly-half-2025",
+        "source": "Hoover Institution",
+        "title": "India’s Semiconductor Startups Raise $1.4 Billion, Nearly Half Since 2025",
+        "publicationDate": "2026-09-16",
+        "category": "Technology",
+        "summary": "Raghuram Rajan, Hoover Institution fellow and former Governor of the Reserve Bank of India, argued in a recent interview that achieving total self-sufficiency in chips is unrealistic, given that inputs must be sourced globally in any case, and that India would benefit more from investing in education and economic fundamentals. Sridhar Vembu, founder of Zoho, has publicly taken the opposite stance.",
+        "url": "https://cms.hoover.org/research/indias-semiconductor-startups-raise-14-billion-nearly-half-2025"
+    },
+    {
+        "id": "https://cms.hoover.org/research/scholar-warns-taiwan-democracy-strained-political-polarization",
+        "source": "Hoover Institution",
+        "title": "Scholar Warns Taiwan Democracy Strained By Political Polarization",
         "publicationDate": "2026-09-16",
         "category": "Other",
-        "summary": "A rudderless political class presides over national decline. Closer US ties might right the ship of state.",
-        "url": "https://cms.hoover.org/research/democracy-britain-burnham-coup-was-suez-moment"
+        "summary": "Hoover Institution fellow Larry Diamond praises resilience but sees risk of democratic backsliding.",
+        "url": "https://cms.hoover.org/research/scholar-warns-taiwan-democracy-strained-political-polarization"
+    },
+    {
+        "id": "https://cms.hoover.org/research/unintended-consequences-trade-intervention-world-global-value-chains",
+        "source": "Hoover Institution",
+        "title": "Unintended Consequences: Trade Intervention In A World Of Global Value Chains",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "Actual protection, whatever its merits, can diverge wildly from what was intended. Responsible economic statecraft calls for new discipline.",
+        "url": "https://cms.hoover.org/research/unintended-consequences-trade-intervention-world-global-value-chains"
+    },
+    {
+        "id": "https://cms.hoover.org/research/lie-about-islam-europe-and-dangers-we-face",
+        "source": "Hoover Institution",
+        "title": "The Lie About Islam, Europe, And The Dangers We Face",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "In its latest edition, ‘The Economist’ presented Islamism and the European far right as two symmetrical threats. They are not.",
+        "url": "https://cms.hoover.org/research/lie-about-islam-europe-and-dangers-we-face"
     },
     {
         "id": "https://ecfr.eu/publication/an-outsider-within-the-paradox-of-the-europe-turkey-relationship/",
@@ -88,6 +142,15 @@
         "category": "European Power",
         "summary": "Turkey is neither drifting away from the West nor is it coming home. It has become an embedded outsider: a middle power that has learned to build strategic autonomy from inside the Western system rather than by leaving it.",
         "url": "https://ecfr.eu/publication/an-outsider-within-the-paradox-of-the-europe-turkey-relationship/"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
+        "source": "NPR Politics",
+        "title": "House holds billionaire Leon Black in contempt of Congress",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it's up to the Department of Justice whether to pursue criminal charges.",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress"
     },
     {
         "id": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
@@ -126,13 +189,40 @@
         "url": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business"
     },
     {
-        "id": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
-        "source": "NPR Politics",
-        "title": "How are rising prices affecting you? NPR wants to know",
+        "id": "https://www.pbs.org/newshour/politics/the-one-issue-where-republicans-and-democrats-are-unified-before-the-midterms-according-to-this-poll",
+        "source": "PBS NewsHour Politics",
+        "title": "The one issue where Republicans and Democrats are unified before the midterms, according to this poll",
         "publicationDate": "2026-09-16",
-        "category": "Economy",
-        "summary": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear.",
-        "url": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms"
+        "category": "Defense",
+        "summary": "Americans have grown more concerned about the environmental impacts of artificial intelligence over the last year, according to a new poll from The Associated Press-NORC Center for Public Affairs Research and the Energy Policy Institute at the University of Chicago.",
+        "url": "https://www.pbs.org/newshour/politics/the-one-issue-where-republicans-and-democrats-are-unified-before-the-midterms-according-to-this-poll"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-administration-has-cut-or-frozen-177-billion-in-grants-across-every-state-analysis-shows",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump administration has cut or frozen $177 billion in grants across every state, analysis shows",
+        "publicationDate": "2026-09-16",
+        "category": "Healthcare",
+        "summary": "Among the grants that were eliminated, frozen or delayed were ones related to maternal health in Michigan, education research in Mississippi and assistance to minority farmers in Iowa, the researchers found.",
+        "url": "https://www.pbs.org/newshour/politics/trump-administration-has-cut-or-frozen-177-billion-in-grants-across-every-state-analysis-shows"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/world/iran-war-has-cost-the-u-s-more-than-38-billion-so-far-budget-office-says",
+        "source": "PBS NewsHour Politics",
+        "title": "Iran war has cost the U.S. more than $38 billion so far, budget office says",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "The estimates come largely from replacing munitions and equipment lost in battle, the CBO said, and do not include costs related to U.S. military personnel killed or injured in the conflict or longer term effects.",
+        "url": "https://www.pbs.org/newshour/world/iran-war-has-cost-the-u-s-more-than-38-billion-so-far-budget-office-says"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/fencing-goes-up-around-the-main-kennedy-center-building-after-trump-aligned-board-votes-to-close-it",
+        "source": "PBS NewsHour Politics",
+        "title": "Fencing goes up around the main Kennedy Center building after Trump-aligned board votes to close it",
+        "publicationDate": "2026-09-16",
+        "category": "arts",
+        "summary": "Fencing went up Wednesday around the main Kennedy Center building, a day after the Trump-aligned board voted to close most of the performing arts center for repairs. A Democratic congresswoman who is a trustee quickly sought an emergency court hearing to prevent what she called the \"unlawful closing.\"",
+        "url": "https://www.pbs.org/newshour/politics/fencing-goes-up-around-the-main-kennedy-center-building-after-trump-aligned-board-votes-to-close-it"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/house-votes-to-hold-billionaire-leon-black-in-contempt-of-congress-over-epstein-investigation",
@@ -144,130 +234,112 @@
         "url": "https://www.pbs.org/newshour/politics/house-votes-to-hold-billionaire-leon-black-in-contempt-of-congress-over-epstein-investigation"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-house-democrats-blasts-do-nothing-republican-majority-in-midterm-pitch-to-voters",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: House Democrats blasts 'do nothing' Republican majority in midterm pitch to voters",
-        "publicationDate": "2026-09-16",
-        "category": "congress",
-        "summary": "House Democratic Leader Hakeem Jeffries said the Democrats' message is simple: \"We hear you… And we are committed to making life better for you.\"",
-        "url": "https://www.pbs.org/newshour/politics/watch-house-democrats-blasts-do-nothing-republican-majority-in-midterm-pitch-to-voters"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-house-considers-bills-on-russia-sanctions-ai-data-center-costs",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: House considers bills on Russia sanctions, AI data center costs",
-        "publicationDate": "2026-09-16",
-        "category": "Economy",
-        "summary": "The House will vote Wednesday on a broad package of sanctions targeting Russian officials and key pillars of its economy as lawmakers look to deprive Russian President Vladimir Putin of the financial resources needed to wage the war against Ukraine.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-house-considers-bills-on-russia-sanctions-ai-data-center-costs"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/iowa-republicans-in-battleground-house-races-join-vote-to-halt-the-iran-war",
-        "source": "PBS NewsHour Politics",
-        "title": "Iowa Republicans in battleground House races join vote to halt the Iran war",
-        "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "Two House Republicans in battleground Iowa districts changed their position on an Iran war powers resolution, joining with Democrats and a few other dissident members of their party in an attempt to halt President Donald Trump's ability to continue military action without congressional approval.",
-        "url": "https://www.pbs.org/newshour/politics/iowa-republicans-in-battleground-house-races-join-vote-to-halt-the-iran-war"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/economy/retail-sales-rise-better-than-expected-1-2-in-august",
-        "source": "PBS NewsHour Politics",
-        "title": "Retail sales rise better-than-expected 1.2% in August",
-        "publicationDate": "2026-09-16",
-        "category": "Economy",
-        "summary": "The strong spending report comes as the Federal Reserve is widely expected to lift its short-term interest rate Wednesday for the first time in three years to fight stubbornly high inflation.",
-        "url": "https://www.pbs.org/newshour/economy/retail-sales-rise-better-than-expected-1-2-in-august"
-    },
-    {
-        "id": "https://thehill.com/blogs/in-the-know/6093447-colbert-kimmel-free-speech-comments/",
+        "id": "https://thehill.com/homenews/house/6093976-house-russia-sanctions-bill-passes-trump/",
         "source": "The Hill",
-        "title": "Colbert tells Kimmel he doesn't miss late night, compares news to 'a cup of poison every day'",
-        "publicationDate": "2026-09-16",
-        "category": "In The Know",
-        "summary": "Comedian Stephen Colbert on Tuesday told late-night host Jimmy Kimmel that he does not miss hosting CBS's \"The Late Show\" and compared talking about the news to taking \"a cup of poison every day.\" A bearded Colbert, resembling his late-night predecessor David Letterman after he departed \"The Late Show\" in 2015, appeared as a guest...",
-        "url": "https://thehill.com/blogs/in-the-know/6093447-colbert-kimmel-free-speech-comments/"
-    },
-    {
-        "id": "https://thehill.com/blogs/in-the-know/6093272-merriam-webster-adds-new-words-2026/",
-        "source": "The Hill",
-        "title": "'Rickroll' and 'looksmaxxing' are official: Merriam-Webster adds 1,400 new words to dictionary website",
-        "publicationDate": "2026-09-16",
-        "category": "In The Know",
-        "summary": "Merriam-Webster.com has added 1,400 new words and definitions to its dictionary, including looksmaxxing, parasocial, and rickroll.",
-        "url": "https://thehill.com/blogs/in-the-know/6093272-merriam-webster-adds-new-words-2026/"
-    },
-    {
-        "id": "https://thehill.com/video-clips/6093192-watch-live-kevin-warsh-federal-reserve-interest-rates/",
-        "source": "The Hill",
-        "title": "Watch: Warsh speaks after Fed hikes interest rates",
-        "publicationDate": "2026-09-16",
-        "category": "Economy",
-        "summary": "Federal Reserve Chair Kevin Warsh delivered remarks Wednesday afternoon after the central bank opted to raise interest rates by 0.25 percent to tame inflation amid the Iran war. The Federal Open Market Committee voted unanimously to increase the rate to a range of 3.75 to 4 percent, its first hike in over three years —...",
-        "url": "https://thehill.com/video-clips/6093192-watch-live-kevin-warsh-federal-reserve-interest-rates/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/6093325-trump-kennedy-center-fencing-board/",
-        "source": "The Hill",
-        "title": "Fencing added to Kennedy Center after Trump-appointed board votes to close",
-        "publicationDate": "2026-09-16",
-        "category": "State Watch",
-        "summary": "Fencing surrounds the front entrance of the Kennedy Center on Wednesday, a day after President Trump’s hand-picked board voted to close the facility for renovations amid ongoing fights over adding his name to the facility. The fencing blocked off the main entrance to the performing arts center, based on a photo taken by an Associated...",
-        "url": "https://thehill.com/homenews/state-watch/6093325-trump-kennedy-center-fencing-board/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6093390-mark-zuckerberg-artificial-intelligence-safety-incentives/",
-        "source": "The Hill",
-        "title": "Zuckerberg: AI companies incentivized toward safety",
-        "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "Meta CEO Mark Zuckerberg on Tuesday argued that artificial intelligence (AI) companies are incentivized toward safety when it comes to the timing of crafting their models and that external pressure is not needed to keep to that timeline. “Every lab has the responsibility and incentive to move at the pace required to train its models...",
-        "url": "https://thehill.com/policy/technology/6093390-mark-zuckerberg-artificial-intelligence-safety-incentives/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/16/us/politics/leon-black-contempt-congress.html",
-        "source": "New York Times Politics",
-        "title": "House Holds Leon Black in Contempt Over Epstein Subpoenas",
-        "publicationDate": "2026-09-16",
-        "category": "United States Politics and Government",
-        "summary": "Lawmakers unanimously agreed to the move without a formal roll-call vote just before leaving Washington to campaign for the midterm congressional elections.",
-        "url": "https://www.nytimes.com/2026/09/16/us/politics/leon-black-contempt-congress.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/16/us/politics/capitol-police-discrimination-lawsuit.html",
-        "source": "New York Times Politics",
-        "title": "Officer Sues Capitol Police, Alleging Racial Bias",
-        "publicationDate": "2026-09-16",
-        "category": "United States Capitol Police",
-        "summary": "It was the latest in a string of discrimination complaints against the department, which has paid out nearly $1 million since 2022 for employment claims.",
-        "url": "https://www.nytimes.com/2026/09/16/us/politics/capitol-police-discrimination-lawsuit.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
-        "source": "New York Times Politics",
-        "title": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
-        "publicationDate": "2026-09-16",
-        "category": "United States Politics and Government",
-        "summary": "Mr. Hamm’s company, Continental Resources, has signed a preliminary deal with Venezuela’s state-owned oil company to develop and produce oil.",
-        "url": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/16/us/politics/trump-noem-fast-track-deportation-ecuador.html",
-        "source": "New York Times Politics",
-        "title": "U.S. Fast-Tracked Deportation of Ecuadorean Politician Despite Torture Fears",
-        "publicationDate": "2026-09-16",
-        "category": "United States Politics and Government",
-        "summary": "The removal of José Serrano, a critic of President Daniel Noboa who has been accused of criminal activity, underscores how the Trump administration has asserted control over U.S. immigration courts.",
-        "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-noem-fast-track-deportation-ecuador.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/16/world/africa/trump-visas-south-africa.html",
-        "source": "New York Times Politics",
-        "title": "Trump Bars Some South Africans Over Claims of Anti-White Discrimination",
+        "title": "House passes Russia sanctions bill, sending it to Trump’s desk",
         "publicationDate": "2026-09-16",
         "category": "Foreign Policy",
-        "summary": "Washington says South Africa has not done anything to fix what President Trump sees as discrimination. South Africa’s president has called Mr. Trump’s policies racist.",
-        "url": "https://www.nytimes.com/2026/09/16/world/africa/trump-visas-south-africa.html"
+        "summary": "The House on Wednesday passed legislation granting President Trump tariff authorities to sanction countries purchasing Russian energy and impose tougher sanctions against the Kremlin over its war in Ukraine. The bill will now be sent to Trump’s desk for his signature, marking the end of a more than year and a half journey for legislation...",
+        "url": "https://thehill.com/homenews/house/6093976-house-russia-sanctions-bill-passes-trump/"
+    },
+    {
+        "id": "https://thehill.com/policy/energy-environment/6094229-tharold-hamms-continental-venezuela-oil/",
+        "source": "The Hill",
+        "title": "Trump donor Harold Hamm's oil company announces Venezuela deal",
+        "publicationDate": "2026-09-16",
+        "category": "Energy & Environment",
+        "summary": "Trump donor Harold Hamm’s oil company Continental Resources announced a deal Wednesday to drill in Venezuela. Continental signed a memorandum of understanding with Venezuela’s state-run oil company that would allow it to operate in a 126,000 acre-area of the oil-rich Orinoco Belt, according to a press release. \"Continental was built to recognize great resource opportunities and...",
+        "url": "https://thehill.com/policy/energy-environment/6094229-tharold-hamms-continental-venezuela-oil/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/defense-national-security/6094207-trump-hands-off-houthis-saudis-arent-happy/",
+        "source": "The Hill",
+        "title": "Trump is hands-off on Houthis and the Saudis aren't happy",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Trump is hands-off on Houthis and the Saudis aren't happy President Trump is taking a notably hands-off approach as Iran-backed Houthi rebels in Yemen rapidly gain ground in their bid to secure a Red Sea choke...",
+        "url": "https://thehill.com/newsletters/defense-national-security/6094207-trump-hands-off-houthis-saudis-arent-happy/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6094142-paul-kennedy-ai-kill-switch/",
+        "source": "The Hill",
+        "title": "Republicans clash on Senate floor over AI kill switch",
+        "publicationDate": "2026-09-16",
+        "category": "Senate",
+        "summary": "Sen. Rand Paul (R-Ky.) on Wednesday blocked a request by Sen. John Kennedy (R-La.) to pass legislation that would require tech companies to develop a “kill switch” for superintelligent AI amid fears that it could spin out of control and pose an existential threat to humanity. Paul argued that an “open-ended” government mandate to implement...",
+        "url": "https://thehill.com/homenews/senate/6094142-paul-kennedy-ai-kill-switch/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6094047-warsh-defies-trump-rate-cut/",
+        "source": "The Hill",
+        "title": "Federal Reserve delivers unwelcome news to Trump",
+        "publicationDate": "2026-09-16",
+        "category": "Administration",
+        "summary": "President Trump received unpleasant news on Wednesday after Federal Reserve Chair Kevin Warsh moved to raise interest rates despite the president's calls for rates to come down. The Federal Reserve announced on Wednesday that it will hike interest rates by 0.25 percent to 4.0 percent, marking the first time the body has raised rates in...",
+        "url": "https://thehill.com/homenews/administration/6094047-warsh-defies-trump-rate-cut/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/16/us/politics/trump-congress-russia-sanctions.html",
+        "source": "New York Times Politics",
+        "title": "Congress Clears Russia Sanctions Bill, Sending It to Trump",
+        "publicationDate": "2026-09-16",
+        "category": "Foreign Policy",
+        "summary": "The bipartisan measure targets financing for Russia’s war against Ukraine as attacks intensify. It passed the House over the objections of Democrats who opposed handing President Trump new tariff powers.",
+        "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-congress-russia-sanctions.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/16/us/politics/primary-season-takeaways.html",
+        "source": "New York Times Politics",
+        "title": "Snubs, Flubs and Dueling Dan Sullivans: A Wild Primary Season Comes to a Close",
+        "publicationDate": "2026-09-16",
+        "category": "internal-open-access-from-nl",
+        "summary": "A look back at the good, the bad and the bizarre from the battles that helped set the stage for the coming midterms.",
+        "url": "https://www.nytimes.com/2026/09/16/us/politics/primary-season-takeaways.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+        "source": "New York Times Politics",
+        "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
+        "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html",
+        "source": "New York Times Politics",
+        "title": "Why Israel Wants More One-Ton Bombs From the U.S.",
+        "publicationDate": "2026-09-16",
+        "category": "Israel-Gaza War (2023- )",
+        "summary": "The Trump administration plans to deliver 60,000 of the powerful munitions at a time when opposition is growing in Washington to arms sales to Israel.",
+        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/16/us/politics/senate-regulates-college-sports.html",
+        "source": "New York Times Politics",
+        "title": "Senate Takes Up Bill to Regulate ‘Wild West’ of Collegiate Sports",
+        "publicationDate": "2026-09-16",
+        "category": "United States Politics and Government",
+        "summary": "Critics argue the legislation would limit the rights of college athletes while maintaining the power and financial gains of schools and coaches.",
+        "url": "https://www.nytimes.com/2026/09/16/us/politics/senate-regulates-college-sports.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/national-security/2026/09/16/afghan-terrorist-gets-20-years-role-deadly-2021-attack-kabul-airport/",
+        "source": "Washington Post Politics",
+        "title": "Afghan terrorist gets 20 years for role in deadly 2021 attack at Kabul airport",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "Thirteen American troops and about 170 Afghans were killed in a suicide bombing at the airport’s Abbey Gate as the U.S. left Afghanistan.",
+        "url": "https://www.washingtonpost.com/national-security/2026/09/16/afghan-terrorist-gets-20-years-role-deadly-2021-attack-kabul-airport/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/16/iowas-republican-senate-candidate-not-attending-jd-vance-event/",
+        "source": "Washington Post Politics",
+        "title": "Iowa’s Republican Senate candidate not attending JD Vance event",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "A spokesperson for Rep. Ashley Hinson, who is campaigning on bipartisanship, cited previously scheduled events but declined to say what they are.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/16/iowas-republican-senate-candidate-not-attending-jd-vance-event/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/16/trump-officials-say-planned-arch-will-harm-historic-sites-must-go/",
@@ -279,49 +351,31 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/16/trump-officials-say-planned-arch-will-harm-historic-sites-must-go/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/16/how-argue-about-regulating-ai/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/16/senate-republicans-manage-advance-farm-bill-with-mcconnells-return/",
         "source": "Washington Post Politics",
-        "title": "How to argue about regulating AI",
-        "publicationDate": "2026-09-16",
-        "category": "Foreign Policy",
-        "summary": "Will regulation let China get ahead, or save us from doomsday?",
-        "url": "https://www.washingtonpost.com/politics/2026/09/16/how-argue-about-regulating-ai/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/16/house-is-heading-home-ahead-midterms-even-earlier-than-planned/",
-        "source": "Washington Post Politics",
-        "title": "The House is heading home ahead of the midterms even earlier than planned",
-        "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "A move to impeach Defense Secretary Pete Hegseth will now probably be considered after the November elections.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/16/house-is-heading-home-ahead-midterms-even-earlier-than-planned/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/16/dan-osborn-criticizes-some-nebraska-trump-voters-leaked-recording/",
-        "source": "Washington Post Politics",
-        "title": "In leaked recording, Nebraska Senate candidate criticizes some Trump voters",
+        "title": "Senate Republicans manage to advance farm bill with McConnell’s return",
         "publicationDate": "2026-09-16",
         "category": "Other",
-        "summary": "Dan Osborn has carefully sought to maintain an independent profile to attract crossover voters of both parties in the typically red state.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/16/dan-osborn-criticizes-some-nebraska-trump-voters-leaked-recording/"
+        "summary": "The measure still faces significant challenges as Democrats demand changes to SNAP provisions.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/16/senate-republicans-manage-advance-farm-bill-with-mcconnells-return/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/16/former-congressman-sander-levin-endorses-el-sayed-us-senate-michigan/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/16/susie-wiles-trumps-chief-staff-says-she-is-cancer-free/",
         "source": "Washington Post Politics",
-        "title": "Former congressman Sander Levin endorses El-Sayed for U.S. Senate in Michigan",
+        "title": "Susie Wiles, Trump’s chief of staff, says she is cancer-free",
         "publicationDate": "2026-09-16",
-        "category": "Healthcare",
-        "summary": "In a statement, Levin said he was aligned with El-Sayed on climate change, trade, health care and other issues despite his “significant disagreement” with El-Sayed’s views on the Israeli-Palestinian conflict.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/16/former-congressman-sander-levin-endorses-el-sayed-us-senate-michigan/"
+        "category": "Other",
+        "summary": "Wiles had continued working at the White House while undergoing treatment.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/16/susie-wiles-trumps-chief-staff-says-she-is-cancer-free/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "title": "US interest rates raised for first time in three years",
         "publicationDate": "2026-09-16",
         "category": "Other",
-        "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+        "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
@@ -333,6 +387,15 @@
         "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
@@ -342,22 +405,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-        "publicationDate": "2026-09-16",
-        "category": "Foreign Policy",
-        "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
-        "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+        "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
         "publicationDate": "2026-09-16",
         "category": "Other",
-        "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
+        "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
+        "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84",
+        "source": "Financial Times World",
+        "title": "Trump calls for rates to be 1% or less after Fed tightens monetary policy",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "President urges policymakers to act for the sake of the country as rate-setters lift borrowing costs for first time since 2023",
+        "url": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84"
+    },
+    {
+        "id": "https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Federal Reserve defies Trump with first rate rise since 2023",
+        "publicationDate": "2026-09-16",
+        "category": "Economy",
+        "summary": "Central bank signals willingness for further action as chair Kevin Warsh warns that ‘inflation is too high and has been for too long’",
+        "url": "https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3dacfbb9-e7ec-4286-b161-1f86bcd761cb?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Healey prepares UK for ‘really challenging’ Budget",
+        "publicationDate": "2026-09-16",
+        "category": "Economy",
+        "summary": "Chancellor’s allies say wars in the Middle East and Ukraine are having a ‘significant impact on the economy’",
+        "url": "https://www.ft.com/content/3dacfbb9-e7ec-4286-b161-1f86bcd761cb?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b990fc74-9efe-4de0-a6ca-64427e6e4f84",
+        "source": "Financial Times World",
+        "title": "Federal Reserve raises fed funds rate with likely more to come",
+        "publicationDate": "2026-09-16",
+        "category": "Economy",
+        "summary": "Its decision was accompanied by new inflation and interest rate forecasts showing that most policymakers expect one more tightening this year",
+        "url": "https://www.ft.com/content/b990fc74-9efe-4de0-a6ca-64427e6e4f84"
     },
     {
         "id": "https://www.ft.com/content/7be92efe-13d6-4d02-9f77-0e8229b3b8fa?syn-25a6b1a6=1",
@@ -369,40 +459,13 @@
         "url": "https://www.ft.com/content/7be92efe-13d6-4d02-9f77-0e8229b3b8fa?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84",
-        "source": "Financial Times World",
-        "title": "Fed raises rates for first time since 2023 in unanimous decision",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Central bank chair Kevin Warsh defies calls from Donald Trump to lower borrowing costs",
-        "url": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84"
-    },
-    {
-        "id": "https://www.ft.com/content/d4368014-a79f-4887-a839-1fc43b52fca1?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Britain’s unsustainable pensions lock",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "It would be better to link state retirement benefits to earnings growth",
-        "url": "https://www.ft.com/content/d4368014-a79f-4887-a839-1fc43b52fca1?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3f9013b1-11a8-4dbd-a985-b0577fd95313?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Turkish stocks slide in ‘fund run’ as investors withdraw $1bn",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Index provider MSCI raises prospect of cutting Turkey from emerging market to frontier status amid accusations of ‘co-ordinated trading’ by fund managers",
-        "url": "https://www.ft.com/content/3f9013b1-11a8-4dbd-a985-b0577fd95313?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/fc08dba8-3e16-4262-9e2c-0d59d049efdc?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Bach choir is a rare symbol of unity in a swing state",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "In small-city Pennsylvania, music brings people together from across the political divide",
-        "url": "https://www.ft.com/content/fc08dba8-3e16-4262-9e2c-0d59d049efdc?syn-25a6b1a6=1"
+        "id": "R46435",
+        "source": "Congressional Research Service",
+        "title": "Foreign Agents Registration Act (FARA): Background and Issues for Congress",
+        "publicationDate": "2026-09-15",
+        "category": "Foreign Policy",
+        "summary": "On June 9, 1938, President Franklin D. Roosevelt signed the Foreign Agents Registration Act (FARA) into law (22 U.S.C. §§611-621). As initially enacted, FARA sought to expose foreign influence in American politics, with a specific focus on identifying and making a public record of attempts to spread propaganda and foreign agendas. Since its enactment, FARA has been revised to respond to the changing nature of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46435/R46435.4.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-2.html",
@@ -522,33 +585,6 @@
         "url": "https://www.hudson.org/foreign-policy/chinese-actors-cited-anthropics-threat-report-xi-jinping-brics-summit-chinese-miles-yu-colin-tessier-kay"
     },
     {
-        "id": "https://www.hudson.org/national-security-defense/securing-just-peace-ukraine-luke-coffey",
-        "source": "Hudson Institute",
-        "title": "Securing a Just Peace for Ukraine",
-        "publicationDate": "2026-09-15",
-        "category": "Defense",
-        "summary": "Securing a Just Peace for Ukraine bbert@hudson.org Tue, 09/15/2026 - 11:45 SVG Reports Sep 15, 2026 Hudson Institute Securing a Just Peace for Ukraine Luke Coffey Senior Fellow, Center on Europe and Eurasia Luke Coffey Reports Caption United States Special Envoy Steve Witkoff, Jared Kushner, and Ukrainian President Volodymyr Zelenskyy participate in a joint press conference after talks on September 6, 2026, in...",
-        "url": "https://www.hudson.org/national-security-defense/securing-just-peace-ukraine-luke-coffey"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/how-india-exerts-influence-through-brics-aparna-pande",
-        "source": "Hudson Institute",
-        "title": "How India Exerts Influence Through BRICS+",
-        "publicationDate": "2026-09-15",
-        "category": "Defense",
-        "summary": "How India Exerts Influence Through BRICS+ bbert@hudson.org Tue, 09/15/2026 - 11:35 SVG Commentary Sep 15, 2026 GIS How India Exerts Influence Through BRICS+ New Delhi sees BRICS+ as a flexible platform for advancing strategic autonomy and global leadership, but rivalry with China and internal divisions limit the group’s cohesion. Aparna Pande Senior Fellow Aparna Pande Commentary Caption Indian Prime Minister...",
-        "url": "https://www.hudson.org/foreign-policy/how-india-exerts-influence-through-brics-aparna-pande"
-    },
-    {
-        "id": "https://cms.hoover.org/research/h-1b-worker-geography",
-        "source": "Hoover Institution",
-        "title": "H-1B Worker Geography",
-        "publicationDate": "2026-09-15",
-        "category": "Foreign Policy",
-        "summary": "The H-1B is the main US temporary work visa for college-educated foreign professionals. Employers want far more of them than Congress allows, so the visas are allocated via lottery. Federal records obtained by Bloomberg under the Freedom of Information Act (FOIA) cover petitions from the four FY2021–24 lotteries. Part three of this series examines where in the country that work is based and which employers file for...",
-        "url": "https://cms.hoover.org/research/h-1b-worker-geography"
-    },
-    {
         "id": "https://ecfr.eu/article/indian-summer-the-brics-summit-and-warming-new-delhi-beijing-relations/",
         "source": "European Council on Foreign Relations",
         "title": "Indian summer: The BRICS summit and warming New Delhi-Beijing relations",
@@ -567,31 +603,13 @@
         "url": "https://ecfr.eu/publication/life-of-the-party-democrats-and-the-search-for-a-post-trump-future/"
     },
     {
-        "id": "R48064",
+        "id": "IN12304",
         "source": "Congressional Research Service",
-        "title": "Considerations for Federal Leasing of Onshore Energy: Oil and Gas and Geothermal Power",
+        "title": "Revisions to Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity",
         "publicationDate": "2026-09-14",
-        "category": "Other",
-        "summary": "Both oil and gas (O&G) and geothermal power are long-standing energy sectors for the United States. The two sectors have many similar characteristics, including use of subsurface resources, ability to provide baseload electricity production, development timelines, drilling technologies and processes, and types of environmental impacts. The technologies also have significant differences. O&G is a more mature sector,...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48064/R48064.13.pdf"
-    },
-    {
-        "id": "https://www.cfr.org/articles/building-trust-in-ai-is-critical-to-the-frontiers-future",
-        "source": "Council on Foreign Relations",
-        "title": "Building Trust in AI Is Critical to the Frontier’s Future",
-        "publicationDate": "2026-09-14",
-        "category": "Article",
-        "summary": "Voluntary AI lab commitments are a start, but genuine security and safety will require enforceable standards and independent oversight.",
-        "url": "https://www.cfr.org/articles/building-trust-in-ai-is-critical-to-the-frontiers-future"
-    },
-    {
-        "id": "https://www.cfr.org/books/bringing-order-to-anarchy",
-        "source": "Council on Foreign Relations",
-        "title": "Bringing Order to Anarchy",
-        "publicationDate": "2026-09-14",
-        "category": "Foreign Policy",
-        "summary": "With the United States and the world it leads in disarray, how should we construct a new international order?",
-        "url": "https://www.cfr.org/books/bringing-order-to-anarchy"
+        "category": "Economy",
+        "summary": "The Office of Management and Budget (OMB) oversees the collection of race and ethnicity data through Statistical Policy Directive (SPD) No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity. SPD No. 15 intends to “ensure the comparability of race and ethnicity across Federal datasets and to maximize the quality of that data by ensuring that the format, language, and...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12304/IN12304.7.pdf"
     },
     {
         "id": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security",
@@ -601,24 +619,6 @@
         "category": "Foreign Policy",
         "summary": "Ian Bond deputy director of the CER spoke alongside the Lithuanian Vice Foreign Minister Lina Rukštelienė in a discussion with Yaroslav Trofimov on Ukraine's future as a pillar of European security (from 4:35:40 mins). Ian Bond 10 September 2026",
         "url": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security"
-    },
-    {
-        "id": "IN12697",
-        "source": "Congressional Research Service",
-        "title": "May 2026 Proposed Rule on Uniform Guidance for Federal Grants: Summary of Selected Changes",
-        "publicationDate": "2026-09-11",
-        "category": "Economy",
-        "summary": "On May 29, 2026, the Office of Management and Budget (OMB), alongside 41 other executive agencies and departments, issued a notice of proposed rulemaking (NPRM) to amend provisions of the Code of Federal Regulations codified at 2 C.F.R. Part 200. 2 C.F.R. Part 200, formally known as the “Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards” (Uniform Guidance, or UG),...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12697/IN12697.3.pdf"
-    },
-    {
-        "id": "IF10542",
-        "source": "Congressional Research Service",
-        "title": "Defense Primer: Control and Command of the U.S. Military",
-        "publicationDate": "2026-09-11",
-        "category": "Defense",
-        "summary": "Congress has exercised oversight and a measure of control over the U.S. military, including by, inter alia, legislating the chain of command, directing changes to military components and their responsibilities, and determining resources for the military. Military operations, in peacetime and in war, are inherently complex. One key to success, therefore, is a clear, unified chain of command. This enables senior U.S....",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10542/IF10542.16.pdf"
     },
     {
         "id": "https://ecfr.eu/article/remembering-emma-bonino/",
