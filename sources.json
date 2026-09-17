@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://thehill.com/business/6094397-navarro-blasts-fed-rate-hike/",
+        "source": "The Hill",
+        "title": "Peter Navarro says Fed's rate raise is 'a bad decision'",
+        "publicationDate": "2026-09-17",
+        "category": "Business",
+        "summary": "White House adviser Peter Navarro on Wednesday blasted the Federal Reserve's move to raise interest rates in several years, calling it \"a bad decision.\" The central bank’s Federal Open Market Committee (FOMC), led by Fed Chair Kevin Warsh, voted unanimously to increase the central bank’s benchmark interest rate to a range of 3.75 percent to 4 percent. Warsh...",
+        "url": "https://thehill.com/business/6094397-navarro-blasts-fed-rate-hike/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US interest rates raised for first time in three years",
+        "publicationDate": "2026-09-17",
+        "category": "Other",
+        "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "publicationDate": "2026-09-17",
+        "category": "Other",
+        "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "IF11365",
         "source": "Congressional Research Service",
         "title": "U.S. Court of Appeals for Veterans Claims: A Brief Introduction",
@@ -144,9 +171,18 @@
         "url": "https://ecfr.eu/publication/an-outsider-within-the-paradox-of-the-europe-turkey-relationship/"
     },
     {
+        "id": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+        "source": "NPR Politics",
+        "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
+        "publicationDate": "2026-09-16",
+        "category": "Foreign Policy",
+        "summary": "The legislation was named for the late South Carolina Republican. It gives the president authority to impose tariffs on top importers of oil and natural gas from Russia, such as China and India.",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham"
+    },
+    {
         "id": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
         "source": "NPR Politics",
-        "title": "House holds billionaire Leon Black in contempt of Congress",
+        "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
         "publicationDate": "2026-09-16",
         "category": "Other",
         "summary": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it's up to the Department of Justice whether to pursue criminal charges.",
@@ -164,7 +200,7 @@
     {
         "id": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
         "source": "NPR Politics",
-        "title": "DOJ charges Russian agents with plotting attacks, including in US",
+        "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
         "publicationDate": "2026-09-16",
         "category": "Foreign Policy",
         "summary": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out external attacks\" worldwide.",
@@ -180,103 +216,121 @@
         "url": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat"
     },
     {
-        "id": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
-        "source": "NPR Politics",
-        "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
+        "id": "https://www.pbs.org/newshour/politics/speaker-johnson-recesses-house-early-blocking-massies-push-to-impeach-hegseth",
+        "source": "PBS NewsHour Politics",
+        "title": "Speaker Johnson recesses House early, blocking Massie's push to impeach Hegseth",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "Massie's resolution to impeach Defense Secretary Pete Hegseth over the war in Iran and his bipartisan effort to force the release of more files in the Jeffrey Epstein investigation are all being left behind, blocked from votes.",
+        "url": "https://www.pbs.org/newshour/politics/speaker-johnson-recesses-house-early-blocking-massies-push-to-impeach-hegseth"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/interest-rate-hike-a-reassuring-sign-fed-is-acting-independently-economist-says",
+        "source": "PBS NewsHour Politics",
+        "title": "Interest rate hike a 'reassuring' sign Fed is acting independently, economist says",
+        "publicationDate": "2026-09-16",
+        "category": "Economy",
+        "summary": "The Federal Reserve raised interest rates by a quarter of a point, the first hike in three years. It comes as the war in Iran continues to put pressure on prices and is the first major move by Fed Chair Kevin Warsh to combat elevated inflation. Geoff Bennett discussed more with economist Julia Coronado of MacroPolicy Perspectives.",
+        "url": "https://www.pbs.org/newshour/show/interest-rate-hike-a-reassuring-sign-fed-is-acting-independently-economist-says"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/how-nearly-7-months-of-war-have-changed-daily-life-in-iran",
+        "source": "PBS NewsHour Politics",
+        "title": "How nearly 7 months of war have changed daily life in Iran",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "For the third time, the House of Representatives voted to end the war with Iran. That war powers resolution would stop President Trump from continuing military action against Iran without congressional approval, but it still needs to pass the Senate. The push comes more than six months into a conflict Trump said would last weeks. Amna Nawaz discussed more with special correspondent Reza Sayah.",
+        "url": "https://www.pbs.org/newshour/show/how-nearly-7-months-of-war-have-changed-daily-life-in-iran"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/news-wrap-johnson-recesses-house-early",
+        "source": "PBS NewsHour Politics",
+        "title": "News Wrap: Johnson recesses House early",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "In our news wrap Wednesday, Speaker Mike Johnson says the U.S. House will head to recess a day early amid an effort to impeach Defense Secretary Pete Hegseth, fencing has gone up around the Kennedy Center a day after President Trump's hand-picked board voted to close it for repairs and a news helicopter crash in Los Angeles killed three people.",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-johnson-recesses-house-early"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/cuban-official-on-trumps-threats-as-tensions-with-u-s-rise",
+        "source": "PBS NewsHour Politics",
+        "title": "Cuban official on Trump's threats as tensions with U.S. rise",
         "publicationDate": "2026-09-16",
         "category": "Foreign Policy",
-        "summary": "The New Yorker 's Dexter Filkins says while Trump's son-in-law is a U.S. special envoy negotiating peace, he's also working on private business deals, raising billions in some of the same countries.",
-        "url": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business"
+        "summary": "For months, the Trump administration has ramped up pressure and threats against Cuba. A de facto oil blockade now means hours of blackouts, plus food and water shortages for millions on the island. While President Trump has threatened a takeover, Cuban officials say they're still willing to talk. Amna Nawaz discussed the tensions with Carlos Fernández de Cossío, Cuba's deputy foreign minister.",
+        "url": "https://www.pbs.org/newshour/show/cuban-official-on-trumps-threats-as-tensions-with-u-s-rise"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/the-one-issue-where-republicans-and-democrats-are-unified-before-the-midterms-according-to-this-poll",
-        "source": "PBS NewsHour Politics",
-        "title": "The one issue where Republicans and Democrats are unified before the midterms, according to this poll",
-        "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "Americans have grown more concerned about the environmental impacts of artificial intelligence over the last year, according to a new poll from The Associated Press-NORC Center for Public Affairs Research and the Energy Policy Institute at the University of Chicago.",
-        "url": "https://www.pbs.org/newshour/politics/the-one-issue-where-republicans-and-democrats-are-unified-before-the-midterms-according-to-this-poll"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-administration-has-cut-or-frozen-177-billion-in-grants-across-every-state-analysis-shows",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump administration has cut or frozen $177 billion in grants across every state, analysis shows",
-        "publicationDate": "2026-09-16",
-        "category": "Healthcare",
-        "summary": "Among the grants that were eliminated, frozen or delayed were ones related to maternal health in Michigan, education research in Mississippi and assistance to minority farmers in Iowa, the researchers found.",
-        "url": "https://www.pbs.org/newshour/politics/trump-administration-has-cut-or-frozen-177-billion-in-grants-across-every-state-analysis-shows"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/world/iran-war-has-cost-the-u-s-more-than-38-billion-so-far-budget-office-says",
-        "source": "PBS NewsHour Politics",
-        "title": "Iran war has cost the U.S. more than $38 billion so far, budget office says",
-        "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "The estimates come largely from replacing munitions and equipment lost in battle, the CBO said, and do not include costs related to U.S. military personnel killed or injured in the conflict or longer term effects.",
-        "url": "https://www.pbs.org/newshour/world/iran-war-has-cost-the-u-s-more-than-38-billion-so-far-budget-office-says"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/fencing-goes-up-around-the-main-kennedy-center-building-after-trump-aligned-board-votes-to-close-it",
-        "source": "PBS NewsHour Politics",
-        "title": "Fencing goes up around the main Kennedy Center building after Trump-aligned board votes to close it",
-        "publicationDate": "2026-09-16",
-        "category": "arts",
-        "summary": "Fencing went up Wednesday around the main Kennedy Center building, a day after the Trump-aligned board voted to close most of the performing arts center for repairs. A Democratic congresswoman who is a trustee quickly sought an emergency court hearing to prevent what she called the \"unlawful closing.\"",
-        "url": "https://www.pbs.org/newshour/politics/fencing-goes-up-around-the-main-kennedy-center-building-after-trump-aligned-board-votes-to-close-it"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/house-votes-to-hold-billionaire-leon-black-in-contempt-of-congress-over-epstein-investigation",
-        "source": "PBS NewsHour Politics",
-        "title": "House votes to hold billionaire Leon Black in contempt of Congress over Epstein investigation",
-        "publicationDate": "2026-09-16",
-        "category": "congress",
-        "summary": "The House approved a resolution Wednesday holding billionaire Leon Black in contempt of Congress, referring the matter to the Department of Justice after he defied the Oversight Committee's subpoenas in its investigation into disgraced financier Jeffrey Epstein.",
-        "url": "https://www.pbs.org/newshour/politics/house-votes-to-hold-billionaire-leon-black-in-contempt-of-congress-over-epstein-investigation"
-    },
-    {
-        "id": "https://thehill.com/homenews/house/6093976-house-russia-sanctions-bill-passes-trump/",
+        "id": "https://thehill.com/homenews/6093413-travelers-rated-these-airports-highest-for-2026-is-yours-on-the-list/",
         "source": "The Hill",
-        "title": "House passes Russia sanctions bill, sending it to Trump’s desk",
+        "title": "Travelers rated these airports highest for 2026. Is yours on the list?",
         "publicationDate": "2026-09-16",
-        "category": "Foreign Policy",
-        "summary": "The House on Wednesday passed legislation granting President Trump tariff authorities to sanction countries purchasing Russian energy and impose tougher sanctions against the Kremlin over its war in Ukraine. The bill will now be sent to Trump’s desk for his signature, marking the end of a more than year and a half journey for legislation...",
-        "url": "https://thehill.com/homenews/house/6093976-house-russia-sanctions-bill-passes-trump/"
+        "category": "News",
+        "summary": "Flying itself can be stressful, but passengers say some airports are doing a better job than others when it comes to the airport experience, according to a new study released Wednesday.",
+        "url": "https://thehill.com/homenews/6093413-travelers-rated-these-airports-highest-for-2026-is-yours-on-the-list/"
     },
     {
-        "id": "https://thehill.com/policy/energy-environment/6094229-tharold-hamms-continental-venezuela-oil/",
+        "id": "https://thehill.com/homenews/administration/6094303-trump-blames-fed-rate-hike/",
         "source": "The Hill",
-        "title": "Trump donor Harold Hamm's oil company announces Venezuela deal",
-        "publicationDate": "2026-09-16",
-        "category": "Energy & Environment",
-        "summary": "Trump donor Harold Hamm’s oil company Continental Resources announced a deal Wednesday to drill in Venezuela. Continental signed a memorandum of understanding with Venezuela’s state-run oil company that would allow it to operate in a 126,000 acre-area of the oil-rich Orinoco Belt, according to a press release. \"Continental was built to recognize great resource opportunities and...",
-        "url": "https://thehill.com/policy/energy-environment/6094229-tharold-hamms-continental-venezuela-oil/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/defense-national-security/6094207-trump-hands-off-houthis-saudis-arent-happy/",
-        "source": "The Hill",
-        "title": "Trump is hands-off on Houthis and the Saudis aren't happy",
-        "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Trump is hands-off on Houthis and the Saudis aren't happy President Trump is taking a notably hands-off approach as Iran-backed Houthi rebels in Yemen rapidly gain ground in their bid to secure a Red Sea choke...",
-        "url": "https://thehill.com/newsletters/defense-national-security/6094207-trump-hands-off-houthis-saudis-arent-happy/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6094142-paul-kennedy-ai-kill-switch/",
-        "source": "The Hill",
-        "title": "Republicans clash on Senate floor over AI kill switch",
-        "publicationDate": "2026-09-16",
-        "category": "Senate",
-        "summary": "Sen. Rand Paul (R-Ky.) on Wednesday blocked a request by Sen. John Kennedy (R-La.) to pass legislation that would require tech companies to develop a “kill switch” for superintelligent AI amid fears that it could spin out of control and pose an existential threat to humanity. Paul argued that an “open-ended” government mandate to implement...",
-        "url": "https://thehill.com/homenews/senate/6094142-paul-kennedy-ai-kill-switch/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6094047-warsh-defies-trump-rate-cut/",
-        "source": "The Hill",
-        "title": "Federal Reserve delivers unwelcome news to Trump",
+        "title": "Trump blames Fed board, not Warsh, for rate hikes",
         "publicationDate": "2026-09-16",
         "category": "Administration",
-        "summary": "President Trump received unpleasant news on Wednesday after Federal Reserve Chair Kevin Warsh moved to raise interest rates despite the president's calls for rates to come down. The Federal Reserve announced on Wednesday that it will hike interest rates by 0.25 percent to 4.0 percent, marking the first time the body has raised rates in...",
-        "url": "https://thehill.com/homenews/administration/6094047-warsh-defies-trump-rate-cut/"
+        "summary": "President Trump on Wednesday praised Federal Reserve Chair Kevin Warsh, blaming the board instead for the interest rate increase. “I'm relying on Kevin, but he's got a very tough board,” Trump told reporters after landing in North Carolina. “He's got a board that was put there by a lot of other people.” “I told Kevin,...",
+        "url": "https://thehill.com/homenews/administration/6094303-trump-blames-fed-rate-hike/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/healthcare/6094294-cassidy-trumps-handling-of-measles-a-terrible-legacy/",
+        "source": "The Hill",
+        "title": "Cassidy: Trump’s handling of measles a 'terrible legacy'",
+        "publicationDate": "2026-09-16",
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Cassidy: Trump’s handling of measles a “terrible legacy” Senate Health Committee chairman Bill Cassidy (R-La.) on Wednesday called the Trump administration’s handling of measles outbreaks a “terrible legacy,” as he cited recent deaths in Pennsylvania. © AP Photo/Manuel Balce Ceneta...",
+        "url": "https://thehill.com/newsletters/healthcare/6094294-cassidy-trumps-handling-of-measles-a-terrible-legacy/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6094202-sabatos-crystal-ball-shifts-house/",
+        "source": "The Hill",
+        "title": "8 House races shift in Democrats' favor: Sabato's Crystal Ball",
+        "publicationDate": "2026-09-16",
+        "category": "Campaign",
+        "summary": "Election handicapper Sabato’s Crystal Ball shifted eight House races in the direction of Democrats on Wednesday, underscoring seven weeks ahead of the November midterm elections that the number of competitive districts is growing. Two races shifted from \"leans Republican\" to \"toss-ups\" in the handicapper's ratings — the open seat in Iowa's 2nd Congressional District, and...",
+        "url": "https://thehill.com/homenews/campaign/6094202-sabatos-crystal-ball-shifts-house/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/16/upshot/trump-arch-washington.html",
+        "source": "New York Times Politics",
+        "title": "Park Service Steamrolls Through Review of Trump’s Arch",
+        "publicationDate": "2026-09-16",
+        "category": "National Parks",
+        "summary": "Despite objections from preservationists, final approval for the 250-foot-tall monument appears on track for November.",
+        "url": "https://www.nytimes.com/2026/09/16/upshot/trump-arch-washington.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/16/us/politics/house-passes-bill-taking-aim-at-data-center-electricity-costs.html",
+        "source": "New York Times Politics",
+        "title": "House Passes Bill Taking Aim at Data Center Electricity Costs",
+        "publicationDate": "2026-09-16",
+        "category": "Data Centers",
+        "summary": "The measure would direct state regulators to consider rules requiring data centers to cover higher energy costs, but it would not compel them to do so.",
+        "url": "https://www.nytimes.com/2026/09/16/us/politics/house-passes-bill-taking-aim-at-data-center-electricity-costs.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html",
+        "source": "New York Times Politics",
+        "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
+        "publicationDate": "2026-09-16",
+        "category": "Foreign Policy",
+        "summary": "The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.",
+        "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/16/us/politics/trump-midterms-senate-map.html",
+        "source": "New York Times Politics",
+        "title": "Here’s a Guide to the Midterm Sprint",
+        "publicationDate": "2026-09-16",
+        "category": "Politics and Government",
+        "summary": "We break down the state of the race.",
+        "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-midterms-senate-map.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/16/us/politics/trump-congress-russia-sanctions.html",
@@ -288,40 +342,22 @@
         "url": "https://www.nytimes.com/2026/09/16/us/politics/trump-congress-russia-sanctions.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/16/us/politics/primary-season-takeaways.html",
-        "source": "New York Times Politics",
-        "title": "Snubs, Flubs and Dueling Dan Sullivans: A Wild Primary Season Comes to a Close",
+        "id": "https://www.washingtonpost.com/politics/2026/09/16/house-attempts-empower-states-lower-data-center-costs/",
+        "source": "Washington Post Politics",
+        "title": "House passes bill attempting to lower data center costs",
         "publicationDate": "2026-09-16",
-        "category": "internal-open-access-from-nl",
-        "summary": "A look back at the good, the bad and the bizarre from the battles that helped set the stage for the coming midterms.",
-        "url": "https://www.nytimes.com/2026/09/16/us/politics/primary-season-takeaways.html"
+        "category": "Other",
+        "summary": "The bill, one of Congress’s first efforts to rein in the unpopular facilities, was approved with overwhelming bipartisan support but is unlikely to lower prices immediately.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/16/house-attempts-empower-states-lower-data-center-costs/"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
-        "source": "New York Times Politics",
-        "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+        "id": "https://www.washingtonpost.com/style/2026/09/16/last-day-kennedy-center/",
+        "source": "Washington Post Politics",
+        "title": "The last day at the Kennedy Center",
         "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
-        "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html",
-        "source": "New York Times Politics",
-        "title": "Why Israel Wants More One-Ton Bombs From the U.S.",
-        "publicationDate": "2026-09-16",
-        "category": "Israel-Gaza War (2023- )",
-        "summary": "The Trump administration plans to deliver 60,000 of the powerful munitions at a time when opposition is growing in Washington to arms sales to Israel.",
-        "url": "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/16/us/politics/senate-regulates-college-sports.html",
-        "source": "New York Times Politics",
-        "title": "Senate Takes Up Bill to Regulate ‘Wild West’ of Collegiate Sports",
-        "publicationDate": "2026-09-16",
-        "category": "United States Politics and Government",
-        "summary": "Critics argue the legislation would limit the rights of college athletes while maintaining the power and financial gains of schools and coaches.",
-        "url": "https://www.nytimes.com/2026/09/16/us/politics/senate-regulates-college-sports.html"
+        "category": "Other",
+        "summary": "An eerie silence, empty halls and security guards marked the end, at least for now, of a once-vibrant public space.",
+        "url": "https://www.washingtonpost.com/style/2026/09/16/last-day-kennedy-center/"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/09/16/afghan-terrorist-gets-20-years-role-deadly-2021-attack-kabul-airport/",
@@ -351,31 +387,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/16/trump-officials-say-planned-arch-will-harm-historic-sites-must-go/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/16/senate-republicans-manage-advance-farm-bill-with-mcconnells-return/",
-        "source": "Washington Post Politics",
-        "title": "Senate Republicans manage to advance farm bill with McConnell’s return",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "The measure still faces significant challenges as Democrats demand changes to SNAP provisions.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/16/senate-republicans-manage-advance-farm-bill-with-mcconnells-return/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/16/susie-wiles-trumps-chief-staff-says-she-is-cancer-free/",
-        "source": "Washington Post Politics",
-        "title": "Susie Wiles, Trump’s chief of staff, says she is cancer-free",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Wiles had continued working at the White House while undergoing treatment.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/16/susie-wiles-trumps-chief-staff-says-she-is-cancer-free/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US interest rates raised for first time in three years",
+        "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
         "publicationDate": "2026-09-16",
         "category": "Other",
-        "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+        "summary": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+        "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
@@ -387,24 +405,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
@@ -414,49 +414,49 @@
         "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84",
-        "source": "Financial Times World",
-        "title": "Trump calls for rates to be 1% or less after Fed tightens monetary policy",
-        "publicationDate": "2026-09-16",
-        "category": "Other",
-        "summary": "President urges policymakers to act for the sake of the country as rate-setters lift borrowing costs for first time since 2023",
-        "url": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84"
-    },
-    {
         "id": "https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Federal Reserve defies Trump with first rate rise since 2023",
+        "title": "Fed defies Trump with first rate rise since 2023",
         "publicationDate": "2026-09-16",
         "category": "Economy",
-        "summary": "Central bank signals willingness for further action as chair Kevin Warsh warns that ‘inflation is too high and has been for too long’",
+        "summary": "President calls for 1% borrowing costs after US central bank signals willingness for further action to cool inflation",
         "url": "https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/3dacfbb9-e7ec-4286-b161-1f86bcd761cb?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/850f7679-5104-4f7e-af27-93bf42be15a5?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Healey prepares UK for ‘really challenging’ Budget",
+        "title": "UK ministers look at overhauling disability assessments to cut welfare bill",
         "publicationDate": "2026-09-16",
-        "category": "Economy",
-        "summary": "Chancellor’s allies say wars in the Middle East and Ukraine are having a ‘significant impact on the economy’",
-        "url": "https://www.ft.com/content/3dacfbb9-e7ec-4286-b161-1f86bcd761cb?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Sir Stephen Timms is drawing up plans for reform of personal independence payments",
+        "url": "https://www.ft.com/content/850f7679-5104-4f7e-af27-93bf42be15a5?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/b990fc74-9efe-4de0-a6ca-64427e6e4f84",
+        "id": "https://www.ft.com/content/31c4d674-0434-4d43-921c-7fab762080d7?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Federal Reserve raises fed funds rate with likely more to come",
+        "title": "Cut ‘net zero’ from name of UK net zero department, MPs urge",
         "publicationDate": "2026-09-16",
-        "category": "Economy",
-        "summary": "Its decision was accompanied by new inflation and interest rate forecasts showing that most policymakers expect one more tightening this year",
-        "url": "https://www.ft.com/content/b990fc74-9efe-4de0-a6ca-64427e6e4f84"
+        "category": "Other",
+        "summary": "Cross-party group says term has become ‘lightning rod for opposition to climate action’",
+        "url": "https://www.ft.com/content/31c4d674-0434-4d43-921c-7fab762080d7?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/7be92efe-13d6-4d02-9f77-0e8229b3b8fa?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/e1f59abc-6ecf-4cef-80aa-75d201f731d0?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Trump oil ally Harold Hamm to invest in Venezuela",
+        "title": "Breast cancer drug approved after UK pharma deal with Trump",
         "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "Move by Continental Resources marks latest foray by a western oil producer into the country after US military seized president Nicolás Maduro",
-        "url": "https://www.ft.com/content/7be92efe-13d6-4d02-9f77-0e8229b3b8fa?syn-25a6b1a6=1"
+        "category": "Healthcare",
+        "summary": "Medicine previously rejected by watchdog in England on cost grounds will now be available to about 1,000 women a year",
+        "url": "https://www.ft.com/content/e1f59abc-6ecf-4cef-80aa-75d201f731d0?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/e5894dfc-6b4a-4f80-be02-676dee6b4176?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "LVMH scion Alexandre Arnault appointed to Nike board",
+        "publicationDate": "2026-09-16",
+        "category": "Other",
+        "summary": "Son of luxury boss Bernard Arnault joins sportswear brand as it attempts turnaround",
+        "url": "https://www.ft.com/content/e5894dfc-6b4a-4f80-be02-676dee6b4176?syn-25a6b1a6=1"
     },
     {
         "id": "R46435",
@@ -609,7 +609,7 @@
         "publicationDate": "2026-09-14",
         "category": "Economy",
         "summary": "The Office of Management and Budget (OMB) oversees the collection of race and ethnicity data through Statistical Policy Directive (SPD) No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity. SPD No. 15 intends to “ensure the comparability of race and ethnicity across Federal datasets and to maximize the quality of that data by ensuring that the format, language, and...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12304/IN12304.7.pdf"
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12304/IN12304.8.pdf"
     },
     {
         "id": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security",
