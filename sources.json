@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://ecfr.eu/podcasts/episode/ukraines-winter-of-pressure/",
+        "source": "European Council on Foreign Relations",
+        "title": "Ukraine’s Winter of Pressure",
+        "publicationDate": "2026-09-18",
+        "category": "Foreign Policy",
+        "summary": "Mark Leonard welcomes Jana Kobzova to discuss the mountain pressure on Ukraine and how Europe can help it weather another wartime winter",
+        "url": "https://ecfr.eu/podcasts/episode/ukraines-winter-of-pressure/"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/18/nx-s1-5965823/ice-polling-places-concerns-lawsuits",
+        "source": "NPR Politics",
+        "title": "It's illegal for armed federal officers to be at polls. Lawsuits seek to ensure that",
+        "publicationDate": "2026-09-18",
+        "category": "Other",
+        "summary": "The latest lawsuit, first reported by NPR, argues the Trump administration's repeated suggestions that federal officers could be at polling sites is a form of illegal voter intimidation.",
+        "url": "https://www.npr.org/2026/09/18/nx-s1-5965823/ice-polling-places-concerns-lawsuits"
+    },
+    {
+        "id": "https://thehill.com/policy/energy-environment/6097215-new-mexico-screwworm-horse-confirmed/",
+        "source": "The Hill",
+        "title": "Horse in New Mexico infected with screwworm before Mexico livestock imports resume",
+        "publicationDate": "2026-09-18",
+        "category": "Energy & Environment",
+        "summary": "A new case of New World screwworm was confirmed in a horse in New Mexico Thursday, days before the state was set to resume livestock imports from Mexico. The infected horse was in Grant County near the Mexican border, according to the Department of Agriculture. It is the second confirmed case in New Mexico since...",
+        "url": "https://thehill.com/policy/energy-environment/6097215-new-mexico-screwworm-horse-confirmed/"
+    },
+    {
         "id": "https://thehill.com/homenews/senate/6097194-tillis-calls-for-hegseth-impeachment/",
         "source": "The Hill",
         "title": "Tillis supports Hegseth impeachment resolution: 'He needs to go'",
@@ -18,13 +45,13 @@
         "url": "https://thehill.com/policy/defense/6097148-pentagon-new-male-testosterone-screening/"
     },
     {
-        "id": "https://thehill.com/homenews/6097091-trump-executive-order-hunting-restrictions/",
+        "id": "https://thehill.com/homenews/administration/6097091-trump-executive-order-hunting-restrictions/",
         "source": "The Hill",
         "title": "Trump signs orders loosening hunting restrictions, teases Outdoors Act '2.0'",
         "publicationDate": "2026-09-18",
-        "category": "News",
+        "category": "Administration",
         "summary": "President Trump hosted over 100 hunters, anglers and outdoor industry officials for a dinner in the Rose Garden Thursday to announce executive orders rolling back certain hunting and fishing restrictions. “We believe that public lands belong to the American people and to the public, and hunters, fishers, and outdoorsmen should be able to access them,”...",
-        "url": "https://thehill.com/homenews/6097091-trump-executive-order-hunting-restrictions/"
+        "url": "https://thehill.com/homenews/administration/6097091-trump-executive-order-hunting-restrictions/"
     },
     {
         "id": "https://thehill.com/newsletters/energy-environment/6096975-trump-memo-reduces-esa-protections-newsletter/",
@@ -34,15 +61,6 @@
         "category": "Energy & Environment Newsletter",
         "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump administration memo reduces ESA protections The Trump administration has further reduced protections for wildlife and plants under the Endangered Species Act (ESA). © Joy Asico, Associated Press Content Services for Center for Biological Diversity The law prohibits any “take” of endangered species — meaning...",
         "url": "https://thehill.com/newsletters/energy-environment/6096975-trump-memo-reduces-esa-protections-newsletter/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/defense-national-security/6097079-state-department-oks-potential-24b-fighter-jet-sale-to-saudis/",
-        "source": "The Hill",
-        "title": "State Department OKs potential $24B fighter jet sale to Saudis",
-        "publicationDate": "2026-09-18",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story State Department OKs potential $24B fighter jet sale to Saudis The State Department announced Thursday that it approved a potential $24 billion sale of F-35 fighter jets to Saudi Arabia, despite worries from defense officials and lawmakers...",
-        "url": "https://thehill.com/newsletters/defense-national-security/6097079-state-department-oks-potential-24b-fighter-jet-sale-to-saudis/"
     },
     {
         "id": "https://www.nytimes.com/2026/09/17/us/politics/trump-f35-jet-saudi-arabia.html",
@@ -81,31 +99,76 @@
         "url": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html"
     },
     {
-        "id": "https://www.ft.com/content/83d10214-e315-4f87-81dd-99d86d5ba73c?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/5aef2e95-4a0f-4bc7-bb79-66e8f8c0247a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Meta in Indian government’s crosshairs",
+        "title": "British retail sales rose 0.5% in August as hot weather boosted spending",
+        "publicationDate": "2026-09-18",
+        "category": "Economy",
+        "summary": "Figures suggest consumers remained resilient despite mounting pressure on household finances",
+        "url": "https://www.ft.com/content/5aef2e95-4a0f-4bc7-bb79-66e8f8c0247a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/76616441-6419-4792-9d27-31c5fa436dc4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Thames Water should be temporarily placed under public ownership, MPs warn",
         "publicationDate": "2026-09-18",
         "category": "Other",
-        "summary": "Also in this newsletter: new charges for digital payments",
-        "url": "https://www.ft.com/content/83d10214-e315-4f87-81dd-99d86d5ba73c?syn-25a6b1a6=1"
+        "summary": "Move would be ‘cost neutral’ for the Treasury while protecting 16mn customers served by UK utility, cross-party parliamentary committee says",
+        "url": "https://www.ft.com/content/76616441-6419-4792-9d27-31c5fa436dc4?syn-25a6b1a6=1"
     },
     {
-        "id": "IF13315",
-        "source": "Congressional Research Service",
-        "title": "Selected Federal Legislation on Search and Seizure Authority",
-        "publicationDate": "2026-09-17",
-        "category": "Defense",
-        "summary": "The Fourth Amendment protects the “right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures[.]” As interpreted by the Supreme Court, the Amendment imposes certain limits on searches and seizures by the government. Within these limits, Congress has the option to further restrict or explicitly authorize a variety of law enforcement activities by...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13315/IF13315.2.pdf"
+        "id": "https://www.ft.com/content/901d5aca-e0ab-4728-8a24-6b0e616c5139?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The QT endgame at the BoE",
+        "publicationDate": "2026-09-18",
+        "category": "Other",
+        "summary": "Still trying for boring",
+        "url": "https://www.ft.com/content/901d5aca-e0ab-4728-8a24-6b0e616c5139?syn-25a6b1a6=1"
     },
     {
-        "id": "IF10733",
+        "id": "https://www.ft.com/content/12d6fd02-c2de-4774-8bea-4d9ddbae643d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU mulls compromise options on Usmanov sanctions to end French stand-off",
+        "publicationDate": "2026-09-18",
+        "category": "Other",
+        "summary": "Also in this newsletter: EU commissioner warns of AI ‘arms race’",
+        "url": "https://www.ft.com/content/12d6fd02-c2de-4774-8bea-4d9ddbae643d?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f89ed081-c025-4d69-bc41-9f5564c8b441?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: Merz fights for survival",
+        "publicationDate": "2026-09-18",
+        "category": "Economy",
+        "summary": "Also in today’s newsletter: Turkish funds freeze and French budget",
+        "url": "https://www.ft.com/content/f89ed081-c025-4d69-bc41-9f5564c8b441?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R45997",
         "source": "Congressional Research Service",
-        "title": "U.S.-South Korea Bilateral Trade Relations",
+        "title": "Federal Regional Commissions and Authorities: Structural Features and Function",
         "publicationDate": "2026-09-17",
-        "category": "Defense",
-        "summary": "South Korea (or the Republic of Korea, ROK), a U.S. ally since 1953, is one of the United States’ most important economic partners in Asia. It is the eighth-largest U.S. goods trading partner and a major source of inbound and destination for outbound U.S. foreign direct investment (FDI). The U.S.-South Korea Free Trade Agreement (KORUS FTA) entered into force in March 2012 and has become the second-largest U.S. FTA...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10733/IF10733.21.pdf"
+        "category": "Other",
+        "summary": "This report describes the structure, activities, legislative history, and funding history of the 11 federal regional commissions and authorities. Those commissions and authorities are the Appalachian Regional Commission; Delta Regional Authority; Denali Commission; Great Lakes Authority; Mid-Atlantic Regional Commission; Northern Border Regional Commission; Northern Great Plains Regional Authority; Northwest...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45997/R45997.38.pdf"
+    },
+    {
+        "id": "IF13314",
+        "source": "Congressional Research Service",
+        "title": "The IRS Direct File Program",
+        "publicationDate": "2026-09-17",
+        "category": "Economy",
+        "summary": "The IRS Direct File (DF) program provided certain taxpayers with the option of electronically filing (e-filing) their federal tax return through a free, secure portal on the IRS website during the 2024 and 2025 filing seasons. The Department of the Treasury (Treasury) suspended the DF program in October 2025. This In Focus provides an overview of the DF program, including its implementation and expansion,...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13314/IF13314.2.pdf"
+    },
+    {
+        "id": "LSB11413",
+        "source": "Congressional Research Service",
+        "title": "Updates on Litigation over the IRS-ICE Information-Sharing Agreement",
+        "publicationDate": "2026-09-17",
+        "category": "Economy",
+        "summary": "In 2025, the Internal Revenue Service (IRS) and Immigration and Customs Enforcement (ICE) within the Department of Homeland Security (DHS) entered into a Memorandum of Understanding (information-sharing agreement) to establish procedures between the two agencies to share information for the enforcement of criminal immigration laws. The initiative has been the subject of ongoing legal challenges, both to the...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11413/LSB11413.2.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/guide-trumps-section-232-tariffs-nine-maps",
@@ -279,15 +342,6 @@
         "url": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china"
     },
     {
-        "id": "https://www.npr.org/2026/09/17/nx-s1-5961533/growing-number-of-gop-candidates-are-using-anti-muslim-rhetoric-on-the-campaign-trail",
-        "source": "NPR Politics",
-        "title": "Growing number of GOP candidates are using anti-Muslim rhetoric on the campaign trail",
-        "publicationDate": "2026-09-17",
-        "category": "Economy",
-        "summary": "Anti-Muslim rhetoric has become increasingly common on the campaign trail at a moment when many Republicans are eager to shift attention away from the economy.",
-        "url": "https://www.npr.org/2026/09/17/nx-s1-5961533/growing-number-of-gop-candidates-are-using-anti-muslim-rhetoric-on-the-campaign-trail"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/watch-rfk-jr-speaks-at-conference-for-anti-vaccine-group-he-founded",
         "source": "PBS NewsHour Politics",
         "title": "WATCH: RFK Jr. speaks at conference for anti-vaccine group he founded",
@@ -414,6 +468,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+        "publicationDate": "2026-09-17",
+        "category": "Other",
+        "summary": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+        "url": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
@@ -423,67 +486,13 @@
         "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-        "publicationDate": "2026-09-17",
-        "category": "Foreign Policy",
-        "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
-        "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/ad358e9f-4daf-4a2a-a100-3c1effa6de11?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "French premier Lecornu proposes big spending cuts to reduce deficit",
-        "publicationDate": "2026-09-17",
-        "category": "Economy",
-        "summary": "France’s minority government heads for a showdown with parliament over the country’s budget",
-        "url": "https://www.ft.com/content/ad358e9f-4daf-4a2a-a100-3c1effa6de11?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/76616441-6419-4792-9d27-31c5fa436dc4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Thames Water should be temporarily placed under public ownership, MPs warn",
-        "publicationDate": "2026-09-17",
-        "category": "Other",
-        "summary": "Move would be ‘cost neutral’ for the Treasury while protecting 16mn customers served by UK utility, cross-party parliamentary committee says",
-        "url": "https://www.ft.com/content/76616441-6419-4792-9d27-31c5fa436dc4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/50f1f686-528c-4c1c-b014-e628da7c055f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK losing £1.3mn a day on nationalised steelworks",
-        "publicationDate": "2026-09-17",
-        "category": "Other",
-        "summary": "MPs hit out at lack of plan for British Steel as ministers weigh new intervention in sector",
-        "url": "https://www.ft.com/content/50f1f686-528c-4c1c-b014-e628da7c055f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump administration approves $24bn sale of F-35 jets to Saudi Arabia",
-        "publicationDate": "2026-09-17",
-        "category": "Other",
-        "summary": "Deal comes amid escalation in Middle East conflict — but transfer likely to face opposition in US Congress",
-        "url": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1"
-    },
-    {
-        "id": "IF11365",
+        "id": "R49352",
         "source": "Congressional Research Service",
-        "title": "U.S. Court of Appeals for Veterans Claims: A Brief Introduction",
-        "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "The U.S. Court of Appeals for Veterans Claims (CAVC) provides the exclusive forum for veterans and other claimants, such as veterans’ surviving spouses, to appeal U.S. Department of Veterans Affairs (VA) decisions denying various veterans’ benefits. This In Focus describes the CAVC’s creation, jurisdiction, authority, and procedures before identifying several issues that may interest the 119th Congress. Creation...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11365/IF11365.5.pdf"
-    },
-    {
-        "id": "IN12737",
-        "source": "Congressional Research Service",
-        "title": "Poverty in 2025",
+        "title": "Mongolia: In Brief",
         "publicationDate": "2026-09-16",
         "category": "Economy",
-        "summary": "The official poverty rate in the United States, or percentage of people who live in poverty, fell to 10.2% in 2025, down from 10.7% the previous year. In 2025, 34.5 million people lived in poverty, down 1.5 million from the previous year. This decline in the national official poverty rate was reflected in poverty rate declines among children (13.4% in 2025, down from 14.4% in 2024), adults ages 18 to 64 (9.2%, down...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12737/IN12737.1.pdf"
+        "summary": "Mongolia is a landlocked, mineral-rich country about the size of Alaska with a population of 3.6 million; it shares borders with two powerful neighbors, Russia and the People’s Republic of China (PRC, or China). Mongolia has long sought to maintain good relations with Russia and China, while pursuing a “third neighbor” policy that emphasizes developing relationships outside of its immediate neighborhood, including...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49352/R49352.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5130-1.html",
@@ -612,15 +621,6 @@
         "url": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security"
     },
     {
-        "id": "IN12697",
-        "source": "Congressional Research Service",
-        "title": "May 2026 Proposed Rule on Uniform Guidance for Federal Grants: Summary of Selected Changes",
-        "publicationDate": "2026-09-11",
-        "category": "Economy",
-        "summary": "On May 29, 2026, the Office of Management and Budget (OMB), alongside 41 other executive agencies and departments, issued a notice of proposed rulemaking (NPRM) to amend provisions of the Code of Federal Regulations codified at 2 C.F.R. Part 200. 2 C.F.R. Part 200, formally known as the “Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards” (Uniform Guidance, or UG),...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12697/IN12697.4.pdf"
-    },
-    {
         "id": "https://ecfr.eu/article/remembering-emma-bonino/",
         "source": "European Council on Foreign Relations",
         "title": "Remembering Emma Bonino",
@@ -628,15 +628,6 @@
         "category": "Foreign Policy",
         "summary": "ECFR founding member and co-chair emerita Emma Bonino has died at the age of 78. A towering figure in European foreign policy, she was an inspiration to millions across the continent. She left a deep mark on European and Italian politics, and on ECFR",
         "url": "https://ecfr.eu/article/remembering-emma-bonino/"
-    },
-    {
-        "id": "https://ecfr.eu/article/the-eus-unfinished-business-in-the-western-balkans/",
-        "source": "European Council on Foreign Relations",
-        "title": "The EU’s unfinished business in the Western Balkans",
-        "publicationDate": "2026-09-11",
-        "category": "ECFR Council",
-        "summary": "Montenegro and Albania are moving closer to EU membership. But Brussels should not forget its responsibility towards the Western Balkans as a whole",
-        "url": "https://ecfr.eu/article/the-eus-unfinished-business-in-the-western-balkans/"
     },
     {
         "id": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe",
@@ -673,5 +664,14 @@
         "category": "Economy",
         "summary": "Mailings survery August 26 (249 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Kate Mullineux Too much A weekly newsletter with links to all content kate@cer.eu 2026-08-06 Godfried De Vidts About right gadv@gadv.be all good,...",
         "url": "https://www.cer.eu/mailings-webform-report"
+    },
+    {
+        "id": "IN12519",
+        "source": "Congressional Research Service",
+        "title": "Section 232 Tariffs on Steel and Aluminum",
+        "publicationDate": "2026-05-18",
+        "category": "Economy",
+        "summary": "Since 2025, President Trump has modified existing steel and aluminum tariffs, imposed since 2018 under Section 232 of the Trade Expansion Act of 1962 (19 U.S.C. §1862). Section 232 authorizes the President to impose trade restrictions if the Secretary of Commerce determines that imports of a good threaten to impair U.S. national security. The United States imposes tariffs on steel, aluminum, and products containing...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12519/IN12519.15.pdf"
     }
 ]
