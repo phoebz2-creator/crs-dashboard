@@ -1,12 +1,93 @@
 [
     {
-        "id": "IF10733",
-        "source": "Congressional Research Service",
-        "title": "U.S.-South Korea Bilateral Trade Relations",
-        "publicationDate": "2026-09-17",
+        "id": "https://thehill.com/homenews/senate/6097194-tillis-calls-for-hegseth-impeachment/",
+        "source": "The Hill",
+        "title": "Tillis supports Hegseth impeachment resolution: 'He needs to go'",
+        "publicationDate": "2026-09-18",
         "category": "Defense",
-        "summary": "South Korea (or the Republic of Korea, ROK), a U.S. ally since 1953, is one of the United States’ most important economic partners in Asia. It is the eighth-largest U.S. goods trading partner and a major source of inbound and destination for outbound U.S. foreign direct investment (FDI). The U.S.-South Korea Free Trade Agreement (KORUS FTA) entered into force in March 2012 and has become the second-largest U.S. FTA...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10733/IF10733.21.pdf"
+        "summary": "Sen. Thom Tillis (R-N.C.), who voted to confirm Defense Secretary Pete Hegseth, is renewing his call for President Trump to fire the Pentagon chief after Army Secretary Dan Driscoll resigned. “He needs to go, whether it’s impeachment or the most expedient route — just the president to replace him — would be great,” Tillis told...",
+        "url": "https://thehill.com/homenews/senate/6097194-tillis-calls-for-hegseth-impeachment/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6097148-pentagon-new-male-testosterone-screening/",
+        "source": "The Hill",
+        "title": "Pentagon issues new guidance for testosterone testing after rescinding previous one",
+        "publicationDate": "2026-09-18",
+        "category": "Defense",
+        "summary": "The Pentagon issued new guidance late Thursday instructing mandatory testosterone deficiency screening for male active-duty and ​reserve service members over the age of 30 after temporarily rescinding previous guidance earlier this month. The department said the updated guidance will address male testosterone deficiency and establish uniform screening and treatment pathways across the Defense Health Agency...",
+        "url": "https://thehill.com/policy/defense/6097148-pentagon-new-male-testosterone-screening/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6097091-trump-executive-order-hunting-restrictions/",
+        "source": "The Hill",
+        "title": "Trump signs orders loosening hunting restrictions, teases Outdoors Act '2.0'",
+        "publicationDate": "2026-09-18",
+        "category": "News",
+        "summary": "President Trump hosted over 100 hunters, anglers and outdoor industry officials for a dinner in the Rose Garden Thursday to announce executive orders rolling back certain hunting and fishing restrictions. “We believe that public lands belong to the American people and to the public, and hunters, fishers, and outdoorsmen should be able to access them,”...",
+        "url": "https://thehill.com/homenews/6097091-trump-executive-order-hunting-restrictions/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/energy-environment/6096975-trump-memo-reduces-esa-protections-newsletter/",
+        "source": "The Hill",
+        "title": "Trump administration memo reduces ESA protections",
+        "publicationDate": "2026-09-18",
+        "category": "Energy & Environment Newsletter",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump administration memo reduces ESA protections The Trump administration has further reduced protections for wildlife and plants under the Endangered Species Act (ESA). © Joy Asico, Associated Press Content Services for Center for Biological Diversity The law prohibits any “take” of endangered species — meaning...",
+        "url": "https://thehill.com/newsletters/energy-environment/6096975-trump-memo-reduces-esa-protections-newsletter/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/defense-national-security/6097079-state-department-oks-potential-24b-fighter-jet-sale-to-saudis/",
+        "source": "The Hill",
+        "title": "State Department OKs potential $24B fighter jet sale to Saudis",
+        "publicationDate": "2026-09-18",
+        "category": "Defense",
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story State Department OKs potential $24B fighter jet sale to Saudis The State Department announced Thursday that it approved a potential $24 billion sale of F-35 fighter jets to Saudi Arabia, despite worries from defense officials and lawmakers...",
+        "url": "https://thehill.com/newsletters/defense-national-security/6097079-state-department-oks-potential-24b-fighter-jet-sale-to-saudis/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/17/us/politics/trump-f35-jet-saudi-arabia.html",
+        "source": "New York Times Politics",
+        "title": "Trump Moves Ahead With F-35 Jet Sales to Saudi Arabia Despite Intelligence Concerns",
+        "publicationDate": "2026-09-18",
+        "category": "Defense",
+        "summary": "U.S. intelligence agencies have warned in internal reports that China could acquire or steal U.S. warplane technology if F-35 jets are sent to Saudi Arabia.",
+        "url": "https://www.nytimes.com/2026/09/17/us/politics/trump-f35-jet-saudi-arabia.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/17/us/politics/institute-of-peace-trump-name.html",
+        "source": "New York Times Politics",
+        "title": "Former Institute of Peace Workers Warn Trump May Push to Engrave Name on Building",
+        "publicationDate": "2026-09-18",
+        "category": "United States Politics and Government",
+        "summary": "As part of a lawsuit, the workers have asked a federal court to stop any plans to engrave the building with President Trump’s name.",
+        "url": "https://www.nytimes.com/2026/09/17/us/politics/institute-of-peace-trump-name.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
+        "source": "New York Times Politics",
+        "title": "Blanche’s Political Campaigning Breaks an Ethical Norm Going Back to Watergate",
+        "publicationDate": "2026-09-18",
+        "category": "United States Politics and Government",
+        "summary": "The attorney general’s campaign politicking for Republicans adds to the degradation of post-Watergate values at the Justice Department.",
+        "url": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html",
+        "source": "New York Times Politics",
+        "title": "Montana Ballot Measure Would Strike at Political ‘Dark Money’",
+        "publicationDate": "2026-09-18",
+        "category": "United States Politics and Government",
+        "summary": "A measure aimed at stemming the tide of corporate money in politics will be on the November ballot. Opponents say it violates a high court ruling.",
+        "url": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html"
+    },
+    {
+        "id": "https://www.ft.com/content/83d10214-e315-4f87-81dd-99d86d5ba73c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Meta in Indian government’s crosshairs",
+        "publicationDate": "2026-09-18",
+        "category": "Other",
+        "summary": "Also in this newsletter: new charges for digital payments",
+        "url": "https://www.ft.com/content/83d10214-e315-4f87-81dd-99d86d5ba73c?syn-25a6b1a6=1"
     },
     {
         "id": "IF13315",
@@ -16,6 +97,15 @@
         "category": "Defense",
         "summary": "The Fourth Amendment protects the “right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures[.]” As interpreted by the Supreme Court, the Amendment imposes certain limits on searches and seizures by the government. Within these limits, Congress has the option to further restrict or explicitly authorize a variety of law enforcement activities by...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13315/IF13315.2.pdf"
+    },
+    {
+        "id": "IF10733",
+        "source": "Congressional Research Service",
+        "title": "U.S.-South Korea Bilateral Trade Relations",
+        "publicationDate": "2026-09-17",
+        "category": "Defense",
+        "summary": "South Korea (or the Republic of Korea, ROK), a U.S. ally since 1953, is one of the United States’ most important economic partners in Asia. It is the eighth-largest U.S. goods trading partner and a major source of inbound and destination for outbound U.S. foreign direct investment (FDI). The U.S.-South Korea Free Trade Agreement (KORUS FTA) entered into force in March 2012 and has become the second-largest U.S. FTA...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10733/IF10733.21.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/guide-trumps-section-232-tariffs-nine-maps",
@@ -198,6 +288,24 @@
         "url": "https://www.npr.org/2026/09/17/nx-s1-5961533/growing-number-of-gop-candidates-are-using-anti-muslim-rhetoric-on-the-campaign-trail"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/watch-rfk-jr-speaks-at-conference-for-anti-vaccine-group-he-founded",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: RFK Jr. speaks at conference for anti-vaccine group he founded",
+        "publicationDate": "2026-09-17",
+        "category": "Healthcare",
+        "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. gave the keynote address Thursday at a conference of an anti-vaccine activist group he once chaired, telling the hundreds in attendance that they had a friend in President Donald Trump's White House.",
+        "url": "https://www.pbs.org/newshour/politics/watch-rfk-jr-speaks-at-conference-for-anti-vaccine-group-he-founded"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/work-has-stopped-on-system-that-was-key-to-trump-effort-to-limit-mail-voting-usps-chief-says",
+        "source": "PBS NewsHour Politics",
+        "title": "Work has stopped on system that was key to Trump effort to limit mail voting, USPS chief says",
+        "publicationDate": "2026-09-17",
+        "category": "David Steiner",
+        "summary": "The top official at the U.S. Postal Service said Thursday that the agency has stopped work on developing a controversial computer system that was central to President Donald Trump's effort to limit mail voting after the Supreme Court rejected his executive order this week.",
+        "url": "https://www.pbs.org/newshour/politics/work-has-stopped-on-system-that-was-key-to-trump-effort-to-limit-mail-voting-usps-chief-says"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/man-who-sprayed-rep-ilhan-omar-with-vinegar-sentenced-to-14-months-in-prison",
         "source": "PBS NewsHour Politics",
         "title": "Man who sprayed Rep. Ilhan Omar with vinegar sentenced to 14 months in prison",
@@ -211,7 +319,7 @@
         "source": "PBS NewsHour Politics",
         "title": "News Wrap: Judge says Kennedy Center must provide notice before making changes to building",
         "publicationDate": "2026-09-17",
-        "category": "Other",
+        "category": "news wrap",
         "summary": "In our news wrap Thursday, a federal judge ordered that Kennedy Center officials provide a 30-day notice before making any significant physical changes to the building, Canadian Prime Minister Mark Carney is welcoming a proposal that could see his country join the European Union as the bloc's first associate member and NASA discovered a massive, new crater on the Moon.",
         "url": "https://www.pbs.org/newshour/show/news-wrap-judge-says-kennedy-center-must-provide-notice-before-making-changes-to-building"
     },
@@ -225,112 +333,13 @@
         "url": "https://www.pbs.org/newshour/show/congress-passes-new-sanctions-on-russia-and-countries-using-russian-energy"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/how-trumps-immigration-crackdown-made-it-harder-to-become-u-s-citizen",
-        "source": "PBS NewsHour Politics",
-        "title": "How Trump's immigration crackdown made it harder to become U.S. citizen",
-        "publicationDate": "2026-09-17",
-        "category": "Other",
-        "summary": "September 17 is Constitution Day, a commemoration of the founding document signed on that date in 1787. But for immigrants seeking U.S. citizenship, the path to naturalization has grown more difficult as the Trump administration has added new requirements and tightened vetting standards.Justice correspondent Ali Rogin reports.",
-        "url": "https://www.pbs.org/newshour/show/how-trumps-immigration-crackdown-made-it-harder-to-become-u-s-citizen"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trumps-push-to-restrict-mail-ballots-failed-other-efforts-to-reshape-the-midterms-continue",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump's push to restrict mail ballots failed. Other efforts to reshape the midterms continue",
-        "publicationDate": "2026-09-17",
-        "category": "Donald Trump news",
-        "summary": "The Supreme Court this week closed the chapter on one of Trump's effort to dramatically overhaul of the nation's mail voting processes. But the case was just one example of the Republican president's numerous attempts to assert federal control over the upcoming midterms.",
-        "url": "https://www.pbs.org/newshour/politics/trumps-push-to-restrict-mail-ballots-failed-other-efforts-to-reshape-the-midterms-continue"
-    },
-    {
-        "id": "https://thehill.com/newsletters/healthcare/6097014-kennedy-fans-vaccine-injury-concerns-at-anti-vaccine-event/",
-        "source": "The Hill",
-        "title": "Kennedy fans vaccine injury concerns at anti-vaccine event",
-        "publicationDate": "2026-09-17",
-        "category": "Healthcare",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Kennedy fans vaccine injury concerns at anti-vaccine event Returning to the anti-vaccine group he long chaired on Thursday, Health and Human Services (HHS) Secretary Robert. F. Kennedy Jr. Used his keynote address to reinvigorate concerns about vaccine injuries. © Jacquelyn Martin,...",
-        "url": "https://thehill.com/newsletters/healthcare/6097014-kennedy-fans-vaccine-injury-concerns-at-anti-vaccine-event/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6096844-moore-supports-data-center-moratorium/",
-        "source": "The Hill",
-        "title": "Moore says he would 'absolutely sign' statewide data center moratorium",
-        "publicationDate": "2026-09-17",
-        "category": "Technology",
-        "summary": "Maryland Gov. Wes Moore (D) said Thursday he would \"absolutely sign\" a statewide data center moratorium if brought to his desk, joining other governors and elected officials calling for a freeze on developing new data centers. \"If the statewide moratorium bill lands on your desk in 2027, would you sign it?\" Punchbowl News's Mikenzie Frost...",
-        "url": "https://thehill.com/policy/technology/6096844-moore-supports-data-center-moratorium/"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/6096884-kennedy-trump-administration-anti-vaccination/",
-        "source": "The Hill",
-        "title": "RFK Jr. says anti-vaccine group has a 'friend at the White House'",
-        "publicationDate": "2026-09-17",
-        "category": "Defense",
-        "summary": "Speaking to the anti-vaccine group he once led, Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. said Thursday the Trump administration supports its cause. \"You have a strong and steadfast friend at the White House,” Kennedy told dozens of attendees at a one-day conference put on by Children’s Health Defense, the organization he...",
-        "url": "https://thehill.com/policy/healthcare/6096884-kennedy-trump-administration-anti-vaccination/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6096862-colby-pentagon-briefing-frustrated-senators/",
-        "source": "The Hill",
-        "title": "Pentagon No. 3 frustrates senators in closed-door briefing on Iran war, Trump defense strategy",
-        "publicationDate": "2026-09-17",
-        "category": "Defense",
-        "summary": "Democratic and Republican lawmakers alike emerged Thursday from a closed-door briefing frustrated by what they said was a lack of clear answers from Pentagon policy chief Elbridge Colby on the Trump administration’s National Defense Strategy and the ongoing Iran war. The briefing with the Senate Armed Services Committee started off rocky, with Colby immediately opening...",
-        "url": "https://thehill.com/policy/defense/6096862-colby-pentagon-briefing-frustrated-senators/"
-    },
-    {
-        "id": "https://thehill.com/video-clips/6096442-watch-live-donald-trump-white-house-rose-garden-dinner/",
-        "source": "The Hill",
-        "title": "Watch live: Trump hosts Burgum, group of outdoorsmen at White House Rose Garden",
-        "publicationDate": "2026-09-17",
-        "category": "Video",
-        "summary": "President Trump will host Interior Secretary Doug Burgum, along with over 100 outdoorsmen, for a White House Rose Garden dinner Thursday evening, a source familiar with the event told The Hill's broadcasting partner, NewsNation. Trump will reportedly speak during the event and sign two executive orders reversing former President Biden-era restrictions on U.S. land. One...",
-        "url": "https://thehill.com/video-clips/6096442-watch-live-donald-trump-white-house-rose-garden-dinner/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
+        "id": "https://www.nytimes.com/2026/09/17/us/politics/virginia-attorney-general-voter-fraud.html",
         "source": "New York Times Politics",
-        "title": "Blanche’s Partisan Activity Ahead of Midterms Dismantles Another Principle",
+        "title": "Virginia Attorney General: D.H.S. Likely Broke State Law in Voter Fraud Investigation",
         "publicationDate": "2026-09-17",
-        "category": "United States Politics and Government",
-        "summary": "The attorney general’s campaign politicking for Republicans adds to the degradation of post-Watergate values at the Justice Department.",
-        "url": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html",
-        "source": "New York Times Politics",
-        "title": "Montana Ballot Measure Would Strike at Political ‘Dark Money’",
-        "publicationDate": "2026-09-17",
-        "category": "United States Politics and Government",
-        "summary": "A measure aimed at stemming the tide of corporate money in politics will be on the November ballot. Opponents say it violates a high court ruling.",
-        "url": "https://www.nytimes.com/2026/09/17/us/politics/montana-ballot-political-spending-ban.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html",
-        "source": "New York Times Politics",
-        "title": "RFK Jr. Assures Vaccine Skeptics They Have a ‘Friend at the White House’",
-        "publicationDate": "2026-09-17",
-        "category": "Healthcare",
-        "summary": "The health secretary spoke at a conference featuring misinformation about vaccines, including a claim that the success of the polio vaccines was a “fraud.”",
-        "url": "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/17/climate/ohio-fracking-wastewater-acton-moratorium.html",
-        "source": "New York Times Politics",
-        "title": "Toxic Fracking Waste Becoming a Political Issue in Ohio",
-        "publicationDate": "2026-09-17",
-        "category": "Oil (Petroleum) and Gasoline",
-        "summary": "The Democratic candidate for governor backed restrictions on disposal of fracking wastewater around a hard-hit town, and called for a “thorough investigation” of the dangers.",
-        "url": "https://www.nytimes.com/2026/09/17/climate/ohio-fracking-wastewater-acton-moratorium.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html",
-        "source": "New York Times Politics",
-        "title": "Hasan Piker’s Comments Create Headaches for Abdul El-Sayed",
-        "publicationDate": "2026-09-17",
-        "category": "United States Politics and Government",
-        "summary": "Under pressure, the Democratic Senate nominee in Michigan this week rejected Hasan Piker’s argument that the U.S. has caused more terror than Al Qaeda.",
-        "url": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html"
+        "category": "Voter Fraud (Election Fraud)",
+        "summary": "The department has pulled hundreds of agents from their regular duties to find noncitizens on the voter rolls, despite decades of evidence that widespread voter fraud is exceptionally rare in the United States.",
+        "url": "https://www.nytimes.com/2026/09/17/us/politics/virginia-attorney-general-voter-fraud.html"
     },
     {
         "id": "https://www.washingtonpost.com/health/2026/09/17/rfk-jr-give-keynote-speech-conference-anti-vaccine-group-he-founded/",
@@ -423,6 +432,33 @@
         "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/ad358e9f-4daf-4a2a-a100-3c1effa6de11?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "French premier Lecornu proposes big spending cuts to reduce deficit",
+        "publicationDate": "2026-09-17",
+        "category": "Economy",
+        "summary": "France’s minority government heads for a showdown with parliament over the country’s budget",
+        "url": "https://www.ft.com/content/ad358e9f-4daf-4a2a-a100-3c1effa6de11?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/76616441-6419-4792-9d27-31c5fa436dc4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Thames Water should be temporarily placed under public ownership, MPs warn",
+        "publicationDate": "2026-09-17",
+        "category": "Other",
+        "summary": "Move would be ‘cost neutral’ for the Treasury while protecting 16mn customers served by UK utility, cross-party parliamentary committee says",
+        "url": "https://www.ft.com/content/76616441-6419-4792-9d27-31c5fa436dc4?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/50f1f686-528c-4c1c-b014-e628da7c055f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UK losing £1.3mn a day on nationalised steelworks",
+        "publicationDate": "2026-09-17",
+        "category": "Other",
+        "summary": "MPs hit out at lack of plan for British Steel as ministers weigh new intervention in sector",
+        "url": "https://www.ft.com/content/50f1f686-528c-4c1c-b014-e628da7c055f?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Trump administration approves $24bn sale of F-35 jets to Saudi Arabia",
@@ -432,40 +468,13 @@
         "url": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "OpenAI discloses new ‘concerning’ model behaviour",
-        "publicationDate": "2026-09-17",
-        "category": "Other",
-        "summary": "Developer launches system to track and report AI model misconduct",
-        "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/f89ed081-c025-4d69-bc41-9f5564c8b441?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Tata’s boardroom battle deepens",
-        "publicationDate": "2026-09-17",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: Huawei chair urges Chinese AI companies to accelerate development and BoJ set to raise rates",
-        "url": "https://www.ft.com/content/f89ed081-c025-4d69-bc41-9f5564c8b441?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/267dfd88-0eda-409a-9370-21c477ef0724?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Healey to urge Brussels to include UK in ‘Made in Europe’ policy",
-        "publicationDate": "2026-09-17",
-        "category": "Economy",
-        "summary": "British finance minister will indicate to EU counterparts that London is willing to negotiate to reach ‘reset’ deal",
-        "url": "https://www.ft.com/content/267dfd88-0eda-409a-9370-21c477ef0724?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "OpenAI staff knew the ‘existential threat’ AI posed to publishers, New York Times claims",
-        "publicationDate": "2026-09-17",
-        "category": "Other",
-        "summary": "Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content",
-        "url": "https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3?syn-25a6b1a6=1"
+        "id": "IF11365",
+        "source": "Congressional Research Service",
+        "title": "U.S. Court of Appeals for Veterans Claims: A Brief Introduction",
+        "publicationDate": "2026-09-16",
+        "category": "Defense",
+        "summary": "The U.S. Court of Appeals for Veterans Claims (CAVC) provides the exclusive forum for veterans and other claimants, such as veterans’ surviving spouses, to appeal U.S. Department of Veterans Affairs (VA) decisions denying various veterans’ benefits. This In Focus describes the CAVC’s creation, jurisdiction, authority, and procedures before identifying several issues that may interest the 119th Congress. Creation...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11365/IF11365.5.pdf"
     },
     {
         "id": "IN12737",
@@ -475,15 +484,6 @@
         "category": "Economy",
         "summary": "The official poverty rate in the United States, or percentage of people who live in poverty, fell to 10.2% in 2025, down from 10.7% the previous year. In 2025, 34.5 million people lived in poverty, down 1.5 million from the previous year. This decline in the national official poverty rate was reflected in poverty rate declines among children (13.4% in 2025, down from 14.4% in 2024), adults ages 18 to 64 (9.2%, down...",
         "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12737/IN12737.1.pdf"
-    },
-    {
-        "id": "IF11365",
-        "source": "Congressional Research Service",
-        "title": "U.S. Court of Appeals for Veterans Claims: A Brief Introduction",
-        "publicationDate": "2026-09-16",
-        "category": "Defense",
-        "summary": "The U.S. Court of Appeals for Veterans Claims (CAVC) provides the exclusive forum for veterans and other claimants, such as veterans’ surviving spouses, to appeal U.S. Department of Veterans Affairs (VA) decisions denying various veterans’ benefits. This In Focus describes the CAVC’s creation, jurisdiction, authority, and procedures before identifying several issues that may interest the 119th Congress. Creation...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11365/IF11365.5.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5130-1.html",
