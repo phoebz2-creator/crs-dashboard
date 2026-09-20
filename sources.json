@@ -108,6 +108,42 @@
         "url": "https://www.pbs.org/newshour/politics/trump-says-his-planned-arch-would-become-a-military-complex-able-to-host-drones-and-snipers"
     },
     {
+        "id": "https://thehill.com/homenews/house/6100642-salazar-delcy-rodriguez-necessary-evil/",
+        "source": "The Hill",
+        "title": "Florida Republican calls interim Venezuelan president 'necessary evil'",
+        "publicationDate": "2026-09-20",
+        "category": "House",
+        "summary": "Rep. Maria Elvira Salazar (R-Fla.) on Sunday called Venezuela's interim president, Delcy Rodríguez, a \"necessary evil\" until the Latin American country can have free and fair elections. Salazar defended Trump's decision to meet with Rodríguez in New York City, while Trump is present for the annual United Nations General Assembly. She told CBS News's Margaret...",
+        "url": "https://thehill.com/homenews/house/6100642-salazar-delcy-rodriguez-necessary-evil/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6100592-hassett-defends-trump-iran-war/",
+        "source": "The Hill",
+        "title": "Hassett on Iran war: 'The president had to act'",
+        "publicationDate": "2026-09-20",
+        "category": "Foreign Policy",
+        "summary": "National Economic Council Director Kevin Hassett on Sunday defended President Trump's handling of the Iran war and said the president \"had to act,\" suggesting that otherwise the outcome could have been dire. \"The whole thing started because the Iranians told us we don't have to talk to you anymore, because we're two weeks from having...",
+        "url": "https://thehill.com/homenews/administration/6100592-hassett-defends-trump-iran-war/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/",
+        "source": "The Hill",
+        "title": "Trump, Mamdani to meet in New York on Monday",
+        "publicationDate": "2026-09-20",
+        "category": "Administration",
+        "summary": "President Trump and New York City Mayor Zohran Mamdani (D) are set to meet Monday at the mayor’s house, Gracie Mansion, in the Big Apple, a White House official and the mayor’s press office said Sunday. In an emailed statement, Mamdani’s press office said that “the meeting will focus on issues affecting New York City...",
+        "url": "https://thehill.com/homenews/administration/6100625-trump-mamdani-gracie-mansion-meeting/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6100478-ai-singularity-predictions/",
+        "source": "The Hill",
+        "title": "What is the AI singularity? Some experts say it's closer than ever",
+        "publicationDate": "2026-09-20",
+        "category": "Defense",
+        "summary": "Some experts believe AI may soon surpass human intelligence, setting off a technological transformation unlike anything in history.",
+        "url": "https://thehill.com/policy/technology/6100478-ai-singularity-predictions/"
+    },
+    {
         "id": "https://thehill.com/homenews/house/6100450-salazar-defends-trump-media-ban/",
         "source": "The Hill",
         "title": "Florida Republican says Trump 'has his own style' in handling reporters covering the White House",
@@ -117,45 +153,9 @@
         "url": "https://thehill.com/homenews/house/6100450-salazar-defends-trump-media-ban/"
     },
     {
-        "id": "https://thehill.com/opinion/finance/6099509-us-debt-vat-solution/",
-        "source": "The Hill",
-        "title": "The only solution to our $40 trillion debt problem is a value-added tax",
-        "publicationDate": "2026-09-20",
-        "category": "Economy",
-        "summary": "As the U.S. national debt reaches $40 trillion, Peter J. Tanous argues that the massive deficit can only be addressed through a significant revenue-generating measure like a Value-Added Tax rather than through insufficient spending cuts.",
-        "url": "https://thehill.com/opinion/finance/6099509-us-debt-vat-solution/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/",
-        "source": "The Hill",
-        "title": "Khanna calls for a government agency to oversee AI 'like the FDA'",
-        "publicationDate": "2026-09-20",
-        "category": "Defense",
-        "summary": "Rep. Ro Khanna (D-Calif.) on Sunday said that the federal government should create a regulatory agency to oversee the development of artificial intelligence, similar to the Food and Drug Administration (FDA). \"Well, we need to set up an AI agency like the FDA,\" Khanna told host Margaret Brennan on CBS News's \"Face the Nation.\" \"I...",
-        "url": "https://thehill.com/policy/technology/6100322-khanna-proposes-ai-regulatory-agency/"
-    },
-    {
-        "id": "https://thehill.com/opinion/technology/6093887-latin-music-ai-threat/",
-        "source": "The Hill",
-        "title": "AI learned to sing in Spanish. Latin artists need to get paid.",
-        "publicationDate": "2026-09-20",
-        "category": "Technology",
-        "summary": "The community creating the planet’s most in-demand sound stands to lose the most from the technology trained on it.",
-        "url": "https://thehill.com/opinion/technology/6093887-latin-music-ai-threat/"
-    },
-    {
-        "id": "https://thehill.com/policy/transportation/6096876-diesel-price-of-gas-oil-midterms/",
-        "source": "The Hill",
-        "title": "Soaring diesel prices pose latest economic headache for GOP",
-        "publicationDate": "2026-09-20",
-        "category": "Foreign Policy",
-        "summary": "Rising diesel prices are proving to be a particular problem for Republicans as surging energy costs sour the economic mood just 45 days out from the midterms. The national average for diesel jumped 42 cents over the last week, largely as a result of the ongoing U.S. war in Iran, though President Trump has sought...",
-        "url": "https://thehill.com/policy/transportation/6096876-diesel-price-of-gas-oil-midterms/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
         "source": "New York Times Politics",
-        "title": "Abdul-El Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
+        "title": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
         "publicationDate": "2026-09-20",
         "category": "United States Politics and Government",
         "summary": "Mr. Carlson, the far-right podcaster, has promoted Dr. El-Sayed’s comments and sharply criticized his Republican rival in a key Senate race. Strategists are scratching their heads.",
@@ -193,7 +193,7 @@
         "source": "New York Times Politics",
         "title": "How President Trump Broke the Kennedy Center",
         "publicationDate": "2026-09-20",
-        "category": "United States Politics and Government",
+        "category": "Kennedy",
         "summary": "Internal emails and documents demonstrate the political capture of the institution, including how officials once pursued a plan to unload much of the art collection.",
         "url": "https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html"
     },
@@ -254,10 +254,10 @@
     {
         "id": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "German chancellor Merz vows to stay on despite ‘disastrous’ losses in regional polls",
+        "title": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
         "publicationDate": "2026-09-20",
         "category": "Other",
-        "summary": "Early partial results show CDU just above the 5 per cent threshold for parliamentary representation in Mecklenburg-Vorpommern",
+        "summary": "Partial results show CDU just above the 5 per cent threshold for parliamentary representation in Mecklenburg-Vorpommern",
         "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1"
     },
     {
