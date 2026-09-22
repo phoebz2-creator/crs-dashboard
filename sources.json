@@ -1,21 +1,66 @@
 [
     {
-        "id": "R49357",
-        "source": "Congressional Research Service",
-        "title": "Judiciary Appropriations, FY2026",
-        "publicationDate": "2026-09-21",
-        "category": "Economy",
-        "summary": "Funds for the judicial branch are included annually in the Financial Services and General Government (FSGG) appropriations bill. The bill provides funding for the U.S. Supreme Court; the U.S. Court of Appeals for the Federal Circuit; the U.S. Court of International Trade; U.S. courts of appeals and district courts; the Administrative Office of the U.S. Courts; the Federal Judicial Center; the U.S. Sentencing...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49357/R49357.1.pdf"
+        "id": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/",
+        "source": "The Hill",
+        "title": "UN panel calls for guardrails on AI as current safeguards are 'unraveling'",
+        "publicationDate": "2026-09-22",
+        "category": "Defense",
+        "summary": "The United Nations-backed Independent International Scientific Panel on AI on Monday urged world leaders and tech companies to implement new safeguards on artificial intelligence, with the concern that existing safeguards are \"unraveling.\" U.N. Secretary General Antonio Gueterres welcomed the report and encouraged \"external experts, including from frontier AI labs and AI safety institutes, to engage...",
+        "url": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/"
     },
     {
-        "id": "IN12739",
+        "id": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
+        "source": "New York Times Politics",
+        "title": "Trump Faces the Sting of a Media Boycott After Press Pool Withdrawal",
+        "publicationDate": "2026-09-22",
+        "category": "live-detached",
+        "summary": "A boycott of the White House press pool by the major networks deprives the president of the oxygen of screen time. But he is still finding ways to get on the air.",
+        "url": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
+        "source": "New York Times Politics",
+        "title": "Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
+        "publicationDate": "2026-09-22",
+        "category": "Cornyn",
+        "summary": "The former president and Texas senator are headlining a fund-raiser in Dallas for top Republican Senate candidates. Not included: Ken Paxton, the nominee in their own state.",
+        "url": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+        "publicationDate": "2026-09-22",
+        "category": "Other",
+        "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "R49356",
         "source": "Congressional Research Service",
-        "title": "U.S. Space Academy Proposal: Considerations for Congress",
+        "title": "Internal Revenue Service’s Statistics of Income (SOI): Current Available Tabulations by State and Local Area",
+        "publicationDate": "2026-09-21",
+        "category": "Economy",
+        "summary": "This report summarizes data currently available from the Internal Revenue Service (IRS) on individual and estate tax filings tabulated by state, congressional district, ZIP code, county, and metro area. The IRS collection of U.S. population migration data through individual income tax filings is also discussed. This report reviews the methodology, data limitations, and expected publication schedules specific to...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49356/R49356.1.pdf"
+    },
+    {
+        "id": "R49334",
+        "source": "Congressional Research Service",
+        "title": "Judicial and Administrative Developments in the Tax Treatment of Digital Assets",
+        "publicationDate": "2026-09-21",
+        "category": "Economy",
+        "summary": "In 2021, Section 80603 of the Infrastructure Investment and Jobs Act (IIJA, Pub. L. No. 117-58) defined the term “digital asset” in the Internal Revenue Code (IRC) for tax purposes. Several years before the codified tax definition, however, the Internal Revenue Service (IRS) had begun issuing guidance on how cryptocurrency should be treated for tax purposes. The IRS treats digital assets as property, which means...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49334/R49334.4.pdf"
+    },
+    {
+        "id": "IF13317",
+        "source": "Congressional Research Service",
+        "title": "Federal Wiretaps and the Fourth Amendment",
         "publicationDate": "2026-09-21",
         "category": "Defense",
-        "summary": "On August 28, 2026, President Trump signed Executive Order (EO) 14423 establishing a Presidential Commission on the United States Space Academy, to be chaired by the Administrator of the National Aeronautics and Space Administration (NASA). The EO directs the commission to submit a report to the President proposing key details for the establishment of a U.S. Space Academy (USSA) within 120 days (i.e., by December...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12739/IN12739.1.pdf"
+        "summary": "The Fourth Amendment prohibits unreasonable searches and seizures, generally requiring that law enforcement obtain a warrant from a neutral and detached magistrate upon a showing of probable cause. In 1928, the Supreme Court determined in Olmstead v. United States that projected voices passing over telephone wires beyond a person’s home were not protected by the Fourth Amendment, so no warrant was required for a...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13317/IF13317.1.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/what-to-watch-for-at-unga-2026",
@@ -153,6 +198,15 @@
         "url": "https://cms.hoover.org/research/long-term-future-favor-india-us-relationship-ex-us-nsa-hr-mcmaster"
     },
     {
+        "id": "https://www.npr.org/2026/09/21/nx-s1-5976738/trumps-big-weekend-the-arch-greenland-and-media-outlets-banned-from-white-house",
+        "source": "NPR Politics",
+        "title": "Trump's big weekend: The arch, Greenland, and media outlets banned from White House",
+        "publicationDate": "2026-09-21",
+        "category": "Other",
+        "summary": "President Trump's exertion of power over the press, Greenland and even the D.C. landscape are teeing up questions over the president's limits.",
+        "url": "https://www.npr.org/2026/09/21/nx-s1-5976738/trumps-big-weekend-the-arch-greenland-and-media-outlets-banned-from-white-house"
+    },
+    {
         "id": "https://www.npr.org/2026/09/21/nx-s1-5974313/election-denial-trump-2026",
         "source": "NPR Politics",
         "title": "Many GOP candidates still echo Trump's 2020 claims. Lots of voters want to move on",
@@ -171,94 +225,94 @@
         "url": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/trump-shows-off-new-white-house-helipad-but-networks-skip-coverage-during-first-amendment-fight",
+        "id": "https://www.pbs.org/newshour/show/press-pool-declines-to-cover-trump-in-protest-of-his-ban-on-news-outlets",
         "source": "PBS NewsHour Politics",
-        "title": "Trump shows off new White House helipad, but networks skip coverage during First Amendment fight",
+        "title": "Press pool declines to cover Trump in protest of his ban on news outlets",
         "publicationDate": "2026-09-21",
-        "category": "cnn",
-        "summary": "President Trump has unveiled a new White House helicopter landing pad while trying to downplay a First Amendment firestorm.",
-        "url": "https://www.pbs.org/newshour/politics/trump-shows-off-new-white-house-helipad-but-networks-skip-coverage-during-first-amendment-fight"
+        "category": "Other",
+        "summary": "CNN, MS NOW and Politico are suing the Trump administration for stripping access to the White House, calling it a \"direct assault on the First Amendment.\" Monday, CNN was removed from its duties for the rotating pool of TV journalists covering the White House. The TV pool announced there would be no replacement to cover Trump's trip to New York for the UN General Assembly. Liz Landers reports.",
+        "url": "https://www.pbs.org/newshour/show/press-pool-declines-to-cover-trump-in-protest-of-his-ban-on-news-outlets"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/republicans-target-las-vegas-congressional-seat-touting-trumps-no-tax-on-tips",
+        "id": "https://www.pbs.org/newshour/show/trumps-attacks-on-free-press-echo-rhetoric-used-by-autocrats-jodie-ginsberg-says",
         "source": "PBS NewsHour Politics",
-        "title": "Republicans target Las Vegas congressional seat touting Trump's 'no tax on tips'",
+        "title": "Trump's attacks on free press echo rhetoric used by autocrats, Jodie Ginsberg says",
         "publicationDate": "2026-09-21",
-        "category": "Economy",
-        "summary": "Nevada has the highest concentration of tipped workers thanks to its hospitality and tourism industries.",
-        "url": "https://www.pbs.org/newshour/politics/republicans-target-las-vegas-congressional-seat-touting-trumps-no-tax-on-tips"
+        "category": "Other",
+        "summary": "To discuss President Trump's decision to ban CNN, MS NOW and Politico from the White House, Amna Nawaz spoke with Jodie Ginsberg, CEO of the Committee to Protect Journalists.",
+        "url": "https://www.pbs.org/newshour/show/trumps-attacks-on-free-press-echo-rhetoric-used-by-autocrats-jodie-ginsberg-says"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/this-swing-state-republican-is-distancing-himself-from-trump-but-it-may-not-save-him-in-the-midterms",
+        "id": "https://www.pbs.org/newshour/show/news-wrap-faa-issues-ground-stops-at-major-east-coast-airports-due-to-equipment-failure",
         "source": "PBS NewsHour Politics",
-        "title": "This swing state Republican is distancing himself from Trump, but it may not save him in the midterms",
+        "title": "News Wrap: FAA issues ground stops at major East Coast airports due to equipment failure",
         "publicationDate": "2026-09-21",
-        "category": "brian fitzpatrick",
-        "summary": "Democrats are hopeful that Trump's low approval ratings and rising gas prices will make it impossible for Fitzpatrick to win reelection this year.",
-        "url": "https://www.pbs.org/newshour/politics/this-swing-state-republican-is-distancing-himself-from-trump-but-it-may-not-save-him-in-the-midterms"
+        "category": "Other",
+        "summary": "In our news wrap Monday, the FAA issued ground stops at a handful of major airports on the East Coast due to an equipment failure, Paramount settled antitrust concerns with a dozen states over its buyout of Warner Bros. Discovery and a Venezuelan man who was shot by an ICE officer in Austin is being held at a detention center with a bullet still lodged in his back.",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-faa-issues-ground-stops-at-major-east-coast-airports-due-to-equipment-failure"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/key-senators-reject-white-house-proposal-on-nih-grants",
+        "id": "https://www.pbs.org/newshour/show/how-abortion-drug-restrictions-make-it-harder-to-treat-other-conditions",
         "source": "PBS NewsHour Politics",
-        "title": "Key senators reject White House proposal on NIH grants",
+        "title": "How abortion drug restrictions make it harder to treat other conditions",
         "publicationDate": "2026-09-21",
         "category": "Healthcare",
-        "summary": "Sens. Susan Collins and Patty Murray are rejecting efforts by the Trump administration to give the White House control of National Institutes of Health grant funding.",
-        "url": "https://www.pbs.org/newshour/politics/key-senators-reject-white-house-proposal-on-nih-grants"
+        "summary": "For more than 25 years, mifepristone has been approved for abortion in the U.S. But mifepristone and a similar drug have also been proven to treat conditions like uterine fibroids and endometriosis. As anti-abortion groups lobby to further restrict these drugs, Special correspondent Sarah Varney and producer Rachel Wellford take a look at these treatments. It's for our series, Beyond Abortion.",
+        "url": "https://www.pbs.org/newshour/show/how-abortion-drug-restrictions-make-it-harder-to-treat-other-conditions"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/kamala-harris-campaigning-for-democrats-in-2026-midterms-as-her-2028-decision-looms",
+        "id": "https://www.pbs.org/newshour/politics/appeals-court-favors-trump-backed-missouri-congressional-map-but-supreme-court-will-have-final-say",
         "source": "PBS NewsHour Politics",
-        "title": "Kamala Harris campaigning for Democrats in 2026 midterms as her 2028 decision looms",
+        "title": "Appeals court favors Trump-backed Missouri congressional map, but Supreme Court will have final say",
         "publicationDate": "2026-09-21",
-        "category": "Democrats",
-        "summary": "Harris has not announced any upcoming trips to South Carolina, where Democrats will hold their first primary. She has emphasized the importance of focusing on the midterms for now.",
-        "url": "https://www.pbs.org/newshour/politics/kamala-harris-campaigning-for-democrats-in-2026-midterms-as-her-2028-decision-looms"
+        "category": "2026 Midterms",
+        "summary": "A federal appeals panel has ruled in favor of new Missouri congressional districts backed by President Donald Trump. But there is no immediate impact from Monday's ruling.",
+        "url": "https://www.pbs.org/newshour/politics/appeals-court-favors-trump-backed-missouri-congressional-map-but-supreme-court-will-have-final-say"
     },
     {
-        "id": "https://thehill.com/newsletters/technology/6102756-ai-fears-hit-trump-xi-agenda/",
+        "id": "https://thehill.com/newsletters/defense-national-security/6102932-gop-nominees-call-end-iran-war-while-campaign-trail/",
         "source": "The Hill",
-        "title": "AI fears hit Trump-Xi agenda",
+        "title": "GOP nominees call for end to Iran war while on campaign trail",
         "publicationDate": "2026-09-21",
         "category": "Defense",
-        "summary": "{beacon} Technology Technology The Big Story AI fears hit Trump-Xi agenda, but challenges abound Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for later this week. © Brendan Smialowski/Pool Photo via AP, File Trump has dismissed AI’s existential...",
-        "url": "https://thehill.com/newsletters/technology/6102756-ai-fears-hit-trump-xi-agenda/"
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP nominees call for end to Iran war while on campaign trail The Republican Senate candidates in Iowa and Michigan on Monday both called for an end to the U.S. war in Iran, citing the rising...",
+        "url": "https://thehill.com/newsletters/defense-national-security/6102932-gop-nominees-call-end-iran-war-while-campaign-trail/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6102630-rogers-iran-war-gas-tax/",
+        "id": "https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover/",
         "source": "The Hill",
-        "title": "Rogers calls for end to war in Iran: 'Michigan families can't afford to wait'",
+        "title": "Trump admin reportedly considers NIH grant approval takeover",
         "publicationDate": "2026-09-21",
-        "category": "Foreign Policy",
-        "summary": "Former Rep. Mike Rogers (Mich.), the Republican Senate candidate in Michigan, on Monday said \"Michigan families can't afford to wait\" for the Iran war to reach its conclusion, calling for an end to the conflict. Rogers released a campaign ad on the social platform X showing him at a grocery store. He said that Michiganders...",
-        "url": "https://thehill.com/homenews/campaign/6102630-rogers-iran-war-gas-tax/"
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Trump reportedly looking to take over NIH grantmaking Dissatisfied with how grants from the National Institutes of Health (NIH) are being awarded, the Trump administration reportedly began discussions over the weekend to add more political influence over how the funds...",
+        "url": "https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover/"
     },
     {
-        "id": "https://thehill.com/newsletters/business-economy/6102706-fed-official-warns-inflation-still-too-high/",
+        "id": "https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle/",
         "source": "The Hill",
-        "title": "Fed official warns inflation is still too high",
+        "title": "The Memo: Trump’s latest war on the media met with lawsuit, TV boycott",
+        "publicationDate": "2026-09-21",
+        "category": "Analysis",
+        "summary": "An all-out confrontation between President Trump and the media escalated Monday, as three banned outlets launched a legal fight, Trump compared some reporting to “cancer,” and five major TV networks came together to announce a de facto boycott of White House pool coverage. It’s a remarkable sequence of events that began with Trump’s Friday announcement...",
+        "url": "https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle/"
+    },
+    {
+        "id": "https://thehill.com/media/6102786-trump-whca-media-ban/",
+        "source": "The Hill",
+        "title": "Former WHCA president on Trump's press ban: 'An attack on one outlet is an attack on everyone'",
+        "publicationDate": "2026-09-21",
+        "category": "Media",
+        "summary": "Former White House Correspondents' Association (WHCA) president Weijia Jiang on Sunday said President Trump's ban on CNN, Politico and MS NOW reporters from covering the White House was an \"attack\" on all other news outlets. \"This is not a tantrum by three media outlets who are upset because they can't get into the White House...",
+        "url": "https://thehill.com/media/6102786-trump-whca-media-ban/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/21/us/politics/midterm-elections-economy.html",
+        "source": "New York Times Politics",
+        "title": "The State of the Economy Before the Midterms: Rising Inflation and A.I. Unease",
         "publicationDate": "2026-09-21",
         "category": "Economy",
-        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Fed official: Inflation still too high in 'all aspects' of economy Neel Kashkari, the president of the Federal Reserve’s Minneapolis branch, said Sunday that inflation is “still too high,” days after the central bank raised interest...",
-        "url": "https://thehill.com/newsletters/business-economy/6102706-fed-official-warns-inflation-still-too-high/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/6102194-austin-officials-condemn-ice-shooting-of-venezuelan-man-call-for-independent-investigation/",
-        "source": "The Hill",
-        "title": "Austin officials condemn ICE shooting of Venezuelan man, call for independent investigation",
-        "publicationDate": "2026-09-21",
-        "category": "State Watch",
-        "summary": "Austin City Council members spoke out against ICE after an agent shot a man on Sept. 20.",
-        "url": "https://thehill.com/homenews/state-watch/6102194-austin-officials-condemn-ice-shooting-of-venezuelan-man-call-for-independent-investigation/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6102672-diesel-prices-states-oil-gas-cost/",
-        "source": "The Hill",
-        "title": "Diesel is over $6 in 49 states: Where prices are highest and lowest",
-        "publicationDate": "2026-09-21",
-        "category": "Energy & Environment",
-        "summary": "California has the most expensive diesel in the U.S. at an average of $8.42 per gallon, according to AAA.",
-        "url": "https://thehill.com/policy/energy-environment/6102672-diesel-prices-states-oil-gas-cost/"
+        "summary": "Why current conditions feel so weird, and what that could mean in November.",
+        "url": "https://www.nytimes.com/2026/09/21/us/politics/midterm-elections-economy.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/21/nyregion/lawler-endorsement-golden-democrat.html",
@@ -279,31 +333,13 @@
         "url": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
-        "source": "New York Times Politics",
-        "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
+        "id": "https://www.washingtonpost.com/politics/2026/09/21/trumps-plan-militarize-proposed-arch-raises-new-legal-safety-concerns/",
+        "source": "Washington Post Politics",
+        "title": "Trump’s plan to militarize proposed arch raises new legal, safety concerns",
         "publicationDate": "2026-09-21",
-        "category": "Defense",
-        "summary": "Democrats are jockeying to embrace new safeguards, while Republicans have aligned with President Trump’s warnings against slowing down the technology.",
-        "url": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/21/theater/america-who-hurt-you-review-sarah-jones.html",
-        "source": "New York Times Politics",
-        "title": "‘America, Who Hurt You?’ Review: Sarah Jones Plays the Melting Pot",
-        "publicationDate": "2026-09-21",
-        "category": "Theater",
-        "summary": "The writer-performer takes the country and its fractious multitudes to therapy in her new multicharacter solo show in Brooklyn.",
-        "url": "https://www.nytimes.com/2026/09/21/theater/america-who-hurt-you-review-sarah-jones.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/21/us/politics/republicans-midterm-fundraising-maga-inc-trump.html",
-        "source": "New York Times Politics",
-        "title": "Republicans Enter Final Midterm Stretch With a Significant Financial Edge",
-        "publicationDate": "2026-09-21",
-        "category": "Republican Party",
-        "summary": "The party and its allies are currently set to spend hundreds of millions of dollars more on advertising than Democrats are, giving Republicans some hope in a tough midterm environment.",
-        "url": "https://www.nytimes.com/2026/09/21/us/politics/republicans-midterm-fundraising-maga-inc-trump.html"
+        "category": "Other",
+        "summary": "Aviation safety experts worry about the prospect of drones stored so close to National Airport, while preservationists say a review process can't go forward now.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/21/trumps-plan-militarize-proposed-arch-raises-new-legal-safety-concerns/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/21/mamdani-hosts-trump-gracie-mansion-unlikely-rapport-continues/",
@@ -342,15 +378,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/21/trump-seeks-fertilizer-deal-with-russia-ally-belarus-amid-canadian-tensions/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/21/record-share-voters-motivated-oppose-trump-midterms-poll-finds/",
-        "source": "Washington Post Politics",
-        "title": "Record share of voters motivated to oppose Trump in midterms, poll finds",
-        "publicationDate": "2026-09-21",
-        "category": "Other",
-        "summary": "In a new NBC News survey, 43 percent of registered voters said they want their vote for Congress this fall to send “a signal of opposition” to the president.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/21/record-share-voters-motivated-oppose-trump-midterms-poll-finds/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -358,15 +385,6 @@
         "category": "Other",
         "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
         "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-        "publicationDate": "2026-09-21",
-        "category": "Other",
-        "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-        "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
@@ -396,49 +414,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/07c05f00-5c05-4b6d-837b-17118b266ecd?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "France calls on EU to take immediate action to lower energy prices",
-        "publicationDate": "2026-09-21",
-        "category": "Other",
-        "summary": "President Emmanuel Macron also urges European Commission to delay implementation of new methane rules by a year",
-        "url": "https://www.ft.com/content/07c05f00-5c05-4b6d-837b-17118b266ecd?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/2a0d724d-b2be-4539-a4ab-30ba919cd253?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Gulf states urge reset with Iran as conflict drags on",
+        "title": "Trump presses Zelenskyy to stop hitting Russian refineries",
         "publicationDate": "2026-09-21",
         "category": "Foreign Policy",
-        "summary": "United Arab Emirates calls for ‘new mindset’ while Qatar advocates for regional ‘security framework’",
-        "url": "https://www.ft.com/content/2a0d724d-b2be-4539-a4ab-30ba919cd253?syn-25a6b1a6=1"
+        "summary": "US president tells Ukrainian leader in phone call it is all about ‘diesel, diesel, diesel’, according to officials",
+        "url": "https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/23da023b-8be8-433d-9b11-49bc825076c9?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Crackdown clouds $46bn IPO of world’s biggest derivatives exchange",
-        "publicationDate": "2026-09-21",
-        "category": "Other",
-        "summary": "Long-delayed debut of the National Stock Exchange of India comes amid rising scrutiny of options trading",
-        "url": "https://www.ft.com/content/23da023b-8be8-433d-9b11-49bc825076c9?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Meta leads tech rally as oil prices fall",
+        "title": "‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports",
         "publicationDate": "2026-09-21",
         "category": "Foreign Policy",
-        "summary": "Brent crude sinks amid speculation Donald Trump could meet Iran’s president this week",
-        "url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1"
+        "summary": "Fuel price crisis triggered by president’s Iran war rattles legislators from rural America’s heartlands",
+        "url": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/946b1b1e-292d-40ec-9cd8-dbf0475f4141?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/17a6b374-df35-4e12-96c6-53e30ed64fe4?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "UK flights disrupted by another air traffic control problem",
+        "title": "UK to provide military support to Saudi Arabia in its fight with Houthi rebels",
+        "publicationDate": "2026-09-21",
+        "category": "Defense",
+        "summary": "Britain to deploy RAF aircraft offering ‘defensive air-to-air refuelling’ capability to the kingdom",
+        "url": "https://www.ft.com/content/17a6b374-df35-4e12-96c6-53e30ed64fe4?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5fe15334-a5b8-49c5-aa89-935ad68a8749?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UK workers to receive two weeks of unpaid leave for bereavement",
         "publicationDate": "2026-09-21",
         "category": "Other",
-        "summary": "National Air Traffic Services says it fixed a fault at its Prestwick control centre in Scotland that led to service cancellations and delays",
-        "url": "https://www.ft.com/content/946b1b1e-292d-40ec-9cd8-dbf0475f4141?syn-25a6b1a6=1"
+        "summary": "Change in definition of those eligible will bring law ‘into the 21st century’",
+        "url": "https://www.ft.com/content/5fe15334-a5b8-49c5-aa89-935ad68a8749?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US news outlets to sue Trump administration over White House ban",
+        "publicationDate": "2026-09-21",
+        "category": "Other",
+        "summary": "Media groups vow to protect First Amendment rights after reporters’ access was withdrawn",
+        "url": "https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/09/20/nx-s1-5975459/president-trump-navigates-tough-political-waters-with-unga-xi-visit-and-ai",
@@ -457,15 +475,6 @@
         "category": "Defense",
         "summary": "President Trump has claimed that military operations are needed at his proposed triumphal arch in Washington D.C., in order to protect national security. A federal court is weighing the arch's legality.",
         "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/20/nx-s1-5973077/in-colorado-a-gop-candidate-says-his-differences-with-trump-show-hes-with-the-voters",
-        "source": "NPR Politics",
-        "title": "In Colorado, a GOP candidate says his differences with Trump show he's with the voters",
-        "publicationDate": "2026-09-20",
-        "category": "Other",
-        "summary": "We look at Republican Congressman Jeff Hurd's campaign in Colorado, where he is using his breaks with President Trump as an asset in his bid for reelection.",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5973077/in-colorado-a-gop-candidate-says-his-differences-with-trump-show-hes-with-the-voters"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5198-1.html",
@@ -510,7 +519,16 @@
         "publicationDate": "2026-09-17",
         "category": "Economy",
         "summary": "The 21st Century ROAD to Housing Act (P.L. 119-101) was enacted at a time of increasing concerns about the affordability of both rental housing and homeownership and the extent to which insufficient housing supply may be contributing to affordability pressures. Both the 118th and 119th Congresses held numerous hearings to explore these concerns. P.L. 119-101 represents a compromise between two bills that were...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49354/R49354.2.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49354/R49354.3.pdf"
+    },
+    {
+        "id": "R45997",
+        "source": "Congressional Research Service",
+        "title": "Federal Regional Commissions and Authorities: Structural Features and Function",
+        "publicationDate": "2026-09-17",
+        "category": "Other",
+        "summary": "This report describes the structure, activities, legislative history, and funding history of the 11 federal regional commissions and authorities. Those commissions and authorities are the Appalachian Regional Commission; Delta Regional Authority; Denali Commission; Great Lakes Authority; Mid-Atlantic Regional Commission; Northern Border Regional Commission; Northern Great Plains Regional Authority; Northwest...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45997/R45997.39.pdf"
     },
     {
         "id": "https://www.heritage.org/crime-and-justice/commentary/the-anti-ice-campaign-protecting-mexicos-train-robbing-cartels",
@@ -585,15 +603,6 @@
         "url": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe"
     },
     {
-        "id": "R49344",
-        "source": "Congressional Research Service",
-        "title": "Status of FY2027 Labor, Health and Human Services, and Education Appropriations: In Brief",
-        "publicationDate": "2026-09-08",
-        "category": "Economy",
-        "summary": "This report provides an overview of FY2027 Labor, Health and Human Services, and Education, and Related Agencies (LHHS) appropriations, including relevant congressional actions and a top-line comparison of discretionary funding proposed for FY2027 versus prior-year funding for FY2025 and FY2026. It also provides background on the scope of the bill and context for congressional budgetary decisionmaking. Full-year...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49344/R49344.3.pdf"
-    },
-    {
         "id": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026",
         "source": "Centre for European Reform",
         "title": "CER/Delegation of the EU to the UK party conference fringe events 2026",
@@ -619,14 +628,5 @@
         "category": "Economy",
         "summary": "Mailings survery August 26 (249 results) Download as CSV Your name: The amount of email I receive from the CER is: If you have selected 'too much' above would you prefer to receive: Would you like to opt-out of receiving: Your email: Additional comments Submission Date Kate Mullineux Too much A weekly newsletter with links to all content kate@cer.eu 2026-08-06 Godfried De Vidts About right gadv@gadv.be all good,...",
         "url": "https://www.cer.eu/mailings-webform-report"
-    },
-    {
-        "id": "R47077",
-        "source": "Congressional Research Service",
-        "title": "U.S. Immigration Courts and the Pending Cases Backlog",
-        "publicationDate": "2022-04-25",
-        "category": "Foreign Policy",
-        "summary": "U.S. immigration courts adjudicate cases according to immigration laws enumerated in the Immigration and Nationality Act. Congress’s interest in immigration courts has been heightened by lawmakers’ concerns over executive branch agencies’ capacity to secure the border and provide due process and humanitarian protection for foreign nationals seeking to enter or remain in the United States. During removal proceedings...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47077/R47077.3.pdf"
     }
 ]
