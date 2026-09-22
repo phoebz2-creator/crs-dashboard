@@ -1,12 +1,48 @@
 [
     {
+        "id": "https://thehill.com/homenews/administration/6103061-white-house-launches-trump-tv/",
+        "source": "The Hill",
+        "title": "White House launches Trump TV following press bans",
+        "publicationDate": "2026-09-22",
+        "category": "Administration",
+        "summary": "The White House on Monday launched Trump TV, a 24/7 stream on YouTube, days after President Trump banned reporters from CNN, Politico and MS NOW over their coverage of him and his administration. The inaugural video was a stream of Trump speaking at Mount Rushmore on July 3 as part of a livestream titled \"Trump...",
+        "url": "https://thehill.com/homenews/administration/6103061-white-house-launches-trump-tv/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6103019-prop-40-support-drops/",
+        "source": "The Hill",
+        "title": "Fewer than half of California voters back billionaire tax: Poll",
+        "publicationDate": "2026-09-22",
+        "category": "Economy",
+        "summary": "California's state ballot measure proposing a 5 percent tax on the state's 200 billionaires' net worth is losing support, according to a new poll released Monday. The University of California, Berkeley Citrin Center for Public Opinion Research-POLITICO poll found that 45 percent of registered California voters support the ballot measure Proposition 40, known as the...",
+        "url": "https://thehill.com/homenews/campaign/6103019-prop-40-support-drops/"
+    },
+    {
         "id": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/",
         "source": "The Hill",
         "title": "UN panel calls for guardrails on AI as current safeguards are 'unraveling'",
         "publicationDate": "2026-09-22",
         "category": "Defense",
-        "summary": "The United Nations-backed Independent International Scientific Panel on AI on Monday urged world leaders and tech companies to implement new safeguards on artificial intelligence, with the concern that existing safeguards are \"unraveling.\" U.N. Secretary General Antonio Gueterres welcomed the report and encouraged \"external experts, including from frontier AI labs and AI safety institutes, to engage...",
+        "summary": "The United Nations-backed Independent International Scientific Panel on AI on Monday urged world leaders and tech companies to implement new safeguards on artificial intelligence, with the concern that existing safeguards are \"unraveling.\" U.N. Secretary General António Gueterres welcomed the report and encouraged \"external experts, including from frontier AI labs and AI safety institutes, to engage...",
         "url": "https://thehill.com/policy/technology/6102955-un-ai-panel-urges-safeguards/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
+        "source": "New York Times Politics",
+        "title": "Trump’s U.N. Speech Comes at a Time of Tumult",
+        "publicationDate": "2026-09-22",
+        "category": "Foreign Policy",
+        "summary": "The president, who has been dogged by the war in Iran and eroding alliances, is also expected to sign a security deal on Greenland and meet with world leaders.",
+        "url": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html"
+    },
+    {
+        "id": "https://www.nytimes.com/video/us/politics/100000011164965/why-network-tv-stopped-filming-the-president.html",
+        "source": "New York Times Politics",
+        "title": "Why Network TV Stopped Filming the President",
+        "publicationDate": "2026-09-22",
+        "category": "United States Politics and Government",
+        "summary": "President Trump banned three news outlets from covering White House events, saying he didn’t like their coverage. Our chief White House correspondent, Peter Baker, explains how major television networks in the White House press pool responded by refusing to cover President Trump’s public events while the ban goes through the courts.",
+        "url": "https://www.nytimes.com/video/us/politics/100000011164965/why-network-tv-stopped-filming-the-president.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
@@ -20,11 +56,29 @@
     {
         "id": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
         "source": "New York Times Politics",
-        "title": "Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
+        "title": "George W. Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
         "publicationDate": "2026-09-22",
         "category": "Cornyn",
         "summary": "The former president and Texas senator are headlining a fund-raiser in Dallas for top Republican Senate candidates. Not included: Ken Paxton, the nominee in their own state.",
         "url": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+        "publicationDate": "2026-09-22",
+        "category": "Foreign Policy",
+        "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+        "publicationDate": "2026-09-22",
+        "category": "Foreign Policy",
+        "summary": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
@@ -32,8 +86,53 @@
         "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
         "publicationDate": "2026-09-22",
         "category": "Other",
-        "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+        "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
         "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/3cf6c88e-bd65-4d81-a93b-437e00f9ce3f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How France and Luxembourg fatally wounded the EU’s Russia sanctions regime",
+        "publicationDate": "2026-09-22",
+        "category": "Foreign Policy",
+        "summary": "Also in this newsletter: how development aid pays back in trade",
+        "url": "https://www.ft.com/content/3cf6c88e-bd65-4d81-a93b-437e00f9ce3f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a0d1351f-0f16-4994-a71e-c9b134d70d71",
+        "source": "Financial Times World",
+        "title": "The USS lesson plan",
+        "publicationDate": "2026-09-22",
+        "category": "Other",
+        "summary": "Why doesn’t the UK’s largest pension fund go all-in on stocks? Or maybe bonds?",
+        "url": "https://www.ft.com/content/a0d1351f-0f16-4994-a71e-c9b134d70d71"
+    },
+    {
+        "id": "https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "China’s share of global container exports soars to 40%",
+        "publicationDate": "2026-09-22",
+        "category": "Economy",
+        "summary": "Rapid rise underscores economy’s reliance on trade and threat to trading partners, EU chamber says",
+        "url": "https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b77f3320-6ff0-4be6-a480-a755c754f7d8?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: Kremlin-backed forgery scheme fooled global banks",
+        "publicationDate": "2026-09-22",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: Polymarket’s European overture and Merz’s woes",
+        "url": "https://www.ft.com/content/b77f3320-6ff0-4be6-a480-a755c754f7d8?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/17a26bbd-ef8c-4f97-8485-5b1407bb0b41",
+        "source": "Financial Times World",
+        "title": "Bank of Japan set to maintain new quarterly pace of rate rises",
+        "publicationDate": "2026-09-22",
+        "category": "Other",
+        "summary": "Read the BoJ’s September forecast from the FT’s Monetary Policy Radar team",
+        "url": "https://www.ft.com/content/17a26bbd-ef8c-4f97-8485-5b1407bb0b41"
     },
     {
         "id": "R49356",
@@ -45,15 +144,6 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49356/R49356.1.pdf"
     },
     {
-        "id": "R49334",
-        "source": "Congressional Research Service",
-        "title": "Judicial and Administrative Developments in the Tax Treatment of Digital Assets",
-        "publicationDate": "2026-09-21",
-        "category": "Economy",
-        "summary": "In 2021, Section 80603 of the Infrastructure Investment and Jobs Act (IIJA, Pub. L. No. 117-58) defined the term “digital asset” in the Internal Revenue Code (IRC) for tax purposes. Several years before the codified tax definition, however, the Internal Revenue Service (IRS) had begun issuing guidance on how cryptocurrency should be treated for tax purposes. The IRS treats digital assets as property, which means...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49334/R49334.4.pdf"
-    },
-    {
         "id": "IF13317",
         "source": "Congressional Research Service",
         "title": "Federal Wiretaps and the Fourth Amendment",
@@ -61,6 +151,15 @@
         "category": "Defense",
         "summary": "The Fourth Amendment prohibits unreasonable searches and seizures, generally requiring that law enforcement obtain a warrant from a neutral and detached magistrate upon a showing of probable cause. In 1928, the Supreme Court determined in Olmstead v. United States that projected voices passing over telephone wires beyond a person’s home were not protected by the Fourth Amendment, so no warrant was required for a...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13317/IF13317.1.pdf"
+    },
+    {
+        "id": "R49334",
+        "source": "Congressional Research Service",
+        "title": "Judicial and Administrative Developments in the Tax Treatment of Digital Assets",
+        "publicationDate": "2026-09-21",
+        "category": "Economy",
+        "summary": "In 2021, Section 80603 of the Infrastructure Investment and Jobs Act (IIJA, Pub. L. No. 117-58) defined the term “digital asset” in the Internal Revenue Code (IRC) for tax purposes. Several years before the codified tax definition, however, the Internal Revenue Service (IRS) had begun issuing guidance on how cryptocurrency should be treated for tax purposes. The IRS treats digital assets as property, which means...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49334/R49334.4.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/what-to-watch-for-at-unga-2026",
@@ -106,6 +205,15 @@
         "category": "Defense",
         "summary": "An urgent, incisive assessment of Germany’s return to military power and Europe’s security as Russian aggression rises and U.S. reliability falters.",
         "url": "https://www.cfr.org/books/germany-rearmed"
+    },
+    {
+        "id": "https://www.heritage.org/progressivism/report/trojan-horses-covert-foreign-malign-influence-operations-america",
+        "source": "Heritage Foundation",
+        "title": "Trojan Horses: Covert Foreign Malign Influence Operations in America",
+        "publicationDate": "2026-09-21",
+        "category": "Defense",
+        "summary": "Testimony before the House Foreign Affairs Subcommittee on South and Central Asia United States House of Representatives September 15, 2026 Mike Gonzalez Angeles T. Arredondo Senior Fellow on E Pluribus Unum Davis Institute for National Security & Foreign Policy The Heritage Foundation My name is Mike Gonzalez. I am the Angeles T. Arredondo Senior Fellow on E Pluribus Unum at The Heritage Foundation. The views I...",
+        "url": "https://www.heritage.org/progressivism/report/trojan-horses-covert-foreign-malign-influence-operations-america"
     },
     {
         "id": "https://www.hudson.org/peoples-liberation-army-2027-nukes-pivot-asia-pirouette-bryan-clark",
@@ -229,7 +337,7 @@
         "source": "PBS NewsHour Politics",
         "title": "Press pool declines to cover Trump in protest of his ban on news outlets",
         "publicationDate": "2026-09-21",
-        "category": "Other",
+        "category": "Donald Trump news",
         "summary": "CNN, MS NOW and Politico are suing the Trump administration for stripping access to the White House, calling it a \"direct assault on the First Amendment.\" Monday, CNN was removed from its duties for the rotating pool of TV journalists covering the White House. The TV pool announced there would be no replacement to cover Trump's trip to New York for the UN General Assembly. Liz Landers reports.",
         "url": "https://www.pbs.org/newshour/show/press-pool-declines-to-cover-trump-in-protest-of-his-ban-on-news-outlets"
     },
@@ -238,7 +346,7 @@
         "source": "PBS NewsHour Politics",
         "title": "Trump's attacks on free press echo rhetoric used by autocrats, Jodie Ginsberg says",
         "publicationDate": "2026-09-21",
-        "category": "Other",
+        "category": "Committee to Protect Journalists",
         "summary": "To discuss President Trump's decision to ban CNN, MS NOW and Politico from the White House, Amna Nawaz spoke with Jodie Ginsberg, CEO of the Committee to Protect Journalists.",
         "url": "https://www.pbs.org/newshour/show/trumps-attacks-on-free-press-echo-rhetoric-used-by-autocrats-jodie-ginsberg-says"
     },
@@ -247,7 +355,7 @@
         "source": "PBS NewsHour Politics",
         "title": "News Wrap: FAA issues ground stops at major East Coast airports due to equipment failure",
         "publicationDate": "2026-09-21",
-        "category": "Other",
+        "category": "news wrap",
         "summary": "In our news wrap Monday, the FAA issued ground stops at a handful of major airports on the East Coast due to an equipment failure, Paramount settled antitrust concerns with a dozen states over its buyout of Warner Bros. Discovery and a Venezuelan man who was shot by an ICE officer in Austin is being held at a detention center with a bullet still lodged in his back.",
         "url": "https://www.pbs.org/newshour/show/news-wrap-faa-issues-ground-stops-at-major-east-coast-airports-due-to-equipment-failure"
     },
@@ -288,24 +396,6 @@
         "url": "https://thehill.com/newsletters/healthcare/6102928-trump-admin-reportedly-considers-nih-grant-approval-takeover/"
     },
     {
-        "id": "https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle/",
-        "source": "The Hill",
-        "title": "The Memo: Trump’s latest war on the media met with lawsuit, TV boycott",
-        "publicationDate": "2026-09-21",
-        "category": "Analysis",
-        "summary": "An all-out confrontation between President Trump and the media escalated Monday, as three banned outlets launched a legal fight, Trump compared some reporting to “cancer,” and five major TV networks came together to announce a de facto boycott of White House pool coverage. It’s a remarkable sequence of events that began with Trump’s Friday announcement...",
-        "url": "https://thehill.com/homenews/analysis/6102924-trump-media-courtroom-battle/"
-    },
-    {
-        "id": "https://thehill.com/media/6102786-trump-whca-media-ban/",
-        "source": "The Hill",
-        "title": "Former WHCA president on Trump's press ban: 'An attack on one outlet is an attack on everyone'",
-        "publicationDate": "2026-09-21",
-        "category": "Media",
-        "summary": "Former White House Correspondents' Association (WHCA) president Weijia Jiang on Sunday said President Trump's ban on CNN, Politico and MS NOW reporters from covering the White House was an \"attack\" on all other news outlets. \"This is not a tantrum by three media outlets who are upset because they can't get into the White House...",
-        "url": "https://thehill.com/media/6102786-trump-whca-media-ban/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/09/21/us/politics/midterm-elections-economy.html",
         "source": "New York Times Politics",
         "title": "The State of the Economy Before the Midterms: Rising Inflation and A.I. Unease",
@@ -313,24 +403,6 @@
         "category": "Economy",
         "summary": "Why current conditions feel so weird, and what that could mean in November.",
         "url": "https://www.nytimes.com/2026/09/21/us/politics/midterm-elections-economy.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/21/nyregion/lawler-endorsement-golden-democrat.html",
-        "source": "New York Times Politics",
-        "title": "House Democrat Crosses Party Lines to Endorse Rep. Mike Lawler in Midterms Race",
-        "publicationDate": "2026-09-21",
-        "category": "Golden",
-        "summary": "Representative Mike Lawler, a Republican seeking re-election in a swing district in New York, was backed by Representative Jared Golden, Democrat of Maine.",
-        "url": "https://www.nytimes.com/2026/09/21/nyregion/lawler-endorsement-golden-democrat.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html",
-        "source": "New York Times Politics",
-        "title": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
-        "publicationDate": "2026-09-21",
-        "category": "Defense",
-        "summary": "Artificial intelligence is a race solely between two rival powers with the rest of the world largely on the sidelines, foreign policy experts said.",
-        "url": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/21/trumps-plan-militarize-proposed-arch-raises-new-legal-safety-concerns/",
@@ -394,69 +466,6 @@
         "category": "Other",
         "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
         "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "First UK charges brought over 1994 Rwanda genocide",
-        "publicationDate": "2026-09-21",
-        "category": "Other",
-        "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-        "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-        "publicationDate": "2026-09-21",
-        "category": "Other",
-        "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded.",
-        "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump presses Zelenskyy to stop hitting Russian refineries",
-        "publicationDate": "2026-09-21",
-        "category": "Foreign Policy",
-        "summary": "US president tells Ukrainian leader in phone call it is all about ‘diesel, diesel, diesel’, according to officials",
-        "url": "https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports",
-        "publicationDate": "2026-09-21",
-        "category": "Foreign Policy",
-        "summary": "Fuel price crisis triggered by president’s Iran war rattles legislators from rural America’s heartlands",
-        "url": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/17a6b374-df35-4e12-96c6-53e30ed64fe4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK to provide military support to Saudi Arabia in its fight with Houthi rebels",
-        "publicationDate": "2026-09-21",
-        "category": "Defense",
-        "summary": "Britain to deploy RAF aircraft offering ‘defensive air-to-air refuelling’ capability to the kingdom",
-        "url": "https://www.ft.com/content/17a6b374-df35-4e12-96c6-53e30ed64fe4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5fe15334-a5b8-49c5-aa89-935ad68a8749?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK workers to receive two weeks of unpaid leave for bereavement",
-        "publicationDate": "2026-09-21",
-        "category": "Other",
-        "summary": "Change in definition of those eligible will bring law ‘into the 21st century’",
-        "url": "https://www.ft.com/content/5fe15334-a5b8-49c5-aa89-935ad68a8749?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US news outlets to sue Trump administration over White House ban",
-        "publicationDate": "2026-09-21",
-        "category": "Other",
-        "summary": "Media groups vow to protect First Amendment rights after reporters’ access was withdrawn",
-        "url": "https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/09/20/nx-s1-5975459/president-trump-navigates-tough-political-waters-with-unga-xi-visit-and-ai",
@@ -538,15 +547,6 @@
         "category": "Defense",
         "summary": "Few Americans know this, but for at least 15 years, the Sinaloa Cartel has orchestrated an unceasing reign of sophisticated train robbery terror on the California and Arizona side of the Mexican border. In these heists , armed crews of mostly illegal Mexican immigrants have looted many hundreds of millions of dollars in easily fenced merchandise from the railcars, financially strengthening one of Mexico’s most...",
         "url": "https://www.heritage.org/crime-and-justice/commentary/the-anti-ice-campaign-protecting-mexicos-train-robbing-cartels"
-    },
-    {
-        "id": "https://www.heritage.org/marriage-and-family/commentary/give-the-federal-childcare-subsidy-parents-not-daycare",
-        "source": "Heritage Foundation",
-        "title": "Give the Federal Childcare Subsidy to Parents, Not Daycare",
-        "publicationDate": "2026-09-17",
-        "category": "Economy",
-        "summary": "The Trump administration is drafting a rule that would let qualifying married couples draw from the existing Child Care and Development Fund when one parent stays home with the children and the other works at least 35 hours a week. The typical benefit runs about $9,000 per child each year. The change would not invent a new entitlement or demand a new appropriation from Congress. It would simply allow some families...",
-        "url": "https://www.heritage.org/marriage-and-family/commentary/give-the-federal-childcare-subsidy-parents-not-daycare"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5130-1.html",
