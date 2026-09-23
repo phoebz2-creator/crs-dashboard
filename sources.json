@@ -1,21 +1,48 @@
 [
     {
-        "id": "IF11806",
-        "source": "Congressional Research Service",
-        "title": "Citizenship and Immigration Statuses of the U.S. Foreign-Born Population",
-        "publicationDate": "2026-09-22",
-        "category": "Foreign Policy",
-        "summary": "The U.S. foreign-born population consists of individuals living in the United States who were not U.S. citizens at birth. In 2024, according to the American Community Survey (ACS), an estimated 50.2 million foreign-born people resided in the United States, representing approximately 14.8% of the total U.S. population, equaling the highest proportion ever recorded since 1890. The ACS is a U.S. Census Bureau survey...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11806/IF11806.11.pdf"
+        "id": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html",
+        "source": "New York Times Politics",
+        "title": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.",
+        "publicationDate": "2026-09-23",
+        "category": "United States Politics and Government",
+        "summary": "President Trump signed a Greenland security deal that falls well short of his demands to turn the island into a U.S. territory.",
+        "url": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html"
     },
     {
-        "id": "LSB11403",
+        "id": "https://www.nytimes.com/2026/09/22/us/politics/trump-arch-national-security.html",
+        "source": "New York Times Politics",
+        "title": "Trump Cites National Security as He Faces Pushback on Press Ban, D.C. Arch and More",
+        "publicationDate": "2026-09-23",
+        "category": "United States Politics and Government",
+        "summary": "The president is increasingly invoking the rationale while facing legal challenges to his plans, even in more curious cases like his triumphal arch, which he says will now include snipers and drones.",
+        "url": "https://www.nytimes.com/2026/09/22/us/politics/trump-arch-national-security.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+        "publicationDate": "2026-09-23",
+        "category": "Foreign Policy",
+        "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "IF11120",
         "source": "Congressional Research Service",
-        "title": "International Agreements and Non-binding Instruments: The Case-Zablocki Act (Case Act)",
+        "title": "U.S.-Japan Trade Agreements and Tariff Negotiations",
         "publicationDate": "2026-09-22",
         "category": "Defense",
-        "summary": "In the early 1970s, Congress passed legislation to address concerns that Presidents were increasingly bypassing the Article II treaty process by using executive agreements to make international legal commitments for the United States—sometimes without congressional involvement or knowledge. The legislation, generally known as the Case-Zablocki Act of 1972 (Case Act), originally required the Secretary of State to...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11403/LSB11403.3.pdf"
+        "summary": "The United States and Japan have been close economic partners, though they do not have a comprehensive bilateral free trade agreement (FTA). Since 2020, the countries have entered into limited bilateral trade deals, covering market access, digital trade, and critical minerals. Following the imposition of U.S. tariffs on Japan in 2025, the U.S. and Japanese governments announced a framework agreement, under which...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11120/IF11120.26.pdf"
+    },
+    {
+        "id": "IF12240",
+        "source": "Congressional Research Service",
+        "title": "Defense Primer: Statutory Military Readiness Reporting",
+        "publicationDate": "2026-09-22",
+        "category": "Defense",
+        "summary": "Military readiness (or readiness) is a key defense concept upon which Congress has relied to make a wide array of national security decisions (e.g., regarding active and reserve component end strength and major defense acquisition programs). The Department of Defense (DOD) defines readiness as, “The ability of military forces to fight and meet the demands of assigned missions.” To inform its legislative and...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12240/IF12240.6.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/when-xi-comes-to-washington",
@@ -108,6 +135,15 @@
         "url": "https://www.hudson.org/technology/ai-revolution-could-become-national-security-disaster-if-we-arent-careful-alexandra-seymour"
     },
     {
+        "id": "https://cms.hoover.org/events/inside-chinas-secret-prisons-undercover-expose-and-its-lasting-legacy",
+        "source": "Hoover Institution",
+        "title": "Inside China's Secret Prisons: An Undercover Exposé and it's Lasting Legacy",
+        "publicationDate": "2026-09-22",
+        "category": "Foreign Policy",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/events/inside-chinas-secret-prisons-undercover-expose-and-its-lasting-legacy"
+    },
+    {
         "id": "https://cms.hoover.org/research/energy-realism-age-climate-alarmism",
         "source": "Hoover Institution",
         "title": "Energy Realism In An Age Of Climate Alarmism",
@@ -142,15 +178,6 @@
         "category": "Other",
         "summary": "Hoover Institution fellow Sergey Sanovich says elections in dictatorships don't matter – until they do.",
         "url": "https://cms.hoover.org/research/sergey-sanovich-trt-world"
-    },
-    {
-        "id": "https://cms.hoover.org/research/victor-davis-hanson-lefts-psychodrama-cycle-designed-win-them-elections",
-        "source": "Hoover Institution",
-        "title": "Victor Davis Hanson: The Left’s Psychodrama Cycle Is Designed To Win Them Elections",
-        "publicationDate": "2026-09-22",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Victor Davis Hanson says global warming, nuclear Winter, COVID-19, etc., and similar psychodramas that the Left always seems to drum up right around elections. Hanson says perhaps the impending AI ‘doomsday’ event right around the high-stakes November midterms isn’t a coincidence.",
-        "url": "https://cms.hoover.org/research/victor-davis-hanson-lefts-psychodrama-cycle-designed-win-them-elections"
     },
     {
         "id": "https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house",
@@ -198,94 +225,94 @@
         "url": "https://www.npr.org/2026/09/22/g-s1-144369/freedom-caucus-trump-republicans"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/fact-checking-trumps-speech-to-the-2026-united-nations-general-assembly",
+        "id": "https://www.pbs.org/newshour/show/trump-defends-iran-war-and-threatens-annihilation-at-un-general-assembly",
         "source": "PBS NewsHour Politics",
-        "title": "Fact-checking Trump's speech to the 2026 United Nations General Assembly",
-        "publicationDate": "2026-09-22",
-        "category": "Defense",
-        "summary": "In his address to the United Nations General Assembly, President Donald Trump defended the United States' robust use of military force in Iran, Venezuela and elsewhere, saying the international community is incapable of handling threats from those countries. Here are fact-checks of some of Trump's statements.",
-        "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-speech-to-the-2026-united-nations-general-assembly"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/abdul-el-sayed-says-kamala-harris-visit-for-his-michigan-u-s-senate-race-is-about-democratic-unity",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Senate candidate El-Sayed and former VP Harris speak at Black maternal health roundtable",
-        "publicationDate": "2026-09-22",
-        "category": "Healthcare",
-        "summary": "El-Sayed said Harris, who will attend a roundtable on Black maternal health with him and separately join an event hosted by the Detroit chapter of the NAACP, is a critical advocate in helping him close ranks as he tries to defeat Republican Mike Rogers.",
-        "url": "https://www.pbs.org/newshour/politics/abdul-el-sayed-says-kamala-harris-visit-for-his-michigan-u-s-senate-race-is-about-democratic-unity"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/world/watch-trump-signs-agreement-with-leaders-of-denmark-and-greenland",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump signs agreement with leaders of Denmark and Greenland",
-        "publicationDate": "2026-09-22",
-        "category": "Defense",
-        "summary": "The signing Tuesday on the sidelines of the U.N. General Assembly in New York comes days after President Donald Trump announced the deal to bolster U.S. military presence on the vast, icy island but keep it under Danish control.",
-        "url": "https://www.pbs.org/newshour/world/watch-trump-signs-agreement-with-leaders-of-denmark-and-greenland"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/republican-senator-calls-for-probe-of-trump-jr-after-wedding-party-bankrolled-by-russian-oligarch",
-        "source": "PBS NewsHour Politics",
-        "title": "Republican senator calls for probe of Trump Jr. after wedding party bankrolled by Russian oligarch",
+        "title": "Trump defends Iran war and threatens annihilation at UN General Assembly",
         "publicationDate": "2026-09-22",
         "category": "Foreign Policy",
-        "summary": "Republican Sen. John Curtis of Utah wants the Senate Judiciary Committee to investigate and subpoena Donald Trump Jr. after his wedding party was partially bankrolled by a Russian oligarch.",
-        "url": "https://www.pbs.org/newshour/politics/republican-senator-calls-for-probe-of-trump-jr-after-wedding-party-bankrolled-by-russian-oligarch"
+        "summary": "President Trump took his \"America First\" foreign policy to the world stage, using his address to the UN General Assembly to defend the war with Iran and issue a stark warning to Iran's leadership. Trump said a deal could come after the midterm elections and that the alternative was to \"annihilate the Islamic Republic.\" Nick Schifrin reports.",
+        "url": "https://www.pbs.org/newshour/show/trump-defends-iran-war-and-threatens-annihilation-at-un-general-assembly"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-trump-dismisses-concerns-about-ai-risks-at-un-says-he-wont-rein-it-in",
+        "id": "https://www.pbs.org/newshour/show/news-wrap-grand-jury-declines-to-bring-charges-in-death-of-nolan-wells",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump dismisses concerns about AI risks at UN, says he won't rein it in",
-        "publicationDate": "2026-09-22",
-        "category": "Defense",
-        "summary": "President Donald Trump said Tuesday at the United Nations that he is changing the term \"artificial intelligence\" to \"super intelligence\" because it's \"more accurate,\" as he dismissed global concerns about the technology and its effects on humanity.",
-        "url": "https://www.pbs.org/newshour/politics/watch-trump-dismisses-concerns-about-ai-risks-at-un-says-he-wont-rein-it-in"
-    },
-    {
-        "id": "https://thehill.com/business/6105363-barkin-inflation-short-order/",
-        "source": "The Hill",
-        "title": "Fed's Barkin 'open' to possibility of inflation declining 'in short order'",
-        "publicationDate": "2026-09-22",
-        "category": "Economy",
-        "summary": "Federal Reserve Bank of Richmond President Thomas Barkin said Tuesday that inflation could decline “in short order,” but he acknowledged prices could remain elevated amid the Iran war. “I’m open to the possibility that inflation could come back down in short order,” Barkin told the CFA Society’s Baltimore branch. Barkin noted recent “shocks” to the...",
-        "url": "https://thehill.com/business/6105363-barkin-inflation-short-order/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/energy-environment/6105320-trump-eyes-diesel-export-ban/",
-        "source": "The Hill",
-        "title": "Trump eyes diesel export ban",
-        "publicationDate": "2026-09-22",
-        "category": "Energy & Environment Newsletter",
-        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump considers banning diesel exports The Trump administration is considering a ban on exports of diesel as high prices of the fuel put a crunch on American agriculture and trucking. AP Photo/Julia Demaree Nikhinson When asked Tuesday whether he was considering a ban on...",
-        "url": "https://thehill.com/newsletters/energy-environment/6105320-trump-eyes-diesel-export-ban/"
-    },
-    {
-        "id": "https://thehill.com/homenews/6105208-trump-un-speech-iran-venezuela/",
-        "source": "The Hill",
-        "title": "5 takeaways from Trump’s whirlwind day at UN General Assembly",
+        "title": "News Wrap: Grand jury declines to bring charges in death of Nolan Wells",
         "publicationDate": "2026-09-22",
         "category": "Foreign Policy",
-        "summary": "President Trump threatened the annihilation of Iran if its leaders refuse to strike a deal and framed the U.S. as conquerors of Venezuela, while promoting himself as a problem solver in his speech to the United Nations General Assembly in New York on Tuesday. “To the victor go the spoils,” Trump told the crowd, touting...",
-        "url": "https://thehill.com/homenews/6105208-trump-un-speech-iran-venezuela/"
+        "summary": "In our news wrap Tuesday, a grand jury declined to bring charges in the death of Nolan Wells, a coroner found that actress Hayden Panettiere died from an accidental overdose of several drugs, including fentanyl and Republican Sen. John Curtis is calling for the Senate Judiciary Committee to investigate Donald Trump Jr. after news that a Russian businessman partially bankrolled his wedding party.",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-grand-jury-declines-to-bring-charges-in-death-of-nolan-wells"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6105280-hunter-biden-responds-senator-request/",
-        "source": "The Hill",
-        "title": "Hunter Biden responds to GOP senator's request: 'I'll sit next to Don Jr. and testify any time'",
+        "id": "https://www.pbs.org/newshour/show/what-the-paramount-warner-bros-merger-settlement-means-for-hollywood",
+        "source": "PBS NewsHour Politics",
+        "title": "What the Paramount-Warner Bros. merger settlement means for Hollywood",
         "publicationDate": "2026-09-22",
-        "category": "Senate",
-        "summary": "Hunter Biden, former President Biden’s son, on Tuesday responded to a request from a GOP senator for both himself and President Trump’s son, Donald Trump Jr. to testify before Congress. “Sen. Curtis of Utah has suggested that Don Jr. and I should testify before Congress,” the younger Biden said in a post on the social...",
-        "url": "https://thehill.com/homenews/senate/6105280-hunter-biden-responds-senator-request/"
+        "category": "CBS",
+        "summary": "A day after Paramount Skydance and a group of state attorneys general announced a settlement clearing the way for its merger with Warner Bros. Discovery, questions remain about whether the deal does enough to protect consumers and competition. Geoff Bennett discussed more with Oliver Darcy of Status.",
+        "url": "https://www.pbs.org/newshour/show/what-the-paramount-warner-bros-merger-settlement-means-for-hollywood"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6105262-lawsuit-trump-medicaid-work-requirements/",
-        "source": "The Hill",
-        "title": "Lawsuit targets 'medically frail' Medicaid work requirement exemption",
+        "id": "https://www.pbs.org/newshour/show/harris-joins-el-sayed-on-campaign-trail-as-democrats-focus-on-michigan-senate-race",
+        "source": "PBS NewsHour Politics",
+        "title": "Harris joins El-Sayed on campaign trail as Democrats focus on Michigan Senate race",
         "publicationDate": "2026-09-22",
         "category": "Healthcare",
-        "summary": "A new lawsuit is challenging how the Trump administration plans to exempt medically frail people from Medicaid work requirements. Medicaid enrollees, alongside several major health care advocacy organizations and the city of Columbus, Ohio, said the administration’s final rule implementing work requirements is not what Congress intended. They argue the rule narrowly defines who qualifies...",
-        "url": "https://thehill.com/policy/healthcare/6105262-lawsuit-trump-medicaid-work-requirements/"
+        "summary": "With 42 days until Election Day, the race to control Congress is now in high gear. In Michigan, one of Democrats' biggest names made their first major campaign stop of the cycle. Former Vice President Kamala Harris joined Senate candidate Abdul El-Sayed at a roundtable in Detroit focused on Black maternal health. Lisa Desjardins discussed the Michigan race with strategist Joel Payne.",
+        "url": "https://www.pbs.org/newshour/show/harris-joins-el-sayed-on-campaign-trail-as-democrats-focus-on-michigan-senate-race"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/researchers-explore-new-uses-for-abortion-related-drugs",
+        "source": "PBS NewsHour Politics",
+        "title": "Researchers explore new uses for abortion-related drugs",
+        "publicationDate": "2026-09-22",
+        "category": "Healthcare",
+        "summary": "For years, mifepristone and similar drugs have been used to treat uterine fibroids and endometriosis. Now researchers are exploring whether these drugs could have other uses in women's health, including preventing some cancers. But the politics and restrictions surrounding these drugs could affect the research. Special correspondent Sarah Varney reports for our series, Beyond Abortion.",
+        "url": "https://www.pbs.org/newshour/show/researchers-explore-new-uses-for-abortion-related-drugs"
+    },
+    {
+        "id": "https://thehill.com/homenews/6105496-trump-administration-drone-strike-controversy/",
+        "source": "The Hill",
+        "title": "Lawmakers across Americas urge US to end drug boat strike campaign",
+        "publicationDate": "2026-09-22",
+        "category": "Defense",
+        "summary": "{beacon} Defense &National Security Defense &National Security The Big Story Lawmakers across Americas urge US to end drug boat strike campaign More than 70 lawmakers from North and South America, including the U.S., Canada and Colombia, are calling on the Trump administration to end its deadly strike campaign against alleged drug-smuggling boats in the...",
+        "url": "https://thehill.com/homenews/6105496-trump-administration-drone-strike-controversy/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6105450-nessel-endorses-elsayed/",
+        "source": "The Hill",
+        "title": "Michigan attorney general Nessel endorses El-Sayed after previous criticism",
+        "publicationDate": "2026-09-22",
+        "category": "Campaign",
+        "summary": "Michigan Attorney General Dana Nessel (D) has endorsed Michigan Senate candidate Abdul El-Sayed, weeks after she criticized the Democratic nominee for his response to a March attack on a synagogue in their state. “We have one candidate that I know is going to fight against the Trump administration, is going to fight to protect …...",
+        "url": "https://thehill.com/homenews/campaign/6105450-nessel-endorses-elsayed/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/healthcare/6105393-maha-lashes-out-rfk-jr/",
+        "source": "The Hill",
+        "title": "MAHA lashes out at RFK Jr.",
+        "publicationDate": "2026-09-22",
+        "category": "Healthcare",
+        "summary": "{beacon} Healthcare Healthcare The Big Story MAHA activists call out Trump, RFK Jr. on mRNA Make America Healthy Again activists, alongside conservatives in the medical freedom movement, slammed President Trump and Health Secretary Robert F. Kennedy Jr. for failing “to take decisive action” on removing messenger RNA vaccines from the market. © AP Photo/Rod...",
+        "url": "https://thehill.com/newsletters/healthcare/6105393-maha-lashes-out-rfk-jr/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6105403-kagan-denies-surrogacy-emergency-bid/",
+        "source": "The Hill",
+        "title": "Kagan steers Supreme Court clear of high-profile surrogacy fight",
+        "publicationDate": "2026-09-22",
+        "category": "Court Battles",
+        "summary": "Supreme Court Justice Elena Kagan declined a surrogate’s emergency bid on Tuesday to intervene in her custody fight that drew national attention after the biological parents’ told her to get an abortion and she left for Texas instead. McKenna West, the surrogate, sought to lift a parentage judgment in favor of the couple issued in a California...",
+        "url": "https://thehill.com/regulation/court-battles/6105403-kagan-denies-surrogacy-emergency-bid/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6105303-usps-employee-indictment-mail-in-ballots/",
+        "source": "The Hill",
+        "title": "Justice Department indicts former postal worker for tossing out mail-in ballots in Utah",
+        "publicationDate": "2026-09-22",
+        "category": "Court Battles",
+        "summary": "The Justice Department (DOJ) unsealed an indictment Tuesday accusing a former U.S. Postal Service (USPS) employee of throwing out around 300 mail-in ballots in Utah. A federal grand jury indicted 34-year-old Damon Matai Seei, of Payson, Utah, last Wednesday on one count of unlawful secretion, destruction, and delay of mail, according to unsealed court records....",
+        "url": "https://thehill.com/regulation/court-battles/6105303-usps-employee-indictment-mail-in-ballots/"
     },
     {
         "id": "https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html",
@@ -315,22 +342,13 @@
         "url": "https://www.nytimes.com/2026/09/22/business/energy-environment/trump-diesel-exports-iran-war.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html",
-        "source": "New York Times Politics",
-        "title": "Supreme Court Order Gives Parents Custody of Baby in Surrogacy Fight",
-        "publicationDate": "2026-09-22",
-        "category": "Surrogate Motherhood",
-        "summary": "A surrogate refused to have an abortion after the fetus was diagnosed with a serious heart problem. She asked the justices to block a court order giving custody to the biological parents.",
-        "url": "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/22/world/europe/zelensky-trump-war-russia.html",
-        "source": "New York Times Politics",
-        "title": "Zelensky Says He Hopes Trump Will Help to End Russia-Ukraine War ‘Before Winter’",
+        "id": "https://www.washingtonpost.com/politics/2026/09/22/republican-sen-john-curtis-calls-investigation-donald-trump-jr/",
+        "source": "Washington Post Politics",
+        "title": "GOP senator calls for probe of Trump’s son over Russian oligarch’s role in wedding",
         "publicationDate": "2026-09-22",
         "category": "Foreign Policy",
-        "summary": "The remarks by President Volodymyr Zelensky of Ukraine came during a meeting with President Trump as an effort to restart talks with Russia has gone nowhere.",
-        "url": "https://www.nytimes.com/2026/09/22/world/europe/zelensky-trump-war-russia.html"
+        "summary": "The Utah senator is asking the Judiciary Committee to probe business dealings of presidential family members, also including Hunter Biden.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/22/republican-sen-john-curtis-calls-investigation-donald-trump-jr/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/22/harris-el-sayed-joint-campaign-appearance-carries-political-risk-reward/",
@@ -369,24 +387,6 @@
         "url": "https://www.washingtonpost.com/business/2026/09/22/trump-administration-examining-whether-do-diesel-export-ban/"
     },
     {
-        "id": "https://www.washingtonpost.com/elections/2026/09/22/byron-donalds-removes-trump-mentions-florida-governor-campaign-website/",
-        "source": "Washington Post Politics",
-        "title": "Florida governor candidate Byron Donalds removes Trump mentions from campaign website",
-        "publicationDate": "2026-09-22",
-        "category": "Other",
-        "summary": "Donalds is the latest Republican to apparently distance himself from the increasingly unpopular president.",
-        "url": "https://www.washingtonpost.com/elections/2026/09/22/byron-donalds-removes-trump-mentions-florida-governor-campaign-website/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-        "publicationDate": "2026-09-22",
-        "category": "Foreign Policy",
-        "summary": "In his speech, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
-        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Burnham expects to find 'common ground' with Trump in first meeting",
@@ -423,6 +423,33 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
+        "publicationDate": "2026-09-22",
+        "category": "Foreign Policy",
+        "summary": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
+        "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/276f5264-c3e1-418b-8acc-cd3d4f1ed31b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Qantas pushes ahead with new ultra-long flights despite high fuel prices",
+        "publicationDate": "2026-09-22",
+        "category": "Other",
+        "summary": "Chief executive Vanessa Hudson says Australian airline is confident demand for nonstop services is strong",
+        "url": "https://www.ft.com/content/276f5264-c3e1-418b-8acc-cd3d4f1ed31b?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/44ef48c9-13a4-4823-aa8f-cc9e2dfb5d17?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Why EU companies are now helping Chinese ones expand into Europe",
+        "publicationDate": "2026-09-22",
+        "category": "Other",
+        "summary": "Many multinationals seem to be adopting an approach of ‘if you can’t beat them, join them’",
+        "url": "https://www.ft.com/content/44ef48c9-13a4-4823-aa8f-cc9e2dfb5d17?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/1ca67e27-b6b6-454a-8d37-b957835201d7?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Labour MPs call for end to loophole that trimmed billionaire’s tax bill by £18mn",
@@ -441,40 +468,31 @@
         "url": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/22d1154b-8bea-4f8d-bfc4-5db7761d3612?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump says he would back US diesel export ban",
-        "publicationDate": "2026-09-22",
-        "category": "Foreign Policy",
-        "summary": "President’s support for suspending foreign sales comes as conflicts in Middle East and Ukraine send price of vital fuel soaring",
-        "url": "https://www.ft.com/content/22d1154b-8bea-4f8d-bfc4-5db7761d3612?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
-        "publicationDate": "2026-09-22",
-        "category": "Foreign Policy",
-        "summary": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
-        "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Nasdaq 100 rises to new high as ‘AI Fomo’ returns",
-        "publicationDate": "2026-09-22",
-        "category": "Other",
-        "summary": "Tech-heavy index recovers from summer sell-off",
-        "url": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1"
-    },
-    {
-        "id": "IN12740",
+        "id": "R49357",
         "source": "Congressional Research Service",
-        "title": "SBA’s Proposed Expansion of Small Business Program Eligibility",
+        "title": "Judiciary Appropriations, FY2026",
         "publicationDate": "2026-09-21",
-        "category": "Technology",
-        "summary": "Overview In a proposed rule announced August 20, 2026, the Small Business Administration (SBA) set new size standards for defining firm size while simultaneously issuing a notice for comments on a revised methodology for establishing, reviewing, and modifying these size standards. Currently, the SBA's size standards determine firm-size limits for various SBA services and contracting preferences by industry category...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12740/IN12740.1.pdf"
+        "category": "Economy",
+        "summary": "Funds for the judicial branch are included annually in the Financial Services and General Government (FSGG) appropriations bill. The bill provides funding for the U.S. Supreme Court; the U.S. Court of Appeals for the Federal Circuit; the U.S. Court of International Trade; U.S. courts of appeals and district courts; the Administrative Office of the U.S. Courts; the Federal Judicial Center; the U.S. Sentencing...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49357/R49357.2.pdf"
+    },
+    {
+        "id": "IF12265",
+        "source": "Congressional Research Service",
+        "title": "China Primer: Human Rights",
+        "publicationDate": "2026-09-21",
+        "category": "Foreign Policy",
+        "summary": "Overview The People’s Republic of China (PRC or China) party-state is an increasingly repressive authoritarian regime that has engaged in widespread human rights abuses. The party-state is dominated by Xi Jinping, who became Communist Party of China (CPC) general secretary in 2012 and PRC president in 2013 and began a norm-breaking third five-year term in his Party post in 2022. Xi has enforced greater ideological...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12265/IF12265.9.pdf"
+    },
+    {
+        "id": "R49356",
+        "source": "Congressional Research Service",
+        "title": "Internal Revenue Service’s Statistics of Income (SOI): Current Available Tabulations by State and Local Area",
+        "publicationDate": "2026-09-21",
+        "category": "Economy",
+        "summary": "This report summarizes data currently available from the Internal Revenue Service (IRS) on individual and estate tax filings tabulated by state, congressional district, ZIP code, county, and metro area. The IRS collection of U.S. population migration data through individual income tax filings is also discussed. This report reviews the methodology, data limitations, and expected publication schedules specific to...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49356/R49356.2.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/what-to-watch-for-at-unga-2026",
@@ -522,15 +540,6 @@
         "url": "https://www.heritage.org/education/commentary/the-great-migration-remaking-higher-ed"
     },
     {
-        "id": "IF10464",
-        "source": "Congressional Research Service",
-        "title": "United Nations Issues: Congressional Representatives to the UN General Assembly",
-        "publicationDate": "2026-09-18",
-        "category": "Economy",
-        "summary": "The annual session of the United Nations (UN) General Assembly is held at UN Headquarters in New York City. The President generally (but not always) appoints one Democrat and one Republican to serve as U.S. representatives to the session, alternating each year between the House and Senate. As of this writing, the President has not submitted nominations for the 81st Assembly session, which began on September 8,...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10464/IF10464.28.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5198-1.html",
         "source": "RAND Corporation",
         "title": "A Design Lab Pilot to Inform Strategies for Expanding Access to Medications for Opioid Use Disorder in Community Mental Health Centers",
@@ -538,15 +547,6 @@
         "category": "Healthcare",
         "summary": "A pilot Design Lab identified barriers and strategies to improving access to medications for opioid use disorder in community mental health settings. Expanding insurer reimbursement via a learning exchange was seen as most impactful and feasible.",
         "url": "https://www.rand.org/pubs/research_reports/RRA5198-1.html"
-    },
-    {
-        "id": "R49354",
-        "source": "Congressional Research Service",
-        "title": "The 21st Century ROAD to Housing Act (P.L. 119-101)",
-        "publicationDate": "2026-09-17",
-        "category": "Economy",
-        "summary": "The 21st Century ROAD to Housing Act (P.L. 119-101) was enacted at a time of increasing concerns about the affordability of both rental housing and homeownership and the extent to which insufficient housing supply may be contributing to affordability pressures. Both the 118th and 119th Congresses held numerous hearings to explore these concerns. P.L. 119-101 represents a compromise between two bills that were...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49354/R49354.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5130-1.html",
