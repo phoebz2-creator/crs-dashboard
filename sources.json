@@ -1,12 +1,12 @@
 [
     {
-        "id": "IF13321",
-        "source": "Congressional Research Service",
-        "title": "Estimated Effects on Effective Tax Rates and Revenues of Increasing the 199A Deduction for Pass-Through Businesses",
+        "id": "https://www.cfr.org/articles/what-trump-said-at-the-un-was-important-what-he-didnt-was-important-too",
+        "source": "Council on Foreign Relations",
+        "title": "What Trump Said at the UN Was Important. What He Didn’t Was Important, Too",
         "publicationDate": "2026-09-24",
-        "category": "Economy",
-        "summary": "Under Section 199A of the Internal Revenue Code (IRC), owners of pass-through businesses are eligible to claim a deduction of up to 20% of a firm’s qualified business income, subject to certain limitations. The deduction was added to the tax code from 2018 to 2025 by the 2018 reconciliation law (P.L. 115-97). The 2025 reconciliation law (P.L. 119-21) made the deduction permanent and widened eligibility limits....",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13321/IF13321.1.pdf"
+        "category": "Foreign Policy",
+        "summary": "Esther Brimmer’s work focuses on governance of the global commons, international organizations, and transatlantic relations. She previously served as the assistant secretary of state for international organization affairs from 2009 to 2013. For the fifth time, U.S. President Donald Trump ascended the marble dais to deliver his speech at the opening of the UN General […]",
+        "url": "https://www.cfr.org/articles/what-trump-said-at-the-un-was-important-what-he-didnt-was-important-too"
     },
     {
         "id": "https://www.cfr.org/articles/bill-clinton-signs-the-comprehensive-nuclear-test-ban-treaty",
@@ -25,6 +25,33 @@
         "category": "Foreign Policy",
         "summary": "Recent escalation in the Russia-Ukraine war has halted the Black Sea grain trade and metastasized into a war on the global food system. Combined with drought in the Northern Hemisphere, a looming super El Niño, and persistent instability in the Middle East—the world is on the verge of a crisis that could erase years of progress in reducing global hunger and push millions into acute food insecurity.",
         "url": "https://www.cfr.org/articles/hunger-on-the-horizon-the-new-black-sea-grain-crisis"
+    },
+    {
+        "id": "https://www.hudson.org/technology/why-us-should-pace-risk-not-speed-ai-race-china-jason-hsu",
+        "source": "Hudson Institute",
+        "title": "Why the US Should Pace the Risk but Not the Speed of the AI Race with China",
+        "publicationDate": "2026-09-24",
+        "category": "Defense",
+        "summary": "Why the US Should Pace the Risk but Not the Speed of the AI Race with China bbert@hudson.org Thu, 09/24/2026 - 09:58 SVG Commentary Sep 23, 2026 National Interest Why the US Should Pace the Risk but Not the Speed of the AI Race with China Jason Hsu Senior Fellow Jason Hsu Commentary Caption US President Donald Trump and Chinese President Xi Jinping look on during an arrival ceremony on September 23, 2026, at Joint...",
+        "url": "https://www.hudson.org/technology/why-us-should-pace-risk-not-speed-ai-race-china-jason-hsu"
+    },
+    {
+        "id": "https://cms.hoover.org/research/proposed-wealth-tax-risks-destroying-californias-innovation-engine-0",
+        "source": "Hoover Institution",
+        "title": "Proposed Wealth Tax Risks Destroying California’s Innovation Engine",
+        "publicationDate": "2026-09-24",
+        "category": "Economy",
+        "summary": "California voters will soon decide whether to impose a one-time 5% tax on the wealth of the state’s billionaires. Google co-founder Sergey Brin recently contributed $82 million to oppose the measure. His critics frame this as an existential battle between self-interested billionaires and the public interest. At stake are funds unions and legislators believe could be collected from billionaires and put to better use.",
+        "url": "https://cms.hoover.org/research/proposed-wealth-tax-risks-destroying-californias-innovation-engine-0"
+    },
+    {
+        "id": "https://cms.hoover.org/research/immigrants-constitution-built-stronger-america",
+        "source": "Hoover Institution",
+        "title": "An Immigrant’s Constitution Built A Stronger America",
+        "publicationDate": "2026-09-24",
+        "category": "Other",
+        "summary": "James Wilson foresaw the power of welcoming free people who aren’t held back by birth.",
+        "url": "https://cms.hoover.org/research/immigrants-constitution-built-stronger-america"
     },
     {
         "id": "https://www.cer.eu/media/unpacking-europe-scaling-innovation-europe",
@@ -74,11 +101,38 @@
     {
         "id": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
         "source": "NPR Politics",
-        "title": "Judge orders Trump administration to restore journalists' access to White House",
+        "title": "Journalists for CNN, MS NOW and Politico return to the White House upon judge's orders",
         "publicationDate": "2026-09-24",
         "category": "Other",
         "summary": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump.",
         "url": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/senate-to-vote-on-war-powers-resolution-to-halt-military-action-in-iran-as-gas-prices-upend-midterms",
+        "source": "PBS NewsHour Politics",
+        "title": "Senate to vote on war powers resolution to halt military action in Iran as gas prices upend midterms",
+        "publicationDate": "2026-09-24",
+        "category": "Defense",
+        "summary": "More Republicans are peeling way from the president as the war drags on, a rare slap back to Trump, as they campaign for control of Congress.",
+        "url": "https://www.pbs.org/newshour/politics/senate-to-vote-on-war-powers-resolution-to-halt-military-action-in-iran-as-gas-prices-upend-midterms"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/nation/new-york-sues-prediction-market-polymarket-calling-it-an-unlicensed-gambling-operation-that-puts-residents-at-risk",
+        "source": "PBS NewsHour Politics",
+        "title": "New York sues prediction market Polymarket, calling it an unlicensed gambling operation that puts residents at risk",
+        "publicationDate": "2026-09-24",
+        "category": "gambling",
+        "summary": "Prediction market platforms have argued states do not have the authority to govern them because they are already regulated at the federal level by the U.S. Commodity Futures Trading Commission.",
+        "url": "https://www.pbs.org/newshour/nation/new-york-sues-prediction-market-polymarket-calling-it-an-unlicensed-gambling-operation-that-puts-residents-at-risk"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/energy-department-will-spend-nearly-2-billion-to-squeeze-more-electricity-from-the-aging-power-grid",
+        "source": "PBS NewsHour Politics",
+        "title": "Energy Department will spend nearly $2 billion to squeeze more electricity from the nation's aging power grid",
+        "publicationDate": "2026-09-24",
+        "category": "AI",
+        "summary": "The money will go toward 31 projects across 26 states that are expected to produce more than 23 gigawatts of additional electricity capacity — enough to power 16 million homes.",
+        "url": "https://www.pbs.org/newshour/politics/energy-department-will-spend-nearly-2-billion-to-squeeze-more-electricity-from-the-aging-power-grid"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/trump-and-xi-jinping-will-hold-talks-in-washington-on-trade-ai-and-more",
@@ -92,146 +146,110 @@
     {
         "id": "https://www.pbs.org/newshour/politics/watch-live-senators-question-heidi-overton-in-confirmation-hearing-for-fda-commissioner",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Senators question Heidi Overton in confirmation hearing for FDA commissioner",
+        "title": "WATCH: Senators question Heidi Overton in confirmation hearing for FDA commissioner",
         "publicationDate": "2026-09-24",
         "category": "FDA",
         "summary": "Overton is an outspoken abortion critic and would oversee an ongoing FDA review of mifepristone, the nation's leading abortion pill.",
         "url": "https://www.pbs.org/newshour/politics/watch-live-senators-question-heidi-overton-in-confirmation-hearing-for-fda-commissioner"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/judge-orders-white-house-to-restore-access-to-cnn-ms-now-and-politico-reporters-say-theyre-still-blocked",
-        "source": "PBS NewsHour Politics",
-        "title": "Judge orders White House to restore access to CNN, MS NOW and Politico. Reporters say they're still blocked",
-        "publicationDate": "2026-09-24",
-        "category": "cnn",
-        "summary": "The back-and-forth is the latest in an extraordinary showdown between Trump and media outlets whose coverage he dislikes.",
-        "url": "https://www.pbs.org/newshour/politics/judge-orders-white-house-to-restore-access-to-cnn-ms-now-and-politico-reporters-say-theyre-still-blocked"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/6109105-democrats-sue-trump-polling-agents/",
+        "id": "https://thehill.com/homenews/campaign/6110148-younger-voters-negative-capitalism/",
         "source": "The Hill",
-        "title": "Democrats sue Trump administration over threats to deploy federal agents to polls",
-        "publicationDate": "2026-09-24",
-        "category": "Court Battles",
-        "summary": "Democratic Party leadership and campaign organizations sued the Trump administration on Wednesday over alleged threats to unlawfully deploy armed federal agents to polling sites during the midterm elections. The lawsuit, which was filed in the U.S. District Court for the District of Columbia, accuses Trump law enforcement and immigration officials of demonstrating “by word and...",
-        "url": "https://thehill.com/regulation/court-battles/6109105-democrats-sue-trump-polling-agents/"
-    },
-    {
-        "id": "https://thehill.com/opinion/congress-blog/6106886-house-early-exit-gop/",
-        "source": "The Hill",
-        "title": "Democrats hit Republicans with do-nothing charges after abrupt House adjournment",
-        "publicationDate": "2026-09-24",
-        "category": "Congress Blog",
-        "summary": "Speaker Mike Johnson abruptly ended the House of Representatives' legislative session early to allow members to campaign for the upcoming midterm elections following several contentious votes on sanctions, impeachment resolutions, and a war powers measure.",
-        "url": "https://thehill.com/opinion/congress-blog/6106886-house-early-exit-gop/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6109083-donalds-trump-agenda-website/",
-        "source": "The Hill",
-        "title": "Donalds calls Trump agenda 'common sense' after some mentions removed from campaign website",
+        "title": "Almost half of younger voters view capitalism negatively: Poll",
         "publicationDate": "2026-09-24",
         "category": "Campaign",
-        "summary": "Republican Rep. Byron Donalds (Fla.), who is running for governor in his state, said President Trump’s agenda is “common sense” following the removal of some mentions of the president’s name from Donalds’s campaign website. CBS News reported that Donalds, in an interview at a local summit Wednesday, was pressed on the edits. The Florida Republican...",
-        "url": "https://thehill.com/homenews/campaign/6109083-donalds-trump-agenda-website/"
+        "summary": "Nearly half of younger voters have a negative view towards capitalism, according to a new poll. In the NBC News poll, 47 percent of voter respondents in the age range of 18 to 29 had a negative outlook on capitalism, while 42 percent viewed socialism in a positive light, according to a report from the...",
+        "url": "https://thehill.com/homenews/campaign/6110148-younger-voters-negative-capitalism/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6108998-bolton-trump-xi-ai-deals/",
+        "id": "https://thehill.com/policy/energy-environment/6110095-whitehouse-sees-permitting-reform-progress/",
         "source": "The Hill",
-        "title": "Bolton: 'Trump just wants to announce deals' during Xi visit",
+        "title": "Democrat says lawmakers are close to a permitting reform deal",
         "publicationDate": "2026-09-24",
-        "category": "Administration",
-        "summary": "John Bolton, President Trump’s former national security adviser, said Wednesday Trump “just wants to announce deals” during Chinese President Xi Jinping's visit to the White House. In an interview on NewsNation, host Leland Vittert asked Bolton if Americans should believe the outcomes or announcements from meetings between Chinese and U.S. leaders. “Not really until you...",
-        "url": "https://thehill.com/homenews/administration/6108998-bolton-trump-xi-ai-deals/"
+        "category": "Energy & Environment",
+        "summary": "Lawmakers appear to be moving closer to reaching a deal to speed up the build-out of infrastructure projects, a key Democrat said Thursday. “We are over the hump on the dealbreaker issues, so we're in a very good place on the substance of the bill,” Sen. Sheldon Whitehouse (D-R.I.), the Senate Environment and Public Works...",
+        "url": "https://thehill.com/policy/energy-environment/6110095-whitehouse-sees-permitting-reform-progress/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6109004-peltola-denies-ny-times-report/",
+        "id": "https://thehill.com/homenews/senate/6110059-lawmakers-propose-film-tax-incentive/",
         "source": "The Hill",
-        "title": "Peltola campaign rips New York Times report on tumultuous operations",
-        "publicationDate": "2026-09-24",
-        "category": "Campaign",
-        "summary": "Former Rep. Mary Peltola’s (D-Alaska) Senate campaign has pushed back against a report from The New York Times on Wednesday that detailed chaos in her campaign operation. Several former Peltola aides who requested anonymity told the Times about profane outbursts and displays of anger throughout the campaign and her former congressional office. The tensions also...",
-        "url": "https://thehill.com/homenews/campaign/6109004-peltola-denies-ny-times-report/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html",
-        "source": "New York Times Politics",
-        "title": "From 15,000 to 185 to Zero: Trump’s Claims of Illegal Voting in Nevada Fizzle",
-        "publicationDate": "2026-09-24",
-        "category": "Trump",
-        "summary": "It was the Trump administration’s latest stumble in its effort to find proof of widespread noncitizen voting, despite decades of evidence that it is extremely rare.",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/24/us/politics/maine-senate-poll-collins-jackson-midterms.html",
-        "source": "New York Times Politics",
-        "title": "Collins Leads Jackson in Maine Senate Race: 7 Takeaways From a New Poll",
-        "publicationDate": "2026-09-24",
-        "category": "Maine",
-        "summary": "Voters in the battleground state favored Senator Susan Collins, the Republican incumbent, over Troy Jackson, a Democrat, in several important areas, according to a New York Times/Siena poll.",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/maine-senate-poll-collins-jackson-midterms.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/24/upshot/maine-poll-times-siena.html",
-        "source": "New York Times Politics",
-        "title": "Collins Leads in Maine in Our New Poll. Is That an Outlier or an Omen?",
-        "publicationDate": "2026-09-24",
-        "category": "Midterm Elections (2026)",
-        "summary": "There’s nothing more uncomfortable for a pollster than a result that stands out from the pack, but it doesn’t mean it should be dismissed.",
-        "url": "https://www.nytimes.com/2026/09/24/upshot/maine-poll-times-siena.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/24/us/politics/aba-law-schools-dei-trump.html",
-        "source": "New York Times Politics",
-        "title": "American Bar Association Fights to Keep Power to Vet Law Schools",
-        "publicationDate": "2026-09-24",
-        "category": "Accreditation",
-        "summary": "Losing its accreditation ability would be a blow to the nation’s largest association of lawyers and another example of how the Trump administration is reshaping higher education.",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/aba-law-schools-dei-trump.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html",
-        "source": "New York Times Politics",
-        "title": "‘Survival Mode Time’: Republicans Accelerate Their Break With Trump",
-        "publicationDate": "2026-09-24",
-        "category": "United States Politics and Government",
-        "summary": "The dissent reflects growing unease about the party’s prospects in November, as the G.O.P. struggles to overcome the president’s unpopularity.",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/world/2026/09/24/two-pandas-heading-atlanta-zoo-xi-jinping-announces/",
-        "source": "Washington Post Politics",
-        "title": "Two pandas heading to Atlanta zoo, Xi Jinping announces",
-        "publicationDate": "2026-09-24",
-        "category": "Other",
-        "summary": "Ping Ping and Fu Shuang are the latest additions to the cohort of furry ambassadors the Chinese have sent to the U.S. recently.",
-        "url": "https://www.washingtonpost.com/world/2026/09/24/two-pandas-heading-atlanta-zoo-xi-jinping-announces/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/24/ad-boosting-trump-paid-by-taxpayers-airing-la-chicago/",
-        "source": "Washington Post Politics",
-        "title": "Trump ad airing with government funding despite law against ‘propaganda’",
+        "title": "Bipartisan lawmakers announce 20-30 percent US film incentive package",
         "publicationDate": "2026-09-24",
         "category": "Economy",
-        "summary": "A TV ad boosting President Trump and saying that it was paid for by the U.S. government is airing in two major markets despite a federal law against using tax funds for \"propaganda.\"",
-        "url": "https://www.washingtonpost.com/politics/2026/09/24/ad-boosting-trump-paid-by-taxpayers-airing-la-chicago/"
+        "summary": "A bipartisan group of lawmakers introduced legislation Thursday that would create a federal tax incentive for film and television productions made in the U.S. in an effort to keep entertainment jobs from moving overseas. The incentive covers 20 percent of eligible domestic labor costs, with additional credits that could raise to as much as 30...",
+        "url": "https://thehill.com/homenews/senate/6110059-lawmakers-propose-film-tax-incentive/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/24/texas-voter-registration-backlog-could-affect-midterms/",
-        "source": "Washington Post Politics",
-        "title": "Texas voter-registration backlog could affect midterms",
+        "id": "https://thehill.com/policy/healthcare/6110064-senate-advances-chris-klomp-hhs/",
+        "source": "The Hill",
+        "title": "Senate committee advances Klomp as HHS No. 2",
         "publicationDate": "2026-09-24",
-        "category": "Other",
-        "summary": "County officials are suddenly facing a high volume of online applications, some nearly a year old, linked to a state error.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/24/texas-voter-registration-backlog-could-affect-midterms/"
+        "category": "Economy",
+        "summary": "A key Senate committee Thursday advanced the nomination of Chris Klomp to be deputy secretary of the Department of Health and Human Services (HHS), setting him up for a later floor vote for confirmation. The Senate Finance Committee voted 15-12, with Sen. Sheldon Whitehouse (D-R.I.) joining all Republicans. Klomp is already a powerful senior adviser...",
+        "url": "https://thehill.com/policy/healthcare/6110064-senate-advances-chris-klomp-hhs/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/24/pollwatcher-big-unseen-factor-how-voters-decide-midterm-elections/",
-        "source": "Washington Post Politics",
-        "title": "The Pollwatcher: The big, unseen factor in how voters decide midterm elections",
+        "id": "https://thehill.com/homenews/state-watch/6109855-dc-residents-impacted-federal-cuts/",
+        "source": "The Hill",
+        "title": "Most in DC area say they've been hurt by federal job cuts, furloughs: Gallup",
         "publicationDate": "2026-09-24",
-        "category": "Other",
-        "summary": "Plus: How can you tell if a poll invitation is legitimate?",
-        "url": "https://www.washingtonpost.com/politics/2026/09/24/pollwatcher-big-unseen-factor-how-voters-decide-midterm-elections/"
+        "category": "State Watch",
+        "summary": "A majority of residents in the Washington, D.C., area have been negatively impacted by the Trump administration’s federal job cuts, according to a new survey. More than half, 55 percent, of 2,801 residents in D.C. and nearby suburbs said their household was negatively affected by the reduction in the federal workforce in the past year,...",
+        "url": "https://thehill.com/homenews/state-watch/6109855-dc-residents-impacted-federal-cuts/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html",
+        "source": "New York Times Politics",
+        "title": "Senate Defeats Bid to Direct Trump to End Iran War or Seek Approval",
+        "publicationDate": "2026-09-24",
+        "category": "Foreign Policy",
+        "summary": "The vote came as a growing number of Republicans has broken from President Trump on the conflict, reflecting voters’ concerns ahead of midterm elections.",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/24/us/politics/who-is-tim-kelly-media-judge.html",
+        "source": "New York Times Politics",
+        "title": "Who Is the Trump-Appointed Judge Who Blocked the White House Media Ban?",
+        "publicationDate": "2026-09-24",
+        "category": "United States Politics and Government",
+        "summary": "Judge Timothy J. Kelly had worked as counsel for Senator Charles E. Grassley, who called him a “very talented attorney” in 2017.",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/who-is-tim-kelly-media-judge.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/24/upshot/arch-trump-washington.html",
+        "source": "New York Times Politics",
+        "title": "Federal Council Terminates Review of Arch’s Effects on Historic Sites",
+        "publicationDate": "2026-09-24",
+        "category": "Monuments and Memorials (Structures)",
+        "summary": "Trump’s allies end a legally required step, one of the final hurdles for the project to advance.",
+        "url": "https://www.nytimes.com/2026/09/24/upshot/arch-trump-washington.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html",
+        "source": "New York Times Politics",
+        "title": "As Trump Hosts State Dinner Honoring Xi, See the Menu",
+        "publicationDate": "2026-09-24",
+        "category": "Cooking and Cookbooks",
+        "summary": "The White House said that the three-course menu, including sea bass and bok choy, featured American ingredients with a “subtle Chinese influence.”",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/24/us/politics/iran-war-lawsuit-iranian-americans.html",
+        "source": "New York Times Politics",
+        "title": "Iranian American Group Files Suit Alleging Iran War Is Unconstitutional",
+        "publicationDate": "2026-09-24",
+        "category": "Foreign Policy",
+        "summary": "In a federal lawsuit filed on Thursday, an advocacy group asked a federal judge to declare that the seven-month war in Iran was never declared or authorized by Congress.",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/iran-war-lawsuit-iranian-americans.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/24/republicans-are-breaking-trump-iran-so-what-will-they-do-about-it/",
+        "source": "Washington Post Politics",
+        "title": "Republicans are breaking from Trump on Iran. So what will they do about it?",
+        "publicationDate": "2026-09-24",
+        "category": "Foreign Policy",
+        "summary": "Congress has rendered itself powerless to start and stop wars, despite the Constitution.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/24/republicans-are-breaking-trump-iran-so-what-will-they-do-about-it/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/24/trump-chinese-leader-xi-jinping-want-each-others-help-world-issues/",
@@ -243,49 +261,85 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/24/trump-chinese-leader-xi-jinping-want-each-others-help-world-issues/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+        "id": "https://www.washingtonpost.com/politics/2026/09/24/senate-rejects-measure-block-trump-ordering-more-strikes-iran/",
+        "source": "Washington Post Politics",
+        "title": "Senate rejects measure to block Trump from ordering more strikes on Iran",
+        "publicationDate": "2026-09-24",
+        "category": "Foreign Policy",
+        "summary": "The administration ignored passage of a similar resolution in June, arguing that it lacks the force of law.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/24/senate-rejects-measure-block-trump-ordering-more-strikes-iran/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/interactive/2026/09/24/how-every-senator-voted-iran-war-powers-resolution/",
+        "source": "Washington Post Politics",
+        "title": "How every senator voted on the Iran war powers resolution",
+        "publicationDate": "2026-09-24",
+        "category": "Foreign Policy",
+        "summary": "The Senate failed to block President Donald Trump from ordering further strikes on Iran in a 49-50 vote.",
+        "url": "https://www.washingtonpost.com/politics/interactive/2026/09/24/how-every-senator-voted-iran-war-powers-resolution/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/24/california-supreme-court-rules-sheriff-must-return-seized-ballots/",
+        "source": "Washington Post Politics",
+        "title": "California Supreme Court rules sheriff must return seized ballots",
         "publicationDate": "2026-09-24",
         "category": "Other",
-        "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
+        "summary": "The court ruled unanimously in two cases stemming from a vote last year on a ballot measure.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/24/california-supreme-court-rules-sheriff-must-return-seized-ballots/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "White House restores access to media outlets banned by Trump after judge's order",
+        "publicationDate": "2026-09-24",
+        "category": "Other",
+        "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
         "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
         "publicationDate": "2026-09-24",
         "category": "Other",
-        "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+        "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-        "publicationDate": "2026-09-24",
-        "category": "Healthcare",
-        "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
-        "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-        "publicationDate": "2026-09-24",
-        "category": "Foreign Policy",
-        "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-        "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
         "publicationDate": "2026-09-24",
         "category": "Defense",
-        "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-        "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss"
+        "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+        "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Priest killed and four injured in knife attack at Polish abbey",
+        "publicationDate": "2026-09-24",
+        "category": "Foreign Policy",
+        "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+        "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+        "publicationDate": "2026-09-24",
+        "category": "Foreign Policy",
+        "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+        "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/17b09993-8fed-47d1-9c04-e2d29ca75615?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "SoftBank pays steep price for record bond sale to fund OpenAI bet",
+        "publicationDate": "2026-09-24",
+        "category": "Other",
+        "summary": "Masayoshi Son’s group pays yields of up to 9.75% to raise more than $11bn in the largest junk bond offering on record",
+        "url": "https://www.ft.com/content/17b09993-8fed-47d1-9c04-e2d29ca75615?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
@@ -297,49 +351,40 @@
         "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
         "source": "Financial Times World",
-        "title": "White House defies court order and blocks access to news outlets",
+        "title": "Netanyahu tells UN Israel and US launched Iran war to ‘save civilisation’",
+        "publicationDate": "2026-09-24",
+        "category": "Foreign Policy",
+        "summary": "Israeli leader’s speech comes on high-profile day for international relations as Donald Trump hosts Xi Jinping at the White House",
+        "url": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73"
+    },
+    {
+        "id": "https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Goldman reaped more than $200mn in fees from hedge fund Situational Awareness",
         "publicationDate": "2026-09-24",
         "category": "Other",
-        "summary": "Donald Trump’s move to restrict CNN, Politico and MS Now is a major escalation against media",
-        "url": "https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1"
+        "summary": "Barely two-year-old AI-focused investment firm became biggest client of Wall Street bank’s prime brokerage unit",
+        "url": "https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/6cc7149f-a9f1-47f6-9faf-b98a28f9aedc?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "GoDaddy receives takeover offer from maker of Norton antivirus software",
+        "title": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
         "publicationDate": "2026-09-24",
-        "category": "Technology",
-        "summary": "Talks between web domain provider and Gen Digital at early stage but could allow acquirer to broaden its business beyond cyber security",
-        "url": "https://www.ft.com/content/6cc7149f-a9f1-47f6-9faf-b98a28f9aedc?syn-25a6b1a6=1"
+        "category": "Foreign Policy",
+        "summary": "The Chinese leader is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
+        "url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/1e788f4b-413b-4e92-a722-51e918513f7e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Rate rise ‘increasingly likely’ if energy price shock persists, says BoE official",
-        "publicationDate": "2026-09-24",
-        "category": "Other",
-        "summary": "Clare Lombardelli says there would be limits to companies’ ability to absorb high energy prices",
-        "url": "https://www.ft.com/content/1e788f4b-413b-4e92-a722-51e918513f7e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/46ea15a9-593d-45da-9705-a4928086b38d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "MPs to consider whether Bank of England’s remit is ‘fit for purpose’",
-        "publicationDate": "2026-09-24",
-        "category": "Other",
-        "summary": "Inquiry comes against backdrop of populist pressure on central banks in many countries",
-        "url": "https://www.ft.com/content/46ea15a9-593d-45da-9705-a4928086b38d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "95-1013",
+        "id": "RL34480",
         "source": "Congressional Research Service",
-        "title": "Bahrain: Issues for U.S. Policy",
+        "title": "Enrollment of Legislation: Relevant Congressional Procedures",
         "publicationDate": "2026-09-23",
-        "category": "Defense",
-        "summary": "The Kingdom of Bahrain is a small island nation connected by a causeway to Saudi Arabia (15.5 miles away) and once claimed by Iran (124 miles away). Wedged between these two larger regional powers, Bahrain has hosted a U.S. naval command headquarters since 1948. For decades, Bahrain has permitted U.S. access to its facilities and has hosted U.S. Naval Central Command (NAVCENT) and the U.S. Fifth Fleet at a base...",
-        "url": "https://www.congress.gov/crs_external_products/RS/PDF/95-1013/95-1013.191.pdf"
+        "category": "Other",
+        "summary": "An enrolled bill or resolution is the form of a measure finally agreed to by both chambers of Congress. Enrollment occurs in the chamber where the measure originated and is carried out by enrolling clerks under the supervision of the Clerk of the House of Representatives and Secretary of the Senate. Enrolled bills and joint resolutions are signed by the presiding officers of each chamber (or their designees) and...",
+        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL34480/RL34480.12.pdf"
     },
     {
         "id": "R49359",
@@ -348,16 +393,7 @@
         "publicationDate": "2026-09-23",
         "category": "Economy",
         "summary": "The National Collegiate Athletic Association (NCAA), a voluntary, self-governing organization of four-year colleges and universities, includes intercollegiate athletics programs organized into divisions, subdivisions, and conferences. Division I (DI) schools compete at the highest level and can offer students full athletic scholarships. Within DI are an elite group of conferences, known as the Autonomy or Power...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49359/R49359.1.pdf"
-    },
-    {
-        "id": "IF13320",
-        "source": "Congressional Research Service",
-        "title": "Defense Contractors, Data Rights, and the “Right to Repair”",
-        "publicationDate": "2026-09-23",
-        "category": "Defense",
-        "summary": "The U.S. Department of Defense (DOD) often relies on private contractors to support its mission. (DOD is using a “secondary Department of War designation” under Executive Order 14347.) DOD works with these contractors to develop and field complex weapons systems that include technologies developed by the government, by private contractors, or by a combination of both. Private companies may have intellectual...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13320/IF13320.1.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49359/R49359.2.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/xi-jinping-visits-the-white-house",
@@ -376,15 +412,6 @@
         "category": "Foreign Policy",
         "summary": "Long-standing educational programs such as Fulbright, Boren, and the Critical Language Scholarship are all suspended. A leader-level deal could bring them back and protect the students who take part.",
         "url": "https://www.cfr.org/articles/america-is-losing-the-ability-to-train-tomorrows-china-experts-the-trump-xi-summit-can-help"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/presidents-inbox/trump-rolls-out-the-red-carpet-for-xi",
-        "source": "Council on Foreign Relations",
-        "title": "Trump Rolls Out the Red Carpet for Xi",
-        "publicationDate": "2026-09-23",
-        "category": "Podcast",
-        "summary": "We Discuss: Mentioned on the Episode: Dario Amodei, “We Must Pace the Frontier,” darioamodei.com Julian Gewirtz, “Is Trump Really Giving Xi a State Visit 40 Days Before the Midterms?” Paper Tiger “Taiwan Relations Act (H.R. 2479),” U.S. Congress",
-        "url": "https://www.cfr.org/podcasts/presidents-inbox/trump-rolls-out-the-red-carpet-for-xi"
     },
     {
         "id": "https://www.hudson.org/politics-government/organization-remade-india-bill-drexel",
@@ -423,15 +450,6 @@
         "url": "https://www.hudson.org/national-security-defense/trump-addresses-iran-united-nations-rebeccah-heinrichs"
     },
     {
-        "id": "https://www.hudson.org/foreign-policy/us-china-ai-race-diplomacy-iran-rebeccah-heinrichs",
-        "source": "Hudson Institute",
-        "title": "The US-China AI Race and Diplomacy with Iran",
-        "publicationDate": "2026-09-23",
-        "category": "Defense",
-        "summary": "The US-China AI Race and Diplomacy with Iran bbert@hudson.org Wed, 09/23/2026 - 10:22 SVG In the Media Sep 22, 2026 Fox Business The US-China AI Race and Diplomacy with Iran Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox Business) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook...",
-        "url": "https://www.hudson.org/foreign-policy/us-china-ai-race-diplomacy-iran-rebeccah-heinrichs"
-    },
-    {
         "id": "https://cms.hoover.org/news/hoovers-national-civics-fellows-program-expands-second-year",
         "source": "Hoover Institution",
         "title": "Hoover’s National Civics Fellows Program Expands in Second Year",
@@ -443,7 +461,7 @@
     {
         "id": "https://cms.hoover.org/research/first-stop-californias-high-speed-rail-tiki-bar",
         "source": "Hoover Institution",
-        "title": "First Stop on California’s High-Speed Rail: The Tiki Bar!",
+        "title": "First Stop On California’s High-Speed Rail: The Tiki Bar!",
         "publicationDate": "2026-09-23",
         "category": "Other",
         "summary": "The state’s long road to ruin started with a dream and a wholly inadequate funding mechanism. The Golden State’s golden gravy train was never on sound financial ground—but the political wheels never stopped rolling.",
@@ -457,96 +475,6 @@
         "category": "Other",
         "summary": "Description not available from the source feed.",
         "url": "https://cms.hoover.org/profiles/camilo-ruiz-tassinari"
-    },
-    {
-        "id": "https://cms.hoover.org/profiles/robert-fairlie",
-        "source": "Hoover Institution",
-        "title": "Robert Fairlie",
-        "publicationDate": "2026-09-23",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/profiles/robert-fairlie"
-    },
-    {
-        "id": "https://cms.hoover.org/profiles/ran-nancy-xu",
-        "source": "Hoover Institution",
-        "title": "Ran 'Nancy' Xu",
-        "publicationDate": "2026-09-23",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/profiles/ran-nancy-xu"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/at-un-general-assembly-irans-president-responds-to-trumps-annihilation",
-        "source": "PBS NewsHour Politics",
-        "title": "At UN General Assembly, Iran's president responds to Trump's 'annihilation' threat",
-        "publicationDate": "2026-09-23",
-        "category": "Foreign Policy",
-        "summary": "The president of Iran told the United Nations General Assembly his country won't bend to U.S. intimidation. Masoud Pezeshkian spoke one day after President Trump threatened to escalate the war from the same stage. On the sidelines, U.S. and Iranian officials signaled no breakthroughs in mediated talks. Nick Schifrin reports.",
-        "url": "https://www.pbs.org/newshour/show/at-un-general-assembly-irans-president-responds-to-trumps-annihilation"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/xi-arrives-for-state-visit-amid-u-s-china-trade-tensions-and-ai-concerns",
-        "source": "PBS NewsHour Politics",
-        "title": "Xi arrives for state visit amid U.S.-China trade tensions and AI concerns",
-        "publicationDate": "2026-09-23",
-        "category": "Foreign Policy",
-        "summary": "Chinese President Xi Jinping arrived in Washington Wednesday evening for his first state visit in more than a decade. At the same time, a federal judge heard arguments in a lawsuit brought by CNN, MS NOW and Politico challenging President Trump's ban on the outlets from the White House. Liz Landers reports.",
-        "url": "https://www.pbs.org/newshour/show/xi-arrives-for-state-visit-amid-u-s-china-trade-tensions-and-ai-concerns"
-    },
-    {
-        "id": "https://www.heritage.org/defense/report/countering-drones-five-lessons-ukraine-natos-northeastern-flank",
-        "source": "Heritage Foundation",
-        "title": "Countering Drones: Five Lessons from Ukraine for NATO’s Northeastern Flank",
-        "publicationDate": "2026-09-22",
-        "category": "Defense",
-        "summary": "Ukrainian forces resisting the Russian invasion of their country have demonstrated how the use of drones as sensors, munitions, and even platforms can offset the natural advantages of a much larger and better-equipped military. What began as a conventional war dominated by artillery and armor has evolved into the world’s first large-scale drone war, although both sides are quickly adopting countermeasures to defend...",
-        "url": "https://www.heritage.org/defense/report/countering-drones-five-lessons-ukraine-natos-northeastern-flank"
-    },
-    {
-        "id": "https://www.heritage.org/china/commentary/china-moving-toward-new-form-coercion-sea",
-        "source": "Heritage Foundation",
-        "title": "China Is Moving Toward a New Form of Coercion at Sea",
-        "publicationDate": "2026-09-22",
-        "category": "Defense",
-        "summary": "Since Beijing announced special maritime operations on June 6, its forces have grown more assertive—pushing patrols into new waters, rotating formations to regularize presence, and deploying research vessels that can conduct military reconnaissance. This all points to a new form of coercion taking shape. On July 4, the Global Times —a mouthpiece for the Chinese Communist Party—declared that China’s maritime patrols...",
-        "url": "https://www.heritage.org/china/commentary/china-moving-toward-new-form-coercion-sea"
-    },
-    {
-        "id": "IN12740",
-        "source": "Congressional Research Service",
-        "title": "SBA’s Proposed Expansion of Small Business Program Eligibility",
-        "publicationDate": "2026-09-21",
-        "category": "Technology",
-        "summary": "Overview In a proposed rule announced August 20, 2026, the Small Business Administration (SBA) set new size standards for defining firm size while simultaneously issuing a notice for comments on a revised methodology for establishing, reviewing, and modifying these size standards. Currently, the SBA’s size standards determine firm-size limits for various SBA services and contracting preferences by industry category...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12740/IN12740.3.pdf"
-    },
-    {
-        "id": "https://www.heritage.org/progressivism/report/trojan-horses-covert-foreign-malign-influence-operations-america",
-        "source": "Heritage Foundation",
-        "title": "Trojan Horses: Covert Foreign Malign Influence Operations in America",
-        "publicationDate": "2026-09-21",
-        "category": "Defense",
-        "summary": "Testimony before the House Foreign Affairs Subcommittee on South and Central Asia United States House of Representatives September 15, 2026 Mike Gonzalez Angeles T. Arredondo Senior Fellow on E Pluribus Unum Davis Institute for National Security & Foreign Policy The Heritage Foundation My name is Mike Gonzalez. I am the Angeles T. Arredondo Senior Fellow on E Pluribus Unum at The Heritage Foundation. The views I...",
-        "url": "https://www.heritage.org/progressivism/report/trojan-horses-covert-foreign-malign-influence-operations-america"
-    },
-    {
-        "id": "https://www.heritage.org/energy/commentary/pulling-the-plug-bidenomics-war-affordable-power",
-        "source": "Heritage Foundation",
-        "title": "Pulling the Plug on Bidenomics’ War on Affordable Power",
-        "publicationDate": "2026-09-21",
-        "category": "Defense",
-        "summary": "Under President Biden, Washington spent four years making affordable electricity more difficult to produce, and the result was higher prices for consumers. Just days ago, though, the Trump administration took a major step in reversing that trend by scrapping a Biden-era power-plant rule that was forcing inexpensive plants to shut down. The Biden rule was sold as climate policy, but its real function was to shutter...",
-        "url": "https://www.heritage.org/energy/commentary/pulling-the-plug-bidenomics-war-affordable-power"
-    },
-    {
-        "id": "https://www.heritage.org/education/commentary/the-great-migration-remaking-higher-ed",
-        "source": "Heritage Foundation",
-        "title": "The Great Migration Remaking Higher Ed",
-        "publicationDate": "2026-09-21",
-        "category": "Economy",
-        "summary": "Americans have long expressed their political preferences at the ballot box and their economic preferences with moving vans. Increasingly, they are expressing a third preference—where their children attend college—and the destination looks remarkably like the other two. In 2025, North Carolina gained more than 84,000 residents from other states, more than any state in the union. Texas added over 67,000. California...",
-        "url": "https://www.heritage.org/education/commentary/the-great-migration-remaking-higher-ed"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5198-1.html",
@@ -585,6 +513,15 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3894-1.html"
     },
     {
+        "id": "R45154",
+        "source": "Congressional Research Service",
+        "title": "Lame Duck Sessions of Congress, 1935-2024 (74th-118th Congresses)",
+        "publicationDate": "2026-09-15",
+        "category": "Other",
+        "summary": "A “lame duck” session of Congress occurs whenever one Congress meets after its successor is elected but before the end of its own constitutional term. Under present conditions, any meeting of Congress between election day in November and the following January 3 is a lame duck session. Prior to 1933, when the Twentieth Amendment changed the dates of the congressional term, the last regular session of Congress was...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45154/R45154.17.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-2.html",
         "source": "RAND Corporation",
         "title": "Examining the Evolution of Veteran Labor Market Outcomes",
@@ -601,6 +538,51 @@
         "category": "Foreign Policy",
         "summary": "Ian Bond deputy director of the CER spoke alongside the Lithuanian Vice Foreign Minister Lina Rukštelienė in a discussion with Yaroslav Trofimov on Ukraine's future as a pillar of European security (from 4:35:40 mins). Ian Bond 10 September 2026",
         "url": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security"
+    },
+    {
+        "id": "https://www.heritage.org/life/commentary/what-the-us-reproductive-tourism-industry-really-selling",
+        "source": "Heritage Foundation",
+        "title": "What Is the U.S. Reproductive Tourism Industry Really Selling?",
+        "publicationDate": "2026-09-11",
+        "category": "Foreign Policy",
+        "summary": "Following the Supreme Court’s landmark decision on birthright citizenship, moves to ban foreign nationals from using American surrogates dominated headlines. But lawmakers should not stop there. The U.S. should restrict all forms of reproductive tourism, not just birth-tourism. Surrogacy is just one branch of a larger reproductive industry. In fact, most reproductive tourists seek in vitro fertilization . Before...",
+        "url": "https://www.heritage.org/life/commentary/what-the-us-reproductive-tourism-industry-really-selling"
+    },
+    {
+        "id": "https://www.heritage.org/taxes/commentary/nashville-needs-honky-tonk-hero",
+        "source": "Heritage Foundation",
+        "title": "Nashville Needs a Honky Tonk Hero",
+        "publicationDate": "2026-09-11",
+        "category": "Economy",
+        "summary": "The honky tonks of Nashville’s Lower Broadway should not become casualties of the city’s success. With property tax bills surging, many of the venues that made Music City famous could be forced to close, killing a living piece of American culture. From Loretta Lynn to Morgan Wallen, from the Grand Ole Opry to Elvis Presley recording at RCA Studio B, Nashville has exported a distinctly American culture to the rest...",
+        "url": "https://www.heritage.org/taxes/commentary/nashville-needs-honky-tonk-hero"
+    },
+    {
+        "id": "https://www.heritage.org/global-politics/report/state-department-must-end-support-the-radical-un-childrens-fund",
+        "source": "Heritage Foundation",
+        "title": "State Department Must End Support for the Radical U.N. Children’s Fund",
+        "publicationDate": "2026-09-11",
+        "category": "Defense",
+        "summary": "During the past year, the U.S. Department of State has channeled more than $300 million to the United Nations Children’s Fund (UNICEF) to help “children suffering from malnutrition in 13 countries with lifesaving food [and] to deliver life-saving support to children and families affected by humanitarian crises around the world.” See news release, “More Than $93 Million in Emergency Nutrition Assistance for 13...",
+        "url": "https://www.heritage.org/global-politics/report/state-department-must-end-support-the-radical-un-childrens-fund"
+    },
+    {
+        "id": "https://www.heritage.org/education/commentary/americas-public-schools-have-empty-desk-problem",
+        "source": "Heritage Foundation",
+        "title": "America’s Public Schools Have an Empty-Desk Problem",
+        "publicationDate": "2026-09-11",
+        "category": "Economy",
+        "summary": "Chronic absenteeism is defined as a student missing 10 percent of classes, roughly 18 days in a typical school year. About one in five American kids now fall into that category. In New York City public schools, the figure climbs to roughly one in three . Chicago Public Schools reported more than 40 percent of students as chronically absent in the 2024-25 school year. Among black students, the rate hit 45 percent;...",
+        "url": "https://www.heritage.org/education/commentary/americas-public-schools-have-empty-desk-problem"
+    },
+    {
+        "id": "https://www.heritage.org/trade/commentary/fears-canadian-trade-war-are-overblown-so-far-its-more-skirmish",
+        "source": "Heritage Foundation",
+        "title": "Fears of a Canadian Trade War Are Overblown. So Far, It’s More of a Skirmish",
+        "publicationDate": "2026-09-11",
+        "category": "Foreign Policy",
+        "summary": "Listening to most of the media and Canada’s prime minister, you’d think the U.S. and its northern neighbor were in a full-blown trade war after new tariffs were announced days ago. Au contraire: Anyone who checks the numbers can see this is merely a skirmish. On Aug. 22, the administration's Section 338 tariffs took effect, at 50% on roughly $20 billion of Canadian goods, or about 5% of what Canada sells the U.S....",
+        "url": "https://www.heritage.org/trade/commentary/fears-canadian-trade-war-are-overblown-so-far-its-more-skirmish"
     },
     {
         "id": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe",
@@ -628,5 +610,23 @@
         "category": "Other",
         "summary": "Barry Lenihan, RTÉ Political Correspondent and Camino Mortera-Martinez, an associate fellow at the Centre for European Reform and former adviser to Spanish Prime Minister Pedro Sanchez. Camino Mortera-Martinez View multimedia 04 August 2026",
         "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
+    },
+    {
+        "id": "IF12047",
+        "source": "Congressional Research Service",
+        "title": "Farm Bill Primer: Overview and Status",
+        "publicationDate": "2026-05-07",
+        "category": "Economy",
+        "summary": "A farm bill is a collection of laws and changes to laws that authorize, reauthorize, or amend various food, agriculture, and rural policies. Congress has passed farm bills about every five years for nearly a century. A periodic farm bill provides Congress with an opportunity to reexamine agriculture and food policies and programs. This report provides an overview of the farm bill, including what is typically...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12047/IF12047.19.pdf"
+    },
+    {
+        "id": "R46601",
+        "source": "Congressional Research Service",
+        "title": "Searches and Seizures at the Border and the Fourth Amendment",
+        "publicationDate": "2021-03-30",
+        "category": "Foreign Policy",
+        "summary": "Congress has broad authority to regulate persons or items entering the United States, an authority that is rooted in its power to regulate foreign commerce and to protect the integrity of the nation’s borders. Exercising this authority, Congress has established a comprehensive framework that authorizes federal law enforcement officers to inspect and search persons and property at the border to ensure that their...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46601/R46601.4.pdf"
     }
 ]
