@@ -1,12 +1,30 @@
 [
     {
+        "id": "https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html",
+        "source": "New York Times Politics",
+        "title": "Iowa Judge Dismisses Trump’s Lawsuit Against The Des Moines Register",
+        "publicationDate": "2026-09-24",
+        "category": "United States Politics and Government",
+        "summary": "The suit challenged a poll that showed Trump trailing Kamala Harris in the final weeks of the 2024 race. A judge warned that similar legal challenges could have a chilling effect on news reporting.",
+        "url": "https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html"
+    },
+    {
+        "id": "R49359",
+        "source": "Congressional Research Service",
+        "title": "College Sports Media Rights: Background and Issues for Congressional Consideration",
+        "publicationDate": "2026-09-23",
+        "category": "Economy",
+        "summary": "The National Collegiate Athletic Association (NCAA), a voluntary, self-governing organization of four-year colleges and universities, includes intercollegiate athletics programs organized into divisions, subdivisions, and conferences. Division I (DI) schools compete at the highest level and can offer students full athletic scholarships. Within DI are an elite group of conferences, known as the Autonomy or Power...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49359/R49359.1.pdf"
+    },
+    {
         "id": "RL34480",
         "source": "Congressional Research Service",
         "title": "Enrollment of Legislation: Relevant Congressional Procedures",
         "publicationDate": "2026-09-23",
         "category": "Other",
         "summary": "An enrolled bill or resolution is the form of a measure finally agreed to by both chambers of Congress. Enrollment occurs in the chamber where the measure originated and is carried out by enrolling clerks under the supervision of the Clerk of the House of Representatives and Secretary of the Senate. Enrolled bills and joint resolutions are signed by the presiding officers of each chamber (or their designees) and...",
-        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL34480/RL34480.10.pdf"
+        "url": "https://www.congress.gov/crs_external_products/RL/HTML/RL34480.html"
     },
     {
         "id": "IF13319",
@@ -16,15 +34,6 @@
         "category": "Economy",
         "summary": "Private investments’ involvement in the insurance industry often takes two forms: (1) private equity (PE) ownership of insurers and (2) insurance company holdings of private investment assets. Rapid growth in these activities and their associated risks have drawn attention from Congress and financial regulators. Private investments (also known as alternative investments, private placements, or private capital)...",
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13319/IF13319.1.pdf"
-    },
-    {
-        "id": "IF13318",
-        "source": "Congressional Research Service",
-        "title": "Air Force MQ-9A Reaper: Background and Issues for Congress",
-        "publicationDate": "2026-09-23",
-        "category": "Defense",
-        "summary": "The MQ-9A Reaper is a multi-role uncrewed aircraft system (UAS, or drone) produced by General Atomics Aeronautical Systems, Inc. Within the U.S. Department of Defense (DOD), the Air Force operates the greatest number of Reapers; the Air National Guard and Marine Corps also operate the MQ-9A. (DOD is “using a secondary Department of War designation,” under Executive Order 14347 dated September 5, 2025.) The Air...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13318/IF13318.1.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/xi-jinping-visits-the-white-house",
@@ -99,49 +108,49 @@
         "url": "https://www.hudson.org/foreign-policy/us-china-ai-race-diplomacy-iran-rebeccah-heinrichs"
     },
     {
-        "id": "https://cms.hoover.org/research/taxing-wealthiest-france-record-poor-california-its-supposedly-worse",
+        "id": "https://cms.hoover.org/news/hoovers-national-civics-fellows-program-expands-second-year",
         "source": "Hoover Institution",
-        "title": "Taxing The Wealthiest: \"In France, The Record Is Poor, In California It's Supposedly Worse.\"",
-        "publicationDate": "2026-09-23",
-        "category": "Economy",
-        "summary": "(Original page in French) Hoover Institution fellow Benjamin Jaros warns against the proposed wealth tax on billionaires, soon to be put to a referendum in California.",
-        "url": "https://cms.hoover.org/research/taxing-wealthiest-france-record-poor-california-its-supposedly-worse"
-    },
-    {
-        "id": "https://cms.hoover.org/research/victor-davis-hanson-tucker-carlson-wrong-about-hiroshima-and-me",
-        "source": "Hoover Institution",
-        "title": "Victor Davis Hanson: Tucker Carlson Is Wrong About Hiroshima—And Me",
+        "title": "Hoover’s National Civics Fellows Program Expands in Second Year",
         "publicationDate": "2026-09-23",
         "category": "Other",
-        "summary": "Hoover Institution fellow Victor Davis Hanson talks about the atomic bombings of Hiroshima and Nagasaki and says Tucker Carlson is wrong about Hiroshima—and him.",
-        "url": "https://cms.hoover.org/research/victor-davis-hanson-tucker-carlson-wrong-about-hiroshima-and-me"
+        "summary": "A civics fellowship program launched last year at Hoover’s Center for Revitalizing American Institutions (RAI) is growing in size and scope in its second year.",
+        "url": "https://cms.hoover.org/news/hoovers-national-civics-fellows-program-expands-second-year"
     },
     {
-        "id": "https://cms.hoover.org/research/trump-xi-summit-byds-evergrande-crisis-xi-jinpings-health-concerns",
+        "id": "https://cms.hoover.org/research/first-stop-californias-high-speed-rail-tiki-bar",
         "source": "Hoover Institution",
-        "title": "Trump–Xi Summit, BYD’s “Evergrande” Crisis, Xi Jinping’s Health Concerns",
+        "title": "First Stop on California’s High-Speed Rail: The Tiki Bar!",
         "publicationDate": "2026-09-23",
-        "category": "Healthcare",
-        "summary": "Hoover Institution fellow Miles Yu takes a look ahead at the Donald Trump–Xi Jinping summit and details what to expect during this round two of meetings between the presidents.",
-        "url": "https://cms.hoover.org/research/trump-xi-summit-byds-evergrande-crisis-xi-jinpings-health-concerns"
+        "category": "Other",
+        "summary": "The state’s long road to ruin started with a dream and a wholly inadequate funding mechanism. The Golden State’s golden gravy train was never on sound financial ground—but the political wheels never stopped rolling.",
+        "url": "https://cms.hoover.org/research/first-stop-californias-high-speed-rail-tiki-bar"
     },
     {
-        "id": "https://cms.hoover.org/research/technology-security-featuring-anne-neuberger-general-partner-head-global-affairs-a16z",
+        "id": "https://cms.hoover.org/profiles/camilo-ruiz-tassinari",
         "source": "Hoover Institution",
-        "title": "Technology Is Security: Featuring Anne Neuberger, General Partner & Head Of Global Affairs, A16Z – Betting On America",
+        "title": "Camilo Ruiz Tassinari",
         "publicationDate": "2026-09-23",
-        "category": "Technology",
-        "summary": "Hoover Institution fellow Anne Neuberger makes the case that technology leadership is security. She argues that sustaining leadership has become increasingly challenging as acceleration technologies like AI, robotics, quantum, and cyber converge, creating significant upsides for innovation but also downside risks.",
-        "url": "https://cms.hoover.org/research/technology-security-featuring-anne-neuberger-general-partner-head-global-affairs-a16z"
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/profiles/camilo-ruiz-tassinari"
     },
     {
-        "id": "https://cms.hoover.org/research/michael-mcconnell-constitution-day-lecture-technology-and-constitutional-rot",
+        "id": "https://cms.hoover.org/profiles/robert-fairlie",
         "source": "Hoover Institution",
-        "title": "Michael McConnell - Constitution Day Lecture: Technology And Constitutional Rot",
+        "title": "Robert Fairlie",
         "publicationDate": "2026-09-23",
-        "category": "Technology",
-        "summary": "Hoover Institution fellow Michael McConnell discusses technology and laws as they apply to the constitution on Constitution Day.",
-        "url": "https://cms.hoover.org/research/michael-mcconnell-constitution-day-lecture-technology-and-constitutional-rot"
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/profiles/robert-fairlie"
+    },
+    {
+        "id": "https://cms.hoover.org/profiles/ran-nancy-xu",
+        "source": "Hoover Institution",
+        "title": "Ran 'Nancy' Xu",
+        "publicationDate": "2026-09-23",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/profiles/ran-nancy-xu"
     },
     {
         "id": "https://www.npr.org/2026/09/23/nx-s1-5978130/results-are-in-from-the-newest-npr-pbs-news-marist-poll",
@@ -155,7 +164,7 @@
     {
         "id": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
         "source": "NPR Politics",
-        "title": "Trump set to greet Xi for high-stakes state visit",
+        "title": "Trump and Xi meet at moment of global consequence",
         "publicationDate": "2026-09-23",
         "category": "Other",
         "summary": "It is the second time the leaders are meeting this year after the Beijing summit in May.",
@@ -189,94 +198,121 @@
         "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/trump-administrations-ban-of-three-prominent-news-outlets-from-white-house-is-in-court",
+        "id": "https://www.pbs.org/newshour/show/at-un-general-assembly-irans-president-responds-to-trumps-annihilation",
         "source": "PBS NewsHour Politics",
-        "title": "Trump administration's ban of three prominent news outlets from White House is in court",
+        "title": "At UN General Assembly, Iran's president responds to Trump's 'annihilation' threat",
         "publicationDate": "2026-09-23",
-        "category": "cnn",
-        "summary": "The extraordinary showdown between President Donald Trump and media outlets whose coverage he dislikes moved Wednesday to a courtroom in the nation's capital, where a judge is hearing arguments on whether the president's move banning three news organizations from White House grounds violates the Constitution.",
-        "url": "https://www.pbs.org/newshour/politics/trump-administrations-ban-of-three-prominent-news-outlets-from-white-house-is-in-court"
+        "category": "Foreign Policy",
+        "summary": "The president of Iran told the United Nations General Assembly his country won't bend to U.S. intimidation. Masoud Pezeshkian spoke one day after President Trump threatened to escalate the war from the same stage. On the sidelines, U.S. and Iranian officials signaled no breakthroughs in mediated talks. Nick Schifrin reports.",
+        "url": "https://www.pbs.org/newshour/show/at-un-general-assembly-irans-president-responds-to-trumps-annihilation"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/trumps-focus-on-noncitizen-voting-has-led-to-160-arrests-that-shows-its-rare-experts-say",
+        "id": "https://www.pbs.org/newshour/show/xi-arrives-for-state-visit-amid-u-s-china-trade-tensions-and-ai-concerns",
         "source": "PBS NewsHour Politics",
-        "title": "Trump's focus on noncitizen voting has led to 160 arrests. That shows it's rare, experts say",
+        "title": "Xi arrives for state visit amid U.S.-China trade tensions and AI concerns",
         "publicationDate": "2026-09-23",
-        "category": "2026 midterm elections",
-        "summary": "The Trump administration's whole-of-government effort to find and prosecute noncitizens illegally on state voter rolls has resulted in about 1,600 voter fraud cases that have led to 160 arrests, Homeland Security Investigations senior official Matthew Millhollin said in a press briefing Tuesday.",
-        "url": "https://www.pbs.org/newshour/politics/trumps-focus-on-noncitizen-voting-has-led-to-160-arrests-that-shows-its-rare-experts-say"
+        "category": "Foreign Policy",
+        "summary": "Chinese President Xi Jinping arrived in Washington Wednesday evening for his first state visit in more than a decade. At the same time, a federal judge heard arguments in a lawsuit brought by CNN, MS NOW and Politico challenging President Trump banning the outlets from the White House. Liz Landers reports.",
+        "url": "https://www.pbs.org/newshour/show/xi-arrives-for-state-visit-amid-u-s-china-trade-tensions-and-ai-concerns"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/sen-bernie-sanders-unveils-bill-to-ban-artificial-superintelligence-and-create-department-of-ai",
+        "id": "https://www.pbs.org/newshour/show/news-wrap-fbi-investigating-hacking-groups-claim-it-breached-jobs-website",
         "source": "PBS NewsHour Politics",
-        "title": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+        "title": "News Wrap: FBI investigating hacking group's claim it breached jobs website",
+        "publicationDate": "2026-09-23",
+        "category": "news wrap",
+        "summary": "In our news wrap Wednesday, the FBI says it's investigating a claim by a criminal hacking group that it stole \"very sensitive data\" from the bureau's job website, Hurricane Polo off Mexico's western coast has strengthened into one of the most powerful storms in decades and a federal court temporarily blocked the deportation of a Venezuelan delivery driver who was shot by an ICE agent in Austin.",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-fbi-investigating-hacking-groups-claim-it-breached-jobs-website"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/new-poll-reveals-how-trumps-low-approval-might-affect-midterms",
+        "source": "PBS NewsHour Politics",
+        "title": "New poll reveals how Trump's low approval might affect midterms",
+        "publicationDate": "2026-09-23",
+        "category": "Democrats",
+        "summary": "With voting for the midterm elections already underway, President Trump is asking voters to pretend he's on the ballot. A new PBS News/NPR/Marist poll finds that people are, but that could be bad news for the president. We found Democratic congressional candidates hold a significant lead over Republicans. Lisa Desjardins has the insights from that poll.",
+        "url": "https://www.pbs.org/newshour/show/new-poll-reveals-how-trumps-low-approval-might-affect-midterms"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/former-kansas-gop-governor-explains-why-hes-backing-democrat-adam-hamilton-for-senate",
+        "source": "PBS NewsHour Politics",
+        "title": "Former Kansas GOP governor explains why he's backing Democrat Adam Hamilton for Senate",
+        "publicationDate": "2026-09-23",
+        "category": "Adam Hamilton",
+        "summary": "Former Kansas Gov. Bill Graves, a Republican, crossed party lines to endorse Democrat Adam Hamilton in his bid to unseat Republican Sen. Roger Marshall. Graves said the country is facing \"increasing partisan gridlock and division\" and that it's \"time Kansas does something different.\" He joined Geoff Bennett to discuss that decision and what it says about his view of the Republican Party today.",
+        "url": "https://www.pbs.org/newshour/show/former-kansas-gop-governor-explains-why-hes-backing-democrat-adam-hamilton-for-senate"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6107744-trump-xi-summit-washington/",
+        "source": "The Hill",
+        "title": "Five crucial issues lawmakers want Trump to address with China",
+        "publicationDate": "2026-09-23",
+        "category": "Foreign Policy",
+        "summary": "President Trump and Chinese President Xi Jinping will hold a series of high-stakes meetings in Washington, marking the first official state visit by China’s leader in over a decade. The meetings come at a fragile moment in relations between the U.S. and Beijing, which have spent the better part of the last two years embroiled...",
+        "url": "https://thehill.com/homenews/administration/6107744-trump-xi-summit-washington/"
+    },
+    {
+        "id": "https://thehill.com/business/6107670-fed-governor-barr-rate-hike/",
+        "source": "The Hill",
+        "title": "Fed's Barr says future interest rate hikes 'likely' needed to tame inflation",
+        "publicationDate": "2026-09-23",
+        "category": "Economy",
+        "summary": "Federal Reserve Governor Michael Barr said Wednesday the central bank will “likely” raise interest rates again to counter persistent inflation, after it did so last week for the first time in three-plus years. Barr, a member of the rate-setting Federal Open Market Committee (FOMC), said the unanimous decision to raise the benchmark interest rate by...",
+        "url": "https://thehill.com/business/6107670-fed-governor-barr-rate-hike/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/defense-national-security/6107715-house-lame-duck-impeachment-dilemma-hegseth/",
+        "source": "The Hill",
+        "title": "House has lame-duck impeachment dilemma with Hegseth",
         "publicationDate": "2026-09-23",
         "category": "Defense",
-        "summary": "Two leading progressive lawmakers, Sen. Bernie Sanders and Rep. Greg Casar, are unveiling legislation Wednesday that would ban artificial superintelligence and create a federal agency to oversee advanced AI.",
-        "url": "https://www.pbs.org/newshour/politics/sen-bernie-sanders-unveils-bill-to-ban-artificial-superintelligence-and-create-department-of-ai"
+        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story House has lame-duck impeachment dilemma with Hegseth The impeachment effort against Defense Secretary Pete Hegseth posed a dilemma for Republican leaders ahead of the midterms, but it could be Democrats in the bind afterward. © Mark...",
+        "url": "https://thehill.com/newsletters/defense-national-security/6107715-house-lame-duck-impeachment-dilemma-hegseth/"
     },
     {
-        "id": "https://www.pbs.org/newshour/world/trumps-board-of-peace-proposes-2-45-billion-blueprint-to-begin-gaza-reconstruction",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump's Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction",
-        "publicationDate": "2026-09-23",
-        "category": "board of peace",
-        "summary": "At a meeting of the group's board, the governors unveiled a 66-project blueprint to get things started while acknowledging enormous hurdles that must still be overcome.",
-        "url": "https://www.pbs.org/newshour/world/trumps-board-of-peace-proposes-2-45-billion-blueprint-to-begin-gaza-reconstruction"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/voters-dont-like-data-centers-they-really-dont-like-them-close-to-home",
-        "source": "PBS NewsHour Politics",
-        "title": "Voters don't like data centers. They really don't like them close to home",
-        "publicationDate": "2026-09-23",
-        "category": "2026 midterm elections",
-        "summary": "Fifty-eight percent of U.S. voters say the construction of new data centers by tech will mostly have a negative effect on the country. And 65% of voters oppose construction in their communities.",
-        "url": "https://www.pbs.org/newshour/politics/voters-dont-like-data-centers-they-really-dont-like-them-close-to-home"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6107559-pentagon-updates-iran-war-deaths/",
+        "id": "https://thehill.com/newsletters/energy-environment/6107716-wright-opposes-diesel-export-ban/",
         "source": "The Hill",
-        "title": "Virginia soldier becomes 19th known death since start of Iran war",
+        "title": "Wright throws cold water on diesel export ban",
+        "publicationDate": "2026-09-23",
+        "category": "Energy & Environment Newsletter",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Wright throws cold water on diesel export ban Energy Secretary Chris Wright threw cold water at the idea of a full ban on diesel exports Wednesday. © Greg Nash “The blunt tool of banning diesel exports definitely doesn't work,\" Wright was quoted as saying...",
+        "url": "https://thehill.com/newsletters/energy-environment/6107716-wright-opposes-diesel-export-ban/"
+    },
+    {
+        "id": "https://thehill.com/policy/energy-environment/6107629-diesel-export-ban-gas-prices-oil-refineries/",
+        "source": "The Hill",
+        "title": "Would a diesel export ban actually bring down prices?",
+        "publicationDate": "2026-09-23",
+        "category": "Energy & Environment",
+        "summary": "Experts are skeptical that a diesel export ban would meaningfully reduce fuel prices in the U.S. as the Trump administration sends mixed signals about if it is considering such a move. Analysts interviewed by The Hill said that an outright ban could provide some short-term relief in certain parts of the country, but that in...",
+        "url": "https://thehill.com/policy/energy-environment/6107629-diesel-export-ban-gas-prices-oil-refineries/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
+        "source": "New York Times Politics",
+        "title": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
+        "publicationDate": "2026-09-23",
+        "category": "Foreign Policy",
+        "summary": "Sam Altman of OpenAI and Dario Amodei of Anthropic told the Security Council that international cooperation was needed to ensure that A.I. remains under human control.",
+        "url": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/23/us/politics/midwest-republican-candidates-trump.html",
+        "source": "New York Times Politics",
+        "title": "Trouble in the Heartland",
         "publicationDate": "2026-09-23",
         "category": "Defense",
-        "summary": "The Pentagon has officially upped the number of service members who have died in the Middle East since the start of the Iran war, adding one additional death to bring the disclosed total to 19. Capt. Bianca C. Wilkerson, 37, of Norfolk, Va., died Sept. 18 “as a result of a non-combat related incident.” She...",
-        "url": "https://thehill.com/policy/defense/6107559-pentagon-updates-iran-war-deaths/"
+        "summary": "The G.O.P. is on defense in the so-called “blue wall” states and beyond as gas prices remain high.",
+        "url": "https://www.nytimes.com/2026/09/23/us/politics/midwest-republican-candidates-trump.html"
     },
     {
-        "id": "https://thehill.com/newsletters/technology/6107546-voters-increasingly-use-ai-for-election-info-despite-accuracy-risks/",
-        "source": "The Hill",
-        "title": "Voters increasingly use AI for election info despite accuracy risks",
+        "id": "https://www.nytimes.com/2026/09/23/us/politics/melania-trump-documentary-schedule.html",
+        "source": "New York Times Politics",
+        "title": "Melania Trump’s Busy Schedule: A New Show, a Foster-Care Bill and Reading Executive Orders",
         "publicationDate": "2026-09-23",
-        "category": "Defense",
-        "summary": "{beacon} Technology Technology The Big Story Voters are turning to AI on politics. Is it up to the task? Artificial intelligence is playing a growing role in how voters get information about politics and elections, raising fresh questions about how the technology could influence the way voters stay informed. © AP Photo/Ryan Murphy From...",
-        "url": "https://thehill.com/newsletters/technology/6107546-voters-increasingly-use-ai-for-election-info-despite-accuracy-risks/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6107006-lepage-calls-deportation-wrong/",
-        "source": "The Hill",
-        "title": "Paul LePage says ICE is deporting his relative",
-        "publicationDate": "2026-09-23",
-        "category": "Campaign",
-        "summary": "Former Maine Gov. Paul LePage (R), who is running for Congress, said Monday his son’s father-in-law is being deported, calling the situation “not right.” LePage, running to succeed outgoing Democratic Rep. Jared Golden (Maine) in the state’s 2nd Congressional District, told reporters his relative is being deported because “he came from a country that’s not...",
-        "url": "https://thehill.com/homenews/campaign/6107006-lepage-calls-deportation-wrong/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/healthcare/6107507-lawsuit-challenges-medically-frail-exemption/",
-        "source": "The Hill",
-        "title": "Lawsuit challenges 'medically frail' exemption",
-        "publicationDate": "2026-09-23",
-        "category": "Healthcare",
-        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Lawsuit challenges 'medically frail' exemption What does it mean to be “medically frail?” A new lawsuit is challenging how the Trump administration plans to exempt medically frail people from Medicaid work requirements. Adobe Stock Medicaid enrollees, alongside several major...",
-        "url": "https://thehill.com/newsletters/healthcare/6107507-lawsuit-challenges-medically-frail-exemption/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6107305-senate-ai-surveillance-hearing-flock/",
-        "source": "The Hill",
-        "title": "Senators try to 'get to the bottom of' AI-powered surveillance networks amid Flock concerns",
-        "publicationDate": "2026-09-23",
-        "category": "Technology",
-        "summary": "A Senate panel held the first Congressional hearing Wednesday on AI-powered surveillance cameras manufacturers, such as Flock Safety, in an attempt to \"get to the bottom\" of whether the technology infringes on the public's privacy. The hearing — titled \"Always Watching: Flock's Nationwide AI Surveillance Network\" — was spearheaded by Sen. Josh Hawley (R-Mo), the...",
-        "url": "https://thehill.com/policy/technology/6107305-senate-ai-surveillance-hearing-flock/"
+        "category": "First Ladies (US)",
+        "summary": "In a burst of activity this week, the enigmatic first lady told Americans what she has been up to after a quiet summer. Her activities have included filming a new documentary series about her life.",
+        "url": "https://www.nytimes.com/2026/09/23/us/politics/melania-trump-documentary-schedule.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/23/us/politics/china-xi-health.html",
@@ -288,40 +324,22 @@
         "url": "https://www.nytimes.com/2026/09/23/us/politics/china-xi-health.html"
     },
     {
-        "id": "https://www.nytimes.com/live/2026/09/23/us/trump-xi/heres-the-latest",
-        "source": "New York Times Politics",
-        "title": "Here’s the latest.",
-        "publicationDate": "2026-09-23",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.nytimes.com/live/2026/09/23/us/trump-xi/heres-the-latest"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html",
-        "source": "New York Times Politics",
-        "title": "Trump Invites Putin to Attend Group of 20 Summit in Miami",
+        "id": "https://www.washingtonpost.com/politics/2026/09/23/trump-greets-xi-jinping-airport-rare-gesture-summit-starts/",
+        "source": "Washington Post Politics",
+        "title": "Trump gives Xi Jinping rare airport welcome as summit visit begins",
         "publicationDate": "2026-09-23",
         "category": "Foreign Policy",
-        "summary": "Many leaders are unlikely to welcome the Russian leader’s presence at the event because of his country’s war against Ukraine.",
-        "url": "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html"
+        "summary": "Trump greeted Xi on the tarmac, an unusual gesture that president's don't typically extend to foreign heads of state, underscoring his desire to court the Chinese leader.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/23/trump-greets-xi-jinping-airport-rare-gesture-summit-starts/"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/23/us/politics/paul-lepage-maine-ice-family-member-deported.html",
-        "source": "New York Times Politics",
-        "title": "Paul LePage, a Trump Ally, Says a Family Member Is Being Deported",
+        "id": "https://www.washingtonpost.com/politics/2026/09/23/current-white-house-ballroom-architect-weighs-buildings-safety/",
+        "source": "Washington Post Politics",
+        "title": "Current White House ballroom architect weighs in on the building’s safety",
         "publicationDate": "2026-09-23",
-        "category": "LePage",
-        "summary": "The former Maine governor, a Republican running for Congress, said the Trump administration is seeking to wrongly deport his son’s father-in-law, who has a work permit.",
-        "url": "https://www.nytimes.com/2026/09/23/us/politics/paul-lepage-maine-ice-family-member-deported.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/23/us/politics/trump-nih-science-grants.html",
-        "source": "New York Times Politics",
-        "title": "Trump Backtracks on Plan for New Controls on N.I.H. Grants",
-        "publicationDate": "2026-09-23",
-        "category": "United States Politics and Government",
-        "summary": "Democrats and Republicans in Congress opposed the creation of a commission with the power to veto federal research awards.",
-        "url": "https://www.nytimes.com/2026/09/23/us/politics/trump-nih-science-grants.html"
+        "category": "Other",
+        "summary": "Shalom Baranes says the project’s current design meets national building code standards.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/23/current-white-house-ballroom-architect-weighs-buildings-safety/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/23/nancy-mace-republicans-will-sure-lose-senate-race-north-carolina/",
@@ -351,22 +369,22 @@
         "url": "https://www.washingtonpost.com/national-security/2026/09/23/trump-invites-putin-this-years-g-20-summit-florida/"
     },
     {
-        "id": "https://www.washingtonpost.com/national-security/2026/09/23/hacking-group-claims-have-stolen-thousands-fbi-employee-records/",
-        "source": "Washington Post Politics",
-        "title": "Hacking group claims to have stolen thousands of FBI employee records",
+        "id": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
         "publicationDate": "2026-09-23",
-        "category": "Technology",
-        "summary": "The bureau did not confirm the extent of the breach but said it is investigating the claims from a notorious cybercriminal outfit.",
-        "url": "https://www.washingtonpost.com/national-security/2026/09/23/hacking-group-claims-have-stolen-thousands-fbi-employee-records/"
+        "category": "Foreign Policy",
+        "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/23/paul-lepage-backs-immigration-crackdown-says-family-member-shouldnt-be-deported/",
-        "source": "Washington Post Politics",
-        "title": "Republican who backs immigration crackdown says his family member shouldn’t be deported",
+        "id": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
         "publicationDate": "2026-09-23",
         "category": "Other",
-        "summary": "Former Maine governor Paul LePage, who is running for a House seat, said his son’s father-in-law faces deportation.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/23/paul-lepage-backs-immigration-crackdown-says-family-member-shouldnt-be-deported/"
+        "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
@@ -396,67 +414,49 @@
         "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "id": "https://www.ft.com/content/1f55518f-dad5-4c7b-8c81-ba82196dd747?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Diller abandons $18bn takeover bid for MGM Resorts",
         "publicationDate": "2026-09-23",
         "category": "Other",
-        "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss"
+        "summary": "Media mogul says ‘we didn’t feel the mix was coming together in the way we had hoped’ after going public with offer in June",
+        "url": "https://www.ft.com/content/1f55518f-dad5-4c7b-8c81-ba82196dd747?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "UK survivor of Canadian poison seller says he exploited her despair",
+        "id": "https://www.ft.com/content/c902e192-8bbb-4f32-813c-ee255d3aebd0?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US oil industry pushes back against proposed diesel export ban",
         "publicationDate": "2026-09-23",
         "category": "Other",
-        "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss"
+        "summary": "Groups say there is no ‘silver bullet’ to fuel price crisis after president signals willingness to halt shipments abroad",
+        "url": "https://www.ft.com/content/c902e192-8bbb-4f32-813c-ee255d3aebd0?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "US Treasury yields soar most since ‘liberation day’ tariffs shook markets",
+        "title": "OpenAI ‘agent’ hacked an Australian health service website",
         "publicationDate": "2026-09-23",
-        "category": "Economy",
-        "summary": "Traders crank up bets on Federal Reserve rate rises after data fuels worries economy is overheating",
-        "url": "https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72?syn-25a6b1a6=1"
+        "category": "Healthcare",
+        "summary": "Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’",
+        "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Rosneft billions fed Kremlin-backed money laundering network",
+        "title": "Xi arrives for high-stakes summit with Trump as leaders extend trade truce",
+        "publicationDate": "2026-09-23",
+        "category": "Other",
+        "summary": "Treasury secretary Scott Bessent says the countries have agreed to January 10 extension",
+        "url": "https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/8b470f65-6fc3-44b6-9295-e07008ce302d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "HSBC moves board meeting from Dubai to London amid safety concerns",
         "publicationDate": "2026-09-23",
         "category": "Foreign Policy",
-        "summary": "FT investigation shows the state oil group’s hard currency was at heart of Russia’s efforts to circumvent sanctions",
-        "url": "https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
-        "source": "Financial Times World",
-        "title": "Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements",
-        "publicationDate": "2026-09-23",
-        "category": "Defense",
-        "summary": "Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents",
-        "url": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3"
-    },
-    {
-        "id": "https://www.ft.com/content/05ffcb10-869e-4857-bed7-fcb025f8e02f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Israeli election committee bars main Arab parties from next month’s poll",
-        "publicationDate": "2026-09-23",
-        "category": "Other",
-        "summary": "Members of Prime Minister Benjamin Netanyahu’s far-right coalition lead campaign to exclude Ra’am and Joint List",
-        "url": "https://www.ft.com/content/05ffcb10-869e-4857-bed7-fcb025f8e02f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/05c5f945-c75a-4adb-a189-121a05b3686a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "How besieged billionaires are turning the tables on litigious shareholders",
-        "publicationDate": "2026-09-23",
-        "category": "Other",
-        "summary": "Hollywood super-agent Ari Emanuel has accused funds of illegal anti-competitive conduct over his take-private of Endeavor",
-        "url": "https://www.ft.com/content/05c5f945-c75a-4adb-a189-121a05b3686a?syn-25a6b1a6=1"
+        "summary": "Bank’s decision to shift location underscores challenges still facing expats as Iran war continues",
+        "url": "https://www.ft.com/content/8b470f65-6fc3-44b6-9295-e07008ce302d?syn-25a6b1a6=1"
     },
     {
         "id": "IF12240",
