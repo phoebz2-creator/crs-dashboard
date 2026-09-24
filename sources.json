@@ -1,5 +1,32 @@
 [
     {
+        "id": "IF13321",
+        "source": "Congressional Research Service",
+        "title": "Estimated Effects on Effective Tax Rates and Revenues of Increasing the 199A Deduction for Pass-Through Businesses",
+        "publicationDate": "2026-09-24",
+        "category": "Economy",
+        "summary": "Under Section 199A of the Internal Revenue Code (IRC), owners of pass-through businesses are eligible to claim a deduction of up to 20% of a firm’s qualified business income, subject to certain limitations. The deduction was added to the tax code from 2018 to 2025 by the 2018 reconciliation law (P.L. 115-97). The 2025 reconciliation law (P.L. 119-21) made the deduction permanent and widened eligibility limits....",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13321/IF13321.1.pdf"
+    },
+    {
+        "id": "https://www.cfr.org/articles/bill-clinton-signs-the-comprehensive-nuclear-test-ban-treaty",
+        "source": "Council on Foreign Relations",
+        "title": "Bill Clinton Signs the Comprehensive Nuclear Test Ban Treaty",
+        "publicationDate": "2026-09-24",
+        "category": "Article",
+        "summary": "A landmark 1996 treaty to ban all nuclear weapons tests has yet to go into effect.",
+        "url": "https://www.cfr.org/articles/bill-clinton-signs-the-comprehensive-nuclear-test-ban-treaty"
+    },
+    {
+        "id": "https://www.cfr.org/articles/hunger-on-the-horizon-the-new-black-sea-grain-crisis",
+        "source": "Council on Foreign Relations",
+        "title": "Hunger on the Horizon: The New Black Sea Grain Crisis",
+        "publicationDate": "2026-09-24",
+        "category": "Foreign Policy",
+        "summary": "Recent escalation in the Russia-Ukraine war has halted the Black Sea grain trade and metastasized into a war on the global food system. Combined with drought in the Northern Hemisphere, a looming super El Niño, and persistent instability in the Middle East—the world is on the verge of a crisis that could erase years of progress in reducing global hunger and push millions into acute food insecurity.",
+        "url": "https://www.cfr.org/articles/hunger-on-the-horizon-the-new-black-sea-grain-crisis"
+    },
+    {
         "id": "https://www.cer.eu/media/unpacking-europe-scaling-innovation-europe",
         "source": "Centre for European Reform",
         "title": "Unpacking Europe: Scaling innovation in Europe",
@@ -36,6 +63,15 @@
         "url": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren"
     },
     {
+        "id": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+        "source": "NPR Politics",
+        "title": "Could the White House try its press ban again? A press freedom expert explains",
+        "publicationDate": "2026-09-24",
+        "category": "Other",
+        "summary": "A federal judge's ruling restored CNN, MS Now and Politico's access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight.",
+        "url": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight"
+    },
+    {
         "id": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
         "source": "NPR Politics",
         "title": "Judge orders Trump administration to restore journalists' access to White House",
@@ -45,49 +81,94 @@
         "url": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6106824-democrats-test-running-mate-alliances/",
+        "id": "https://www.pbs.org/newshour/politics/trump-and-xi-jinping-will-hold-talks-in-washington-on-trade-ai-and-more",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump and Xi Jinping will hold talks in Washington on trade, AI and more",
+        "publicationDate": "2026-09-24",
+        "category": "AI",
+        "summary": "Presidents Donald Trump and Xi Jinping have no shortage of difficult issues to cover when they sit down for talks on Thursday at the White House.",
+        "url": "https://www.pbs.org/newshour/politics/trump-and-xi-jinping-will-hold-talks-in-washington-on-trade-ai-and-more"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-senators-question-heidi-overton-in-confirmation-hearing-for-fda-commissioner",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Senators question Heidi Overton in confirmation hearing for FDA commissioner",
+        "publicationDate": "2026-09-24",
+        "category": "FDA",
+        "summary": "Overton is an outspoken abortion critic and would oversee an ongoing FDA review of mifepristone, the nation's leading abortion pill.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-senators-question-heidi-overton-in-confirmation-hearing-for-fda-commissioner"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/judge-orders-white-house-to-restore-access-to-cnn-ms-now-and-politico-reporters-say-theyre-still-blocked",
+        "source": "PBS NewsHour Politics",
+        "title": "Judge orders White House to restore access to CNN, MS NOW and Politico. Reporters say they're still blocked",
+        "publicationDate": "2026-09-24",
+        "category": "cnn",
+        "summary": "The back-and-forth is the latest in an extraordinary showdown between Trump and media outlets whose coverage he dislikes.",
+        "url": "https://www.pbs.org/newshour/politics/judge-orders-white-house-to-restore-access-to-cnn-ms-now-and-politico-reporters-say-theyre-still-blocked"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6109105-democrats-sue-trump-polling-agents/",
         "source": "The Hill",
-        "title": "Beshear-Moore ticket? Democratic presidential hopefuls are pairing up",
+        "title": "Democrats sue Trump administration over threats to deploy federal agents to polls",
+        "publicationDate": "2026-09-24",
+        "category": "Court Battles",
+        "summary": "Democratic Party leadership and campaign organizations sued the Trump administration on Wednesday over alleged threats to unlawfully deploy armed federal agents to polling sites during the midterm elections. The lawsuit, which was filed in the U.S. District Court for the District of Columbia, accuses Trump law enforcement and immigration officials of demonstrating “by word and...",
+        "url": "https://thehill.com/regulation/court-battles/6109105-democrats-sue-trump-polling-agents/"
+    },
+    {
+        "id": "https://thehill.com/opinion/congress-blog/6106886-house-early-exit-gop/",
+        "source": "The Hill",
+        "title": "Democrats hit Republicans with do-nothing charges after abrupt House adjournment",
+        "publicationDate": "2026-09-24",
+        "category": "Congress Blog",
+        "summary": "Speaker Mike Johnson abruptly ended the House of Representatives' legislative session early to allow members to campaign for the upcoming midterm elections following several contentious votes on sanctions, impeachment resolutions, and a war powers measure.",
+        "url": "https://thehill.com/opinion/congress-blog/6106886-house-early-exit-gop/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6109083-donalds-trump-agenda-website/",
+        "source": "The Hill",
+        "title": "Donalds calls Trump agenda 'common sense' after some mentions removed from campaign website",
         "publicationDate": "2026-09-24",
         "category": "Campaign",
-        "summary": "When Kentucky Gov. Andy Beshear (D) wanted to promote his new book this week, he invited Maryland Gov. Wes Moore (D) — one of his potential 2028 presidential rivals — to join him onstage and help moderate the event. On Tuesday night, the two governors appeared together before a Beltway crowd, with Moore giving Beshear...",
-        "url": "https://thehill.com/homenews/campaign/6106824-democrats-test-running-mate-alliances/"
+        "summary": "Republican Rep. Byron Donalds (Fla.), who is running for governor in his state, said President Trump’s agenda is “common sense” following the removal of some mentions of the president’s name from Donalds’s campaign website. CBS News reported that Donalds, in an interview at a local summit Wednesday, was pressed on the edits. The Florida Republican...",
+        "url": "https://thehill.com/homenews/campaign/6109083-donalds-trump-agenda-website/"
     },
     {
-        "id": "https://thehill.com/business/6106941-trump-xi-summit-trade-canada/",
+        "id": "https://thehill.com/homenews/administration/6108998-bolton-trump-xi-ai-deals/",
         "source": "The Hill",
-        "title": "Trump trade rules apply differently to China, Canada, and Xi, Carney",
-        "publicationDate": "2026-09-24",
-        "category": "Foreign Policy",
-        "summary": "President Trump heads into his summit with Chinese President Xi Jinping this week on the heels of waging a bruising trade war with Canada that has badly damaged relations with that country. It's a stark contrast from how he’s handled trade talks with China, a rival nation that many in Congress see as an enemy...",
-        "url": "https://thehill.com/business/6106941-trump-xi-summit-trade-canada/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6107122-trump-disapproval-rating-highest/",
-        "source": "The Hill",
-        "title": "Trump disapproval highest in second term amid economic woes: Emerson College",
+        "title": "Bolton: 'Trump just wants to announce deals' during Xi visit",
         "publicationDate": "2026-09-24",
         "category": "Administration",
-        "summary": "President Trump’s disapproval rating hits the highest mark it has during his second White House stint amid rising energy costs and economic woes, according to a new poll. In an Emerson College poll, Trump’s disapproval rating hit 58 percent, while 39 percent of respondents approved of Trump’s handling of his job as president. The disapproval...",
-        "url": "https://thehill.com/homenews/administration/6107122-trump-disapproval-rating-highest/"
+        "summary": "John Bolton, President Trump’s former national security adviser, said Wednesday Trump “just wants to announce deals” during Chinese President Xi Jinping's visit to the White House. In an interview on NewsNation, host Leland Vittert asked Bolton if Americans should believe the outcomes or announcements from meetings between Chinese and U.S. leaders. “Not really until you...",
+        "url": "https://thehill.com/homenews/administration/6108998-bolton-trump-xi-ai-deals/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6107366-china-hawks-question-xi-visit/",
+        "id": "https://thehill.com/homenews/campaign/6109004-peltola-denies-ny-times-report/",
         "source": "The Hill",
-        "title": "China hawks seethe as Trump rolls out red carpet for Xi",
+        "title": "Peltola campaign rips New York Times report on tumultuous operations",
         "publicationDate": "2026-09-24",
-        "category": "Foreign Policy",
-        "summary": "China hawks on both sides of the aisle in the U.S. are seething as President Trump prepares to welcome the country’s President Xi Jinping for what is expected to be a lavish three-day state visit to Washington. Unlike with other world leaders, Trump is pulling out all the stops for his Chinese counterpart. Trump took...",
-        "url": "https://thehill.com/homenews/administration/6107366-china-hawks-question-xi-visit/"
+        "category": "Campaign",
+        "summary": "Former Rep. Mary Peltola’s (D-Alaska) Senate campaign has pushed back against a report from The New York Times on Wednesday that detailed chaos in her campaign operation. Several former Peltola aides who requested anonymity told the Times about profane outbursts and displays of anger throughout the campaign and her former congressional office. The tensions also...",
+        "url": "https://thehill.com/homenews/campaign/6109004-peltola-denies-ny-times-report/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6107415-collins-overton-fda-testimony/",
-        "source": "The Hill",
-        "title": "Trump FDA pick tests Collins on abortion",
+        "id": "https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html",
+        "source": "New York Times Politics",
+        "title": "From 15,000 to 185 to Zero: Trump’s Claims of Illegal Voting in Nevada Fizzle",
         "publicationDate": "2026-09-24",
-        "category": "Healthcare",
-        "summary": "Sen. Susan Collins (R-Maine) is in the middle of a fight over a Trump health nominee, presenting a key test of her commitment to being an abortion-rights Republican. Dr. Heidi Overton, President Trump's nominee to lead the Food and Drug Administration (FDA), will testify Thursday in the Senate Health, Education, Labor and Pensions (HELP)...",
-        "url": "https://thehill.com/policy/healthcare/6107415-collins-overton-fda-testimony/"
+        "category": "Trump",
+        "summary": "It was the Trump administration’s latest stumble in its effort to find proof of widespread noncitizen voting, despite decades of evidence that it is extremely rare.",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/24/us/politics/maine-senate-poll-collins-jackson-midterms.html",
+        "source": "New York Times Politics",
+        "title": "Collins Leads Jackson in Maine Senate Race: 7 Takeaways From a New Poll",
+        "publicationDate": "2026-09-24",
+        "category": "Maine",
+        "summary": "Voters in the battleground state favored Senator Susan Collins, the Republican incumbent, over Troy Jackson, a Democrat, in several important areas, according to a New York Times/Siena poll.",
+        "url": "https://www.nytimes.com/2026/09/24/us/politics/maine-senate-poll-collins-jackson-midterms.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/24/upshot/maine-poll-times-siena.html",
@@ -117,67 +198,58 @@
         "url": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/24/us/heidi-overton-fda.html",
-        "source": "New York Times Politics",
-        "title": "Abortion Pills, Vaccines and Food Safety: F.D.A. Nominee Heidi Overton Faces Senate Confirmation Hearing",
-        "publicationDate": "2026-09-24",
-        "category": "Regulation and Deregulation of Industry",
-        "summary": "Dr. Heidi Overton has called mifepristone “dangerous to women.” As a White House aide, she worked to reduce the number of vaccines recommended for children.",
-        "url": "https://www.nytimes.com/2026/09/24/us/heidi-overton-fda.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/24/us/politics/democrats-show-strength-in-michigan-senate-race-but-trail-in-maine-polls-find.html",
-        "source": "New York Times Politics",
-        "title": "Democrats Show Strength in Michigan Senate Race but Trail in Maine, Polls Find",
-        "publicationDate": "2026-09-24",
-        "category": "Elections",
-        "summary": "The party’s nominees lead in Michigan and New Hampshire but the Republican incumbent is ahead in Maine, according to New York Times/Siena polls of the three battlegrounds.",
-        "url": "https://www.nytimes.com/2026/09/24/us/politics/democrats-show-strength-in-michigan-senate-race-but-trail-in-maine-polls-find.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/24/how-fate-rural-hospital-could-help-flip-house/",
+        "id": "https://www.washingtonpost.com/world/2026/09/24/two-pandas-heading-atlanta-zoo-xi-jinping-announces/",
         "source": "Washington Post Politics",
-        "title": "How the fate of a rural hospital could help flip the House",
-        "publicationDate": "2026-09-24",
-        "category": "Defense",
-        "summary": "In one Virginia race and others, Democrats are highlighting the rising costs of health care and possible closures of facilities, putting Republicans on defense.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/24/how-fate-rural-hospital-could-help-flip-house/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/24/one-republican-could-hold-back-partys-candidates-pennsylvania-its-not-trump/",
-        "source": "Washington Post Politics",
-        "title": "One Republican could hold back the party’s candidates in Pennsylvania. And it’s not Trump.",
+        "title": "Two pandas heading to Atlanta zoo, Xi Jinping announces",
         "publicationDate": "2026-09-24",
         "category": "Other",
-        "summary": "Pennsylvania Republicans are starting to worry that the state’s lopsided race for governor is directly affecting four of the nation’s most competitive House races.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/24/one-republican-could-hold-back-partys-candidates-pennsylvania-its-not-trump/"
+        "summary": "Ping Ping and Fu Shuang are the latest additions to the cohort of furry ambassadors the Chinese have sent to the U.S. recently.",
+        "url": "https://www.washingtonpost.com/world/2026/09/24/two-pandas-heading-atlanta-zoo-xi-jinping-announces/"
     },
     {
-        "id": "https://www.washingtonpost.com/health/2026/09/24/trumps-fda-pick-face-scrutiny-vaccines-abortion-pill/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/24/ad-boosting-trump-paid-by-taxpayers-airing-la-chicago/",
         "source": "Washington Post Politics",
-        "title": "Trump’s FDA pick to face scrutiny on vaccines, abortion pill",
+        "title": "Trump ad airing with government funding despite law against ‘propaganda’",
+        "publicationDate": "2026-09-24",
+        "category": "Economy",
+        "summary": "A TV ad boosting President Trump and saying that it was paid for by the U.S. government is airing in two major markets despite a federal law against using tax funds for \"propaganda.\"",
+        "url": "https://www.washingtonpost.com/politics/2026/09/24/ad-boosting-trump-paid-by-taxpayers-airing-la-chicago/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/24/texas-voter-registration-backlog-could-affect-midterms/",
+        "source": "Washington Post Politics",
+        "title": "Texas voter-registration backlog could affect midterms",
         "publicationDate": "2026-09-24",
         "category": "Other",
-        "summary": "At Heidi Overton’s confirmation hearing, Bill Cassidy and other skeptical senators are expected to ask about two of the most controversial topics before the agency.",
-        "url": "https://www.washingtonpost.com/health/2026/09/24/trumps-fda-pick-face-scrutiny-vaccines-abortion-pill/"
+        "summary": "County officials are suddenly facing a high volume of online applications, some nearly a year old, linked to a state error.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/24/texas-voter-registration-backlog-could-affect-midterms/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/24/pete-buttigieg-barnstorms-country-midterms-he-weighs-2028-presidential-run/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/24/pollwatcher-big-unseen-factor-how-voters-decide-midterm-elections/",
         "source": "Washington Post Politics",
-        "title": "On the campaign trail with Pete Buttigieg as he weighs another presidential run",
+        "title": "The Pollwatcher: The big, unseen factor in how voters decide midterm elections",
         "publicationDate": "2026-09-24",
         "category": "Other",
-        "summary": "The former transportation secretary has become a high-demand campaign surrogate for Democrats, hitting nearly three dozen states. Just don’t ask him about 2028 — yet.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/24/pete-buttigieg-barnstorms-country-midterms-he-weighs-2028-presidential-run/"
+        "summary": "Plus: How can you tell if a poll invitation is legitimate?",
+        "url": "https://www.washingtonpost.com/politics/2026/09/24/pollwatcher-big-unseen-factor-how-voters-decide-midterm-elections/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/24/trump-is-meeting-with-chinas-xi-jinping-here-are-economic-stakes/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/24/trump-chinese-leader-xi-jinping-want-each-others-help-world-issues/",
         "source": "Washington Post Politics",
-        "title": "What to know about Trump’s meeting with China’s Xi and the economic stakes",
+        "title": "Trump courts Xi with pomp as China seeks greater global influence",
         "publicationDate": "2026-09-24",
         "category": "Foreign Policy",
-        "summary": "Treasury Secretary Scott Bessent said the U.S. and China have agreed to extend a trade truce. Here’s a guide to what else is happening behind the scenes.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/24/trump-is-meeting-with-chinas-xi-jinping-here-are-economic-stakes/"
+        "summary": "Chinese President Xi Jinping is expected to press Washington on Taiwan, while President Donald Trump wants help on manufacturing and restraint on Iran.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/24/trump-chinese-leader-xi-jinping-want-each-others-help-world-issues/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+        "publicationDate": "2026-09-24",
+        "category": "Other",
+        "summary": "Employees from CNN, Politico and MS Now reported being denied entry, with some having passes confiscated.",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
@@ -189,67 +261,85 @@
         "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump offers warm welcome as China's Xi arrives for US visit",
+        "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+        "publicationDate": "2026-09-24",
+        "category": "Healthcare",
+        "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+        "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
         "publicationDate": "2026-09-24",
         "category": "Foreign Policy",
-        "summary": "The US treasury secretary said that the US and China had reached an agreement to extend a trade truce as Xi began his visit.",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrk7187lzo?at_medium=RSS&at_campaign=rss"
+        "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+        "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-        "publicationDate": "2026-09-24",
-        "category": "Other",
-        "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/b4141b98-0118-4624-8cb0-5d158ba0751d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Russia could attack Nato country within months, Denmark warns",
+        "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
         "publicationDate": "2026-09-24",
         "category": "Defense",
-        "summary": "Intelligence service cites ‘low but growing risk’ of troop movement into neighbouring country or attack on infrastructure",
-        "url": "https://www.ft.com/content/b4141b98-0118-4624-8cb0-5d158ba0751d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/c9ae9433-50e0-4711-90fa-d1e5aeb15eaf?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK bank tax receipts jump 20% following surge in profits",
-        "publicationDate": "2026-09-24",
-        "category": "Economy",
-        "summary": "Industry is bracing for a possible raid in next month’s Budget",
-        "url": "https://www.ft.com/content/c9ae9433-50e0-4711-90fa-d1e5aeb15eaf?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/916603fa-c0c4-49e9-911a-a536ec3e245d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: OpenAI ‘agent’ hacks Australian government website",
-        "publicationDate": "2026-09-24",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: Treasury yields surge above 5% and judge orders Trump administration to temporarily restore White House access for news outlets",
-        "url": "https://www.ft.com/content/916603fa-c0c4-49e9-911a-a536ec3e245d?syn-25a6b1a6=1"
+        "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
+        "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Global bond sell-off deepens as oil climbs back to $105",
+        "title": "US long-term borrowing costs touch highest level since 2004",
         "publicationDate": "2026-09-24",
         "category": "Economy",
         "summary": "Rising yields strain public finances after brutal sell-off in US Treasuries market",
         "url": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/4194904d-d041-46b9-a606-d0580137a8a3?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Notes on living in a dangerous world",
+        "title": "White House defies court order and blocks access to news outlets",
         "publicationDate": "2026-09-24",
         "category": "Other",
-        "summary": "Central banks and state-directed capital; Europe and great power rivalry",
-        "url": "https://www.ft.com/content/4194904d-d041-46b9-a606-d0580137a8a3?syn-25a6b1a6=1"
+        "summary": "Donald Trump’s move to restrict CNN, Politico and MS Now is a major escalation against media",
+        "url": "https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/6cc7149f-a9f1-47f6-9faf-b98a28f9aedc?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "GoDaddy receives takeover offer from maker of Norton antivirus software",
+        "publicationDate": "2026-09-24",
+        "category": "Technology",
+        "summary": "Talks between web domain provider and Gen Digital at early stage but could allow acquirer to broaden its business beyond cyber security",
+        "url": "https://www.ft.com/content/6cc7149f-a9f1-47f6-9faf-b98a28f9aedc?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1e788f4b-413b-4e92-a722-51e918513f7e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Rate rise ‘increasingly likely’ if energy price shock persists, says BoE official",
+        "publicationDate": "2026-09-24",
+        "category": "Other",
+        "summary": "Clare Lombardelli says there would be limits to companies’ ability to absorb high energy prices",
+        "url": "https://www.ft.com/content/1e788f4b-413b-4e92-a722-51e918513f7e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/46ea15a9-593d-45da-9705-a4928086b38d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "MPs to consider whether Bank of England’s remit is ‘fit for purpose’",
+        "publicationDate": "2026-09-24",
+        "category": "Other",
+        "summary": "Inquiry comes against backdrop of populist pressure on central banks in many countries",
+        "url": "https://www.ft.com/content/46ea15a9-593d-45da-9705-a4928086b38d?syn-25a6b1a6=1"
+    },
+    {
+        "id": "95-1013",
+        "source": "Congressional Research Service",
+        "title": "Bahrain: Issues for U.S. Policy",
+        "publicationDate": "2026-09-23",
+        "category": "Defense",
+        "summary": "The Kingdom of Bahrain is a small island nation connected by a causeway to Saudi Arabia (15.5 miles away) and once claimed by Iran (124 miles away). Wedged between these two larger regional powers, Bahrain has hosted a U.S. naval command headquarters since 1948. For decades, Bahrain has permitted U.S. access to its facilities and has hosted U.S. Naval Central Command (NAVCENT) and the U.S. Fifth Fleet at a base...",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/95-1013/95-1013.191.pdf"
     },
     {
         "id": "R49359",
@@ -261,22 +351,13 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49359/R49359.1.pdf"
     },
     {
-        "id": "RL34480",
+        "id": "IF13320",
         "source": "Congressional Research Service",
-        "title": "Enrollment of Legislation: Relevant Congressional Procedures",
-        "publicationDate": "2026-09-23",
-        "category": "Other",
-        "summary": "An enrolled bill or resolution is the form of a measure finally agreed to by both chambers of Congress. Enrollment occurs in the chamber where the measure originated and is carried out by enrolling clerks under the supervision of the Clerk of the House of Representatives and Secretary of the Senate. Enrolled bills and joint resolutions are signed by the presiding officers of each chamber (or their designees) and...",
-        "url": "https://www.congress.gov/crs_external_products/RL/HTML/RL34480.html"
-    },
-    {
-        "id": "IF13318",
-        "source": "Congressional Research Service",
-        "title": "Air Force MQ-9A Reaper: Background and Issues for Congress",
+        "title": "Defense Contractors, Data Rights, and the “Right to Repair”",
         "publicationDate": "2026-09-23",
         "category": "Defense",
-        "summary": "The MQ-9A Reaper is a multi-role uncrewed aircraft system (UAS, or drone) produced by General Atomics Aeronautical Systems, Inc. Within the U.S. Department of Defense (DOD), the Air Force operates the greatest number of Reapers; the Air National Guard and Marine Corps also operate the MQ-9A. (DOD is “using a secondary Department of War designation,” under Executive Order 14347 dated September 5, 2025.) The Air...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13318/IF13318.1.pdf"
+        "summary": "The U.S. Department of Defense (DOD) often relies on private contractors to support its mission. (DOD is using a “secondary Department of War designation” under Executive Order 14347.) DOD works with these contractors to develop and field complex weapons systems that include technologies developed by the government, by private contractors, or by a combination of both. Private companies may have intellectual...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13320/IF13320.1.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/xi-jinping-visits-the-white-house",
@@ -396,15 +477,6 @@
         "url": "https://cms.hoover.org/profiles/ran-nancy-xu"
     },
     {
-        "id": "https://www.npr.org/2026/09/23/nx-s1-5978130/results-are-in-from-the-newest-npr-pbs-news-marist-poll",
-        "source": "NPR Politics",
-        "title": "Results are in from the newest NPR/PBS News/Marist poll",
-        "publicationDate": "2026-09-23",
-        "category": "Economy",
-        "summary": "People say they are more likely to choose a Democrat to represent them in Congress, and feel Democrats would be better at tackling top issues like the economy and foreign policy.",
-        "url": "https://www.npr.org/2026/09/23/nx-s1-5978130/results-are-in-from-the-newest-npr-pbs-news-marist-poll"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/at-un-general-assembly-irans-president-responds-to-trumps-annihilation",
         "source": "PBS NewsHour Politics",
         "title": "At UN General Assembly, Iran's president responds to Trump's 'annihilation' threat",
@@ -421,78 +493,6 @@
         "category": "Foreign Policy",
         "summary": "Chinese President Xi Jinping arrived in Washington Wednesday evening for his first state visit in more than a decade. At the same time, a federal judge heard arguments in a lawsuit brought by CNN, MS NOW and Politico challenging President Trump's ban on the outlets from the White House. Liz Landers reports.",
         "url": "https://www.pbs.org/newshour/show/xi-arrives-for-state-visit-amid-u-s-china-trade-tensions-and-ai-concerns"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/news-wrap-fbi-investigating-hacking-groups-claim-it-breached-jobs-website",
-        "source": "PBS NewsHour Politics",
-        "title": "News Wrap: FBI investigating hacking group's claim it breached jobs website",
-        "publicationDate": "2026-09-23",
-        "category": "news wrap",
-        "summary": "In our news wrap Wednesday, the FBI says it's investigating a claim by a criminal hacking group that it stole \"very sensitive data\" from the bureau's job website, Hurricane Polo off Mexico's western coast has strengthened into one of the most powerful storms in decades and a federal court temporarily blocked the deportation of a Venezuelan delivery driver who was shot by an ICE agent in Austin.",
-        "url": "https://www.pbs.org/newshour/show/news-wrap-fbi-investigating-hacking-groups-claim-it-breached-jobs-website"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/new-poll-reveals-how-trumps-low-approval-might-affect-midterms",
-        "source": "PBS NewsHour Politics",
-        "title": "New poll reveals how Trump's low approval might affect midterms",
-        "publicationDate": "2026-09-23",
-        "category": "Democrats",
-        "summary": "With voting for the midterm elections already underway, President Trump is asking voters to pretend he's on the ballot. A new PBS News/NPR/Marist poll finds that people are, but that could be bad news for the president. We found Democratic congressional candidates hold a significant lead over Republicans. Lisa Desjardins has the insights from that poll.",
-        "url": "https://www.pbs.org/newshour/show/new-poll-reveals-how-trumps-low-approval-might-affect-midterms"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/former-kansas-gop-governor-explains-why-hes-backing-democrat-adam-hamilton-for-senate",
-        "source": "PBS NewsHour Politics",
-        "title": "Former Kansas GOP governor explains why he's backing Democrat Adam Hamilton for Senate",
-        "publicationDate": "2026-09-23",
-        "category": "Adam Hamilton",
-        "summary": "Former Kansas Gov. Bill Graves, a Republican, crossed party lines to endorse Democrat Adam Hamilton in his bid to unseat Republican Sen. Roger Marshall. Graves said the country is facing \"increasing partisan gridlock and division\" and that it's \"time Kansas does something different.\" He joined Geoff Bennett to discuss that decision and what it says about his view of the Republican Party today.",
-        "url": "https://www.pbs.org/newshour/show/former-kansas-gop-governor-explains-why-hes-backing-democrat-adam-hamilton-for-senate"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-        "publicationDate": "2026-09-23",
-        "category": "Foreign Policy",
-        "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "publicationDate": "2026-09-23",
-        "category": "Foreign Policy",
-        "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "IF12240",
-        "source": "Congressional Research Service",
-        "title": "Defense Primer: Statutory Military Readiness Reporting",
-        "publicationDate": "2026-09-22",
-        "category": "Defense",
-        "summary": "Military readiness (or readiness) is a key defense concept upon which Congress has relied to make a wide array of national security decisions (e.g., regarding active and reserve component end strength and major defense acquisition programs). The Department of Defense (DOD) defines readiness as, “The ability of military forces to fight and meet the demands of assigned missions.” To inform its legislative and...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12240/IF12240.7.pdf"
-    },
-    {
-        "id": "https://www.cfr.org/articles/when-xi-comes-to-washington",
-        "source": "Council on Foreign Relations",
-        "title": "Ten Issues to Watch at the Trump-Xi Summit in Washington",
-        "publicationDate": "2026-09-22",
-        "category": "Article",
-        "summary": "The honors for Xi exceed what Trump got in Beijing, but the asymmetry goes beyond the pageantry. A quick brief on ten issues that will define the state visit.",
-        "url": "https://www.cfr.org/articles/when-xi-comes-to-washington"
-    },
-    {
-        "id": "https://www.cfr.org/backgrounders/un-general-assembly-unga-role",
-        "source": "Council on Foreign Relations",
-        "title": "What Is the UN General Assembly?",
-        "publicationDate": "2026-09-22",
-        "category": "Defense",
-        "summary": "Each year, the General Assembly hosts a much-watched debate of world leaders. The 2026 meeting is expected to focus on several critical topics, including climate change, artificial intelligence governance, and major ongoing conflicts in Iran, Ukraine, and elsewhere.",
-        "url": "https://www.cfr.org/backgrounders/un-general-assembly-unga-role"
     },
     {
         "id": "https://www.heritage.org/defense/report/countering-drones-five-lessons-ukraine-natos-northeastern-flank",
