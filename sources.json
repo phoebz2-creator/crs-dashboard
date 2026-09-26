@@ -1,5 +1,41 @@
 [
     {
+        "id": "https://www.npr.org/2026/09/26/nx-s1-5981494/press-pool-dispute-escalates-as-white-house-cuts-cnn-from-air-force-one-travel",
+        "source": "NPR Politics",
+        "title": "Press pool dispute escalates as White House cuts CNN from Air Force One travel",
+        "publicationDate": "2026-09-26",
+        "category": "Defense",
+        "summary": "The White House has barred CNN from traveling on Air Force One this weekend. It's another chapter in President Trump's fight with the press, and it appears there will be no TV pool coverage today.",
+        "url": "https://www.npr.org/2026/09/26/nx-s1-5981494/press-pool-dispute-escalates-as-white-house-cuts-cnn-from-air-force-one-travel"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/26/nx-s1-5981449/supreme-court-rejects-gop-backed-missouri-map-preserving-key-seat-for-democrats",
+        "source": "NPR Politics",
+        "title": "Supreme Court rejects GOP-backed Missouri map, preserving key seat for Democrats",
+        "publicationDate": "2026-09-26",
+        "category": "Other",
+        "summary": "The U.S. Supreme Court rejected a Republican attempt at redistricting congressional seats in Missouri - possibly giving Democrats a boost in their effort to win the House in the midterm elections.",
+        "url": "https://www.npr.org/2026/09/26/nx-s1-5981449/supreme-court-rejects-gop-backed-missouri-map-preserving-key-seat-for-democrats"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/26/nx-s1-5979806/week-in-politics-trump-faces-republican-defections-u-s-china-summit-press-feud",
+        "source": "NPR Politics",
+        "title": "Week in Politics: Trump faces Republican defections; U.S.-China summit; press feud",
+        "publicationDate": "2026-09-26",
+        "category": "Foreign Policy",
+        "summary": "Some GOP candidates are stepping back from unpopular Trump administration policies. Meanwhile, a U.S.-China summit at the White House and tensions with the press corps.",
+        "url": "https://www.npr.org/2026/09/26/nx-s1-5979806/week-in-politics-trump-faces-republican-defections-u-s-china-summit-press-feud"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/26/nx-s1-5947225/battle-for-the-lehigh-valley-can-gop-hold-its-razor-thin-margin",
+        "source": "NPR Politics",
+        "title": "Battle for the Lehigh Valley: Can GOP hold its razor-thin margin?",
+        "publicationDate": "2026-09-26",
+        "category": "Other",
+        "summary": "Both parties target the Lehigh Valley for House control. While the GOP made inroads with Latinos, Dems argue Trump's immigration stance hurts them. Can Republicans hold this 1% margin swing seat?",
+        "url": "https://www.npr.org/2026/09/26/nx-s1-5947225/battle-for-the-lehigh-valley-can-gop-hold-its-razor-thin-margin"
+    },
+    {
         "id": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
         "source": "NPR Politics",
         "title": "The U.S. has more thalidomide survivors than the government admits",
@@ -9,40 +45,49 @@
         "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6112822-ny-nj-noreaster-declare-emergency/",
+        "id": "https://thehill.com/policy/healthcare/6106923-cost-of-having-a-baby-hospital-bills-are-shockingly-high-in-states-you-wouldnt-expect/",
         "source": "The Hill",
-        "title": "New York, New Jersey declare states of emergency ahead of nor'easter",
+        "title": "Cost of having a baby: Hospital bills are shockingly high in states you wouldn't expect",
         "publicationDate": "2026-09-26",
-        "category": "State Watch",
-        "summary": "The governors of New York, Kathy Hochul (D), and New Jersey, Mikie Sherrill (D), both announced Friday they would declare states of emergency ahead of this weekend's nor'easter. “I’m declaring a State of Emergency for Nassau, Suffolk, New York City and Westchester as this powerful coastal storm bears down on the region,” Hochul wrote on...",
-        "url": "https://thehill.com/homenews/state-watch/6112822-ny-nj-noreaster-declare-emergency/"
+        "category": "Healthcare",
+        "summary": "In one video, a woman shows her bill on camera. The grand total was $45,000. \"Thankfully my insurance covered the majority,\" she said. But she still owed $1,982.93.",
+        "url": "https://thehill.com/policy/healthcare/6106923-cost-of-having-a-baby-hospital-bills-are-shockingly-high-in-states-you-wouldnt-expect/"
     },
     {
-        "id": "https://thehill.com/media/6112790-trump-cnn-barred-air-force-one/",
+        "id": "https://thehill.com/opinion/judiciary/6111668-climate-gun-rights-parochial-schools/",
         "source": "The Hill",
-        "title": "CNN says its reporters were barred from joining press pool on Air Force One",
+        "title": "The October term heralds another 'big year' for the Supreme Court",
+        "publicationDate": "2026-09-26",
+        "category": "Opinions - Judiciary",
+        "summary": "The Supreme Court is set to begin a landmark term featuring significant cases regarding climate change, firearm regulations, religious discrimination in education, parental rights, and various constitutional amendments.",
+        "url": "https://thehill.com/opinion/judiciary/6111668-climate-gun-rights-parochial-schools/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6113000-trump-iran-proposal-ceasefire/",
+        "source": "The Hill",
+        "title": "Trump rejects Iran's 7-day plan to end war, expects bombing to resume post-midterms: Report",
         "publicationDate": "2026-09-26",
         "category": "Defense",
-        "summary": "CNN reported its journalists have been barred from joining the press pool traveling with President Trump this weekend. They were set to board Air Force One Saturday to cover his visit to Knoxville for a college football game. The outlet had been scheduled to serve as this weekend's TV press pooler — a rotating group...",
-        "url": "https://thehill.com/media/6112790-trump-cnn-barred-air-force-one/"
+        "summary": "President Trump privately rejected Iran’s seven-day proposal to reopen the Strait of Hormuz and enter a ceasefire and is considering renewed military strikes against the country after the midterm elections in November. According to a report from the Wall Street Journal citing U.S. officials, the president is skeptical over Iran's ability to honor its end...",
+        "url": "https://thehill.com/homenews/administration/6113000-trump-iran-proposal-ceasefire/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6112779-trump-cancels-billion-federal-funding/",
+        "id": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/",
         "source": "The Hill",
-        "title": "Trump rescinds nearly $1B in federal funding, bypassing congressional approval",
+        "title": "Live updates: Trump attends Texas-Tennessee football game in Knoxville; US, China to cut tariffs on $30 billion worth of goods",
         "publicationDate": "2026-09-26",
-        "category": "Healthcare",
-        "summary": "President Trump cancelled almost $1 billion in federal funding Friday using the controversial “pocket rescission\" process, which allows him to sidestep congressional approval. Most of the cancellations targeted Health and Human Services (HHS) programs serving undocumented immigrants and unaccompanied children in court, as well as similar initiatives under the agency's Minority Health office and the...",
-        "url": "https://thehill.com/homenews/administration/6112779-trump-cancels-billion-federal-funding/"
+        "category": "Foreign Policy",
+        "summary": "President Trump will attend the University of Texas vs. University of Tennessee football game in Knoxville at noon on Saturday — an appearance coming ahead of senators' last chance to pass the Protect College Sports Act before recessing into a lame-duck period. Trump will fly to Knoxville Saturday morning to watch the Texas Longhorns, ranked...",
+        "url": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6112693-tiktok-alabama-lawsuit-settlement/",
+        "id": "https://thehill.com/opinion/congress-blog/energy-environment/6111870-dc-green-mandates-electricity-costs/",
         "source": "The Hill",
-        "title": "TikTok settles for over $100 million in mental health lawsuit, Alabama AG says",
+        "title": "To make energy affordable again, end green mandates before the midterms",
         "publicationDate": "2026-09-26",
-        "category": "Healthcare",
-        "summary": "The Alabama Attorney General’s Office announced Friday it reached a minimum $100 million settlement deal with TikTok and its parent company, ByteDance, days before a state court was set to hear arguments surrounding the app's potential mental health effects on minors. TikTok has 45 days to respond to the settlement, which could balloon to $300...",
-        "url": "https://thehill.com/regulation/court-battles/6112693-tiktok-alabama-lawsuit-settlement/"
+        "category": "Congress Blog - Energy & Environment",
+        "summary": "Democrats spent the summer talking a big game on “affordability,” but their energy approach raises prices across the board.",
+        "url": "https://thehill.com/opinion/congress-blog/energy-environment/6111870-dc-green-mandates-electricity-costs/"
     },
     {
         "id": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html",
@@ -108,15 +153,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/26/trump-vowed-campaign-all-out-first-football-golf/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/26/inside-alleged-plot-attack-trumps-birthday-ufc-fight-white-house/",
-        "source": "Washington Post Politics",
-        "title": "Inside the alleged plot to attack Trump’s birthday UFC fight",
-        "publicationDate": "2026-09-26",
-        "category": "Other",
-        "summary": "Prosecutors say the plan was coordinated between men in at least six states almost entirely online, and took shape in mere weeks ahead of the June 14 event at the White House.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/26/inside-alleged-plot-attack-trumps-birthday-ufc-fight-white-house/"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/09/26/democratic-senate-is-becoming-more-likely-here-are-races-watch/",
         "source": "Washington Post Politics",
         "title": "The Senate map is looking even better for Democrats. Here are races to watch.",
@@ -124,6 +160,24 @@
         "category": "Other",
         "summary": "The goal of keeping Democratic Senate seats and flipping four GOP seats once felt like a long shot. Now it's feasible.",
         "url": "https://www.washingtonpost.com/politics/2026/09/26/democratic-senate-is-becoming-more-likely-here-are-races-watch/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/26/inside-alleged-plot-attack-trumps-birthday-ufc-fight-white-house/",
+        "source": "Washington Post Politics",
+        "title": "Men who allegedly targeted Trump’s UFC fight converged online. Most never met.",
+        "publicationDate": "2026-09-26",
+        "category": "Other",
+        "summary": "Prosecutors say the plan was coordinated between men in at least six states, taking shape in mere weeks ahead of the June 14 event at the White House.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/26/inside-alleged-plot-attack-trumps-birthday-ufc-fight-white-house/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Huge crowds greet Pope in Paris for open-air Mass",
+        "publicationDate": "2026-09-26",
+        "category": "Other",
+        "summary": "More than half a million people are expected to attend the event in the heart of the French capital.",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
@@ -135,13 +189,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
         "publicationDate": "2026-09-26",
         "category": "Other",
-        "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+        "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
@@ -153,6 +207,42 @@
         "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/36fd2644-9d0e-40b5-8a7a-ef33f302e652?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Manchester City verdict poses latest test to UK-UAE relations",
+        "publicationDate": "2026-09-26",
+        "category": "Other",
+        "summary": "Successive British governments have sought to shore up diplomatic ties with Abu Dhabi in a bid to lure investment",
+        "url": "https://www.ft.com/content/36fd2644-9d0e-40b5-8a7a-ef33f302e652?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/e13e3260-83ef-4474-98cb-15339bc6e3d5",
+        "source": "Financial Times World",
+        "title": "The gangs testing Colombia’s hardline new leader",
+        "publicationDate": "2026-09-26",
+        "category": "Other",
+        "summary": "Violence turns tourist hotspot into ‘ghost town’ after Abelardo de la Espriella abandons his predecessor’s ‘total peace’ strategy",
+        "url": "https://www.ft.com/content/e13e3260-83ef-4474-98cb-15339bc6e3d5"
+    },
+    {
+        "id": "https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Hackers hijack AI accounts and servers to fuel new cyber crime boom",
+        "publicationDate": "2026-09-26",
+        "category": "Technology",
+        "summary": "Security researchers warn of surge in ‘LLM-jacking’ attacks targeting companies’ costly AI resources",
+        "url": "https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Foreign capital flows into US stocks hit record as appetite for debt fades",
+        "publicationDate": "2026-09-26",
+        "category": "Economy",
+        "summary": "Overseas purchases of US equities topped $940bn in the year to July, coinciding with strong gains in the S&P 500",
+        "url": "https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/e375ba2b-8033-426a-aa63-0f22dd06e689?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Monzo in talks with Brazil’s Nubank about sale",
@@ -160,42 +250,6 @@
         "category": "Other",
         "summary": "UK fintech is also in discussions with private equity about selling a significant stake in the business",
         "url": "https://www.ft.com/content/e375ba2b-8033-426a-aa63-0f22dd06e689?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/9a7e735b-094d-40d7-8ba0-88ce3c954872?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Manchester City’s moment of reckoning",
-        "publicationDate": "2026-09-26",
-        "category": "Other",
-        "summary": "Also in today’s newsletter: how Roger Federer built the Laver Cup and US sports leagues warm to private equity",
-        "url": "https://www.ft.com/content/9a7e735b-094d-40d7-8ba0-88ce3c954872?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/fb890a8d-f530-497e-8486-27186ee66b9b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Medicines run short in Iran under US sanctions",
-        "publicationDate": "2026-09-26",
-        "category": "Foreign Policy",
-        "summary": "Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult",
-        "url": "https://www.ft.com/content/fb890a8d-f530-497e-8486-27186ee66b9b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/654cea78-c97c-4005-9994-45e8b66d61ff?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The ‘7 Up’ series: didactic social history as masterpiece",
-        "publicationDate": "2026-09-26",
-        "category": "Other",
-        "summary": "This vivid and complex account of life as it is lived has proved to be one of the great happy accidents of television",
-        "url": "https://www.ft.com/content/654cea78-c97c-4005-9994-45e8b66d61ff?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a49fa3ac-b735-42da-82a1-252641e2f7b9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Whitbread acts out the UK’s growth challenge in miniature",
-        "publicationDate": "2026-09-26",
-        "category": "Economy",
-        "summary": "If the budget hotel chain owner is struggling to make its numbers stack up, other operators will be too",
-        "url": "https://www.ft.com/content/a49fa3ac-b735-42da-82a1-252641e2f7b9?syn-25a6b1a6=1"
     },
     {
         "id": "R49327",
@@ -351,42 +405,6 @@
         "url": "https://cms.hoover.org/research/why-does-medicare-pay-different-prices-same-procedures-site-neutral-payments-wtom-church"
     },
     {
-        "id": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
-        "source": "NPR Politics",
-        "title": "Supreme Court blocks Trump-backed Missouri congressional map",
-        "publicationDate": "2026-09-25",
-        "category": "Other",
-        "summary": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterms for control of the House. It means voters will face a different map than the one used in the primaries.",
-        "url": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/25/nx-s1-5976948/what-did-we-learn-from-the-trump-xi-summit",
-        "source": "NPR Politics",
-        "title": "What did we learn from the Trump-Xi summit?",
-        "publicationDate": "2026-09-25",
-        "category": "Other",
-        "summary": "President Trump and Chinese leader Xi Jinping wrap up their two-day summit. What did we learn beyond the pageantry?",
-        "url": "https://www.npr.org/2026/09/25/nx-s1-5976948/what-did-we-learn-from-the-trump-xi-summit"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-        "source": "NPR Politics",
-        "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-        "publicationDate": "2026-09-25",
-        "category": "Other",
-        "summary": "The visit comes at an important time for both men.",
-        "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
-        "source": "NPR Politics",
-        "title": "The Supreme Court revives a controversial data system for citizenship checks",
-        "publicationDate": "2026-09-25",
-        "category": "Other",
-        "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.",
-        "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/what-the-supreme-courts-voter-citizenship-database-decision-means-for-the-midterms",
         "source": "PBS NewsHour Politics",
         "title": "What the Supreme Court's voter-citizenship database decision means for the midterms",
@@ -432,15 +450,6 @@
         "url": "https://www.pbs.org/newshour/politics/supreme-court-rejects-trump-backed-missouri-congressional-map-for-third-time"
     },
     {
-        "id": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/",
-        "source": "The Hill",
-        "title": "GOP senators not happy with Trump's embrace of Xi after China helped Iran",
-        "publicationDate": "2026-09-25",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story GOP senators not happy with Trump's embrace of Xi after China helped Iran Republican senators are dismayed over President Trump’s lavish welcome of Chinese President Xi Jinping to the U.S. after the discovery that Iran used...",
-        "url": "https://thehill.com/policy/defense/overnights/6112699-gop-senators-dismay-trump-xi-welcome/"
-    },
-    {
         "id": "https://www.washingtonpost.com/health/2026/09/25/white-house-has-not-acted-rfk-jrs-push-proof-ultra-processed-foods-are-safe/",
         "source": "Washington Post Politics",
         "title": "White House has not acted on RFK Jr.’s push for proof ultra-processed foods are safe",
@@ -448,15 +457,6 @@
         "category": "Other",
         "summary": "A draft letter obtained by The Post shows Kennedy’s favorable response to a petition that food experts said could lead to significant changes for the industry.",
         "url": "https://www.washingtonpost.com/health/2026/09/25/white-house-has-not-acted-rfk-jrs-push-proof-ultra-processed-foods-are-safe/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-        "publicationDate": "2026-09-25",
-        "category": "Foreign Policy",
-        "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-        "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
