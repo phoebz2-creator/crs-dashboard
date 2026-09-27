@@ -45,6 +45,15 @@
         "url": "https://www.npr.org/2026/09/26/nx-s1-5947225/battle-for-the-lehigh-valley-can-gop-hold-its-razor-thin-margin"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/house-democrats-plan-vast-oversight-of-trump-administration-impeachment-is-an-option",
+        "source": "PBS NewsHour Politics",
+        "title": "House Democrats plan vast oversight of Trump administration. Impeachment is an option",
+        "publicationDate": "2026-09-26",
+        "category": "congress",
+        "summary": "\"There is a cost to the American people of the out-of-control corruption,\" said Democratic leader Hakeem Jeffries of New York, who is in line to become House speaker if Democrats win control at the Capitol.",
+        "url": "https://www.pbs.org/newshour/politics/house-democrats-plan-vast-oversight-of-trump-administration-impeachment-is-an-option"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/kennedy-center-put-off-planned-repairs-despite-known-structural-issues-former-employees-allege",
         "source": "PBS NewsHour Politics",
         "title": "Kennedy Center put off planned repairs despite known structural issues, former employees allege",
@@ -81,6 +90,24 @@
         "url": "https://www.pbs.org/newshour/politics/cnn-says-it-was-left-off-air-force-one-for-trumps-saturday-trip-to-a-college-football-game"
     },
     {
+        "id": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
+        "source": "The Hill",
+        "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
+        "publicationDate": "2026-09-26",
+        "category": "Economy",
+        "summary": "President Trump announced Saturday he approved new fuel economy standards that eliminate an electric vehicle (EV) mandate introduced under the Biden administration. The 2024 EV mandate aimed to facilitate the transition from gas-powered to EVs by setting new pollution standards for automakers' vehicle fleets, which were intentionally difficult to meet without introducing new electric or...",
+        "url": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/",
+        "source": "The Hill",
+        "title": "Former Kennedy Center employees claim officials halted repairs months prior to closure",
+        "publicationDate": "2026-09-26",
+        "category": "Administration",
+        "summary": "Former Kennedy Center employees accused the iconic performing arts venue's leadership in a letter to Congress of halting planned waterproofing repairs earlier this year. In the Thursday letter, David Seide, an attorney representing the whistleblowers, shared internal documents which he said challenged the Kennedy Center board's claims that these leaks warranted the venue's immediate closure. ...",
+        "url": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/"
+    },
+    {
         "id": "https://thehill.com/homenews/sunday-talk-shows/6113249-sunday-shows-trump-rejects-iran-proposal/",
         "source": "The Hill",
         "title": "Sunday shows preview: Trump rejects Iran deal after week of high-stakes meetings; GOP clammers to keep Congress",
@@ -108,22 +135,13 @@
         "url": "https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/"
     },
     {
-        "id": "https://thehill.com/opinion/education/6112413-higher-education-veteran-support-gap/",
-        "source": "The Hill",
-        "title": "Colleges must help America keep the promise it makes to its military",
+        "id": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+        "source": "New York Times Politics",
+        "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
         "publicationDate": "2026-09-26",
-        "category": "Defense",
-        "summary": "As the U.S. military reaches record recruitment numbers, higher education institutions must improve their support systems to fulfill the promise of opportunity for service members and veterans.",
-        "url": "https://thehill.com/opinion/education/6112413-higher-education-veteran-support-gap/"
-    },
-    {
-        "id": "https://thehill.com/opinion/finance/6112015-us-split-digital-physical-economies/",
-        "source": "The Hill",
-        "title": "United in debt: America has become a nation of fake rich people",
-        "publicationDate": "2026-09-26",
-        "category": "Economy",
-        "summary": "An essay by John Mac Ghlionn examines the growing divide between Americans' physical financial realities and the performative wealth displayed through social media and consumer credit.",
-        "url": "https://thehill.com/opinion/finance/6112015-us-split-digital-physical-economies/"
+        "category": "United States Politics and Government",
+        "summary": "The White House TV pool went dark this past week amid a standoff between CNN and the president. Network leaders, however, believe an indefinite suspension may be untenable.",
+        "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
@@ -160,15 +178,6 @@
         "category": "United States Politics and Government",
         "summary": "The organization, founded in 2006 to back Democratic veterans opposing the Iraq war, is pouring huge sums into this year’s elections amid intense voter antipathy for another conflict in the Middle East.",
         "url": "https://www.nytimes.com/2026/09/26/us/politics/votevets-midterm-elections.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/26/us/politics/bobby-pulido-texas-house-race.html",
-        "source": "New York Times Politics",
-        "title": "Bobby Pulido, a Texan Singer, Puts Republicans on Defense",
-        "publicationDate": "2026-09-26",
-        "category": "Defense",
-        "summary": "Bobby Pulido, a Tejano musician running as a Democrat for the House, has left his Republican opponent struggling to match his star power in a district that President Trump won easily in 2024.",
-        "url": "https://www.nytimes.com/2026/09/26/us/politics/bobby-pulido-texas-house-race.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/09/26/lawmakers-slam-trumps-move-cancel-810m-funding-approved-by-congress/",
@@ -221,7 +230,7 @@
         "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
         "publicationDate": "2026-09-26",
         "category": "Foreign Policy",
-        "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+        "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -254,7 +263,7 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Nor'easter storm brings coastal flooding as New York and New Jersey declare emergency",
+        "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
         "publicationDate": "2026-09-26",
         "category": "Other",
         "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
@@ -457,15 +466,6 @@
         "category": "Healthcare",
         "summary": "Hoover Institution fellow Tom Church talks with Charlie Katebi of the America First Policy Institute about site neutral policy in Medicare.",
         "url": "https://cms.hoover.org/research/why-does-medicare-pay-different-prices-same-procedures-site-neutral-payments-wtom-church"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/what-the-supreme-courts-voter-citizenship-database-decision-means-for-the-midterms",
-        "source": "PBS NewsHour Politics",
-        "title": "What the Supreme Court's voter-citizenship database decision means for the midterms",
-        "publicationDate": "2026-09-25",
-        "category": "database",
-        "summary": "The Supreme Court revived a controversial voter-citizenship database less than two months ahead of the midterm elections. In the ruling, the court sided with the Trump administration, which is seeking to use the Department of Homeland Security's SAVE database to review state voter rolls for potential noncitizens. Geoff Bennett discussed more with Jessica Huseman of Votebeat.",
-        "url": "https://www.pbs.org/newshour/show/what-the-supreme-courts-voter-citizenship-database-decision-means-for-the-midterms"
     },
     {
         "id": "R49361",
