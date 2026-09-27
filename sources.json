@@ -1,57 +1,219 @@
 [
     {
-        "id": "https://thehill.com/homenews/senate/6113446-fetterman-gop-speculation-51st-democrat-midterms/",
-        "source": "The Hill",
-        "title": "Fetterman defends political identity, weighs potential role as 51st senator",
+        "id": "https://cms.hoover.org/research/china-truce-trump-buys-valuable-time",
+        "source": "Hoover Institution",
+        "title": "For China, a Truce with Trump Buys Valuable Time",
         "publicationDate": "2026-09-27",
-        "category": "Senate",
-        "summary": "Pennsylvania Sen. John Fetterman (D) defended his position as a Democrat on Saturday despite straying from the party on key issues — but refused to speculate how he would break ties if his party attained a 51-seat majority this November. During the closing keynote at the Texas Tribune Festival in Austin, Fetterman said he believes...",
-        "url": "https://thehill.com/homenews/senate/6113446-fetterman-gop-speculation-51st-democrat-midterms/"
+        "category": "Foreign Policy",
+        "summary": "Xi Jinping seeks to stabilize relations with the U.S. to focus on domestic priorities, including a housing market crash, local government financial struggles, and preparations for the upcoming Communist Party national congress.",
+        "url": "https://cms.hoover.org/research/china-truce-trump-buys-valuable-time"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6113414-graham-andrews-south-carolina-poll-close/",
+        "id": "https://cms.hoover.org/research/will-inuit-canada-seek-chinese-partnerships-amid-strained-ties-ottawa",
+        "source": "Hoover Institution",
+        "title": "Will Inuit in Canada Seek Chinese Partnerships Amid Strained Ties with Ottawa?",
+        "publicationDate": "2026-09-27",
+        "category": "Other",
+        "summary": "Amid strained relations with Ottawa, Canadian Inuit leaders are exploring new partnerships with countries like the PRC. Under Prime Minister Mark Carney, Inuit organizations feel sidelined in favor of territorial governments, raising concerns about their role in resource development and self-determination.",
+        "url": "https://cms.hoover.org/research/will-inuit-canada-seek-chinese-partnerships-amid-strained-ties-ottawa"
+    },
+    {
+        "id": "https://cms.hoover.org/research/chinas-purges-top-military-commanders-spur-questions-about-war-waging-ability",
+        "source": "Hoover Institution",
+        "title": "China’s Purges of Top Military Commanders Spur Questions About War-Waging Ability",
+        "publicationDate": "2026-09-27",
+        "category": "Defense",
+        "summary": "The CCP’s military purges, including the expulsion of top leaders Zhang Youxia and Liu Zhenli, are likely to strengthen Xi Jinping’s control over the military. Analysts believe Xi will continue to exert decisive influence over military affairs, solidifying his dominance over the party-state.",
+        "url": "https://cms.hoover.org/research/chinas-purges-top-military-commanders-spur-questions-about-war-waging-ability"
+    },
+    {
+        "id": "https://cms.hoover.org/research/iran-and-china-create-first-their-kind-autonomous-ai-influence-campaigns",
+        "source": "Hoover Institution",
+        "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
+        "publicationDate": "2026-09-27",
+        "category": "Foreign Policy",
+        "summary": "Iran and the PRC are using Chinese open-source AI models and AI agents to create influence campaigns on social media. These campaigns, which involved hundreds of AI agents autonomously creating fake accounts and spreading false information, raised concerns among US officials about the potential for AI to be used for online manipulation. The use of AI agents in these campaigns highlights the evolving nature of...",
+        "url": "https://cms.hoover.org/research/iran-and-china-create-first-their-kind-autonomous-ai-influence-campaigns"
+    },
+    {
+        "id": "https://cms.hoover.org/research/china-promised-buy-more-us-farm-goods-it-hasnt-happened",
+        "source": "Hoover Institution",
+        "title": "China Promised to Buy More U.S. Farm Goods. It Hasn’t Happened.",
+        "publicationDate": "2026-09-27",
+        "category": "Foreign Policy",
+        "summary": "China’s commitment to increase purchases of American agricultural products, excluding soybeans, has not been fulfilled. Despite the pledge, the PRC has only bought $3.9 billion of the $17 billion it committed to purchase of U.S. agricultural products in the first seven months of 2026, a slight increase from the previous year.",
+        "url": "https://cms.hoover.org/research/china-promised-buy-more-us-farm-goods-it-hasnt-happened"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/27/nx-s1-5978973/as-former-athletes-some-senators-have-extra-say-on-the-college-sports-reform-bill",
+        "source": "NPR Politics",
+        "title": "As former athletes, some Senators have extra say on the college sports reform bill",
+        "publicationDate": "2026-09-27",
+        "category": "Other",
+        "summary": "As Senate considers a major college sports reform bill lobbied for by the NCAA and other powerful stakeholders, some lawmakers — themselves former college athletes — have a major say in the debate.",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5978973/as-former-athletes-some-senators-have-extra-say-on-the-college-sports-reform-bill"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+        "source": "NPR Politics",
+        "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+        "publicationDate": "2026-09-27",
+        "category": "Other",
+        "summary": "The Ohio governor's race pits Vivek Ramaswamy against Democrat Amy Acton. While Ramaswamy downplays his Trump tie and Acton faces pandemic-era scrutiny, Democrats eye a rare win in 40 years",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/27/nx-s1-5978751/politics-chat-trump-vs-the-media-rolling-back-health-and-education-spending",
+        "source": "NPR Politics",
+        "title": "Politics chat: Trump vs the media; rolling back health and education spending",
+        "publicationDate": "2026-09-27",
+        "category": "Healthcare",
+        "summary": "We look at President Trump's fight with some of the White House press corps, as well as his attempt to claw back $810 million in Congressionally-approved funds for health and education spending.",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5978751/politics-chat-trump-vs-the-media-rolling-back-health-and-education-spending"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
+        "source": "NPR Politics",
+        "title": "These Democrats are running for Congress on Christian faith. Will it pay off?",
+        "publicationDate": "2026-09-27",
+        "category": "Other",
+        "summary": "It's rare for Democrats to make religion a centerpiece of their campaigns. But this midterm election cycle, a number of candidates for Congress are doing just that.",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6113603-talarico-leads-paxton-texas-senate/",
         "source": "The Hill",
-        "title": "Graham, Andrews neck and neck in South Carolina Senate race: Poll",
+        "title": "Talarico leads Paxton by 5 points in Texas Senate race poll",
         "publicationDate": "2026-09-27",
         "category": "Campaign",
-        "summary": "Sen. Darline Graham (R-S.C.) and her Democratic opponent, Annie Andrews, are locked in a dead heat in the race for South Carolina's Senate seat, according to a new poll released Saturday evening. The survey, conducted by right-leaning polling firm Trafalgar Group, found Graham leading Andrews by just one point — with a just under three-point...",
-        "url": "https://thehill.com/homenews/campaign/6113414-graham-andrews-south-carolina-poll-close/"
+        "summary": "A new poll shows Democratic Texas Senate candidate James Talarico leading Texas Attorney General Ken Paxton (R) by 5 points over a month before the November midterm elections. The Texas Public Opinion Research (TPOR) poll released Friday showed Talarico with 49 percent support from voters and Paxton with 44 percent support, with 3 percent saying...",
+        "url": "https://thehill.com/homenews/campaign/6113603-talarico-leads-paxton-texas-senate/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6113353-trump-denies-byron-donalds-endorsement-story/",
+        "id": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/",
         "source": "The Hill",
-        "title": "Trump slams reporting on removal of his endorsements from GOP candidate's website",
+        "title": "Live updates: Trump attends Presidents Cup final; top Iranian officials set for US interviews",
         "publicationDate": "2026-09-27",
-        "category": "Administration",
-        "summary": "President Trump criticized the media on Saturday following reports that GOP Rep. Byron Donalds (Fla.) removed several references to the president’s endorsement of his gubernatorial bid from his campaign website. The president slammed this reporting as “Another Fake Story” in a Truth Social post, citing his election wins in Florida during his three presidential campaigns....",
-        "url": "https://thehill.com/homenews/administration/6113353-trump-denies-byron-donalds-endorsement-story/"
+        "category": "Foreign Policy",
+        "summary": "President Trump is slated to attend the final round of the Presidents Cup golf tournament in Chicago Sunday morning, around a month after PGA Tour named him the event's honorary chair. Trump last attended the competition in 2017 during his first term, where he presented the trophy to the winning team. It is unclear whether...",
+        "url": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/26/us/politics/trump-salazar-immigration-criticism.html",
-        "source": "New York Times Politics",
-        "title": "Trump Promotes Criticism of Republican Who Broke With Him on Immigration",
+        "id": "https://thehill.com/opinion/finance/6111892-national-debt-impact-economy/",
+        "source": "The Hill",
+        "title": "Trump once called the national debt a 'time bomb' — he was right",
         "publicationDate": "2026-09-27",
-        "category": "Midterm Elections (2026)",
-        "summary": "The president amplified negative social media comments about Representative María Elvira Salazar of Florida, a move that drew a rebuke from at least one Republican.",
-        "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-salazar-immigration-criticism.html"
+        "category": "Economy",
+        "summary": "The $40 trillion national debt is hitting Americans’ pocketbooks right now.",
+        "url": "https://thehill.com/opinion/finance/6111892-national-debt-impact-economy/"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+        "id": "https://thehill.com/homenews/administration/6113577-trump-accuses-outlets-fake-news/",
+        "source": "The Hill",
+        "title": "Trump boasts about economy, slams 'fake news' amid media battle",
+        "publicationDate": "2026-09-27",
+        "category": "Economy",
+        "summary": "President Trump late Saturday boasted about the U.S. economy while accusing news outlets of \"fake news\" amid his battle over media coverage at the White House and of his administration. \"We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!\" Trump wrote on Truth Social. When asked on Saturday...",
+        "url": "https://thehill.com/homenews/administration/6113577-trump-accuses-outlets-fake-news/"
+    },
+    {
+        "id": "https://thehill.com/policy/energy-environment/6113144-severe-weather-impacting-east-coast-hawaii-this-weekend/",
+        "source": "The Hill",
+        "title": "Severe weather impacting East Coast, Hawaii this weekend",
+        "publicationDate": "2026-09-27",
+        "category": "Energy & Environment",
+        "summary": "(NEXSTAR) -- From a nor'easter on the East Coast to more hurricanes headed toward Hawaii, severe weather is making an impact on the United States this weekend. East Coast The governors of New York, Kathy Hochul (D), and New Jersey, Mikie Sherrill (D), both announced Friday they would declare states of emergency ahead of this...",
+        "url": "https://thehill.com/policy/energy-environment/6113144-severe-weather-impacting-east-coast-hawaii-this-weekend/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
         "source": "New York Times Politics",
-        "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+        "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
+        "publicationDate": "2026-09-27",
+        "category": "Peltola",
+        "summary": "Ms. Peltola, the Democratic Senate candidate in Alaska, has complicated politics: She is pro-gun, pro-oil and pro-gas — but also pro-environment and especially pro-fish.",
+        "url": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html",
+        "source": "New York Times Politics",
+        "title": "A ‘Big Problem’: Trump’s War With Iran Drags Down Republicans in Midterms",
+        "publicationDate": "2026-09-27",
+        "category": "Foreign Policy",
+        "summary": "As their November picture darkens, and gas and diesel prices soar, some Republicans who backed the war for months are now changing their tune.",
+        "url": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html",
+        "source": "New York Times Politics",
+        "title": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers",
         "publicationDate": "2026-09-27",
         "category": "United States Politics and Government",
-        "summary": "The White House TV pool went dark this past week amid a standoff between CNN and the president. Network leaders, however, believe an indefinite suspension may be untenable.",
-        "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html"
+        "summary": "The ledger used by a task force created by President Trump is difficult to verify and includes cases that were identified and went to trial during the Biden administration.",
+        "url": "https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html",
+        "source": "New York Times Politics",
+        "title": "Washington Taxed Its Millionaires. Now the Rich Want It Repealed.",
+        "publicationDate": "2026-09-27",
+        "category": "Economy",
+        "summary": "Washington State voters will get a chance to accept or reject the 9.9 percent income tax on millionaires approved by the Legislature, which broke the state’s taboo against levying income taxes.",
+        "url": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html"
+    },
+    {
+        "id": "https://www.nytimes.com/video/us/politics/100000011156925/fact-checking-vances-anti-fraud-task-force.html",
+        "source": "New York Times Politics",
+        "title": "Fact-Checking Vance’s Anti-Fraud Task Force",
+        "publicationDate": "2026-09-27",
+        "category": "Vance",
+        "summary": "Vice President JD Vance claimed that the White House anti-fraud task force found $250 billion of fraud. Our reporter Linda Qiu explains why that claim is exaggerated.",
+        "url": "https://www.nytimes.com/video/us/politics/100000011156925/fact-checking-vances-anti-fraud-task-force.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/27/soaring-diesel-costs-are-clobbering-maga-voters/",
+        "source": "Washington Post Politics",
+        "title": "Soaring diesel prices are clobbering Trump’s MAGA faithful, exposing rifts",
+        "publicationDate": "2026-09-27",
+        "category": "Other",
+        "summary": "Pain at the pump for rural Republicans is shifting the political map.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/27/soaring-diesel-costs-are-clobbering-maga-voters/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/09/27/bobby-pulido-would-be-only-member-congress-with-latin-grammy/",
+        "source": "Washington Post Politics",
+        "title": "This Texas crooner could help Democrats win Congress, one quinceañera at a time",
+        "publicationDate": "2026-09-27",
+        "category": "Other",
+        "summary": "Bobby Pulido would be the only member of Congress with a Latin Grammy to his name. That comes with its upsides and downsides.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/27/bobby-pulido-would-be-only-member-congress-with-latin-grammy/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
         "publicationDate": "2026-09-27",
         "category": "Foreign Policy",
-        "summary": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\".",
+        "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
         "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+        "publicationDate": "2026-09-27",
+        "category": "Other",
+        "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Two mass shootings in South Africa leave 27 dead",
+        "publicationDate": "2026-09-27",
+        "category": "Other",
+        "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
@@ -63,49 +225,49 @@
         "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/aaf4c7d7-b4bc-4b5c-83b7-7f761d315b63?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Swiss voters to decide fate of centuries-old neutrality",
+        "title": "Northern Ireland in tense stand-off as protests stall Orange Order parade",
+        "publicationDate": "2026-09-27",
+        "category": "Other",
+        "summary": "March unable to proceed as police say they cannot facilitate Protestant route down largely Catholic road",
+        "url": "https://www.ft.com/content/c9957c9f-8622-4351-9380-9b725b70b1e7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Explosives arrests made in ‘major incident’ near RAF Fairford",
         "publicationDate": "2026-09-27",
         "category": "Defense",
-        "summary": "A Yes vote would bar the country from co-operating with military alliances unless attacked",
-        "url": "https://www.ft.com/content/aaf4c7d7-b4bc-4b5c-83b7-7f761d315b63?syn-25a6b1a6=1"
+        "summary": "US Air Force has used UK base for strikes on Iran",
+        "url": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/a2c22bca-f50a-440d-82f8-1a373859770d?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Value of old supertankers soars past new builds as market goes ‘bananas’",
+        "title": "The India shock: exporting workers to the world",
         "publicationDate": "2026-09-27",
         "category": "Other",
-        "summary": "As freight rates soar, vessel prices are being determined by how quickly a ship can be delivered to buyers",
-        "url": "https://www.ft.com/content/a2c22bca-f50a-440d-82f8-1a373859770d?syn-25a6b1a6=1"
+        "summary": "Emigration has helped New Delhi manage its labour surplus, but the strategy has limits",
+        "url": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/08fe7323-5a2f-4d46-ad64-132ce469b381?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Big dreams and tiny revenue are the new norm for AI IPOs",
+        "title": "Will US jobs data add to pressure on Fed policymakers?",
         "publicationDate": "2026-09-27",
         "category": "Other",
-        "summary": "The nature of the AI boom and the size of valuations make the contrast between ambition and income more striking",
-        "url": "https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1"
+        "summary": "Market Questions is the FT’s guide to the week ahead",
+        "url": "https://www.ft.com/content/08fe7323-5a2f-4d46-ad64-132ce469b381?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/8cd07ef8-1578-4697-9f8b-d1a6f5b60883?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/a1bff0d7-be5a-434f-8856-c45337b9449f?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "The UK’s IMF bailout has things to teach us 50 years on",
+        "title": "Maha split shows all is not well with Kennedy’s US health revolution",
         "publicationDate": "2026-09-27",
-        "category": "Other",
-        "summary": "A different Healey may be chancellor but he faces a set of parallel challenges",
-        "url": "https://www.ft.com/content/8cd07ef8-1578-4697-9f8b-d1a6f5b60883?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/474ced6c-b6ba-4d03-af41-bab5fbb6d7e9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Europe braces for LNG tug of war with Asia",
-        "publicationDate": "2026-09-27",
-        "category": "Other",
-        "summary": "Competition for cargoes could intensify in coming months as EU gas stores are at record lows",
-        "url": "https://www.ft.com/content/474ced6c-b6ba-4d03-af41-bab5fbb6d7e9?syn-25a6b1a6=1"
+        "category": "Healthcare",
+        "summary": "Republicans worry Make America Healthy Again is an electoral liability while activists claim it has abandoned its values",
+        "url": "https://www.ft.com/content/a1bff0d7-be5a-434f-8856-c45337b9449f?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
@@ -115,42 +277,6 @@
         "category": "Foreign Policy",
         "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
         "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/26/nx-s1-5981494/press-pool-dispute-escalates-as-white-house-cuts-cnn-from-air-force-one-travel",
-        "source": "NPR Politics",
-        "title": "Press pool dispute escalates as White House cuts CNN from Air Force One travel",
-        "publicationDate": "2026-09-26",
-        "category": "Defense",
-        "summary": "The White House has barred CNN from traveling on Air Force One this weekend. It's another chapter in President Trump's fight with the press, and it appears there will be no TV pool coverage today.",
-        "url": "https://www.npr.org/2026/09/26/nx-s1-5981494/press-pool-dispute-escalates-as-white-house-cuts-cnn-from-air-force-one-travel"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/26/nx-s1-5981449/supreme-court-rejects-gop-backed-missouri-map-preserving-key-seat-for-democrats",
-        "source": "NPR Politics",
-        "title": "Supreme Court rejects GOP-backed Missouri map, preserving key seat for Democrats",
-        "publicationDate": "2026-09-26",
-        "category": "Other",
-        "summary": "The U.S. Supreme Court rejected a Republican attempt at redistricting congressional seats in Missouri - possibly giving Democrats a boost in their effort to win the House in the midterm elections.",
-        "url": "https://www.npr.org/2026/09/26/nx-s1-5981449/supreme-court-rejects-gop-backed-missouri-map-preserving-key-seat-for-democrats"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/26/nx-s1-5979806/week-in-politics-trump-faces-republican-defections-u-s-china-summit-press-feud",
-        "source": "NPR Politics",
-        "title": "Week in Politics: Trump faces Republican defections; U.S.-China summit; press feud",
-        "publicationDate": "2026-09-26",
-        "category": "Foreign Policy",
-        "summary": "Some GOP candidates are stepping back from unpopular Trump administration policies. Meanwhile, a U.S.-China summit at the White House and tensions with the press corps.",
-        "url": "https://www.npr.org/2026/09/26/nx-s1-5979806/week-in-politics-trump-faces-republican-defections-u-s-china-summit-press-feud"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/26/nx-s1-5947225/battle-for-the-lehigh-valley-can-gop-hold-its-razor-thin-margin",
-        "source": "NPR Politics",
-        "title": "Battle for the Lehigh Valley: Can GOP hold its razor-thin margin?",
-        "publicationDate": "2026-09-26",
-        "category": "Other",
-        "summary": "Both parties target the Lehigh Valley for House control. While the GOP made inroads with Latinos, Dems argue Trump's immigration stance hurts them. Can Republicans hold this 1% margin swing seat?",
-        "url": "https://www.npr.org/2026/09/26/nx-s1-5947225/battle-for-the-lehigh-valley-can-gop-hold-its-razor-thin-margin"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/house-democrats-plan-vast-oversight-of-trump-administration-impeachment-is-an-option",
@@ -198,51 +324,6 @@
         "url": "https://www.pbs.org/newshour/politics/cnn-says-it-was-left-off-air-force-one-for-trumps-saturday-trip-to-a-college-football-game"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/",
-        "source": "The Hill",
-        "title": "Trump says he ended Biden electric vehicle rule, updated fuel economy standards",
-        "publicationDate": "2026-09-26",
-        "category": "Economy",
-        "summary": "President Trump announced Saturday he approved new fuel economy standards that eliminate an electric vehicle (EV) mandate introduced under the Biden administration. The 2024 EV mandate aimed to facilitate the transition from gas-powered to EVs by setting new pollution standards for automakers' vehicle fleets, which were intentionally difficult to meet without introducing new electric or...",
-        "url": "https://thehill.com/homenews/administration/6113324-trump-eliminates-biden-ev-mandate/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/",
-        "source": "The Hill",
-        "title": "Former Kennedy Center employees claim officials halted repairs months prior to closure",
-        "publicationDate": "2026-09-26",
-        "category": "Administration",
-        "summary": "Former Kennedy Center employees accused the iconic performing arts venue's leadership in a letter to Congress of halting planned waterproofing repairs earlier this year. In the Thursday letter, David Seide, an attorney representing the whistleblowers, shared internal documents which he said challenged the Kennedy Center board's claims that these leaks warranted the venue's immediate closure. ...",
-        "url": "https://thehill.com/homenews/administration/6113290-kennedy-center-whistleblower-letter-repairs/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html",
-        "source": "New York Times Politics",
-        "title": "Trump Rejects Iran’s Cease-Fire Proposal to Reopen Strait of Hormuz",
-        "publicationDate": "2026-09-26",
-        "category": "Defense",
-        "summary": "The president said the deal was not “acceptable” and demurred on whether he would restart military strikes after the midterm elections.",
-        "url": "https://www.nytimes.com/2026/09/26/us/politics/trump-iran-hormuz-strait.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html",
-        "source": "New York Times Politics",
-        "title": "A 7-Day Standoff That Said So Much About Trump and the Media",
-        "publicationDate": "2026-09-26",
-        "category": "News and News Media",
-        "summary": "An abrupt decree, a network boycott, a legal intervention and an uneasy détente: This was no typical battle between a president and his press corps.",
-        "url": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html",
-        "source": "New York Times Politics",
-        "title": "Rahm Emanuel, Eyeing 2028, Makes His 2026 Play",
-        "publicationDate": "2026-09-26",
-        "category": "Emanuel",
-        "summary": "The longtime Democratic insider has emerged as a behind-the-scenes force in his party’s push to win back Congress. After that, he’ll think about the next presidential race.",
-        "url": "https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/09/26/lawmakers-slam-trumps-move-cancel-810m-funding-approved-by-congress/",
         "source": "Washington Post Politics",
         "title": "Lawmakers slam Trump’s move to cancel $810M in funding approved by Congress",
@@ -270,49 +351,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/09/26/trump-vowed-campaign-all-out-first-football-golf/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/26/inside-alleged-plot-attack-trumps-birthday-ufc-fight-white-house/",
-        "source": "Washington Post Politics",
-        "title": "Men who allegedly targeted Trump’s UFC fight converged online. Most never met.",
-        "publicationDate": "2026-09-26",
-        "category": "Other",
-        "summary": "Prosecutors say the plan was coordinated between men in at least six states, taking shape in mere weeks ahead of the June 14 event at the White House.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/26/inside-alleged-plot-attack-trumps-birthday-ufc-fight-white-house/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/26/democratic-senate-is-becoming-more-likely-here-are-races-watch/",
-        "source": "Washington Post Politics",
-        "title": "Democrats now have easier paths to flipping the Senate. Here are races to watch.",
-        "publicationDate": "2026-09-26",
-        "category": "Other",
-        "summary": "The goal of keeping Democratic Senate seats and flipping four GOP seats once felt like a long shot. Now it's feasible.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/26/democratic-senate-is-becoming-more-likely-here-are-races-watch/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+        "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
         "publicationDate": "2026-09-26",
         "category": "Other",
         "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
         "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-        "publicationDate": "2026-09-26",
-        "category": "Other",
-        "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "publicationDate": "2026-09-26",
-        "category": "Other",
-        "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "R49327",
@@ -421,51 +466,6 @@
         "category": "Defense",
         "summary": "Netanyahu Gives Address to the UN amid Rising Antisemitism in the US bbert@hudson.org Fri, 09/25/2026 - 13:06 SVG In the Media Sep 24, 2026 Fox News Netanyahu Gives Address to the UN amid Rising Antisemitism in the US Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox News) Toggle Table of Contents Contents Contents Share to...",
         "url": "https://www.hudson.org/foreign-policy/netanyahu-gives-address-un-amid-rising-antisemitism-us"
-    },
-    {
-        "id": "https://cms.hoover.org/research/xi-jinping-sees-trump-opportunity-says-china-expert-elizabeth-economy",
-        "source": "Hoover Institution",
-        "title": "Xi Jinping Sees Trump As An Opportunity, Says China Expert Elizabeth Economy",
-        "publicationDate": "2026-09-25",
-        "category": "Economy",
-        "summary": "Hoover Institution fellow Elizabeth Economy talks about the Trump-Xi summit and says that Xi is \"seizing the moment,\" finding new avenues to global influence.",
-        "url": "https://cms.hoover.org/research/xi-jinping-sees-trump-opportunity-says-china-expert-elizabeth-economy"
-    },
-    {
-        "id": "https://cms.hoover.org/research/climate-science-energy-reality-and-cost-alarm",
-        "source": "Hoover Institution",
-        "title": "Climate Science, Energy Reality, And The Cost Of Alarm",
-        "publicationDate": "2026-09-25",
-        "category": "Technology",
-        "summary": "Exaggerated fears clash with what the world needs: reliable energy, rational mitigation, and truth.",
-        "url": "https://cms.hoover.org/research/climate-science-energy-reality-and-cost-alarm"
-    },
-    {
-        "id": "https://cms.hoover.org/research/americas-first-trump-and-latin-america",
-        "source": "Hoover Institution",
-        "title": "Americas First: Trump And Latin America",
-        "publicationDate": "2026-09-25",
-        "category": "Other",
-        "summary": "Secretary of State Marco Rubio’s most recent expedition to Colombia, Ecuador and Peru — his fifth trip crisscrossing the region as secretary — drew familiar criticism.",
-        "url": "https://cms.hoover.org/research/americas-first-trump-and-latin-america"
-    },
-    {
-        "id": "https://cms.hoover.org/research/embarrassing-amb-mcfaul-says-world-used-look-us-freedom-press",
-        "source": "Hoover Institution",
-        "title": "This Is Embarrassing!': Amb. McFaul Says World 'Used To Look Up To Us' For Freedom Of The Press",
-        "publicationDate": "2026-09-25",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Michael McFaul discusses the meeting between President Trump and President Xi Jinping as well as some reporters from MS NOW, CNN and Politico still not allowed inside the White House.",
-        "url": "https://cms.hoover.org/research/embarrassing-amb-mcfaul-says-world-used-look-us-freedom-press"
-    },
-    {
-        "id": "https://cms.hoover.org/research/why-does-medicare-pay-different-prices-same-procedures-site-neutral-payments-wtom-church",
-        "source": "Hoover Institution",
-        "title": "Why Does Medicare Pay Different Prices For The Same Procedures? Site Neutral Payments W/Tom Church And Charlie Katebi",
-        "publicationDate": "2026-09-25",
-        "category": "Healthcare",
-        "summary": "Hoover Institution fellow Tom Church talks with Charlie Katebi of the America First Policy Institute about site neutral policy in Medicare.",
-        "url": "https://cms.hoover.org/research/why-does-medicare-pay-different-prices-same-procedures-site-neutral-payments-wtom-church"
     },
     {
         "id": "R49361",
