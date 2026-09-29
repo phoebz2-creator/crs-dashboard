@@ -1,5 +1,41 @@
 [
     {
+        "id": "R43141",
+        "source": "Congressional Research Service",
+        "title": "The National Earthquake Hazards Reduction Program (NEHRP): Overview and Issues for Congress",
+        "publicationDate": "2026-09-29",
+        "category": "Technology",
+        "summary": "The National Earthquake Hazards Reduction Program (NEHRP) aims to understand earthquake hazards and reduce earthquake risks in the United States. Portions of all 50 states, as well as U.S. territories and the District of Columbia, are vulnerable to earthquake hazards and their associated risks, to varying degrees. Each region’s risk is shaped by the frequency and scale of the hazard as well as by the population,...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43141/R43141.32.pdf"
+    },
+    {
+        "id": "IF13323",
+        "source": "Congressional Research Service",
+        "title": "Defense Primer: U.S. Army Force Structure Development Process",
+        "publicationDate": "2026-09-29",
+        "category": "Defense",
+        "summary": "Introduction The U.S. Army has changed the units and organizations comprising its force structure throughout its history, which dates to 1775. Force structure can be described as the number and types (infantry, artillery, engineer, etc.) of Army units containing soldiers, weapons, and equipment. Changes to Army force structure have occurred for various reasons, including evolution of national security requirements;...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13323/IF13323.1.pdf"
+    },
+    {
+        "id": "https://cms.hoover.org/research/stanford-anchors-national-manufacturing-education-effort",
+        "source": "Hoover Institution",
+        "title": "Stanford Anchors National Manufacturing Education Effort",
+        "publicationDate": "2026-09-29",
+        "category": "Other",
+        "summary": "Two winter quarter engineering courses form the core curriculum for Foundry School, an initiative launched by the State Department to prepare the next generation of leaders in manufacturing.",
+        "url": "https://cms.hoover.org/research/stanford-anchors-national-manufacturing-education-effort"
+    },
+    {
+        "id": "https://cms.hoover.org/research/prop-42-retirement-and-personal-savings-protection-act-2026",
+        "source": "Hoover Institution",
+        "title": "PROP 42: The Retirement and Personal Savings Protection Act of 2026",
+        "publicationDate": "2026-09-29",
+        "category": "Economy",
+        "summary": "Proposition 42 would add a new article to the California Constitution with two main provisions: First, it would prohibit any new taxes on personal property—both tangible (i.e., personal belongings) and intangible (savings, retirement accounts, financial assets, business ownership, intellectual property, etc.)—while leaving existing property taxes untouched. In effect, this would require that the California...",
+        "url": "https://cms.hoover.org/research/prop-42-retirement-and-personal-savings-protection-act-2026"
+    },
+    {
         "id": "https://cms.hoover.org/research/does-high-skilled-immigration-reduce-opportunities-us-workers",
         "source": "Hoover Institution",
         "title": "Does High-Skilled Immigration Reduce Opportunities for US Workers?",
@@ -18,15 +54,6 @@
         "url": "https://www.npr.org/2026/09/29/nx-s1-5983673/trump-administration-says-its-scaling-back-fuel-efficiency-standards-for-new-cars"
     },
     {
-        "id": "https://www.npr.org/2026/09/29/nx-s1-5983537/pete-buttigieg-discusses-trump-administrations-rollback-of-fuel-efficiency-standards",
-        "source": "NPR Politics",
-        "title": "Pete Buttigieg discusses Trump administration's rollback of fuel efficiency standards",
-        "publicationDate": "2026-09-29",
-        "category": "Other",
-        "summary": "NPR's Leila Fadel speaks with former Transportation Secretary Pete Buttigieg about the Trump administration's rollback of automotive fuel efficiency standards.",
-        "url": "https://www.npr.org/2026/09/29/nx-s1-5983537/pete-buttigieg-discusses-trump-administrations-rollback-of-fuel-efficiency-standards"
-    },
-    {
         "id": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
         "source": "NPR Politics",
         "title": "News organizations ask court to bar White House enforcement of access ban",
@@ -36,49 +63,103 @@
         "url": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6116269-us-cuba-tensions-rise-unga/",
-        "source": "The Hill",
-        "title": "Cuba tensions on the rise as Trump pushes for 'fundamental change'",
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-launches-ai-powered-government-website-america-gov",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump launches AI-powered government website America.gov",
         "publicationDate": "2026-09-29",
-        "category": "Defense",
-        "summary": "Tensions between the U.S. and Cuba are rising once again after President Trump told world leaders gathered at the United Nations General Assembly that he was seeking “fundamental change” from the island and asserting that “freedom will be coming to Cuba.” The Trump administration has never walked back threats of a possible military intervention —...",
-        "url": "https://thehill.com/homenews/administration/6116269-us-cuba-tensions-rise-unga/"
+        "category": "america.gov",
+        "summary": "The president said the site is \"glamorizing\" the federal bureaucracy — but it doesn't agree with him on many key issues.",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-launches-ai-powered-government-website-america-gov"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6116146-trump-tariffs-section-301-court-battle/",
+        "id": "https://www.pbs.org/newshour/politics/watch-jack-smith-says-he-would-prosecute-trump-again-for-serious-crimes-against-our-nation",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Jack Smith says he would prosecute Trump again for 'serious crimes against our nation'",
+        "publicationDate": "2026-09-29",
+        "category": "classified documents",
+        "summary": "Smith, who in 2022 led investigations into Trump and secured two indictments, said he made decisions in the case \"without regard\" for Trump's \"political association activities, beliefs, or candidacy in the 2024 presidential election.\"",
+        "url": "https://www.pbs.org/newshour/politics/watch-jack-smith-says-he-would-prosecute-trump-again-for-serious-crimes-against-our-nation"
+    },
+    {
+        "id": "https://thehill.com/homenews/media/6118100-watters-trump-midterm-beer-joke/",
         "source": "The Hill",
-        "title": "Tariff challengers take Trump back to court: 'Rinse and repeat'",
+        "title": "Watters: Trump should just say 'half-off beer if you vote Republican'",
+        "publicationDate": "2026-09-29",
+        "category": "Media",
+        "summary": "Fox News host Jesse Watters on Monday joked that President Trump should just say that he will cut the price of beer in half if Americans vote for Republicans in the upcoming midterms. During a discussion on Fox News between Watters and conservative commentator Benny Johnson about how politicians can draw larger crowds at public...",
+        "url": "https://thehill.com/homenews/media/6118100-watters-trump-midterm-beer-joke/"
+    },
+    {
+        "id": "https://thehill.com/opinion/robbys-radar/6118134-snl-misses-mark-tucker-carlson/",
+        "source": "The Hill",
+        "title": "Clueless SNL mocks Tucker Carlson with outdated impression",
+        "publicationDate": "2026-09-29",
+        "category": "Opinions - Robby's Radar",
+        "summary": "I think it says something about the laziness of mainstream entertainment that even their parodies of conservatives can miss the mark so badly.",
+        "url": "https://thehill.com/opinion/robbys-radar/6118134-snl-misses-mark-tucker-carlson/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6116612-live-updates-trump-ai-jack-smith-senate-healthcare-affordability/",
+        "source": "The Hill",
+        "title": "Live updates: Jack Smith faces Senate scrutiny; Trump unveils federal AI tool",
         "publicationDate": "2026-09-29",
         "category": "Administration",
-        "summary": "President Trump hopes the third time will be the charm as his latest round of tariffs heads to court this week. The Supreme Court already ruled Trump can’t invoke an emergency statute to impose his global trade war. Now, the president is pointing to a different law, and this time, everyone agrees it allows the president to impose...",
-        "url": "https://thehill.com/homenews/administration/6116146-trump-tariffs-section-301-court-battle/"
+        "summary": "Former special counsel Jack Smith will testify before the Senate Judiciary Committee on Tuesday, his second appearance before Congress as the panel probes his investigation into President Trump. Smith led a team of Justice Department investigators and ultimately determined he would bring charges against Trump in the Mar-a-Lago documents case and another related to the...",
+        "url": "https://thehill.com/homenews/administration/6116612-live-updates-trump-ai-jack-smith-senate-healthcare-affordability/"
     },
     {
-        "id": "https://thehill.com/policy/international/6116016-council-europe-ai-framework/",
+        "id": "https://thehill.com/policy/technology/6118009-senator-ted-cruz-blocks-ai-bill/",
         "source": "The Hill",
-        "title": "Council of Europe head revives Biden-backed framework for AI regulation",
+        "title": "Cruz blocks push by Democrats to unanimously pass AI safety bill",
         "publicationDate": "2026-09-29",
-        "category": "Foreign Policy",
-        "summary": "The Biden administration and a number of countries in Europe have endorsed a framework for AI regulation that respects human rights, democracy and the rule of law, but it is generally unheard of outside of the tiny European organization that drafted it. Alain Berset is the secretary-general of the Council of Europe, an important but...",
-        "url": "https://thehill.com/policy/international/6116016-council-europe-ai-framework/"
+        "category": "Technology",
+        "summary": "Sen. Ted Cruz (R-Texas) blocked an effort by Democrats on Tuesday to pass legislation creating an AI safety panel tasked with evaluating and creating enforceable standards for frontier models. Cruz, who chairs the Senate Commerce Committee, objected to an attempt by Sens. Mark Warner (D-Va.), Brian Schatz (D-Hawaii) and Andy Kim (D-N.J.) to pass the...",
+        "url": "https://thehill.com/policy/technology/6118009-senator-ted-cruz-blocks-ai-bill/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6116335-perdue-remarks-trigger-us-china-debate/",
+        "id": "https://thehill.com/newsletters/1230-report/6118054-jack-smith-protect-college-sports-act-maha-summit-vance-rfk/",
         "source": "The Hill",
-        "title": "Trump, China and the question of selling arms to Beijing",
+        "title": "Jack Smith spars with GOP senators",
         "publicationDate": "2026-09-29",
-        "category": "Foreign Policy",
-        "summary": "Questions about whether the U.S. could change its posture toward China are on the rise after David Perdue, the U.S. ambassador to China, made waves by saying President Trump had asked Chinese President Xi Jinping if he would “like to buy some.” The president on Monday denied making the offer to Xi, while close observers...",
-        "url": "https://thehill.com/homenews/administration/6116335-perdue-remarks-trigger-us-china-debate/"
+        "category": "12:30 Report",
+        "summary": "Plus: ⚾The road to the World Series begins today {beacon} It’s Tuesday. Are the VMAs old news? Anyone else still seeing Yung Lean and GENER8ION’s performance on stage? Absolutely mesmerizing. In today's issue: RFK Jr., Vance at MAHA Summit Jack Smith faces questions Protect College Sports Act passes Senate MLB playoffs, NHL season...",
+        "url": "https://thehill.com/newsletters/1230-report/6118054-jack-smith-protect-college-sports-act-maha-summit-vance-rfk/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6116565-senate-gop-criticize-government-ads/",
-        "source": "The Hill",
-        "title": "GOP senators push back on Trump’s taxpayer-funded ad",
+        "id": "https://www.nytimes.com/2026/09/29/us/politics/shinyhunters-fbi-hacking-cybercriminal-group.html",
+        "source": "New York Times Politics",
+        "title": "What to Know About the Hacking Group ShinyHunters and Its F.B.I. Breach",
+        "publicationDate": "2026-09-29",
+        "category": "Technology",
+        "summary": "The bureau was the latest target of the notorious gang of cybercriminals that steals sensitive personal data and sells it online.",
+        "url": "https://www.nytimes.com/2026/09/29/us/politics/shinyhunters-fbi-hacking-cybercriminal-group.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/29/us/politics/fbi-hackers-shinyhunters-netherlands.html",
+        "source": "New York Times Politics",
+        "title": "F.B.I. Vows to Pursue ShinyHunters Hackers After Personnel Data Theft",
+        "publicationDate": "2026-09-29",
+        "category": "Technology",
+        "summary": "“We know how to find you,” Brett Leatherman, a senior cyber official at the F.B.I., said in a video statement released Tuesday.",
+        "url": "https://www.nytimes.com/2026/09/29/us/politics/fbi-hackers-shinyhunters-netherlands.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html",
+        "source": "New York Times Politics",
+        "title": "Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens",
         "publicationDate": "2026-09-29",
         "category": "Economy",
-        "summary": "President Trump's new government-funded ads pledging to “cast out the communists, Marxists and fascists” are getting strong pushback from Senate Republicans who are warning the president not to use taxpayer money to promote himself in such a brazenly political way. While Republicans generally approve of Trump’s political message, they say using taxpayer dollars to fund...",
-        "url": "https://thehill.com/homenews/senate/6116565-senate-gop-criticize-government-ads/"
+        "summary": "The new question, included on a draft version of the primary tax form, comes as part of an anti-immigrant turn at an agency that long prioritized tax administration.",
+        "url": "https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/09/29/us/politics/jmsn-love-me-trump-ad.html",
+        "source": "New York Times Politics",
+        "title": "JMSN, ‘Love Me’ Artist, Demands Trump Stop Using Song",
+        "publicationDate": "2026-09-29",
+        "category": "Political Advertising",
+        "summary": "President Trump used JMSN’s song in a recent self-promotional video that was paid for with public money.",
+        "url": "https://www.nytimes.com/2026/09/29/us/politics/jmsn-love-me-trump-ad.html"
     },
     {
         "id": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
@@ -90,184 +171,139 @@
         "url": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
-        "source": "New York Times Politics",
-        "title": "Jack Smith, Former Special Counsel, Will Appear Before Congress",
-        "publicationDate": "2026-09-29",
-        "category": "United States Politics and Government",
-        "summary": "Mr. Smith’s testimony will be the latest public clash over the use of prosecutorial power in American politics.",
-        "url": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html",
-        "source": "New York Times Politics",
-        "title": "A Tough Ad Reminds Nebraska Voters About a Brutal Crime and a Pardon",
-        "publicationDate": "2026-09-29",
-        "category": "Nebraska",
-        "summary": "A group supporting Dan Osborn, the independent Senate candidate in Nebraska, is airing an ad attacking Senator Pete Ricketts, a Republican, for pardoning a man convicted of sexual assault.",
-        "url": "https://www.nytimes.com/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/29/us/politics/james-talarico-ken-paxton-texas-senate-race-money.html",
-        "source": "New York Times Politics",
-        "title": "Top Democrats Start to Fund James Talarico in Texas Senate Race",
-        "publicationDate": "2026-09-29",
-        "category": "Talarico",
-        "summary": "The main super PAC for Senate Democrats will begin to run digital ads in the state’s Senate race, in a sign of the party’s growing confidence.",
-        "url": "https://www.nytimes.com/2026/09/29/us/politics/james-talarico-ken-paxton-texas-senate-race-money.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/29/us/politics/democrats-voter-turnout.html",
-        "source": "New York Times Politics",
-        "title": "Democratic Turnout Surged in the Primaries. Will It Matter in November?",
-        "publicationDate": "2026-09-29",
-        "category": "Midterm Elections (2026)",
-        "summary": "A voter enthusiasm gap provides another signal that Democrats are favored this fall, though Republicans still have key advantages.",
-        "url": "https://www.nytimes.com/2026/09/29/us/politics/democrats-voter-turnout.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/health/2026/09/29/this-senate-democratic-candidate-is-making-play-rfk-jrs-maha-supporters/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/29/how-ted-cruz-once-republican-gadfly-became-bipartisan-dealmaker/",
         "source": "Washington Post Politics",
-        "title": "This Senate Democratic candidate is making a play for RFK Jr.’s MAHA supporters",
+        "title": "How Ted Cruz, once a Republican gadfly, became a bipartisan dealmaker",
         "publicationDate": "2026-09-29",
-        "category": "Healthcare",
-        "summary": "Abdul El-Sayed unveils a health-focused agenda to persuade Michigan supporters of the Make America Healthy Again movement to back his campaign.",
-        "url": "https://www.washingtonpost.com/health/2026/09/29/this-senate-democratic-candidate-is-making-play-rfk-jrs-maha-supporters/"
+        "category": "Other",
+        "summary": "The Texas senator was the driving force behind a bill to overhaul regulation of college athletics that passed the chamber Monday night.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/29/how-ted-cruz-once-republican-gadfly-became-bipartisan-dealmaker/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/29/democrats-coalesce-around-message-about-cost-corruption/",
+        "id": "https://www.washingtonpost.com/national-security/2026/09/29/trump-official-central-deportation-deals-tapped-ambassadorship/",
         "source": "Washington Post Politics",
-        "title": "Democrats coalesce around a message about the cost of corruption",
+        "title": "Trump official central to deportation deals tapped for ambassadorship",
         "publicationDate": "2026-09-29",
         "category": "Other",
-        "summary": "Their message accuses Republicans of flagrant corruption, tying the attack to the billions President Donald Trump has made during his second term.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/29/democrats-coalesce-around-message-about-cost-corruption/"
+        "summary": "Christian Ehrhardt, who negotiated the administration’s controversial “third country” agreements, is the White House pick for ambassador to Cameroon.",
+        "url": "https://www.washingtonpost.com/national-security/2026/09/29/trump-official-central-deportation-deals-tapped-ambassadorship/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/09/29/mary-peltola-hopes-unseat-sen-dan-sullivan-race-about-prices-federal-aid-trump/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/29/gop-senator-blocks-bill-stop-trump-demolishing-kennedy-center/",
         "source": "Washington Post Politics",
-        "title": "$10 for a gallon of gas has red Alaska thinking about a Democratic senator",
+        "title": "GOP senator blocks bill to stop Trump from demolishing Kennedy Center",
         "publicationDate": "2026-09-29",
         "category": "Other",
-        "summary": "Mary Peltola hopes to unseat Republican Sen. Dan Sullivan in a race all about prices, federal aid and Donald Trump.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/29/mary-peltola-hopes-unseat-sen-dan-sullivan-race-about-prices-federal-aid-trump/"
+        "summary": "The bipartisan effort to ban the demolition of presidential memorials was thwarted in the Senate by an objection from Sen. Mike Lee (R-Utah).",
+        "url": "https://www.washingtonpost.com/politics/2026/09/29/gop-senator-blocks-bill-stop-trump-demolishing-kennedy-center/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/interactive/2026/09/29/how-trumps-sweeping-changes-are-remaking-washington/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/29/jack-smith-clashes-with-gop-senators-over-trump-investigations/",
         "source": "Washington Post Politics",
-        "title": "How Trump’s sweeping changes are remaking Washington",
+        "title": "Jack Smith clashes with senators over Trump probes, says he will not be silenced",
         "publicationDate": "2026-09-29",
         "category": "Other",
-        "summary": "No modern president has done more to personally reshape the nation’s capital.",
-        "url": "https://www.washingtonpost.com/politics/interactive/2026/09/29/how-trumps-sweeping-changes-are-remaking-washington/"
+        "summary": "Jack Smith returned to Capitol Hill on Tuesday to defend his derailed efforts to prosecute President Donald Trump, telling lawmakers he would not “be silenced by continued threats of prosecution” from the president.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/29/jack-smith-clashes-with-gop-senators-over-trump-investigations/"
     },
     {
-        "id": "https://www.washingtonpost.com/national-security/2026/09/29/tennessee-set-execute-woman-first-time-more-than-200-years/",
+        "id": "https://www.washingtonpost.com/politics/2026/09/29/jasmine-crocketts-pac-releases-new-endorsements-talarico-is-still-not-list/",
         "source": "Washington Post Politics",
-        "title": "Tennessee to execute a woman for first time in over 200 years",
+        "title": "Jasmine Crockett’s PAC released new endorsements. Talarico is still not on the list.",
         "publicationDate": "2026-09-29",
         "category": "Other",
-        "summary": "Christa Pike was convicted in a brutal 1995 killing committed when she was 18. Advocates pushing for her life to be spared point to abuse she suffered as a child.",
-        "url": "https://www.washingtonpost.com/national-security/2026/09/29/tennessee-set-execute-woman-first-time-more-than-200-years/"
+        "summary": "Rep. Jasmine Crockett has stepped back from Texas’s high-profile Senate race since losing the Democratic primary in March.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/29/jasmine-crocketts-pac-releases-new-endorsements-talarico-is-still-not-list/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
         "publicationDate": "2026-09-29",
         "category": "Other",
-        "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+        "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Evicted Spanish pensioner can move back home, lawyer says",
-        "publicationDate": "2026-09-29",
-        "category": "Other",
-        "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
-        "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-        "publicationDate": "2026-09-29",
-        "category": "Other",
-        "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "New York Times executive fatally shot by elderly in-laws, police say",
-        "publicationDate": "2026-09-29",
-        "category": "Other",
-        "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-        "publicationDate": "2026-09-29",
-        "category": "Other",
-        "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
-        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/0e851fbb-f148-46e4-906f-390b38b62a15?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Anthropic IPO filing warns of ‘existential risks’",
+        "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
         "publicationDate": "2026-09-29",
         "category": "Foreign Policy",
-        "summary": "Also in today’s newsletter: oil bonds link and Rubio says ‘foreign actor’ behind UK terror plot",
-        "url": "https://www.ft.com/content/0e851fbb-f148-46e4-906f-390b38b62a15?syn-25a6b1a6=1"
+        "summary": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/1ae07fc9-dfce-4cb3-a216-a8e8bfeb74b9",
-        "source": "Financial Times World",
-        "title": "Le Monde Béryl is pumping up New York",
+        "id": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
         "publicationDate": "2026-09-29",
         "category": "Other",
-        "summary": "The British shoe brand celebrates its 10th birthday with a new store",
-        "url": "https://www.ft.com/content/1ae07fc9-dfce-4cb3-a216-a8e8bfeb74b9"
+        "summary": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+        "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/57b7bde7-099d-4cba-9275-01a3bc088d95",
-        "source": "Financial Times World",
-        "title": "‘Translation and connection are different things’: why languages remain useful at work",
+        "id": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump rules out joint US-China venture to develop AI",
         "publicationDate": "2026-09-29",
-        "category": "Other",
-        "summary": "AI tools can do the basics but employers say local language skills help build relationships and understand cultural nuances",
-        "url": "https://www.ft.com/content/57b7bde7-099d-4cba-9275-01a3bc088d95"
-    },
-    {
-        "id": "https://www.ft.com/content/ea8f48de-d2e4-4c0b-bccf-1f310660d8c7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Novo buys rights to Chinese weight-loss pill in $2.6bn deal",
-        "publicationDate": "2026-09-29",
-        "category": "Healthcare",
-        "summary": "Hengrui Pharma’s experimental drug could be taken just once a week",
-        "url": "https://www.ft.com/content/ea8f48de-d2e4-4c0b-bccf-1f310660d8c7?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/4f5680c7-8c87-4e1f-99b2-beaa6655a2ec?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "More than 100 Israelis go on rampage in Palestinian town",
-        "publicationDate": "2026-09-29",
-        "category": "Other",
-        "summary": "Jewish settlers blocked roads, set tyres ablaze and prevented the return of a Palestinian family in latest surge of violence in occupied West Bank",
-        "url": "https://www.ft.com/content/4f5680c7-8c87-4e1f-99b2-beaa6655a2ec?syn-25a6b1a6=1"
-    },
-    {
-        "id": "IN12741",
-        "source": "Congressional Research Service",
-        "title": "Citizenship and Residence Criteria for the 2030 Census: Recent Developments",
-        "publicationDate": "2026-09-28",
         "category": "Defense",
-        "summary": "The decennial census of housing and population is conducted every 10 years to count each resident of the United States and its territories, as well as military personnel and dependents abroad. The constitutionally mandated purpose of the decennial census is to determine the apportionment of the seats in the U.S. House of Representatives. Per Article I, Section 2, clause 3 of the U.S. Constitution, every 10 years an...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12741/IN12741.1.pdf"
+        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+        "publicationDate": "2026-09-29",
+        "category": "Foreign Policy",
+        "summary": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
+        "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/525c4aa1-2d36-47e4-b3ec-2d8f6ebf9060",
+        "source": "Financial Times World",
+        "title": "Low-hire, low-fire US labour market is no worry for Fed rate-setters",
+        "publicationDate": "2026-09-29",
+        "category": "Other",
+        "summary": "The latest vacancies data showed little sign of drastic improvement or deterioration in August",
+        "url": "https://www.ft.com/content/525c4aa1-2d36-47e4-b3ec-2d8f6ebf9060"
+    },
+    {
+        "id": "https://www.ft.com/content/fa48c931-bafd-487a-b5a5-eff93fdcf53f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "China unveils mortgage subsidies to boost economy",
+        "publicationDate": "2026-09-29",
+        "category": "Economy",
+        "summary": "Beijing offers help for first-time buyers and cuts a policy interest rate as part of efforts to raise growth",
+        "url": "https://www.ft.com/content/fa48c931-bafd-487a-b5a5-eff93fdcf53f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/87bfd2b4-aab6-4dcb-9c77-3d2606185578?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Sheikh Mansour visits Riyadh in push to mend UAE-Saudi Arabia rift",
+        "publicationDate": "2026-09-29",
+        "category": "Other",
+        "summary": "Meeting is first since long-simmering tensions erupted into the open over Yemen in January",
+        "url": "https://www.ft.com/content/87bfd2b4-aab6-4dcb-9c77-3d2606185578?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a9c20616-cef2-453a-9fa4-1d96f9f859d9?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "A warning of ‘breakdowns and deficiencies’ in security at the US central bank",
+        "publicationDate": "2026-09-29",
+        "category": "Foreign Policy",
+        "summary": "Also in today’s newsletter, Marco Rubio blames ‘foreign actor’ for UK terror plot and US completes Iraqi troop withdrawal",
+        "url": "https://www.ft.com/content/a9c20616-cef2-453a-9fa4-1d96f9f859d9?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump to meet AI chiefs over safety outcry",
+        "publicationDate": "2026-09-29",
+        "category": "Other",
+        "summary": "White House will host lunch with tech bosses as president resists calls for regulation",
+        "url": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1"
     },
     {
         "id": "R49363",
@@ -304,6 +340,33 @@
         "category": "Foreign Policy",
         "summary": "Edward Fishman’s career has taken him from government to think tanks to Silicon Valley. He sat down with CFR to discuss the importance of developing your own voice, how tech converges with foreign policy, and the pivotal lesson he learned on a trip to Lithuania.",
         "url": "https://www.cfr.org/articles/how-i-got-my-career-in-foreign-policy-edward-fishman"
+    },
+    {
+        "id": "https://www.heritage.org/global-politics/commentary/why-trumps-india-policy-working",
+        "source": "Heritage Foundation",
+        "title": "Why Trump’s India Policy Is Working",
+        "publicationDate": "2026-09-28",
+        "category": "Defense",
+        "summary": "A little over 18 months into the second Trump administration, the imposition of tariffs on India and the administration’s renewed engagement with Pakistan have been interpreted by many analysts as signs of a more turbulent bilateral relationship. However, judged by the administration’s “America First” objectives—which emphasize greater reciprocity, expanded market access, increased purchases of American goods, and...",
+        "url": "https://www.heritage.org/global-politics/commentary/why-trumps-india-policy-working"
+    },
+    {
+        "id": "https://www.heritage.org/cybersecurity/commentary/americans-lost-over-20-billion-one-type-crime-heres-how-we-can-fight-it",
+        "source": "Heritage Foundation",
+        "title": "Americans Lost Over $20 Billion to One Type of Crime. Here’s How We Can Fight It",
+        "publicationDate": "2026-09-28",
+        "category": "Defense",
+        "summary": "Almost all kinds of crime, from homicide to car theft, are down, according to the latest FBI data. That’s great news, but one type of less-reported crime is up—way up. Americans reported losing $20.9 billion to internet-enabled crime in 2025, 26% higher than the year before and the highest figure ever recorded by the FBI. Folks over 60 reported $7.7 billion of it, averaging $38,500 apiece. The real toll is even...",
+        "url": "https://www.heritage.org/cybersecurity/commentary/americans-lost-over-20-billion-one-type-crime-heres-how-we-can-fight-it"
+    },
+    {
+        "id": "https://www.heritage.org/life/commentary/its-time-biblical-clarity",
+        "source": "Heritage Foundation",
+        "title": "It’s Time for Biblical Clarity",
+        "publicationDate": "2026-09-28",
+        "category": "Healthcare",
+        "summary": "When I began working at The Heritage Foundation in 2022 to craft a policy platform addressing IVF, surrogacy, and infertility, it was a niche set of issues to say the least. That changed with the Alabama Supreme Court's 2024 IVF decision , which extended personhood to human embryos for the purpose of a “Wrongful Death of a Minor” lawsuit and moved these questions to the center of our national conversation. As both...",
+        "url": "https://www.heritage.org/life/commentary/its-time-biblical-clarity"
     },
     {
         "id": "https://www.heritage.org/global-politics/report/the-balkans-emerge-americas-energy-security-partner-europe",
@@ -378,24 +441,6 @@
         "url": "https://cms.hoover.org/research/victor-davis-hanson-doomsday-predictions-often-happen-make-propagators-wealthy"
     },
     {
-        "id": "https://cms.hoover.org/research/victor-davis-hanson-lefts-instinct-sympathize-guilty",
-        "source": "Hoover Institution",
-        "title": "Victor Davis Hanson: The Left’s Instinct To Sympathize With The Guilty",
-        "publicationDate": "2026-09-28",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Victor Davis Hanson says the Left has an instinct to sympathize with the guilty—from Muslim hijackers behind 9/11, to Tyler Robinson, to Hamas. So many of their claims abandon truth in favor of a narrative that benefits them.",
-        "url": "https://cms.hoover.org/research/victor-davis-hanson-lefts-instinct-sympathize-guilty"
-    },
-    {
-        "id": "https://cms.hoover.org/research/victor-davis-hanson-1992-election-warns-gop-it-must-sell-its-economic-record-midterms",
-        "source": "Hoover Institution",
-        "title": "Victor Davis Hanson: 1992 Election Warns GOP It Must Sell Its Economic Record Before The Midterms",
-        "publicationDate": "2026-09-28",
-        "category": "Economy",
-        "summary": "Hoover Institution fellow Victor Davis Hanson says the parallels between this midterm cycle and George H.W. Bush’s 1992 reelection loss are striking—a booming economy the public doesn't hear about, a lack of messaging strategy, and \"midterm apostates\" in purple states already distancing themselves from the president.",
-        "url": "https://cms.hoover.org/research/victor-davis-hanson-1992-election-warns-gop-it-must-sell-its-economic-record-midterms"
-    },
-    {
         "id": "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote",
         "source": "NPR Politics",
         "title": "The Senate passes the Protect College Sports Act, but the bill's future is unclear",
@@ -412,6 +457,15 @@
         "category": "Other",
         "summary": "Angie Nixon, the Democratic U.S. Senate Candidate in Florida, is running from the far left — raising questions about whether such a campaign can work in a red state like Florida.",
         "url": "https://www.npr.org/2026/09/28/nx-s1-5961354/could-a-far-left-candidate-win-a-midterm-race-in-a-red-state-like-florida"
+    },
+    {
+        "id": "https://www.npr.org/2026/09/28/nx-s1-5930441/trump-construction-projects-legacy",
+        "source": "NPR Politics",
+        "title": "Trump aims to leave a physical legacy in D.C., bulldozing norms along the way",
+        "publicationDate": "2026-09-28",
+        "category": "Other",
+        "summary": "President Trump has brought his New York real estate background to the White House. But experts say D.C. is a very different historic and legal landscape — and worry about the precedent he could set.",
+        "url": "https://www.npr.org/2026/09/28/nx-s1-5930441/trump-construction-projects-legacy"
     },
     {
         "id": "https://www.pbs.org/newshour/show/news-wrap-uk-police-investigating-possible-plot-targeting-u-s-base",
@@ -441,24 +495,6 @@
         "url": "https://www.pbs.org/newshour/show/how-blanche-is-shattering-dojs-standard-of-political-independence"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-taxpayer-funds-used-for-tv-ads-promoting-trump",
-        "source": "PBS NewsHour Politics",
-        "title": "Tamara Keith and Amy Walter on taxpayer funds used for TV ads promoting Trump",
-        "publicationDate": "2026-09-28",
-        "category": "Economy",
-        "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including the U.S. government paying for TV advertisements promoting President Trump, what voters think about Trump's handling of the economy and tight races in typically GOP-safe districts.",
-        "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-taxpayer-funds-used-for-tv-ads-promoting-trump"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/wfp-official-on-addressing-global-hunger-in-face-of-wars-and-climate-disasters",
-        "source": "PBS NewsHour Politics",
-        "title": "WFP official on addressing global hunger in face of wars and climate disasters",
-        "publicationDate": "2026-09-28",
-        "category": "climate",
-        "summary": "The United Nations recently announced a new executive director for the World Food Programme. Luke Lindberg was a Trump administration Agriculture Department official and inherits one of the UN's toughest jobs. Hundreds of millions around the world go hungry every day, and reaching as many as possible is a monumental task. Nick Schifrin discussed more with Carl Skau, the acting director of the WFP.",
-        "url": "https://www.pbs.org/newshour/show/wfp-official-on-addressing-global-hunger-in-face-of-wars-and-climate-disasters"
-    },
-    {
         "id": "https://www.cfr.org/articles/the-limits-of-trump-and-xis-photo-op-summit",
         "source": "Council on Foreign Relations",
         "title": "The Limits of Trump and Xi’s Photo-Op Summit",
@@ -466,15 +502,6 @@
         "category": "Foreign Policy",
         "summary": "The leaders of the world’s two most powerful countries did not resolve any of the major issues facing the U.S.-China relationship. But that does not mean the meeting was a complete failure.",
         "url": "https://www.cfr.org/articles/the-limits-of-trump-and-xis-photo-op-summit"
-    },
-    {
-        "id": "R48743",
-        "source": "Congressional Research Service",
-        "title": "Housing Issues in the 119th Congress",
-        "publicationDate": "2026-09-25",
-        "category": "Economy",
-        "summary": "The 119th Congress has been considering a number of housing issues through legislative action, committee hearings, and other oversight activities. Some issues are broad and multifaceted, such as housing affordability concerns, while others are more narrowly related to specific federal programs or policies. A primary issue in the 119th Congress has been the affordability of housing for both renters and homeowners....",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48743/R48743.4.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/can-we-grow-our-way-out-of-debt",
@@ -495,24 +522,6 @@
         "url": "https://www.heritage.org/gender/report/affirming-childs-sex-not-abuse"
     },
     {
-        "id": "https://www.heritage.org/border-security/commentary/trump-attacks-cartels-the-root",
-        "source": "Heritage Foundation",
-        "title": "Trump Attacks Cartels at the Root",
-        "publicationDate": "2026-09-25",
-        "category": "Defense",
-        "summary": "Amid the Iran War and midterm U.S. electioneering, most Americans probably missed a potentially game-changing shift in President Donald Trump’s war against Mexico’s drug cartels. The administration has pivoted to a consequential new tactic that, according to some Mexico experts, could cripple the cartels if expanded. Though it has received little U.S. press coverage, this new strategy has the potential to be more...",
-        "url": "https://www.heritage.org/border-security/commentary/trump-attacks-cartels-the-root"
-    },
-    {
-        "id": "https://www.heritage.org/progressivism/commentary/the-left-the-issue-isnt-the-issue-the-issue-the-revolution",
-        "source": "Heritage Foundation",
-        "title": "For the Left, the Issue Isn’t the Issue. The Issue Is the Revolution.",
-        "publicationDate": "2026-09-24",
-        "category": "Foreign Policy",
-        "summary": "A “red-green alliance” of Marxist and Islamist groups works together with foreign governments as it seeks to weaken America by disrupting everyday life, even our democratic process. And they do so in the name of any cause under the sun. That was the gist of the testimony I was asked to give last week by a subcommittee of the House of Representatives. It drives the Left wild, but the evidence that what I like to...",
-        "url": "https://www.heritage.org/progressivism/commentary/the-left-the-issue-isnt-the-issue-the-issue-the-revolution"
-    },
-    {
         "id": "https://www.cer.eu/media/unpacking-europe-scaling-innovation-europe",
         "source": "Centre for European Reform",
         "title": "Unpacking Europe: Scaling innovation in Europe",
@@ -522,13 +531,13 @@
         "url": "https://www.cer.eu/media/unpacking-europe-scaling-innovation-europe"
     },
     {
-        "id": "https://www.heritage.org/defense/report/countering-drones-five-lessons-ukraine-natos-northeastern-flank",
-        "source": "Heritage Foundation",
-        "title": "Countering Drones: Five Lessons from Ukraine for NATO’s Northeastern Flank",
-        "publicationDate": "2026-09-22",
-        "category": "Defense",
-        "summary": "Ukrainian forces resisting the Russian invasion of their country have demonstrated how the use of drones as sensors, munitions, and even platforms can offset the natural advantages of a much larger and better-equipped military. What began as a conventional war dominated by artillery and armor has evolved into the world’s first large-scale drone war, although both sides are quickly adopting countermeasures to defend...",
-        "url": "https://www.heritage.org/defense/report/countering-drones-five-lessons-ukraine-natos-northeastern-flank"
+        "id": "LSB11484",
+        "source": "Congressional Research Service",
+        "title": "The Protect College Sports Act of 2026: Potential Implications for Title IX",
+        "publicationDate": "2026-09-23",
+        "category": "Economy",
+        "summary": "Calls from stakeholders for federal legislation regulating intercollegiate athletics have increased during a period of significant change in intercollegiate sports. Intercollegiate athletics regulators have faced uncertainty with respect to the enforcement of uniform rules on issues such as compensation for the use of an athlete’s Name, Image, and Likeness (NIL); eligibility; and transfers between institutions, due...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11484/LSB11484.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5198-1.html",
@@ -612,21 +621,12 @@
         "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
     },
     {
-        "id": "IF13136",
+        "id": "R47558",
         "source": "Congressional Research Service",
-        "title": "Changes to the Statutory Definition of Hemp and Implications for Agricultural Policy",
-        "publicationDate": "2026-05-28",
-        "category": "Healthcare",
-        "summary": "The FY2026 Agriculture appropriations law (P.L. 119-37, Division B) amends the statutory definition of hemp in 7 U.S.C. §1639o established by the Agriculture Improvement Act of 2018 (2018 farm bill; P.L. 115-334, §10113). The change to the definition—originally scheduled to go into effect on November 12, 2026—may have implications for hemp growers and U.S. Department of Agriculture (USDA) policy. Following the...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13136/IF13136.5.pdf"
-    },
-    {
-        "id": "LSB10432",
-        "source": "Congressional Research Service",
-        "title": "Resolving Subpoena Disputes Between the Branches: Potential Impacts of Restricting the Judicial Role",
-        "publicationDate": "2020-03-25",
-        "category": "Other",
-        "summary": "An en banc panel of the U.S. Court of Appeals for the District of Columbia Circuit (D.C. Circuit) is set to consider what could turn out to be one of the circuit’s more consequential decisions on congressional power. In Committee on the Judiciary v. McGahn, the question before the court is whether the House can invoke the authority of the courts to compel former White House counsel Don McGahn to comply with a House...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB10432/LSB10432.2.pdf"
+        "title": "Semiconductors and the CHIPS Act: The Global Context",
+        "publicationDate": "2023-09-28",
+        "category": "Defense",
+        "summary": "In 2021, Congress enacted legislation in response to its concerns that the United States lacked critical domestic semiconductor production capabilities and, more broadly, was losing its competitive edge in the global semiconductor industry. Through the Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America program, Title XCIX of P.L. 116-283, the William M. (Mac) Thornberry National Defense...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47558/R47558.7.pdf"
     }
 ]
