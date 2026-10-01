@@ -1,5 +1,41 @@
 [
     {
+        "id": "IN12744",
+        "source": "Congressional Research Service",
+        "title": "Diesel Export Ban: Transportation Policy Considerations for Congress",
+        "publicationDate": "2026-10-01",
+        "category": "Defense",
+        "summary": "On September 21, 2026, the average price of diesel fuel for use in highway vehicles reached $6.529 per gallon, according to the U.S. Energy Information Administration. In 2024, trucks and trains transported between two-thirds and three-quarters of all domestic freight (about 13 million of 17.7 million total tons transported), almost all using diesel-fueled engines. Shippers of perishable goods, which cannot be...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12744/IN12744.1.pdf"
+    },
+    {
+        "id": "IF10023",
+        "source": "Congressional Research Service",
+        "title": "The Congressional Review Act (CRA): A Brief Overview",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "Overview What is the CRA? The CRA (codified at 5 U.S.C. §§801-808) is a tool Congress can use to overturn certain federal agency actions. Enacted in 1996, the CRA requires agencies to report the issuance of “rules” to Congress and provides Congress with special procedures under which to consider legislation to overturn rules. If a CRA joint resolution of disapproval is approved by both houses of Congress and signed...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10023/IF10023.12.pdf"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA5222-1.html",
+        "source": "RAND Corporation",
+        "title": "Santa Monica’s Recent Economic and Social Trends",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "Researchers compared Santa Monica’s recent economic and social trends with peer cities near Los Angeles. They found steeper declines in retail sales and tourism, but recent policy reforms may improve the city’s economic trajectory.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5222-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/global-monetary-policy-tracker",
+        "source": "Council on Foreign Relations",
+        "title": "Global Monetary Policy Tracker",
+        "publicationDate": "2026-10-01",
+        "category": "Article",
+        "summary": "CFR’s Global Monetary Policy Tracker compiles data from 54 countries around the world to highlight significant global trends in monetary policy. Who is tightening policy? Who is loosening policy? And what is the policy stance of the world as a whole?",
+        "url": "https://www.cfr.org/articles/global-monetary-policy-tracker"
+    },
+    {
         "id": "https://www.cfr.org/articles/what-questions-should-leaders-ask-before-going-to-war",
         "source": "Council on Foreign Relations",
         "title": "What Questions Should Leaders Ask Before Going to War?",
@@ -9,94 +45,211 @@
         "url": "https://www.cfr.org/articles/what-questions-should-leaders-ask-before-going-to-war"
     },
     {
-        "id": "https://thehill.com/policy/energy-environment/6122117-braun-indiana-gas-tax-iran-war/",
+        "id": "https://cms.hoover.org/research/prop-5-recall-reform-eliminate-replacement-question",
+        "source": "Hoover Institution",
+        "title": "PROP 5: Recall Reform (Eliminate the Replacement Question)",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "Official ballot title: “Changes Recall Election Process for Statewide Officers. Legislative Constitutional Amendment.”",
+        "url": "https://cms.hoover.org/research/prop-5-recall-reform-eliminate-replacement-question"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/01/nx-s1-5986313/california-gubernatorial-candidates-face-off-in-debate",
+        "source": "NPR Politics",
+        "title": "California gubernatorial candidates face off in debate",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "California's candidates for governor square off in a debate while the blue-leaning state grapples with affordability and other issues.",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5986313/california-gubernatorial-candidates-face-off-in-debate"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino",
+        "source": "NPR Politics",
+        "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo.",
+        "url": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes",
+        "source": "NPR Politics",
+        "title": "COMIC: How the census gives your state power (and what Trump wants to change)",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he's trying again ahead of 2030.",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/01/nx-s1-5971507/trade-tensions-fewer-canadians-south-florida",
+        "source": "NPR Politics",
+        "title": "Trade tensions mean fewer Canadians flocking to South Florida",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming.",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5971507/trade-tensions-fewer-canadians-south-florida"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/01/nx-s1-5969830/maine-senate-collins-jackson-aroostook-county",
+        "source": "NPR Politics",
+        "title": "Along U.S. Route 1, Maine voters worry about heating oil, gas and Canadian tariffs",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "Home to both Republican Sen. Susan Collins and Democratic candidate Troy Jackson, Maine's senate race has put rural Aroostook County in the spotlight.",
+        "url": "https://www.npr.org/2026/10/01/nx-s1-5969830/maine-senate-collins-jackson-aroostook-county"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/supreme-court-grants-review-of-trump-administrations-mandatory-detention-policy-for-immigrants",
+        "source": "PBS NewsHour Politics",
+        "title": "Supreme Court grants review of Trump administration's mandatory detention policy for immigrants",
+        "publicationDate": "2026-10-01",
+        "category": "Donald Trump news",
+        "summary": "The case will test a key pillar of the Trump administration's hard-line immigration agenda.",
+        "url": "https://www.pbs.org/newshour/politics/supreme-court-grants-review-of-trump-administrations-mandatory-detention-policy-for-immigrants"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-will-hold-a-rally-in-choctaw-nation-a-rare-presidential-visit-to-indian-country",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump will hold a rally in Choctaw Nation, a rare presidential visit to Indian Country",
+        "publicationDate": "2026-10-01",
+        "category": "choctaw nation",
+        "summary": "The rally is part of President Donald Trump's recent campaign push through deep red states, where he has been stumping for Republican candidates and promoting his agenda ahead of November's midterm elections.",
+        "url": "https://www.pbs.org/newshour/politics/trump-will-hold-a-rally-in-choctaw-nation-a-rare-presidential-visit-to-indian-country"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6123554-federal-judge-david-hearn-donald-trump-reflecting-pool-case-dismissed/",
         "source": "The Hill",
-        "title": "Indiana governor extends gas tax suspension",
+        "title": "Judge dismisses Reflecting Pool case against former Olympian with prejudice",
+        "publicationDate": "2026-10-01",
+        "category": "Court Battles",
+        "summary": "The federal case against a former Olympian accused by the Trump administration of damaging the Lincoln Memorial Reflecting Pool is officially dead after a Washington, D.C., judge ruled Thursday that the Department of Justice (DOJ) cannot try to charge him again in the future. Superior Court Judge Todd Edelman dismissed the case against David Hearn...",
+        "url": "https://thehill.com/regulation/court-battles/6123554-federal-judge-david-hearn-donald-trump-reflecting-pool-case-dismissed/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6123599-kentucky-church-zoning-suit/",
+        "source": "The Hill",
+        "title": "Supreme Court agrees to take up zoning dispute over Kentucky church shrine",
+        "publicationDate": "2026-10-01",
+        "category": "Court Battles",
+        "summary": "A dispute over whether a local zoning ordinance in Kentucky that prohibited a Catholic church from building a religious shrine next to its property is legal is headed to the Supreme Court. The justices agreed Thursday to take up the request from Missionaries of St. John the Baptist, a church in the Cincinnati suburbs that...",
+        "url": "https://thehill.com/regulation/court-battles/6123599-kentucky-church-zoning-suit/"
+    },
+    {
+        "id": "https://thehill.com/blogs/in-the-know/6123534-calder-sculpture-restoration-hart/",
+        "source": "The Hill",
+        "title": "Mountain-sized makeover: Hart Senate Building's Calder sculpture getting newly restored mobile",
+        "publicationDate": "2026-10-01",
+        "category": "In The Know",
+        "summary": "A mountain-sized sculpture inside the Hart Senate Office Building is getting a major — and moving — cutting-edge upgrade. Mountains and Clouds, the massive installation by Alexander Calder that fills much of the building's atrium, is undergoing a restoration effort that will include, for the first time, a mobile that will finally move in the...",
+        "url": "https://thehill.com/blogs/in-the-know/6123534-calder-sculpture-restoration-hart/"
+    },
+    {
+        "id": "https://thehill.com/opinion/finance/6118919-forbes-400-wealth-tax-rebuttal/",
+        "source": "The Hill",
+        "title": "Can a wealth tax actually solve our political and fiscal problems? The math says no.",
         "publicationDate": "2026-10-01",
         "category": "Economy",
-        "summary": "Indiana Gov. Mike Braun (R) said Wednesday he is extending his state’s gas tax suspension as fuel prices elevate due to the ongoing war in Iran “Today I announced another gas tax extension with additional relief for farmers,” Braun said in a post to social platform X. “Our farmers have the hardest job in America.”...",
-        "url": "https://thehill.com/policy/energy-environment/6122117-braun-indiana-gas-tax-iran-war/"
+        "summary": "Economists Emmanuel Saez and Gabriel Zucman, among others, have advocated for wealth taxation as a way to reduce political power resulting from wealth concentration and raise substantial revenue. Here's why that won't work.",
+        "url": "https://thehill.com/opinion/finance/6118919-forbes-400-wealth-tax-rebuttal/"
     },
     {
-        "id": "https://thehill.com/homenews/6122170-becerra-hilton-california-governor-debate/",
+        "id": "https://thehill.com/homenews/administration/6123520-the-trump-kennedy-center-time-magazine-interview/",
         "source": "The Hill",
-        "title": "Becerra, Hilton tangle over ‘Trump, Trump, Trump’ in California governor debate",
+        "title": "Trump refuses to rule out demolishing Kennedy Center",
         "publicationDate": "2026-10-01",
-        "category": "Economy",
-        "summary": "Former Health Secretary Xavier Becerra (D) and Republican Steve Hilton, a former Fox News host, clashed on the debate stage Wednesday as they jostle in a contentious race to replace California Gov. Gavin Newsom (D). The rivals sparred over the economy, immigration and healthcare in an hourlong CNN debate, the first and only scheduled just...",
-        "url": "https://thehill.com/homenews/6122170-becerra-hilton-california-governor-debate/"
+        "category": "Administration",
+        "summary": "President Trump is refusing to commit to not demolishing the Kennedy Center amid the legal battle over the performing arts center's name and renovation. Trump, in a new interview with Time magazine, was asked if he would commit to not bringing in wrecking balls to take down the center without congressional consent. “I'm not committing...",
+        "url": "https://thehill.com/homenews/administration/6123520-the-trump-kennedy-center-time-magazine-interview/"
     },
     {
-        "id": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/",
-        "source": "The Hill",
-        "title": "Senate confirms insider Keith Sonderling to lead Department of Labor",
-        "publicationDate": "2026-10-01",
-        "category": "News",
-        "summary": "The Senate voted 47-41 Wednesday night to confirm Keith Sonderling, acting Secretary of Labor, to the post permanently — filling a seat in President Trump’s cabinet that has been officially empty since April. All Republicans present voted for Sonderling’s nomination, and all Democrats voted against it, but the nomination only needed a majority to succeed....",
-        "url": "https://thehill.com/homenews/6122151-senate-confirms-keith-sonderling-labor-secretary/"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/6122135-tennessee-christa-pike-execution-botched/",
-        "source": "The Hill",
-        "title": "Tennessee inmate Christa Pike still alive after lethal injection dose, lawyers say",
-        "publicationDate": "2026-10-01",
-        "category": "Healthcare",
-        "summary": "Lawyers for Tennessee death row inmate Christa Pike said she was still alive Wednesday night after being administered two syringes of lethal injection drugs. Pike's federal public defenders wrote in a motion to the Tennessee Supreme Court that witnesses reported she had been given doses of pentobarbital at 8:26 p.m. but was \"still alive and...",
-        "url": "https://thehill.com/regulation/court-battles/6122135-tennessee-christa-pike-execution-botched/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/6122088-man-arrested-texas-capitol-threat/",
-        "source": "The Hill",
-        "title": "Man arrested after making 'credible threat' toward Texas Capitol",
-        "publicationDate": "2026-10-01",
-        "category": "State Watch",
-        "summary": "A man was arrested after making \"verbal threats\" toward the Texas State Capitol, the Lone Star State's governor, Greg Abbott (R), confirmed Wednesday evening. On Wednesday, the Texas Department of Public Safety (DPS) told NBC Dallas-Fort Worth that authorities had stopped a plot on the state's capitol building in Austin. Per the outlet, DPS said...",
-        "url": "https://thehill.com/homenews/state-watch/6122088-man-arrested-texas-capitol-threat/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/01/us/politics/california-governor-debate-takeaways.html",
+        "id": "https://www.nytimes.com/2026/10/01/us/politics/the-docket-supreme-court-summer.html",
         "source": "New York Times Politics",
-        "title": "5 Takeaways From the Debate for California Governor",
+        "title": "The Supreme Court’s Summer Break Vanishes, Erased by Emergencies",
         "publicationDate": "2026-10-01",
-        "category": "Economy",
-        "summary": "Xavier Becerra, a Democrat, and Steve Hilton, a Republican, sparred over President Trump, taxes and immigration in their only scheduled meeting.",
-        "url": "https://www.nytimes.com/2026/10/01/us/politics/california-governor-debate-takeaways.html"
+        "category": "Decisions and Verdicts",
+        "summary": "“Our summers used to actually be summers,” one justice lamented.",
+        "url": "https://www.nytimes.com/2026/10/01/us/politics/the-docket-supreme-court-summer.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/09/30/us/politics/hegseth-leadership-republican-doubts.html",
+        "id": "https://www.nytimes.com/2026/10/01/us/politics/cftc-investigating-kinzinger-pardon-bet.html",
         "source": "New York Times Politics",
-        "title": "Hegseth Talks Tough as Republican Doubts About His Leadership Grow",
+        "title": "Federal Watchdog Investigates Adam Kinzinger for Kalshi Bets on His Pardon",
+        "publicationDate": "2026-10-01",
+        "category": "United States Politics and Government",
+        "summary": "The inquiry by the Commodity Futures Trading Commission centers on bets the former congressman made on Kalshi in the weeks before he was pardoned in January 2025.",
+        "url": "https://www.nytimes.com/2026/10/01/us/politics/cftc-investigating-kinzinger-pardon-bet.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html",
+        "source": "New York Times Politics",
+        "title": "Supreme Court, Taking On Trump Immigration Agenda, Will Review Migrant Detention Policy",
+        "publicationDate": "2026-10-01",
+        "category": "Illegal Immigration",
+        "summary": "The administration’s policy of detaining immigrants who crossed the border illegally years ago and holding them without a bond hearing has divided lower courts.",
+        "url": "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/01/us/politics/renewable-energy-super-pac-republicans-midterms.html",
+        "source": "New York Times Politics",
+        "title": "Renewable Energy Super PAC Targets 7 Republicans With $15 Million War Chest",
+        "publicationDate": "2026-10-01",
+        "category": "Political Action Committees",
+        "summary": "Most of the Republicans, such as Lauren Boebert of Colorado and Victoria Spartz of Indiana, are incumbents in districts that President Trump won comfortably in 2024.",
+        "url": "https://www.nytimes.com/2026/10/01/us/politics/renewable-energy-super-pac-republicans-midterms.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/01/business/energy-environment/oil-prices-iran-war-trump.html",
+        "source": "New York Times Politics",
+        "title": "Oil Is Flowing From the Persian Gulf, but Prices Remain High. Why?",
         "publicationDate": "2026-10-01",
         "category": "Foreign Policy",
-        "summary": "Pete Hegseth has held onto his job by projecting a tough guy image, but his relationship with Republican lawmakers has never been worse.",
-        "url": "https://www.nytimes.com/2026/09/30/us/politics/hegseth-leadership-republican-doubts.html"
+        "summary": "Crude oil costs close to $100 a barrel because traders are worried hostilities could soon restart and the world is burning through its emergency stockpiles.",
+        "url": "https://www.nytimes.com/2026/10/01/business/energy-environment/oil-prices-iran-war-trump.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/01/young-male-crypto-fans-have-turned-against-trump-investments-sour/",
+        "source": "Washington Post Politics",
+        "title": "Trump loses favor with crypto fans who call him out for cashing in",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "The president’s 2024 campaign leaned into crypto to attract young men, a demographic that is deserting Republicans in the midterms.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/01/young-male-crypto-fans-have-turned-against-trump-investments-sour/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/01/trump-does-not-rule-out-demolishing-kennedy-center/",
+        "source": "Washington Post Politics",
+        "title": "Trump does not rule out demolishing the Kennedy Center",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "The Kennedy Center was closed last month amid a legal battle over whether President Donald Trump can add his name to the performing arts venue.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/01/trump-does-not-rule-out-demolishing-kennedy-center/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/01/pollwatcher-how-much-can-republicans-outrun-trumps-approval-ratings/",
+        "source": "Washington Post Politics",
+        "title": "The Pollwatcher: How much can Republicans outrun Trump’s approval ratings?",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "Plus: Can AI replace human poll respondents?",
+        "url": "https://www.washingtonpost.com/politics/2026/10/01/pollwatcher-how-much-can-republicans-outrun-trumps-approval-ratings/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/01/supreme-court-agrees-review-ice-mandatory-detention-policy-immigrants/",
+        "source": "Washington Post Politics",
+        "title": "Supreme Court agrees to review mandatory ICE detention policy for immigrants",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "The case promises to be among the most consequential of the Supreme Court term that officially begins next week.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/01/supreme-court-agrees-review-ice-mandatory-detention-policy-immigrants/"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/09/30/execution-tennessee-woman-blocked-by-federal-court-with-hours-spare/",
         "source": "Washington Post Politics",
-        "title": "Tennessee once again botches execution; governor orders outside review",
+        "title": "Tennessee halts scheduled executions after inmate survives lethal injection",
         "publicationDate": "2026-10-01",
         "category": "Healthcare",
         "summary": "Christa Pike, who was convicted in a brutal 1995 killing, continued breathing after she was given two doses of lethal injection drugs, her lawyers said.",
         "url": "https://www.washingtonpost.com/national-security/2026/09/30/execution-tennessee-woman-blocked-by-federal-court-with-hours-spare/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/30/senate-leaves-town-until-after-midterms-final-bills-founder/",
-        "source": "Washington Post Politics",
-        "title": "Senate leaves town until after the midterms as final bills founder",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "Democrats block several pieces of legislation pushed by Republicans looking for victories ahead of Election Day.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/30/senate-leaves-town-until-after-midterms-final-bills-founder/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/09/30/hegseth-map-out-forthcoming-moves-address-hundreds-troops/",
-        "source": "Washington Post Politics",
-        "title": "Hegseth details new initiatives in partisan address to troops",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "In a fiery speech, the Pentagon chief solicited bids to build a new base, called for more focus on religion and said Elon Musk will help develop next-generation weapons.",
-        "url": "https://www.washingtonpost.com/national-security/2026/09/30/hegseth-map-out-forthcoming-moves-address-hundreds-troops/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
@@ -108,40 +261,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+        "title": "What happened in failed execution of Christa Pike - and what next?",
         "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
+        "category": "Healthcare",
+        "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+        "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "What we know about stabbing on Flydubai flight to Israel",
+        "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
         "publicationDate": "2026-10-01",
         "category": "Other",
-        "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
+        "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+        "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
         "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1",
+        "id": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Japan raises permanent residency fee by 20 times",
+        "publicationDate": "2026-10-01",
+        "category": "Foreign Policy",
+        "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/716c3491-6547-4c81-bc42-87136aecdac0",
         "source": "Financial Times World",
-        "title": "Global bond sell-off deepens as 10-year Treasury yield hits highest since 2002",
+        "title": "Do US lawmakers finally have capital in the crosshairs?",
         "publicationDate": "2026-10-01",
         "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.ft.com/content/e485a228-1efe-426b-addc-26069ba48bf3?syn-25a6b1a6=1"
+        "summary": "With a metastasising financial sector and declining business investment, action is essential",
+        "url": "https://www.ft.com/content/716c3491-6547-4c81-bc42-87136aecdac0"
+    },
+    {
+        "id": "https://www.ft.com/content/e071ee77-2028-4f40-b7bf-fff19e51c47c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "International Criminal Court cuts ties with Axa over US sanctions",
+        "publicationDate": "2026-10-01",
+        "category": "Foreign Policy",
+        "summary": "Move follows fears that broad US sanctions on the war crimes tribunal would force the insurer to cease doing business with it or face punishment",
+        "url": "https://www.ft.com/content/e071ee77-2028-4f40-b7bf-fff19e51c47c?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/8ead762e-88a0-4227-80b5-7aa605caf6ea?syn-25a6b1a6=1",
@@ -153,49 +324,40 @@
         "url": "https://www.ft.com/content/8ead762e-88a0-4227-80b5-7aa605caf6ea?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/4b5acc10-eb69-429b-9617-888d2172177a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Japan plans $140bn AI data centre push with Dell and Jera",
-        "publicationDate": "2026-10-01",
-        "category": "Foreign Policy",
-        "summary": "Planned 400-megawatt data centre near Tokyo will be among Asia’s largest projects outside China",
-        "url": "https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3334f6eb-5eab-4340-a5b7-a2bd0b5f46c8?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UBS pushes back against investor call to leave Switzerland",
+        "title": "Israel flight near-miss triggers election furore",
         "publicationDate": "2026-10-01",
         "category": "Other",
-        "summary": "Pressure grows on country’s largest bank amid political calls for tougher capital requirements",
-        "url": "https://www.ft.com/content/3334f6eb-5eab-4340-a5b7-a2bd0b5f46c8?syn-25a6b1a6=1"
+        "summary": "Benjamin Netanyahu’s opponents accuse prime minister of exploiting incident for political gain ahead of this month’s polls",
+        "url": "https://www.ft.com/content/4b5acc10-eb69-429b-9617-888d2172177a?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/3d58c75e-035b-4958-89e7-2b2369e3a432?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/3a1fb601-9119-4eb6-bfc8-305e281cc7e4?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Japanese companies exit China in record numbers",
+        "title": "Train driver accelerated through red signal before fatal crash",
         "publicationDate": "2026-10-01",
-        "category": "Foreign Policy",
-        "summary": "Diplomatic tensions, slowing Chinese growth and US tariff pressure spur rebalancing of supply chain",
-        "url": "https://www.ft.com/content/3d58c75e-035b-4958-89e7-2b2369e3a432?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Investigators say ‘black box’ showed Shaun Burton acknowledged automated alert ahead of Bedfordshire collision",
+        "url": "https://www.ft.com/content/3a1fb601-9119-4eb6-bfc8-305e281cc7e4?syn-25a6b1a6=1"
     },
     {
-        "id": "IF10761",
+        "id": "R49432",
         "source": "Congressional Research Service",
-        "title": "The International Joint Commission (IJC)",
+        "title": "Online Scam Centers in Southeast Asia: Background and U.S. Responses",
         "publicationDate": "2026-09-30",
         "category": "Foreign Policy",
-        "summary": "The International Joint Commission (IJC) was established under the Boundary Waters Treaty of 1909 between the United States and Canada. The treaty directs IJC to aid in the resolution and prevention of disputes concerning the waters that cross (transboundary) or form (boundary) the international border between the two countries, known collectively as boundary waters. The watersheds of these boundary waters are...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10761/IF10761.6.pdf"
+        "summary": "In the past decade, cyber-enabled scam operations have proliferated across Southeast Asia, concentrated in Burma (Myanmar), Cambodia, and Laos. People operating from scam centers target individuals for cyber-enabled financial fraud using, for example, promises of fake cryptocurrency investment opportunities or romantic overtures to elicit payment from victims around the world. Scam centers are operated by and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49432/R49432.1.pdf"
     },
     {
-        "id": "IF12148",
+        "id": "R49427",
         "source": "Congressional Research Service",
-        "title": "Regulating PFAS Under the Clean Water Act",
+        "title": "Department of Homeland Security Appropriations: FY2027 State of Play",
         "publicationDate": "2026-09-30",
-        "category": "Healthcare",
-        "summary": "In recent decades, improvements in analytical methods and monitoring technologies, along with health research, have increased national attention to the presence of emerging contaminants in surface water. Detections of one particular group of contaminants, per- and polyfluoroalkyl substances (PFAS), have heightened public and congressional interest in the U.S. Environmental Protection Agency’s (EPA’s) authorities...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12148/IF12148.7.pdf"
+        "category": "Other",
+        "summary": "FY2027 marks the 24th annual appropriations cycle with a Department of Homeland Security (DHS) appropriations measure. In six of the first seven years of its existence, the annual appropriations measure for DHS was enacted within a month of the beginning of the fiscal year it covered. Since FY2010, however, no annual DHS appropriations measure has been enacted within the first two months of its fiscal year, and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49427/R49427.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5192-1.html",
@@ -230,7 +392,7 @@
         "title": "The Seven Questions Every Military Strategist Must Ask",
         "publicationDate": "2026-09-30",
         "category": "Defense",
-        "summary": "We Discuss: Mentioned on the Episode: Carl von Clausewitz, On War, Princeton University Press Eliot A. Cohen, The Strategist: How to Think About War and Politics, Princeton University Press Robert W. Komer, Bureaucracy Does Its Thing: Institutional Constraints on U.S.-GVN Performance in Vietnam, RAND Corporation Peter Paret, ed., Makers of Modern Strategy: From Machiavelli to […]",
+        "summary": "We Discuss: Mentioned on the Episode: James M. Lindsay, “The 10 Best and 10 Worst U.S. Foreign Policy Decisions,” CFR.org Carl von Clausewitz, On War, Princeton University Press Eliot A. Cohen, The Strategist: How to Think About War and Politics, Princeton University Press Robert W. Komer, Bureaucracy Does Its Thing: Institutional Constraints on U.S.-GVN Performance […]",
         "url": "https://www.cfr.org/podcasts/presidents-inbox/the-seven-questions-every-military-strategist-must-ask"
     },
     {
@@ -250,6 +412,24 @@
         "category": "Foreign Policy",
         "summary": "Russia’s attacks on cultural heritage in occupied Ukraine are neither accidental nor merely symbolic, experts say. They are an attempt to rewrite history, erase Ukraine’s identity, and make annexation permanent.",
         "url": "https://www.cfr.org/articles/culture-under-fire-ukraines-fight-against-russias-campaign-of-erasure"
+    },
+    {
+        "id": "https://www.heritage.org/conservatism/commentary/dear-gen-z-reagan-not-relic",
+        "source": "Heritage Foundation",
+        "title": "Dear Gen Z: Reagan Is Not a Relic",
+        "publicationDate": "2026-09-30",
+        "category": "Economy",
+        "summary": "For a generation of young conservatives coming of age in an increasingly polarized America, President Ronald Reagan can sometimes seem like a relic. His name is invoked at conservative conferences, his face appears on palmcards at events, and his speeches are endlessly quoted. Yet some Generation Z conservatives have begun asking a reasonable question: Why should we still care about a president who left office...",
+        "url": "https://www.heritage.org/conservatism/commentary/dear-gen-z-reagan-not-relic"
+    },
+    {
+        "id": "https://www.heritage.org/defense/commentary/build-golden-fleet-frigate-fast-two-shipyards-are-needed",
+        "source": "Heritage Foundation",
+        "title": "To Build Golden Fleet Frigate Fast, Two Shipyards Are Needed",
+        "publicationDate": "2026-09-30",
+        "category": "Defense",
+        "summary": "In 1798, while at war with France, an exasperated British Lord Nelson exclaimed , “Were I to die at this moment, ‘want of frigates!’ would be stamped on my heart.” It’s a perennial problem: Frigates formed the backbone of navies in Nelson’s time and do so today as well, and there seldom seems to be enough. The U.S. Navy’s ambitious Golden Fleet shipbuilding plan aims to fill a frigate gap but will require shipyard...",
+        "url": "https://www.heritage.org/defense/commentary/build-golden-fleet-frigate-fast-two-shipyards-are-needed"
     },
     {
         "id": "https://www.heritage.org/education/commentary/the-hidden-jewel-jacksonville-state",
@@ -351,60 +531,6 @@
         "url": "https://cms.hoover.org/research/do-republicans-need-reality-check-senate-reclaiming-liberal-education-more-peter-berkowitz"
     },
     {
-        "id": "https://cms.hoover.org/research/hr-mcmaster-retired-general-who-led-troops-iraq-warns-us-exit-may-give-iran-isis-opening",
-        "source": "Hoover Institution",
-        "title": "H.R. McMaster Retired General Who Led Troops In Iraq Warns US Exit May Give Iran, Isis An Opening",
-        "publicationDate": "2026-09-30",
-        "category": "Foreign Policy",
-        "summary": "Hoover Institution fellow H.R. McMaster talks about the impact the final withdrawal of US troops from Iraq will have on the Middle East.",
-        "url": "https://cms.hoover.org/research/hr-mcmaster-retired-general-who-led-troops-iraq-warns-us-exit-may-give-iran-isis-opening"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
-        "source": "NPR Politics",
-        "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
-        "publicationDate": "2026-09-30",
-        "category": "Defense",
-        "summary": "Secretary of Defense Pete Hegseth told hundreds of junior military officers and enlisted leaders on Wednesday that the Trump administration has achieved a cultural shift in the military.",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
-        "source": "NPR Politics",
-        "title": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
-        "publicationDate": "2026-09-30",
-        "category": "Other",
-        "summary": "The Pentagon made last-minute changes to forms that many overseas U.S. citizens use for absentee voting, removing a category of citizens that Republicans have been pushing to block from voting.",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
-        "source": "NPR Politics",
-        "title": "How Trump keeps undercutting his anti-communist message",
-        "publicationDate": "2026-09-30",
-        "category": "Other",
-        "summary": "The Trump administration has taken government equity stakes in more than three dozen private companies.",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/30/nx-s1-5984990/former-special-counsel-jack-smith-defends-investigation-into-trump-on-capitol-hill",
-        "source": "NPR Politics",
-        "title": "Former special counsel Jack Smith defends investigation into Trump on Capitol Hill",
-        "publicationDate": "2026-09-30",
-        "category": "Other",
-        "summary": "Former Justice Department special counsel Jack Smith defended two criminal indictments against President Trump on Capitol Hill.",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5984990/former-special-counsel-jack-smith-defends-investigation-into-trump-on-capitol-hill"
-    },
-    {
-        "id": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
-        "source": "NPR Politics",
-        "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
-        "publicationDate": "2026-09-30",
-        "category": "Healthcare",
-        "summary": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
-        "url": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/assengers-describe-stopping-pilots-alleged-attempt-to-crash-israel-bound-flight",
         "source": "PBS NewsHour Politics",
         "title": "Passengers describe stopping pilot's alleged attempt to crash Israel-bound flight",
@@ -432,103 +558,13 @@
         "url": "https://www.pbs.org/newshour/show/former-diplomats-assess-u-s-withdrawal-from-iraq-and-regions-future"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/evan-gershkovich-reflects-on-arrest-in-russia-and-reclaiming-his-life-after-release",
-        "source": "PBS NewsHour Politics",
-        "title": "Evan Gershkovich reflects on arrest in Russia and reclaiming his life after release",
-        "publicationDate": "2026-09-30",
-        "category": "Foreign Policy",
-        "summary": "In 2024, Wall Street Journal correspondent Evan Gershkovich was freed from detention in Russia, as part of a complex prisoner swap that included 16 people from seven countries. Gershkovich sat down with Amna Nawaz to discuss his arrest, his time in prison and his new book, \"This Cursed Beautiful Land.\"",
-        "url": "https://www.pbs.org/newshour/show/evan-gershkovich-reflects-on-arrest-in-russia-and-reclaiming-his-life-after-release"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/utah-gov-spencer-cox-on-his-blueprint-for-depolarizing-a-fractured-nation",
-        "source": "PBS NewsHour Politics",
-        "title": "Utah Gov. Spencer Cox on his blueprint for depolarizing a fractured nation",
-        "publicationDate": "2026-09-30",
-        "category": "arts",
-        "summary": "In the aftermath of the shooting death of conservative activist Charlie Kirk, Utah Gov. Spencer Cox emerged as a prominent voice calling on Americans to step back from the political hatred and violence gripping the country. Now, the Republican governor is expanding on that message in a new book, \"Off Ramp: How to Be a Peacemaker in an Age of Contempt.\" Cox joined Geoff Bennett to discuss more.",
-        "url": "https://www.pbs.org/newshour/show/utah-gov-spencer-cox-on-his-blueprint-for-depolarizing-a-fractured-nation"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/30/us/politics/trump-hispanic-heritage-month.html",
-        "source": "New York Times Politics",
-        "title": "In Wooing Wavering Hispanic Voters, Trump Talks ICE, His Ballroom and Himself",
-        "publicationDate": "2026-09-30",
-        "category": "United States Politics and Government",
-        "summary": "President Trump veered off the topic at hand during a White House reception for Hispanic Heritage Month.",
-        "url": "https://www.nytimes.com/2026/09/30/us/politics/trump-hispanic-heritage-month.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/30/us/politics/bureau-prisons-union-contract.html",
-        "source": "New York Times Politics",
-        "title": "Federal Judge Orders Bureau of Prisons to Restore Union Protections",
-        "publicationDate": "2026-09-30",
-        "category": "Decisions and Verdicts",
-        "summary": "In his ruling, Judge Vernon D. Oliver cited public statements from the bureau’s director that hurt the agency’s case in court.",
-        "url": "https://www.nytimes.com/2026/09/30/us/politics/bureau-prisons-union-contract.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/09/30/us/politics/trump-midterms-oklahoma-alabama-nebraska.html",
-        "source": "New York Times Politics",
-        "title": "Trump Plays Defense in Midterm Tour Across Republican Strongholds",
-        "publicationDate": "2026-09-30",
-        "category": "Defense",
-        "summary": "Some deep-red areas are in need of a jolt.",
-        "url": "https://www.nytimes.com/2026/09/30/us/politics/trump-midterms-oklahoma-alabama-nebraska.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/30/trump-touts-major-investment-projects-hoping-appeal-voters/",
-        "source": "Washington Post Politics",
-        "title": "White House touts big-ticket projects in hope of swaying key races",
-        "publicationDate": "2026-09-30",
-        "category": "Other",
-        "summary": "With few tools to bring down prices in the short run, Trump hopes to focus voters on investments that could pay off in years to come.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/30/trump-touts-major-investment-projects-hoping-appeal-voters/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/09/30/trump-says-only-hispanic-could-survive-fall-ballroom-site/",
-        "source": "Washington Post Politics",
-        "title": "Trump says ‘only Hispanic’ could survive fall at ballroom site",
-        "publicationDate": "2026-09-30",
-        "category": "Other",
-        "summary": "Trump invited attendees of a Hispanic Heritage Month to be among the first to walk on his ballroom floor.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/30/trump-says-only-hispanic-could-survive-fall-ballroom-site/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-        "publicationDate": "2026-09-30",
-        "category": "Foreign Policy",
-        "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "R43141",
+        "id": "R49436",
         "source": "Congressional Research Service",
-        "title": "The National Earthquake Hazards Reduction Program (NEHRP): Overview and Issues for Congress",
-        "publicationDate": "2026-09-29",
-        "category": "Technology",
-        "summary": "The National Earthquake Hazards Reduction Program (NEHRP) aims to understand earthquake hazards and reduce earthquake risks in the United States. Portions of all 50 states, as well as U.S. territories and the District of Columbia, are vulnerable to earthquake hazards and their associated risks, to varying degrees. Each region’s risk is shaped by the frequency and scale of the hazard as well as by the population,...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43141/R43141.33.pdf"
-    },
-    {
-        "id": "R40094",
-        "source": "Congressional Research Service",
-        "title": "Iran’s Nuclear Program: Tehran’s Compliance with International Obligations",
-        "publicationDate": "2026-09-29",
-        "category": "Defense",
-        "summary": "Iran ratified the nuclear Nonproliferation Treaty (NPT) in 1970 and per the treaty’s requirements, concluded a comprehensive safeguards agreement with the International Atomic Energy Agency (IAEA) in 1974. Such agreements empower the agency to detect the diversion of nuclear material from peaceful purposes, as well as to detect undeclared nuclear activities and materials. These agreements require governments to...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R40094/R40094.153.pdf"
-    },
-    {
-        "id": "IF13322",
-        "source": "Congressional Research Service",
-        "title": "U.S. Measles Outbreaks 2025-2026: Overview and Issues for Congress",
+        "title": "Digital Health Information Interoperability: Background and Selected Policy Considerations",
         "publicationDate": "2026-09-29",
         "category": "Healthcare",
-        "summary": "As of September 24, 2026, the United States has seen the highest number of annual reported measles cases since 1991, according to Centers for Disease Control and Prevention (CDC) data. This 2026 total has already exceeded the 2025 total, which was also significantly higher than prior years. In 2000, the United States declared it had eliminated measles, meaning that no continuous spread had occurred in the United...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13322/IF13322.2.pdf"
+        "summary": "Interoperability, essentially the ability of different technologies to speak with one another, is a key concept in the advancement of modernized digital health information exchange across a variety of health-related settings nationwide. Health information systems in part use health information technology (IT), a broad category of tools that may encompass electronic health records (EHRs), patient portals, medical...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49436/R49436.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5195-1.html",
@@ -540,24 +576,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5195-1.html"
     },
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4734-1.html",
-        "source": "RAND Corporation",
-        "title": "Novel effectors",
-        "publicationDate": "2026-09-29",
-        "category": "Foreign Policy",
-        "summary": "This project examines how maturing novel effectors, including hypersonics, directed energy, cyber, electromagnetic and autonomous systems, affect strategic stability, international governance and the United Kingdom's strategic position.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4734-1.html"
-    },
-    {
-        "id": "https://www.cfr.org/articles/greenlands-independence-what-would-mean-us-interests",
-        "source": "Council on Foreign Relations",
-        "title": "The U.S., Denmark, and Greenland Reached a Security Deal. Here’s What to Know.",
-        "publicationDate": "2026-09-29",
-        "category": "Defense",
-        "summary": "A new trilateral security agreement signed by the United States, Denmark, and Greenland expands U.S. military access to the island, reinforcing Arctic security amid increasing geopolitical competition in the region.",
-        "url": "https://www.cfr.org/articles/greenlands-independence-what-would-mean-us-interests"
-    },
-    {
         "id": "https://www.heritage.org/welfare/commentary/us-poverty-rate-hits-record-low-welfare-reform-can-help-it-go-lower",
         "source": "Heritage Foundation",
         "title": "U.S. Poverty Rate Hits Record Low. Welfare Reform Can Help It Go Lower",
@@ -565,24 +583,6 @@
         "category": "Economy",
         "summary": "The U.S. poverty rate in 2025 dropped to its lowest level in history, according to the latest U.S. Census Bureau report. Poverty is now at 10.5%, down slightly from last year. Child poverty also hit its lowest level ever, dropping to 13.4%. Top of Form The Census Bureau also reported that inflation-adjusted median household income grew by 2.6% and hit an all-time high. This is good news. But the poverty rate is...",
         "url": "https://www.heritage.org/welfare/commentary/us-poverty-rate-hits-record-low-welfare-reform-can-help-it-go-lower"
-    },
-    {
-        "id": "https://www.heritage.org/technology/commentary/whats-really-behind-the-call-regulate-ai",
-        "source": "Heritage Foundation",
-        "title": "What’s Really Behind the Call to Regulate AI",
-        "publicationDate": "2026-09-28",
-        "category": "Defense",
-        "summary": "The oligarchs of artificial intelligence are tearing a page from the Wall Street industrial complex, lobbying to turn AI over to regulators who will outlaw the competition, leaving consumers with fewer choices and higher prices. Those oligarchs also want a liability shield, courtesy of taxpayers, and they’re using fear to get the public on board. Last week, Anthropic CEO Dario Amodei penned an open letter—well, an...",
-        "url": "https://www.heritage.org/technology/commentary/whats-really-behind-the-call-regulate-ai"
-    },
-    {
-        "id": "https://www.heritage.org/election-integrity/commentary/proof-citizenship-belongs-every-voter-registration",
-        "source": "Heritage Foundation",
-        "title": "Proof of Citizenship Belongs on Every Voter Registration",
-        "publicationDate": "2026-09-28",
-        "category": "Foreign Policy",
-        "summary": "Those who argue against requiring proof of citizenship in elections should consider a series of cases in Texas, where federal prosecutors have charged seven noncitizens in a sweeping election-integrity operation. The U.S. Attorney for the Northern District of Texas, Ryan Raybould, announced that the seven have been charged for unlawfully voting in federal elections or falsely claiming U.S. citizenship. The...",
-        "url": "https://www.heritage.org/election-integrity/commentary/proof-citizenship-belongs-every-voter-registration"
     },
     {
         "id": "https://www.cer.eu/media/unpacking-europe-scaling-innovation-europe",
