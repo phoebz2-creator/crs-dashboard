@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.nytimes.com/2026/10/01/us/politics/military-civilian-deaths-in-war.html",
+        "source": "New York Times Politics",
+        "title": "Military Leaders Will Examine Ways to Limit Civilian Deaths in War",
+        "publicationDate": "2026-10-02",
+        "category": "Defense",
+        "summary": "U.S. Central Command will hold a daylong conference at its Tampa headquarters after seven months of war in Iran.",
+        "url": "https://www.nytimes.com/2026/10/01/us/politics/military-civilian-deaths-in-war.html"
+    },
+    {
+        "id": "https://www.ft.com/content/5956dc9c-d0c3-4205-9309-1abdab9782c8",
+        "source": "Financial Times World",
+        "title": "Bangkok cements its place as gem-trading hub",
+        "publicationDate": "2026-10-02",
+        "category": "Other",
+        "summary": "The expertise the Thai capital can offer and its breadth of coloured stones continue to draw clients from across the world",
+        "url": "https://www.ft.com/content/5956dc9c-d0c3-4205-9309-1abdab9782c8"
+    },
+    {
+        "id": "https://www.ft.com/content/c018a2e8-1318-4dd7-9604-a272c96c2e2a",
+        "source": "Financial Times World",
+        "title": "Japanese watchmakers push for overseas growth",
+        "publicationDate": "2026-10-02",
+        "category": "Other",
+        "summary": "Exports are rising as brands large and small attract more buyers beyond their home market",
+        "url": "https://www.ft.com/content/c018a2e8-1318-4dd7-9604-a272c96c2e2a"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5222-1.html",
         "source": "RAND Corporation",
         "title": "Santa Monica’s Recent Economic and Social Trends",
@@ -7,6 +34,24 @@
         "category": "Other",
         "summary": "Researchers compared Santa Monica’s recent economic and social trends with peer cities near Los Angeles. They found steeper declines in retail sales and tourism, but recent policy reforms may improve the city’s economic trajectory.",
         "url": "https://www.rand.org/pubs/research_reports/RRA5222-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/podcasts/spillover/central-banks-in-a-bind",
+        "source": "Council on Foreign Relations",
+        "title": "Central Banks in a Bind",
+        "publicationDate": "2026-10-01",
+        "category": "Economy",
+        "summary": "This week on The Spillover, hosts Rebecca Patterson and Sebastian Mallaby are joined by Adam Posen, president of the Peterson Institute for International Economics, to discuss how the Federal Reserve has fallen behind the curve on inflation, Fed Chair Kevin Warsh’s task forces, and the role of AI in monetary policymaking. Mentioned on the Episode: […]",
+        "url": "https://www.cfr.org/podcasts/spillover/central-banks-in-a-bind"
+    },
+    {
+        "id": "https://www.cfr.org/articles/trumps-ai-safety-pact-is-toothless-but-there-is-a-path-forward",
+        "source": "Council on Foreign Relations",
+        "title": "Trump’s AI Safety Pact Is Toothless. But There Is a Path Forward.",
+        "publicationDate": "2026-10-01",
+        "category": "Article",
+        "summary": "The White House AI accord outlines sensible safeguards, including independent evaluators and board-level oversight, but does not compel companies to adopt them. Until the cost of safety failures outweighs the payoff of racing ahead, a pledge built on “believe” and “should” won’t slow anyone down.",
+        "url": "https://www.cfr.org/articles/trumps-ai-safety-pact-is-toothless-but-there-is-a-path-forward"
     },
     {
         "id": "https://www.cfr.org/articles/world-leaders-at-cfr-highlights-from-unga-2026",
@@ -34,15 +79,6 @@
         "category": "Article",
         "summary": "CFR’s Global Monetary Policy Tracker compiles data from 54 countries around the world to highlight significant global trends in monetary policy. Who is tightening policy? Who is loosening policy? And what is the policy stance of the world as a whole?",
         "url": "https://www.cfr.org/articles/global-monetary-policy-tracker"
-    },
-    {
-        "id": "https://www.cfr.org/articles/what-questions-should-leaders-ask-before-going-to-war",
-        "source": "Council on Foreign Relations",
-        "title": "What Questions Should Leaders Ask Before Going to War?",
-        "publicationDate": "2026-10-01",
-        "category": "Defense",
-        "summary": "Operation Epic Fury followed a historically familiar pattern: the United States opted for military force without carefully weighing the potential consequences.",
-        "url": "https://www.cfr.org/articles/what-questions-should-leaders-ask-before-going-to-war"
     },
     {
         "id": "https://www.heritage.org/budget-and-spending/commentary/federal-government-leviathan-grows-one-5000-dividend-time",
@@ -81,6 +117,42 @@
         "url": "https://www.hudson.org/foreign-policy/us-has-run-out-patience-south-africa-visa-bans-are-only-step-one-joshua-meservey"
     },
     {
+        "id": "https://cms.hoover.org/research/seek-newer-world",
+        "source": "Hoover Institution",
+        "title": "To Seek A Newer World",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "World Labs is joining AMD. This is a huge moment for World Labs, our team, and for me, and I wanted to take a moment to share what this means and why I’m so excited for this next chapter.",
+        "url": "https://cms.hoover.org/research/seek-newer-world"
+    },
+    {
+        "id": "https://cms.hoover.org/research/modi-faces-protest-threat-over-election-commission-scandal",
+        "source": "Hoover Institution",
+        "title": "Modi Faces Protest Threat Over Election Commission Scandal",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "India’s opposition parties and the Cockroach movement are ready to march over fresh allegations of bias.",
+        "url": "https://cms.hoover.org/research/modi-faces-protest-threat-over-election-commission-scandal"
+    },
+    {
+        "id": "https://cms.hoover.org/research/between-israel-and-iran-security-strategy-and-future-middle-east",
+        "source": "Hoover Institution",
+        "title": "Between Israel And Iran: Security, Strategy, And The Future Of The Middle East",
+        "publicationDate": "2026-10-01",
+        "category": "Foreign Policy",
+        "summary": "Hoover Institution fellow Cole Bunzel will be joining a panel discussion on “A New Era in the Middle East: Breakthrough or Déjà Vu?” at the Etter-Harbin Alumni Center on October 14 at 12:45PM.",
+        "url": "https://cms.hoover.org/research/between-israel-and-iran-security-strategy-and-future-middle-east"
+    },
+    {
+        "id": "https://cms.hoover.org/research/fox-news-poll-michigan-voters-split-between-el-sayed-and-rogers",
+        "source": "Hoover Institution",
+        "title": "Fox News Poll: Michigan Voters Split between El-Sayed And Rogers",
+        "publicationDate": "2026-10-01",
+        "category": "Economy",
+        "summary": "“The Michigan Senate race is unique in that short-term political forces favoring the Democrats are somewhat offset by concerns about the Democratic candidate,” says Hoover Institution Daron Shaw. “The bad news for Rogers is El-Sayed has made progress shoring up Democratic support and has room to grow given voter concerns about the economy.”",
+        "url": "https://cms.hoover.org/research/fox-news-poll-michigan-voters-split-between-el-sayed-and-rogers"
+    },
+    {
         "id": "https://cms.hoover.org/research/victor-davis-hanson-why-common-sense-branded-conservative-privileged-left",
         "source": "Hoover Institution",
         "title": "Victor Davis Hanson: Why Common Sense Is Branded Conservative & The Privileged Left",
@@ -88,42 +160,6 @@
         "category": "Other",
         "summary": "Hoover Institution fellow Victor Davis Hanson discusses why common sense is considered conservative.",
         "url": "https://cms.hoover.org/research/victor-davis-hanson-why-common-sense-branded-conservative-privileged-left"
-    },
-    {
-        "id": "https://cms.hoover.org/research/american-leaders-principle-and-contradiction",
-        "source": "Hoover Institution",
-        "title": "American Leaders Of Principle And Contradiction",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "John Adams, a giant of the Revolutionary era, shows even courageous figures can be flawed.",
-        "url": "https://cms.hoover.org/research/american-leaders-principle-and-contradiction"
-    },
-    {
-        "id": "https://cms.hoover.org/news/three-hoover-institution-programs-named-2026-signal-awards-finalists",
-        "source": "Hoover Institution",
-        "title": "Three Hoover Institution Programs Named 2026 Signal Awards Finalists",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "The Hoover Institution is pleased to announce that three of its podcast productions have been named finalists in the Fifth Annual Signal Awards. Judged by a distinguished panel of podcast hosts, producers, and other industry professionals, the Signal Awards recognize “the podcasts that define culture.”",
-        "url": "https://cms.hoover.org/news/three-hoover-institution-programs-named-2026-signal-awards-finalists"
-    },
-    {
-        "id": "https://cms.hoover.org/research/california-subject-debate",
-        "source": "Hoover Institution",
-        "title": "California . . . Subject For Debate",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "With Election Day approaching, California staged its first (and maybe only) post-primary gubernatorial debate. What did we learn about the two men who aspire to be the Golden State’s 41st chief executive? And is there a better way to handle this exercise in democracy?",
-        "url": "https://cms.hoover.org/research/california-subject-debate"
-    },
-    {
-        "id": "https://cms.hoover.org/research/innovations-payments-system",
-        "source": "Hoover Institution",
-        "title": "Innovations In The Payments System",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "OECD Chief Economist Stefano Scarpetta joins Steve to discuss innovations in the payments system and what it means for transaction costs and financial stability.",
-        "url": "https://cms.hoover.org/research/innovations-payments-system"
     },
     {
         "id": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
@@ -171,184 +207,175 @@
         "url": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/most-americans-blame-trump-for-high-prices-as-his-economic-approval-hits-new-low-ap-norc-poll-shows",
+        "id": "https://www.pbs.org/newshour/politics/a-fact-checked-guide-to-trumps-talking-points-and-falsehoods-at-midterm-rallies",
         "source": "PBS NewsHour Politics",
-        "title": "Most Americans blame Trump for high prices as his economic approval hits new low, AP-NORC poll shows",
+        "title": "A fact-checked guide to Trump's talking points and falsehoods at midterm rallies",
+        "publicationDate": "2026-10-01",
+        "category": "2026 Midterms",
+        "summary": "President Donald Trump is hitting the campaign trail to support Republican candidates in toss-up races that will determine which party controls Congress for the final two years of his presidency. Here's a list of more than two dozen go-to Trump statements and how they square for accuracy.",
+        "url": "https://www.pbs.org/newshour/politics/a-fact-checked-guide-to-trumps-talking-points-and-falsehoods-at-midterm-rallies"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/what-we-know-about-tennessees-botched-execution-of-christa-pike",
+        "source": "PBS NewsHour Politics",
+        "title": "What we know about Tennessee's botched execution of Christa Pike",
+        "publicationDate": "2026-10-01",
+        "category": "capital punishment",
+        "summary": "Tennessee officials failed to carry out the lethal injection of death row inmate Christa Pike on Wednesday. Her attorneys say she is alive and in critical condition after being given two separate doses of pentobarbital meant to kill her. Pike was sentenced to death for the gruesome murder of her classmate in 1995. Amna Nawaz discussed more with Deborah Denno, a professor at Fordham School of Law.",
+        "url": "https://www.pbs.org/newshour/show/what-we-know-about-tennessees-botched-execution-of-christa-pike"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/investigators-search-for-motive-after-alleged-attack-by-flydubai-co-pilot",
+        "source": "PBS NewsHour Politics",
+        "title": "Investigators search for motive after alleged attack by FlyDubai co-pilot",
         "publicationDate": "2026-10-01",
         "category": "Foreign Policy",
-        "summary": "A majority, 65%, of U.S. adults now blame Trump's policies for persistently high costs more than factors outside of his control, signaling growing weariness over his aggressive use of tariffs and continued unhappiness with the war with Iran.",
-        "url": "https://www.pbs.org/newshour/politics/most-americans-blame-trump-for-high-prices-as-his-economic-approval-hits-new-low-ap-norc-poll-shows"
+        "summary": "Investigators across the Middle East are hunting for answers after a co-pilot stabbed his captain and allegedly attempted to crash a FlyDubai aircraft bound for Israel. President Trump claimed the attack could be linked to Iran, but did not provide evidence. Geoff Bennett discussed what we do and don't know with Juliette Kayyem, a former assistant secretary at the Department of Homeland Security.",
+        "url": "https://www.pbs.org/newshour/show/investigators-search-for-motive-after-alleged-attack-by-flydubai-co-pilot"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/judge-permanently-dismisses-trump-administrations-case-charging-ex-olympian-with-reflecting-pool-vandalism",
+        "id": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-to-review-mandatory-detention-policy-for-migrants",
         "source": "PBS NewsHour Politics",
-        "title": "Judge permanently dismisses Trump administration's case charging ex-Olympian with Reflecting Pool vandalism",
-        "publicationDate": "2026-10-01",
-        "category": "Donald Trump news",
-        "summary": "A judge in the nation's capital agreed on Thursday to permanently dismiss a criminal case charging a former Olympian with vandalizing the Lincoln Memorial Reflecting Pool, a move that could prevent federal prosecutors from reviving the case under political pressure from President Donald Trump.",
-        "url": "https://www.pbs.org/newshour/politics/judge-permanently-dismisses-trump-administrations-case-charging-ex-olympian-with-reflecting-pool-vandalism"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-vance-speaks-at-a-republican-rally-in-florida",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Vance speaks at a Republican rally in Florida",
-        "publicationDate": "2026-10-01",
-        "category": "Donald Trump news",
-        "summary": "Vice President JD Vance will be stumping in Florida, putting the Republican Party's highest-ranking officials in areas where GOP candidates once expected to have glide paths to victory but are now facing tougher races.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-vance-speaks-at-a-republican-rally-in-florida"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/renee-goods-family-sues-u-s-government-and-immigration-officials-over-her-killing",
-        "source": "PBS NewsHour Politics",
-        "title": "Renee Good's family sues U.S. government and immigration officials over her killing",
-        "publicationDate": "2026-10-01",
-        "category": "Donald Trump news",
-        "summary": "Good was fatally shot Jan. 7 as protests against immigration raids flared across Minneapolis.",
-        "url": "https://www.pbs.org/newshour/politics/renee-goods-family-sues-u-s-government-and-immigration-officials-over-her-killing"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/supreme-court-grants-review-of-trump-administrations-mandatory-detention-policy-for-immigrants",
-        "source": "PBS NewsHour Politics",
-        "title": "Supreme Court grants review of Trump administration's mandatory detention policy for immigrants",
-        "publicationDate": "2026-10-01",
-        "category": "Donald Trump news",
-        "summary": "The case will test a key pillar of the Trump administration's hard-line immigration agenda.",
-        "url": "https://www.pbs.org/newshour/politics/supreme-court-grants-review-of-trump-administrations-mandatory-detention-policy-for-immigrants"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6124198-senate-reacts-pentagon-purge/",
-        "source": "The Hill",
-        "title": "Senators give cold shoulder to Hegseth plan to cut admirals, generals",
-        "publicationDate": "2026-10-01",
-        "category": "Defense",
-        "summary": "Defense-focused senators are giving a cool reception to Defense Sec. Pete Hegseth’s proposal to cut by 20 percent the nation’s admirals and generals. Several lawmakers said they had not seen the rationale for Hegseth’s argument, while others clearly wanted to talk about other things. “No, I certainly want to see his rationale in detail,...",
-        "url": "https://thehill.com/policy/defense/6124198-senate-reacts-pentagon-purge/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6124439-trump-meme-coin-investor-gala/",
-        "source": "The Hill",
-        "title": "Trump meme coin invites top buyers to 'exclusive' gala with the president",
-        "publicationDate": "2026-10-01",
-        "category": "Administration",
-        "summary": "The firm managing President Trump’s “$Trump” coin announced it would be hosting an “exclusive” gala for the top 185 holders of the coin, featuring the president as a speaker. “An evening with 3 Legends and President Donald J. Trump — plus a private meet & greet with a legend to be announced,” the description of...",
-        "url": "https://thehill.com/homenews/administration/6124439-trump-meme-coin-investor-gala/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6124359-schmitt-perjury-claim-debunked/",
-        "source": "The Hill",
-        "title": "Smith’s game-day texts reviewed by Schmitt never referenced basketball team names",
-        "publicationDate": "2026-10-01",
-        "category": "Senate",
-        "summary": "Text messages obtained by The Hill show former special counsel Jack Smith’s staff didn’t reference any basketball team names, adding to the confusion around why Sen. Eric Schmitt (R-Mo.) errantly accused the prosecutor of attending a game in Atlanta in an effort to tie him to a Georgia prosecution of President Trump. It’s a remarkable...",
-        "url": "https://thehill.com/homenews/senate/6124359-schmitt-perjury-claim-debunked/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6124271-trump-iran-midterm-risk/",
-        "source": "The Hill",
-        "title": "Trump says ‘it’s possible’ Iran war could cost him the midterms",
+        "title": "News Wrap: Supreme Court to review mandatory detention policy for migrants",
         "publicationDate": "2026-10-01",
         "category": "Foreign Policy",
-        "summary": "President Trump on Thursday said \"it's possible\" the Iran war could cost him the November midterm elections by risking Republican control of the House, Senate or both. \"Well, it's possible. It should help,\" Trump told reporters outside the White House before heading to a campaign rally in the Choctaw Nation in Oklahoma. \"Because Iran will...",
-        "url": "https://thehill.com/homenews/administration/6124271-trump-iran-midterm-risk/"
+        "summary": "In our news wrap Thursday, the Supreme Court agreed to review the Trump administration's mandatory detention policy for migrants, UK police arrested a British-Iranian citizen on suspicion of planning a terror attack following a security incident at an air base and a Russian drone slammed into a school in Kyiv as the capital endured yet another day of aerial attacks.",
+        "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-to-review-mandatory-detention-policy-for-migrants"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6124325-manner-slams-hegseth-cuts/",
+        "id": "https://www.pbs.org/newshour/show/new-details-intensify-scrutiny-of-cornells-handling-of-gang-rape-allegations",
+        "source": "PBS NewsHour Politics",
+        "title": "New details intensify scrutiny of Cornell's handling of gang rape allegations",
+        "publicationDate": "2026-10-01",
+        "category": "campus rape",
+        "summary": "There are new revelations about how authorities handled an alleged gang rape at Cornell University in 2024. New reporting out today finds Cornell police left out key information in a statement given to local law enforcement. That includes Jane Doe's statement, \"I can say with 100 percent confidence I was raped.\" Amna Nawaz discussed more with Sharon Otterman of The New York Times.",
+        "url": "https://www.pbs.org/newshour/show/new-details-intensify-scrutiny-of-cornells-handling-of-gang-rape-allegations"
+    },
+    {
+        "id": "https://thehill.com/newsletters/healthcare/6124862-medicare-globe-drug-pricing-scaled-back/",
         "source": "The Hill",
-        "title": "Retired major general: Hegseth 'playing Russian roulette' with US security",
+        "title": "Medicare de-fangs new drug pricing model",
         "publicationDate": "2026-10-01",
-        "category": "Defense",
-        "summary": "Retired Maj. Gen. Randy Manner blasted Defense Secretary Pete Hegseth over his latest cuts to the military’s senior ranks, accusing the Pentagon chief of “playing Russian roulette” with U.S. national security. “This is just unbelievable,” Manner said during a Wednesday appearance on CNN’s “The Lead.” “It’s sophomoric,” he added. Hegseth announced plans to cut 20...",
-        "url": "https://thehill.com/homenews/administration/6124325-manner-slams-hegseth-cuts/"
+        "category": "Healthcare",
+        "summary": "Click in for more news from The Hill {beacon} Healthcare Healthcare The Big Story Medicare de-fangs new drug pricing model The Trump administration rolled out the final version of a new Medicare payment model aimed at lowering the prices of drugs administered in doctors’ offices to match those paid in countries overseas. © Nam...",
+        "url": "https://thehill.com/newsletters/healthcare/6124862-medicare-globe-drug-pricing-scaled-back/"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/01/us/politics/mcgurk-biden-netanyahu-gaza.html",
+        "id": "https://thehill.com/blogs/blog-briefing-room/news/6124774-gallup-courage-poll-results-american-politicians/",
+        "source": "The Hill",
+        "title": "Few Americans associate their elected leaders with the term 'courage': Gallup",
+        "publicationDate": "2026-10-01",
+        "category": "Briefing Room",
+        "summary": "When asked to select which category of people they most associated with courage, 4 percent of Americans selected elected officials — tying with social media influencers, according to newly-published Gallup survey results. In the new poll, released Wednesday, respondents were given a list of 16 different groups of people — such as first responders, scientists,...",
+        "url": "https://thehill.com/blogs/blog-briefing-room/news/6124774-gallup-courage-poll-results-american-politicians/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/energy-environment/6124844-whats-in-the-permitting-reform-bill/",
+        "source": "The Hill",
+        "title": "What's in the permitting reform bill?",
+        "publicationDate": "2026-10-01",
+        "category": "Energy & Environment Newsletter",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story What's in the permitting reform bill? This week, a set of bipartisan senators announced a major permitting reform bill aimed at speeding up the buildout of the nation's infrastructure, especially energy projects, here's what the bill, known as the Bipartisan American Affordability and Jobs...",
+        "url": "https://thehill.com/newsletters/energy-environment/6124844-whats-in-the-permitting-reform-bill/"
+    },
+    {
+        "id": "https://thehill.com/policy/energy-environment/6124792-bipartisan-permitting-reform-data-centers-energy-projects/",
+        "source": "The Hill",
+        "title": "What would the new bipartisan permitting reform bill actually do?",
+        "publicationDate": "2026-10-01",
+        "category": "Energy & Environment",
+        "summary": "This week, a bipartisan group of senators announced a major permitting reform bill aimed at speeding up the build-out of the nation's infrastructure, especially energy projects. While it’s not clear if the bill will become law, it appears to have the backing of a significant number of legislators as well as leaders in both parties....",
+        "url": "https://thehill.com/policy/energy-environment/6124792-bipartisan-permitting-reform-data-centers-energy-projects/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6124784-judge-orders-doj-memo-release/",
+        "source": "The Hill",
+        "title": "Judge rejects Trump administration arguments for withholding boat strike justification memo",
+        "publicationDate": "2026-10-01",
+        "category": "Court Battles",
+        "summary": "A federal judge on Wednesday ruled the Trump administration must turn over a Department of Justice (DOJ) memo that legally authorizes the Pentagon’s lethal boat strikes in the Caribbean and Pacific. U.S. District Judge Paul Engelmayer rejected two of the administration’s three arguments to keep the document secret in a 66-page opinion, requiring that the...",
+        "url": "https://thehill.com/regulation/court-battles/6124784-judge-orders-doj-memo-release/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/01/us/politics/ntsb-miami-amazon-crash.html",
         "source": "New York Times Politics",
-        "title": "‘Ready to Blow His Stack’: How Biden Nearly Cut Off Netanyahu Over Gaza",
+        "title": "Wind Warnings Were Never Given to Pilots in Miami Crash, Federal Report Says",
         "publicationDate": "2026-10-01",
-        "category": "Foreign Policy",
-        "summary": "Brett McGurk, who was the top Middle East adviser to President Joseph R. Biden Jr., offered the first inside-the-room account of American efforts to manage the Gaza war.",
-        "url": "https://www.nytimes.com/2026/10/01/us/politics/mcgurk-biden-netanyahu-gaza.html"
+        "category": "Airlines and Airplanes",
+        "summary": "The pilots of an Amazon cargo jet had never worked together before the day of the crash, and were traveling at an abnormally high speed when they hit the runway, the report said.",
+        "url": "https://www.nytimes.com/2026/10/01/us/politics/ntsb-miami-amazon-crash.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/01/business/media/cnn-paramount-david-ellison.html",
+        "id": "https://www.nytimes.com/2026/10/01/us/politics/bill-pulte-trump-inspector-general.html",
         "source": "New York Times Politics",
-        "title": "David Ellison’s Vision for CNN: Same C.E.O and No Bari Weiss, for Now.",
-        "publicationDate": "2026-10-01",
-        "category": "Television",
-        "summary": "David Ellison is negotiating to keep CNN’s chief executive, Mark Thompson, in place without oversight from Bari Weiss, the CBS editor in chief, when the networks’ parent companies merge.",
-        "url": "https://www.nytimes.com/2026/10/01/business/media/cnn-paramount-david-ellison.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/01/insider/fbi-hack-shinyhunters-data.html",
-        "source": "New York Times Politics",
-        "title": "Our Reporter Emailed the F.B.I. Hackers. They Wrote Back.",
-        "publicationDate": "2026-10-01",
-        "category": "Technology",
-        "summary": "Dustin Volz, a Times reporter who covers cybersecurity, wanted to help readers understand a huge breach of government data that could put workers and families at risk.",
-        "url": "https://www.nytimes.com/2026/10/01/insider/fbi-hack-shinyhunters-data.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html",
-        "source": "New York Times Politics",
-        "title": "Congress Leaves With a Whimper, as the G.O.P. Braces for Midterm Pain",
-        "publicationDate": "2026-10-01",
-        "category": "United States Politics and Government",
-        "summary": "Republicans lined up a series of doomed votes in their final hours, hoping to portray Democrats as obstructionists. But some conceded that their party was more likely to be punished.",
-        "url": "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html",
-        "source": "New York Times Politics",
-        "title": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
-        "publicationDate": "2026-10-01",
-        "category": "Foreign Policy",
-        "summary": "The move follows recent reports detailing how A7, a Russian financial firm, used shell companies around the world to move funds on behalf of restricted Russian businesses.",
-        "url": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/01/trump-memecoin-plans-another-gala-amid-backlash-self-enrichment/",
-        "source": "Washington Post Politics",
-        "title": "Trump memecoin plans another gala amid backlash to self-enrichment",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "The latest event will take place next month at the president’s golf club in Northern Virginia.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/01/trump-memecoin-plans-another-gala-amid-backlash-self-enrichment/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/01/trumps-white-house-visitor-screening-center-poised-approval/",
-        "source": "Washington Post Politics",
-        "title": "Trump wins approval for new White House visitor screening center",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "The project, which would revamp how visitors enter the White House grounds, is one Trump construction effort that has drawn wide agreement.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/01/trumps-white-house-visitor-screening-center-poised-approval/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/01/trump-ads-use-money-border-security-slain-officers-memorials/",
-        "source": "Washington Post Politics",
-        "title": "Campaign-style Trump ads use money meant for border security, memorials",
+        "title": "Housing Official, Who Targeted Trump Foes, Cuts Watchdog Office",
         "publicationDate": "2026-10-01",
         "category": "Economy",
-        "summary": "The White House Office of Management and Budget added $20 million to the pot for commemorative events a day before DHS awarded an advertising contract of the same amount.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/01/trump-ads-use-money-border-security-slain-officers-memorials/"
+        "summary": "Bill Pulte, director of the Federal Housing Finance Agency, moved to slash his agency’s inspector general’s office. Democrats called for his resignation.",
+        "url": "https://www.nytimes.com/2026/10/01/us/politics/bill-pulte-trump-inspector-general.html"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/01/congress-just-left-town-until-after-midterm-elections/",
-        "source": "Washington Post Politics",
-        "title": "Congress just left town until after the midterm elections",
+        "id": "https://www.nytimes.com/2026/10/01/us/politics/abdul-el-sayed-michigan-senate.html",
+        "source": "New York Times Politics",
+        "title": "Abdul El-Sayed, a Senate candidate in Michigan, Is Still Trying to Unite the Democratic Base",
         "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "Republicans have to campaign without having done much to address the cost of living.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/01/congress-just-left-town-until-after-midterm-elections/"
+        "category": "Michigan",
+        "summary": "The progressive Senate candidate is offering olive branches to Jewish voters and campaigning with Kamala Harris to attract Black voters. Polling shows it may be working.",
+        "url": "https://www.nytimes.com/2026/10/01/us/politics/abdul-el-sayed-michigan-senate.html"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/01/trump-sends-out-500-aca-refunds-letter-promoting-his-record/",
+        "id": "https://www.nytimes.com/2026/10/01/us/politics/trump-coin-experience-questionnaire.html",
+        "source": "New York Times Politics",
+        "title": "Did You Buy $TRUMP Coin? Tell Us Your Experience.",
+        "publicationDate": "2026-10-01",
+        "category": "United States Politics and Government",
+        "summary": "We want to hear from people who bought the $TRUMP memecoin, no matter the reason, and whether they made or lost money.",
+        "url": "https://www.nytimes.com/2026/10/01/us/politics/trump-coin-experience-questionnaire.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/01/trump-starts-campaign-swing-red-states-reflecting-poor-gop-prospects/",
         "source": "Washington Post Politics",
-        "title": "Trump sends out $500 ACA refunds and a letter promoting his record",
+        "title": "Trump embarks on rally blitz, hoping to energize GOP voters",
         "publicationDate": "2026-10-01",
         "category": "Other",
-        "summary": "The rebate checks are headed to nearly 1 million people President Donald Trump says were overcharged under the Affordable Care Act.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/01/trump-sends-out-500-aca-refunds-letter-promoting-his-record/"
+        "summary": "Trump’s low standing with voters limits the places he can most effectively campaign. Advisers hope he can energize GOP voters.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/01/trump-starts-campaign-swing-red-states-reflecting-poor-gop-prospects/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/national-security/2026/10/01/trump-illegally-fired-seattles-us-attorney-judge-says/",
+        "source": "Washington Post Politics",
+        "title": "Trump illegally fired Seattle’s U.S. attorney, judge rules",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "The ruling is the latest in a string of decisions finding that the administration bent federal law to keep loyalists in key prosecutorial posts.",
+        "url": "https://www.washingtonpost.com/national-security/2026/10/01/trump-illegally-fired-seattles-us-attorney-judge-says/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/01/larry-nassar-among-thousands-sex-offenders-removed-michigan-registry/",
+        "source": "Washington Post Politics",
+        "title": "Larry Nassar among thousands of sex offenders removed from Michigan registry",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "The state struck 20,000 names from the public database after a ruling by the state’s highest court.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/01/larry-nassar-among-thousands-sex-offenders-removed-michigan-registry/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/national-security/2026/10/01/man-charged-with-harassing-katie-miller/",
+        "source": "Washington Post Politics",
+        "title": "DOJ charges Boston man with threatening conservative podcaster Katie Miller",
+        "publicationDate": "2026-10-01",
+        "category": "Other",
+        "summary": "Federal authorities on Thursday charged a Boston-area man with harassing Katie Miller, a conservative podcaster and wife of Trump aide Stephen Miller.",
+        "url": "https://www.washingtonpost.com/national-security/2026/10/01/man-charged-with-harassing-katie-miller/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/national-security/2026/10/01/trump-defies-democrats-diverts-aid-europe-latin-america-instead/",
+        "source": "Washington Post Politics",
+        "title": "Trump defies Democrats, diverts aid for Europe to Latin America instead",
+        "publicationDate": "2026-10-01",
+        "category": "Foreign Policy",
+        "summary": "The diverted funds include tens of millions of dollars that Congress approved for countries affected by the war in Ukraine.",
+        "url": "https://www.washingtonpost.com/national-security/2026/10/01/trump-defies-democrats-diverts-aid-europe-latin-america-instead/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
@@ -387,31 +414,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-        "publicationDate": "2026-10-01",
-        "category": "Defense",
-        "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/e567ed25-d871-44ac-ad39-aee135eeb6d6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Investigative outlet deepens antisemitism claims against French far right’s Jordan Bardella",
+        "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
         "publicationDate": "2026-10-01",
         "category": "Other",
-        "summary": "Rassemblement National leader and Marine Le Pen’s right-hand man criticises report’s ‘so-called proof’ of his messages as a young activist",
-        "url": "https://www.ft.com/content/e567ed25-d871-44ac-ad39-aee135eeb6d6?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a85c5d06-5f8d-4163-8cd6-e42df9f137cb?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "British-Iranian man arrested under terror laws over RAF Fairford incident",
-        "publicationDate": "2026-10-01",
-        "category": "Foreign Policy",
-        "summary": "Sixth arrest comes after prime minister says there is ‘strong indications’ of Tehran’s involvement",
-        "url": "https://www.ft.com/content/a85c5d06-5f8d-4163-8cd6-e42df9f137cb?syn-25a6b1a6=1"
+        "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+        "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/9a6e17fe-55e4-4a6d-8761-8346ec765ba9?syn-25a6b1a6=1",
@@ -419,26 +428,26 @@
         "title": "Burnham searches for UK alternative to Palantir",
         "publicationDate": "2026-10-01",
         "category": "Healthcare",
-        "summary": "Prime minister’s ‘buy British’ push triggers hunt to find replacement for controversial US tech group awarded health service and defence contracts",
+        "summary": "Prime minister’s ‘Buy British’ push triggers hunt to find replacement for controversial US tech group awarded health service and defence contracts",
         "url": "https://www.ft.com/content/9a6e17fe-55e4-4a6d-8761-8346ec765ba9?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/04992c30-21da-46f3-8b95-ca82b2791521?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/08eeee4a-903b-4889-92ef-61ebaeea682a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Europe braces for ‘severe hybrid attacks’ from Russia, says Merz",
-        "publicationDate": "2026-10-01",
-        "category": "Foreign Policy",
-        "summary": "German chancellor says Moscow’s escalation shows ‘desperation’ over the war in Ukraine",
-        "url": "https://www.ft.com/content/04992c30-21da-46f3-8b95-ca82b2791521?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US mortgage rates jump the most in four years in blow to housing market",
+        "title": "Nike to cut jobs as it forecasts revenue decline in the coming year",
         "publicationDate": "2026-10-01",
         "category": "Other",
-        "summary": "Homebuilders and prospective buyers continue to face challenging market conditions with midterms looming weeks away",
-        "url": "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1"
+        "summary": "US sneaker and sportswear group to open an India campus under its turnaround plan",
+        "url": "https://www.ft.com/content/08eeee4a-903b-4889-92ef-61ebaeea682a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran",
+        "publicationDate": "2026-10-01",
+        "category": "Foreign Policy",
+        "summary": "Payments group that moved almost $7bn through global banks designated a transnational criminal organisation",
+        "url": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5192-1.html",
@@ -466,15 +475,6 @@
         "category": "Defense",
         "summary": "With this analysis, the authors identify the conditions under which restraint is feasible and sustainable, as well as show how these conditions shift as states come to believe that they are close to attaining artificial general intelligence.",
         "url": "https://www.rand.org/pubs/research_reports/RRA5163-1.html"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/presidents-inbox/the-seven-questions-every-military-strategist-must-ask",
-        "source": "Council on Foreign Relations",
-        "title": "The Seven Questions Every Military Strategist Must Ask",
-        "publicationDate": "2026-09-30",
-        "category": "Defense",
-        "summary": "We Discuss: Mentioned on the Episode: James M. Lindsay, “The 10 Best and 10 Worst U.S. Foreign Policy Decisions,” CFR.org Carl von Clausewitz, On War, Princeton University Press Eliot A. Cohen, The Strategist: How to Think About War and Politics, Princeton University Press Robert W. Komer, Bureaucracy Does Its Thing: Institutional Constraints on U.S.-GVN Performance […]",
-        "url": "https://www.cfr.org/podcasts/presidents-inbox/the-seven-questions-every-military-strategist-must-ask"
     },
     {
         "id": "https://www.heritage.org/conservatism/commentary/dear-gen-z-reagan-not-relic",
@@ -585,48 +585,48 @@
         "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
     },
     {
-        "id": "98-429",
+        "id": "R44768",
         "source": "Congressional Research Service",
-        "title": "The Senate’s Calendar of Business",
-        "publicationDate": "2017-04-21",
-        "category": "Other",
-        "summary": "The Senate’s Calendar of Business lists bills, resolutions, and other items of legislative business that are eligible for floor consideration. When a Senate committee reports a bill, it is said to be placed “on the calendar.” It is not in order for the majority leader or any other Senator to move that the Senate proceed to the consideration of a measure that is not on the calendar, though the majority leader could...",
-        "url": "https://www.congress.gov/crs_external_products/RS/PDF/98-429/98-429.14.pdf"
+        "title": "“Dear Colleague” Letters in the House of Representatives: Past Practices and Issues for Congress",
+        "publicationDate": "2017-02-22",
+        "category": "Foreign Policy",
+        "summary": "The practice of one Member, committee, or office broadly corresponding to other Members, committee, or officers dates back to at least the 1800s. At least as early as 1913, this correspondence was labeled as “Dear Colleague” letters. Since 2003, it has been possible to track the volume of House “Dear Colleague” letters sent through an email-based distribution system (from 2003 to 2008) and a web-based distribution...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44768/R44768.3.pdf"
     },
     {
-        "id": "R44773",
+        "id": "R41604",
         "source": "Congressional Research Service",
-        "title": "The Scalia Vacancy in Historical Context: Frequently Asked Questions",
-        "publicationDate": "2017-03-01",
-        "category": "Other",
-        "summary": "The procedure for appointing a Justice to the Supreme Court of the United States is provided for by the Constitution in only a few words. The “Appointments Clause” (Article II, Section 2, clause 2) states that the President “shall nominate, and by and with the Advice and Consent of the Senate shall appoint ... Judges of the supreme Court.” The process of appointing Justices has undergone changes over two centuries,...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44773/R44773.3.pdf"
-    },
-    {
-        "id": "R44769",
-        "source": "Congressional Research Service",
-        "title": "Provisions Affecting the Congressional Budget Process Included in H.Res. 5 (115th Congress)",
-        "publicationDate": "2017-02-23",
+        "title": "Proposals to Eliminate Public Financing of Presidential Campaigns",
+        "publicationDate": "2017-02-07",
         "category": "Economy",
-        "summary": "On January 3, 2017, the House passed H.Res. 5, adopting the standing rules for the House of Representatives for the 115th Congress. In addition to the standing rules, H.Res. 5 included several separate orders. This report provides information on the standing rules and separate orders that might affect the congressional budget process.",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44769/R44769.3.pdf"
+        "summary": "Recent Congresses have debated whether or how to maintain the presidential public financing program, which consisted of financing for candidates and nominating conventions until 2014. The 113th Congress eliminated public financing of nominating conventions. Amid this backdrop, there is consensus that, with no change in the status quo, the most competitive presidential candidates—who may still choose to accept...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R41604/R41604.26.pdf"
     },
     {
-        "id": "R44763",
+        "id": "98-427",
         "source": "Congressional Research Service",
-        "title": "Present Trends and the Evolution of Mandatory Spending",
-        "publicationDate": "2017-01-31",
-        "category": "Defense",
-        "summary": "Federal spending is divided into three broad categories: discretionary spending, mandatory spending, and net interest. Mandatory spending is composed of budget outlays controlled by laws other than appropriation acts, including federal spending on entitlement programs. Entitlement programs such as Social Security, Medicare, and Medicaid make up the bulk of mandatory spending. Other mandatory spending funds various...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44763/R44763.3.pdf"
+        "title": "Considering Measures in the House Under the OneHour Rule",
+        "publicationDate": "2017-01-23",
+        "category": "Other",
+        "summary": "The fundamental rule of the House of Representatives governing debate is the one-hour rule. Clause 2 of Rule XVII states in part that no one shall “occupy more than one hour in debate on a question in the House.” When the House debates a bill on the floor under this rule, the bill is said to be considered “in the House.” The House considers bills on the floor under the one-hour rule unless it resorts to one of the...",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/98-427/98-427.8.pdf"
     },
     {
-        "id": "R44732",
+        "id": "R44159",
         "source": "Congressional Research Service",
-        "title": "Biennial Budgeting: Issues, Options, and Congressional Actions",
-        "publicationDate": "2017-01-10",
+        "title": "The Excise Tax on High-Cost Employer-Sponsored Health Insurance: Estimated Economic and Market Effects",
+        "publicationDate": "2017-01-12",
         "category": "Economy",
-        "summary": "Difficulties in the timely enactment of budgetary legislation have long fueled interest in the idea that the congressional budget process could be better structured in a way that eases time constraints. The need for consideration of budget matters in the form of concurrent resolutions on the budget, reconciliation measures, tax measures, public debt measures, authorizations, regular appropriations, continuing...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44732/R44732.3.pdf"
+        "summary": "The Patient Protection and Affordable Care Act (ACA; P.L. 111-148, as amended) included a provision to impose an excise tax on high-cost employer-sponsored insurance (ESI) coverage beginning in 2018 (recently delayed until 2020). This provision, popularly termed the Cadillac tax, imposes an excise tax on ESI coverage in excess of a predetermined threshold. The tax is imposed on the coverage provider, typically the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44159/R44159.7.pdf"
+    },
+    {
+        "id": "R44734",
+        "source": "Congressional Research Service",
+        "title": "How Legislation Is Brought to the House Floor: A Snapshot of Parliamentary Practice in the 114th Congress (2015-2016)",
+        "publicationDate": "2017-01-11",
+        "category": "Other",
+        "summary": "The House of Representatives has several different parliamentary procedures through which it can bring legislation to the chamber floor. Which of these will be used in a given situation depends on many factors, including the type of measure being considered, its cost, the amount of political or policy controversy surrounding it, and the degree to which Members want to debate it and propose amendments. This report...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44734/R44734.3.pdf"
     }
 ]
