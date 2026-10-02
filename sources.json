@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA5050-1.html",
+        "source": "RAND Corporation",
+        "title": "AI Data Center Siting on Federal Lands",
+        "publicationDate": "2026-10-02",
+        "category": "Other",
+        "summary": "The U.S. government is opening federal land for data center development. In this report, the authors explore how the government could facilitate the siting and construction of data centers on federal land within the context of energy constraints.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5050-1.html"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA3545-1.html",
         "source": "RAND Corporation",
         "title": "Sexual Assault and Sexual Harassment in the Coast Guard",
@@ -9,13 +18,58 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3545-1.html"
     },
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5050-1.html",
-        "source": "RAND Corporation",
-        "title": "AI Data Center Siting on Federal Lands",
+        "id": "https://www.cfr.org/articles/lessons-from-anniversaries-october-7-three-years-on",
+        "source": "Council on Foreign Relations",
+        "title": "Lessons From Anniversaries: October 7, Three Years On",
+        "publicationDate": "2026-10-02",
+        "category": "Article",
+        "summary": "CFR President Michael Froman reflects on the third anniversary of Hamas’s October 7, 2023, attacks on southern Israel, and how the Middle East has changed since.",
+        "url": "https://www.cfr.org/articles/lessons-from-anniversaries-october-7-three-years-on"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-u-s-supreme-court-rules-on-mail-ballots-congressional-maps-and-the-save-database",
+        "source": "Council on Foreign Relations",
+        "title": "The U.S. Supreme Court Rules on Mail Ballots, Congressional Maps, and the SAVE Database",
+        "publicationDate": "2026-10-02",
+        "category": "Article",
+        "summary": "Two U.S. Supreme Court decisions handed down last month provided some much-needed clarity on 2026 election rules while a third opened the door to some uncertainty.",
+        "url": "https://www.cfr.org/articles/the-u-s-supreme-court-rules-on-mail-ballots-congressional-maps-and-the-save-database"
+    },
+    {
+        "id": "https://www.heritage.org/crime-and-justice/commentary/another-win-the-task-force-eliminate-fraud",
+        "source": "Heritage Foundation",
+        "title": "Another Win for the Task Force To Eliminate Fraud",
+        "publicationDate": "2026-10-02",
+        "category": "Economy",
+        "summary": "The Trump administration’s Task Force to Eliminate Fraud has claimed another victory. It recently announced that it’s removing more than 760,000 unverified “phantom” enrollees from the rolls of the Affordable Care Act (ACA), resulting in $2.2 billion in savings. This Task Force was established in March to weed out fraud across various departments and agencies. Its Fraud Ledger tracks and tallies fraud across...",
+        "url": "https://www.heritage.org/crime-and-justice/commentary/another-win-the-task-force-eliminate-fraud"
+    },
+    {
+        "id": "https://www.heritage.org/defense/commentary/why-the-us-navy-needs-escort-carriers",
+        "source": "Heritage Foundation",
+        "title": "Why the U.S. Navy Needs Escort Carriers",
+        "publicationDate": "2026-10-02",
+        "category": "Defense",
+        "summary": "“When word of crisis breaks out in Washington, it’s no accident that the first question that comes to everyone’s lips is, where is the nearest carrier?” President Bill Clinton said that to the crew of the USS Theodore Roosevelt in 1993, but it’s just as true today. Aircraft carriers have long played a crucial role in our Navy’s ability to project power globally. But they must adapt as threats and technology change....",
+        "url": "https://www.heritage.org/defense/commentary/why-the-us-navy-needs-escort-carriers"
+    },
+    {
+        "id": "https://cms.hoover.org/research-teams/human-security-project/people",
+        "source": "Hoover Institution",
+        "title": "Human Security Project People",
         "publicationDate": "2026-10-02",
         "category": "Other",
-        "summary": "The U.S. government is opening federal land for data center development. In this report, the authors explore how the government could facilitate the siting and construction of data centers on federal land within the context of energy constraints.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5050-1.html"
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/research-teams/human-security-project/people"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+        "source": "NPR Politics",
+        "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+        "publicationDate": "2026-10-02",
+        "category": "Other",
+        "summary": "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year.",
+        "url": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters"
     },
     {
         "id": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
@@ -45,94 +99,166 @@
         "url": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers"
     },
     {
-        "id": "https://thehill.com/opinion/campaign/6123726-trump-taxpayer-campaign-ads/",
-        "source": "The Hill",
-        "title": "Trump's taxpayer-funded propaganda is blatantly illegal",
+        "id": "https://www.pbs.org/newshour/nation/new-ice-guidance-bans-high-speed-car-chases-and-sets-tighter-rules-for-traffic-stops-memo-shows",
+        "source": "PBS NewsHour Politics",
+        "title": "New ICE guidance bans high-speed car chases and sets tighter rules for traffic stops, memo shows",
         "publicationDate": "2026-10-02",
-        "category": "Economy",
-        "summary": "Trump has already spent $2.5 million running these ads, of your taxpayer dollars. Before he’s done, he’s planning to spend at least 20 million on them.",
-        "url": "https://thehill.com/opinion/campaign/6123726-trump-taxpayer-campaign-ads/"
+        "category": "Donald Trump news",
+        "summary": "The new guidance comes after ICE-initiated vehicle stops have repeatedly escalated when drivers have refused to cooperate or tried to flee. ICE agents have fired their guns during more than a dozen such encounters since last year, killing at least four people and wounding several others.",
+        "url": "https://www.pbs.org/newshour/nation/new-ice-guidance-bans-high-speed-car-chases-and-sets-tighter-rules-for-traffic-stops-memo-shows"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/kennedy-center-honors-to-be-held-at-capital-one-arena-amid-fight-over-adding-trumps-name",
+        "source": "PBS NewsHour Politics",
+        "title": "Kennedy Center Honors to be held at Capital One Arena amid fight over adding Trump's name",
+        "publicationDate": "2026-10-02",
+        "category": "kennedy center",
+        "summary": "The 49th annual awards are set to take place at Washington's downtown arena, a Kennedy Center spokesperson said Friday. Few other details were immediately available, and an explanation for the change wasn't given.",
+        "url": "https://www.pbs.org/newshour/politics/kennedy-center-honors-to-be-held-at-capital-one-arena-amid-fight-over-adding-trumps-name"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/world/hegseth-creates-a-pentagon-office-of-religious-affairs-that-reports-directly-to-him",
+        "source": "PBS NewsHour Politics",
+        "title": "Hegseth creates a Pentagon Office of Religious Affairs that reports directly to him",
+        "publicationDate": "2026-10-02",
+        "category": "Defense",
+        "summary": "Defense Secretary Pete Hegseth has infused his evangelical Christianity into his leadership of the Pentagon, hosting Christian worship services for employees and often speaking of the United States as a Christian nation.",
+        "url": "https://www.pbs.org/newshour/world/hegseth-creates-a-pentagon-office-of-religious-affairs-that-reports-directly-to-him"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/senate-republicans-move-cash-from-north-carolina-to-kansas-as-battle-for-majority-shifts",
+        "source": "PBS NewsHour Politics",
+        "title": "AP report: Senate Republicans move cash from North Carolina to Kansas as battle for majority shifts",
+        "publicationDate": "2026-10-02",
+        "category": "Kansas",
+        "summary": "The moves offer a stark sign of how dramatically the Senate map has shifted just a month before midterm elections that will determine control of Congress.",
+        "url": "https://www.pbs.org/newshour/politics/senate-republicans-move-cash-from-north-carolina-to-kansas-as-battle-for-majority-shifts"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-rally-in-alabama-as-he-tries-to-boost-up-midterm-enthusiasm",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Trump holds rally in Alabama as he tries to boost midterm enthusiasm",
+        "publicationDate": "2026-10-02",
+        "category": "Foreign Policy",
+        "summary": "Republicans have expressed growing pessimism about their chances in the election, which will determine control of Congress, as the president has repeatedly dismissed concerns about high costs and gas prices as his unpopular war in Iran drags on.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-rally-in-alabama-as-he-tries-to-boost-up-midterm-enthusiasm"
+    },
+    {
+        "id": "https://thehill.com/business/6126321-paramount-warner-bros-merger-name-reveal/",
+        "source": "The Hill",
+        "title": "Paramount, Warner Bros. reveal new name",
+        "publicationDate": "2026-10-02",
+        "category": "Business",
+        "summary": "Once the Paramount and Warner Bros. merger is finalized, the resulting media empire will fall under a new name.",
+        "url": "https://thehill.com/business/6126321-paramount-warner-bros-merger-name-reveal/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6126476-grassley-urges-trump-kratom-rule/",
+        "source": "The Hill",
+        "title": "Grassley calls on Trump administration to ban kratom \"NOW\"",
+        "publicationDate": "2026-10-02",
+        "category": "Senate",
+        "summary": "Sen. Chuck Grassley (D-Iowa) on Friday called on the Trump administration to finalize its proposed rule limiting the sale of kratom, a plant with opioid-like properties that can be bought over the counter. \"All Kratom is deadly it should NOT be sold at gas stations/vape stores/ANYWHERE Admin needs 2 put out final 7OH rule NOW...",
+        "url": "https://thehill.com/homenews/senate/6126476-grassley-urges-trump-kratom-rule/"
     },
     {
         "id": "https://thehill.com/homenews/administration/6124876-live-updates-trump-alabama-rally-jobs-report-cornell-case/",
         "source": "The Hill",
-        "title": "Live updates: Trump brings red state campaign blitz to Alabama; jobs report comes in low",
+        "title": "Live updates: Trump brings red state blitz to Alabama; Vance plans Alaska campaign trip",
         "publicationDate": "2026-10-02",
         "category": "Administration",
-        "summary": "President Trump will hold a midterm rally in Mobile, Ala., on Friday evening after making similar appearances in Oklahoma and Texas just the day prior. It's the latest stop in Trump's multiday campaign blitz as Republicans are locked in close races ahead of November's midterms — and both the president's and his party's approval ratings...",
+        "summary": "President Trump will hold a midterm rally in Mobile, Ala., Friday evening after making similar appearances in Oklahoma and Texas just the day prior. It's the latest stop in Trump's multiday campaign blitz as Republicans are locked in close races ahead of November's midterms — and both the president's and his party's approval ratings have...",
         "url": "https://thehill.com/homenews/administration/6124876-live-updates-trump-alabama-rally-jobs-report-cornell-case/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6125279-doj-arrest-massachusetts-man-katie-miller-cyberstalking/",
+        "id": "https://thehill.com/homenews/administration/6126569-justice-department-sues-maryland-over-federal-agent-mask-ban/",
         "source": "The Hill",
-        "title": "Man charged with cyberstalking Katie Miller",
+        "title": "Justice Department sues Maryland over federal agent mask ban",
         "publicationDate": "2026-10-02",
-        "category": "Technology",
-        "summary": "A Massachusetts man was arrested Thursday and charged with cyberstalking conservative podcaster Katie Miller, the wife of White House deputy chief of staff Stephen Miller, after prosecutors alleged that he repeatedly called and texted her for weeks. John Anthony Proia III, 41, was indicted on one count of cyberstalking over what prosecutors described as a...",
-        "url": "https://thehill.com/homenews/administration/6125279-doj-arrest-massachusetts-man-katie-miller-cyberstalking/"
+        "category": "Administration",
+        "summary": "The Justice Department sued Maryland on Thursday over a new law barring federal law enforcement officers from wearing masks and requiring them to identify themselves while working in the Old Line State. The complaint, filed the same day the law took effect, argues that Maryland and two of its largest counties are illegally attempting to...",
+        "url": "https://thehill.com/homenews/administration/6126569-justice-department-sues-maryland-over-federal-agent-mask-ban/"
     },
     {
-        "id": "https://thehill.com/policy/international/6125316-flydubai-pilot-smit-machchhar-emergency-landing/",
+        "id": "https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/",
         "source": "The Hill",
-        "title": "FlyDubai pilot on cockpit attack: 'I was fighting for my life'",
+        "title": "NASA's dexterous humanoid robots built to assist humans on the moon",
         "publicationDate": "2026-10-02",
-        "category": "Foreign Policy",
-        "summary": "The Indian pilot stabbed by his copilot in an apparent attempt to crash a FlyDubai aircraft recounted how he fought to save the 182 people on board. Airline Capt. Smit Machchhar told Indian Prime Minister Narendra Modi in a video call released by the prime minister’s office on Friday that he was “fighting for my...",
-        "url": "https://thehill.com/policy/international/6125316-flydubai-pilot-smit-machchhar-emergency-landing/"
+        "category": "Space",
+        "summary": "The objective of NASA's machines is to act as a hands-on support team for the crew while on the moon.",
+        "url": "https://thehill.com/homenews/space/6125133-nasa-dexterous-humanoid-robots-future-moon-missions/"
     },
     {
-        "id": "https://thehill.com/business/6123510-us-economy-jobs-report-september-bls/",
-        "source": "The Hill",
-        "title": "US economy added 29,000 jobs in September: BLS",
+        "id": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
+        "source": "New York Times Politics",
+        "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
         "publicationDate": "2026-10-02",
         "category": "Economy",
-        "summary": "The U.S. economy added 29,000 jobs in September, according to new data released Friday by the Bureau of Labor Statistics (BLS). The unemployment rate also ticked up slightly to 4.2 percent, the BLS reported. The economy added 162,000 jobs in August, after employers added 31,000 and 21,000 jobs in June and July, respectively. But BLS...",
-        "url": "https://thehill.com/business/6123510-us-economy-jobs-report-september-bls/"
+        "summary": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants.",
+        "url": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/02/us/politics/guantanamo-uss-cole-case.html",
+        "source": "New York Times Politics",
+        "title": "Unusual Issues in Court at Guantánamo Stand Out as a Case Finally Heads to Trial",
+        "publicationDate": "2026-10-02",
+        "category": "Defense",
+        "summary": "Prosecutors want remote testimony for witnesses unable or unwilling to travel to Guantánamo. The defense wants jurors to be told that, guilty or innocent, the defendant will not go free.",
+        "url": "https://www.nytimes.com/2026/10/02/us/politics/guantanamo-uss-cole-case.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html",
+        "source": "New York Times Politics",
+        "title": "Trump to Name Jay Clayton to Serve as A.I. Czar",
+        "publicationDate": "2026-10-02",
+        "category": "Defense",
+        "summary": "The director of national intelligence will help develop new policies, and potentially regulations, for the rapidly evolving technology.",
+        "url": "https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/02/us/politics/lawsuits-democrats-republicans-post-election-challenges.html",
+        "source": "New York Times Politics",
+        "title": "Flurry of Lawsuits Shows Both Parties Preparing for Post-Election Challenges",
+        "publicationDate": "2026-10-02",
+        "category": "Republican Party",
+        "summary": "Republicans are using the courts to hunt for noncitizen voters. Democrats worry the G.O.P. is trying make it harder for eligible voters to cast ballots — and paving the way to try to toss valid election results.",
+        "url": "https://www.nytimes.com/2026/10/02/us/politics/lawsuits-democrats-republicans-post-election-challenges.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html",
         "source": "New York Times Politics",
-        "title": "As Gas Prices Rose, Sales of Larger Vehicles Slid",
+        "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
         "publicationDate": "2026-10-02",
         "category": "Automobiles",
         "summary": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars.",
         "url": "https://www.nytimes.com/2026/10/02/business/auto-sales-pickup-trucks-suvs.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html",
-        "source": "New York Times Politics",
-        "title": "Are Democrats Worried About the Wrong Rich People?",
+        "id": "https://www.washingtonpost.com/politics/2026/10/02/talarico-paxton-launch-dueling-ads-heated-senate-race-texas/",
+        "source": "Washington Post Politics",
+        "title": "Talarico, Paxton launch dueling ads amid heated Senate race in Texas",
         "publicationDate": "2026-10-02",
-        "category": "United States Politics and Government",
-        "summary": "As billionaires become a popular political target, a new book urges Washington not to lose sight of a much larger, and quieter, group of wealthy business owners.",
-        "url": "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html"
+        "category": "Other",
+        "summary": "Both contenders are airing spots intended to address perceived vulnerabilities.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/02/talarico-paxton-launch-dueling-ads-heated-senate-race-texas/"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html",
-        "source": "New York Times Politics",
-        "title": "AIPAC Is Spending Millions to Elect Friends. It’s Also Making Enemies.",
+        "id": "https://www.washingtonpost.com/politics/2026/10/02/top-republican-group-shifts-money-nc-kansas-gop-woes-worsen/",
+        "source": "Washington Post Politics",
+        "title": "Top Senate GOP-aligned super PAC pauses N.C. spending, in sign of deepening woes",
         "publicationDate": "2026-10-02",
-        "category": "American Israel Public Affairs Committee",
-        "summary": "The American Israel Public Affairs Committee has increasingly become a campaign issue unto itself. Some candidates have worn opposition from AIPAC as a badge of honor or made a point of rejecting the group’s support.",
-        "url": "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html"
+        "category": "Other",
+        "summary": "The Senate Leadership Fund’s pulling money from North Carolina is the latest signal the Republican Party is giving up hope of holding that Senate seat.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/02/top-republican-group-shifts-money-nc-kansas-gop-woes-worsen/"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html",
-        "source": "New York Times Politics",
-        "title": "Trump Puts on a Midterms Show for an Audience That’s Already Sold",
+        "id": "https://www.washingtonpost.com/politics/2026/10/02/how-trump-keeps-embracing-ai/",
+        "source": "Washington Post Politics",
+        "title": "How Trump keeps embracing AI",
         "publicationDate": "2026-10-02",
-        "category": "United States Politics and Government",
-        "summary": "President Trump spent the day preaching to his most fervent fans, not the voters he will need to help elect or re-elect a slate of Republicans fighting in states from Alaska to Maine.",
-        "url": "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/01/us/politics/military-civilian-deaths-in-war.html",
-        "source": "New York Times Politics",
-        "title": "Military Leaders Will Examine Ways to Limit Civilian Deaths in War",
-        "publicationDate": "2026-10-02",
-        "category": "Defense",
-        "summary": "U.S. Central Command will hold a daylong conference at its Tampa headquarters after seven months of war in Iran.",
-        "url": "https://www.nytimes.com/2026/10/01/us/politics/military-civilian-deaths-in-war.html"
+        "category": "Other",
+        "summary": "And what else happened this week under his administration.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/02/how-trump-keeps-embracing-ai/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/10/02/midterm-polls-that-caught-our-eye-this-week-show-more-good-news-democrats/",
@@ -153,31 +279,22 @@
         "url": "https://www.washingtonpost.com/politics/2026/10/02/democrats-expand-battleground-house-reaching-into-blood-red-districts/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/02/dems-are-running-against-one-big-beautiful-bill-what-can-they-if-they-win/",
-        "source": "Washington Post Politics",
-        "title": "Dems are running against the One Big Beautiful Bill. What can they do if they win?",
+        "id": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Riot police clash with students as education protests rage in France",
         "publicationDate": "2026-10-02",
         "category": "Other",
-        "summary": "Could a Democratic-led House actually do anything about the One Big Beautiful Bill Act? Maybe not.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/02/dems-are-running-against-one-big-beautiful-bill-what-can-they-if-they-win/"
+        "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/02/sanders-ocasio-cortez-debut-bill-crack-down-flock-cameras/",
-        "source": "Washington Post Politics",
-        "title": "Sanders, Ocasio-Cortez debut bill to crack down on Flock cameras",
-        "publicationDate": "2026-10-02",
-        "category": "Technology",
-        "summary": "The legislation is part of a bipartisan backlash against a technology that has been abused by law enforcement.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/02/sanders-ocasio-cortez-debut-bill-crack-down-flock-cameras/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/01/trump-starts-campaign-swing-red-states-reflecting-poor-gop-prospects/",
-        "source": "Washington Post Politics",
-        "title": "Trump embarks on rally blitz, hoping to energize GOP voters",
+        "id": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
         "publicationDate": "2026-10-02",
         "category": "Other",
-        "summary": "Trump’s low standing with voters limits the places he can most effectively campaign. Advisers hope he can energize GOP voters.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/01/trump-starts-campaign-swing-red-states-reflecting-poor-gop-prospects/"
+        "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
@@ -189,67 +306,31 @@
         "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "School protests send shivers down French government's spine",
-        "publicationDate": "2026-10-02",
-        "category": "Other",
-        "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
-        "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-        "publicationDate": "2026-10-02",
-        "category": "Other",
-        "summary": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "'Ashamed': Cornell students gather to voice anger over alleged gang rape",
-        "publicationDate": "2026-10-02",
-        "category": "Other",
-        "summary": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
-        "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
         "publicationDate": "2026-10-02",
         "category": "Foreign Policy",
-        "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
+        "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/93028839-5f0e-43c4-8ee7-44990115ea57?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Investors seek refuge from bond rout in haven German debt",
-        "publicationDate": "2026-10-02",
-        "category": "Economy",
-        "summary": "Bund yields have fallen this week even as US, French and other governments’ bonds have sold off sharply over inflation fears",
-        "url": "https://www.ft.com/content/93028839-5f0e-43c4-8ee7-44990115ea57?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/db7af59f-d434-498c-a460-4f7ed2fa6abd?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Obama’s red herring",
+        "id": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
         "publicationDate": "2026-10-02",
         "category": "Other",
-        "summary": "Democrats should ignore the former president’s advice to focus less on economic issues",
-        "url": "https://www.ft.com/content/db7af59f-d434-498c-a460-4f7ed2fa6abd?syn-25a6b1a6=1"
+        "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+        "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/4d0293d8-2f50-4f33-8fa3-702e48df0386?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/7128ce19-5ea0-4d5d-9d47-1270404831a7",
         "source": "Financial Times World",
-        "title": "I’m even more bullish about stocks than a year ago",
+        "title": "Treasuries are losing their moneyness",
         "publicationDate": "2026-10-02",
         "category": "Other",
-        "summary": "Then again, I’d sold everything by the end of last October, so don’t listen to me",
-        "url": "https://www.ft.com/content/4d0293d8-2f50-4f33-8fa3-702e48df0386?syn-25a6b1a6=1"
+        "summary": "For four decades, US government bonds have been both securities and money. They may no longer be that special",
+        "url": "https://www.ft.com/content/7128ce19-5ea0-4d5d-9d47-1270404831a7"
     },
     {
         "id": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1",
@@ -257,17 +338,35 @@
         "title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
         "publicationDate": "2026-10-02",
         "category": "Economy",
-        "summary": "Figure prompts traders to rein in bets on Fed rate rises",
+        "summary": "Figure renews market debate about outlook for further Fed rate rises",
         "url": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/8b81e04b-917f-4dda-ac05-83067f7687b1?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/4f2ad4c1-22b0-497b-88c8-197d7f301f79?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Paris Fashion Week confronts luxury’s crisis of desire",
+        "title": "Global bond market steadies after sharp sell-off",
         "publicationDate": "2026-10-02",
         "category": "Other",
-        "summary": "Dries Van Noten channelled 1950s glamazons, Balenciaga offered everyday couture, while Rick Owens transported showgoers to an alternative universe",
-        "url": "https://www.ft.com/content/8b81e04b-917f-4dda-ac05-83067f7687b1?syn-25a6b1a6=1"
+        "summary": "Heavy selling this week pushed 10-year US Treasury yields to their highest level since 2002",
+        "url": "https://www.ft.com/content/4f2ad4c1-22b0-497b-88c8-197d7f301f79?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/bab346fd-7839-4812-ab27-19309e317938?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU pushes Ukraine for further reforms to unlock funding",
+        "publicationDate": "2026-10-02",
+        "category": "Foreign Policy",
+        "summary": "Brussels rebuffs request for additional support this year as Kyiv’s parliament struggles to pass promised changes",
+        "url": "https://www.ft.com/content/bab346fd-7839-4812-ab27-19309e317938?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/0889f36e-cbd6-4df5-a917-9fbb89071a7e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How to meet Burnham’s ambitions on social care",
+        "publicationDate": "2026-10-02",
+        "category": "Other",
+        "summary": "A radical change in culture and systems will be as important as funding",
+        "url": "https://www.ft.com/content/0889f36e-cbd6-4df5-a917-9fbb89071a7e?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5222-1.html",
@@ -306,24 +405,6 @@
         "url": "https://www.cfr.org/articles/world-leaders-at-cfr-highlights-from-unga-2026"
     },
     {
-        "id": "https://www.cfr.org/podcasts/why-it-matters/how-demand-for-glp-1s-overwhelmed-the-global-drug-system",
-        "source": "Council on Foreign Relations",
-        "title": "How Demand for GLP-1s Overwhelmed the Global Drug System",
-        "publicationDate": "2026-10-01",
-        "category": "Healthcare",
-        "summary": "Read More: “6 Facts About Obesity and Weight Loss Drugs In the U.S.,” Pew Research Center “The Expanding Benefits of GLP-1 Medicines,” Cell Reports Medicine “Obesity Drugs Are Scaling Fast,” Morgan Stanley “FDA’s Concerns with Unapproved GLP-1 Drugs Used for Weight Loss,” U.S. Food and Drug Administration (FDA) ​​Want to keep up with Why It […]",
-        "url": "https://www.cfr.org/podcasts/why-it-matters/how-demand-for-glp-1s-overwhelmed-the-global-drug-system"
-    },
-    {
-        "id": "https://www.cfr.org/articles/global-monetary-policy-tracker",
-        "source": "Council on Foreign Relations",
-        "title": "Global Monetary Policy Tracker",
-        "publicationDate": "2026-10-01",
-        "category": "Article",
-        "summary": "CFR’s Global Monetary Policy Tracker compiles data from 54 countries around the world to highlight significant global trends in monetary policy. Who is tightening policy? Who is loosening policy? And what is the policy stance of the world as a whole?",
-        "url": "https://www.cfr.org/articles/global-monetary-policy-tracker"
-    },
-    {
         "id": "https://www.heritage.org/budget-and-spending/commentary/federal-government-leviathan-grows-one-5000-dividend-time",
         "source": "Heritage Foundation",
         "title": "Federal Government Leviathan Grows One $5,000 “Dividend” at a Time",
@@ -342,13 +423,13 @@
         "url": "https://www.heritage.org/border-security/commentary/why-legacy-newspaper-siding-illegal-aliens-over-american-citizens"
     },
     {
-        "id": "https://www.hudson.org/national-security-defense/case-us-european-defense-base-integration-peter-rough",
+        "id": "https://www.hudson.org/national-security-defense/case-us-european-defense-base-integration-peter-rough-tomas-pojar",
         "source": "Hudson Institute",
         "title": "The Case for US-European Defense Base Integration",
         "publicationDate": "2026-10-01",
         "category": "Defense",
-        "summary": "The Case for US-European Defense Base Integration bbert@hudson.org Thu, 10/01/2026 - 10:10 SVG Commentary Sep 30, 2026 National Interest The Case for US-European Defense Base Integration To maintain their technological edge and production scale, the US and European defense sectors should pursue more joint ventures. Peter Rough Senior Fellow and Director, Center on Europe and Eurasia Tomas Pojar Peter Rough & Tomas...",
-        "url": "https://www.hudson.org/national-security-defense/case-us-european-defense-base-integration-peter-rough"
+        "summary": "The Case for US-European Defense Base Integration bbert@hudson.org Thu, 10/01/2026 - 10:10 SVG Commentary Sep 30, 2026 National Interest The Case for US-European Defense Base Integration To maintain their technological edge and production scale, the US and European defense sectors should pursue more joint ventures. Peter Rough Senior Fellow and Director, Center on Europe and Eurasia Tomáš Pojar Senior Fellow...",
+        "url": "https://www.hudson.org/national-security-defense/case-us-european-defense-base-integration-peter-rough-tomas-pojar"
     },
     {
         "id": "https://www.hudson.org/foreign-policy/us-has-run-out-patience-south-africa-visa-bans-are-only-step-one-joshua-meservey",
@@ -396,15 +477,6 @@
         "url": "https://cms.hoover.org/research/between-israel-and-iran-security-strategy-and-future-middle-east"
     },
     {
-        "id": "https://cms.hoover.org/research/fox-news-poll-michigan-voters-split-between-el-sayed-and-rogers",
-        "source": "Hoover Institution",
-        "title": "Fox News Poll: Michigan Voters Split between El-Sayed And Rogers",
-        "publicationDate": "2026-10-01",
-        "category": "Economy",
-        "summary": "“The Michigan Senate race is unique in that short-term political forces favoring the Democrats are somewhat offset by concerns about the Democratic candidate,” says Hoover Institution Daron Shaw. “The bad news for Rogers is El-Sayed has made progress shoring up Democratic support and has room to grow given voter concerns about the economy.”",
-        "url": "https://cms.hoover.org/research/fox-news-poll-michigan-voters-split-between-el-sayed-and-rogers"
-    },
-    {
         "id": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
         "source": "NPR Politics",
         "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
@@ -414,58 +486,31 @@
         "url": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed"
     },
     {
-        "id": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
-        "source": "NPR Politics",
-        "title": "AI data centers: How much are ratepayers on the hook for?",
-        "publicationDate": "2026-10-01",
+        "id": "RS21852",
+        "source": "Congressional Research Service",
+        "title": "The United Arab Emirates (UAE): Issues for U.S. Policy",
+        "publicationDate": "2026-09-30",
+        "category": "Defense",
+        "summary": "The United Arab Emirates (UAE) is a federation of seven principalities or “emirates.” Its population is 10 million, of which nearly 90% are expatriates from within and outside the region who work in its economy. The UAE is a U.S.-designated “major defense partner” that hosts U.S. military personnel at UAE military facilities and buys sophisticated U.S. military equipment, including missile defenses and combat...",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS21852/RS21852.159.pdf"
+    },
+    {
+        "id": "R48864",
+        "source": "Congressional Research Service",
+        "title": "The SUPPORT for Patients and Communities Reauthorization Act of 2025: SectionbySection Summary",
+        "publicationDate": "2026-09-30",
+        "category": "Healthcare",
+        "summary": "The SUPPORT for Patients and Communities Reauthorization Act (P.L. 119-44) was enacted on December 1, 2025. The act primarily reauthorized or amended existing behavioral health (i.e., mental health and substance use) programs originally authorized or reauthorized by the SUPPORT for Patients and Communities Act (SUPPORT Act; P.L. 115-271) in 2018. The SUPPORT Act of 2018 authorized or reauthorized discretionary...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48864/R48864.7.pdf"
+    },
+    {
+        "id": "R49421",
+        "source": "Congressional Research Service",
+        "title": "Connecting Constituents to Information About Census Bureau Surveys: Frequently Asked Questions",
+        "publicationDate": "2026-09-30",
         "category": "Other",
-        "summary": "Data centers consume large amounts of power and require upgrading infrastructure. But it's difficult to determine how much residential customers benefit and how much they actually pay for the benefit.",
-        "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/a-fact-checked-guide-to-trumps-talking-points-and-falsehoods-at-midterm-rallies",
-        "source": "PBS NewsHour Politics",
-        "title": "A fact-checked guide to Trump's talking points and falsehoods at midterm rallies",
-        "publicationDate": "2026-10-01",
-        "category": "2026 Midterms",
-        "summary": "President Donald Trump is hitting the campaign trail to support Republican candidates in toss-up races that will determine which party controls Congress for the final two years of his presidency. Here's a list of more than two dozen go-to Trump statements and how they square for accuracy.",
-        "url": "https://www.pbs.org/newshour/politics/a-fact-checked-guide-to-trumps-talking-points-and-falsehoods-at-midterm-rallies"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/what-we-know-about-tennessees-botched-execution-of-christa-pike",
-        "source": "PBS NewsHour Politics",
-        "title": "What we know about Tennessee's botched execution of Christa Pike",
-        "publicationDate": "2026-10-01",
-        "category": "capital punishment",
-        "summary": "Tennessee officials failed to carry out the lethal injection of death row inmate Christa Pike on Wednesday. Her attorneys say she is alive and in critical condition after being given two separate doses of pentobarbital meant to kill her. Pike was sentenced to death for the gruesome murder of her classmate in 1995. Amna Nawaz discussed more with Deborah Denno, a professor at Fordham School of Law.",
-        "url": "https://www.pbs.org/newshour/show/what-we-know-about-tennessees-botched-execution-of-christa-pike"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/investigators-search-for-motive-after-alleged-attack-by-flydubai-co-pilot",
-        "source": "PBS NewsHour Politics",
-        "title": "Investigators search for motive after alleged attack by FlyDubai co-pilot",
-        "publicationDate": "2026-10-01",
-        "category": "Foreign Policy",
-        "summary": "Investigators across the Middle East are hunting for answers after a co-pilot stabbed his captain and allegedly attempted to crash a FlyDubai aircraft bound for Israel. President Trump claimed the attack could be linked to Iran, but did not provide evidence. Geoff Bennett discussed what we do and don't know with Juliette Kayyem, a former assistant secretary at the Department of Homeland Security.",
-        "url": "https://www.pbs.org/newshour/show/investigators-search-for-motive-after-alleged-attack-by-flydubai-co-pilot"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-to-review-mandatory-detention-policy-for-migrants",
-        "source": "PBS NewsHour Politics",
-        "title": "News Wrap: Supreme Court to review mandatory detention policy for migrants",
-        "publicationDate": "2026-10-01",
-        "category": "Foreign Policy",
-        "summary": "In our news wrap Thursday, the Supreme Court agreed to review the Trump administration's mandatory detention policy for migrants, UK police arrested a British-Iranian citizen on suspicion of planning a terror attack following a security incident at an air base and a Russian drone slammed into a school in Kyiv as the capital endured yet another day of aerial attacks.",
-        "url": "https://www.pbs.org/newshour/show/news-wrap-supreme-court-to-review-mandatory-detention-policy-for-migrants"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/new-details-intensify-scrutiny-of-cornells-handling-of-gang-rape-allegations",
-        "source": "PBS NewsHour Politics",
-        "title": "New details intensify scrutiny of Cornell's handling of gang rape allegations",
-        "publicationDate": "2026-10-01",
-        "category": "campus rape",
-        "summary": "There are new revelations about how authorities handled an alleged gang rape at Cornell University in 2024. New reporting out today finds Cornell police left out key information in a statement given to local law enforcement. That includes Jane Doe's statement, \"I can say with 100 percent confidence I was raped.\" Amna Nawaz discussed more with Sharon Otterman of The New York Times.",
-        "url": "https://www.pbs.org/newshour/show/new-details-intensify-scrutiny-of-cornells-handling-of-gang-rape-allegations"
+        "summary": "The U.S. Census Bureau produces statistics on demographic and economic characteristics across the United States based on more than 130 different surveys, including the agency's largest products: the decennial census and the American Community Survey (ACS). Data from the decennial census are used for apportioning seats in the House of Representatives as well as for redistricting in the states. Other uses for census...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49421/R49421.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5192-1.html",
@@ -486,31 +531,13 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4660-1.html"
     },
     {
-        "id": "https://www.heritage.org/conservatism/commentary/dear-gen-z-reagan-not-relic",
+        "id": "https://www.heritage.org/education/commentary/nikole-hannah-jones-owes-her-readers-apology-too",
         "source": "Heritage Foundation",
-        "title": "Dear Gen Z: Reagan Is Not a Relic",
+        "title": "Nikole Hannah-Jones Owes Her Readers an Apology Too",
         "publicationDate": "2026-09-30",
         "category": "Economy",
-        "summary": "For a generation of young conservatives coming of age in an increasingly polarized America, President Ronald Reagan can sometimes seem like a relic. His name is invoked at conservative conferences, his face appears on palmcards at events, and his speeches are endlessly quoted. Yet some Generation Z conservatives have begun asking a reasonable question: Why should we still care about a president who left office...",
-        "url": "https://www.heritage.org/conservatism/commentary/dear-gen-z-reagan-not-relic"
-    },
-    {
-        "id": "https://www.heritage.org/defense/commentary/build-golden-fleet-frigate-fast-two-shipyards-are-needed",
-        "source": "Heritage Foundation",
-        "title": "To Build Golden Fleet Frigate Fast, Two Shipyards Are Needed",
-        "publicationDate": "2026-09-30",
-        "category": "Defense",
-        "summary": "In 1798, while at war with France, an exasperated British Lord Nelson exclaimed , “Were I to die at this moment, ‘want of frigates!’ would be stamped on my heart.” It’s a perennial problem: Frigates formed the backbone of navies in Nelson’s time and do so today as well, and there seldom seems to be enough. The U.S. Navy’s ambitious Golden Fleet shipbuilding plan aims to fill a frigate gap but will require shipyard...",
-        "url": "https://www.heritage.org/defense/commentary/build-golden-fleet-frigate-fast-two-shipyards-are-needed"
-    },
-    {
-        "id": "https://www.heritage.org/education/commentary/the-hidden-jewel-jacksonville-state",
-        "source": "Heritage Foundation",
-        "title": "The Hidden Jewel at Jacksonville State",
-        "publicationDate": "2026-09-30",
-        "category": "Technology",
-        "summary": "For years I have argued that Alabama needs a new civics center or school housed at one of its public universities. Nearly two years ago I made the case here in 1819 News. The country, meanwhile, has not been idle. By my count, 17 such centers have sprung up nationwide, and nine Republican-controlled state legislatures have passed laws requiring them. The pioneer, and arguably the best known, is Arizona State...",
-        "url": "https://www.heritage.org/education/commentary/the-hidden-jewel-jacksonville-state"
+        "summary": "A decade ago, Nikole Hannah-Jones—who later coauthored the sloppy and debunked 1619 Project —told New York Times Magazine readers that she was enrolling her daughter in a struggling, predominantly black Brooklyn district school as a matter of principle. This week, she published a mea culpa addressed to that daughter, acknowledging that the school failed her and that, by choosing it, she failed her child. It is a...",
+        "url": "https://www.heritage.org/education/commentary/nikole-hannah-jones-owes-her-readers-apology-too"
     },
     {
         "id": "https://www.hudson.org/foreign-policy/us-national-security-antisemitism-issue-1-ceuta-anti-japanese-propaganda-defense",
@@ -585,48 +612,21 @@
         "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
     },
     {
-        "id": "RL30354",
+        "id": "IF11346",
         "source": "Congressional Research Service",
-        "title": "Monetary Policy and the Federal Reserve: Current Policy and Conditions",
-        "publicationDate": "2020-02-06",
+        "title": "Section 301 of the Trade Act of 1974",
+        "publicationDate": "2026-07-02",
         "category": "Economy",
-        "summary": "Congress has delegated responsibility for monetary policy to the Federal Reserve (the Fed), the nation’s central bank, but retains oversight responsibilities for ensuring that the Fed is adhering to its statutory mandate of “maximum employment, stable prices, and moderate long-term interest rates.” To meet its price stability mandate, the Fed has set a longer-run goal of 2% inflation. The Fed’s control over...",
-        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL30354/RL30354.110.pdf"
+        "summary": "Title III of the Trade Act of 1974 (Sections 301-310, 19 U.S.C. §§2411-2420), titled “Relief from Unfair Trade Practices,” is often collectively referred to as “Section 301.” Under Section 301, Congress grants the Office of the United States Trade Representative (USTR) a range of responsibilities and authorities to investigate and take action (e.g., impose a tariff) to enforce U.S. rights under trade agreements or...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11346/IF11346.38.pdf"
     },
     {
-        "id": "R46212",
+        "id": "R44374",
         "source": "Congressional Research Service",
-        "title": "Wage Inequality and the Stagnation of Earnings of Low-Wage Workers: Contributing Factors and Policy Options",
-        "publicationDate": "2020-02-05",
-        "category": "Economy",
-        "summary": "Over the 1979-2018 period, real wages at the 10th percentile of the hourly wage distribution grew by 1.6%, whereas wages at the 50th percentile grew by 6.1% and wages at the 90th percentile grew by 37.6%. These patterns varied by sex, race, and ethnicity. Most of the increase in wage inequality at the bottom of the distribution occurred by 1990 and leveled off by 2000, whereas inequality continued to grow at the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46212/R46212.3.pdf"
-    },
-    {
-        "id": "IF11221",
-        "source": "Congressional Research Service",
-        "title": "Introduction to Financial Services: Corporate Governance",
-        "publicationDate": "2020-02-03",
-        "category": "Defense",
-        "summary": "Introduction Broadly speaking, corporate governance is the system through which a public company’s objectives and the means for obtaining them are established and monitored by the company’s board of directors and management. Structurally, the system comprises a web of relationships among a firm’s management, board of directors, employees, shareholders, and other stakeholders. Two key focal points of corporate...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11221/IF11221.3.pdf"
-    },
-    {
-        "id": "R46190",
-        "source": "Congressional Research Service",
-        "title": "Petitions for Rulemaking: An Overview",
-        "publicationDate": "2020-01-23",
+        "title": "Federal Grant Financial Reporting Requirements and Databases: Frequently Asked Questions",
+        "publicationDate": "2016-02-11",
         "category": "Other",
-        "summary": "The Administrative Procedure Act (APA), enacted in 1946, is known primarily for its procedural requirements for notice-and-comment rulemaking. Those requirements state that when issuing regulations, agencies must generally give public notice (i.e., issue a proposed rule), hold a public comment period, and publish a final rule. A lesser known provision in the APA is a petition mechanism through which any interested...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46190/R46190.2.pdf"
-    },
-    {
-        "id": "IF11392",
-        "source": "Congressional Research Service",
-        "title": "H.R. 1865 and the Look-Through Treatment of Payments Between Related Controlled Foreign Corporations",
-        "publicationDate": "2020-01-10",
-        "category": "Economy",
-        "summary": "The House amendment to the Senate amendment to H.R. 1865, the Further Consolidated Appropriations Act, 2020, extended certain expiring provisions, including a number that were last extended through 2019 by the Consolidated Appropriations Act of 2016 (P.L. 114-113). This legislation was signed into law on December 20, 2019 (P.L. 116-94). Among these provisions are the look-through rules, which allow certain payments...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11392/IF11392.2.pdf"
+        "summary": "Congress and federal agencies frequently undertake initiatives to conduct oversight of federal grant programs and expenditures. The ability to oversee is influenced by the existing reporting requirements placed on recipients of federal grant funds. Limitations in accessing information contained in federal databases used to collect grant data also influence the level of transparency into the use of federal grant...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44374/R44374.4.pdf"
     }
 ]
