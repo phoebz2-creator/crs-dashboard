@@ -45,6 +45,15 @@
         "url": "https://cms.hoover.org/research/articles-hong-kong-national-security-law-political-prisoners-press-freedom-tibet-religious"
     },
     {
+        "id": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+        "source": "NPR Politics",
+        "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+        "publicationDate": "2026-10-04",
+        "category": "Defense",
+        "summary": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+        "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump"
+    },
+    {
         "id": "https://www.npr.org/2026/10/04/nx-s1-5985905/politics-chat-midterm-polls-senate-races-trump-in-texas",
         "source": "NPR Politics",
         "title": "Politics chat: Midterm polls, Senate races, Trump in Texas",
@@ -63,49 +72,67 @@
         "url": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church"
     },
     {
-        "id": "https://thehill.com/opinion/immigration/6121649-ai-asylum-representation/",
-        "source": "The Hill",
-        "title": "The door to asylum is closing in rural America — AI can help keep it open",
-        "publicationDate": "2026-10-04",
-        "category": "Opinions - Immigration",
-        "summary": "In rural America, the need for immigration representation is especially dire. It is in these legal deserts that AI can have an outsized impact.",
-        "url": "https://thehill.com/opinion/immigration/6121649-ai-asylum-representation/"
-    },
-    {
-        "id": "https://thehill.com/business/6128205-hassett-dismisses-negative-economic-polls/",
-        "source": "The Hill",
-        "title": "Hassett says on negative polling on economy: ‘I just don't buy it’",
-        "publicationDate": "2026-10-04",
-        "category": "Economy",
-        "summary": "Kevin Hassett, director of the National Economic Council, said Sunday that he doesn’t believe in recent polls that show Americans’ negative feelings about the economy. “Ahead of an election cycle, the fact that there's, you know, possibly partisan pollsters telling us that the people are really really depressed, it's a classic Democrat move, and I...",
-        "url": "https://thehill.com/business/6128205-hassett-dismisses-negative-economic-polls/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6128176-trump-creates-super-intelligence-force/",
-        "source": "The Hill",
-        "title": "Trump announces 'Super Intelligence Force' led by DNI Jay Clayton",
+        "id": "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
         "publicationDate": "2026-10-04",
         "category": "Defense",
-        "summary": "President Trump on Sunday morning announced the creation of \"Super IntelligenceForce\" amid his push to keep the U.S. in the lead on artificial intelligence development after warnings from the technology's researchers. The task force will be led by Director of National Intelligence Jay Clayton, whom The Wall Street Journal reported is expected to be named...",
-        "url": "https://thehill.com/homenews/administration/6128176-trump-creates-super-intelligence-force/"
+        "summary": "The announcement comes after Trump hosted top executives of AI companies at the White House last week and said they had signed a voluntary accord that would effectively self-police the development of the technology.",
+        "url": "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6116007-more-canadians-to-observe-permanent-daylight-saving-time-why-cant-the-us/",
+        "id": "https://thehill.com/homenews/campaign/6128366-emanuel-pushes-democrats-ethics-reform/",
         "source": "The Hill",
-        "title": "More Canadians to observe permanent daylight saving time. Why can’t the US?",
+        "title": "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
         "publicationDate": "2026-10-04",
-        "category": "State Watch",
-        "summary": "For many across Canada, the clocks will not \"fall back\" an hour in November.",
-        "url": "https://thehill.com/homenews/state-watch/6116007-more-canadians-to-observe-permanent-daylight-saving-time-why-cant-the-us/"
+        "category": "Campaign",
+        "summary": "Former Chicago Mayor Rahm Emanuel (D) on Sunday pushed Democrats to focus on ethics reform instead of a third impeachment of President Trump if they win back power in Congress after the midterm elections. “I'm for the investigations. Hold this administration accountable, which is what the Republican Congress and Senate has refused to do, which...",
+        "url": "https://thehill.com/homenews/campaign/6128366-emanuel-pushes-democrats-ethics-reform/"
     },
     {
-        "id": "https://thehill.com/opinion/congress-blog/technology/6124343-starship-achieves-low-earth-orbit/",
+        "id": "https://thehill.com/opinion/education/6127046-higher-education-post-ruling-trends/",
         "source": "The Hill",
-        "title": "Starship’s successful launch to low Earth orbit is a big deal",
+        "title": "3 classes after Supreme Court's admissions ruling: What the data show",
         "publicationDate": "2026-10-04",
-        "category": "Technology",
-        "summary": "As the late, great science fiction writer Robert Heinlein said, \"Once you get to Earth orbit, you’re halfway to anywhere in the solar system.\"",
-        "url": "https://thehill.com/opinion/congress-blog/technology/6124343-starship-achieves-low-earth-orbit/"
+        "category": "Opinions - Education",
+        "summary": "Research indicates that following the Supreme Court's end of race-conscious admissions, there has been a slight nationwide increase in first-year students reporting their race or ethnicity as unknown, complicating the assessment of shifting enrollment patterns.",
+        "url": "https://thehill.com/opinion/education/6127046-higher-education-post-ruling-trends/"
+    },
+    {
+        "id": "https://thehill.com/homenews/education/6128231-college-borgs-fuel-harmful-drinking/",
+        "source": "The Hill",
+        "title": "Borg use at US colleges can be 'particularly harmful' to drinkers, study suggests",
+        "publicationDate": "2026-10-04",
+        "category": "Education",
+        "summary": "The idea of a borg gained popularity in the earlier half of the 2020s, and spread largely through social media.",
+        "url": "https://thehill.com/homenews/education/6128231-college-borgs-fuel-harmful-drinking/"
+    },
+    {
+        "id": "https://thehill.com/opinion/international/6126677-iran-opaque-security-led-rule/",
+        "source": "The Hill",
+        "title": "Iran did not collapse after Khamenei — it just became harder to read",
+        "publicationDate": "2026-10-04",
+        "category": "Foreign Policy",
+        "summary": "Six months after the deaths of Ayatollah Ali Khamenei and Ali Larijani, Iran has transitioned into an opaque, security-centered governance model where authority is increasingly mediated by institutional decrees rather than centralized personal leadership.",
+        "url": "https://thehill.com/opinion/international/6126677-iran-opaque-security-led-rule/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6127907-trump-nebraska-gop-midterms-cornell-case-alito/",
+        "source": "The Hill",
+        "title": "Live updates: Trump taps Clayton to lead AI force; Cornell victim's attorney alleges more involved in gang rape",
+        "publicationDate": "2026-10-04",
+        "category": "Defense",
+        "summary": "President Trump announced Sunday that he has created a \"Super Intelligence Force,\" and Director of National Intelligence Jay Clayton — reported to be Trump's choice for \"AI czar\" — will lead the group. The president's announcement comes after he held a rally in a Dayton, Ohio-area suburb on Saturday night, where he promised a GOP...",
+        "url": "https://thehill.com/homenews/administration/6127907-trump-nebraska-gop-midterms-cornell-case-alito/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html",
+        "source": "New York Times Politics",
+        "title": "How Kansas Suddenly Became a Battleground State for Senate Control",
+        "publicationDate": "2026-10-04",
+        "category": "Midterm Elections (2026)",
+        "summary": "The state hasn’t elected a Democrat to the Senate in nearly a century. Economic challenges during President Trump’s second term, as well as other factors, have put it in play.",
+        "url": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
@@ -119,7 +146,7 @@
     {
         "id": "https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html",
         "source": "New York Times Politics",
-        "title": "Some Democrats, Scarred by 2024, Take a Harder Line on Trans Athletes",
+        "title": "How Democrats Have Changed the Way They Talk About Trans Issues",
         "publicationDate": "2026-10-04",
         "category": "Political Advertising",
         "summary": "Democrats competing in historically conservative territory in the midterms are more aggressively responding to Republican attacks casting them as extreme.",
@@ -142,15 +169,6 @@
         "category": "South Carolina",
         "summary": "Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.",
         "url": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html",
-        "source": "New York Times Politics",
-        "title": "Who Owns the Moon?",
-        "publicationDate": "2026-10-04",
-        "category": "Space and Astronomy",
-        "summary": "A treaty from the 1960s declared that nobody can own outer space. Half a century later, billionaires and superpowers see fortunes to be made nonetheless.",
-        "url": "https://www.nytimes.com/2026/10/04/world/asia/who-owns-moon.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/10/04/trump-launches-super-intelligence-force-after-calls-ai-slowdown/",
@@ -218,9 +236,9 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
         "publicationDate": "2026-10-04",
-        "category": "Defense",
+        "category": "Other",
         "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
         "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
     },
@@ -234,13 +252,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Australia investigating Flydubai co-pilot's links to country",
+        "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
         "publicationDate": "2026-10-04",
         "category": "Other",
-        "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-        "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
+        "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
+        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
@@ -252,6 +270,33 @@
         "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1"
     },
     {
+        "id": "https://www.ft.com/content/d3b09a81-626c-406a-a568-40966ffad074?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Election season starts with possibly the most contentious result",
+        "publicationDate": "2026-10-04",
+        "category": "Other",
+        "summary": "Nobel Peace Prize announced, and another moment of British by-election jeopardy",
+        "url": "https://www.ft.com/content/d3b09a81-626c-406a-a568-40966ffad074?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/9972c7fa-ebed-4c0c-8ff6-17e66a547394?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Lula and Bolsonaro neck-and-neck as Brazilians head to polls",
+        "publicationDate": "2026-10-04",
+        "category": "Other",
+        "summary": "A fourth term for leftist leader could temper US ambitions in Latin America",
+        "url": "https://www.ft.com/content/9972c7fa-ebed-4c0c-8ff6-17e66a547394?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Russia strikes Kyiv as Germany’s Merz visits",
+        "publicationDate": "2026-10-04",
+        "category": "Foreign Policy",
+        "summary": "Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe",
+        "url": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/1fd3b9f8-ac07-4a7c-b968-93fba8b3a978",
         "source": "Financial Times World",
         "title": "Burnham could learn a thing or two from Thatcher",
@@ -259,33 +304,6 @@
         "category": "Other",
         "summary": "Centralising power may feel like speeding things up but the rest of government actually slows down, waiting for decisions",
         "url": "https://www.ft.com/content/1fd3b9f8-ac07-4a7c-b968-93fba8b3a978"
-    },
-    {
-        "id": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Investors look to shelter portfolios from rising AI concentration risks",
-        "publicationDate": "2026-10-04",
-        "category": "Defense",
-        "summary": "Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence",
-        "url": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a2711e64-145b-4df6-baf7-56a3da7ed0b0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The US is looking more like Italy",
-        "publicationDate": "2026-10-04",
-        "category": "Other",
-        "summary": "America is not so exceptional any more — and the New World is becoming more like the Old",
-        "url": "https://www.ft.com/content/a2711e64-145b-4df6-baf7-56a3da7ed0b0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Russia strikes Kyiv as Germany’s Merz arrives to show support for Ukraine",
-        "publicationDate": "2026-10-04",
-        "category": "Foreign Policy",
-        "summary": "Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe",
-        "url": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/10/03/nx-s1-5989415/week-in-politics-inflation-pressure-war-in-iran-and-effect-on-midterm-elections",
@@ -304,15 +322,6 @@
         "category": "Other",
         "summary": "Scandals could be shaping several races in the midterm elections, particularly in places where even small margins can change the outcome.",
         "url": "https://www.npr.org/2026/10/03/nx-s1-5983806/how-high-profile-scandals-are-shaping-key-contests-ahead-of-the-midterms"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/03/nx-s1-5987701/california-voters-to-decide-on-controversial-one-time-tax-on-billionaires",
-        "source": "NPR Politics",
-        "title": "California voters to decide on controversial one-time tax on billionaires",
-        "publicationDate": "2026-10-03",
-        "category": "Economy",
-        "summary": "California voters will decide whether the state will charge a one-time tax on billionaires. The idea that has split Democrats and labor unions.",
-        "url": "https://www.npr.org/2026/10/03/nx-s1-5987701/california-voters-to-decide-on-controversial-one-time-tax-on-billionaires"
     },
     {
         "id": "https://www.pbs.org/newshour/economy/a-28-billion-hemp-thc-industry-is-fighting-to-save-itself-from-a-looming-federal-ban",
@@ -475,15 +484,6 @@
         "category": "Defense",
         "summary": "Navigating the New Global Order bbert@hudson.org Fri, 10/02/2026 - 09:21 SVG Podcast Sep 23, 2026 The Reboot Chronicles Navigating the New Global Order Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs Podcast Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn...",
         "url": "https://www.hudson.org/foreign-policy/navigating-new-global-order-rebeccah-heinrichs"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/fbi-gives-employees-a-classified-patel-report-about-times-the-agency-fell-short",
-        "source": "PBS NewsHour Politics",
-        "title": "FBI gives employees a classified 'Patel Report' about times the agency 'fell short'",
-        "publicationDate": "2026-10-02",
-        "category": "fbi",
-        "summary": "The document's existence is in keeping with Director Kash Patel's vocal criticism of the leaders who preceded him",
-        "url": "https://www.pbs.org/newshour/politics/fbi-gives-employees-a-classified-patel-report-about-times-the-agency-fell-short"
     },
     {
         "id": "R49457",
