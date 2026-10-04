@@ -72,6 +72,15 @@
         "url": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church"
     },
     {
+        "id": "https://www.pbs.org/newshour/education/despair-over-future-fuels-political-anxiety-for-college-students-on-the-cusp-of-adulthood",
+        "source": "PBS NewsHour Politics",
+        "title": "Despair over future fuels political anxiety for college students on the cusp of adulthood",
+        "publicationDate": "2026-10-04",
+        "category": "college students",
+        "summary": "Their anxiety is fueling a restlessness with a national political system that they worry is no longer capable of improving their lives or no longer interested in helping.",
+        "url": "https://www.pbs.org/newshour/education/despair-over-future-fuels-political-anxiety-for-college-students-on-the-cusp-of-adulthood"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force",
         "source": "PBS NewsHour Politics",
         "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
@@ -81,56 +90,74 @@
         "url": "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6128366-emanuel-pushes-democrats-ethics-reform/",
+        "id": "https://thehill.com/policy/international/6128552-russia-threatens-ukraine-military-strikes/",
         "source": "The Hill",
-        "title": "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
-        "publicationDate": "2026-10-04",
-        "category": "Campaign",
-        "summary": "Former Chicago Mayor Rahm Emanuel (D) on Sunday pushed Democrats to focus on ethics reform instead of a third impeachment of President Trump if they win back power in Congress after the midterm elections. “I'm for the investigations. Hold this administration accountable, which is what the Republican Congress and Senate has refused to do, which...",
-        "url": "https://thehill.com/homenews/campaign/6128366-emanuel-pushes-democrats-ethics-reform/"
-    },
-    {
-        "id": "https://thehill.com/opinion/education/6127046-higher-education-post-ruling-trends/",
-        "source": "The Hill",
-        "title": "3 classes after Supreme Court's admissions ruling: What the data show",
-        "publicationDate": "2026-10-04",
-        "category": "Opinions - Education",
-        "summary": "Research indicates that following the Supreme Court's end of race-conscious admissions, there has been a slight nationwide increase in first-year students reporting their race or ethnicity as unknown, complicating the assessment of shifting enrollment patterns.",
-        "url": "https://thehill.com/opinion/education/6127046-higher-education-post-ruling-trends/"
-    },
-    {
-        "id": "https://thehill.com/homenews/education/6128231-college-borgs-fuel-harmful-drinking/",
-        "source": "The Hill",
-        "title": "Borg use at US colleges can be 'particularly harmful' to drinkers, study suggests",
-        "publicationDate": "2026-10-04",
-        "category": "Education",
-        "summary": "The idea of a borg gained popularity in the earlier half of the 2020s, and spread largely through social media.",
-        "url": "https://thehill.com/homenews/education/6128231-college-borgs-fuel-harmful-drinking/"
-    },
-    {
-        "id": "https://thehill.com/opinion/international/6126677-iran-opaque-security-led-rule/",
-        "source": "The Hill",
-        "title": "Iran did not collapse after Khamenei — it just became harder to read",
-        "publicationDate": "2026-10-04",
-        "category": "Foreign Policy",
-        "summary": "Six months after the deaths of Ayatollah Ali Khamenei and Ali Larijani, Iran has transitioned into an opaque, security-centered governance model where authority is increasingly mediated by institutional decrees rather than centralized personal leadership.",
-        "url": "https://thehill.com/opinion/international/6126677-iran-opaque-security-led-rule/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6127907-trump-nebraska-gop-midterms-cornell-case-alito/",
-        "source": "The Hill",
-        "title": "Live updates: Trump taps Clayton to lead AI force; Cornell victim's attorney alleges more involved in gang rape",
+        "title": "Russia threatens more strikes after Zelensky vows to hit oil refineries",
         "publicationDate": "2026-10-04",
         "category": "Defense",
-        "summary": "President Trump announced Sunday that he has created a \"Super Intelligence Force,\" and Director of National Intelligence Jay Clayton — reported to be Trump's choice for \"AI czar\" — will lead the group. The president's announcement comes after he held a rally in a Dayton, Ohio-area suburb on Saturday night, where he promised a GOP...",
-        "url": "https://thehill.com/homenews/administration/6127907-trump-nebraska-gop-midterms-cornell-case-alito/"
+        "summary": "The Russian Defense Ministry on Sunday threatened to hit Ukrainian military and industrial facilities, after Ukrainian President Volodymyr Zelensky said his military would target Russia’s oil refineries. “Strikes by the Armed Forces of the Russian Federation against military and military-industrial facilities, as well as related infrastructure in Kyiv and other regions of Ukraine, will be...",
+        "url": "https://thehill.com/policy/international/6128552-russia-threatens-ukraine-military-strikes/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/this-week-on-the-hill/6126863-upcoming-senate-candidates-debates-midterms/",
+        "source": "The Hill",
+        "title": "This Week on the Hill: Congressional recess shifts focus to midterm campaign trail",
+        "publicationDate": "2026-10-04",
+        "category": "This Week on The Hill",
+        "summary": "With both chambers of Congress out of session, lawmakers are trading the Capitol for the campaign trail as the midterm elections enter their final stretch. The shift will be especially visible this week, with a slate of high-profile debates pitting candidates from both parties on the same stage. In Iowa, Rep. Ashley Hinson (R) will...",
+        "url": "https://thehill.com/newsletters/this-week-on-the-hill/6126863-upcoming-senate-candidates-debates-midterms/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6127091-trump-nebraska-senate-rally-ricketts-osborn/",
+        "source": "The Hill",
+        "title": "Trump takes red state midterm blitz to Nebraska as GOP frets over Senate race",
+        "publicationDate": "2026-10-04",
+        "category": "Campaign",
+        "summary": "President Trump is headed to deep-red Nebraska as Republicans ready for a close Senate race against independent Dan Osborn, who’s backed by Democrats aiming to keep the seat out of GOP hands. Incumbent Sen. Pete Ricketts (R-Neb.), who won the 2024 special election to fill out the remainder of former Sen. Ben Sasse’s (R-Neb.) term,...",
+        "url": "https://thehill.com/homenews/campaign/6127091-trump-nebraska-senate-rally-ricketts-osborn/"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
+        "source": "The Hill",
+        "title": "Democratic rep: Administration 'has failed to present a strategy' in Iran war",
+        "publicationDate": "2026-10-04",
+        "category": "Foreign Policy",
+        "summary": "Democratic Rep. Brad Schneider (Ill.) on Sunday criticized the Trump administration’s handling of the Iran war, saying officials have not explained their strategy for the conflict. “We need to explain to the American people what the goals are in trying to prevent, and we have to prevent Iran from ever getting a nuclear weapon, but...",
+        "url": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6128455-kennedy-midterm-cost-living/",
+        "source": "The Hill",
+        "title": "Kennedy: 'Telling' Americans 'not to believe their own lying checkbooks is not going to work'",
+        "publicationDate": "2026-10-04",
+        "category": "Senate",
+        "summary": "Sen. John Kennedy (R-La.) on Sunday said Republicans “have to tell the American people the truth” about the cost of living as his party heads into the midterms. “As I've said before, Kristen, here's my prediction about the elections. I will bet you a soda and a nice hat that the experts are wrong. I...",
+        "url": "https://thehill.com/homenews/senate/6128455-kennedy-midterm-cost-living/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
+        "source": "New York Times Politics",
+        "title": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
+        "publicationDate": "2026-10-04",
+        "category": "United States Politics and Government",
+        "summary": "President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.",
+        "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
+        "source": "New York Times Politics",
+        "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
+        "publicationDate": "2026-10-04",
+        "category": "Foreign Policy",
+        "summary": "The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.",
+        "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html",
         "source": "New York Times Politics",
         "title": "How Kansas Suddenly Became a Battleground State for Senate Control",
         "publicationDate": "2026-10-04",
-        "category": "Midterm Elections (2026)",
+        "category": "United States Politics and Government",
         "summary": "The state hasn’t elected a Democrat to the Senate in nearly a century. Economic challenges during President Trump’s second term, as well as other factors, have put it in play.",
         "url": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html"
     },
@@ -153,24 +180,6 @@
         "url": "https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html",
-        "source": "New York Times Politics",
-        "title": "How Trump Moved Ethical Lines With His Ads, Businesses and Summits",
-        "publicationDate": "2026-10-04",
-        "category": "Foreign Policy",
-        "summary": "The president’s decision to hold an international summit at his own private golf club, an idea rejected in his first term, illustrates how much he has shattered norms.",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-moving-ethical-lines.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html",
-        "source": "New York Times Politics",
-        "title": "Some Democrats Say Senate Race In South Carolina Is Winnable. Others, not so much.",
-        "publicationDate": "2026-10-04",
-        "category": "South Carolina",
-        "summary": "Dr. Annie Andrews, a Democrat, is hoping to defeat Senator Darline Graham. Even some of her most ardent supporters sense that her bid is a long shot.",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/south-carolina-senate-darline-graham-annie-andrews-donald-trump.html"
-    },
-    {
         "id": "https://www.washingtonpost.com/politics/2026/10/04/trump-launches-super-intelligence-force-after-calls-ai-slowdown/",
         "source": "Washington Post Politics",
         "title": "Trump launches ‘Super Intelligence Force’ after calls for AI slowdown",
@@ -178,15 +187,6 @@
         "category": "Defense",
         "summary": "Leaders from the intelligence community, the Pentagon, the Federal Trade Commission and the Office of Personnel Management will serve on the task force.",
         "url": "https://www.washingtonpost.com/politics/2026/10/04/trump-launches-super-intelligence-force-after-calls-ai-slowdown/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/04/with-threats-midterms-states-say-trump-administration-isnt-helping/",
-        "source": "Washington Post Politics",
-        "title": "With threats to midterms, states say Trump administration isn’t helping",
-        "publicationDate": "2026-10-04",
-        "category": "Foreign Policy",
-        "summary": "U.S. spy agencies see Russia and others plotting to sow distrust and misinformation in the upcoming elections.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/04/with-threats-midterms-states-say-trump-administration-isnt-helping/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/10/04/democrats-are-making-plans-clean-up-government-post-trump-era/",
@@ -198,12 +198,21 @@
         "url": "https://www.washingtonpost.com/politics/2026/10/04/democrats-are-making-plans-clean-up-government-post-trump-era/"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/10/04/with-threats-midterms-states-say-trump-administration-isnt-helping/",
+        "source": "Washington Post Politics",
+        "title": "With threats to midterms, states say Trump administration isn’t helping",
+        "publicationDate": "2026-10-04",
+        "category": "Foreign Policy",
+        "summary": "U.S. spy agencies see Russia and others plotting to sow distrust and misinformation in the upcoming elections.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/04/with-threats-midterms-states-say-trump-administration-isnt-helping/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/10/04/showdown-over-big-oil-climate-change-hits-supreme-court/",
         "source": "Washington Post Politics",
         "title": "Should Big Oil pay for climate change? A Supreme Court case will help decide.",
         "publicationDate": "2026-10-04",
         "category": "Other",
-        "summary": "Boulder, Colo., is hoping its novel lawsuit will be the environmental equivalent of the landmark litigation that produced billions in damages and settlements against Big Tobacco and opioid makers.",
+        "summary": "Boulder, Colorado, is hoping its novel lawsuit will be the environmental equivalent of the landmark litigation that produced billions in damages and settlements against Big Tobacco and opioid makers.",
         "url": "https://www.washingtonpost.com/politics/2026/10/04/showdown-over-big-oil-climate-change-hits-supreme-court/"
     },
     {
@@ -243,6 +252,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+        "publicationDate": "2026-10-04",
+        "category": "Other",
+        "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
@@ -252,13 +270,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+        "id": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US recalls B-1 bombers from RAF Fairford following alleged terror plot",
+        "publicationDate": "2026-10-04",
+        "category": "Foreign Policy",
+        "summary": "UK and American officials have claimed Iran was involved in the incident in which five British men were arrested near the base",
+        "url": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1fdb8380-2fac-474a-a184-616c0a29feb6?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Bull run for Japan stocks at risk, warns boss of biggest trading house",
         "publicationDate": "2026-10-04",
         "category": "Other",
-        "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-        "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss"
+        "summary": "Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
+        "url": "https://www.ft.com/content/1fdb8380-2fac-474a-a184-616c0a29feb6?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1",
@@ -270,6 +297,15 @@
         "url": "https://www.ft.com/content/c608d956-22b7-4f23-a6fe-63f39c52c275?syn-25a6b1a6=1"
     },
     {
+        "id": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Dealmaking slowdown threatens early end to M&A boom",
+        "publicationDate": "2026-10-04",
+        "category": "Other",
+        "summary": "Interest rate rises, AI anxiety and midterm elections cool animal spirits after record-breaking start to the year",
+        "url": "https://www.ft.com/content/00fb4438-1f86-4bf2-a165-0c39f3fd506b?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/d3b09a81-626c-406a-a568-40966ffad074?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Election season starts with possibly the most contentious result",
@@ -277,33 +313,6 @@
         "category": "Other",
         "summary": "Nobel Peace Prize announced, and another moment of British by-election jeopardy",
         "url": "https://www.ft.com/content/d3b09a81-626c-406a-a568-40966ffad074?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/9972c7fa-ebed-4c0c-8ff6-17e66a547394?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Lula and Bolsonaro neck-and-neck as Brazilians head to polls",
-        "publicationDate": "2026-10-04",
-        "category": "Other",
-        "summary": "A fourth term for leftist leader could temper US ambitions in Latin America",
-        "url": "https://www.ft.com/content/9972c7fa-ebed-4c0c-8ff6-17e66a547394?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Russia strikes Kyiv as Germany’s Merz visits",
-        "publicationDate": "2026-10-04",
-        "category": "Foreign Policy",
-        "summary": "Trip comes as Russia expands its air war against Ukraine ahead of winter and escalates ‘hybrid’ attacks on Europe",
-        "url": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/1fd3b9f8-ac07-4a7c-b968-93fba8b3a978",
-        "source": "Financial Times World",
-        "title": "Burnham could learn a thing or two from Thatcher",
-        "publicationDate": "2026-10-04",
-        "category": "Other",
-        "summary": "Centralising power may feel like speeding things up but the rest of government actually slows down, waiting for decisions",
-        "url": "https://www.ft.com/content/1fd3b9f8-ac07-4a7c-b968-93fba8b3a978"
     },
     {
         "id": "https://www.npr.org/2026/10/03/nx-s1-5989415/week-in-politics-inflation-pressure-war-in-iran-and-effect-on-midterm-elections",
@@ -349,15 +358,6 @@
         "category": "daylight saving time",
         "summary": "\"If Tom Cotton were putting Arkansas first, he would give them an extra hour of daylight and, more importantly, they wouldn't have to run all over their houses, farms, work places, and everywhere else, twice a year, having to change their Clocks, and often forgetting to do so,\" Trump said on social media.",
         "url": "https://www.pbs.org/newshour/politics/trump-urges-calls-to-arkansas-sen-tom-cotton-in-push-for-permanent-daylight-saving-time"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/a-gut-punch-in-ohio-nearly-1400-laid-off-at-truck-factory-just-days-before-trump-rally",
-        "source": "PBS NewsHour Politics",
-        "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally",
-        "publicationDate": "2026-10-03",
-        "category": "layoffs",
-        "summary": "This year's election is a test for the working-class coalition that lifted Trump into the White House and gave majorities to Republicans in the House and Senate.",
-        "url": "https://www.pbs.org/newshour/politics/a-gut-punch-in-ohio-nearly-1400-laid-off-at-truck-factory-just-days-before-trump-rally"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3545-1.html",
