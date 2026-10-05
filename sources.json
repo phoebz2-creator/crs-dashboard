@@ -1,147 +1,417 @@
 [
     {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4813-1.html",
+        "id": "LSB11445",
+        "source": "Congressional Research Service",
+        "title": "Food Additives and GRAS Substances: A Legal Framework",
+        "publicationDate": "2026-10-05",
+        "category": "Defense",
+        "summary": "Over the past few decades, the Food and Drug Administration’s (FDA’s) regulation of food additives has provoked debate. In general, food additives, which include substances such as spices, emulsifiers, and preservatives, are added to foods to improve taste, texture, or shelf life, or for other reasons. While the Federal Food Drug & Cosmetic Act (FD&C Act) generally requires manufacturers to obtain premarket...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11445/LSB11445.5.pdf"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4569-1.html",
         "source": "RAND Corporation",
-        "title": "Cocaine trafficking through seaports",
-        "publicationDate": "2026-10-05",
-        "category": "Defense",
-        "summary": "This report compares cocaine trafficking through Rotterdam and Le Havre, showing how organised crime exploits port logistics, corruption and digital systems, and why European ports need coordinated security, intelligence sharing and resilience.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4813-1.html"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6128821-sanders-backs-pope-ai-art/",
-        "source": "The Hill",
-        "title": "Sanders backs Pope Leo’s call to protect human art from AI",
-        "publicationDate": "2026-10-05",
-        "category": "Defense",
-        "summary": "Progressive Sen. Bernie Sanders (I-Vt.) on Sunday backed Pope Lepo XIV’s call to prioritize art made by humans over that made by artificial intelligence (AI). “Pope Leo is right. Art is not some kind of superfluous luxury that can be eliminated from our lives. It is a crucial part of the human experience,” the Vermont...",
-        "url": "https://thehill.com/homenews/senate/6128821-sanders-backs-pope-ai-art/"
-    },
-    {
-        "id": "https://thehill.com/blogs/in-the-know/6128799-mark-ruffalo-hulk-out-trump/",
-        "source": "The Hill",
-        "title": "Mark Ruffalo says he’ll ‘Hulk out’ over voting rights",
-        "publicationDate": "2026-10-05",
-        "category": "In The Know",
-        "summary": "Actor Mark Ruffalo on Sunday blasted President Trump’s attempts to restrict mail-in voting ahead of the midterms, saying he was ready to “Hulk out” to stop it. During a “Hands Off Our Vote” event in New York City, the Marvel Cinematic Universe (MCU) actor said Republicans will “try and stop us from taking our country...",
-        "url": "https://thehill.com/blogs/in-the-know/6128799-mark-ruffalo-hulk-out-trump/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/6128756-andrew-mountbatten-windsor-sues-tvp/",
-        "source": "The Hill",
-        "title": "Andrew Mountbatten-Windsor sues police over Epstein-related arrest",
+        "title": "The Emerging Digital Battleground",
         "publicationDate": "2026-10-05",
         "category": "Foreign Policy",
-        "summary": "Andrew Mountbatten-Windsor has reportedly sued Thames Valley Police over his February arrest related to his alleged providing of confidential information to deceased sex offender Jeffrey Epstein. The man formerly known as Prince Andrew asked a U.K. judge to determine whether officers acted lawfully toward him when they took him into custody nearly eight months ago,...",
-        "url": "https://thehill.com/policy/international/6128756-andrew-mountbatten-windsor-sues-tvp/"
+        "summary": "Digital infrastructure is now central to the U.S.-China rivalry. The authors identify nine factors that shape competition in global markets and offer five strategic priorities for the United States.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4569-1.html"
     },
     {
-        "id": "https://thehill.com/blogs/in-the-know/6128704-fbi-director-kash-patel-engaged/",
+        "id": "https://www.rand.org/pubs/research_reports/RRA5012-1.html",
+        "source": "RAND Corporation",
+        "title": "Inpatient Hospital Upcoding in California Among Fully Insured Commercial and Medicare Advantage Stays Between 2018 and 2023",
+        "publicationDate": "2026-10-05",
+        "category": "Healthcare",
+        "summary": "In this report, the authors analyze Medicare Severity Diagnosis Related Group upcoding trends in California hospitals), finding that upcoding increased payments for commercial stays and raised out-of-pocket costs for some Medicare Advantage patients.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5012-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4767-3.html",
+        "source": "RAND Corporation",
+        "title": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios",
+        "publicationDate": "2026-10-05",
+        "category": "Defense",
+        "summary": "The authors analyze observations from Infinite Potential games with AI loss of control to identify issues, capabilities, and recommendations needed to navigate the potential collapse of social legitimacy, economic stability, and technical control.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4767-3.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4571-1.html",
+        "source": "RAND Corporation",
+        "title": "Assessing Chinese and U.S. Technology Diffusion Capacity",
+        "publicationDate": "2026-10-05",
+        "category": "Economy",
+        "summary": "The U.S.-China tech rivalry hinges not only on innovation but also on achieving widespread technological diffusion in the economy. This report examines both countries’ capacity to convert technological progress into sustained productivity gains.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4571-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4392-3.html",
+        "source": "RAND Corporation",
+        "title": "Mapping Complex Legislation",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "The authors applied RAND’s U.S. Code Analysis Tool (CAT) to the One Big Beautiful Bill Act as a proof of concept to show how CAT can support rapid statutory triage by identifying which statutory changes warrant closer review.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4392-3.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/concerns-about-tinubus-health",
+        "source": "Council on Foreign Relations",
+        "title": "Concerns About Tinubu’s Health",
+        "publicationDate": "2026-10-05",
+        "category": "Healthcare",
+        "summary": "As the next presidential election looms, anxiety about the Nigerian president’s physical condition is growing.",
+        "url": "https://www.cfr.org/articles/concerns-about-tinubus-health"
+    },
+    {
+        "id": "https://www.cfr.org/articles/more-oil-same-war-why-increased-exports-arent-a-sign-of-irans-collapse",
+        "source": "Council on Foreign Relations",
+        "title": "More Oil, Same War: Why Increased Exports Aren’t a Sign of Iran’s Imminent Defeat",
+        "publicationDate": "2026-10-05",
+        "category": "Foreign Policy",
+        "summary": "Oil exports from the Middle East have rebounded, fueling claims that the United States is winning its war with Iran. But the Strait of Hormuz remains treacherous, Tehran isn’t any closer to accepting Washington’s terms, and the costs of the conflict are continuing to climb on both sides.",
+        "url": "https://www.cfr.org/articles/more-oil-same-war-why-increased-exports-arent-a-sign-of-irans-collapse"
+    },
+    {
+        "id": "https://www.heritage.org/europe/commentary/signs-living-water-flowing-through-france",
+        "source": "Heritage Foundation",
+        "title": "Signs of Living Water Flowing Through France",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "Will the Pope’s just-concluded visit to France , and the hundreds of thousands of Catholics who flooded streets and stadiums to greet him, end up changing France, the United States, and the entire West? Sounds fanciful, but there’s precedent. In June 1979, millions filled the streets of Poland when Pope John Paul II visited his homeland. Within a decade, the impossible happened: Communism was defeated not just in...",
+        "url": "https://www.heritage.org/europe/commentary/signs-living-water-flowing-through-france"
+    },
+    {
+        "id": "https://www.heritage.org/life/commentary/the-pro-life-policy-outlived-roe-v-wade",
+        "source": "Heritage Foundation",
+        "title": "The Pro-Life Policy That Outlived Roe v. Wade",
+        "publicationDate": "2026-10-05",
+        "category": "Economy",
+        "summary": "This year, a life-saving federal policy turns 50 years old. For half a century, the Hyde amendment has protected women, girls, and unborn children from taxpayer-funded abortions. In contrast, Roe v. Wade collapsed under the weight of its own bad reasoning just shy of its 50th “birth” day. How fitting. In the wake of the devastation he knew would follow Roe, Congressman Henry Hyde introduced his amendment to an...",
+        "url": "https://www.heritage.org/life/commentary/the-pro-life-policy-outlived-roe-v-wade"
+    },
+    {
+        "id": "https://www.hudson.org/national-security-defense/where-does-iran-war-go-next-michael-doran",
+        "source": "Hudson Institute",
+        "title": "Where Does the Iran War Go Next?",
+        "publicationDate": "2026-10-05",
+        "category": "Defense",
+        "summary": "Where Does the Iran War Go Next? bbert@hudson.org Mon, 10/05/2026 - 10:51 SVG Commentary Oct 2, 2026 The Free Press Where Does the Iran War Go Next? Tehran is losing against the US in the Strait of Hormuz. Its answer may come from Iraq. Michael Doran Senior Fellow and Director, Center for Peace and Security in the Middle East Michael Doran Commentary Caption Supporters of the Popular Mobilisation Forces (PMF) chant...",
+        "url": "https://www.hudson.org/national-security-defense/where-does-iran-war-go-next-michael-doran"
+    },
+    {
+        "id": "https://cms.hoover.org/events/trump-presidency-250-year-perspective",
+        "source": "Hoover Institution",
+        "title": "The Trump Presidency: A 250-Year Perspective",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/events/trump-presidency-250-year-perspective"
+    },
+    {
+        "id": "https://cms.hoover.org/research/billionaire-tax-busted-federal-budget-and-future-american-experiment",
+        "source": "Hoover Institution",
+        "title": "The Billionaire Tax, The Busted Federal Budget, And The Future Of The American Experiment",
+        "publicationDate": "2026-10-05",
+        "category": "Economy",
+        "summary": "Hoover Institution economist Joshua Rauh examines America’s mounting federal debt and the political obstacles to controlling government spending.",
+        "url": "https://cms.hoover.org/research/billionaire-tax-busted-federal-budget-and-future-american-experiment"
+    },
+    {
+        "id": "https://www.cer.eu/media/times-radio-uk-rejoining-eu",
+        "source": "Centre for European Reform",
+        "title": "Times Radio: UK rejoining the EU?",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "\"I think what's driving this is desire to get economic growth, because he [Andy Burnham] understands that what Starmer was doing with the nitty gritty piecemeal negotiations on things like youth mobility and merging the emissions trading schemes and so on, we're not going to deliver anything very dramatic in terms of economic growth. ...And he understands that if you want to have a better economic growth,...",
+        "url": "https://www.cer.eu/media/times-radio-uk-rejoining-eu"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+        "source": "NPR Politics",
+        "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+        "source": "NPR Politics",
+        "title": "Supreme Court's new term kicks off with blockbuster climate change case",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/obama-to-campaign-with-el-sayed-in-detroit-as-ex-president-gets-more-involved-in-midterms",
+        "source": "PBS NewsHour Politics",
+        "title": "Obama to campaign with El-Sayed in Detroit as ex-president gets more involved in midterms",
+        "publicationDate": "2026-10-05",
+        "category": "Abdul El-Sayed",
+        "summary": "Obama is upping involvement in the midterm election. He taped two dozen ads last week for Democratic candidates for governor and Senate that will be released in the coming days and weeks.",
+        "url": "https://www.pbs.org/newshour/politics/obama-to-campaign-with-el-sayed-in-detroit-as-ex-president-gets-more-involved-in-midterms"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/supreme-court-rejects-michigan-womans-appeal-over-schools-ban-on-lets-go-brandon-sweatshirts",
+        "source": "PBS NewsHour Politics",
+        "title": "Supreme Court rejects Michigan woman's appeal over school's ban on 'Let's Go Brandon' sweatshirts",
+        "publicationDate": "2026-10-05",
+        "category": "first amendment",
+        "summary": "The mother of two boys says their First Amendment rights were violated when they were told to take off the sweatshirts she bought them for Christmas in 2022.",
+        "url": "https://www.pbs.org/newshour/politics/supreme-court-rejects-michigan-womans-appeal-over-schools-ban-on-lets-go-brandon-sweatshirts"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/former-white-house-press-secretary-karoline-leavitt-lands-her-next-gig-as-fox-news-contributor",
+        "source": "PBS NewsHour Politics",
+        "title": "Former White House press secretary Karoline Leavitt lands her next gig as Fox News contributor",
+        "publicationDate": "2026-10-05",
+        "category": "fox news",
+        "summary": "Leavitt follows Kayleigh McEnany, the former press secretary who joined Fox in 2021.",
+        "url": "https://www.pbs.org/newshour/politics/former-white-house-press-secretary-karoline-leavitt-lands-her-next-gig-as-fox-news-contributor"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/dennis-hastert-longtime-republican-house-speaker-who-went-to-prison-dies-at-age-84",
+        "source": "PBS NewsHour Politics",
+        "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
+        "publicationDate": "2026-10-05",
+        "category": "dennis hastert",
+        "summary": "Hastert, who was speaker from 1999 until 2007 and spent more than a year in prison later in life, died Saturday of natural causes at his home while receiving hospice care.",
+        "url": "https://www.pbs.org/newshour/politics/dennis-hastert-longtime-republican-house-speaker-who-went-to-prison-dies-at-age-84"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/supreme-court-rejects-roy-moores-push-to-restore-8-2-million-defamation-verdict-awarded-to-him",
+        "source": "PBS NewsHour Politics",
+        "title": "Supreme Court rejects Roy Moore's push to restore $8.2 million defamation verdict awarded to him",
+        "publicationDate": "2026-10-05",
+        "category": "defamation",
+        "summary": "Justices declined to hear Moore's appeal of a lower court decision that vacated the verdict.",
+        "url": "https://www.pbs.org/newshour/politics/supreme-court-rejects-roy-moores-push-to-restore-8-2-million-defamation-verdict-awarded-to-him"
+    },
+    {
+        "id": "https://thehill.com/policy/energy-environment/6129978-oil-companies-supreme-court-skepticism/",
         "source": "The Hill",
-        "title": "Kash Patel, girlfriend announce engagement",
+        "title": "Justices appear skeptical of oil companies’ bid to quash climate suits",
+        "publicationDate": "2026-10-05",
+        "category": "Energy & Environment",
+        "summary": "Several Supreme Court Justices appeared skeptical Monday of a request from oil companies to preemptively block a climate change lawsuit that could hold them liable for climate damages. Many of the justices raised questions about the court’s ability to even take up the case at this time. \"A number of the discussions that you've had...",
+        "url": "https://thehill.com/policy/energy-environment/6129978-oil-companies-supreme-court-skepticism/"
+    },
+    {
+        "id": "https://thehill.com/blogs/in-the-know/6129727-alex-ovechkin-confirms-final-season-washington-capitals/",
+        "source": "The Hill",
+        "title": "Alex Ovechkin confirms this will be final season before retirement",
+        "publicationDate": "2026-10-05",
+        "category": "Foreign Policy",
+        "summary": "Ovechkin confirmed he'd be going back to live in Russia after his retirement.",
+        "url": "https://thehill.com/blogs/in-the-know/6129727-alex-ovechkin-confirms-final-season-washington-capitals/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6129822-pneumonic-plague-risks-what-to-know/",
+        "source": "The Hill",
+        "title": "Pneumonic plague: What is it and how dangerous can it be?",
+        "publicationDate": "2026-10-05",
+        "category": "Healthcare",
+        "summary": "The pneumonic plague is nearly always fatal without treatment.",
+        "url": "https://thehill.com/policy/healthcare/6129822-pneumonic-plague-risks-what-to-know/"
+    },
+    {
+        "id": "https://thehill.com/blogs/in-the-know/6129885-jack-smith-no-kings-power-to-the-people-bruce-springsteen-foo-fighters/",
+        "source": "The Hill",
+        "title": "Jack Smith seen sporting 'No Kings' t-shirt at Power to the People festival",
         "publicationDate": "2026-10-05",
         "category": "In The Know",
-        "summary": "FBI Director Kash Patel is engaged to Alexis Wilkins, the couple revealed Sunday. “Went and got the law involved,” Wilkins wrote on social platform X, adding ring and heart emojis, tagging Patel and sharing a photo of the two featuring her wearing an engagement ring. The FBI director responded to Wilkins using his personal account,...",
-        "url": "https://thehill.com/blogs/in-the-know/6128704-fbi-director-kash-patel-engaged/"
+        "summary": "Jack Smith is apparently swapping the suit and tie he wears when testifying at the Capitol for a \"No Kings\" t-shirt. The former special counsel was eyed over the weekend sporting a tee from a Bruce Springsteen concert tour bearing the pointed message while attending a music festival featuring some of President Trump's most vocal...",
+        "url": "https://thehill.com/blogs/in-the-know/6129885-jack-smith-no-kings-power-to-the-people-bruce-springsteen-foo-fighters/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/04/with-threats-midterms-states-say-trump-administration-isnt-helping/",
+        "id": "https://thehill.com/homenews/campaign/6129845-democrats-house-race-targets-dccc-midterms/",
+        "source": "The Hill",
+        "title": "Democrats add 6 more House races to 'Red to Blue' seat flipping list",
+        "publicationDate": "2026-10-05",
+        "category": "Campaign",
+        "summary": "The Democratic Congressional Campaign Committee (DCCC) announced Monday it is adding six candidates to its list of potential flips. The DCCC added the candidates to its “Red to Blue” program, less than a month before the midterm elections. Via their inclusion on the list, which now includes 46 Democrats seeking to flip GOP-favored seats, the...",
+        "url": "https://thehill.com/homenews/campaign/6129845-democrats-house-race-targets-dccc-midterms/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/05/theater/kramer-fauci-review.html",
+        "source": "New York Times Politics",
+        "title": "‘Kramer/Fauci’ Review: A Thrilling Episode From the AIDS Battlefield",
+        "publicationDate": "2026-10-05",
+        "category": "Theater",
+        "summary": "Daniel Fish’s staging of a C-SPAN segment reveals the complex yet tender relationship between the fiery Larry Kramer and the diplomatic Anthony Fauci.",
+        "url": "https://www.nytimes.com/2026/10/05/theater/kramer-fauci-review.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html",
+        "source": "New York Times Politics",
+        "title": "Texas Pediatricians Face Paxton Investigations for Vaccinating Children",
+        "publicationDate": "2026-10-05",
+        "category": "Vaccination and Immunization",
+        "summary": "Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation.",
+        "url": "https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/05/us/politics/kash-patel-engaged-alexis-wilkins.html",
+        "source": "New York Times Politics",
+        "title": "Kash Patel Is Engaged to Country Singer Alexis Wilkins",
+        "publicationDate": "2026-10-05",
+        "category": "Patel",
+        "summary": "The director of the F.B.I. and his girlfriend announced their engagement on social media over the weekend.",
+        "url": "https://www.nytimes.com/2026/10/05/us/politics/kash-patel-engaged-alexis-wilkins.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/05/us/politics/quartz-counters-california.html",
+        "source": "New York Times Politics",
+        "title": "California Prepares to Ban Quartz Countertop Production",
+        "publicationDate": "2026-10-05",
+        "category": "United States Politics and Government",
+        "summary": "The state would be the first to block an industry that has been connected to a deadly lung disease in workers.",
+        "url": "https://www.nytimes.com/2026/10/05/us/politics/quartz-counters-california.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/05/obituaries/dennis-hastert-dead.html",
+        "source": "New York Times Politics",
+        "title": "Dennis Hastert, Powerful Politician Disgraced by Child Sexual Abuse, Dies",
+        "publicationDate": "2026-10-05",
+        "category": "United States Politics and Government",
+        "summary": "The longest-serving Republican speaker of the House admitted in 2016 to abusing teenage boys decades earlier. He was 84.",
+        "url": "https://www.nytimes.com/2026/10/05/obituaries/dennis-hastert-dead.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/obituaries/2026/10/05/dennis-hastert-ex-house-speaker-whose-sex-abuse-admission-upended-legacy-dies-84/",
         "source": "Washington Post Politics",
-        "title": "With threats to midterms, states say Trump administration isn’t helping",
+        "title": "Dennis Hastert, ex-House speaker whose sex abuse admission upended legacy, dies at 84",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "The Illinois Republican helped spearhead President George W. Bush’s legislative agenda before his career ended in disgrace.",
+        "url": "https://www.washingtonpost.com/obituaries/2026/10/05/dennis-hastert-ex-house-speaker-whose-sex-abuse-admission-upended-legacy-dies-84/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/05/republican-toss-up-house-race-says-he-wont-be-rubber-stamp/",
+        "source": "Washington Post Politics",
+        "title": "Republican in toss-up House race says he won’t be a ‘rubber stamp’",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "Rep. Juan Ciscomani also touts his immigrant roots in a new video as he seeks reelection in Arizona.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/05/republican-toss-up-house-race-says-he-wont-be-rubber-stamp/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/05/sen-kennedy-says-hes-weighing-white-house-run-why-not-me-rainy-day/",
+        "source": "Washington Post Politics",
+        "title": "Sen. Kennedy says he’s weighing White House run: ‘Why not me on a rainy day?’",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "The Louisiana Republican said on “Meet the Press” that “if a bunch of goobers run ... and I think I could do a better job, I would consider running.”",
+        "url": "https://www.washingtonpost.com/politics/2026/10/05/sen-kennedy-says-hes-weighing-white-house-run-why-not-me-rainy-day/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/05/how-would-susan-collins-approach-new-supreme-court-vacancy/",
+        "source": "Washington Post Politics",
+        "title": "How would Susan Collins approach a new Supreme Court vacancy?",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "The Maine senator's vote to confirm Brett Kavanaugh in 2018 is still an issue as she seeks reelection.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/05/how-would-susan-collins-approach-new-supreme-court-vacancy/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/05/four-ways-midterm-elections-could-go-one-month-away/",
+        "source": "Washington Post Politics",
+        "title": "Four ways the midterm elections could go, one month away",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "Democrats have polls and history on their side. Republicans have money.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/05/four-ways-midterm-elections-could-go-one-month-away/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+        "publicationDate": "2026-10-05",
+        "category": "Defense",
+        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
         "publicationDate": "2026-10-05",
         "category": "Foreign Policy",
-        "summary": "U.S. spy agencies see Russia and others plotting to sow distrust and misinformation in the upcoming elections.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/04/with-threats-midterms-states-say-trump-administration-isnt-helping/"
+        "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+        "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+        "title": "Spanish PM Sánchez calls early election after housing protests",
         "publicationDate": "2026-10-05",
         "category": "Other",
-        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
+        "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "US air force removes all bombers from British military base RAF Fairford",
-        "publicationDate": "2026-10-05",
-        "category": "Defense",
-        "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Watch: How Brazil's dramatic election unfolded",
-        "publicationDate": "2026-10-05",
-        "category": "Other",
-        "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-        "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-        "publicationDate": "2026-10-05",
-        "category": "Defense",
-        "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "France closes up to 500 schools Monday over student protests",
-        "publicationDate": "2026-10-05",
-        "category": "Other",
-        "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
-        "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Flávio Bolsonaro takes commanding lead in Brazil election",
+        "title": "French central bank head warns country at risk of being ‘strangled by interest rates’",
         "publicationDate": "2026-10-05",
         "category": "Other",
-        "summary": "Son of jailed former far-right president in pole position against President Luiz Inácio Lula da Silva",
-        "url": "https://www.ft.com/content/028da85c-0e1f-4f1b-ad04-eac78c4f18c0?syn-25a6b1a6=1"
+        "summary": "Emmanuel Moulin says France can still reassure bond investors despite ‘serious and worrying’ market moves in recent days",
+        "url": "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/4d2078c4-4773-4d4c-8544-c17169362579?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Euro slides to 17-month low against dollar",
+        "title": "Big Oil goes to US Supreme Court over pivotal climate damages claim",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "ExxonMobil and Suncor Energy look to the high court to block state action",
+        "url": "https://www.ft.com/content/4d2078c4-4773-4d4c-8544-c17169362579?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/4416101f-5072-4ee0-aa12-5b1daf25b31b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Germany and France agree on last-resort tool against trade threats",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "Berlin agrees on ‘second-strike weapon’ to deter threats over key supplies such as Chinese rare earths and magnets",
+        "url": "https://www.ft.com/content/4416101f-5072-4ee0-aa12-5b1daf25b31b?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/711333ba-67a9-480c-bf65-a3e484a6406b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "‘Very sensible’: Business warms to Badenoch’s pitch",
+        "publicationDate": "2026-10-05",
+        "category": "Other",
+        "summary": "Executives left unconvinced by Andy Burnham’s plans are signalling that they are prepared to give the Tories a second chance",
+        "url": "https://www.ft.com/content/711333ba-67a9-480c-bf65-a3e484a6406b?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/41b567dc-50e9-4c41-95bb-e295caaf2340?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Citi to speed up promotion path for junior bankers as hiring war heats up",
         "publicationDate": "2026-10-05",
         "category": "Economy",
-        "summary": "High energy prices and concerns over France’s public finances add to pressure on the single currency",
-        "url": "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Spanish prime minister Pedro Sánchez calls snap election",
-        "publicationDate": "2026-10-05",
-        "category": "Other",
-        "summary": "Move to hold vote on November 29 comes after government defeat on legislation aimed at ending housing crisis",
-        "url": "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/49526246-46ac-4154-942f-3d4d705f1652?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Takaichi tells markets to ‘rest assured’ over Japan spending plans",
-        "publicationDate": "2026-10-05",
-        "category": "Other",
-        "summary": "Long-term bond yields reach fresh high as prime minister says she will control new issuance",
-        "url": "https://www.ft.com/content/49526246-46ac-4154-942f-3d4d705f1652?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/27d5abde-c1cd-4dc1-932f-4812a41a66c4",
-        "source": "Financial Times World",
-        "title": "BT buys struggling rival TalkTalk out of administration",
-        "publicationDate": "2026-10-05",
-        "category": "Economy",
-        "summary": "Deal will result in estimated £400mn cash hit for UK’s broadband leader and wipe out debts of smaller competitor",
-        "url": "https://www.ft.com/content/27d5abde-c1cd-4dc1-932f-4812a41a66c4"
+        "summary": "Length of investment banking analyst programme to be cut to two years to try to stave off poaching of young workers by private equity",
+        "url": "https://www.ft.com/content/41b567dc-50e9-4c41-95bb-e295caaf2340?syn-25a6b1a6=1"
     },
     {
         "id": "https://cms.hoover.org/research/articles-us-china-relations-taiwan-europe-china-relations-tech-competition-japan-rare",
@@ -171,24 +441,6 @@
         "url": "https://cms.hoover.org/research/articles-taiwan-military-mobilization-south-china-sea-space-warfare-military-secrets-palau"
     },
     {
-        "id": "https://cms.hoover.org/research/articles-china-us-china-trade-tariffs-chinese-automakers-electric-vehicles-eu-china",
-        "source": "Hoover Institution",
-        "title": "Articles On: China, U.S.-China Trade, Tariffs, Chinese Automakers, Electric Vehicles, EU-China Relations, Critical Minerals, Chinese Industry, Technology, and Global Competition",
-        "publicationDate": "2026-10-04",
-        "category": "Foreign Policy",
-        "summary": "This section highlights articles and reports on the harmful impacts of the commercial and economic policies employed by the Chinese Communist Party.",
-        "url": "https://cms.hoover.org/research/articles-china-us-china-trade-tariffs-chinese-automakers-electric-vehicles-eu-china"
-    },
-    {
-        "id": "https://cms.hoover.org/research/articles-hong-kong-national-security-law-political-prisoners-press-freedom-tibet-religious",
-        "source": "Hoover Institution",
-        "title": "Articles On: Hong Kong, National Security Law, Political Prisoners, Press Freedom, Tibet, Religious Persecution, Human Rights, Xi Jinping, and Political Dissent",
-        "publicationDate": "2026-10-04",
-        "category": "Other",
-        "summary": "This section documents the myriad abuses that the Chinese Communist Party commits against its own people in violation of its commitments under the UN Universal Declaration of Human Rights.",
-        "url": "https://cms.hoover.org/research/articles-hong-kong-national-security-law-political-prisoners-press-freedom-tibet-religious"
-    },
-    {
         "id": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
         "source": "NPR Politics",
         "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
@@ -216,183 +468,21 @@
         "url": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church"
     },
     {
-        "id": "https://www.pbs.org/newshour/education/despair-over-future-fuels-political-anxiety-for-college-students-on-the-cusp-of-adulthood",
-        "source": "PBS NewsHour Politics",
-        "title": "Despair over future fuels political anxiety for college students on the cusp of adulthood",
-        "publicationDate": "2026-10-04",
-        "category": "college students",
-        "summary": "Their anxiety is fueling a restlessness with a national political system that they worry is no longer capable of improving their lives or no longer interested in helping.",
-        "url": "https://www.pbs.org/newshour/education/despair-over-future-fuels-political-anxiety-for-college-students-on-the-cusp-of-adulthood"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
-        "publicationDate": "2026-10-04",
-        "category": "Defense",
-        "summary": "The announcement comes after Trump hosted top executives of AI companies at the White House last week and said they had signed a voluntary accord that would effectively self-police the development of the technology.",
-        "url": "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force"
-    },
-    {
-        "id": "https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/",
-        "source": "The Hill",
-        "title": "Pentagon pulls B-1 bombers from UK base following alleged terror threat",
-        "publicationDate": "2026-10-04",
-        "category": "Foreign Policy",
-        "summary": "The Pentagon pulled all 12 B-1 bombers this weekend from the U.K.’s RAF Fairford air base to their home stations in the U.S. weeks after an alleged terror threat against a U.S.-operated post in England. “While operational security precluded us from confirming the movement of our assets and forces in real-time, we can acknowledge now...",
-        "url": "https://thehill.com/policy/international/6128663-us-bombers-withdraw-uk-base/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html",
-        "source": "New York Times Politics",
-        "title": "At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’",
-        "publicationDate": "2026-10-04",
-        "category": "United States Politics and Government",
-        "summary": "President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html",
-        "source": "New York Times Politics",
-        "title": "U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats",
-        "publicationDate": "2026-10-04",
-        "category": "Foreign Policy",
-        "summary": "The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html",
-        "source": "New York Times Politics",
-        "title": "How Kansas Suddenly Became a Battleground State for Senate Control",
-        "publicationDate": "2026-10-04",
-        "category": "United States Politics and Government",
-        "summary": "The state hasn’t elected a Democrat to the Senate in nearly a century. Economic challenges during President Trump’s second term, as well as other factors, have put it in play.",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html",
-        "source": "New York Times Politics",
-        "title": "Democrats Lead Governor Races Deep in Republican Territory, Polls Show",
-        "publicationDate": "2026-10-04",
-        "category": "Economy",
-        "summary": "Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas.",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html",
-        "source": "New York Times Politics",
-        "title": "How Democrats Have Changed the Way They Talk About Trans Issues",
-        "publicationDate": "2026-10-04",
-        "category": "Political Advertising",
-        "summary": "Democrats competing in historically conservative territory in the midterms are more aggressively responding to Republican attacks casting them as extreme.",
-        "url": "https://www.nytimes.com/2026/10/04/us/politics/democrats-trans-athletes-midterms.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/04/trump-launches-super-intelligence-force-after-calls-ai-slowdown/",
-        "source": "Washington Post Politics",
-        "title": "Trump launches ‘Super Intelligence Force’ after calls for AI slowdown",
-        "publicationDate": "2026-10-04",
-        "category": "Defense",
-        "summary": "Leaders from the intelligence community, the Pentagon, the Federal Trade Commission and the Office of Personnel Management will serve on the task force.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/04/trump-launches-super-intelligence-force-after-calls-ai-slowdown/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/04/democrats-are-making-plans-clean-up-government-post-trump-era/",
-        "source": "Washington Post Politics",
-        "title": "Trump’s opponents are planning efforts to reverse his changes to presidency",
-        "publicationDate": "2026-10-04",
-        "category": "Other",
-        "summary": "As the midterms approach, some of the president’s foes are working to ensure his aggressive approach to executive power doesn’t outlast him.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/04/democrats-are-making-plans-clean-up-government-post-trump-era/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/04/showdown-over-big-oil-climate-change-hits-supreme-court/",
-        "source": "Washington Post Politics",
-        "title": "Should Big Oil pay for climate change? A Supreme Court case will help decide.",
-        "publicationDate": "2026-10-04",
-        "category": "Other",
-        "summary": "Boulder, Colorado, is hoping its novel lawsuit will be the environmental equivalent of the landmark litigation that produced billions in damages and settlements against Big Tobacco and opioid makers.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/04/showdown-over-big-oil-climate-change-hits-supreme-court/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/04/shasta-countys-election-chief-lost-then-he-locked-up-ballots/",
-        "source": "Washington Post Politics",
-        "title": "An election chief lost. Then he padlocked the ballots and called the FBI.",
-        "publicationDate": "2026-10-04",
-        "category": "Other",
-        "summary": "Shasta County, California, where election doubts run so deep that some don’t trust results even when their choice prevails, offers a glimpse of what happens when distrust in voting systems takes root.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/04/shasta-countys-election-chief-lost-then-he-locked-up-ballots/"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/03/nx-s1-5989415/week-in-politics-inflation-pressure-war-in-iran-and-effect-on-midterm-elections",
-        "source": "NPR Politics",
-        "title": "Week in Politics: Inflation pressure; war in Iran and effect on midterm elections",
-        "publicationDate": "2026-10-03",
-        "category": "Economy",
-        "summary": "We look at how some concerning economic indicators as well as the ongoing war in Iran might affect the midterm elections.",
-        "url": "https://www.npr.org/2026/10/03/nx-s1-5989415/week-in-politics-inflation-pressure-war-in-iran-and-effect-on-midterm-elections"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/03/nx-s1-5983806/how-high-profile-scandals-are-shaping-key-contests-ahead-of-the-midterms",
-        "source": "NPR Politics",
-        "title": "How high-profile scandals are shaping key contests ahead of the midterms",
-        "publicationDate": "2026-10-03",
-        "category": "Other",
-        "summary": "Scandals could be shaping several races in the midterm elections, particularly in places where even small margins can change the outcome.",
-        "url": "https://www.npr.org/2026/10/03/nx-s1-5983806/how-high-profile-scandals-are-shaping-key-contests-ahead-of-the-midterms"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/economy/a-28-billion-hemp-thc-industry-is-fighting-to-save-itself-from-a-looming-federal-ban",
-        "source": "PBS NewsHour Politics",
-        "title": "A $28 billion hemp THC industry is fighting to save itself from a looming federal ban",
-        "publicationDate": "2026-10-03",
-        "category": "hemp",
-        "summary": "America's multibillion-dollar market for impairing hemp products faces potential elimination after Congress voted to close a loophole in federal law that has allowed it to flourish.",
-        "url": "https://www.pbs.org/newshour/economy/a-28-billion-hemp-thc-industry-is-fighting-to-save-itself-from-a-looming-federal-ban"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-rallies-in-ohio-to-boost-jon-husted-in-a-tight-senate-race-against-sherrod-brown",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race",
-        "publicationDate": "2026-10-03",
-        "category": "Donald Trump news",
-        "summary": "Trump is embarking on what he says will be a 32-day blitz ahead of the Nov. 3 elections, hitting the deep red states of Texas, Oklahoma and Alabama this week before pivoting to Ohio, a battleground state that's home to one of the top-tier Senate races this cycle.",
-        "url": "https://www.pbs.org/newshour/politics/trump-rallies-in-ohio-to-boost-jon-husted-in-a-tight-senate-race-against-sherrod-brown"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-urges-calls-to-arkansas-sen-tom-cotton-in-push-for-permanent-daylight-saving-time",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump urges calls to Arkansas Sen. Tom Cotton in push for permanent daylight saving time",
-        "publicationDate": "2026-10-03",
-        "category": "daylight saving time",
-        "summary": "\"If Tom Cotton were putting Arkansas first, he would give them an extra hour of daylight and, more importantly, they wouldn't have to run all over their houses, farms, work places, and everywhere else, twice a year, having to change their Clocks, and often forgetting to do so,\" Trump said on social media.",
-        "url": "https://www.pbs.org/newshour/politics/trump-urges-calls-to-arkansas-sen-tom-cotton-in-push-for-permanent-daylight-saving-time"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA3545-1.html",
-        "source": "RAND Corporation",
-        "title": "Sexual Assault and Sexual Harassment in the Coast Guard",
+        "id": "R49477",
+        "source": "Congressional Research Service",
+        "title": "Classwide Scheduling of Controlled Substances",
         "publicationDate": "2026-10-02",
-        "category": "Other",
-        "summary": "The authors evaluate the Coast Guard’s sexual assault and sexual harassment prevention and response strategies, victim support services to support recovery efforts, and accountability mechanisms.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA3545-1.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5050-1.html",
-        "source": "RAND Corporation",
-        "title": "AI Data Center Siting on Federal Lands",
-        "publicationDate": "2026-10-02",
-        "category": "Other",
-        "summary": "The U.S. government is opening federal land for data center development. In this report, the authors explore how the government could facilitate the siting and construction of data centers on federal land within the context of energy constraints.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5050-1.html"
+        "category": "Foreign Policy",
+        "summary": "As new dangerous substances appear on the illicit drug market in the United States, the Drug Enforcement Administration (DEA) may use its emergency scheduling authority to temporarily place those substances in Schedule I of the Controlled Substances Act (CSA) if the agency deems it necessary to avoid imminent hazards to public safety. (DEA was given temporary scheduling authority in the Comprehensive Crime Control...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49477/R49477.3.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/brazils-2026-election-what-to-know-and-whats-at-stake",
         "source": "Council on Foreign Relations",
-        "title": "Brazil’s 2026 Election: What to Know and What’s at Stake",
+        "title": "Brazil's 2026 Election: What to Know About the Lula-Bolsonaro Runoff",
         "publicationDate": "2026-10-02",
         "category": "Foreign Policy",
-        "summary": "Latin America’s largest democracy will hold presidential elections on October 4. Experts say the result, which will likely trigger a runoff, could reshape Brazil’s regional and international relations.",
+        "summary": "Latin America’s largest democracy will hold a runoff presidential election on October 25. Experts say the result could reshape Brazil’s regional and international relations.",
         "url": "https://www.cfr.org/articles/brazils-2026-election-what-to-know-and-whats-at-stake"
     },
     {
@@ -441,15 +531,6 @@
         "url": "https://www.heritage.org/defense/commentary/why-the-us-navy-needs-escort-carriers"
     },
     {
-        "id": "https://www.heritage.org/conservatism/event/governor-sarah-huckabee-sanders-and-derrick-morgan-clarity-and-conviction-world",
-        "source": "Heritage Foundation",
-        "title": "Governor Sarah Huckabee Sanders and Derrick Morgan on Clarity and Conviction in a World Gone Crazy",
-        "publicationDate": "2026-10-02",
-        "category": "Other",
-        "summary": "Join Heritage Foundation Executive Vice President Derrick Morgan for a conversation with Sarah Huckabee Sanders , governor of Arkansas and former White House press secretary, on her forthcoming book, Unapologetic: Clarity and Conviction in a World Gone Crazy . As political, cultural, and social institutions face growing public skepticism, Sanders argues that effective leadership begins with the courage to stand...",
-        "url": "https://www.heritage.org/conservatism/event/governor-sarah-huckabee-sanders-and-derrick-morgan-clarity-and-conviction-world"
-    },
-    {
         "id": "https://www.hudson.org/foreign-policy/americas-alliances-evolving-architecture-international-security-partnerships",
         "source": "Hudson Institute",
         "title": "America’s Alliances: The Evolving Architecture of International Security Partnerships",
@@ -486,15 +567,6 @@
         "url": "https://www.hudson.org/foreign-policy/boulder-has-no-business-making-foreign-policy-william-barr"
     },
     {
-        "id": "https://www.hudson.org/foreign-policy/navigating-new-global-order-rebeccah-heinrichs",
-        "source": "Hudson Institute",
-        "title": "Navigating the New Global Order",
-        "publicationDate": "2026-10-02",
-        "category": "Defense",
-        "summary": "Navigating the New Global Order bbert@hudson.org Fri, 10/02/2026 - 09:21 SVG Podcast Sep 23, 2026 The Reboot Chronicles Navigating the New Global Order Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs Podcast Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn...",
-        "url": "https://www.hudson.org/foreign-policy/navigating-new-global-order-rebeccah-heinrichs"
-    },
-    {
         "id": "R49457",
         "source": "Congressional Research Service",
         "title": "Measuring Housing Affordability",
@@ -504,76 +576,13 @@
         "url": "https://www.congress.gov/crs_external_products/R/PDF/R49457/R49457.2.pdf"
     },
     {
-        "id": "R48568",
+        "id": "IF13324",
         "source": "Congressional Research Service",
-        "title": "Federal Power Act: The Department of Energy’s Emergency Authority",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "Section 202(c) of the Federal Power Act (16 U.S.C. §824a(c)) grants the Secretary of Energy certain authorities over the temporary operation of the electricity system during emergencies. Actions by the Trump Administration have highlighted this authority and raised questions about its future implementation. The Federal Power Act was enacted in 1935 and included emergency authority language. At the time, federal...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48568/R48568.9.pdf"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5222-1.html",
-        "source": "RAND Corporation",
-        "title": "Santa Monica’s Recent Economic and Social Trends",
-        "publicationDate": "2026-10-01",
-        "category": "Other",
-        "summary": "Researchers compared Santa Monica’s recent economic and social trends with peer cities near Los Angeles. They found steeper declines in retail sales and tourism, but recent policy reforms may improve the city’s economic trajectory.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5222-1.html"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/spillover/central-banks-in-a-bind",
-        "source": "Council on Foreign Relations",
-        "title": "Central Banks in a Bind",
-        "publicationDate": "2026-10-01",
+        "title": "Crypto and Bank-Permissible Activities",
+        "publicationDate": "2026-09-30",
         "category": "Economy",
-        "summary": "This week on The Spillover, hosts Rebecca Patterson and Sebastian Mallaby are joined by Adam Posen, president of the Peterson Institute for International Economics, to discuss how the Federal Reserve has fallen behind the curve on inflation, Fed Chair Kevin Warsh’s task forces, and the role of AI in monetary policymaking. Mentioned on the Episode: […]",
-        "url": "https://www.cfr.org/podcasts/spillover/central-banks-in-a-bind"
-    },
-    {
-        "id": "https://www.cfr.org/articles/trumps-ai-safety-pact-is-toothless-but-there-is-a-path-forward",
-        "source": "Council on Foreign Relations",
-        "title": "Trump’s AI Safety Pact Is Toothless. But There Is a Path Forward.",
-        "publicationDate": "2026-10-01",
-        "category": "Article",
-        "summary": "The White House AI accord outlines sensible safeguards, including independent evaluators and board-level oversight, but does not compel companies to adopt them. Until the cost of safety failures outweighs the payoff of racing ahead, a pledge built on “believe” and “should” won’t slow anyone down.",
-        "url": "https://www.cfr.org/articles/trumps-ai-safety-pact-is-toothless-but-there-is-a-path-forward"
-    },
-    {
-        "id": "https://www.heritage.org/budget-and-spending/commentary/federal-government-leviathan-grows-one-5000-dividend-time",
-        "source": "Heritage Foundation",
-        "title": "Federal Government Leviathan Grows One $5,000 “Dividend” at a Time",
-        "publicationDate": "2026-10-01",
-        "category": "Defense",
-        "summary": "With President Trump offering $5,000 to every American adult if Republicans win the upcoming midterm elections, both major political parties appear to have reached the looting-the-Treasury stage of our republic’s history. Can federal spending still be cut, or are we trapped in a doom loop toward national bankruptcy? A few weeks ago, Mr. Trump pledged to give a $5,000 “dividend” to all adults if Republicans retain...",
-        "url": "https://www.heritage.org/budget-and-spending/commentary/federal-government-leviathan-grows-one-5000-dividend-time"
-    },
-    {
-        "id": "RS21852",
-        "source": "Congressional Research Service",
-        "title": "The United Arab Emirates (UAE): Issues for U.S. Policy",
-        "publicationDate": "2026-09-30",
-        "category": "Defense",
-        "summary": "The United Arab Emirates (UAE) is a federation of seven principalities or “emirates.” Its population is 10 million, of which nearly 90% are expatriates from within and outside the region who work in its economy. The UAE is a U.S.-designated “major defense partner” that hosts U.S. military personnel at UAE military facilities and buys sophisticated U.S. military equipment, including missile defenses and combat...",
-        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS21852/RS21852.160.pdf"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA5192-1.html",
-        "source": "RAND Corporation",
-        "title": "Accountability and Alignment Strategies for Implementing Edtech",
-        "publicationDate": "2026-09-30",
-        "category": "Technology",
-        "summary": "The authors use two concepts from educational policy literature, accountability and alignment, to examine strategies that a school district implemented to spur the increased usage of an educational technology platform for learning math.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA5192-1.html"
-    },
-    {
-        "id": "R49436",
-        "source": "Congressional Research Service",
-        "title": "Digital Health Information Interoperability: Background and Selected Policy Considerations",
-        "publicationDate": "2026-09-29",
-        "category": "Healthcare",
-        "summary": "Interoperability, essentially the ability of different technologies to speak with one another, is a key concept in the advancement of modernized digital health information exchange across a variety of health-related settings nationwide. Health information systems in part use health information technology (IT), a broad category of tools that may encompass electronic health records (EHRs), patient portals, medical...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49436/R49436.2.pdf"
+        "summary": "By law, banks can engage only in “the business of banking” and related or incidental activities. These limitations differentiate banks from other financial firms. The business of banking includes accepting customer deposits and making loans. But what else should be permitted? Over time, Congress and the federal bank regulators have permitted numerous and diverse activities that have broadened the scope of banking....",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13324/IF13324.1.pdf"
     },
     {
         "id": "https://www.cer.eu/media/unpacking-europe-scaling-innovation-europe",
@@ -610,15 +619,6 @@
         "category": "Other",
         "summary": "Description not available from the source feed.",
         "url": "https://www.cer.eu/cerdelegation-eu-uk-party-conference-fringe-events-2026"
-    },
-    {
-        "id": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis",
-        "source": "Centre for European Reform",
-        "title": "RTÉ Radio 1: EU meet on Ceuta migrant crisis",
-        "publicationDate": "2026-08-24",
-        "category": "Other",
-        "summary": "Barry Lenihan, RTÉ Political Correspondent and Camino Mortera-Martinez, an associate fellow at the Centre for European Reform and former adviser to Spanish Prime Minister Pedro Sanchez. Camino Mortera-Martinez View multimedia 04 August 2026",
-        "url": "https://www.cer.eu/media/rt%C3%A9-radio-1-eu-meet-ceuta-migrant-crisis"
     },
     {
         "id": "IF10199",
