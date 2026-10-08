@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4654-1.html",
+        "source": "RAND Corporation",
+        "title": "Mapping AI Ecosystems in the Netherlands and the United Kingdom",
+        "publicationDate": "2026-10-08",
+        "category": "Healthcare",
+        "summary": "This report maps UK and Dutch AI ecosystems, identifying collaboration opportunities in health, agrifood and compute. The UK offers scale, frontier research and investment; the Netherlands offers specialisation and public-private coordination.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4654-1.html"
+    },
+    {
         "id": "https://www.cfr.org/articles/are-the-u-s-midterms-vulnerable-to-foreign-meddling",
         "source": "Council on Foreign Relations",
         "title": "Are the U.S. Midterms Vulnerable to Foreign Meddling?",
@@ -18,58 +27,157 @@
         "url": "https://www.heritage.org/global-politics/report/time-end-the-long-iran-nicaragua-relationship"
     },
     {
-        "id": "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club",
+        "id": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
         "source": "NPR Politics",
-        "title": "Trump proposes Camp David-style presidential retreat at his private Florida golf club",
+        "title": "White House correspondent April Ryan reflects on reporting while under attack",
         "publicationDate": "2026-10-08",
         "category": "Other",
-        "summary": "President Trump said he wants to develop one of his Florida golf courses into a presidential retreat where his successors can spend quiet weekends, describing it as \"sort of a Camp David.\"",
-        "url": "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club"
+        "summary": "Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump's crosshairs. Her new book is Notes on a Blacklash .",
+        "url": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack"
     },
     {
-        "id": "https://thehill.com/homenews/6135542-roger-clemens-medal-of-freedom-trump/",
-        "source": "The Hill",
-        "title": "Former MLB pitcher Roger Clemens to receive Medal of Freedom, Trump says",
+        "id": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury",
+        "source": "NPR Politics",
+        "title": "ICE has quietly used this warehouse as a detention facility all summer, neighbors say",
         "publicationDate": "2026-10-08",
-        "category": "News",
-        "summary": "President Trump said he will award controversial baseball legend Roger Clemens the Presidential Medal of Freedom, saying the honor is a “big step up” from the MLB’s Hall of Fame — which has repeatedly declined to recognize him. “I’m pleased to announce that we are taking it into our own hands. Forget about the Hall...",
-        "url": "https://thehill.com/homenews/6135542-roger-clemens-medal-of-freedom-trump/"
+        "category": "Other",
+        "summary": "Throughout the summer, rumors have been bubbling in North New Jersey that ICE has quietly been using a warehouse as a detention center. NPR investigated.",
+        "url": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6135540-trump-cuellar-pardon-tijerina-texas-midterms/",
+        "id": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
+        "source": "NPR Politics",
+        "title": "As crypto and prediction markets expand, their regulator shrinks",
+        "publicationDate": "2026-10-08",
+        "category": "Other",
+        "summary": "Even as the agency is tasked with drawing up new rules for crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration.",
+        "url": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/08/nx-s1-5993809/2026-house-map-democrats-flip-republicans-tossup-triage",
+        "source": "NPR Politics",
+        "title": "Toss-ups, triage and targets: How to read the wide-open 2026 House map",
+        "publicationDate": "2026-10-08",
+        "category": "Other",
+        "summary": "Both parties are spending heavily in roughly 60 House districts — where Trump won by an average of 9 points in 2024 — that could be key to deciding control of the chamber, an NPR analysis finds.",
+        "url": "https://www.npr.org/2026/10/08/nx-s1-5993809/2026-house-map-democrats-flip-republicans-tossup-triage"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney",
+        "source": "NPR Politics",
+        "title": "How 'Musk' director Alex Gibney became a critic",
+        "publicationDate": "2026-10-08",
+        "category": "Other",
+        "summary": "A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men.",
+        "url": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-vance-says-microsoft-is-being-suspended-from-green-card-program-for-h-1b-visa-workers",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Vance says Microsoft is being suspended from green card program for H-1B visa workers",
+        "publicationDate": "2026-10-08",
+        "category": "Donald Trump news",
+        "summary": "President Donald Trump's administration is suspending tech giant Microsoft from a program to apply for green cards for workers who come to the U.S. to live and work using H-1B visas as it accuses the company of fraud.",
+        "url": "https://www.pbs.org/newshour/politics/watch-vance-says-microsoft-is-being-suspended-from-green-card-program-for-h-1b-visa-workers"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/world/report-alleges-ambassador-guilfoyle-improperly-asked-a-donor-to-pay-her-credit-card-bill-rubio-refuses-to-comment",
+        "source": "PBS NewsHour Politics",
+        "title": "Report alleges Ambassador Guilfoyle improperly asked a donor to pay her credit card bill. Rubio refuses to comment",
+        "publicationDate": "2026-10-08",
+        "category": "ambassadors",
+        "summary": "Secretary of State Marco Rubio told reporters that he would not discuss the allegations contained in a Wall Street Journal story that said U.S. Ambassador to Greece Kimberly Guilfoyle had asked a donor and supporter of President Donald Trump to pay a $100,000 credit card bill just before her confirmation hearing, promising him access to administration officials if he did.",
+        "url": "https://www.pbs.org/newshour/world/report-alleges-ambassador-guilfoyle-improperly-asked-a-donor-to-pay-her-credit-card-bill-rubio-refuses-to-comment"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-awards-elon-musk-the-national-medal-of-science-among-other-awards-for-tech-execs",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Trump awards Elon Musk the National Medal of Science, among other awards for tech execs",
+        "publicationDate": "2026-10-08",
+        "category": "Technology",
+        "summary": "President Donald Trump on Thursday is expected to hand out several of the nation's highest science and technology honors, including to the entrepreneur and former DOGE chief Elon Musk.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-awards-elon-musk-the-national-medal-of-science-among-other-awards-for-tech-execs"
+    },
+    {
+        "id": "https://thehill.com/homenews/education/6136433-vance-foreign-student-visas-j-1/",
         "source": "The Hill",
-        "title": "Trump reups beef with 'ungrateful' Cuellar for staying Democrat after pardon",
+        "title": "Vance says 9 universities will be investigated over foreign visas",
+        "publicationDate": "2026-10-08",
+        "category": "Foreign Policy",
+        "summary": "Vice President Vance on Thursday announced a probe into multiple colleges over their use of the J-1 visa program that allows foreign students and researchers to come study or work in the U.S. \"Elite universities bring in foreigners to undercut the wages of American residents,\" Vance said in a press conference regarding fraud and abuse in work...",
+        "url": "https://thehill.com/homenews/education/6136433-vance-foreign-student-visas-j-1/"
+    },
+    {
+        "id": "https://thehill.com/opinion/technology/6135669-faa-modernization-funding-critique/",
+        "source": "The Hill",
+        "title": "A check is not a plan for improving the FAA",
+        "publicationDate": "2026-10-08",
+        "category": "Technology",
+        "summary": "Former FAA air traffic controller Vincent E. Bianco III argued that Congress should approve Transportation Secretary Sean Duffy's $30 billion modernization request only if it includes strict conditions like redundant physical routes, milestone-based funding, and integrated staff training.",
+        "url": "https://thehill.com/opinion/technology/6135669-faa-modernization-funding-critique/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6135113-live-updates-trump-midterm-elections-debates-tech-iran/",
+        "source": "The Hill",
+        "title": "Live updates: Vance lays out work visa penalties for Microsoft, Adobe; Trump media ban returns to court",
         "publicationDate": "2026-10-08",
         "category": "Administration",
-        "summary": "President Trump ripped into Rep. Henry Cuellar (D-Texas) Wednesday evening for not switching parties after receiving a presidential pardon in 2025, the latest development in a feud that has intensified since the Democrat announced his reelection bid. In a Truth Social post ahead of a campaign rally in San Antonio, the president said he did...",
-        "url": "https://thehill.com/homenews/administration/6135540-trump-cuellar-pardon-tijerina-texas-midterms/"
+        "summary": "Vice President Vance on Thursday announced the Trump administration is penalizing Microsoft and Adobe, among other firms, alleging fraud in its use of H1-B work visas. The tech giants will no longer be allowed to apply for green cards for workers. CNN, MS NOW and Politico's lawsuit against the Trump administration's ban of the media...",
+        "url": "https://thehill.com/homenews/administration/6135113-live-updates-trump-midterm-elections-debates-tech-iran/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6135511-shapiro-garrity-debate-takeaways/",
+        "id": "https://thehill.com/policy/technology/6136384-nfl-urges-supreme-court-prediction-markets/",
         "source": "The Hill",
-        "title": "Shapiro, Garrity clash on data centers, measles response in Pennsylvania governor debate: 4 takeaways",
+        "title": "NFL urges Supreme Court to take up prediction market dispute",
         "publicationDate": "2026-10-08",
-        "category": "Campaign",
-        "summary": "Pennsylvania Gov. Josh Shapiro (D) and state Treasurer Stacy Garrity (R), their parties' nominees to lead the commonwealth, sparred over an ongoing measles outbreak, voter ID reform and data centers during their first and only scheduled debate on Wednesday evening. The debate was hosted by ABC27, a local affiliate of The Hill’s parent company, Nexstar...",
-        "url": "https://thehill.com/homenews/campaign/6135511-shapiro-garrity-debate-takeaways/"
+        "category": "Technology",
+        "summary": "The National Football League (NFL) urged the Supreme Court on Thursday to take up a case over who has the authority to regulate prediction markets, arguing that wagers on the platforms should fall under state gambling laws. The league filed an amicus brief as part of a dispute between Kalshi and the state of New...",
+        "url": "https://thehill.com/policy/technology/6136384-nfl-urges-supreme-court-prediction-markets/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6135515-fda-mifepristone-abortion-pill-review-delay/",
+        "id": "https://thehill.com/policy/healthcare/6136385-lower-premiums-faster-payments-act/",
         "source": "The Hill",
-        "title": "FDA: Mifepristone review won't be done until March",
-        "publicationDate": "2026-10-08",
-        "category": "Healthcare",
-        "summary": "The Food and Drug Administration (FDA) won’t publish its safety review of the abortion drug mifepristone until March, it disclosed in a Wednesday court filing, adding that it won’t impose any new restrictions on the pill before that point. The revelations are likely to further anger anti-abortion activists, who have been losing patience with the...",
-        "url": "https://thehill.com/policy/healthcare/6135515-fda-mifepristone-abortion-pill-review-delay/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6135522-turek-hinson-spar-in-first-iowa-senate-debate-3-takeaways/",
-        "source": "The Hill",
-        "title": "Turek, Hinson spar in first Iowa Senate debate: 3 takeaways",
+        "title": "Top House Dem unveils surprise medical billing overhaul",
         "publicationDate": "2026-10-08",
         "category": "Healthcare",
-        "summary": "U.S. Rep. Ashley Hinson (R-Iowa) and state Rep. Josh Turek (D-Iowa), the two candidates for Senate, faced off in a debate Wednesday night, where health care cuts and agriculture were significant topics, as well as each candidate’s voting record and attendance in their current roles. Hinson and Turek are running to replace retiring Sen. Joni...",
-        "url": "https://thehill.com/homenews/campaign/6135522-turek-hinson-spar-in-first-iowa-senate-debate-3-takeaways/"
+        "summary": "New legislation from Rep. Frank Pallone (D-N.J.), the top Democrat on the powerful House Energy and Commerce Committee, aims to overhaul a key part of a law that protects patients from surprise medical bills. The new bill aims to fix what Pallone and critics say is the flawed dispute resolution system between insurers and providers. ...",
+        "url": "https://thehill.com/policy/healthcare/6136385-lower-premiums-faster-payments-act/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/08/us/politics/the-docket-comey-free-speech.html",
+        "source": "New York Times Politics",
+        "title": "The Seashells Case Against Comey at a Crossroads",
+        "publicationDate": "2026-10-08",
+        "category": "United States Politics and Government",
+        "summary": "A judge will soon rule on whether the former F.B.I. director must face trial for an Instagram post.",
+        "url": "https://www.nytimes.com/2026/10/08/us/politics/the-docket-comey-free-speech.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html",
+        "source": "New York Times Politics",
+        "title": "Trump Administration Suspends Microsoft From Green Card Program",
+        "publicationDate": "2026-10-08",
+        "category": "United States Politics and Government",
+        "summary": "Vice President JD Vance singled out the tech firm as he and other officials accused several companies and universities of committing visa fraud.",
+        "url": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/08/us/politics/uss-abraham-lincoln-san-diego.html",
+        "source": "New York Times Politics",
+        "title": "Long-Deployed Aircraft Carrier U.S.S. Abraham Lincoln Set for Homecoming",
+        "publicationDate": "2026-10-08",
+        "category": "Foreign Policy",
+        "summary": "The ship, whose crew endured food shortages, spent much of its nearly 11-month deployment in combat without a day off.",
+        "url": "https://www.nytimes.com/2026/10/08/us/politics/uss-abraham-lincoln-san-diego.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/08/travel/airlines-flights-passenger-rights-trump.html",
+        "source": "New York Times Politics",
+        "title": "How the Trump Administration Is Eroding Airline Passengers’ Rights",
+        "publicationDate": "2026-10-08",
+        "category": "Airlines and Airplanes",
+        "summary": "Under Sean Duffy, the Transportation Department has worked to roll back consumer protections. Passenger advocates say the changes favor airlines.",
+        "url": "https://www.nytimes.com/2026/10/08/travel/airlines-flights-passenger-rights-trump.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/07/us/politics/iowa-senate-debate-ashley-hinson-josh-turek.html",
@@ -81,148 +189,148 @@
         "url": "https://www.nytimes.com/2026/10/07/us/politics/iowa-senate-debate-ashley-hinson-josh-turek.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/07/us/politics/sept-11-case-confession.html",
-        "source": "New York Times Politics",
-        "title": "Judge Throws Out Last Defendant’s Confession in Sept. 11 Case at Guantánamo",
+        "id": "https://www.washingtonpost.com/politics/2026/10/08/trump-calls-paxton-talarico-debate-texas-senate-race-heats-up/",
+        "source": "Washington Post Politics",
+        "title": "Trump calls for Paxton-Talarico debate as Texas Senate race heats up",
         "publicationDate": "2026-10-08",
-        "category": "September 11 (2001)",
-        "summary": "The government is now 0-5 in its efforts to admit the so-called clean team confessions to the capital cases at Guantánamo Bay.",
-        "url": "https://www.nytimes.com/2026/10/07/us/politics/sept-11-case-confession.html"
+        "category": "Other",
+        "summary": "Texas Attorney General Ken Paxton has repeatedly rebuffed calls to debate his Democratic opponent James Talarico, who has not been seen on the trail for days after becoming sick.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/08/trump-calls-paxton-talarico-debate-texas-senate-race-heats-up/"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/07/us/politics/kennedy-vaccine-injuries.html",
-        "source": "New York Times Politics",
-        "title": "RFK Jr. Plans Vaccine Injury Initiative, Drawing Wary Eye From Experts",
+        "id": "https://www.washingtonpost.com/politics/2026/10/08/gop-hope-democratic-worry-are-midterm-polls-underestimating-republicans/",
+        "source": "Washington Post Politics",
+        "title": "GOP hope, Democratic worry: Are midterm polls underestimating Republicans?",
+        "publicationDate": "2026-10-08",
+        "category": "Other",
+        "summary": "Are Democrats overconfident? Republicans too anxious? The Post’s pollster answers questions about polling bias and how to read the midterm surveys.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/08/gop-hope-democratic-worry-are-midterm-polls-underestimating-republicans/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/08/trump-says-we-protect-our-cities-after-suggesting-iran-could-take-out-la-or-san-diego/",
+        "source": "Washington Post Politics",
+        "title": "Trump says ‘we protect our cities’ after suggesting Iran could ‘take out’ L.A. or San Diego",
+        "publicationDate": "2026-10-08",
+        "category": "Foreign Policy",
+        "summary": "At a rally Wednesday, the president repeated remarks about Iran attacking the cities but added that “we’re not going to let that happen.”",
+        "url": "https://www.washingtonpost.com/politics/2026/10/08/trump-says-we-protect-our-cities-after-suggesting-iran-could-take-out-la-or-san-diego/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/08/obama-endorses-troy-jackson-maine-senate-race/",
+        "source": "Washington Post Politics",
+        "title": "Obama endorses Troy Jackson in Maine Senate race",
+        "publicationDate": "2026-10-08",
+        "category": "Other",
+        "summary": "The former president told voters he is “proud to be on board” the Democrats’ campaign to oust Republican Sen. Susan Collins.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/08/obama-endorses-troy-jackson-maine-senate-race/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/08/october-surprise-isnt-what-it-used-be/",
+        "source": "Washington Post Politics",
+        "title": "The October Surprise isn’t what it used to be",
+        "publicationDate": "2026-10-08",
+        "category": "Other",
+        "summary": "The idea of one news story remaking an entire election in the final weeks of the campaign might be from a bygone era.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/08/october-surprise-isnt-what-it-used-be/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+        "publicationDate": "2026-10-08",
+        "category": "Foreign Policy",
+        "summary": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+        "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
         "publicationDate": "2026-10-08",
         "category": "Healthcare",
-        "summary": "Vaccine safety experts say more research into the side effects would be welcome yet question whether the health secretary’s effort will be grounded in science.",
-        "url": "https://www.nytimes.com/2026/10/07/us/politics/kennedy-vaccine-injuries.html"
+        "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/07/takeaways-iowa-senate-debate-between-ashley-hinson-josh-turek/",
-        "source": "Washington Post Politics",
-        "title": "Takeaways from Iowa Senate debate between Ashley Hinson, Josh Turek",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "Rep. Ashley Hinson (R) and state Rep. Josh Turek (D), who are running for an open Senate seat in Iowa, clashed during their first encounter.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/07/takeaways-iowa-senate-debate-between-ashley-hinson-josh-turek/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/07/trump-returns-texas-where-republicans-are-struggling/",
-        "source": "Washington Post Politics",
-        "title": "Trump returns to Texas, where Republicans are struggling",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "Republicans are spending heavily to defend a state the president won comfortably two years ago.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/07/trump-returns-texas-where-republicans-are-struggling/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/health/2026/10/07/trump-administration-paving-way-temporary-sale-some-unapproved-peptides/",
-        "source": "Washington Post Politics",
-        "title": "Trump administration paving way for temporary sale of some unapproved peptides",
-        "publicationDate": "2026-10-08",
-        "category": "Healthcare",
-        "summary": "Food and Drug Administration scientists and some medical experts have raised alarms about increasing access to certain peptides.",
-        "url": "https://www.washingtonpost.com/health/2026/10/07/trump-administration-paving-way-temporary-sale-some-unapproved-peptides/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+        "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
         "publicationDate": "2026-10-08",
         "category": "Other",
-        "summary": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
-        "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss"
+        "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+        "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+        "title": "Residents airlifted to safety after flooding in central Chile",
         "publicationDate": "2026-10-08",
         "category": "Other",
-        "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+        "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+        "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
         "publicationDate": "2026-10-08",
         "category": "Other",
-        "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss"
+        "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
-        "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/12c60e75-48be-45f8-a763-02ad0b2c0f8c?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Royal Navy serviceman charged with spying for foreign power",
-        "publicationDate": "2026-10-08",
-        "category": "Defense",
-        "summary": "Teddy Young set to appear at Westminster Magistrates’ Court on Thursday",
-        "url": "https://www.ft.com/content/12c60e75-48be-45f8-a763-02ad0b2c0f8c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/f21b32f5-011f-4716-a206-9382fd335fa6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Deloitte fined £6mn for audit failures at Southeastern rail operator",
+        "title": "Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz",
         "publicationDate": "2026-10-08",
         "category": "Other",
-        "summary": "Accounting watchdog criticises ‘highly concerning pattern of failure’ in work at Go-Ahead over four years",
-        "url": "https://www.ft.com/content/f21b32f5-011f-4716-a206-9382fd335fa6?syn-25a6b1a6=1"
+        "summary": "Transit through vital waterway rose close to 90% of prewar levels last month but has since fallen sharply",
+        "url": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/2cb13aed-f6bf-4f45-b906-fa1194405a0c?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/b2325cbe-44b6-4941-a60d-97fd9cff47ce?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Iran war blows near-£12bn hole in Britain’s public finances",
-        "publicationDate": "2026-10-08",
-        "category": "Economy",
-        "summary": "FT estimates show inflation and soaring borrowing costs have slashed chancellor John Healey’s headroom in half",
-        "url": "https://www.ft.com/content/2cb13aed-f6bf-4f45-b906-fa1194405a0c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/3d482d55-dc7d-44d9-9ad3-a374e6d5e97d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham heads to Berlin in bid to win support from Merz for closer EU ties",
+        "title": "Two Latvian nationals arrested on suspicion of trespass at RAF base",
         "publicationDate": "2026-10-08",
         "category": "Other",
-        "summary": "Prime minister to hold talks after embarking on review of government’s European policy",
-        "url": "https://www.ft.com/content/3d482d55-dc7d-44d9-9ad3-a374e6d5e97d?syn-25a6b1a6=1"
+        "summary": "Men arrested inside perimeter of Cambridgeshire air base on suspicion of ‘entering a prohibited place for a purpose prejudicial to the UK’",
+        "url": "https://www.ft.com/content/b2325cbe-44b6-4941-a60d-97fd9cff47ce?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/edb717f9-6512-424c-a3a5-50e43239adf8?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Tips and Linkers",
+        "title": "Scores of Riyadh flights cancelled after Houthis target airport",
         "publicationDate": "2026-10-08",
         "category": "Other",
-        "summary": "Not as safe as they seem",
-        "url": "https://www.ft.com/content/edb717f9-6512-424c-a3a5-50e43239adf8?syn-25a6b1a6=1"
+        "summary": "Saudi-led coalition said it intercepted missiles as residents hear booms over the capital",
+        "url": "https://www.ft.com/content/7e39cdb9-977c-4a4c-b35c-6f775a9822db?syn-25a6b1a6=1"
     },
     {
-        "id": "LSB11486",
+        "id": "https://www.ft.com/content/efdc00f5-2e70-40ba-803b-538e9e63462e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Pension ‘triple lock’ was first costed at just £50mn, says ex-government adviser",
+        "publicationDate": "2026-10-08",
+        "category": "Other",
+        "summary": "Guarantee on value of state pension was a demand of Liberal Democrats in negotiations to form coalition with Tories after 2010 election",
+        "url": "https://www.ft.com/content/efdc00f5-2e70-40ba-803b-538e9e63462e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/c163a470-e73f-4fdb-91fb-426004b21f22?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Daughter of Trump’s chief of staff works at firm that lobbies for Republika Srpska",
+        "publicationDate": "2026-10-08",
+        "category": "Foreign Policy",
+        "summary": "Susie Wiles’s daughter is latest White House-linked adviser to the Russian-aligned Balkan entity",
+        "url": "https://www.ft.com/content/c163a470-e73f-4fdb-91fb-426004b21f22?syn-25a6b1a6=1"
+    },
+    {
+        "id": "R49480",
         "source": "Congressional Research Service",
-        "title": "Appointing the Comptroller General: Law and History",
+        "title": "The Good Neighbor Authority on Federal Lands: In Brief",
         "publicationDate": "2026-10-07",
-        "category": "Economy",
-        "summary": "The Government Accountability Office’s (GAO’s) structure is unique. The agency is part of the legislative branch, but has a leader—the Comptroller General (Comptroller)—who is appointed by the President with the advice and consent of the Senate to a 15-year term and, unlike any other officer in the federal government, may be removed only for cause after enactment of a joint resolution or through impeachment. There...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11486/LSB11486.1.pdf"
+        "category": "Healthcare",
+        "summary": "Under the Good Neighbor Authority, the Secretaries of Agriculture and the Interior (“Secretaries”) may authorize specified nonfederal partners to conduct land management projects on certain federal lands in pursuit of specified land management goals. These land management goals include treating insect and disease infestations; reducing hazardous fuels; activities to restore or improve forest, rangeland, and...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49480/R49480.1.pdf"
     },
     {
         "id": "IF13326",
@@ -234,13 +342,13 @@
         "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13326/IF13326.1.pdf"
     },
     {
-        "id": "IF10890",
+        "id": "LSB11486",
         "source": "Congressional Research Service",
-        "title": "China Primer: Illicit Fentanyl and China’s Role",
+        "title": "Appointing the Comptroller General: Law and History",
         "publicationDate": "2026-10-07",
-        "category": "Defense",
-        "summary": "For over a decade, the synthetic opioid fentanyl and fentanyl-related substances have been key drivers of the U.S. opioid crisis. Countering the illicit trafficking of fentanyl and the precursor chemicals (“precursors”) used to make it has been a U.S. priority. In 2017, the U.S. Department of State first identified the People’s Republic of China (PRC, or China) as the main source of U.S.-bound fentanyl and fentanyl...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10890/IF10890.23.pdf"
+        "category": "Economy",
+        "summary": "The Government Accountability Office’s (GAO’s) structure is unique. The agency is part of the legislative branch, but has a leader—the Comptroller General (Comptroller)—who is appointed by the President with the advice and consent of the Senate to a 15-year term and, unlike any other officer in the federal government, may be removed only for cause after enactment of a joint resolution or through impeachment. There...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11486/LSB11486.1.pdf"
     },
     {
         "id": "https://www.cfr.org/podcasts/presidents-inbox/will-there-be-meddling-in-the-midterms",
@@ -324,6 +432,24 @@
         "url": "https://www.hudson.org/foreign-policy/october-7-exposed-terrifying-american-truths-launched-righteous-reckoning-liel-leibovitz"
     },
     {
+        "id": "https://cms.hoover.org/research/prop-1-veterans-and-affordable-housing-bond",
+        "source": "Hoover Institution",
+        "title": "PROP 1: The Veterans and Affordable Housing Bond",
+        "publicationDate": "2026-10-07",
+        "category": "Other",
+        "summary": "Official ballot title: The Veterans and Affordable Housing Bond Act of 2026 (SB 417, Chapter 16, Statutes of 2026, Limón).",
+        "url": "https://cms.hoover.org/research/prop-1-veterans-and-affordable-housing-bond"
+    },
+    {
+        "id": "https://cms.hoover.org/proposition-lab-proposition-1",
+        "source": "Hoover Institution",
+        "title": "Proposition Lab: Proposition 1",
+        "publicationDate": "2026-10-07",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/proposition-lab-proposition-1"
+    },
+    {
         "id": "https://cms.hoover.org/research/victor-davis-hanson-truth-about-october-7-three-years-later",
         "source": "Hoover Institution",
         "title": "Victor Davis Hanson: The Truth About October 7, Three Years Later",
@@ -351,60 +477,6 @@
         "url": "https://cms.hoover.org/research/francis-fukumayas-and-ezekiel-emmanuels-pro-death-views"
     },
     {
-        "id": "https://cms.hoover.org/research/panel-will-discuss-new-perspectives-formative-education",
-        "source": "Hoover Institution",
-        "title": "Panel Will Discuss New Perspectives On Formative Education",
-        "publicationDate": "2026-10-07",
-        "category": "Other",
-        "summary": "Hoover Institution fellow William Damon will be joining a panel discussion to examine formative education and what it means to support students’ intellectual, emotional, ethical, and spiritual development—in the classroom, on campus, and beyond. The event will take place on October 8 at 4:30 PM at the Yawkey Athletics Center Murray Family Function Room.",
-        "url": "https://cms.hoover.org/research/panel-will-discuss-new-perspectives-formative-education"
-    },
-    {
-        "id": "https://cms.hoover.org/research/climate-facts-refute-hype",
-        "source": "Hoover Institution",
-        "title": "Climate Facts Refute The Hype",
-        "publicationDate": "2026-10-07",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Bjorn Lomborg has for years been an opponent of extreme policies that attempt to combat climate change. He acknowledges that human-caused climate change is indeed real but is not an apocalyptic crisis and that aggressive net-zero carbon policies are too expensive and hurt the poorest in society. As opposed to attempting to alter climate change, he recommends adapting to it, something that...",
-        "url": "https://cms.hoover.org/research/climate-facts-refute-hype"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
-        "source": "NPR Politics",
-        "title": "Trump approved the military's 1st firing squad execution since WWII. Why now?",
-        "publicationDate": "2026-10-07",
-        "category": "Defense",
-        "summary": "The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee.",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
-        "source": "NPR Politics",
-        "title": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
-        "publicationDate": "2026-10-07",
-        "category": "Healthcare",
-        "summary": "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno",
-        "source": "NPR Politics",
-        "title": "Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive",
-        "publicationDate": "2026-10-07",
-        "category": "Other",
-        "summary": "Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability",
-        "source": "NPR Politics",
-        "title": "'Medicare for All' message attracts midterm voters buckling under medical bills",
-        "publicationDate": "2026-10-07",
-        "category": "Healthcare",
-        "summary": "Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.",
-        "url": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/why-french-students-are-leading-massive-protests-across-the-country",
         "source": "PBS NewsHour Politics",
         "title": "Why French students are leading massive protests across the country",
@@ -423,76 +495,13 @@
         "url": "https://www.pbs.org/newshour/show/news-wrap-lawyer-says-christa-pike-angry-and-confused-following-botched-execution"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/georgia-governors-debate-highlights-voterss-top-concerns",
-        "source": "PBS NewsHour Politics",
-        "title": "Georgia governor's debate highlights voters' top concerns",
-        "publicationDate": "2026-10-07",
-        "category": "Democrats",
-        "summary": "While much of the focus this midterm season is on congressional races, there are also 36 states across the country holding elections for governor. One of those is Georgia, a purple state where the former Democratic mayor of Atlanta, Keisha Lance Bottoms, and Republican businessman Rick Jackson held their first and only televised debate. Liz Landers reports.",
-        "url": "https://www.pbs.org/newshour/show/georgia-governors-debate-highlights-voterss-top-concerns"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/republican-and-democratic-strategists-on-closing-messages-and-where-they-expect-to-win",
-        "source": "PBS NewsHour Politics",
-        "title": "Republican and Democratic strategists on closing messages and where they expect to win",
-        "publicationDate": "2026-10-07",
-        "category": "Democrats",
-        "summary": "Republicans hold a massive financial advantage, but it's Democrats making gains in the polls in the final month of the midterm elections cycle. To discuss each party's closing strategy, Amna Nawaz sat down with Democratic strategist Faiz Shakir and Republican strategist and media consultant Melik Abdul.",
-        "url": "https://www.pbs.org/newshour/show/republican-and-democratic-strategists-on-closing-messages-and-where-they-expect-to-win"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/oct-7-survivor-channels-trauma-into-movement-for-new-generation-of-israeli-leaders",
-        "source": "PBS NewsHour Politics",
-        "title": "Oct. 7 survivor channels trauma into movement for new generation of Israeli leaders",
-        "publicationDate": "2026-10-07",
-        "category": "Hamas",
-        "summary": "Israel is marking the third anniversary of one of its darkest days. On Oct. 7, 2023, Hamas terrorists stormed Israeli communities, killing 1,200 people and kidnapping 251 more. Nick Schifrin reports on one survivor and his determination to create, out of the horrors, a new generation of Israeli leadership. A warning: This story includes disturbing images.",
-        "url": "https://www.pbs.org/newshour/show/oct-7-survivor-channels-trauma-into-movement-for-new-generation-of-israeli-leaders"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/07/us/politics/ken-paxton-texas-senate-race.html",
-        "source": "New York Times Politics",
-        "title": "Who Is Ken Paxton Turning to for Help in the Texas Senate Race?",
-        "publicationDate": "2026-10-07",
-        "category": "Politics and Government",
-        "summary": "Trump is in Texas tonight to stump for the Senate candidate.",
-        "url": "https://www.nytimes.com/2026/10/07/us/politics/ken-paxton-texas-senate-race.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/07/us/politics/execution-fort-hood-shooting.html",
-        "source": "New York Times Politics",
-        "title": "Army Sets Date for First Military Execution by Firing Squad Since 1945",
-        "publicationDate": "2026-10-07",
-        "category": "Defense",
-        "summary": "Maj. Nidal Malik Hasan, a former Army psychiatrist, will be shot to death on Dec. 3 at Fort Hood, where he killed 13 and wounded 32 in 2009.",
-        "url": "https://www.nytimes.com/2026/10/07/us/politics/execution-fort-hood-shooting.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/07/democratic-national-committee-sues-stop-taxpayer-funded-trump-ads/",
-        "source": "Washington Post Politics",
-        "title": "Democratic National Committee sues to stop taxpayer-funded Trump ads",
-        "publicationDate": "2026-10-07",
-        "category": "Economy",
-        "summary": "The lawsuit claims the administration broke multiple laws by using government money to air campaign-style ads.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/07/democratic-national-committee-sues-stop-taxpayer-funded-trump-ads/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/health/2026/10/07/trump-says-we-dont-think-russian-plague-case-is-bioweapon/",
-        "source": "Washington Post Politics",
-        "title": "Trump says ‘we don’t think’ Russian plague case is a bioweapon",
-        "publicationDate": "2026-10-07",
-        "category": "Foreign Policy",
-        "summary": "U.S. officials have asked Russia to provide more information about the lab worker’s reported death and the country’s elevated response.",
-        "url": "https://www.washingtonpost.com/health/2026/10/07/trump-says-we-dont-think-russian-plague-case-is-bioweapon/"
-    },
-    {
         "id": "R44628",
         "source": "Congressional Research Service",
         "title": "Election and Voting Law: Resources for Congressional Offices",
         "publicationDate": "2026-10-06",
         "category": "Economy",
         "summary": "This report is intended to serve as a starting point for congressional offices covering voting and elections. It focuses on resources related to laws governing federal elections and voting. It outlines and describes some of the key sources of laws, pending legislation, regulations, cases, CRS Products, and federal agencies working in this subject area. It also contains sections dedicated to the voting process,...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44628/R44628.8.pdf"
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44628/R44628.9.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4405-6.html",
@@ -565,15 +574,6 @@
         "category": "Defense",
         "summary": "The authors analyze observations from Infinite Potential games with AI loss of control to identify issues, capabilities, and recommendations needed to navigate the potential collapse of social legitimacy, economic stability, and technical control.",
         "url": "https://www.rand.org/pubs/research_reports/RRA4767-3.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4571-1.html",
-        "source": "RAND Corporation",
-        "title": "Assessing Chinese and U.S. Technology Diffusion Capacity",
-        "publicationDate": "2026-10-05",
-        "category": "Economy",
-        "summary": "The U.S.-China tech rivalry hinges not only on innovation but also on achieving widespread technological diffusion in the economy. This report examines both countries’ capacity to convert technological progress into sustained productivity gains.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4571-1.html"
     },
     {
         "id": "https://www.cer.eu/media/times-radio-uk-rejoining-eu",
