@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://thehill.com/regulation/court-battles/6138098-arlington-county-trump-arch-lawsuit/",
+        "source": "The Hill",
+        "title": "Arlington County sues to block Trump arch after project gets key approval",
+        "publicationDate": "2026-10-09",
+        "category": "Court Battles",
+        "summary": "Arlington County has filed a lawsuit to block President Trump’s proposed triumphal arch following the project's approval by the U.S. Commission of Fine Arts in April. The lawsuit opposed the construction of the proposed 250-foot arch, citing concerns about the project’s impact on tourism and safety to local residents. “Using the Arch to store large...",
+        "url": "https://thehill.com/regulation/court-battles/6138098-arlington-county-trump-arch-lawsuit/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6138012-second-maine-senate-debate-collins-jackson-takeaways/",
+        "source": "The Hill",
+        "title": "Second Maine Senate debate takes testy turn: 3 takeaways",
+        "publicationDate": "2026-10-09",
+        "category": "Foreign Policy",
+        "summary": "Republican Sen. Susan Collins and Democrat Troy Jackson squared off Thursday in the second Maine Senate debate of the week, sparring over the Iran war and high prices as their battleground race barrels toward Election Day. The hourlong debate, hosted by WMTW, turned testy at times as the rivals defended their records and re-upped many...",
+        "url": "https://thehill.com/homenews/campaign/6138012-second-maine-senate-debate-collins-jackson-takeaways/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6137958-michigan-senate-debate-el-sayed-rogers-takeaways/",
+        "source": "The Hill",
+        "title": "Michigan Senate debate goes off the rails: 4 takeaways",
+        "publicationDate": "2026-10-09",
+        "category": "Campaign",
+        "summary": "Republican Mike Rogers and Democrat Abdul El-Sayed's first Senate debate in Michigan turned so contentious it even extended off camera. \"In 30 years of doing debates, I've never seen it continue during the commercial,\" WOOD TV moderator Rick Albin said. \"But it did\" Rogers and El-Sayed participated in a debate hosted by Nexstar's Grand Rapids...",
+        "url": "https://thehill.com/homenews/campaign/6137958-michigan-senate-debate-el-sayed-rogers-takeaways/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6138039-trump-somali-immigrants-minnesota/",
         "source": "The Hill",
         "title": "Trump says Minnesotans should 'fight back' against Somali immigrants",
@@ -14,17 +41,26 @@
         "title": "Fiery Georgia Senate debate gets personal: 4 takeaways",
         "publicationDate": "2026-10-09",
         "category": "Campaign",
-        "summary": "The first debate for Georgia Senate on Thursday evening quickly devolved into a string of personal attacks and campaign talking points as Sen. Jon Ossoff (D) and Rep. Mike Collins (R) wrestle for voters’ support in the closely-watched midterm race. The incumbent Democrat has maintained a slight lead over his GOP challenger in recent polling,...",
+        "summary": "The first debate for Georgia Senate on Thursday evening quickly devolved into a string of personal attacks and campaign talking points as Sen. Jon Ossoff (D) and Rep. Mike Collins (R) wrestle for voters’ support in the closely-watched midterm race. The incumbent Democrat has maintained a lead over his GOP challenger in recent polling, but...",
         "url": "https://thehill.com/homenews/campaign/6138009-georgia-senate-debate-ossoff-collins-takeaways/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6137882-ice-agent-shoots-nyc-man/",
-        "source": "The Hill",
-        "title": "Man shot by ICE in New York City",
+        "id": "https://www.nytimes.com/2026/10/08/us/politics/michigan-senate-debate-moments-el-sayed-rogers.html",
+        "source": "New York Times Politics",
+        "title": "5 Key Moments From Hostile Michigan Senate Debate Between El-Sayed and Rogers",
         "publicationDate": "2026-10-09",
-        "category": "Administration",
-        "summary": "A U.S. Immigrations and Customs Enforcement (ICE) agent shot and wounded a man late Thursday afternoon in New York City, Mayor Zohran Mamdani (D) confirmed. The New York Police Department (NYPD) first reported a shooting \"involving federal law enforcement agents\" occurred at approximately 4 p.m. in the Bronx's Marble Hill neighborhood, clarifying that city police...",
-        "url": "https://thehill.com/homenews/administration/6137882-ice-agent-shoots-nyc-man/"
+        "category": "Elections",
+        "summary": "Slashing personal attacks dominated the first televised face-off between Dr. Abdul El-Sayed, the Democratic nominee for Senate, and former Representative Mike Rogers, his Republican rival.",
+        "url": "https://www.nytimes.com/2026/10/08/us/politics/michigan-senate-debate-moments-el-sayed-rogers.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/08/us/politics/arlington-county-lawsuit-trump-arch.html",
+        "source": "New York Times Politics",
+        "title": "Arlington County Sues to Block Trump’s Triumphal Arch",
+        "publicationDate": "2026-10-09",
+        "category": "Defense",
+        "summary": "The county is home to Arlington National Cemetery, the military gravesite that is central to the legal battle over the planned arch.",
+        "url": "https://www.nytimes.com/2026/10/08/us/politics/arlington-county-lawsuit-trump-arch.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/08/us/politics/fort-hood-execution-streamed-public.html",
@@ -36,13 +72,94 @@
         "url": "https://www.nytimes.com/2026/10/08/us/politics/fort-hood-execution-streamed-public.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+        "id": "https://www.washingtonpost.com/politics/2026/10/08/takeaways-michigan-senate-debate-between-abdul-el-sayed-mike-rogers/",
+        "source": "Washington Post Politics",
+        "title": "Takeaways from Michigan Senate debate between Abdul El-Sayed, Mike Rogers",
         "publicationDate": "2026-10-09",
         "category": "Other",
-        "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+        "summary": "Even mothers were not exempt in a fierce debate in the race for a critical U.S. Senate seat.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/08/takeaways-michigan-senate-debate-between-abdul-el-sayed-mike-rogers/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/08/takeaways-georgia-senate-debate-between-jon-ossoff-mike-collins/",
+        "source": "Washington Post Politics",
+        "title": "Takeaways from Georgia Senate debate between Jon Ossoff, Mike Collins",
+        "publicationDate": "2026-10-09",
+        "category": "Other",
+        "summary": "The Democratic senator hit GOP Rep. Collins over accusations of ties to white nationalists. “You’ve hired half the Third Reich,” Ossoff said.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/08/takeaways-georgia-senate-debate-between-jon-ossoff-mike-collins/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/08/vance-rubio-brush-off-questions-about-claim-that-guilfoyle-asked-donor-pay-100k-amex-bill/",
+        "source": "Washington Post Politics",
+        "title": "Vance, Rubio brush off questions about claim that Guilfoyle asked donor to pay $100K Amex bill",
+        "publicationDate": "2026-10-09",
+        "category": "Other",
+        "summary": "Allegations by former congressional candidate Eric Deters are the latest controversy to swirl around the U.S. ambassador to Greece.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/08/vance-rubio-brush-off-questions-about-claim-that-guilfoyle-asked-donor-pay-100k-amex-bill/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Firing squad execution to be livestreamed, Pentagon says",
+        "publicationDate": "2026-10-09",
+        "category": "Other",
+        "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
         "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "ICE agent shoots man in New York City",
+        "publicationDate": "2026-10-09",
+        "category": "Other",
+        "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+        "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/5272dfe2-a1b4-4628-a8f1-9959bc954441?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Labour holds off Greens’ Polanski to win London by-election",
+        "publicationDate": "2026-10-09",
+        "category": "Other",
+        "summary": "UK’s ruling party wins Holborn and St Pancras by-election, seeing off challenge from Zack Polanski’s Greens",
+        "url": "https://www.ft.com/content/5272dfe2-a1b4-4628-a8f1-9959bc954441?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Microsoft and Indian IT groups banned from sponsoring workers for US residency",
+        "publicationDate": "2026-10-09",
+        "category": "Other",
+        "summary": "Announcement affecting several tech groups marks White House’s latest attempt to limit immigration",
+        "url": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/782c8c63-0db5-499e-8a0b-b7e263bc1f97?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU capitals caught between markets and metrics as debt fears rise",
+        "publicationDate": "2026-10-09",
+        "category": "Economy",
+        "summary": "Also in this newsletter: Putin meets his central Asian frenemies",
+        "url": "https://www.ft.com/content/782c8c63-0db5-499e-8a0b-b7e263bc1f97?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/c49f7d52-4b43-4dc9-b21b-a61e8756152f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: SoftBank turns to Gulf for $100bn in AI financing",
+        "publicationDate": "2026-10-09",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: Maersk’s shopping spree and UBS’s options",
+        "url": "https://www.ft.com/content/c49f7d52-4b43-4dc9-b21b-a61e8756152f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+        "publicationDate": "2026-10-09",
+        "category": "Other",
+        "summary": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
+        "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1"
     },
     {
         "id": "R49483",
@@ -171,6 +288,15 @@
         "url": "https://www.hudson.org/national-security-defense/latest-iran-war-three-years-after-october-7-rebeccah-heinrichs"
     },
     {
+        "id": "https://cms.hoover.org/research/medicare-time-bomb-can-washington-defuse-it",
+        "source": "Hoover Institution",
+        "title": "The Medicare Time Bomb: Can Washington Defuse It?",
+        "publicationDate": "2026-10-08",
+        "category": "Healthcare",
+        "summary": "Could Medicare face insolvency as soon as 2033? Hoover’s Tom Church examines the looming funding crisis, the challenges of entitlement reform, and the risks of Medicare for All.",
+        "url": "https://cms.hoover.org/research/medicare-time-bomb-can-washington-defuse-it"
+    },
+    {
         "id": "https://cms.hoover.org/research/ayaan-hirsi-ali-everything-youve-been-told-about-palestine-wrong",
         "source": "Hoover Institution",
         "title": "Ayaan Hirsi Ali: Everything You’ve Been Told About Palestine Is Wrong",
@@ -207,15 +333,6 @@
         "url": "https://cms.hoover.org/research/accused-chinese-spys-shady-past-exposed-shes-spotted-secretive-intelligence-linked"
     },
     {
-        "id": "https://cms.hoover.org/research/scott-atlas-what-republicans-are-saying-behind-closed-doors",
-        "source": "Hoover Institution",
-        "title": "Scott Atlas: What Republicans Are Saying Behind Closed Doors",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "(12:44) Hoover Institution fellow Dr. Scott Atlas discusses his Wall Street Journal article he co-authored with Hoover Institution fellow Steven Koonin, \"Covid, Climate and the ‘Consensus Trap’\".",
-        "url": "https://cms.hoover.org/research/scott-atlas-what-republicans-are-saying-behind-closed-doors"
-    },
-    {
         "id": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
         "source": "NPR Politics",
         "title": "White House correspondent April Ryan reflects on reporting while under attack",
@@ -234,15 +351,6 @@
         "url": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury"
     },
     {
-        "id": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
-        "source": "NPR Politics",
-        "title": "As crypto and prediction markets expand, their regulator shrinks",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "Even as the agency is tasked with drawing up new rules for crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration.",
-        "url": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens"
-    },
-    {
         "id": "https://www.npr.org/2026/10/08/nx-s1-5993809/2026-house-map-democrats-flip-republicans-tossup-triage",
         "source": "NPR Politics",
         "title": "Toss-ups, triage and targets: How to read the wide-open 2026 House map",
@@ -250,6 +358,15 @@
         "category": "Other",
         "summary": "Both parties are spending heavily in roughly 60 House districts — where Trump won by an average of 9 points in 2024 — that could be key to deciding control of the chamber, an NPR analysis finds.",
         "url": "https://www.npr.org/2026/10/08/nx-s1-5993809/2026-house-map-democrats-flip-republicans-tossup-triage"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
+        "source": "NPR Politics",
+        "title": "As crypto and prediction markets expand, their regulator shrinks",
+        "publicationDate": "2026-10-08",
+        "category": "Other",
+        "summary": "Even as the agency is tasked with drawing up new rules for crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration.",
+        "url": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens"
     },
     {
         "id": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney",
@@ -306,24 +423,6 @@
         "url": "https://www.pbs.org/newshour/show/democrats-are-betting-on-pastors-and-ministers-in-the-midterms"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6135113-live-updates-trump-midterm-elections-debates-tech-iran/",
-        "source": "The Hill",
-        "title": "Live updates: El-Sayed, Rogers clash at Michigan Senate debate",
-        "publicationDate": "2026-10-08",
-        "category": "Administration",
-        "summary": "Michigan Senate hopefuls Abdul El-Sayed (D) and Mike Rogers (R) took the debate stage together for the first time Thursday. The hour-long face off hosted by Nexstar's WOOD-TV regularly devolved into bickering as the two battleground candidates traded personal and political jabs. Georgia and Maine are also holding Senate debates Thursday. Earlier Thursday, Vice President...",
-        "url": "https://thehill.com/homenews/administration/6135113-live-updates-trump-midterm-elections-debates-tech-iran/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6137880-huckabee-aide-blocked-israel-memo-report/",
-        "source": "The Hill",
-        "title": "Huckabee aide suppressed US Embassy reports critical of Israeli government: Report",
-        "publicationDate": "2026-10-08",
-        "category": "Administration",
-        "summary": "A top aide to Mike Huckabee, the U.S. ambassador to Israel, allegedly suppressed an embassy report that was critical of the Israeli government, according to The New York Times, which cited three U.S. officials who work with the aide. One of Huckabee’s senior advisors, David Milstein, reportedly quashed a memo that criticized Israel's decision to...",
-        "url": "https://thehill.com/homenews/administration/6137880-huckabee-aide-blocked-israel-memo-report/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/10/08/us/politics/trump-republican-voters.html",
         "source": "New York Times Politics",
         "title": "How Trump Has Alienated Republican Voters",
@@ -340,24 +439,6 @@
         "category": "Defense",
         "summary": "It is unclear what changes could result from the Army report, which is unlikely to satisfy critics of the military’s response to the D.C. crash.",
         "url": "https://www.nytimes.com/2026/10/08/us/politics/army-report-reagan-airport-collision.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html",
-        "source": "New York Times Politics",
-        "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans",
-        "publicationDate": "2026-10-08",
-        "category": "Defense",
-        "summary": "The U.S. military has drafted options for three days of strikes, but in recent months the president has repeatedly vetoed plans to restart the war.",
-        "url": "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/08/us/politics/supreme-court-trump-ad-rates.html",
-        "source": "New York Times Politics",
-        "title": "Supreme Court, for Now, Sides With Trump Administration in TV Ad Fight",
-        "publicationDate": "2026-10-08",
-        "category": "United States Politics and Government",
-        "summary": "The court paused a lower-court ruling while it considered the latest move in a monthslong fight over who is entitled to low rates for political ads.",
-        "url": "https://www.nytimes.com/2026/10/08/us/politics/supreme-court-trump-ad-rates.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/10/08/hegseth-wants-fort-hood-shooters-execution-by-firing-squad-be-public/",
@@ -378,36 +459,9 @@
         "url": "https://www.washingtonpost.com/politics/2026/10/08/hispanic-staffers-make-up-only-9-percent-house-workforce-report-finds/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/08/trump-invested-spacex-shortly-before-issuing-new-space-policy/",
-        "source": "Washington Post Politics",
-        "title": "Trump bought over $1 million in SpaceX debt days before unveiling space policy",
-        "publicationDate": "2026-10-08",
-        "category": "Economy",
-        "summary": "The purchase, revealed in his latest financial disclosure, involved a firm directly affected by his administration’s actions — and led by presidential ally Elon Musk.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/08/trump-invested-spacex-shortly-before-issuing-new-space-policy/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/10/08/doj-grand-jury-investigating-former-white-house-aide-cassidy-hutchinson/",
-        "source": "Washington Post Politics",
-        "title": "DOJ grand jury investigating former White House aide Cassidy Hutchinson",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "Hutchinson was a key witness before a House committee investigating the Jan. 6, 2021, attack on the U.S. Capitol.",
-        "url": "https://www.washingtonpost.com/national-security/2026/10/08/doj-grand-jury-investigating-former-white-house-aide-cassidy-hutchinson/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/08/wife-colorado-gop-candidate-victor-marx-defends-him-after-abuse-accusations/",
-        "source": "Washington Post Politics",
-        "title": "A candidate says he slammed his wife against a door. She says he’s not an abuser.",
-        "publicationDate": "2026-10-08",
-        "category": "Defense",
-        "summary": "Victor Marx, the GOP candidate for Colorado governor, said he was trying to teach his wife the importance of continuing self-defense training.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/08/wife-colorado-gop-candidate-victor-marx-defends-him-after-abuse-accusations/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+        "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
         "publicationDate": "2026-10-08",
         "category": "Other",
         "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
@@ -423,67 +477,13 @@
         "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-        "publicationDate": "2026-10-08",
-        "category": "Healthcare",
-        "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
-        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Adidas sues Australian label White Fox over four stripes design",
+        "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
         "publicationDate": "2026-10-08",
         "category": "Other",
-        "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-        "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/fa7d4016-a914-4f68-97bd-82081cbde886?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Mental health and ADHD diagnosis can cause harm, says official review",
-        "publicationDate": "2026-10-08",
-        "category": "Healthcare",
-        "summary": "Government-commissioned report calls for more opportunities to work and socialise for young people and rejects claims of ‘snowflake’ generation",
-        "url": "https://www.ft.com/content/fa7d4016-a914-4f68-97bd-82081cbde886?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/8c3f95ec-2428-4102-9f67-b707f1264c69?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US telcos stocks tumble after SpaceX announces spectrum acquisition",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "Elon Musk takes big step towards launching a Starlink mobile service for US consumers",
-        "url": "https://www.ft.com/content/8c3f95ec-2428-4102-9f67-b707f1264c69?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US to publicly execute former soldier by firing squad",
-        "publicationDate": "2026-10-08",
-        "category": "Defense",
-        "summary": "American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009",
-        "url": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Amex fined $350mn for failing to flag suspected money laundering",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported",
-        "url": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/297ca864-737c-4112-b368-f21a20cc78d2?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham set to launch crackdown on non-compete clauses",
-        "publicationDate": "2026-10-08",
-        "category": "Other",
-        "summary": "Prime minister expected to use speech to pledge action against restrictive practices in employment contracts",
-        "url": "https://www.ft.com/content/297ca864-737c-4112-b368-f21a20cc78d2?syn-25a6b1a6=1"
+        "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+        "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.cfr.org/podcasts/presidents-inbox/will-there-be-meddling-in-the-midterms",
