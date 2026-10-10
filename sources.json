@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
+        "source": "NPR Politics",
+        "title": "Trump's economic strategy resemble similar policies in East Asia",
+        "publicationDate": "2026-10-10",
+        "category": "Foreign Policy",
+        "summary": "Much of the Trump administration's economic policy has been inspired by successful industrial policies successful in East Asia, including those of competitor, China. Will those policies work in the U.S.?",
+        "url": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia"
+    },
+    {
         "id": "https://www.npr.org/2026/10/10/nx-s1-5996606/u-s-imposes-sweeping-sanctions-on-international-criminal-court",
         "source": "NPR Politics",
         "title": "U.S. imposes sweeping sanctions on International Criminal Court",
@@ -36,49 +45,58 @@
         "url": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac"
     },
     {
-        "id": "https://thehill.com/policy/international/6140669-pope-decries-death-penalty/",
+        "id": "https://thehill.com/policy/healthcare/6140802-us-measles-cases-surpass-4000-pennsylvania/",
         "source": "The Hill",
-        "title": "Pope Leo decries death penalty as Hegseth's public execution plan sparks backlash",
+        "title": "U.S. measles cases surpass 4,000, with over 25 percent coming from Pennsylvania",
         "publicationDate": "2026-10-10",
-        "category": "Defense",
-        "summary": "Pope Leo XIV on Saturday called capital punishment \"inadmissible\" on World Day Against the Death Penalty, amid the Pentagon’s plans to livestream the December execution of former Army Maj. Nidal Hasan in Texas. “The death penalty is inadmissible because it is an attack on the inviolability and dignity of the person,” the pontiff wrote on...",
-        "url": "https://thehill.com/policy/international/6140669-pope-decries-death-penalty/"
+        "category": "Healthcare",
+        "summary": "U.S. measles cases this year have surpassed 4,000, with over 25 percent of the nation's reported infections coming from Pennsylvania, according to recently released data from the Centers of Disease Control and Prevention (CDC). There are currently 4,080 measles cases reported across 47 states and Washington, D.C., the CDC confirmed Friday. Out of these reported...",
+        "url": "https://thehill.com/policy/healthcare/6140802-us-measles-cases-surpass-4000-pennsylvania/"
     },
     {
-        "id": "https://thehill.com/opinion/technology/6139168-ai-risks-high-tech-feudalism/",
+        "id": "https://thehill.com/homenews/house/6140039-mike-johnson-political-future-midterms/",
         "source": "The Hill",
-        "title": "AI will make Americans dumber and poorer",
-        "publicationDate": "2026-10-10",
-        "category": "Defense",
-        "summary": "The author argues that the rapid advancement of artificial intelligence risks establishing a high-tech feudalism where a few mega-corporations exert unprecedented control over human cognition and social infrastructure.",
-        "url": "https://thehill.com/opinion/technology/6139168-ai-risks-high-tech-feudalism/"
-    },
-    {
-        "id": "https://thehill.com/homenews/state-watch/6140615-erie-mass-shooting-nine-dead/",
-        "source": "The Hill",
-        "title": "9 people dead in Erie, Pennsylvania mass shooting",
-        "publicationDate": "2026-10-10",
-        "category": "State Watch",
-        "summary": "ERIE, Pa. (WJET) -- Nine people are dead after what Pennsylvania Governor Josh Shapiro described as a mass shooting in the City of Erie Friday night. The City of Erie also confirmed Saturday morning that nine people lost their lives in what they're describing as a tragedy. According to the city, officers arrived on the...",
-        "url": "https://thehill.com/homenews/state-watch/6140615-erie-mass-shooting-nine-dead/"
-    },
-    {
-        "id": "https://thehill.com/homenews/analysis/6140076-trump-guilfoyle-controversy-response-column/",
-        "source": "The Hill",
-        "title": "The Memo: Guilfoyle furor rises as Trump stops short of expressing support",
+        "title": "Midterms could decide Johnson’s fate as GOP fights to hold House",
         "publicationDate": "2026-10-10",
         "category": "Economy",
-        "summary": "The uproar isn’t dying down over U.S. Ambassador to Greece Kimberly Guilfoyle and her reported request to have a MAGA donor pay down her personal credit card debt. President Trump, when asked about the matter as he prepared to leave for New York Friday, was conspicuously noncommittal. “I just heard about it: Too bad,” Trump...",
-        "url": "https://thehill.com/homenews/analysis/6140076-trump-guilfoyle-controversy-response-column/"
+        "summary": "Questions surrounding Speaker Mike Johnson’s (R-La.) political future are in the spotlight after he floated the possibility of returning to Louisiana if Republicans lose the House in November. The GOP is facing harsh political headwinds ahead of Election Day, as Democrats seek to capitalize on voter frustration over the economy and President Trump’s low approval...",
+        "url": "https://thehill.com/homenews/house/6140039-mike-johnson-political-future-midterms/"
     },
     {
-        "id": "https://thehill.com/opinion/national-security/6139525-american-national-security-maintenance/",
+        "id": "https://thehill.com/homenews/sunday-talk-shows/6140761-trump-russian-deal-executions-sunday-shows/",
         "source": "The Hill",
-        "title": "Forget the next big thing: How America's old things keep us safe",
+        "title": "Sunday shows preview: Trump admin's Russia deal, public execution plan spark pre-midterm backlash",
         "publicationDate": "2026-10-10",
         "category": "Defense",
-        "summary": "Be it our military or our commercial sector, everyone seems to be pushing for the next new thing in America. That’s great, but what if the old things are ultimately more critical to our national and economic security? Take the Boeing B-52 Stratofortress, which has been in continuous service in the defense of our nation for...",
-        "url": "https://thehill.com/opinion/national-security/6139525-american-national-security-maintenance/"
+        "summary": "President Trump struck a deal to lift sanctions on Russian diesel Friday, allowing the Kremlin to supply 300,000 tons of diesel to the U.S. and the global marketplace, sparking a feud between him and Ukrainian President Volodymyr Zelensky. The deal served to remedy rising energy prices fueled by the U.S.'s ongoing military operations in Iran...",
+        "url": "https://thehill.com/homenews/sunday-talk-shows/6140761-trump-russian-deal-executions-sunday-shows/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/",
+        "source": "The Hill",
+        "title": "Philadelphia police receive false homicide tip from Anthropic AI model",
+        "publicationDate": "2026-10-10",
+        "category": "Defense",
+        "summary": "Anthropic’s artificial intelligence model submitted a false homicide tip to the Philadelphia Police Department in July, the company disclosed on Friday. The AI firm said its Claude Haiku 4.5 model filled out a form on a website page soliciting the public's help to gather more information about unsolved homicide on July 18. The model submitted...",
+        "url": "https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/"
+    },
+    {
+        "id": "https://thehill.com/opinion/criminal-justice/6139594-congress-clean-slate-act/",
+        "source": "The Hill",
+        "title": "Congress should seal eligible records that keep Americans out of work",
+        "publicationDate": "2026-10-10",
+        "category": "Opinions - Criminal Justice",
+        "summary": "The author urges Congress to pass the bipartisan Clean Slate Act and the Fresh Start Act to remove federal record barriers that hinder employment and economic stability for many Americans.",
+        "url": "https://thehill.com/opinion/criminal-justice/6139594-congress-clean-slate-act/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/10/us/politics/trump-nobel-peace-prize-norway-navi-pillay.html",
+        "source": "New York Times Politics",
+        "title": "Trump Says He Should Have Won ‘8 Nobel Peace Prizes’ After Being Snubbed",
+        "publicationDate": "2026-10-10",
+        "category": "Trump",
+        "summary": "The president took to social media on Friday and Saturday to criticize the choice of Navi Pillay and disparage the Norwegian Nobel Committee.",
+        "url": "https://www.nytimes.com/2026/10/10/us/politics/trump-nobel-peace-prize-norway-navi-pillay.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html",
@@ -117,13 +135,22 @@
         "url": "https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html",
-        "source": "New York Times Politics",
-        "title": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go",
+        "id": "https://www.washingtonpost.com/politics/2026/10/10/trump-suggests-ocean-americas-new-name-atlantic-or-pacific/",
+        "source": "Washington Post Politics",
+        "title": "Trump suggests ‘Ocean of Americas’ as new name for Atlantic or Pacific",
         "publicationDate": "2026-10-10",
-        "category": "Economy",
-        "summary": "Inflation has hurt Americans at many levels: Farmers, truckers, consumers. It has also expanded the electoral map into what was safely Republican country just a few months ago.",
-        "url": "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html"
+        "category": "Other",
+        "summary": "The president also floated the idea of naming an ocean after himself.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/10/trump-suggests-ocean-americas-new-name-atlantic-or-pacific/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/10/trump-says-ukraine-should-get-new-president-after-us-russia-diesel-deal/",
+        "source": "Washington Post Politics",
+        "title": "Trump says Ukraine should ‘get a new president’ after U.S.-Russia diesel deal",
+        "publicationDate": "2026-10-10",
+        "category": "Foreign Policy",
+        "summary": "Ukraine’s Zelensky \"wants to make problems for the world,\" Trump said Saturday, a day after praising Russia’s Putin.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/10/trump-says-ukraine-should-get-new-president-after-us-russia-diesel-deal/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/10/10/trump-make-decision-hegseth-plan-live-streamed-public-execution/",
@@ -153,24 +180,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/10/10/trump-fumes-norway-nobel-peace-prize-winner-navi-pillay-over-award/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/10/montana-democrat-who-refuses-drop-out-may-spoil-partys-senate-hopes/",
-        "source": "Washington Post Politics",
-        "title": "Montana Democrat who refuses to drop out may spoil party’s Senate hopes",
-        "publicationDate": "2026-10-10",
-        "category": "Other",
-        "summary": "Candidate Alani Bankhead vigorously denies claims she is a Republican plant running to take votes away from a more popular independent.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/10/montana-democrat-who-refuses-drop-out-may-spoil-partys-senate-hopes/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/10/darline-graham-opposes-chinese-manufacturing-her-husbands-employers-rely-it/",
-        "source": "Washington Post Politics",
-        "title": "Darline Graham opposes Chinese manufacturing. Her husband’s job relies on it.",
-        "publicationDate": "2026-10-10",
-        "category": "Foreign Policy",
-        "summary": "The senator and sister of the late Lindsey Graham has said the U.S. must “stop depending on Communist China for things America can make ourselves.”",
-        "url": "https://www.washingtonpost.com/politics/2026/10/10/darline-graham-opposes-chinese-manufacturing-her-husbands-employers-rely-it/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -182,7 +191,7 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
         "publicationDate": "2026-10-10",
         "category": "Foreign Policy",
         "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
@@ -207,40 +216,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
         "publicationDate": "2026-10-10",
         "category": "Other",
-        "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-        "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss"
+        "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+        "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
-        "publicationDate": "2026-10-10",
-        "category": "Defense",
-        "summary": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow",
-        "url": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/0d80fea2-058c-440d-9339-667100ef35a9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Palestinian Authority blames Israeli ‘obstacles’ for latest election delay",
+        "title": "Hurricane Isaias kills at least two and disrupts US oil and gas production",
         "publicationDate": "2026-10-10",
         "category": "Other",
-        "summary": "Mahmoud Abbas, who has been president for 21 years, says conditions are not conducive to holding elections",
-        "url": "https://www.ft.com/content/0d80fea2-058c-440d-9339-667100ef35a9?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/84583bb0-dbd7-4623-851c-1f9381dfe280?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK government faces new legal challenge after banning Northern Ireland parade",
-        "publicationDate": "2026-10-10",
-        "category": "Other",
-        "summary": "UK Secretary of State Chris Bryant blocked march through Catholic area after two weeks of escalating tension",
-        "url": "https://www.ft.com/content/84583bb0-dbd7-4623-851c-1f9381dfe280?syn-25a6b1a6=1"
+        "summary": "More than 800,000 left without power as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia",
+        "url": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
@@ -252,13 +243,31 @@
         "url": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/0923247c-298b-4536-8bef-e7e0cfd5f0d4?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Taxpayer-funded Trump TV ads continue despite pledge to use private money",
+        "title": "Riyadh airport suspends operations after missile strike injures dozens",
         "publicationDate": "2026-10-10",
-        "category": "Economy",
-        "summary": "Segments that the White House describes as public service announcements air in battleground districts",
-        "url": "https://www.ft.com/content/0923247c-298b-4536-8bef-e7e0cfd5f0d4?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Fresh attack launched on Saudi Arabia as kingdom prepares to host investment summits",
+        "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+        "publicationDate": "2026-10-10",
+        "category": "Other",
+        "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
+        "publicationDate": "2026-10-10",
+        "category": "Defense",
+        "summary": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow",
+        "url": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1"
     },
     {
         "id": "IF13328",
@@ -412,15 +421,6 @@
         "category": "Foreign Policy",
         "summary": "The section describes how the Chinese Communist Party employs its foreign infrastructure and development program to further its strategic interests abroad and in international institutions.",
         "url": "https://cms.hoover.org/research/articles-malaysia-asean-peru-and-vietnam"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
-        "source": "NPR Politics",
-        "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
-        "publicationDate": "2026-10-09",
-        "category": "Foreign Policy",
-        "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
-        "url": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms"
     },
     {
         "id": "https://www.pbs.org/newshour/show/ice-shooting-of-man-in-new-york-with-child-in-his-car-sparks-outrage",
