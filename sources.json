@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://thehill.com/homenews/campaign/6140976-trump-rallies-montana-arizona/",
+        "source": "The Hill",
+        "title": "Trump continues red state campaign swing with Montana, Arizona rallies next week",
+        "publicationDate": "2026-10-11",
+        "category": "Foreign Policy",
+        "summary": "President Trump will continue his red state campaign swing with recently announced rallies in Montana and Arizona slated for this week with important races in each state just under a month away. The Arizona rally is tentatively planned to be hosted at Laughlin Bullhead International Airport in Bullhead City – a town near the Nevada border...",
+        "url": "https://thehill.com/homenews/campaign/6140976-trump-rallies-montana-arizona/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html",
+        "source": "New York Times Politics",
+        "title": "A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later",
+        "publicationDate": "2026-10-11",
+        "category": "Economy",
+        "summary": "Senator Roger Marshall, a Kansas Republican in a difficult race, paid an old campaign debt for cookies, muffins and brownies after a baker’s story went viral online.",
+        "url": "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html",
         "source": "New York Times Politics",
         "title": "‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution",
@@ -32,17 +50,71 @@
         "title": "DOJ investigating five TV networks over White House pool coverage",
         "publicationDate": "2026-10-11",
         "category": "Other",
-        "summary": "The antitrust probe of the outlets — Fox News, CNN, ABC, CBS and NBC — marks a sharp escalation in the Trump administration’s use of its powers against perceived enemies in the press.",
+        "summary": "The agency said the probe seeks to determine whether Fox News, CNN, ABC, CBS and NBC violated antitrust laws. It marks a sharp escalation in the Trump administration’s use of its powers against perceived enemies in the press.",
         "url": "https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "publicationDate": "2026-10-11",
+        "category": "Foreign Policy",
+        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
         "publicationDate": "2026-10-11",
         "category": "Other",
-        "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
-        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+        "summary": "Police say they will keep restricting access to the city centre after 7,000 people were detained and released on Saturday.",
+        "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "India’s ‘Cockroach’ leaders released as movement calls for more protests",
+        "publicationDate": "2026-10-11",
+        "category": "Other",
+        "summary": "Abhijeet Dipke of the youth-led Cockroach Janta Party was let go by a court order as police tightened security in New Delhi",
+        "url": "https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
+        "publicationDate": "2026-10-11",
+        "category": "Foreign Policy",
+        "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month",
+        "url": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US justice department probes TV networks over Trump pool coverage",
+        "publicationDate": "2026-10-11",
+        "category": "Other",
+        "summary": "ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban",
+        "url": "https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3aa9641e-55a6-45fd-bd08-1806306716e9?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "UK could be fast-tracked back into EU, pro-Brussels group argues",
+        "publicationDate": "2026-10-11",
+        "category": "Other",
+        "summary": "Best for Britain says alignment between London and bloc would speed up any rejoining process as Andy Burnham prepares ‘options’",
+        "url": "https://www.ft.com/content/3aa9641e-55a6-45fd-bd08-1806306716e9?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/cfb7a7a9-90c2-4ed9-8b3b-e8477430d77f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Energy secretary pushes Healey for more Budget support on rising bills",
+        "publicationDate": "2026-10-11",
+        "category": "Economy",
+        "summary": "Miatta Fahnbulleh argues help for households should go beyond the most vulnerable ahead of a New Year price rise",
+        "url": "https://www.ft.com/content/cfb7a7a9-90c2-4ed9-8b3b-e8477430d77f?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
@@ -126,15 +198,6 @@
         "url": "https://thehill.com/policy/defense/6140821-pentagon-updates-iran-death-tally/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6140802-us-measles-cases-surpass-4000-pennsylvania/",
-        "source": "The Hill",
-        "title": "U.S. measles cases surpass 4,000, with over 25 percent coming from Pennsylvania",
-        "publicationDate": "2026-10-10",
-        "category": "Healthcare",
-        "summary": "U.S. measles cases this year have surpassed 4,000, with over 25 percent of the nation's reported infections coming from Pennsylvania, according to recently released data from the Centers of Disease Control and Prevention (CDC). There are currently 4,080 measles cases reported across 47 states and Washington, D.C., the CDC confirmed Friday. Out of these reported...",
-        "url": "https://thehill.com/policy/healthcare/6140802-us-measles-cases-surpass-4000-pennsylvania/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html",
         "source": "New York Times Politics",
         "title": "Conor Kennedy and Giulia Be Married in Rio",
@@ -142,15 +205,6 @@
         "category": "Weddings and Engagements",
         "summary": "The couple’s three-day wedding celebration in Rio de Janeiro brought together two families with political ties as rising tensions surround Brazil’s presidential election.",
         "url": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html",
-        "source": "New York Times Politics",
-        "title": "Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia",
-        "publicationDate": "2026-10-10",
-        "category": "Foreign Policy",
-        "summary": "High diesel costs have posed a problem for Republicans in the midterms, but President Trump’s decision did not satisfy some candidates in key Senate races.",
-        "url": "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/10/10/trump-suggests-ocean-americas-new-name-atlantic-or-pacific/",
@@ -189,15 +243,6 @@
         "url": "https://www.washingtonpost.com/national-security/2026/10/10/christa-pike-discharged-hospital-10-days-after-failed-execution-attempt/"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "publicationDate": "2026-10-10",
-        "category": "Foreign Policy",
-        "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
@@ -205,15 +250,6 @@
         "category": "Defense",
         "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
         "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-        "publicationDate": "2026-10-10",
-        "category": "Foreign Policy",
-        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
@@ -225,49 +261,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
+        "id": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
         "publicationDate": "2026-10-10",
         "category": "Foreign Policy",
-        "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
-        "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Hurricane Isaias kills at least two and disrupts US oil and gas production",
-        "publicationDate": "2026-10-10",
-        "category": "Other",
-        "summary": "More than 800,000 left without power as first major Atlantic storm of the season sweeps Florida, Alabama and Georgia",
-        "url": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets",
-        "publicationDate": "2026-10-10",
-        "category": "Other",
-        "summary": "Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations",
-        "url": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
-        "publicationDate": "2026-10-10",
-        "category": "Other",
-        "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
-        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
-        "publicationDate": "2026-10-10",
-        "category": "Defense",
-        "summary": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow",
-        "url": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1"
+        "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "IF13328",
