@@ -1,5 +1,50 @@
 [
     {
+        "id": "https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html",
+        "source": "New York Times Politics",
+        "title": "‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution",
+        "publicationDate": "2026-10-11",
+        "category": "United States Politics and Government",
+        "summary": "A sample of people at the president’s midterm stump speech in Tennessee defended the Pentagon’s announcement that it would livestream the execution of a mass shooter.",
+        "url": "https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+        "source": "New York Times Politics",
+        "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+        "publicationDate": "2026-10-11",
+        "category": "United States Politics and Government",
+        "summary": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+        "url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
+        "source": "New York Times Politics",
+        "title": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
+        "publicationDate": "2026-10-11",
+        "category": "Defense",
+        "summary": "In an unannounced change, the Defense Department is now acknowledging troops who died or were wounded in support roles.",
+        "url": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/",
+        "source": "Washington Post Politics",
+        "title": "DOJ investigating five TV networks over White House pool coverage",
+        "publicationDate": "2026-10-11",
+        "category": "Other",
+        "summary": "The antitrust probe of the outlets — Fox News, CNN, ABC, CBS and NBC — marks a sharp escalation in the Trump administration’s use of its powers against perceived enemies in the press.",
+        "url": "https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+        "publicationDate": "2026-10-11",
+        "category": "Other",
+        "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
         "source": "NPR Politics",
         "title": "Trump's economic strategy resemble similar policies in East Asia",
@@ -45,6 +90,42 @@
         "url": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac"
     },
     {
+        "id": "https://thehill.com/homenews/administration/6140915-trump-reviews-hasan-execution-plan/",
+        "source": "The Hill",
+        "title": "Trump says he will ‘ultimately make decision’ on Fort Hood shooter execution livestream",
+        "publicationDate": "2026-10-10",
+        "category": "Administration",
+        "summary": "President Trump said he will “make a decision ultimately” on whether to livestream the execution by firing squad of convicted Fort Hood shooter Nidal Hasan following GOP backlash. “He’s a vicious killer, killed 13 people in cold blood, wounded over 20. Some of those people will never have their lives back in a true sense,”...",
+        "url": "https://thehill.com/homenews/administration/6140915-trump-reviews-hasan-execution-plan/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
+        "source": "The Hill",
+        "title": "GOP lawmakers reject U.S.-Russia diesel deal, Trump's Zelensky comments",
+        "publicationDate": "2026-10-10",
+        "category": "Foreign Policy",
+        "summary": "Several Republicans voiced objections to the Trump administration Russian diesel deal and President Trump's suggestion that Ukraine needed a new leader. When asked about the deal, Sen. John Kennedy (R-La.) said on Friday he supported the president’s decision but he doesn’t “support his decision to import it from Putin. Vladimir Putin is a butcher. He's a...",
+        "url": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6140830-fitzpatrick-bill-block-russian-oil/",
+        "source": "The Hill",
+        "title": "Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick",
+        "publicationDate": "2026-10-10",
+        "category": "Foreign Policy",
+        "summary": "Rep. Brian Fitzpatrick (R-Pa.) announced on Saturday he would be introducing a bipartisan bill aimed at stopping President Trump from lifting sanctions on Russian oil amid global fuel shortages. “We will be introducing bipartisan legislation to block any and all purchases of Russian oil. It will be called the ‘Ronald Reagan Peace Through Strength Act,’”...",
+        "url": "https://thehill.com/homenews/house/6140830-fitzpatrick-bill-block-russian-oil/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6140821-pentagon-updates-iran-death-tally/",
+        "source": "The Hill",
+        "title": "Pentagon updates death toll of troops during Iran war to 21",
+        "publicationDate": "2026-10-10",
+        "category": "Defense",
+        "summary": "The Pentagon updated the American service member death toll of the U.S. military’s operations against Iran to 21 late Friday, raising the tally in the department’s public database. The two noncombat deaths newly added to the Pentagon’s Defense Casualty Analysis System (DCAS) were Maj. Sorffly Davius and an unidentified Navy sailor, a U.S. official familiar...",
+        "url": "https://thehill.com/policy/defense/6140821-pentagon-updates-iran-death-tally/"
+    },
+    {
         "id": "https://thehill.com/policy/healthcare/6140802-us-measles-cases-surpass-4000-pennsylvania/",
         "source": "The Hill",
         "title": "U.S. measles cases surpass 4,000, with over 25 percent coming from Pennsylvania",
@@ -54,85 +135,22 @@
         "url": "https://thehill.com/policy/healthcare/6140802-us-measles-cases-surpass-4000-pennsylvania/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6140039-mike-johnson-political-future-midterms/",
-        "source": "The Hill",
-        "title": "Midterms could decide Johnson’s fate as GOP fights to hold House",
-        "publicationDate": "2026-10-10",
-        "category": "Economy",
-        "summary": "Questions surrounding Speaker Mike Johnson’s (R-La.) political future are in the spotlight after he floated the possibility of returning to Louisiana if Republicans lose the House in November. The GOP is facing harsh political headwinds ahead of Election Day, as Democrats seek to capitalize on voter frustration over the economy and President Trump’s low approval...",
-        "url": "https://thehill.com/homenews/house/6140039-mike-johnson-political-future-midterms/"
-    },
-    {
-        "id": "https://thehill.com/homenews/sunday-talk-shows/6140761-trump-russian-deal-executions-sunday-shows/",
-        "source": "The Hill",
-        "title": "Sunday shows preview: Trump admin's Russia deal, public execution plan spark pre-midterm backlash",
-        "publicationDate": "2026-10-10",
-        "category": "Defense",
-        "summary": "President Trump struck a deal to lift sanctions on Russian diesel Friday, allowing the Kremlin to supply 300,000 tons of diesel to the U.S. and the global marketplace, sparking a feud between him and Ukrainian President Volodymyr Zelensky. The deal served to remedy rising energy prices fueled by the U.S.'s ongoing military operations in Iran...",
-        "url": "https://thehill.com/homenews/sunday-talk-shows/6140761-trump-russian-deal-executions-sunday-shows/"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/",
-        "source": "The Hill",
-        "title": "Philadelphia police receive false homicide tip from Anthropic AI model",
-        "publicationDate": "2026-10-10",
-        "category": "Defense",
-        "summary": "Anthropic’s artificial intelligence model submitted a false homicide tip to the Philadelphia Police Department in July, the company disclosed on Friday. The AI firm said its Claude Haiku 4.5 model filled out a form on a website page soliciting the public's help to gather more information about unsolved homicide on July 18. The model submitted...",
-        "url": "https://thehill.com/policy/technology/6140747-anthropic-ai-false-homicide-tip/"
-    },
-    {
-        "id": "https://thehill.com/opinion/criminal-justice/6139594-congress-clean-slate-act/",
-        "source": "The Hill",
-        "title": "Congress should seal eligible records that keep Americans out of work",
-        "publicationDate": "2026-10-10",
-        "category": "Opinions - Criminal Justice",
-        "summary": "The author urges Congress to pass the bipartisan Clean Slate Act and the Fresh Start Act to remove federal record barriers that hinder employment and economic stability for many Americans.",
-        "url": "https://thehill.com/opinion/criminal-justice/6139594-congress-clean-slate-act/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/10/us/politics/trump-nobel-peace-prize-norway-navi-pillay.html",
+        "id": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html",
         "source": "New York Times Politics",
-        "title": "Trump Says He Should Have Won ‘8 Nobel Peace Prizes’ After Being Snubbed",
+        "title": "Conor Kennedy and Giulia Be Married in Rio",
         "publicationDate": "2026-10-10",
-        "category": "Trump",
-        "summary": "The president took to social media on Friday and Saturday to criticize the choice of Navi Pillay and disparage the Norwegian Nobel Committee.",
-        "url": "https://www.nytimes.com/2026/10/10/us/politics/trump-nobel-peace-prize-norway-navi-pillay.html"
+        "category": "Weddings and Engagements",
+        "summary": "The couple’s three-day wedding celebration in Rio de Janeiro brought together two families with political ties as rising tensions surround Brazil’s presidential election.",
+        "url": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html",
+        "id": "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html",
         "source": "New York Times Politics",
-        "title": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle",
+        "title": "Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia",
         "publicationDate": "2026-10-10",
         "category": "Foreign Policy",
-        "summary": "The U.S. ambassador to Greece is facing accusations that she asked a donor to pay off her credit card bill before she took up her post in Athens.",
-        "url": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/10/us/politics/trump-trees-golf-national-park.html",
-        "source": "New York Times Politics",
-        "title": "More Than 500 Trees to Be Cut Down at D.C. Golf Course That Trump Wants to Redo",
-        "publicationDate": "2026-10-10",
-        "category": "National Parks",
-        "summary": "The National Park Service notified a court of the plan as part of continuing litigation over the president’s proposal to create a “champion-level” course.",
-        "url": "https://www.nytimes.com/2026/10/10/us/politics/trump-trees-golf-national-park.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html",
-        "source": "New York Times Politics",
-        "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
-        "publicationDate": "2026-10-10",
-        "category": "Healthcare",
-        "summary": "Ms. Pike, 50 and convicted of the 1995 murder of a classmate, survived two doses of the drug pentobarbital late last month.",
-        "url": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html",
-        "source": "New York Times Politics",
-        "title": "Fact-Checking Senate Ads in Iowa, New Hampshire and North Carolina",
-        "publicationDate": "2026-10-10",
-        "category": "United States Politics and Government",
-        "summary": "We assess three campaign ads in the battleground states that have focused on the cost of living.",
-        "url": "https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html"
+        "summary": "High diesel costs have posed a problem for Republicans in the midterms, but President Trump’s decision did not satisfy some candidates in key Senate races.",
+        "url": "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/10/10/trump-suggests-ocean-americas-new-name-atlantic-or-pacific/",
@@ -171,15 +189,6 @@
         "url": "https://www.washingtonpost.com/national-security/2026/10/10/christa-pike-discharged-hospital-10-days-after-failed-execution-attempt/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/10/trump-fumes-norway-nobel-peace-prize-winner-navi-pillay-over-award/",
-        "source": "Washington Post Politics",
-        "title": "Trump fumes at ‘stain’ on Norway after missing out on Nobel Peace Prize",
-        "publicationDate": "2026-10-10",
-        "category": "Other",
-        "summary": "The president described the decision to award the Nobel Peace Prize to Navi Pillay as “disgraceful and embarrassing” and said he would “not forget.”",
-        "url": "https://www.washingtonpost.com/politics/2026/10/10/trump-fumes-norway-nobel-peace-prize-winner-navi-pillay-over-award/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -187,6 +196,15 @@
         "category": "Foreign Policy",
         "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+        "publicationDate": "2026-10-10",
+        "category": "Defense",
+        "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+        "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
@@ -198,15 +216,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
-        "publicationDate": "2026-10-10",
-        "category": "Foreign Policy",
-        "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -216,13 +225,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "id": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
         "publicationDate": "2026-10-10",
-        "category": "Other",
-        "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-        "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
+        "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1",
@@ -241,15 +250,6 @@
         "category": "Other",
         "summary": "Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations",
         "url": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Riyadh airport suspends operations after missile strike injures dozens",
-        "publicationDate": "2026-10-10",
-        "category": "Other",
-        "summary": "Fresh attack launched on Saudi Arabia as kingdom prepares to host investment summits",
-        "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
