@@ -1,8 +1,62 @@
 [
     {
+        "id": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates",
+        "source": "NPR Politics",
+        "title": "Win or lose, independent candidates want to meet voters in the middle",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "Nearly 200 independent candidates in more than 100 congressional races are trying to prove there's an alternative to the two party system — even though the chance of winning is very low.",
+        "url": "https://www.npr.org/2026/10/13/nx-s1-5994388/2026-elections-midterm-independent-candidates"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
+        "source": "NPR Politics",
+        "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "With Election Day just a few weeks away — and millions of votes already cast — midterm polls are everywhere. While polling can be a helpful tool to understand the electorate, it's not a crystal ball.",
+        "url": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
+        "source": "NPR Politics",
+        "title": "Should states force cities to build cheaper houses? Voters here will decide",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "Voters in Massachusetts will decide whether to require cities and towns to allow smaller homes on smaller lots. A growing number of states are doing the same to help ease a housing shortage.",
+        "url": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/13/nx-s1-5991925/montana-ballot-measure-could-undo-ruling-on-corporate-spending-in-state-politics",
+        "source": "NPR Politics",
+        "title": "Montana ballot measure could undo ruling on corporate spending in state politics",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "Montana voters will have a chance to speak out on the boom of corporate and anonymous money in politics that has been the result of the Citizens United court ruling.",
+        "url": "https://www.npr.org/2026/10/13/nx-s1-5991925/montana-ballot-measure-could-undo-ruling-on-corporate-spending-in-state-politics"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6144461-newsom-endorses-prop42-billionaire-tax/",
+        "source": "The Hill",
+        "title": "Newsom backs California ballot measure that cancels out billionaire tax proposal",
+        "publicationDate": "2026-10-13",
+        "category": "Economy",
+        "summary": "California Gov. Gavin Newsom (D) endorsed a ballot measure that, if approved by voters, would cancel out the ballot measure proposal that would impose a one-time tax on the Golden State's billionaires. On Friday, Newsom endorsed Proposition 42, which would prohibit retroactive taxes imposed by Proposition 40, known as the Billionaire Tax Act, for any...",
+        "url": "https://thehill.com/homenews/campaign/6144461-newsom-endorses-prop42-billionaire-tax/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6144432-sanders-calls-ai-ban/",
+        "source": "The Hill",
+        "title": "Sanders calls for artificial superintelligence ban after OpenAI CEO interview",
+        "publicationDate": "2026-10-13",
+        "category": "Defense",
+        "summary": "Sen. Bernie Sanders (I-Vt.) on Monday called for permanently banning artificial superintelligence in response to recent remarks made by OpenAI CEO Sam Altman. Altman told Politico's \"Decoded\" podcast in an interview last week that society will face a \"coming tidal wave of cybersecurity problems\" coming from open-source AI models. He also said that people will...",
+        "url": "https://thehill.com/homenews/senate/6144432-sanders-calls-ai-ban/"
+    },
+    {
         "id": "https://thehill.com/homenews/house/6144397-mamdani-slams-omar-home-raid/",
         "source": "The Hill",
-        "title": "Mamdani: citizenship ‘should not be weaponized’ against Omar",
+        "title": "Mamdani: Citizenship ‘should not be weaponized’ against Omar",
         "publicationDate": "2026-10-13",
         "category": "House",
         "summary": "New York City Mayor Zohran Mamdani (D) on Monday slammed the federal search of Rep. Ilhan Omar's (D-Minn.) Washington, D.C., home, saying that her citizenship \"should not be weaponized\" against her. Agents with Homeland Security Investigations (HSI) — the investigative arm of Immigration and Customs Enforcement (ICE) — carried out the search, a Justice Department...",
@@ -27,13 +81,22 @@
         "url": "https://thehill.com/homenews/campaign/6144357-spicer-worries-kansas-senate/"
     },
     {
-        "id": "https://thehill.com/newsletters/defense-national-security/6144319-zelensky-criticized-trump-russian-diesel/",
-        "source": "The Hill",
-        "title": "Zelensky unleashes on Trump over Russia diesel deal",
+        "id": "https://www.nytimes.com/2026/10/13/us/politics/home-insurance-extreme-weather-elections.html",
+        "source": "New York Times Politics",
+        "title": "The New Affordability Fight in the Midterms: Home Insurance Prices",
         "publicationDate": "2026-10-13",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Zelensky unleashes on Trump over Russia diesel deal Kyiv’s allies, including those in President Trump’s circle, are rallying around Ukrainian President Volodymyr Zelensky, pushing back against Trump’s diesel deal with Russia and threats to cut off weapons...",
-        "url": "https://thehill.com/newsletters/defense-national-security/6144319-zelensky-criticized-trump-russian-diesel/"
+        "category": "Healthcare",
+        "summary": "Extreme weather is driving up insurance rates, impacting races from California to the nation’s central Tornado Alley.",
+        "url": "https://www.nytimes.com/2026/10/13/us/politics/home-insurance-extreme-weather-elections.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/12/us/politics/trump-kimberly-guilfoyle-greece.html",
+        "source": "New York Times Politics",
+        "title": "Trump Says He Is ‘Looking at’ Firing Kimberly Guilfoyle",
+        "publicationDate": "2026-10-13",
+        "category": "United States Politics and Government",
+        "summary": "President Trump made the remark in response to a question about the U.S. ambassador to Greece, who faces accusations that she asked a G.O.P. donor to pay off her credit card.",
+        "url": "https://www.nytimes.com/2026/10/12/us/politics/trump-kimberly-guilfoyle-greece.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/12/us/christa-pike-medical-care-delay.html",
@@ -63,6 +126,42 @@
         "url": "https://www.nytimes.com/2026/10/12/us/politics/maine-troy-jackson-ad-portland-oregon.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/10/13/with-judgment-nearing-candidates-lean-bipartisan-partnerships/",
+        "source": "Washington Post Politics",
+        "title": "With judgment nearing, candidates lean on bipartisan partnerships",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "Across the country, candidates are trying to burnish their bipartisan bona fides.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/13/with-judgment-nearing-candidates-lean-bipartisan-partnerships/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/13/michigan-senate-candidate-el-sayed-issues-ai-policy/",
+        "source": "Washington Post Politics",
+        "title": "Abdul El-Sayed issues AI policy designed to rally progressives",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "Michigan Democratic Senate candidate Abdul El-Sayed unveiled a proposal to freeze development of advanced AI models and data centers,",
+        "url": "https://www.washingtonpost.com/politics/2026/10/13/michigan-senate-candidate-el-sayed-issues-ai-policy/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/11/texas-gop-senate-candidate-ken-paxton-wrote-legal-opinions-that-benefited-large-donors/",
+        "source": "Washington Post Politics",
+        "title": "Ken Paxton took campaign funds from donors with interests before his office",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "The Texas attorney general and GOP Senate nominee received contributions from parties in cases he was involved in, some predating his current competitive race.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/11/texas-gop-senate-candidate-ken-paxton-wrote-legal-opinions-that-benefited-large-donors/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/10/13/mike-johnsons-wife-runs-ministry-hill-staffers-its-funding-is-mystery/",
+        "source": "Washington Post Politics",
+        "title": "The House speaker’s wife runs a ministry for Hill staffers. Its funding is a mystery.",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "Kelly Johnson’s faith-based counseling services are the centerpiece of an organization that does not disclose its donors.",
+        "url": "https://www.washingtonpost.com/politics/2026/10/13/mike-johnsons-wife-runs-ministry-hill-staffers-its-funding-is-mystery/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/10/12/trump-heads-ohio-his-support-data-centers-rankles-supporters/",
         "source": "Washington Post Politics",
         "title": "In Ohio, some Trump voters question whether he’s still fighting for them",
@@ -72,22 +171,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/10/12/trump-heads-ohio-his-support-data-centers-rankles-supporters/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/10/12/judge-blocks-trump-administration-airing-taxpayer-funded-campaign-style-ads/",
-        "source": "Washington Post Politics",
-        "title": "Trump blew past deadline to halt running taxpayer-funded campaign-style ads",
-        "publicationDate": "2026-10-13",
-        "category": "Economy",
-        "summary": "A coalition of nonprofits had sued, calling the ads “propaganda.” The president has said campaign funds would be used to pay for the commercials going forward.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/12/judge-blocks-trump-administration-airing-taxpayer-funded-campaign-style-ads/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
         "publicationDate": "2026-10-13",
         "category": "Foreign Policy",
-        "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+        "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
@@ -99,49 +189,76 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/7da76744-99d0-43b0-8682-b927a82096f7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Pakistan’s hard choice on Saudi Arabia’s war in Yemen",
+        "id": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "One dead and several hurt after rollercoaster incident at Six Flags",
         "publicationDate": "2026-10-13",
         "category": "Other",
-        "summary": "Defence pacts and financial reliance on Riyadh give Islamabad little leeway to avoid Houthi conflict",
-        "url": "https://www.ft.com/content/7da76744-99d0-43b0-8682-b927a82096f7?syn-25a6b1a6=1"
+        "summary": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+        "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+        "id": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
         "publicationDate": "2026-10-13",
-        "category": "Economy",
-        "summary": "At its annual meeting, the fund calls for ‘urgent’ action to rebuild public finances",
-        "url": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1"
+        "category": "Healthcare",
+        "summary": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her.",
+        "url": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/4a7a7282-74a5-4d12-8294-6dd0d4802d88?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "IMF upgrades outlook for UK as AI drives growth spurt",
-        "publicationDate": "2026-10-13",
-        "category": "Other",
-        "summary": "The fund believes Britain is emerging as one of the winners of the tech boom",
-        "url": "https://www.ft.com/content/4a7a7282-74a5-4d12-8294-6dd0d4802d88?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/50619f1f-2b8f-47d6-a374-66fe891524c9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Elon Musk picks a fight with Reliance chair Mukesh Ambani",
-        "publicationDate": "2026-10-13",
-        "category": "Other",
-        "summary": "Also, more help for the rupee",
-        "url": "https://www.ft.com/content/50619f1f-2b8f-47d6-a374-66fe891524c9?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "China faces uphill battle to wean tech firms off Nvidia chips",
+        "id": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
         "publicationDate": "2026-10-13",
         "category": "Foreign Policy",
-        "summary": "The country’s tech giants are snapping up products never designed to power advanced AI to satisfy soaring computing demands",
-        "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1"
+        "summary": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/883fc906-7ca8-4395-b68a-000b79a270ee?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "‘I think a lot of people are waking up’: Trump’s Latino vote starts to unravel",
+        "publicationDate": "2026-10-13",
+        "category": "Economy",
+        "summary": "Inflation, war and the crackdown on immigrant communities draw the crucial swing voters back to the Democrats ahead of the midterms",
+        "url": "https://www.ft.com/content/883fc906-7ca8-4395-b68a-000b79a270ee?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How US coal mined ties to Trump — and got much of its ‘wish list’",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "A CEO golfs with Trump’s son as an industry once shut out of Washington turns access into policy",
+        "url": "https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/630328ea-829d-4e5f-a3a8-7ffc33946ef7",
+        "source": "Financial Times World",
+        "title": "Business backlash over sweeping halal rules in world’s biggest Muslim nation",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "World’s largest majority-Muslim country to force companies to explain how products from clothes to toilet paper are permissible under Islam",
+        "url": "https://www.ft.com/content/630328ea-829d-4e5f-a3a8-7ffc33946ef7"
+    },
+    {
+        "id": "https://www.ft.com/content/1a326f59-e28a-416a-9a78-8b013672e1b2?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Former DR Congo leader Joseph Kabila to lead new rebel alliance",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "Announcement likely to hinder efforts by US to broker peace in country",
+        "url": "https://www.ft.com/content/1a326f59-e28a-416a-9a78-8b013672e1b2?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091",
+        "source": "Financial Times World",
+        "title": "Goldman and JPMorgan to report on trading slowdown as earnings season kicks off",
+        "publicationDate": "2026-10-13",
+        "category": "Other",
+        "summary": "Wall Street banks expected to report worst trading results of year following record second quarter",
+        "url": "https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091"
     },
     {
         "id": "https://www.cfr.org/articles/why-u-s-borrowing-costs-keep-climbing-despite-treasurys-efforts",
@@ -216,6 +333,15 @@
         "url": "https://www.hudson.org/religious-freedom/xi-sinicizes-chinas-catholic-church-vatican-approval-nina-shea"
     },
     {
+        "id": "https://cms.hoover.org/research/prop-43-two-thirds-vote-local-special-taxes",
+        "source": "Hoover Institution",
+        "title": "PROP 43: Two-Thirds Vote for Local Special Taxes",
+        "publicationDate": "2026-10-12",
+        "category": "Economy",
+        "summary": "​​​​​​Official ballot title: “Limits Voters’ Ability to Raise Revenues for Local Government Services. Legislative Constitutional Amendment.”",
+        "url": "https://cms.hoover.org/research/prop-43-two-thirds-vote-local-special-taxes"
+    },
+    {
         "id": "https://cms.hoover.org/events/geography-technology-and-extent-markets-method-application-wealth-nations",
         "source": "Hoover Institution",
         "title": "“Geography, Technology, and the Extent of Markets: A Method with an Application to the Wealth of Nations”",
@@ -252,58 +378,13 @@
         "url": "https://cms.hoover.org/research/education-not-underfunded"
     },
     {
-        "id": "https://cms.hoover.org/research/critical-thinking-influencers-glenn-loury-warren-smith-and-robert-patton-spruill",
-        "source": "Hoover Institution",
-        "title": "Critical Thinking For Influencers | Glenn Loury, Warren Smith, And Robert Patton-Spruill",
-        "publicationDate": "2026-10-12",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Glenn Loury talks with filmmaker and YouTuber Warren Smith, author of A Mind of Your Own: Critical Thinking in the Age of Misinformation, a guide for young people navigating claims on platforms like YouTube and TikTok. Executive producer Robert Patton-Spruill, Smith's former teacher, helps guide the discussion, which covers the viral moment that launched Smith's Secret Scholar Society...",
-        "url": "https://cms.hoover.org/research/critical-thinking-influencers-glenn-loury-warren-smith-and-robert-patton-spruill"
-    },
-    {
         "id": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
         "source": "NPR Politics",
-        "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+        "title": "New White House press secretary a 'devoted fan' of Trump and MAGA",
         "publicationDate": "2026-10-12",
         "category": "Other",
         "summary": "Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's chief spokesperson.",
         "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
-        "source": "NPR Politics",
-        "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
-        "publicationDate": "2026-10-12",
-        "category": "Economy",
-        "summary": "Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC.",
-        "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/12/nx-s1-5998040/democratic-senator-talks-trumps-russian-diesel-deal",
-        "source": "NPR Politics",
-        "title": "Democratic senator talks Trump's Russian diesel deal",
-        "publicationDate": "2026-10-12",
-        "category": "Foreign Policy",
-        "summary": "NPR's Steve Inskeep speaks to Democratic Senator Jeanne Shaheen of New Hampshire about President Trump's deal for Russian diesel and his claim of an \"energy ceasefire\" that did not materialize.",
-        "url": "https://www.npr.org/2026/10/12/nx-s1-5998040/democratic-senator-talks-trumps-russian-diesel-deal"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/12/nx-s1-5996646/republican-strategist-on-how-trumps-personal-grievances-could-affect-the-gop",
-        "source": "NPR Politics",
-        "title": "Republican strategist on how Trump's personal grievances could affect the GOP",
-        "publicationDate": "2026-10-12",
-        "category": "Other",
-        "summary": "NPR's Steve Inskeep speaks with Republican strategist Rina Shah about how President Trump's personal grievances and projects are affecting the chances of GOP candidates in the upcoming election.",
-        "url": "https://www.npr.org/2026/10/12/nx-s1-5996646/republican-strategist-on-how-trumps-personal-grievances-could-affect-the-gop"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/12/nx-s1-5998073/trump-struggles-to-show-voters-hes-focused-on-the-cost-of-living",
-        "source": "NPR Politics",
-        "title": "Trump struggles to show voters he's focused on the cost of living",
-        "publicationDate": "2026-10-12",
-        "category": "Foreign Policy",
-        "summary": "With a deal to import millions of tons of diesel fuel from Russia, President Trump is struggling to show voters that he is focused on the cost of living ahead of the midterms.",
-        "url": "https://www.npr.org/2026/10/12/nx-s1-5998073/trump-struggles-to-show-voters-hes-focused-on-the-cost-of-living"
     },
     {
         "id": "https://www.pbs.org/newshour/show/rep-omar-accuses-trump-of-political-intimidation-after-agents-search-her-home",
@@ -351,85 +432,13 @@
         "url": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-midterm-rally-in-youngstown-ohio"
     },
     {
-        "id": "https://thehill.com/newsletters/healthcare/6144267-synthetically-concentrated-kratom-derivatives-draw-federal-attention/",
-        "source": "The Hill",
-        "title": "Synthetically concentrated kratom derivatives draw federal attention",
-        "publicationDate": "2026-10-12",
-        "category": "Healthcare",
-        "summary": "Presented by {beacon} Healthcare PRESENTED BY The Big Story Synthetically concentrated kratom derivatives draw federal attention The spread of \"gas station opioid\" products derived from the kratom plant is causing concern for federal authorities and lawmakers. © Alejandra Villa Loarca/Newsday RM via Getty Images The Drug Enforcement Administration (DEA) signaled heightened concerns about kratom-derived...",
-        "url": "https://thehill.com/newsletters/healthcare/6144267-synthetically-concentrated-kratom-derivatives-draw-federal-attention/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html",
-        "source": "New York Times Politics",
-        "title": "Judge Orders Trump Administration to Answer for Tree Removals at D.C. Golf Course",
-        "publicationDate": "2026-10-12",
-        "category": "United States Politics and Government",
-        "summary": "During a four-hour hearing, a federal judge demanded answers from the Trump administration about who authorized the removal of hundreds of trees at the East Potomac Golf Links.",
-        "url": "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html",
-        "source": "New York Times Politics",
-        "title": "A Trump Loyalist, a Turkish Investor and a Battle for Wealth and Influence",
-        "publicationDate": "2026-10-12",
-        "category": "United States Politics and Government",
-        "summary": "A Turkish businessman once allied with the Maduro regime has tied the knot with President Trump’s former personal lawyer, Alina Habba, at the same time he is seeking to retain a big contract in Venezuela.",
-        "url": "https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/12/montana-democratic-party-chair-steps-down-endorses-independent-candidate/",
-        "source": "Washington Post Politics",
-        "title": "Montana Democratic Party chair steps down, endorses independent candidate",
-        "publicationDate": "2026-10-12",
-        "category": "Other",
-        "summary": "Shannon O'Brien is the latest state Democrat to endorse independent candidate Seth Bodnar over embattled party nominee Alani Bankhead for Montana's open Senate seat.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/12/montana-democratic-party-chair-steps-down-endorses-independent-candidate/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/12/trump-says-he-might-fire-his-ambassador-greece-kimberly-guilfoyle/",
-        "source": "Washington Post Politics",
-        "title": "Trump says he’s ‘looking at’ firing Kimberly Guilfoyle from Athens post",
-        "publicationDate": "2026-10-12",
-        "category": "Other",
-        "summary": "Ambassador Guilfoyle is accused of asking a donor to pay her personal American Express bill. “We’re not happy,” the president told reporters.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/12/trump-says-he-might-fire-his-ambassador-greece-kimberly-guilfoyle/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/10/12/mike-johnson-says-execution-video-could-be-recruiting-tool-terrorists/",
-        "source": "Washington Post Politics",
-        "title": "Mike Johnson says execution video could be ‘recruiting tool’ for terrorists",
-        "publicationDate": "2026-10-12",
-        "category": "Other",
-        "summary": "“We’ve got to think through the policy implications,” the House speaker told CBS News, commenting on plans to live-stream the execution of the Fort Hood shooter.",
-        "url": "https://www.washingtonpost.com/politics/2026/10/12/mike-johnson-says-execution-video-could-be-recruiting-tool-terrorists/"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-        "publicationDate": "2026-10-12",
+        "id": "https://www.cfr.org/articles/whats-the-renminbi-got-to-do-with-it",
+        "source": "Council on Foreign Relations",
+        "title": "What’s the Renminbi Got to Do With it?",
+        "publicationDate": "2026-10-11",
         "category": "Foreign Policy",
-        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-        "publicationDate": "2026-10-12",
-        "category": "Foreign Policy",
-        "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
-        "publicationDate": "2026-10-12",
-        "category": "Economy",
-        "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
-        "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss"
+        "summary": "A closer look at the impact of China’s currency on China’s export growth.",
+        "url": "https://www.cfr.org/articles/whats-the-renminbi-got-to-do-with-it"
     },
     {
         "id": "IF13328",
@@ -448,15 +457,6 @@
         "category": "Foreign Policy",
         "summary": "European countries have been too slow and too reactive in response to escalating Russian attacks. They need a coordinated playbook.",
         "url": "https://www.cfr.org/articles/russias-attacks-in-europe-are-escalating-here-is-how-to-push-back"
-    },
-    {
-        "id": "https://www.cfr.org/articles/trading-places-the-u-s-and-europe-on-china-and-russia",
-        "source": "Council on Foreign Relations",
-        "title": "Trading Places: The U.S. and Europe on China and Russia",
-        "publicationDate": "2026-10-09",
-        "category": "Foreign Policy",
-        "summary": "CFR President Michael Froman analyzes Europe’s changing posture toward China and Russia, and how that mirrors what the U.S. approach used to be.",
-        "url": "https://www.cfr.org/articles/trading-places-the-u-s-and-europe-on-china-and-russia"
     },
     {
         "id": "https://www.heritage.org/american-history/commentary/columbus-day-question-have-we-finally-stopped-distorting-our-past",
