@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://www.cfr.org/articles/the-victory-of-asymmetry-in-the-iran-war",
+        "source": "Council on Foreign Relations",
+        "title": "The Victory of Asymmetry in the Iran War",
+        "publicationDate": "2026-10-16",
+        "category": "Foreign Policy",
+        "summary": "CFR President Michael Froman analyzes the Iran war and the future of power in the Middle East.",
+        "url": "https://www.cfr.org/articles/the-victory-of-asymmetry-in-the-iran-war"
+    },
+    {
+        "id": "https://www.cfr.org/articles/jfk-learns-that-soviet-missiles-are-in-cuba-the-cuban-missile-crisis-day-one",
+        "source": "Council on Foreign Relations",
+        "title": "JFK Learns That Soviet Missiles Are in Cuba—The Cuban Missile Crisis, Day One",
+        "publicationDate": "2026-10-16",
+        "category": "Article",
+        "summary": "President John F. Kennedy learned that the Soviets were installing nuclear missiles in Cuba and sought to project a sense to the world that nothing was amiss.",
+        "url": "https://www.cfr.org/articles/jfk-learns-that-soviet-missiles-are-in-cuba-the-cuban-missile-crisis-day-one"
+    },
+    {
+        "id": "https://www.cfr.org/articles/cfr-names-sam-vigersky-a-fellow",
+        "source": "Council on Foreign Relations",
+        "title": "CFR Names Sam Vigersky a Fellow",
+        "publicationDate": "2026-10-16",
+        "category": "Foreign Policy",
+        "summary": "The Council on Foreign Relations (CFR) is pleased to name Sam Vigersky a fellow in the David Rockefeller Studies Program, CFR’s think tank. His research and writing will focus on humanitarian statecraft and modernizing emergency relief in response to armed conflicts and natural disasters. Most recently, Mr. Vigersky served as a CFR international affairs fellow, […]",
+        "url": "https://www.cfr.org/articles/cfr-names-sam-vigersky-a-fellow"
+    },
+    {
         "id": "https://www.heritage.org/china/report/time-bought-leverage-preserved-outcomes-the-trump-xi-summit-washington",
         "source": "Heritage Foundation",
         "title": "Time Bought, Leverage Preserved: Outcomes of the Trump–Xi Summit in Washington",
@@ -7,6 +34,15 @@
         "category": "Defense",
         "summary": "From September 23 to 25, 2026, Chinese General Secretary Xi Jinping visited Washington, DC, for a summit with President Donald Trump. A previous Heritage Foundation analysis expected the summit to be limited to tactical agreements rather than transformative breakthroughs. Andrew J. Harding, “Xi Comes to Washington: Expectations for the Trump-Xi Summit,” Heritage Foundation Issue Brief No. 5419, September 9, 2026,...",
         "url": "https://www.heritage.org/china/report/time-bought-leverage-preserved-outcomes-the-trump-xi-summit-washington"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty",
+        "source": "NPR Politics",
+        "title": "Amid talk of public execution, public opinion on death penalty is split",
+        "publicationDate": "2026-10-16",
+        "category": "Other",
+        "summary": "A majority of Americans support the death penalty for people convicted of murder, but support becomes more divided when questions vary.",
+        "url": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty"
     },
     {
         "id": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
@@ -27,15 +63,6 @@
         "url": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers"
     },
     {
-        "id": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
-        "source": "NPR Politics",
-        "title": "Do Americans own the president's papers? Appeals court to weigh in",
-        "publicationDate": "2026-10-16",
-        "category": "Other",
-        "summary": "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court.",
-        "url": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court"
-    },
-    {
         "id": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
         "source": "NPR Politics",
         "title": "'Everything got worse': Gen Z express frustration, regret after Trump vote",
@@ -45,49 +72,94 @@
         "url": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6153199-donald-trump-defends-ken-paxton-endorsement-texas-senate-race/",
+        "id": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
+        "source": "NPR Politics",
+        "title": "Do Americans own the president's papers? Appeals court to weigh in",
+        "publicationDate": "2026-10-16",
+        "category": "Other",
+        "summary": "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court.",
+        "url": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-wants-the-midterms-to-be-all-about-him-based-on-democrats-ads-they-are-happy-to-oblige",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump wants the midterms to be all about him. Based on Democrats' ads, they are happy to oblige",
+        "publicationDate": "2026-10-16",
+        "category": "Foreign Policy",
+        "summary": "Many of the Democrats' ads accuse Republican opponents of siding with the president over voters, particularly on issues like tariffs and the Iran war, which they blame for jacking up costs.",
+        "url": "https://www.pbs.org/newshour/politics/trump-wants-the-midterms-to-be-all-about-him-based-on-democrats-ads-they-are-happy-to-oblige"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-will-rally-georgia-republicans-despite-party-divisions-in-battleground-state",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump will rally Georgia Republicans despite party divisions in battleground state",
+        "publicationDate": "2026-10-16",
+        "category": "Donald Trump news",
+        "summary": "President Donald Trump's midterm campaign blitz arrives in Georgia on Friday for a rally with top Republican candidates in a state that has long been the epicenter of the president's false claims about election fraud.",
+        "url": "https://www.pbs.org/newshour/politics/trump-will-rally-georgia-republicans-despite-party-divisions-in-battleground-state"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/talarico-compares-his-campaign-to-david-and-goliath-after-gop-invests-over-158m-against-him",
+        "source": "PBS NewsHour Politics",
+        "title": "Talarico compares his campaign to David and Goliath after GOP invests over $158M against him",
+        "publicationDate": "2026-10-16",
+        "category": "2026 Midterms",
+        "summary": "The Democrat faces more than $158 million in outside spending by Republican leadership and the world's richest man, Elon Musk.",
+        "url": "https://www.pbs.org/newshour/politics/talarico-compares-his-campaign-to-david-and-goliath-after-gop-invests-over-158m-against-him"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6154032-judge-dismisses-nyc-immigration-lawsuit/",
         "source": "The Hill",
-        "title": "Trump: No regrets endorsing Paxton because 'Cornyn would have lost'",
+        "title": "Judge tosses Trump administration lawsuit over New York City 'sanctuary' laws",
+        "publicationDate": "2026-10-16",
+        "category": "Administration",
+        "summary": "A federal judge dismissed a lawsuit brought by the Trump administration to block New York City laws that limit cooperation with federal immigration enforcement, saying the government lacked a valid basis to sue. U.S. District ​Judge Ramon Reyes in Brooklyn said the Trump administration cannot challenge a ⁠city law that restricts police from detaining immigrants...",
+        "url": "https://thehill.com/homenews/administration/6154032-judge-dismisses-nyc-immigration-lawsuit/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6154117-humans-first-ai-policy/",
+        "source": "The Hill",
+        "title": "AI safety group pushes for tighter export controls, limits on 'vastly superhuman AI'",
+        "publicationDate": "2026-10-16",
+        "category": "Foreign Policy",
+        "summary": "A conservative AI safety group is calling for the U.S. to implement tighter restrictions on advanced chip sales to China and limit the development of “vastly superhuman AI” as part of a new framework for AI policy. Humans First, chaired by former Tea Party leader Amy Kremer, laid out what it described as an “America...",
+        "url": "https://thehill.com/policy/technology/6154117-humans-first-ai-policy/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6154137-ohio-polls-democrat-surge/",
+        "source": "The Hill",
+        "title": "Brown, Acton both up 6 points in Ohio races: poll",
         "publicationDate": "2026-10-16",
         "category": "Campaign",
-        "summary": "President Trump said he had no regrets after endorsing Texas Attorney General Ken Paxton over Sen. John Cornyn (R-Texas), claiming the incumbent “would have lost.” The president doubled down on his decision in an appearance on Newsmax’s “Finnerity,” when asked if he had second thoughts. “No, because I think Cornyn would have lost. I think...",
-        "url": "https://thehill.com/homenews/campaign/6153199-donald-trump-defends-ken-paxton-endorsement-texas-senate-race/"
+        "summary": "A new poll of the Ohio Senate and gubernatorial races shows Democrats ahead in both contests. In the Senate race, a Bowling Green State University (BGSU) poll found former Sen. Sherrod Brown (D) ahead of Sen. Jon Husted (R) by six points, 48 percent to 42 percent, among likely voters. When BGSU surveyed the race...",
+        "url": "https://thehill.com/homenews/campaign/6154137-ohio-polls-democrat-surge/"
     },
     {
-        "id": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6153206-katie-zacharia-rocky-debut-white-house-press-secretary-live-discussion/",
+        "id": "https://thehill.com/regulation/court-battles/6153944-donald-trump-legal-fund-debt/",
         "source": "The Hill",
-        "title": "Can Katie Zacharia save her job after rocky debut as press secretary?",
-        "publicationDate": "2026-10-16",
-        "category": "Whole Hog Politics - Live Briefing",
-        "summary": "After a turbulent first week as President Trump's new White House press secretary, Katie Zacharia is taking her case to the media. Will it be enough to save her job? Plus, the fallout from Kimberly Guilfoyle’s resignation, the latest developments in the midterms battles and much more. Join The Hill’s senior vice president of editorial...",
-        "url": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6153206-katie-zacharia-rocky-debut-white-house-press-secretary-live-discussion/"
-    },
-    {
-        "id": "https://thehill.com/opinion/white-house/6150148-trump-policies-backfire-voters/",
-        "source": "The Hill",
-        "title": "Trump wins elections but fails at governing",
-        "publicationDate": "2026-10-16",
-        "category": "Opinions - White House",
-        "summary": "He thinks it’s about augmenting his power; voters think it’s about helping them solve their problems.",
-        "url": "https://thehill.com/opinion/white-house/6150148-trump-policies-backfire-voters/"
-    },
-    {
-        "id": "https://thehill.com/opinion/finance/6152679-inflation-clouds-economic-growth/",
-        "source": "The Hill",
-        "title": "Why are consumers so negative on a good economy? It’s the inflation, stupid.",
+        "title": "Main Trump legal fund $1.9M in debt",
         "publicationDate": "2026-10-16",
         "category": "Economy",
-        "summary": "Republicans are frustrated that the public has such a sour view of the economy, especially when growth is accelerating and we may be on the cusp of what some are calling America’s economic “golden age.” Rising prices are the ongoing problem, and the most recent inflation readings did nothing to turn around voters’ gloom. A hotter-then-expected...",
-        "url": "https://thehill.com/opinion/finance/6152679-inflation-clouds-economic-growth/"
+        "summary": "President Trump’s primary legal fund is more than $1.9 million in debt, according to its latest filing with the Federal Election Commission (FEC). Save America PAC, which Trump formed after he lost the 2020 presidential election, spent more than $5.4 million in the third quarter and had spent more than $14 million from the start...",
+        "url": "https://thehill.com/regulation/court-battles/6153944-donald-trump-legal-fund-debt/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6153163-troy-jackson-susan-collins-heated-debate-maine-senate-race/",
+        "id": "https://thehill.com/newsletters/1230-report/6154099-susie-wiles-katie-zacharia-donald-trump-white-house-drama-ukraine-starlink-gop-midterms/",
         "source": "The Hill",
-        "title": "Troy Jackson tells Susan Collins to 'shut up' during Maine Senate debate",
+        "title": "White House personnel drama puts Trump on defense",
         "publicationDate": "2026-10-16",
-        "category": "Campaign",
-        "summary": "Democrat Troy Jackson asked incumbent Sen. Susan Collins (R-Maine) to “shut up” during a Thursday's debate, as tensions boil over with just over two weeks until the midterm elections. The pair were briefly interrupted by an anti-data center protester who began yelling as Collins continued to speak. “So, this is obviously one of Troy’s supporters,”...",
-        "url": "https://thehill.com/homenews/campaign/6153163-troy-jackson-susan-collins-heated-debate-maine-senate-race/"
+        "category": "Defense",
+        "summary": "Plus: 🛡️Ukraine Starlink slowdown puts Pentagon in a jam {beacon} It’s Friday. Just more than two weeks until we change the clocks back to standard time. Anyone else ready for that “extra hour” of sleep? 😴 In today's issue: Trump defends Wiles amid turmoil GOP demands answers on Ukraine Hegseth's execution livestream plan...",
+        "url": "https://thehill.com/newsletters/1230-report/6154099-susie-wiles-katie-zacharia-donald-trump-white-house-drama-ukraine-starlink-gop-midterms/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/16/us/politics/aoc-el-sayed-million-transfer-midterms.html",
+        "source": "New York Times Politics",
+        "title": "Ocasio-Cortez Transfers $1 Million to Help El-Sayed in Michigan Senate Race",
+        "publicationDate": "2026-10-16",
+        "category": "Ocasio-Cortez",
+        "summary": "The transfer represents an unusually large amount for a House member to give to a Senate race.",
+        "url": "https://www.nytimes.com/2026/10/16/us/politics/aoc-el-sayed-million-transfer-midterms.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
@@ -126,117 +198,99 @@
         "url": "https://www.nytimes.com/2026/10/16/us/politics/alaska-senate-debate-peltola-sullivan.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html",
-        "source": "New York Times Politics",
-        "title": "Elon Musk Spends Heavily to Back Ken Paxton’s Senate Bid in Texas",
+        "id": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
         "publicationDate": "2026-10-16",
-        "category": "Musk",
-        "summary": "The world’s richest person, who has become the biggest known midterm donor, gave $158 million to a group that quickly spent that much to help Mr. Paxton’s Senate bid in Texas.",
-        "url": "https://www.nytimes.com/2026/10/16/us/politics/elon-musk-ken-paxton-texas-senate-race.html"
+        "category": "Foreign Policy",
+        "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+        "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
         "publicationDate": "2026-10-16",
         "category": "Other",
-        "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say.",
-        "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-        "publicationDate": "2026-10-16",
-        "category": "Other",
-        "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-        "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-        "publicationDate": "2026-10-16",
-        "category": "Other",
-        "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
-        "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
+        "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+        "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+        "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
         "publicationDate": "2026-10-16",
         "category": "Foreign Policy",
-        "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+        "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
         "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+        "title": "Pope pictured for first time since surgery and cancer diagnosis",
         "publicationDate": "2026-10-16",
-        "category": "Foreign Policy",
-        "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-        "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss"
+        "category": "Healthcare",
+        "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+        "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/b3979904-2252-4934-9cff-729a815cb4b0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Starlink spectrum deal piles Elon Musk’s plate ever higher",
+        "id": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "India's 'cockroach' party founder detained ahead of protest",
         "publicationDate": "2026-10-16",
         "category": "Other",
-        "summary": "Move may be part of a bigger plan but it spells even more capital expenditure at a company already spending beyond its means",
-        "url": "https://www.ft.com/content/b3979904-2252-4934-9cff-729a815cb4b0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "EU vows to maintain Russia sanctions after US pivot",
-        "publicationDate": "2026-10-16",
-        "category": "Foreign Policy",
-        "summary": "European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow",
-        "url": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/4dffb678-9d90-46fa-b98e-40f988057984?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "World’s oldest gunmaker expands American foothold after boardroom tussle",
-        "publicationDate": "2026-10-16",
-        "category": "Other",
-        "summary": "Beretta Holding seals strategic investment in rival gunmaker Sturm Ruger securing a 25% stake in a $107.5mn deal",
-        "url": "https://www.ft.com/content/4dffb678-9d90-46fa-b98e-40f988057984?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/247ab744-c56a-41cd-b391-502958c052f7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham: straight-talker or loose cannon?",
-        "publicationDate": "2026-10-16",
-        "category": "Other",
-        "summary": "Plus, welfare reform and why the Lib Dems are turning on Ed Davey",
-        "url": "https://www.ft.com/content/247ab744-c56a-41cd-b391-502958c052f7?syn-25a6b1a6=1"
+        "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Treasuries head for best week since February as AI jitters halt bond rout",
+        "title": "Treasuries head for big weekly gains as AI jitters halt bond rout",
         "publicationDate": "2026-10-16",
         "category": "Economy",
         "summary": "Borrowing costs fall back from highest levels in decades as investors seek safety in government debt",
         "url": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1"
     },
     {
-        "id": "R48136",
-        "source": "Congressional Research Service",
-        "title": "National Park Service Deferred Maintenance: Overview and Issues",
-        "publicationDate": "2026-10-15",
+        "id": "https://www.ft.com/content/2b0e3eae-8eae-449e-9492-ac036b0fe143?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Looming UK tax rise puts bankers on edge",
+        "publicationDate": "2026-10-16",
         "category": "Economy",
-        "summary": "The National Park Service (NPS) has a multibillion-dollar backlog of deferred maintenance—maintenance that was not performed as scheduled or as needed and was put off to a future time. NPS’s deferred maintenance, also known as deferred maintenance and repairs or the maintenance backlog, was estimated for FY2025 at $24.237 billion. Other federal land management agencies also have deferred maintenance, but NPS’s...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48136/R48136.5.pdf"
+        "summary": "Financial sector’s lobbying campaign ahead of the Budget may have been hampered by divisions between large lenders",
+        "url": "https://www.ft.com/content/2b0e3eae-8eae-449e-9492-ac036b0fe143?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/86038629-9b53-4859-bc59-a67fb0059c37?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Welfare reform is possible: we did it before, we can do it again",
+        "publicationDate": "2026-10-16",
+        "category": "Other",
+        "summary": "All sides agree that the costs are unsustainable and we can’t continue to write people off",
+        "url": "https://www.ft.com/content/86038629-9b53-4859-bc59-a67fb0059c37?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU eyes more support for Ukraine after US pivot",
+        "publicationDate": "2026-10-16",
+        "category": "Foreign Policy",
+        "summary": "European leaders close ranks around Volodymyr Zelenskyy following Donald Trump’s fuel deal with Moscow",
+        "url": "https://www.ft.com/content/ee6dfd48-fa31-4bde-9962-2f9f09c36798?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/155bc83f-655d-4891-a431-aa5e1e1ce96a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Has London’s £5bn ‘super sewer’ improved water quality in the Thames?",
+        "publicationDate": "2026-10-16",
+        "category": "Healthcare",
+        "summary": "Ministers pledged the 25km-long sewer would mitigate health risks, encourage recreational river use and restore wildlife",
+        "url": "https://www.ft.com/content/155bc83f-655d-4891-a431-aa5e1e1ce96a?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/trumps-diesel-deal-with-russia-was-just-the-start",
         "source": "Council on Foreign Relations",
-        "title": "Trump’s “Diesel Deal” With Russia Was Just the Start",
+        "title": "Trump’s ‘Diesel Deal’ With Russia Was Just the Start",
         "publicationDate": "2026-10-15",
         "category": "Foreign Policy",
         "summary": "The agreement to buy diesel from Russia could mark a dangerous shift in how the U.S. president views the conflict with Ukraine.",
@@ -250,24 +304,6 @@
         "category": "Foreign Policy",
         "summary": "What happens if the world’s pharmacy decides to close? From ibuprofen to amoxicillin, a majority of the essential medicines used in the United States depend on ingredients from China. This dependence has left the United States vulnerable to a geopolitical rival that could decide to cut off its access at any time. Read More: Thomas […]",
         "url": "https://www.cfr.org/podcasts/why-it-matters/side-effects-may-include-dependency-on-china"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/spillover/lame-ducks-black-swans-and-the-2026-midterm-elections",
-        "source": "Council on Foreign Relations",
-        "title": "Lame Ducks, Black Swans, and the 2026 Midterm Elections",
-        "publicationDate": "2026-10-15",
-        "category": "Podcast",
-        "summary": "This week, host Rebecca Patterson speaks with Henrietta Treyz, cofounder and director of economic policy at Veda Partners, to unpack why decisions made by the current Congress in the weeks directly after the November 3 midterms may matter just as much as the outcome of the election itself. They further discuss what a possible fight […]",
-        "url": "https://www.cfr.org/podcasts/spillover/lame-ducks-black-swans-and-the-2026-midterm-elections"
-    },
-    {
-        "id": "https://www.cfr.org/articles/the-united-states-discovers-soviet-missiles-in-cuba",
-        "source": "Council on Foreign Relations",
-        "title": "The United States Discovers Soviet Missiles in Cuba",
-        "publicationDate": "2026-10-15",
-        "category": "Article",
-        "summary": "On October 15, 1962, senior U.S. officials learned that their fears had come true—the Soviet Union was installing nuclear-armed ballistic missiles in Cuba.",
-        "url": "https://www.cfr.org/articles/the-united-states-discovers-soviet-missiles-in-cuba"
     },
     {
         "id": "https://www.heritage.org/health-care-reform/commentary/childhood-vaccine-schedules-across-countries",
@@ -297,6 +333,33 @@
         "url": "https://www.heritage.org/education/commentary/frances-education-collapse-warning-america"
     },
     {
+        "id": "https://www.hudson.org/events/semiconductors-onshoring-us-government-capital-conversation-commerces-bill-frauenhofer",
+        "source": "Hudson Institute",
+        "title": "Semiconductors, Onshoring, and US Government Capital: A Conversation with Commerce's Bill Frauenhofer",
+        "publicationDate": "2026-10-15",
+        "category": "Defense",
+        "summary": "Semiconductors, Onshoring, and US Government Capital: A Conversation with Commerce's Bill Frauenhofer nhuergo@hudson.org Thu, 10/15/2026 - 16:38 23 October 2026 In-Person Event Semiconductors, Onshoring, and US Government Capital: A Conversation with Commerce's Bill Frauenhofer FRIDAY 10:00 a.m. - 11:00 a.m. Inquiries: nhuergo@hudson.org . Semiconductors, Onshoring, and US Government Capital: A Conversation with...",
+        "url": "https://www.hudson.org/events/semiconductors-onshoring-us-government-capital-conversation-commerces-bill-frauenhofer"
+    },
+    {
+        "id": "https://www.hudson.org/events/army-congress-conversation-chief-legislative-liaison-james-byrn",
+        "source": "Hudson Institute",
+        "title": "The Army and Congress: A Conversation with Chief Legislative Liaison James Byrn",
+        "publicationDate": "2026-10-15",
+        "category": "Defense",
+        "summary": "The Army and Congress: A Conversation with Chief Legislative Liaison James Byrn nhuergo@hudson.org Thu, 10/15/2026 - 16:31 20 October 2026 In-Person Event The Army and Congress: A Conversation with Chief Legislative Liaison James Byrn Register for Event TUESDAY 1:30 p.m. - 2:30 p.m. Event will also air live on this page. Inquiries: nhuergo@hudson.org . Register for Event The Army and Congress: A Conversation with...",
+        "url": "https://www.hudson.org/events/army-congress-conversation-chief-legislative-liaison-james-byrn"
+    },
+    {
+        "id": "https://www.hudson.org/events/moral-case-zionism-book-launch-casey-babb",
+        "source": "Hudson Institute",
+        "title": "A Moral Case for Zionism: A Book Launch with Casey Babb",
+        "publicationDate": "2026-10-15",
+        "category": "Other",
+        "summary": "A Moral Case for Zionism: A Book Launch with Casey Babb nhuergo@hudson.org Thu, 10/15/2026 - 16:05 21 October 2026 In-Person Event A Moral Case for Zionism: A Book Launch with Casey Babb WEDNESDAY 5:30 p.m. - 7:00 p.m. A Moral Case for Zionism: A Book Launch with Casey Babb In-Person Event Invite Only October 21, 2026 Share: Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Caption...",
+        "url": "https://www.hudson.org/events/moral-case-zionism-book-launch-casey-babb"
+    },
+    {
         "id": "https://www.hudson.org/events/nord-stream-conspiracy-conversation-bojan-pancevski",
         "source": "Hudson Institute",
         "title": "The Nord Stream Conspiracy: A Conversation with Bojan Pancevski",
@@ -313,33 +376,6 @@
         "category": "Defense",
         "summary": "The Annual Czech and Slovak Freedom Lecture nhuergo@hudson.org Thu, 10/15/2026 - 15:04 23 October 2026 In-Person Event The Annual Czech and Slovak Freedom Lecture Register for Event FRIDAY 9:00 a.m. - 10:00 a.m. Event will also air live on this page. Inquiries: nhuergo@hudson.org . Register for Event The Annual Czech and Slovak Freedom Lecture In-Person Event Hudson Institute October 23, 2026 Register for Event...",
         "url": "https://www.hudson.org/events/annual-czech-slovak-freedom-lecture-0"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/why-losing-taiwan-war-might-not-break-china-ken-moriyasu",
-        "source": "Hudson Institute",
-        "title": "Why Losing a Taiwan War Might Not Break China",
-        "publicationDate": "2026-10-15",
-        "category": "Defense",
-        "summary": "Why Losing a Taiwan War Might Not Break China bbert@hudson.org Thu, 10/15/2026 - 14:43 SVG Commentary Oct 15, 2026 National Interest Why Losing a Taiwan War Might Not Break China The Yuan dynasty felt secure enough to invade Japan—and suffer catastrophic losses—because its position on the Eurasian landmass was secure. Is China’s today? Ken Moriyasu Senior Fellow Ken Moriyasu Commentary Caption A truck drives...",
-        "url": "https://www.hudson.org/foreign-policy/why-losing-taiwan-war-might-not-break-china-ken-moriyasu"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/north-koreas-military-moves-test-alliance-trust-prospects-diplomacy-emerge-patrick-cronin",
-        "source": "Hudson Institute",
-        "title": "North Korea’s Military Moves Test Alliance Trust as Prospects for Diplomacy Emerge",
-        "publicationDate": "2026-10-15",
-        "category": "Defense",
-        "summary": "North Korea’s Military Moves Test Alliance Trust as Prospects for Diplomacy Emerge bbert@hudson.org Thu, 10/15/2026 - 12:39 SVG In the Media Oct 14, 2026 Arirang News North Korea’s Military Moves Test Alliance Trust as Prospects for Diplomacy Emerge Patrick M. Cronin Asia-Pacific Security Chair Patrick M. Cronin In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to...",
-        "url": "https://www.hudson.org/foreign-policy/north-koreas-military-moves-test-alliance-trust-prospects-diplomacy-emerge-patrick-cronin"
-    },
-    {
-        "id": "https://www.hudson.org/experts/ella-blair",
-        "source": "Hudson Institute",
-        "title": "Ella Blair",
-        "publicationDate": "2026-10-15",
-        "category": "Technology",
-        "summary": "Ella Blair nmackey@hudson.org Thu, 10/15/2026 - 12:14 Ella Blair Special Assistant to the President and CEO At A Glance: Ella Blair is special assistant to the president and CEO at Hudson Institute. Contact: eblair@hudson.org Biography Ella Blair is special assistant to the president and CEO at Hudson Institute. She received BAs in political science and history from the University of Tennessee, Knoxville.",
-        "url": "https://www.hudson.org/experts/ella-blair"
     },
     {
         "id": "https://cms.hoover.org/research/counter-revolution-victor-davis-hanson-fall-and-rise-trump",
@@ -387,21 +423,12 @@
         "url": "https://cms.hoover.org/research/michael-mcfaul-performance-toughness-hegseths-choice-livestream-ft-hood-execution-draws"
     },
     {
-        "id": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
-        "source": "NPR Politics",
-        "title": "Suspicious mailings to election officials, congressional offices under investigation",
-        "publicationDate": "2026-10-15",
-        "category": "Other",
-        "summary": "The FBI and U.S. Postal Inspection Service are looking into the mailings, some of which included an unidentified powdery white substance.",
-        "url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/watch-live-sullivan-peltola-face-off-in-alaska-u-s-senate-debate",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH LIVE: Sullivan, Peltola face off in Alaska U.S. Senate debate",
+        "title": "WATCH: Sullivan, Peltola face off in Alaska U.S. Senate debate",
         "publicationDate": "2026-10-15",
-        "category": "2026 debates",
-        "summary": "In Alaska, Republican Sen. Dan Sullivan is set to face off against his Democratic challenger, former Rep. Mary Peltola, on Thursday as he bids for reelection.",
+        "category": "Foreign Policy",
+        "summary": "Alaska's major U.S. Senate candidates clashed over the Iran war, soaring consumer prices and personal credibility Thursday during a high-stakes debate in a contest that will play into control of the closely divided chamber.",
         "url": "https://www.pbs.org/newshour/politics/watch-live-sullivan-peltola-face-off-in-alaska-u-s-senate-debate"
     },
     {
@@ -414,33 +441,6 @@
         "url": "https://www.pbs.org/newshour/show/news-wrap-trump-says-fort-hood-shooters-execution-will-not-be-livestreamed"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/an-accounting-of-trumps-promised-payouts-and-questions-they-raise",
-        "source": "PBS NewsHour Politics",
-        "title": "An accounting of Trump's promised payouts and questions they raise",
-        "publicationDate": "2026-10-15",
-        "category": "Healthcare",
-        "summary": "President Trump is cutting checks to Americans and promising more with less than three weeks left in a midterm cycle largely focused on affordability. Trump argues they're refunds for excessive healthcare costs and promised economic dividends that only his party can deliver. Democrats contend he's trying to bribe citizens to vote for Republicans. Liz Landers has an accounting of the payouts.",
-        "url": "https://www.pbs.org/newshour/show/an-accounting-of-trumps-promised-payouts-and-questions-they-raise"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/inside-georgias-senate-race-and-collinss-uphill-battle-against-ossoff",
-        "source": "PBS NewsHour Politics",
-        "title": "Inside Georgia's Senate race and Collins's uphill battle against Ossoff",
-        "publicationDate": "2026-10-15",
-        "category": "georgia",
-        "summary": "President Trump will travel to Georgia on Friday to stump for Republican Senate candidate Mike Collins. Collins is in an uphill battle against incumbent Democratic Sen. Jon Ossoff. Liz Landers visited Georgia for a closer look at that race.",
-        "url": "https://www.pbs.org/newshour/show/inside-georgias-senate-race-and-collinss-uphill-battle-against-ossoff"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/frustrated-with-trump-voters-overwhelmingly-want-change-ap-norc-poll-finds",
-        "source": "PBS NewsHour Politics",
-        "title": "Frustrated with Trump, voters overwhelmingly want change, AP-NORC poll finds",
-        "publicationDate": "2026-10-15",
-        "category": "AP-NORC poll",
-        "summary": "A strong majority of voters believe that President Donald Trump is falling short at home and abroad, and they want major change in the upcoming midterm elections, according to a new AP-NORC poll that raises serious warning signs for the Republican Party at a critical moment.",
-        "url": "https://www.pbs.org/newshour/politics/frustrated-with-trump-voters-overwhelmingly-want-change-ap-norc-poll-finds"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA4728-1.html",
         "source": "RAND Corporation",
         "title": "Preventing health-related job loss",
@@ -450,15 +450,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4728-1.html"
     },
     {
-        "id": "https://www.cfr.org/articles/the-autonomous-weapons-debate-still-has-a-definition-problem",
-        "source": "Council on Foreign Relations",
-        "title": "The Autonomous Weapons Debate (Still) Has a Definition Problem",
-        "publicationDate": "2026-10-14",
-        "category": "Article",
-        "summary": "The debate over autonomous weapons and the debate over frontier AI safety are about different problems. To regulate autonomous weapons effectively and move forward after a decade of discussion, lawmakers and the public need to understand not whether a weapon is autonomous but how autonomous it is, and policymakers need a framework to address it.",
-        "url": "https://www.cfr.org/articles/the-autonomous-weapons-debate-still-has-a-definition-problem"
-    },
-    {
         "id": "https://www.heritage.org/global-politics/commentary/how-india-philippines-cooperation-reinforces-americas-interests-the",
         "source": "Heritage Foundation",
         "title": "How India-Philippines Cooperation Reinforces America’s Interests in the South China Sea",
@@ -466,6 +457,15 @@
         "category": "Defense",
         "summary": "With so much media focus in recent months on the war in Iran, it’s no surprise that Undersecretary of War for Policy Elbridge Colby’s speech in Manila received so little coverage. That means very few know what the U.S. and its allies are doing to deter China from launching any hostilities of its own. In April, Filipino marines undertook one of the most expansive iterations of Balikatan, the annual bilateral U.S....",
         "url": "https://www.heritage.org/global-politics/commentary/how-india-philippines-cooperation-reinforces-americas-interests-the"
+    },
+    {
+        "id": "R48956",
+        "source": "Congressional Research Service",
+        "title": "National Security, Department of State, and Related Programs: FY2027 Budget and Appropriations",
+        "publicationDate": "2026-10-13",
+        "category": "Economy",
+        "summary": "Congress typically considers 12 distinct appropriations measures on an annual basis to fund federal programs and activities. Between FY2008 and FY2025, one of these measures was the Department of State, Foreign Operations, and Related Programs (SFOPS) appropriations. Beginning in FY2026, Congress retitled this measure as the National Security, Department of State, and Related Programs (NSRP) appropriations. The...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48956/R48956.7.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4626-2.html",
@@ -484,6 +484,15 @@
         "category": "Foreign Policy",
         "summary": "The CER is an award winning independent think-tank devoted to making the EU work better, and strengthening its role in the world. We are pro-European but not uncritical. Join our mailing list and receive all our publications to your inbox as soon as they are published. We will not share your information with third parties, you can read our full privacy policy here . For any further information or queries please...",
         "url": "https://www.cer.eu/sign-cer-mailing-list"
+    },
+    {
+        "id": "R47857",
+        "source": "Congressional Research Service",
+        "title": "U.S. Tourism: Recent Developments and Data",
+        "publicationDate": "2026-10-09",
+        "category": "Economy",
+        "summary": "Tourism—both international and domestic—contributes millions of jobs and billions of dollars of spending to the national economy. In the past decade, the tourism industry has experienced a period with some disruptions. In 2020, the COVID-19 pandemic caused a sudden, dramatic decrease in tourism worldwide, including in and among the United States. By many measures, U.S. tourism spent the ensuing years rebounding...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47857/R47857.5.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4654-1.html",
@@ -556,15 +565,6 @@
         "category": "Other",
         "summary": "The Senate’s procedures are determined not only by its standing rules but also by standing orders, published precedents, committee rules, party conference rules, and informal practices. The Constitution and rulemaking statutes also impose procedural requirements on the Senate. Official parliamentary reference documents and other publications set forth the text of the various authorities or provide information about...",
         "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL30788/RL30788.23.pdf"
-    },
-    {
-        "id": "RL30787",
-        "source": "Congressional Research Service",
-        "title": "Parliamentary Reference Sources: House of Representatives",
-        "publicationDate": "2026-04-29",
-        "category": "Other",
-        "summary": "House procedures are based not only on the rules the chamber adopts at the start of each Congress but also on constitutional mandates, published precedents, rulemaking statutes, procedural principles detailed in Jefferson’s Manual, and informal practices. In addition, House committee and party rules may influence House procedures. Various reference sources contain the text of the different parliamentary authorities...",
-        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL30787/RL30787.30.pdf"
     },
     {
         "id": "R48538",
