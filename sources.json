@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.cfr.org/articles/john-f-kennedy-solicits-dwight-d-eisenhowers-advice-the-cuban-missile-crisis-day-two",
+        "source": "Council on Foreign Relations",
+        "title": "John F. Kennedy Solicits Dwight D. Eisenhower’s Advice—The Cuban Missile Crisis, Day Two",
+        "publicationDate": "2026-10-17",
+        "category": "Article",
+        "summary": "President John F. Kennedy works to project a sense of normalcy as his predecessor urges a miliary response.",
+        "url": "https://www.cfr.org/articles/john-f-kennedy-solicits-dwight-d-eisenhowers-advice-the-cuban-missile-crisis-day-two"
+    },
+    {
         "id": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
         "source": "NPR Politics",
         "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
@@ -27,49 +36,76 @@
         "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6155776-trump-arch-plans-omit-military-complex/",
+        "id": "https://www.pbs.org/newshour/politics/house-speaker-mike-johnson-draws-on-faith-as-he-fights-to-hold-the-republican-majority",
+        "source": "PBS NewsHour Politics",
+        "title": "House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority",
+        "publicationDate": "2026-10-17",
+        "category": "2026 Midterms",
+        "summary": "Ever the optimist, Speaker Mike Johnson said he believes Republicans will hold on to their U.S. House majority, defying a surge of Democratic momentum in the final stretch of the midterm elections that will determine control of Congress.",
+        "url": "https://www.pbs.org/newshour/politics/house-speaker-mike-johnson-draws-on-faith-as-he-fights-to-hold-the-republican-majority"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trumps-decision-to-waive-russian-sanctions-outrages-congress-but-no-quick-counter-seen",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump's decision to waive Russian sanctions outrages Congress, but no quick counter seen",
+        "publicationDate": "2026-10-17",
+        "category": "Foreign Policy",
+        "summary": "Lawmakers from both parties blasted the executive order late Friday, the latest in a series of steps that the Republican president has taken drawing the United States closer to Russia's Vladimir Putin.",
+        "url": "https://www.pbs.org/newshour/politics/trumps-decision-to-waive-russian-sanctions-outrages-congress-but-no-quick-counter-seen"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6155983-no-kings-coalition-action-protests/",
         "source": "The Hill",
-        "title": "Final Trump arch plans submitted to city omit proposed military complex",
+        "title": "Thousands of No Kings protests held for nationwide early voting 'day of action'",
+        "publicationDate": "2026-10-17",
+        "category": "State Watch",
+        "summary": "Thousands of “No Kings” protests are being held across the country on Saturday for a “nationwide day of action” amid the start of the early voting period in many states. Previous country-wide protest days led by the No Kings Coalition have been aimed at denouncing President Trump and his administration’s policies. The Oct. 17 day...",
+        "url": "https://thehill.com/homenews/state-watch/6155983-no-kings-coalition-action-protests/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6155919-ice-houston-immigrant-investigation/",
+        "source": "The Hill",
+        "title": "Immigrant ICE searched for in Texas when agent hit man with car has been dead for years: Report",
+        "publicationDate": "2026-10-17",
+        "category": "Administration",
+        "summary": "The immigrant that federal agents were pursuing when an Immigration and Customs Enforcement (ICE) officer hit and injured a man with a vehicle in Houston has apparently been dead for almost a decade, according to an immigration advocacy group. Miguel Parra Hernandez, a 48-year-old immigrant without legal status, was driving to work Saturday morning when federal...",
+        "url": "https://thehill.com/homenews/administration/6155919-ice-houston-immigrant-investigation/"
+    },
+    {
+        "id": "https://thehill.com/opinion/finance/6154138-national-debt-impact/",
+        "source": "The Hill",
+        "title": "America’s $40 trillion debt is coming for your wallet",
+        "publicationDate": "2026-10-17",
+        "category": "Economy",
+        "summary": "As the U.S. national debt surpassed $40 trillion during Donald Trump's second term, critics warned that escalating interest payments and inflation are eroding public services and devaluing the dollar.",
+        "url": "https://thehill.com/opinion/finance/6154138-national-debt-impact/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6155906-schumer-slams-trump-putin/",
+        "source": "The Hill",
+        "title": "Schumer: 'Trump just gave Putin the best birthday gift he’ll get this year'",
+        "publicationDate": "2026-10-17",
+        "category": "Economy",
+        "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) accused President Trump on Saturday of giving Russian President Vladimir Putin “the best birthday gift” after he waived new sanctions on Russia days before they were set to take effect. “By giving the Russian economy life support Trump’s deal with the devil keeps getting dirtier,” Schumer wrote in a...",
+        "url": "https://thehill.com/homenews/senate/6155906-schumer-slams-trump-putin/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6155838-trump-california-doj-voter-rolls-jail/",
+        "source": "The Hill",
+        "title": "Trump: California officials will 'go to jail' if state ignores DOJ voter roll suit",
+        "publicationDate": "2026-10-17",
+        "category": "Administration",
+        "summary": "President Trump reupped the Justice Department's (DOJ) warning that California officials could face criminal charges if they include the mail-in ballots of the over 200,000 people the federal government identified as potential non-U.S. citizens in their midterm election count. “They will all go to jail for a long period of time!!!” Trump wrote in a...",
+        "url": "https://thehill.com/homenews/administration/6155838-trump-california-doj-voter-rolls-jail/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
+        "source": "New York Times Politics",
+        "title": "Dispute Between Trump Allies Centers on Payment From Congo",
         "publicationDate": "2026-10-17",
         "category": "Defense",
-        "summary": "Final site plans for President Trump’s proposed, 250-foot-tall triumphal arch do not mention the military features he previously said he would add to the project, according to documentation the Interior Department submitted to the National Capital Planning Commission. The president announced in late September the structure, slated to be built between Arlington National Cemetery...",
-        "url": "https://thehill.com/homenews/administration/6155776-trump-arch-plans-omit-military-complex/"
-    },
-    {
-        "id": "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/",
-        "source": "The Hill",
-        "title": "Zelensky on Trump waiving Russia sanctions: 'This Act could have helped enormously'",
-        "publicationDate": "2026-10-17",
-        "category": "Foreign Policy",
-        "summary": "Ukrainian President Volodymyr Zelensky decried President Trump’s late-night decision to waive sanctions and tariffs against Russia days before they were set to take effect under a new law. “At a time when the Russians have carried out such a massive attack on our energy sector, a decision was unfortunately made in America to completely disregard...",
-        "url": "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/"
-    },
-    {
-        "id": "https://thehill.com/opinion/judiciary/6155337-journalist-face-privacy-act-showdown/",
-        "source": "The Hill",
-        "title": "If the Supreme Court wants to protect freedom of the press, here is its chance",
-        "publicationDate": "2026-10-17",
-        "category": "Opinions - Judiciary",
-        "summary": "Herridge did the right thing in protecting her sources. The justices now have a chance to protect her.",
-        "url": "https://thehill.com/opinion/judiciary/6155337-journalist-face-privacy-act-showdown/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/",
-        "source": "The Hill",
-        "title": "GOP lawmakers bash Trump's decision to waive Russia sanctions: 'Beyond irresponsible'",
-        "publicationDate": "2026-10-17",
-        "category": "Foreign Policy",
-        "summary": "Several GOP lawmakers criticized President Trump’s move to exempt Russia from the sanctions bill he signed law last month, with Sen. Thom Tillis (R- N.C.) calling the move \"beyond irresponsible.\" Trump signed an executive order Friday evening to waive sanctions against Russia in a legislative package that was meant to put pressure on the Kremlin...",
-        "url": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/"
-    },
-    {
-        "id": "https://thehill.com/opinion/criminal-justice/6154211-prison-budget-reentry-reform/",
-        "source": "The Hill",
-        "title": "Corrections costs keep rising — but are we buying safer communities?",
-        "publicationDate": "2026-10-17",
-        "category": "Opinions - Criminal Justice",
-        "summary": "Support effective leadership, publish results and reward success. That's the key to success in corrections.",
-        "url": "https://thehill.com/opinion/criminal-justice/6154211-prison-budget-reentry-reform/"
+        "summary": "The White House inquiry is focused on diverging accounts from Richard Grenell and Alina Habba Mildon about a $17 million transfer from a government account in the African country to a Texas defense firm.",
+        "url": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/17/us/politics/susan-collins-troy-jackson-shut-up-debate.html",
@@ -83,20 +119,20 @@
     {
         "id": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
         "source": "New York Times Politics",
-        "title": "Trump Revives 2020 Election Conspiracies, With Help From the Federal Government",
+        "title": "Trump Revives 2020 Election Conspiracy Theories as Midterms Loom",
         "publicationDate": "2026-10-17",
         "category": "Voter Fraud (Election Fraud)",
         "summary": "Voting rights advocates fear the Trump administration may use the federal government to cast doubt on the election, discourage participation or try to delegitimize results.",
         "url": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html",
+        "id": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html",
         "source": "New York Times Politics",
         "title": "How Pennsylvania Explains the Forces Shaping the Midterms",
         "publicationDate": "2026-10-17",
         "category": "Pennsylvania",
         "summary": "Four battleground congressional districts in the state reveal fault lines that are echoing nationwide.",
-        "url": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html"
+        "url": "https://www.nytimes.com/2026/10/17/us/politics/pennsylvania-midterm-elections-house-races.html"
     },
     {
         "id": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
@@ -106,15 +142,6 @@
         "category": "Midterm Elections (2026)",
         "summary": "In Pennsylvania, four congressional districts exemplify the types of seats that Democrats are aiming to flip. Our national political correspondent Shane Goldmacher explains.",
         "url": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/16/us/politics/justice-department-disqualify-judge-golf-lawsuit.html",
-        "source": "New York Times Politics",
-        "title": "Justice Department Seeks to Disqualify Judge Overseeing Golf Course Lawsuit",
-        "publicationDate": "2026-10-17",
-        "category": "United States Politics and Government",
-        "summary": "Escalating a standoff with Judge Ana C. Reyes, the Justice Department demanded that she recuse herself from a case in which she had ordered several Trump officials to testify.",
-        "url": "https://www.nytimes.com/2026/10/16/us/politics/justice-department-disqualify-judge-golf-lawsuit.html"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
@@ -162,6 +189,24 @@
         "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
+        "source": "Financial Times World",
+        "title": "Israeli settlers attack European diplomats in the West Bank",
+        "publicationDate": "2026-10-17",
+        "category": "Foreign Policy",
+        "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+        "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0"
+    },
+    {
+        "id": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Protesters clash with police in Paris and Marseille",
+        "publicationDate": "2026-10-17",
+        "category": "Other",
+        "summary": "Thousands take to the streets to demonstrate over high living costs and dissatisfaction with the education system",
+        "url": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
@@ -187,24 +232,6 @@
         "category": "Other",
         "summary": "Kyiv’s one-time allies are increasingly reluctant to provide the country with the support it needs",
         "url": "https://www.ft.com/content/3d964bed-ed6e-4b15-ade0-f190d2723cac?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Corporate donations flood US attorneys-general election races",
-        "publicationDate": "2026-10-17",
-        "category": "Other",
-        "summary": "Officials tasked with enforcing state laws have emerged as a formidable check on the Trump administration’s policies",
-        "url": "https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump exempts Russia from further sanctions mandated by new law",
-        "publicationDate": "2026-10-17",
-        "category": "Foreign Policy",
-        "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
-        "url": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/ukraines-attacks-on-russian-data-centers-lay-bare-a-global-risk-to-ai",
@@ -241,15 +268,6 @@
         "category": "Article",
         "summary": "President John F. Kennedy learned that the Soviets were installing nuclear missiles in Cuba and sought to project a sense to the world that nothing was amiss.",
         "url": "https://www.cfr.org/articles/jfk-learns-that-soviet-missiles-are-in-cuba-the-cuban-missile-crisis-day-one"
-    },
-    {
-        "id": "https://www.cfr.org/articles/cfr-names-sam-vigersky-a-fellow",
-        "source": "Council on Foreign Relations",
-        "title": "CFR Names Sam Vigersky a Fellow",
-        "publicationDate": "2026-10-16",
-        "category": "Foreign Policy",
-        "summary": "The Council on Foreign Relations (CFR) is pleased to name Sam Vigersky a fellow in the David Rockefeller Studies Program, CFR’s think tank. His research and writing will focus on humanitarian statecraft and modernizing emergency relief in response to armed conflicts and natural disasters. Most recently, Mr. Vigersky served as a CFR international affairs fellow, […]",
-        "url": "https://www.cfr.org/articles/cfr-names-sam-vigersky-a-fellow"
     },
     {
         "id": "https://www.heritage.org/education/commentary/the-public-school-system-has-failed-american-kids-now-what",
@@ -367,24 +385,6 @@
         "category": "Donald Trump news",
         "summary": "Ahead of the midterms, President Trump is on the campaign trail looking to rally his base in battleground races. His controversial comments at those rallies have drawn attention. White House correspondent Liz Landers has a fact check on some of Trump's claims.",
         "url": "https://www.pbs.org/newshour/show/examining-the-controversial-claims-trump-is-making-at-his-midterm-rallies"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/how-alaska-became-a-key-battleground-in-the-fight-for-the-senate",
-        "source": "PBS NewsHour Politics",
-        "title": "How Alaska became a key battleground in the fight for the Senate",
-        "publicationDate": "2026-10-16",
-        "category": "Foreign Policy",
-        "summary": "Alaska could play a pivotal role in Democrats' efforts to reclaim control of the Senate. In a debate, Republican incumbent Sen. Dan Sullivan faced questions about rising fuel costs driven by the war with Iran and Democratic challenger Mary Peltola pushed back against allegations that she mistreated staff members. Geoff Bennett discussed the race with Lori Townsend of Alaska Public Media.",
-        "url": "https://www.pbs.org/newshour/show/how-alaska-became-a-key-battleground-in-the-fight-for-the-senate"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/capehart-and-continetti-on-the-white-house-press-secretarys-quick-exit",
-        "source": "PBS NewsHour Politics",
-        "title": "Capehart and Continetti on the White House press secretary's quick exit",
-        "publicationDate": "2026-10-16",
-        "category": "Foreign Policy",
-        "summary": "Jonathan Capehart of MS NOW and Wall Street Journal opinion columnist Matthew Continetti join Geoff Bennett to discuss the week in politics, the White House press secretary's exit after five days on the job, President Trump's renewed feud with Ukraine's president and new reporting on who is paying for the White House ballroom project.",
-        "url": "https://www.pbs.org/newshour/show/capehart-and-continetti-on-the-white-house-press-secretarys-quick-exit"
     },
     {
         "id": "R43657",
