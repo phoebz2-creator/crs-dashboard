@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/",
+        "source": "The Hill",
+        "title": "Trump waives Russian sanctions outlined in Graham Act before they take effect",
+        "publicationDate": "2026-10-17",
+        "category": "Foreign Policy",
+        "summary": "President Trump signed an executive order Friday evening to waive sanctions against Russia set to take effect soon under a recently signed legislative package. The president officially signed the sanctions package into law last month, which was posthumously dedicated to the late Sen. Lindsay Graham (R-S.C.). The legislation sought to put pressure on the Kremlin...",
+        "url": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6155603-katie-zacharia-press-secretary-exit-statement/",
         "source": "The Hill",
         "title": "Zacharia speaks out after White House press secretary exit: 'It was an honor'",
@@ -56,10 +65,10 @@
     {
         "id": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html",
         "source": "New York Times Politics",
-        "title": "Trump Signs Order Exempting Russia From Sanctions Legislation",
+        "title": "Trump Signs Order Exempting Russia From Sanctions Law",
         "publicationDate": "2026-10-17",
         "category": "Foreign Policy",
-        "summary": "The sanctions were part of legislation that was named after Senator Lindsey Graham, the South Carolina Republican who died in July.",
+        "summary": "The sanctions were part of a measure that was named after Senator Lindsey Graham, the South Carolina Republican who died in July.",
         "url": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html"
     },
     {
@@ -72,15 +81,6 @@
         "url": "https://www.nytimes.com/2026/10/16/us/politics/ilhan-omar-investigation-phone.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-        "publicationDate": "2026-10-17",
-        "category": "Other",
-        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Brazil sees record fall in Amazon deforestation as key election looms",
@@ -90,22 +90,76 @@
         "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Trump’s press secretary Katie Zacharia fired after five days",
-        "publicationDate": "2026-10-17",
-        "category": "Other",
-        "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
-        "url": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/062bb1af-d44b-4176-89cd-49042e06362b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "North Korea gets closer to China and Russia with new bridges",
+        "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "publicationDate": "2026-10-17",
         "category": "Foreign Policy",
-        "summary": "Increasing trade and co-operation reduces need for talks with Washington and Seoul, analysts say",
-        "url": "https://www.ft.com/content/062bb1af-d44b-4176-89cd-49042e06362b?syn-25a6b1a6=1"
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+        "publicationDate": "2026-10-17",
+        "category": "Other",
+        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+        "publicationDate": "2026-10-17",
+        "category": "Other",
+        "summary": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+        "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/aef6d0ed-1019-452a-b3f0-3e3dfc9eac05?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "What is behind the surprising resilience of the UK economy?",
+        "publicationDate": "2026-10-17",
+        "category": "Economy",
+        "summary": "IMF forecasts and the latest GDP data this week painted a picture of unexpected strength",
+        "url": "https://www.ft.com/content/aef6d0ed-1019-452a-b3f0-3e3dfc9eac05?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/690d164b-58d4-4edc-951d-1cd35bc13bd0?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US university offers cut-price UK degree for international students",
+        "publicationDate": "2026-10-17",
+        "category": "Foreign Policy",
+        "summary": "Arizona State University aims to expand to an annual intake of up to 4,000 students in Britain in the coming years",
+        "url": "https://www.ft.com/content/690d164b-58d4-4edc-951d-1cd35bc13bd0?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Houthis encircle new target in conflict with Saudi-backed forces",
+        "publicationDate": "2026-10-17",
+        "category": "Foreign Policy",
+        "summary": "Iran-backed rebels surround Taiz, one of Yemen’s largest cities, as conflict with Riyadh and its local allies escalates",
+        "url": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f5388310-ea4b-47b5-ae9c-7aff01198422",
+        "source": "Financial Times World",
+        "title": "This earnings season, what CEOs say matters more than what they’ve done",
+        "publicationDate": "2026-10-17",
+        "category": "Other",
+        "summary": "Bosses who start shaping their narrative now will have a head start on a bumpy year",
+        "url": "https://www.ft.com/content/f5388310-ea4b-47b5-ae9c-7aff01198422"
+    },
+    {
+        "id": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Why have screens replaced socialising?",
+        "publicationDate": "2026-10-17",
+        "category": "Other",
+        "summary": "The economics of why we increasingly avoid the company of both other humans and books",
+        "url": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/ukraines-attacks-on-russian-data-centers-lay-bare-a-global-risk-to-ai",
@@ -315,15 +369,6 @@
         "url": "https://www.pbs.org/newshour/show/capehart-and-continetti-on-the-white-house-press-secretarys-quick-exit"
     },
     {
-        "id": "https://thehill.com/newsletters/defense-national-security/6155474-centcom-commander-says-naval-blockade-cost-iran-25b-in-oil-revenue/",
-        "source": "The Hill",
-        "title": "Centcom commander says naval blockade cost Iran $25B in oil revenue",
-        "publicationDate": "2026-10-16",
-        "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Centcom commander says naval blockade cost Iran $25B in oil revenue The U.S. Central Command (Centcom) Commander Adm. Brad Cooper said on Friday that the U.S. naval blockade has cost Iran $25 billion in crude oil...",
-        "url": "https://thehill.com/newsletters/defense-national-security/6155474-centcom-commander-says-naval-blockade-cost-iran-25b-in-oil-revenue/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/10/16/us/politics/drones-border-restrictions.html",
         "source": "New York Times Politics",
         "title": "Trump Administration Restricts Drone Activity Along U.S.-Mexico Border",
@@ -340,51 +385,6 @@
         "category": "Foreign Policy",
         "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
         "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-        "publicationDate": "2026-10-16",
-        "category": "Other",
-        "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Katie Zacharia leaving her White House role less than five days on the job",
-        "publicationDate": "2026-10-16",
-        "category": "Other",
-        "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Oil hits five-month high of $110 on new escalation in Middle East",
-        "publicationDate": "2026-10-16",
-        "category": "Other",
-        "summary": "Brent prices jump on reports that Saudi Arabia-led forces intercepted and destroyed missiles aimed at critical energy hubs",
-        "url": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/d2d5efc6-e2e6-4342-a402-ada4b6c042ef?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Healey says new Heathrow runway would boost ‘growth’ despite Burnham wavering",
-        "publicationDate": "2026-10-16",
-        "category": "Other",
-        "summary": "Future of £33bn project has been put in doubt since new prime minister took office",
-        "url": "https://www.ft.com/content/d2d5efc6-e2e6-4342-a402-ada4b6c042ef?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
-        "publicationDate": "2026-10-16",
-        "category": "Economy",
-        "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
-        "url": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1"
     },
     {
         "id": "R43657",
