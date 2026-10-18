@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://thehill.com/homenews/campaign/6156280-shapiro-launches-super-pac/",
+        "source": "The Hill",
+        "title": "Shapiro launches super PAC as presidential speculation mounts",
+        "publicationDate": "2026-10-18",
+        "category": "Campaign",
+        "summary": "Pennsylvania Gov. Josh Shapiro (D) is launching a new political action committee (PAC), raising speculation that the governor may run for president in 2028. The committee, called New Path PAC, says on its website that it is dedicated to electing candidates who will oppose President Trump. “New Path PAC will help Governor Josh Shapiro build...",
+        "url": "https://thehill.com/homenews/campaign/6156280-shapiro-launches-super-pac/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6156261-cdc-assists-pennsylvania-measles-outbreak/",
+        "source": "The Hill",
+        "title": "CDC sends a 'disease detective' to Pennsylvania amid measles outbreak",
+        "publicationDate": "2026-10-18",
+        "category": "Healthcare",
+        "summary": "The Centers for Disease Control and Prevention (CDC) is sending a disease expert to assist with the response to the ongoing measles outbreak in Pennsylvania. “CDC will continue working closely with Pennsylvania health officials to provide the expertise and support needed to respond to the outbreak and protect public health,” the spokesperson told NBC News. The...",
+        "url": "https://thehill.com/policy/healthcare/6156261-cdc-assists-pennsylvania-measles-outbreak/"
+    },
+    {
         "id": "https://thehill.com/homenews/senate/6156233-darline-graham-opposes-trump-russia-waiver/",
         "source": "The Hill",
         "title": "Sen. Graham on Trump waiving Russia sanctions: ‘I look forward to talking to him’",
@@ -9,6 +27,24 @@
         "url": "https://thehill.com/homenews/senate/6156233-darline-graham-opposes-trump-russia-waiver/"
     },
     {
+        "id": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html",
+        "source": "New York Times Politics",
+        "title": "4 Takeaways From a Voting-Focused ‘No Kings’ Day",
+        "publicationDate": "2026-10-18",
+        "category": "Democratic Party",
+        "summary": "Saturday’s gatherings were more subdued than some past events, and many prominent Democrats skipped them.",
+        "url": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
+        "source": "New York Times Politics",
+        "title": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
+        "publicationDate": "2026-10-18",
+        "category": "Florida",
+        "summary": "Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning states. He rallied in Tampa for Ms. Nixon, the underdog Democratic nominee for Florida Senate.",
+        "url": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html",
         "source": "New York Times Politics",
         "title": "Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed",
@@ -16,6 +52,78 @@
         "category": "Foreign Policy",
         "summary": "Senator Darline Graham, appointed to fill the Senate seat of her late brother, Lindsey, gently disagreed with the president’s decision to exempt Russia from the sanctions legislation.",
         "url": "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+        "publicationDate": "2026-10-18",
+        "category": "Healthcare",
+        "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Deaths confirmed in major fire at Canada military base",
+        "publicationDate": "2026-10-18",
+        "category": "Defense",
+        "summary": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
+        "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "publicationDate": "2026-10-18",
+        "category": "Foreign Policy",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/886006f8-284c-4a20-9411-3cfd9deead3f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "‘Cash is making a comeback’ in digital India",
+        "publicationDate": "2026-10-18",
+        "category": "Economy",
+        "summary": "Shadow economy drives demand for physical currency as new charge could hit popularity of the UPI digital payments interface",
+        "url": "https://www.ft.com/content/886006f8-284c-4a20-9411-3cfd9deead3f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "America’s $10tn AI infrastructure boom is starting to fray",
+        "publicationDate": "2026-10-18",
+        "category": "Technology",
+        "summary": "A vast bet on the future of the technology is running into the unforgiving economics of the physical world",
+        "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The Trump administration has entered its utter shambles era",
+        "publicationDate": "2026-10-18",
+        "category": "Other",
+        "summary": "A disastrous five-day stint for the president’s new press secretary is just the latest sign of chaos in the White House",
+        "url": "https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/fbba5e95-a6f1-4881-a42d-85ef32c28b7b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Far-right election gains threaten Germany’s investment drive",
+        "publicationDate": "2026-10-18",
+        "category": "Other",
+        "summary": "Surge in support for AfD is fuelling concerns among executives ahead of an investment summit in Berlin this week",
+        "url": "https://www.ft.com/content/fbba5e95-a6f1-4881-a42d-85ef32c28b7b?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/747f16db-17fd-49d0-b109-981274333feb?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Is American democracy safe? Martin Wolf on the US midterms",
+        "publicationDate": "2026-10-18",
+        "category": "Other",
+        "summary": "The FT’s chief economics commentator speaks to former Republican adviser Robert Kagan",
+        "url": "https://www.ft.com/content/747f16db-17fd-49d0-b109-981274333feb?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/john-f-kennedy-solicits-dwight-d-eisenhowers-advice-the-cuban-missile-crisis-day-two",
@@ -108,24 +216,6 @@
         "url": "https://thehill.com/homenews/sunday-talk-shows/6156133-trump-russia-sanctions-backlash/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6156134-stelson-leads-perry-poll-pennsylvania-house/",
-        "source": "The Hill",
-        "title": "GOP Rep. Scott Perry narrowly behind in Pennsylvania reelection bid: Poll",
-        "publicationDate": "2026-10-17",
-        "category": "Campaign",
-        "summary": "A new poll of a key Pennsylvania battleground district shows incumbent Rep. Scott Perry (R) narrowly trailing his Democratic opponent. The new Susquehanna Polling and Research survey, released Saturday, shows Perry trailing former news anchor Janelle Stelson (D) by three points, 49 percent to 46 percent. Stelson’s lead is within the poll’s margin of error....",
-        "url": "https://thehill.com/homenews/campaign/6156134-stelson-leads-perry-poll-pennsylvania-house/"
-    },
-    {
-        "id": "https://thehill.com/business/6155023-inflation-midterm-elections-republicans/",
-        "source": "The Hill",
-        "title": "Concerning economic data pose issues for GOP down midterm stretch",
-        "publicationDate": "2026-10-17",
-        "category": "Economy",
-        "summary": "Recent data paints a bleak picture of the economy, lending Republicans another blow as midterm early-voting is underway. Annual inflation, as measured by the consumer price index (CPI), rose from 3.4 percent in August to 3.7 percent in September, the Bureau of Labor Statistics (BLS) reported Wednesday. A day later, the BLS reported that wholesale...",
-        "url": "https://thehill.com/business/6155023-inflation-midterm-elections-republicans/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html",
         "source": "New York Times Politics",
         "title": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
@@ -133,15 +223,6 @@
         "category": "Midterm Elections (2026)",
         "summary": "As he stumps for midterm candidates, the president has been especially eager to talk about the physical appearance of some men.",
         "url": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
-        "source": "New York Times Politics",
-        "title": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
-        "publicationDate": "2026-10-17",
-        "category": "Florida",
-        "summary": "Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning states. He rallied in Tampa for Ms. Nixon, the underdog Democratic nominee for Florida Senate.",
-        "url": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
@@ -153,15 +234,6 @@
         "url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
-        "source": "New York Times Politics",
-        "title": "Dispute Between Trump Allies Centers on Millions Transferred From Congo",
-        "publicationDate": "2026-10-17",
-        "category": "Defense",
-        "summary": "The White House inquiry is focused on diverging accounts from Richard Grenell and Alina Habba Mildon about a $17 million transfer from a government account in the African country to a Texas defense firm.",
-        "url": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
@@ -171,15 +243,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "publicationDate": "2026-10-17",
-        "category": "Foreign Policy",
-        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "European diplomats attacked by Israeli settlers in West Bank",
@@ -187,69 +250,6 @@
         "category": "Defense",
         "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
         "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Anti-government protesters battle with police in Albania",
-        "publicationDate": "2026-10-17",
-        "category": "Foreign Policy",
-        "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-        "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "At least 17 dead in crush at Hindu festival event in India",
-        "publicationDate": "2026-10-17",
-        "category": "Other",
-        "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-        "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Protests across France spiral into riots and looting",
-        "publicationDate": "2026-10-17",
-        "category": "Other",
-        "summary": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
-        "url": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "White House chaos overshadows Trump’s midterms push",
-        "publicationDate": "2026-10-17",
-        "category": "Other",
-        "summary": "Sacking of Katie Zacharia is latest in a week of embarrassing administration mis-steps",
-        "url": "https://www.ft.com/content/5712154e-13a1-4adc-8ff8-be744a9ffc1c?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
-        "source": "Financial Times World",
-        "title": "Israeli settlers attack European diplomats in the West Bank",
-        "publicationDate": "2026-10-17",
-        "category": "Foreign Policy",
-        "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
-        "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0"
-    },
-    {
-        "id": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
-        "publicationDate": "2026-10-17",
-        "category": "Foreign Policy",
-        "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-        "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/425cc873-23d8-4028-9ad0-13276bdbccf7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Lula turns to selfie videos in election fightback",
-        "publicationDate": "2026-10-17",
-        "category": "Other",
-        "summary": "Leftwing leader was beaten by hard-right Flávio Bolsonaro in first round of voting",
-        "url": "https://www.ft.com/content/425cc873-23d8-4028-9ad0-13276bdbccf7?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/ukraines-attacks-on-russian-data-centers-lay-bare-a-global-risk-to-ai",
