@@ -1,5 +1,50 @@
 [
     {
+        "id": "R41833",
+        "source": "Congressional Research Service",
+        "title": "IDEA, Part B: Key Statutory and Regulatory Provisions Relating to the Education of Children with Disabilities",
+        "publicationDate": "2026-10-22",
+        "category": "Other",
+        "summary": "The Individuals with Disabilities Education Act (IDEA) is a statute that authorizes grant programs that support special education and early intervention services for children with disabilities. Under IDEA, a series of conditions are attached to the receipt of grant funds. These conditions aim to provide certain educational and procedural guarantees for children with disabilities and their families. Part B of IDEA...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R41833/R41833.25.pdf"
+    },
+    {
+        "id": "R49491",
+        "source": "Congressional Research Service",
+        "title": "Federal Government Shutdowns and the Impact on Civil Aviation",
+        "publicationDate": "2026-10-22",
+        "category": "Other",
+        "summary": "When federal agencies and programs do not receive funding after full-year or interim appropriations expire, they experience a “funding gap.” If funding does not resume in time to continue government operations, the government generally begins a “shutdown” of affected activities. Shutdowns can be government-wide or partial (i.e., affecting certain federal agencies and programs) depending on which appropriations...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49491/R49491.1.pdf"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA3964-1.html",
+        "source": "RAND Corporation",
+        "title": "Towards a new framework for nuclear deterrence in Europe",
+        "publicationDate": "2026-10-22",
+        "category": "Foreign Policy",
+        "summary": "This study explores European NATO Allies’ views of Russian nuclear policy and the role of the UK and France in NATO’s nuclear posture, and it sets out six conceptual questions to guide discussions of a future nuclear deterrence framework in Europe.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA3964-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/could-flavio-bolsonaro-deliver-on-his-fiscal-promises",
+        "source": "Council on Foreign Relations",
+        "title": "Could Flávio Bolsonaro Deliver on His Fiscal Promises?",
+        "publicationDate": "2026-10-22",
+        "category": "Economy",
+        "summary": "Investors are betting that the Brazilian presidential candidate will rein in public debt. But structural and political hurdles make austerity easier to promise than to enact.",
+        "url": "https://www.cfr.org/articles/could-flavio-bolsonaro-deliver-on-his-fiscal-promises"
+    },
+    {
+        "id": "https://www.heritage.org/technology/commentary/families-and-students-need-guidance-ai",
+        "source": "Heritage Foundation",
+        "title": "Families and Students Need Guidance on AI",
+        "publicationDate": "2026-10-22",
+        "category": "Defense",
+        "summary": "Delaware families and policymakers are wrestling with the same issue troubling Americans nationwide: how to handle artificial intelligence. In 2024, lawmakers in the Blue Hen State created a committee to study AI. Good thing, because parents and teachers badly need guidance on this issue. Yet AI technology has advanced rapidly over the past two years, so the committee should prioritize drafting recommendations for...",
+        "url": "https://www.heritage.org/technology/commentary/families-and-students-need-guidance-ai"
+    },
+    {
         "id": "https://cms.hoover.org/research/presidential-seal-disapproval",
         "source": "Hoover Institution",
         "title": "The Presidential Seal of Disapproval",
@@ -7,6 +52,15 @@
         "category": "Economy",
         "summary": "Demonizing Donald Trump is a recurring theme in the closing arguments for California ballot initiatives. That’s even true of one measure making permanent a “temporary” state tax increase that has nothing to do with the president—but says plenty about the Golden State’s fiscal house of cards.",
         "url": "https://cms.hoover.org/research/presidential-seal-disapproval"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+        "source": "NPR Politics",
+        "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+        "publicationDate": "2026-10-22",
+        "category": "Foreign Policy",
+        "summary": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
+        "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
     },
     {
         "id": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
@@ -27,15 +81,6 @@
         "url": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms"
     },
     {
-        "id": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
-        "source": "NPR Politics",
-        "title": "Farm country has beef with Trump as midterms approach",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "President Trump's attempts to bring beef prices down has potentially backfired politically in several key states.",
-        "url": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach"
-    },
-    {
         "id": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth",
         "source": "NPR Politics",
         "title": "High health costs squeeze workers, even if you have good insurance through a job",
@@ -45,63 +90,108 @@
         "url": "https://www.npr.org/2026/10/22/nx-s1-6008153/health-insurance-costs-kff-commonwealth"
     },
     {
-        "id": "https://www.npr.org/2026/10/22/nx-s1-6011216/backlash-from-attack-ad-upends-ohio-gubernatorial-race",
+        "id": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
         "source": "NPR Politics",
-        "title": "Backlash from attack ad upends Ohio gubernatorial race",
+        "title": "Farm country has beef with Trump as midterms approach",
         "publicationDate": "2026-10-22",
         "category": "Other",
-        "summary": "An ad from Republican Vivek Ramaswamy's campaign for governor shows his opponent's mother calling her a liar, amid accounts by Democrat Amy Acton of an abusive childhood.",
-        "url": "https://www.npr.org/2026/10/22/nx-s1-6011216/backlash-from-attack-ad-upends-ohio-gubernatorial-race"
+        "summary": "President Trump's attempts to bring beef prices down has potentially backfired politically in several key states.",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6164240-polling-industry-fake-results-scandal/",
-        "source": "The Hill",
-        "title": "Fake polls fooled the political world. Now the midterms face a trust crisis",
+        "id": "https://www.pbs.org/newshour/politics/watch-blanche-and-patel-announce-charges-for-democratic-virginia-lawmaker-lucas",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Blanche and Patel announce charges for Democratic Virginia lawmaker Lucas",
         "publicationDate": "2026-10-22",
-        "category": "Campaign",
-        "summary": "The political polling industry is under new fire after a second company on Tuesday acknowledged it had falsified data in a series of polls released over the past year. The admission by Wedgewood Polls comes as Republicans question whether this year's midterm polls are wrong and are undercounting GOP support. Wedgewood's polling had been used by...",
-        "url": "https://thehill.com/homenews/campaign/6164240-polling-industry-fake-results-scandal/"
+        "category": "fbi",
+        "summary": "Virginia state Sen. L. Louise Lucas, one of the state's most powerful Democrats, was charged on Thursday in connection with what federal authorities alleged was a role leading a wide-ranging criminal enterprise that acquired and distributed large quantities of marijuana and laundered the proceeds.",
+        "url": "https://www.pbs.org/newshour/politics/watch-blanche-and-patel-announce-charges-for-democratic-virginia-lawmaker-lucas"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6164202-abdul-el-sayed-michigan-senate-republican-attacks/",
-        "source": "The Hill",
-        "title": "El-Sayed’s alleged ties to Muslim Brotherhood shake up Michigan Senate race",
+        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-with-gop-senate-candidate-ashley-hinson",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Trump rallies in Iowa with GOP Senate candidate Ashley Hinson",
         "publicationDate": "2026-10-22",
-        "category": "Campaign",
-        "summary": "Senate Republicans are making a last-ditch effort to save former Rep. Mike Rogers (R-Mich.) in the Michigan Senate race by pouring money and effort into highlighting what they say are significant ties between Democratic candidate Abdul El-Sayed and the Muslim Brotherhood. El-Sayed vigorously denies that he has any ties to the Muslim Brotherhood, an Islamist...",
-        "url": "https://thehill.com/homenews/campaign/6164202-abdul-el-sayed-michigan-senate-republican-attacks/"
+        "category": "Ashley Hinson",
+        "summary": "On Thursday, Hinson will join President Donald Trump for a rally in Sioux City, which is in Iowa's conservative northwest corner. The visit to safe territory is geared toward boosting turnout even as it ties her more tightly to an unpopular president.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-with-gop-senate-candidate-ashley-hinson"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6164055-starlink-slowdown-ukraine/",
-        "source": "The Hill",
-        "title": "Rubio, Hegseth point fingers at Musk in Starlink slowdown",
+        "id": "https://www.pbs.org/newshour/politics/in-final-michigan-senate-debate-el-sayed-and-rogers-question-each-others-loyalties",
+        "source": "PBS NewsHour Politics",
+        "title": "In final Michigan Senate debate, El-Sayed and Rogers question each other's loyalties",
         "publicationDate": "2026-10-22",
-        "category": "Defense",
-        "summary": "Top Trump administration officials are starting to point fingers squarely at SpaceX founder Elon Musk for the decision to slow down his company’s Starlink satellite internet services and its military counterpart Starshield for Ukraine, which has been muddled in uncertainty over the culprit. Looking to deflect the controversial move — which was swiftly admonished by...",
-        "url": "https://thehill.com/homenews/administration/6164055-starlink-slowdown-ukraine/"
+        "category": "2026 Midterms",
+        "summary": "This time, the exchanges focused on policy, though both candidates repeatedly returned to their central attacks.",
+        "url": "https://www.pbs.org/newshour/politics/in-final-michigan-senate-debate-el-sayed-and-rogers-question-each-others-loyalties"
     },
     {
-        "id": "https://thehill.com/homenews/6163841-emerson-polling-texas-senate-race/",
-        "source": "The Hill",
-        "title": "Talarico, Paxton in dead heat for Texas Senate, Abbott leads governor's race: Poll",
+        "id": "https://www.pbs.org/newshour/politics/how-maine-voters-feel-about-the-high-stakes-senate-election",
+        "source": "PBS NewsHour Politics",
+        "title": "How Maine voters feel about the high-stakes Senate election",
         "publicationDate": "2026-10-22",
-        "category": "News",
-        "summary": "Democrat James Talarico and Republican Ken Paxton are in a dead heat for the Senate in Texas, according to new polling of one of the cycle’s most closely watched contests. Talarico notched 48 percent to Paxton’s 46 percent in new numbers from Emerson College Polling and The Hill, a result within the poll's margin of...",
-        "url": "https://thehill.com/homenews/6163841-emerson-polling-texas-senate-race/"
+        "category": "2026 Midterms",
+        "summary": "The state is both fired up by this big race and exhausted by its avalanche of ads.",
+        "url": "https://www.pbs.org/newshour/politics/how-maine-voters-feel-about-the-high-stakes-senate-election"
     },
     {
-        "id": "https://thehill.com/homenews/house/6163973-jeffries-faces-dsa-challenge/",
+        "id": "https://thehill.com/homenews/administration/6164811-live-updates-donald-trump-iowa-midterm-elections/",
         "source": "The Hill",
-        "title": "A new socialist bloc could test Jeffries from Day 1",
+        "title": "Live updates: Vance stumps in Nebraska; DOJ indicts top Virginia Democrat on corruption charges",
         "publicationDate": "2026-10-22",
-        "category": "House",
-        "summary": "Democratic socialists have already made huge waves this cycle by knocking off a handful of House incumbents on their way to Washington. The big question now gripping the party is how disruptive they’ll be when they get here. “We don’t know how they will be part of the team,” Rep. Don Beyer (D-Va.) said. “We...",
-        "url": "https://thehill.com/homenews/house/6163973-jeffries-faces-dsa-challenge/"
+        "category": "Administration",
+        "summary": "A federal indictment accuses one of Virginia's most powerful Democrats, state Sen. L. Louise Lucas, of having a role in leading a criminal enterprise that acquired and distributed large quantities of marijuana and laundered the proceeds. The indictment, unsealed on Thursday, charged Lucas and six other defendants, including several of her relatives, the Justice Department...",
+        "url": "https://thehill.com/homenews/administration/6164811-live-updates-donald-trump-iowa-midterm-elections/"
+    },
+    {
+        "id": "https://thehill.com/business/6165602-costco-plans-warehouse-in-a-new-state-as-others-await-their-first-store/",
+        "source": "The Hill",
+        "title": "Costco plans warehouse in a new state as others await their first store",
+        "publicationDate": "2026-10-22",
+        "category": "Business",
+        "summary": "Despite how popular it is, Costco hasn't opened warehouses in every state - yet.",
+        "url": "https://thehill.com/business/6165602-costco-plans-warehouse-in-a-new-state-as-others-await-their-first-store/"
+    },
+    {
+        "id": "https://thehill.com/opinion/congress-blog/economy-budget/6159359-federal-debt-growth-threatens-economy/",
+        "source": "The Hill",
+        "title": "The debt blob will destroy America",
+        "publicationDate": "2026-10-22",
+        "category": "Economy",
+        "summary": "Citizens Against Government Waste released its 2026 edition of Prime Cuts, proposing hundreds of recommendations to reduce the national debt and eliminate wasteful federal spending.",
+        "url": "https://thehill.com/opinion/congress-blog/economy-budget/6159359-federal-debt-growth-threatens-economy/"
+    },
+    {
+        "id": "https://thehill.com/homenews/media/6165621-trump-ordered-bbc-deposition/",
+        "source": "The Hill",
+        "title": "Judge orders Trump to be deposed in his BBC defamation suit",
+        "publicationDate": "2026-10-22",
+        "category": "Media",
+        "summary": "A federal judge ordered President Trump to be deposed as part of his lawsuit against the BBC over a documentary he says defamed him with how it was edited. Trump must be deposed by BBC lawyers before Dec. 11, U.S. Magistrate Judge Enjoliqué Lett ruled, according to The Associated Press, or face sanctions up to...",
+        "url": "https://thehill.com/homenews/media/6165621-trump-ordered-bbc-deposition/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6165628-arizona-toddler-alive-in-morgue/",
+        "source": "The Hill",
+        "title": "Family of toddler found alive in hospital morgue to file lawsuit: 'I just want justice for my son'",
+        "publicationDate": "2026-10-22",
+        "category": "Healthcare",
+        "summary": "Vincent Fiordilino was pronounced dead after he was found unresponsive in a swimming pool. A worker later observed him moving and breathing in a hospital morgue.",
+        "url": "https://thehill.com/homenews/state-watch/6165628-arizona-toddler-alive-in-morgue/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/22/us/politics/the-docket-citizens-united-recusals.html",
+        "source": "New York Times Politics",
+        "title": "Is Citizens United to Blame for Everything?",
+        "publicationDate": "2026-10-22",
+        "category": "Economy",
+        "summary": "Plus: The justices’ book deals mean the court can’t rule on cases involving a media conglomerate.",
+        "url": "https://www.nytimes.com/2026/10/22/us/politics/the-docket-citizens-united-recusals.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html",
         "source": "New York Times Politics",
-        "title": "Reliably Red Iowa in Play as Economic Woes Mount",
+        "title": "Iowa, Usually Red, Is in Play This Midterm as Economic Woes Mount",
         "publicationDate": "2026-10-22",
         "category": "United States Politics and Government",
         "summary": "The Trump administration’s policies could cost Republicans in a state that is being hit hard by expensive diesel prices and uncertainty over trade.",
@@ -131,116 +221,107 @@
         "title": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
         "publicationDate": "2026-10-22",
         "category": "Midterm Elections (2026)",
-        "summary": "Chris Pappas, the Democratic nominee in New Hampshire, would be the first openly gay man in the Senate. On the campaign trail, he doesn’t dwell on it.",
+        "summary": "Chris Pappas, the Democratic nominee, would make history if he won. On the campaign trail, he doesn’t dwell on it.",
         "url": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
-        "source": "New York Times Politics",
-        "title": "MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways",
-        "publicationDate": "2026-10-22",
-        "category": "Midterm Elections (2026)",
-        "summary": "Abdul El-Sayed accused Mike Rogers of being overly devoted to President Trump. Mr. Rogers accused Dr. El-Sayed of not enough loyalty to the country. It was still more cordial than their last debate.",
-        "url": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "How Arab parties could hold critical balance of power in Israeli election",
+        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
         "publicationDate": "2026-10-22",
         "category": "Other",
-        "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss"
+        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+        "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+        "title": "Crowd of 50 beats foreigner to death in South Africa",
+        "publicationDate": "2026-10-22",
+        "category": "Foreign Policy",
+        "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "At least four dead after storm brings flooding to southern France",
         "publicationDate": "2026-10-22",
         "category": "Other",
-        "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
-        "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss"
+        "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+        "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+        "publicationDate": "2026-10-22",
+        "category": "Economy",
+        "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
         "publicationDate": "2026-10-22",
         "category": "Other",
-        "summary": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom.",
-        "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
+        "summary": "The teacher said she could not help children because she was badly injured by the attacker.",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+        "id": "https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Macron warns some protests will be banned",
         "publicationDate": "2026-10-22",
         "category": "Other",
-        "summary": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
-        "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss"
+        "summary": "French president says labour unions can hold marches on Saturday but not other activists, in an effort to prevent more looting and rioting",
+        "url": "https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "El Salvador's president threatens Haitian gangs over military hostages",
+        "id": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
+        "publicationDate": "2026-10-22",
+        "category": "Other",
+        "summary": "Social media group’s market value tumbles more than $100bn after it forecasts ‘hundreds of billions of dollars’ in spending",
+        "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/6517874d-25b5-446f-9c9a-9326ab30dfa9?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Germany’s Merz warns of ‘intense’ Russian espionage after arrest",
         "publicationDate": "2026-10-22",
         "category": "Defense",
-        "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
-        "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss"
+        "summary": "German authorities detain Ukrainian national suspected of passing on intelligence about military sites and arms manufacturers to the Kremlin",
+        "url": "https://www.ft.com/content/6517874d-25b5-446f-9c9a-9326ab30dfa9?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/b739c6e8-5b77-46e3-91a5-382fd52389bc?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/9ddd1583-9296-4264-8ddd-dbf11469def9?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "FirstFT: Global equities hit by rise in oil prices",
+        "title": "Trump’s tourism push fails to lure visitors",
         "publicationDate": "2026-10-22",
         "category": "Other",
-        "summary": "Also in today’s newsletter: Barclays axes 5,000 jobs and companies race to protect their websites",
-        "url": "https://www.ft.com/content/b739c6e8-5b77-46e3-91a5-382fd52389bc?syn-25a6b1a6=1"
+        "summary": "Number of tourist arrivals in US continues to drop following football World Cup",
+        "url": "https://www.ft.com/content/9ddd1583-9296-4264-8ddd-dbf11469def9?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Websites taken offline in race to patch PHP security flaw",
+        "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
         "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "Government security agencies warn companies to take immediate action after AI uncovers widespread vulnerabilities",
-        "url": "https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1"
+        "category": "Economy",
+        "summary": "Group to create new class of non-voting shares to allow stock sales without diluting founder’s control",
+        "url": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Europe’s bracing reality on US bond yields",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
-        "url": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/09d62b14-3541-48de-9a8c-f198cbe0220b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "‘I don’t lose’: Rahm Emanuel makes an early pitch for the White House",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "Barack Obama’s famously foul-mouthed former chief of staff thinks he has a message to win over America",
-        "url": "https://www.ft.com/content/09d62b14-3541-48de-9a8c-f198cbe0220b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Europe’s underrated digital trailblazing",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "At the frontier of public digital money, the EU is slowly developing a geopolitical monetary strategy",
-        "url": "https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11?syn-25a6b1a6=1"
-    },
-    {
-        "id": "R49292",
+        "id": "IF13334",
         "source": "Congressional Research Service",
-        "title": "Interior, Environment, and Related Agencies: Overview of FY2027 Appropriations",
+        "title": "ANC, Tribal, NHO, and CDC Participation in the 8(a) Business Development Program",
         "publicationDate": "2026-10-21",
-        "category": "Healthcare",
-        "summary": "The Interior, Environment, and Related Agencies appropriations bill—often called the Interior bill—contains funding for about three dozen agencies and entities. They include most of the Department of the Interior (DOI) and certain agencies within other departments, such as the Forest Service (Department of Agriculture) and the Indian Health Service (Department of Health and Human Services). The bill also provides...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49292/R49292.3.pdf"
+        "category": "Defense",
+        "summary": "Introduction Congress has historically sought to help small, “socially and economically disadvantaged” business owners overcome barriers to participating in federal contracting and compete in the national economy through the Small Business Administration’s (SBA's) 8(a) Business Development Program, (commonly known as the “8(a) program”). Congress has also established annual goals for small business participation in...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13334/IF13334.1.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4411-6.html",
@@ -272,7 +353,7 @@
     {
         "id": "https://www.cfr.org/articles/trumps-putin-overtures-deserve-criticism-but-outrage-wont-end-the-ukraine-war",
         "source": "Council on Foreign Relations",
-        "title": "Trump's Putin Overtures Deserve Criticism. But Outrage Won't End the Ukraine War.",
+        "title": "Trump’s Putin Overtures Deserve Criticism. But Outrage Won’t End the Ukraine War.",
         "publicationDate": "2026-10-21",
         "category": "Foreign Policy",
         "summary": "As Trump’s envoy meets Putin in St. Petersburg, critics accuse the White House of abandoning Ukraine. CFR’s Thomas Graham argues that this criticism may be warranted, but dialogue and diplomacy remain the only route to a settlement that preserves Ukraine’s sovereignty and alignment with the West.",
@@ -306,13 +387,13 @@
         "url": "https://www.cfr.org/articles/who-will-be-the-next-un-secretary-general"
     },
     {
-        "id": "https://www.cfr.org/articles/unpacking-mi5s-warning-on-a-new-era-of-security-threats",
-        "source": "Council on Foreign Relations",
-        "title": "Unpacking MI5’s Warning on a ‘New Era’ of Security Threats",
+        "id": "https://www.heritage.org/global-politics/commentary/iran-china-and-cuba-are-directing-protests-inside-america",
+        "source": "Heritage Foundation",
+        "title": "Iran, China, and Cuba Are Directing Protests Inside America",
         "publicationDate": "2026-10-21",
         "category": "Defense",
-        "summary": "The UK domestic intelligence agency’s annual update rightly focused on a whole-of-society response. But it only scratched the surface of the threat posed by algorithm-driven echo chambers.",
-        "url": "https://www.cfr.org/articles/unpacking-mi5s-warning-on-a-new-era-of-security-threats"
+        "summary": "Evidence is growing that the tyrannical regimes of China, Iran, and Cuba are not only financing protests in American streets , but actively directing them. The Network Contagion Research Institute, whose work in these areas has been indispensable for years, recently published another groundbreaking study that blows the lid off how this foreign network operates. The report indicates that an Iranian influence node...",
+        "url": "https://www.heritage.org/global-politics/commentary/iran-china-and-cuba-are-directing-protests-inside-america"
     },
     {
         "id": "https://www.heritage.org/europe/commentary/france-learning-the-hard-way-what-happens-when-the-socialist-bill-comes-due",
@@ -378,6 +459,15 @@
         "url": "https://www.hudson.org/economics/us-trade-policy-after-2026-mid-term-elections-thomas-duesterberg"
     },
     {
+        "id": "https://cms.hoover.org/research/western-front",
+        "source": "Hoover Institution",
+        "title": "The Western Front",
+        "publicationDate": "2026-10-21",
+        "category": "Other",
+        "summary": "Niall Ferguson draws on his book “The Pity of War” and personal family history to describe the horrors of trench warfare in WWI.",
+        "url": "https://cms.hoover.org/research/western-front"
+    },
+    {
         "id": "https://cms.hoover.org/research/taiwan-will-china-make-its-move",
         "source": "Hoover Institution",
         "title": "Taiwan: Will China Make Its Move?",
@@ -405,94 +495,22 @@
         "url": "https://cms.hoover.org/research/reunion-homecoming-sparks-stanford-reflections"
     },
     {
-        "id": "https://cms.hoover.org/research/unlocking-macroeconomics-why-robert-e-hall-and-michael-woodford-won-2026-nobel-prize",
-        "source": "Hoover Institution",
-        "title": "Unlocking Macroeconomics: Why Robert E. Hall And Michael Woodford Won The 2026 Nobel Prize In Economics",
-        "publicationDate": "2026-10-21",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Robert E. Hall fundamentally reshaped our understanding of consumer behavior. In landmark studies starting in the late 1970s, Hall introduced the Random Walk Hypothesis of Consumption.",
-        "url": "https://cms.hoover.org/research/unlocking-macroeconomics-why-robert-e-hall-and-michael-woodford-won-2026-nobel-prize"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
         "source": "PBS NewsHour Politics",
-        "title": "A company says its polls were fake. Here's what happened",
+        "title": "An alleged national pollster says it faked its data as a 'social experiment.' Here's what to know",
         "publicationDate": "2026-10-21",
         "category": "Brendan Carr",
         "summary": "A national polling organization revealed on Tuesday that the vast majority of its data had been fabricated, saying it was an \"experimental project to demonstrate the vulnerabilities\" of the modern political polling industry.",
         "url": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-the-deeply-personal-attack-ad-in-ohio",
-        "source": "PBS NewsHour Politics",
-        "title": "Democratic and GOP strategists on the deeply personal attack ad in Ohio",
-        "publicationDate": "2026-10-21",
-        "category": "Amy Acton",
-        "summary": "The campaign is in its final stretch and the attacks are getting increasingly personal. In Ohio, Republican gubernatorial candidate Vivek Ramaswamy's campaign is behind an ad featuring the estranged mother of his Democratic opponent, Amy Acton, disputing Acton's account of her childhood. For analysis, Geoff Bennett spoke with Democratic strategist Faiz Shakir and Republican strategist Whit Ayres.",
-        "url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-the-deeply-personal-attack-ad-in-ohio"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/how-idahos-abortion-ban-reshaped-reproductive-care-and-fueled-a-fight-for-change",
-        "source": "PBS NewsHour Politics",
-        "title": "How Idaho's abortion ban reshaped reproductive care and fueled a fight for change",
-        "publicationDate": "2026-10-21",
-        "category": "Abortion Rights",
-        "summary": "This November, voters in Virginia, Nevada, Missouri and Idaho will decide on the future of reproductive rights. In deeply red Idaho, a citizen-led initiative faces an uphill battle to restore some abortion rights. Special correspondent Sarah Varney reports on whether the fallout from the overturning of Roe v. Wade and frustration over the current law will be enough to sway conservative Idahoans.",
-        "url": "https://www.pbs.org/newshour/show/how-idahos-abortion-ban-reshaped-reproductive-care-and-fueled-a-fight-for-change"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/a-look-at-the-major-state-ballot-measures-voters-will-decide-in-the-midterms",
-        "source": "PBS NewsHour Politics",
-        "title": "A look at the major state ballot measures voters will decide in the midterms",
-        "publicationDate": "2026-10-21",
-        "category": "Ballot Measures",
-        "summary": "Voters will weigh in on more than 140 ballot measures next month in 40 states. From abortion to voter ID to debates over transgender rights, the measures touch nearly every corner of the political debate. Republicans are counting on some of them to energize their base in a tough midterm environment. Liz Landers discussed the issues with Reid Wilson of Pluribus News.",
-        "url": "https://www.pbs.org/newshour/show/a-look-at-the-major-state-ballot-measures-voters-will-decide-in-the-midterms"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/former-gop-governor-david-beasley-says-trumps-demeaning-rhetoric-pushed-him-from-party",
-        "source": "PBS NewsHour Politics",
-        "title": "Former GOP governor David Beasley says Trump's 'demeaning' rhetoric pushed him from party",
-        "publicationDate": "2026-10-21",
-        "category": "David Beasley",
-        "summary": "David Beasley spent more than three decades as a Republican, serving as South Carolina's governor before leading Nobel Peace Prize-winning efforts at the U.N. World Food Programme. Recently, he announced that he's walking away from his party as he laments a rise in toxic vitriol emanating from the GOP's standard-bearer. Beasley joined Amna Nawaz to discuss more.",
-        "url": "https://www.pbs.org/newshour/show/former-gop-governor-david-beasley-says-trumps-demeaning-rhetoric-pushed-him-from-party"
-    },
-    {
-        "id": "R49489",
+        "id": "R48732",
         "source": "Congressional Research Service",
-        "title": "Puerto Rico Electric Power Authority (PREPA): History and Finances",
-        "publicationDate": "2026-10-20",
-        "category": "Economy",
-        "summary": "The finances and operations of the Puerto Rico Electric Power Authority (PREPA)—a public power utility owned by the Commonwealth of Puerto Rico—have attracted serious concern for many years. High electricity prices and the unreliability of the electricity grid resulting from underinvestment in and poor maintenance of the island’s generation, transmission, and distribution infrastructure have hindered the island’s...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49489/R49489.6.pdf"
-    },
-    {
-        "id": "R49354",
-        "source": "Congressional Research Service",
-        "title": "The 21st Century ROAD to Housing Act (P.L. 119-101)",
-        "publicationDate": "2026-10-20",
-        "category": "Economy",
-        "summary": "The 21st Century ROAD to Housing Act (P.L. 119-101) was enacted at a time of increasing concerns about the affordability of both rental housing and homeownership and the extent to which insufficient housing supply may be contributing to affordability pressures. Both the 118th and 119th Congresses held numerous hearings to explore these concerns. P.L. 119-101 represents a compromise between two bills that were...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49354/R49354.5.pdf"
-    },
-    {
-        "id": "IN12665",
-        "source": "Congressional Research Service",
-        "title": "U.S. Military Operations Against Iran’s Missile and Nuclear Programs",
+        "title": "ROAD to Housing Act of 2025",
         "publicationDate": "2026-10-20",
         "category": "Defense",
-        "summary": "On February 28, 2026, the United States and Israel launched military operations against Iran. The same day, President Donald Trump listed among the operation’s objectives preventing Iran from acquiring a nuclear weapon, destroying Iran’s missiles, and “[razing] their missile industry to the ground.” Some Members of Congress have questioned the U.S. military operations in Iran given President Trump’s previous...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12665/IN12665.7.pdf"
-    },
-    {
-        "id": "IF13331",
-        "source": "Congressional Research Service",
-        "title": "Geothermal Resources for Energy Development in the United States",
-        "publicationDate": "2026-10-20",
-        "category": "Defense",
-        "summary": "The U.S. Geological Survey, a science agency in the Department of the Interior, assesses geothermal resources (Earth heat sources) for the development of geothermal energy in surface and subsurface geologic formations (i.e., layers of rock) in the United States as part of its mission and guided by direction in the Geothermal Steam Act of 1970, the Energy Policy Act of 1992, the Energy Policy Act of 2005, and the...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13331/IF13331.2.pdf"
+        "summary": "The Renewing Opportunity in the American Dream to Housing Act of 2025 (S. 2651, also known as the ROAD to Housing Act of 2025) was introduced and reported to the Senate on August 1, 2025. The bill contains eight titles comprised of 40 sections, which address several housing policy topics. The ROAD to Housing Act of 2025 was incorporated into Division I of a Senate version of the National Defense Authorization Act...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48732/R48732.8.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4027-1.html",
@@ -511,33 +529,6 @@
         "category": "Economy",
         "summary": "In 2024, Bowyer Research conducted two coordinated shareholder engagement campaigns targeting more than 400 publicly traded U.S. companies, focusing on potential risks related to corporate alignment with the Human Rights Campaign (HRC)—particularly through participation in the HRC’s Corporate Equality Index (CEI)—and from extensive Pride Month messaging. This Backgrounder summarizes the substance and scale of those...",
         "url": "https://www.heritage.org/progressivism/report/corporate-alignment-the-human-rights-campaign-legal-financial-and-reputational"
-    },
-    {
-        "id": "https://www.heritage.org/defense/commentary/the-greenland-deal-huge-success",
-        "source": "Heritage Foundation",
-        "title": "The Greenland Deal Is a Huge Success",
-        "publicationDate": "2026-10-20",
-        "category": "Defense",
-        "summary": "Ignore the naysayers: President Trump’s successful conclusion of the Greenland deal with the governments of Denmark and Greenland is a huge win for the United States, and also one that will improve Danish, Greenlandic and, indeed, trans-Atlantic security. This is a major diplomatic achievement. It expands U.S. defense areas in Greenland, prohibits a non-NATO military presence, and protects critical parts of the...",
-        "url": "https://www.heritage.org/defense/commentary/the-greenland-deal-huge-success"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA3936-1.html",
-        "source": "RAND Corporation",
-        "title": "Implications of the future information environment for the UK's nuclear strategy and decision-making",
-        "publicationDate": "2026-10-19",
-        "category": "Other",
-        "summary": "The study examined key risks, vulnerabilities and opportunities stemming from the future information environment for UK nuclear deterrence and decision-making and identifies the factors and conditions that may amplify or mitigate these effects",
-        "url": "https://www.rand.org/pubs/research_reports/RRA3936-1.html"
-    },
-    {
-        "id": "https://www.heritage.org/government-regulation/commentary/the-debanking-scandal-started-washington-not-wall-street",
-        "source": "Heritage Foundation",
-        "title": "The Debanking Scandal Started in Washington, Not Wall Street",
-        "publicationDate": "2026-10-19",
-        "category": "Economy",
-        "summary": "The Office of the Comptroller of the Currency (OCC) has confirmed what conservatives have said for years. The OCC's 47-page report , released Wednesday after reviewing 100,000 complaints and 50,000 internal bank records, found that between 2020 and 2025 the nation’s nine largest national banks denied service to Americans because of their political, social, or religious beliefs. The details are ugly. JPMorgan’s...",
-        "url": "https://www.heritage.org/government-regulation/commentary/the-debanking-scandal-started-washington-not-wall-street"
     },
     {
         "id": "https://www.cer.eu/sign-cer-mailing-list",
@@ -583,5 +574,14 @@
         "category": "Foreign Policy",
         "summary": "De Europese Commissie heeft nieuwe regels voorgesteld rond openbare aanbestedingen. De focus ligt daarbij meer op Europese productie en de mogelijkheid om China uit de markt te weren. Sander Tordoir, hoofdeconoom van de Europese denktank Centre for European Reform: \"In feite trekt Europa hiermee het speelveld gelijk.\" Sander Tordoir View multimedia 09 September 2026",
         "url": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe"
+    },
+    {
+        "id": "IF10275",
+        "source": "Congressional Research Service",
+        "title": "Taiwan: Background and U.S. Relations",
+        "publicationDate": "2026-08-05",
+        "category": "Defense",
+        "summary": "Introduction Taiwan, which also calls itself the Republic of China (ROC) and was once known as Formosa, is a self-governing East Asian democracy located across the Taiwan Strait from mainland China. Taiwan’s popularly elected leaders govern 23.2 million people on the main island of Taiwan; the archipelagoes of Penghu, Kinmen, and Matsu; and other outlying islands. Taiwan is a semiconductor manufacturing powerhouse...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10275/IF10275.91.pdf"
     }
 ]
