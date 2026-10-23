@@ -1,5 +1,41 @@
 [
     {
+        "id": "IF13295",
+        "source": "Congressional Research Service",
+        "title": "Immigration Removals to Third Countries",
+        "publicationDate": "2026-10-23",
+        "category": "Foreign Policy",
+        "summary": "Introduction The Immigration and Nationality Act (INA, codified in Title 8 of the U.S. Code) sets forth rules governing the selection of the country to which an alien ordered removed may be transferred. Aliens found in the interior of the United States who have been ordered removed generally must be removed to the countries they designate (typically their home countries) or, if that is not possible, other countries...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13295/IF13295.4.pdf"
+    },
+    {
+        "id": "IF13335",
+        "source": "Congressional Research Service",
+        "title": "Student Loans: Late Payment Trends, Servicing Practices, and Credit Reporting Issues",
+        "publicationDate": "2026-10-23",
+        "category": "Economy",
+        "summary": "Introduction A federal student loan made under Title IV of the Higher Education Act of 1965 (P.L. 89-329), as amended, is considered delinquent the first day after a borrower fails to make a scheduled payment. The Department of Education (ED), through its contracted loan servicers, reports delinquencies to the nationwide, private consumer reporting agencies (CRAs; i.e., Equifax, Experian, TransUnion, Innovis) after...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13335/IF13335.1.pdf"
+    },
+    {
+        "id": "https://www.cfr.org/articles/how-much-us-aid-going-ukraine",
+        "source": "Council on Foreign Relations",
+        "title": "Here’s How Much Aid the United States Has Sent Ukraine",
+        "publicationDate": "2026-10-23",
+        "category": "Foreign Policy",
+        "summary": "Eleven charts illustrate the support the United States has provided Ukraine since Russia’s invasion—and how that support has changed since Trump took office.",
+        "url": "https://www.cfr.org/articles/how-much-us-aid-going-ukraine"
+    },
+    {
+        "id": "https://www.cfr.org/articles/will-the-united-states-attack-iran-after-the-midterms",
+        "source": "Council on Foreign Relations",
+        "title": "Will the United States Attack Iran After the Midterms?",
+        "publicationDate": "2026-10-23",
+        "category": "Foreign Policy",
+        "summary": "After nearly nine months of war with Iran, President Donald Trump faces a choice: escalate the conflict with Tehran, find a way to coexist, or stand pat.",
+        "url": "https://www.cfr.org/articles/will-the-united-states-attack-iran-after-the-midterms"
+    },
+    {
         "id": "https://www.cfr.org/articles/will-europes-protests-mark-a-turning-point",
         "source": "Council on Foreign Relations",
         "title": "Will Europe’s Protests Mark a Turning Point?",
@@ -25,6 +61,60 @@
         "category": "Defense",
         "summary": "The secretary of defense’s shake-up of the senior ranks raises hard questions about the future of U.S. military leadership. Carla Anne Robbins turns to the New York Times’ Greg Jaffe to explain who is being pushed out, and why it matters.",
         "url": "https://www.cfr.org/articles/pete-hegseths-campaign-to-remake-the-u-s-military"
+    },
+    {
+        "id": "https://cms.hoover.org/research/american-federalism-today-infrastructure-federal-system",
+        "source": "Hoover Institution",
+        "title": "American Federalism Today: Infrastructure in a Federal system",
+        "publicationDate": "2026-10-23",
+        "category": "Other",
+        "summary": "The United States certainly has infrastructure needs. The American Society of Civil Engineers, serious if somewhat self-interested, rates the nation’s infrastructure a C− in its 2021 report card (ASCE 2021).",
+        "url": "https://cms.hoover.org/research/american-federalism-today-infrastructure-federal-system"
+    },
+    {
+        "id": "https://cms.hoover.org/research/unrealized-claims-newsom-takes-billionaire-tax-fight-federal-level",
+        "source": "Hoover Institution",
+        "title": "Unrealized Claims: Newsom Takes the Billionaire Tax Fight to the Federal Level",
+        "publicationDate": "2026-10-23",
+        "category": "Economy",
+        "summary": "He opposes the Billionaire Tax Act in California, but calls today for a \"national billionaires tax,\" reiterating false claims that the wealthy pay low tax rates.",
+        "url": "https://cms.hoover.org/research/unrealized-claims-newsom-takes-billionaire-tax-fight-federal-level"
+    },
+    {
+        "id": "https://cms.hoover.org/research/don-newsom-refuses-offer",
+        "source": "Hoover Institution",
+        "title": "Don Newsom Refuses An Offer",
+        "publicationDate": "2026-10-23",
+        "category": "Economy",
+        "summary": "The SEIU's 2 percent compromise bid on the wealth tax is not even a compromise. It's a statement that the proponents remain highly eager for a wealth tax that could be expanded later.",
+        "url": "https://cms.hoover.org/research/don-newsom-refuses-offer"
+    },
+    {
+        "id": "https://cms.hoover.org/research/misdiagnosing-californias-fiscal-crisis",
+        "source": "Hoover Institution",
+        "title": "Misdiagnosing California’s Fiscal Crisis",
+        "publicationDate": "2026-10-23",
+        "category": "Economy",
+        "summary": "California’s budget is in trouble, in no small part due to Medicaid. But the recent federal budget legislation isn't to blame.",
+        "url": "https://cms.hoover.org/research/misdiagnosing-californias-fiscal-crisis"
+    },
+    {
+        "id": "https://cms.hoover.org/research/californias-anchor-firms-are-hiring-just-not-california",
+        "source": "Hoover Institution",
+        "title": "California's Anchor Firms Are Hiring. Just Not in California.",
+        "publicationDate": "2026-10-23",
+        "category": "Economy",
+        "summary": "California has missed out on up to a quarter million jobs created elsewhere by established firms, and likely more from startups that chose other states. A wealth tax would make it even worse.",
+        "url": "https://cms.hoover.org/research/californias-anchor-firms-are-hiring-just-not-california"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+        "source": "NPR Politics",
+        "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+        "publicationDate": "2026-10-23",
+        "category": "Other",
+        "summary": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.",
+        "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war"
     },
     {
         "id": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
@@ -63,13 +153,31 @@
         "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc"
     },
     {
-        "id": "https://www.npr.org/2026/10/23/nx-s1-6009838/trumps-midterm-campaign-tour-stops-in-iowa",
-        "source": "NPR Politics",
-        "title": "Trump's midterm campaign tour stops in Iowa",
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-at-gop-rally-in-florida-revives-idea-of-military-intervention-in-cuba-after-iran",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump at GOP rally in Florida revives idea of military intervention in Cuba after Iran",
         "publicationDate": "2026-10-23",
-        "category": "Other",
-        "summary": "Republicans are facing a tough fight in Iowa. President Trump's campaign tour stopped in the state in hopes of rallying voters.",
-        "url": "https://www.npr.org/2026/10/23/nx-s1-6009838/trumps-midterm-campaign-tour-stops-in-iowa"
+        "category": "Defense",
+        "summary": "President Donald Trump on Friday told a rally for candidates in South Florida that U.S. warships returning from the Middle East could stop over in Cuba on their way back from the Iran war, his latest suggestion of taking an interventionist approach to the nearby country.",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-at-gop-rally-in-florida-revives-idea-of-military-intervention-in-cuba-after-iran"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year",
+        "source": "PBS NewsHour Politics",
+        "title": "DOJ has monitored elections for decades. Here's why some state officials are concerned this year",
+        "publicationDate": "2026-10-23",
+        "category": "2026 Midterms",
+        "summary": "The agency regularly monitors polling places. But this year's effort on Nov. 3 will more than double the number of federal monitors deployed during the 2022 midterms.",
+        "url": "https://www.pbs.org/newshour/politics/doj-has-monitored-elections-for-decades-heres-why-some-state-officials-are-concerned-this-year"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/nation/trump-administration-stopped-sharing-evidence-in-good-and-pretti-killings-minnesota-officials-say",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump administration stopped sharing evidence in Good and Pretti killings, Minnesota officials say",
+        "publicationDate": "2026-10-23",
+        "category": "Alex Pretti",
+        "summary": "The Trump administration has suggested that state prosecutors don't have jurisdiction to investigate federal officers, while Minnesota officials have said they don't trust the federal government to investigate itself.",
+        "url": "https://www.pbs.org/newshour/nation/trump-administration-stopped-sharing-evidence-in-good-and-pretti-killings-minnesota-officials-say"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/vivek-ramaswamy-defends-ad-featuring-amy-actons-estranged-mother",
@@ -90,76 +198,76 @@
         "url": "https://www.pbs.org/newshour/politics/immigrants-seeking-u-s-citizenship-targeted-in-trump-administrations-illegal-voting-crackdown"
     },
     {
-        "id": "https://www.pbs.org/newshour/world/trump-administration-offers-mixed-messages-on-limits-to-ukraines-starshield-access",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump administration offers mixed messages on limits to Ukraine's Starshield access",
-        "publicationDate": "2026-10-23",
-        "category": "Foreign Policy",
-        "summary": "Recent efforts to throttle Ukraine's access to satellite systems have created a blame game of sorts among Trump administration officials and their allies, who have offered mixed messages about what led to the sudden restrictions on Kyiv's ability to intercept Russian strikes.",
-        "url": "https://www.pbs.org/newshour/world/trump-administration-offers-mixed-messages-on-limits-to-ukraines-starshield-access"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/supreme-court-allows-new-hampshire-to-fully-ban-student-ids-for-voting-in-midterms",
-        "source": "PBS NewsHour Politics",
-        "title": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms",
-        "publicationDate": "2026-10-23",
-        "category": "Elections security",
-        "summary": "The Supreme Court cleared the way Thursday for New Hampshire to fully ban the use of student IDs for voting during the midterm elections.",
-        "url": "https://www.pbs.org/newshour/politics/supreme-court-allows-new-hampshire-to-fully-ban-student-ids-for-voting-in-midterms"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/2-ex-fbi-officials-charged-with-making-false-statements-about-hunter-bidens-laptop",
-        "source": "PBS NewsHour Politics",
-        "title": "2 ex-FBI officials charged with making false statements about Hunter Biden's laptop",
-        "publicationDate": "2026-10-23",
-        "category": "Defense",
-        "summary": "Two former FBI intelligence officials who specialized in foreign election interference were charged Friday with making false statements about their roles in investigating the origins of Hunter Biden's laptop in the run-up to the 2020 presidential election.",
-        "url": "https://www.pbs.org/newshour/politics/2-ex-fbi-officials-charged-with-making-false-statements-about-hunter-bidens-laptop"
-    },
-    {
-        "id": "https://thehill.com/policy/sports-gaming/6168962-trump-nfl-game-postponement/",
+        "id": "https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/",
         "source": "The Hill",
-        "title": "Trump believes NFL 'could have probably postponed' Paris game",
+        "title": "How will Democrats address UFO sightings if returned to the majority?",
         "publicationDate": "2026-10-23",
-        "category": "Sports & Gaming",
-        "summary": "President Trump says the NFL should have considered postponing a game set to be played in France on Sunday between the New Orleans Saints and Pittsburgh Steelers amid social unrest in the country. Trump told reporters on Friday he was \"worried\" about the game, saying \"it's looking like tomorrow is going to be a bad...",
-        "url": "https://thehill.com/policy/sports-gaming/6168962-trump-nfl-game-postponement/"
+        "category": "House",
+        "summary": "Unidentified flying objects (UFOs) have long captivated Americans — a majority of whom, recent polling suggests, believe the government is hiding information about the phenomena. And the debate has also made its way to Capitol Hill. In recent years, conversations surrounding UFOs, which the government now refers to as unidentified anomalous phenomena (UAPs), have heated...",
+        "url": "https://thehill.com/homenews/house/6169367-democrats-majority-congress-ufo-sightings-transparency/"
     },
     {
-        "id": "https://thehill.com/regulation/court-battles/6168921-jackson-dissents-new-hampshire-voter-id/",
+        "id": "https://thehill.com/newsletters/technology/6169502-musk-ups-midterm-spending-in-final-stretch/",
         "source": "The Hill",
-        "title": "Ketanji Brown Jackson issues public dissent in New Hampshire voting case",
+        "title": "Musk ups midterm spending in final stretch",
         "publicationDate": "2026-10-23",
-        "category": "Court Battles",
-        "summary": "Justice Ketanji Brown Jackson publicly broke with her Supreme Court colleagues in a Thursday ruling allowing New Hampshire to fully block voters from using student IDs in the upcoming midterms. Jackson, the high court's most junior liberal justice, wrote in a short dissent that she would have left in place a lower court decision that...",
-        "url": "https://thehill.com/regulation/court-battles/6168921-jackson-dissents-new-hampshire-voter-id/"
+        "category": "Economy",
+        "summary": "{beacon} Technology Technology The Big Story Musk ups his midterm spending in final stretch The tech mogul has spent more than $442 million in the midterm elections, after pouring another $76.8 million into his super PAC over the past month, campaign finance filings show. © Susan Walsh, Associated Press America PAC, which Musk launched...",
+        "url": "https://thehill.com/newsletters/technology/6169502-musk-ups-midterm-spending-in-final-stretch/"
     },
     {
-        "id": "https://thehill.com/policy/healthcare/6168835-nationwide-recall-on-these-compound-glp-1-drugs/",
+        "id": "https://thehill.com/policy/energy-environment/6169430-wv-ag-subpoenas-environmental-groups/",
         "source": "The Hill",
-        "title": "Nationwide recall on these compound GLP-1 drugs",
-        "publicationDate": "2026-10-23",
-        "category": "Healthcare",
-        "summary": "The compounded GLP-1s are not FDA-approved nor name-brand.",
-        "url": "https://thehill.com/policy/healthcare/6168835-nationwide-recall-on-these-compound-glp-1-drugs/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6167503-live-updates-donald-trump-midterm-elections/",
-        "source": "The Hill",
-        "title": "Live updates: Trump campaigns in Florida, leans into Ramaswamy ad controversy",
-        "publicationDate": "2026-10-23",
-        "category": "Administration",
-        "summary": "President Trump will rally voters closer to home Friday afternoon, with a campaign stop in Fort Myers, Fla., as long-awaited midterm elections approach. He'll be there to boost Rep. Byron Donalds (R-Fla.), who's running for governor, and Sen. Ashley Moody (R-Fla.), who is running for a full Senate term. The president both Thursday night and...",
-        "url": "https://thehill.com/homenews/administration/6167503-live-updates-donald-trump-midterm-elections/"
-    },
-    {
-        "id": "https://thehill.com/policy/energy-environment/6168757-hurricane-vance-intensifying-mexico/",
-        "source": "The Hill",
-        "title": "Vance becomes a hurricane as it nears Mexico",
+        "title": "West Virginia attorney general subpoenas environmental groups",
         "publicationDate": "2026-10-23",
         "category": "Energy & Environment",
-        "summary": "Hurricane Vance is expected to steadily intensify in the next 24 hours and turn into a major hurricane by Friday night, according to projections from the National Hurricane Center. “Swells generated by Vance are expected to begin affecting portions of the coast of southern and southwestern Mexico this weekend and continue into next week,” the...",
-        "url": "https://thehill.com/policy/energy-environment/6168757-hurricane-vance-intensifying-mexico/"
+        "summary": "West Virginia’s attorney general has sent investigative subpoenas to environmental advocacy organizations — something the groups are describing as a retaliatory attack on their First Amendment rights. West Virginia Rivers Coalition and 350.org filed a lawsuit this week saying they and at least four other organizations received subpoenas from the office of West Virginia Attorney...",
+        "url": "https://thehill.com/policy/energy-environment/6169430-wv-ag-subpoenas-environmental-groups/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6169375-paxton-sues-openai-chatgpt/",
+        "source": "The Hill",
+        "title": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT's 'dangers'",
+        "publicationDate": "2026-10-23",
+        "category": "Technology",
+        "summary": "Texas Attorney General Ken Paxton (R) sued OpenAI and its CEO Sam Altman on Friday, accusing the company of failing to warn consumers about the potential dangers from its AI models. The lawsuit alleges the ChatGPT maker is running afoul of a Texas consumer protection law and kids' online safety law, underscoring warnings about the...",
+        "url": "https://thehill.com/policy/technology/6169375-paxton-sues-openai-chatgpt/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6169374-secret-service-investigates-suspicious-item/",
+        "source": "The Hill",
+        "title": "Secret Service closes road near White House due to suspicious package",
+        "publicationDate": "2026-10-23",
+        "category": "State Watch",
+        "summary": "The U.S. Secret Service and D.C. police are investigating reports of a “suspicious item” near the Eisenhower Executive Office Building, which resulted in a road closure. “Around 2:40 p.m., on October 23, 2026, Secret Service Police were notified of a suspicious item near 17th St. and Pennsylvania Avenue,” according to a statement from a Secret Service...",
+        "url": "https://thehill.com/homenews/state-watch/6169374-secret-service-investigates-suspicious-item/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
+        "source": "New York Times Politics",
+        "title": "Appeals Court Backs Trump on Constitutionality of Detentions",
+        "publicationDate": "2026-10-23",
+        "category": "Illegal Immigration",
+        "summary": "The ruling, from the U.S. Court of Appeals for the Fifth Circuit, sharply curtails the ability of judges to free undocumented immigrants.",
+        "url": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+        "source": "New York Times Politics",
+        "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+        "publicationDate": "2026-10-23",
+        "category": "United States Politics and Government",
+        "summary": "The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.",
+        "url": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
+        "source": "New York Times Politics",
+        "title": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
+        "publicationDate": "2026-10-23",
+        "category": "United States Politics and Government",
+        "summary": "The donations from James Blair and Chris LaCivita were revealed after the president expressed pique over their consulting work for Republika Srpska.",
+        "url": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
@@ -180,36 +288,9 @@
         "url": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
-        "source": "New York Times Politics",
-        "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
-        "publicationDate": "2026-10-23",
-        "category": "Foreign Policy",
-        "summary": "President Trump says Venezuela is not ready for elections, and he focuses instead on its oil. But Secretary of State Marco Rubio is nudging talks between opposing politicians.",
-        "url": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
-        "source": "New York Times Politics",
-        "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
-        "publicationDate": "2026-10-23",
-        "category": "Midterm Elections (2026)",
-        "summary": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority.",
-        "url": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
-        "source": "New York Times Politics",
-        "title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
-        "publicationDate": "2026-10-23",
-        "category": "Midterm Elections (2026)",
-        "summary": "The department, in a highly unusual court filing, argued that confusion over candidates with similar names could taint the election result.",
-        "url": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
         "publicationDate": "2026-10-23",
         "category": "Other",
         "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
@@ -225,6 +306,15 @@
         "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+        "publicationDate": "2026-10-23",
+        "category": "Foreign Policy",
+        "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+        "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
@@ -236,38 +326,11 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
         "publicationDate": "2026-10-23",
         "category": "Foreign Policy",
         "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
         "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-        "publicationDate": "2026-10-23",
-        "category": "Defense",
-        "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
-        "publicationDate": "2026-10-23",
-        "category": "Economy",
-        "summary": "Supporters of the tax say many billionaires threatening to leave the state will not go",
-        "url": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/84cc6388-8745-4ca2-8c70-536c89dfe9cb?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Reform’s former policy chief steps down from Cambridge management roles",
-        "publicationDate": "2026-10-23",
-        "category": "Foreign Policy",
-        "summary": "Move by James Orr comes after allegations he breached electoral law by soliciting political donations from foreign citizens",
-        "url": "https://www.ft.com/content/84cc6388-8745-4ca2-8c70-536c89dfe9cb?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
@@ -275,62 +338,62 @@
         "title": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
         "publicationDate": "2026-10-23",
         "category": "Foreign Policy",
-        "summary": "Melania Trump helps organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
+        "summary": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
         "url": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Xi gathers China’s top cadres with focus on discipline",
+        "publicationDate": "2026-10-23",
+        "category": "Foreign Policy",
+        "summary": "Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term",
+        "url": "https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump to cut Canadian tariffs after pressure from Republicans",
+        "publicationDate": "2026-10-23",
+        "category": "Other",
+        "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
+        "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Trump administration moves to block certification of Alaska Senate election",
+        "title": "Trump moves to block certification of Alaska Senate election if Republican loses",
         "publicationDate": "2026-10-23",
         "category": "Other",
-        "summary": "Candidates’ similar names could ‘taint’ the result, argues the US Justice Department",
+        "summary": "Candidates’ similar names could ‘taint’ the result, argues US Justice Department",
         "url": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/5260aac3-e339-47f7-8473-d8ccee5d3bfc?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Global Insight: The ‘cockroach’ protesters Modi cannot stamp out",
+        "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
         "publicationDate": "2026-10-23",
-        "category": "Other",
-        "summary": "Movement that began as an online satirical movement but has become a thorn in the side of the prime minister",
-        "url": "https://www.ft.com/content/5260aac3-e339-47f7-8473-d8ccee5d3bfc?syn-25a6b1a6=1"
-    },
-    {
-        "id": "R41833",
-        "source": "Congressional Research Service",
-        "title": "IDEA, Part B: Key Statutory and Regulatory Provisions Relating to the Education of Children with Disabilities",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "The Individuals with Disabilities Education Act (IDEA) is a statute that authorizes grant programs that support special education and early intervention services for children with disabilities. Under IDEA, a series of conditions are attached to the receipt of grant funds. These conditions aim to provide certain educational and procedural guarantees for children with disabilities and their families. Part B of IDEA...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R41833/R41833.25.pdf"
-    },
-    {
-        "id": "R49491",
-        "source": "Congressional Research Service",
-        "title": "Federal Government Shutdowns and the Impact on Civil Aviation",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "When federal agencies and programs do not receive funding after full-year or interim appropriations expire, they experience a “funding gap.” If funding does not resume in time to continue government operations, the government generally begins a “shutdown” of affected activities. Shutdowns can be government-wide or partial (i.e., affecting certain federal agencies and programs) depending on which appropriations...",
-        "url": "https://www.congress.gov/crs_external_products/R/HTML/R49491.html"
-    },
-    {
-        "id": "IF13249",
-        "source": "Congressional Research Service",
-        "title": "Farm Bill Primer: Rural Development Title",
-        "publicationDate": "2026-10-22",
         "category": "Economy",
-        "summary": "The rural development title of the farm bill reauthorizes, amends, and creates programs administered by agencies within the U.S. Department of Agriculture (USDA) Rural Development (RD) mission area. These programs focus on rural broadband, rural utilities, business development, and community facilities. The rural development title also addresses issues affecting rural communities, such as substance abuse across...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13249/IF13249.2.pdf"
+        "summary": "Rise in energy prices pushes US inflation expectations higher",
+        "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1"
     },
     {
-        "id": "IF13092",
+        "id": "R42853",
         "source": "Congressional Research Service",
-        "title": "The U.S. Army’s Infantry Squad Vehicle (ISV)",
+        "title": "Nuclear Energy: Overview of Congressional Issues",
         "publicationDate": "2026-10-22",
         "category": "Defense",
-        "summary": "The Infantry Squad Vehicle (ISV) The ISV (Figure 1) is a lightweight, unarmored ground transport vehicle being developed by GM Defense (headquartered in Detroit, MI) intended to enhance the mobility of Army Mobile Brigade Combat Teams (MBCTs), Security Force Assistance Brigades (SFABs), and Army Special Operations Forces. According to the Army, the ISV was designed to move nine soldiers and their equipment rapidly...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13092/IF13092.11.pdf"
+        "summary": "Policy debate over the role of nuclear power in the nation’s energy mix is rooted in the technology’s fundamental characteristics. Nuclear reactors can produce potentially vast amounts of useful energy with relatively low consumption of natural resources and low emissions of greenhouse gases and other pollutants. However, facilities that produce nuclear fuel for civilian power reactors can also produce materials...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42853/R42853.46.pdf"
+    },
+    {
+        "id": "R49408",
+        "source": "Congressional Research Service",
+        "title": "Overview of Fiscal Spending Projections: FY2027 Budget Cycle",
+        "publicationDate": "2026-10-22",
+        "category": "Economy",
+        "summary": "This In Brief summarizes projections for major components of the federal budget from the February 2026 Congressional Budget Office (CBO) budget outlook, the Trump Administration FY2027 budget submission issued in April 2026, and CBO’s June 2026 reestimate of Administration fiscal proposals. Scoring of legislative proposals compares the trajectory of spending and revenues relative to CBO baseline projections, which...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49408/R49408.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3964-1.html",
@@ -342,24 +405,6 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA3964-1.html"
     },
     {
-        "id": "https://www.cfr.org/podcasts/presidents-inbox/the-iran-war-and-the-midterms",
-        "source": "Council on Foreign Relations",
-        "title": "The Iran War and the Midterms",
-        "publicationDate": "2026-10-22",
-        "category": "Foreign Policy",
-        "summary": "We Discuss: Mentioned on the Episode: Cole Bucy and Nate Swanson, “Trump Unleashed,” Foreign Policy",
-        "url": "https://www.cfr.org/podcasts/presidents-inbox/the-iran-war-and-the-midterms"
-    },
-    {
-        "id": "https://www.cfr.org/articles/israels-election-whos-who-and-whats-at-stake",
-        "source": "Council on Foreign Relations",
-        "title": "Israel’s Election: Who’s Who and What’s at Stake?",
-        "publicationDate": "2026-10-22",
-        "category": "Foreign Policy",
-        "summary": "Israel’s October 27 election could reshape the country’s political landscape, but neither Prime Minister Benjamin Netanyahu’s allies nor the opposition has a clear path to a governing majority. The outcome of the vote could determine not only who leads Israel, but how the country contends with various domestic and foreign policy concerns.",
-        "url": "https://www.cfr.org/articles/israels-election-whos-who-and-whats-at-stake"
-    },
-    {
         "id": "https://www.heritage.org/antisemitism/report/the-american-jewish-experience-testament-the-founders-vision",
         "source": "Heritage Foundation",
         "title": "The American Jewish Experience: A Testament to the Founders’ Vision",
@@ -367,6 +412,15 @@
         "category": "Defense",
         "summary": "Introduction The American Jewish experience is one of the clearest historical tests of the Founders’ design. As the United States marks 250 years of independence amid renewed antisemitism, civic fragmentation, and historical amnesia, the point is not academic. It goes to the heart of what belonging, responsibility, and the promise of the republic truly mean. America did not abolish prejudice, and it did not always...",
         "url": "https://www.heritage.org/antisemitism/report/the-american-jewish-experience-testament-the-founders-vision"
+    },
+    {
+        "id": "https://www.heritage.org/conservatism/commentary/america-250-230-mph",
+        "source": "Heritage Foundation",
+        "title": "America 250 at 230 mph",
+        "publicationDate": "2026-10-22",
+        "category": "Economy",
+        "summary": "I know nothing about automobile racing, and I confess it at the outset, honesty being the virtue my mother prized above all others save punctuality. Yet racing has a way of finding a person. When I was a boy in the 1980s and 1990s, my father, on the occasional Sunday afternoon, kept the television tuned to NASCAR. The names drifted through our living room like the smell of pot roast: Richard Petty, Dale Earnhardt,...",
+        "url": "https://www.heritage.org/conservatism/commentary/america-250-230-mph"
     },
     {
         "id": "https://www.heritage.org/technology/commentary/families-and-students-need-guidance-ai",
@@ -414,49 +468,13 @@
         "url": "https://www.hudson.org/foreign-policy/there-effective-america-first-position-israel-michael-doran"
     },
     {
-        "id": "https://cms.hoover.org/plus/research/trumps-supreme-court-wins-and-losses-0",
-        "source": "Hoover Institution",
-        "title": "Trump's Supreme Court Wins and Losses",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "Michael McConnell examines the Court’s rulings on birthright citizenship, tariffs, and Federal Reserve independence, alongside decisions that expanded presidential authority over regulatory agencies and immigration policy. Far from consistently favoring the administration, he argues, the Court has followed longstanding constitutional principles, often ruling against the president despite mounting political pressure.",
-        "url": "https://cms.hoover.org/plus/research/trumps-supreme-court-wins-and-losses-0"
-    },
-    {
-        "id": "https://cms.hoover.org/privacy",
-        "source": "Hoover Institution",
-        "title": "Privacy",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/privacy"
-    },
-    {
-        "id": "https://cms.hoover.org/research/audit-or-ratify-supreme-court-responses-presidential-agency-instructions",
-        "source": "Hoover Institution",
-        "title": "Audit or ratify? Supreme Court responses to presidential agency instructions",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "Scholars recognize the variety of tools that Congress and presidents deploy to influence public policy. Less understood are the consequences of principals’ disagreement over policy implementation. Presidents direct agencies on how to interpret the law, often in conflict with the desires of Congress. Such disputes can serve as a cue for the U.S. Supreme Court to intervene by reviewing statutory interpretation....",
-        "url": "https://cms.hoover.org/research/audit-or-ratify-supreme-court-responses-presidential-agency-instructions"
-    },
-    {
-        "id": "https://cms.hoover.org/research/congressional-fundraising-dynamics-and-their-implications-problem-solving",
-        "source": "Hoover Institution",
-        "title": "Congressional Fundraising Dynamics and Their Implications for Problem-Solving",
-        "publicationDate": "2026-10-22",
-        "category": "Economy",
-        "summary": "A major development in the modern Congress is the increased centrality of fundraising. Although raising money has long been a component of members’ responsibilities, until recently it was a more moderate one. As this essay describes, numerous factors have contributed to the development, including the reduced role of seniority in determining committee positions, the rise of the internet as a medium through which...",
-        "url": "https://cms.hoover.org/research/congressional-fundraising-dynamics-and-their-implications-problem-solving"
-    },
-    {
-        "id": "https://cms.hoover.org/plus/research/limits-presidential-power",
-        "source": "Hoover Institution",
-        "title": "The Limits of Presidential Power",
-        "publicationDate": "2026-10-22",
+        "id": "IF13334",
+        "source": "Congressional Research Service",
+        "title": "ANC, Tribal, NHO, and CDC Participation in the 8(a) Business Development Program",
+        "publicationDate": "2026-10-21",
         "category": "Defense",
-        "summary": "American institutions face growing tests of their ability to restrain executive power, from immigration enforcement to military operations abroad. Constitutional checks, judicial oversight, and the limits of presidential authority remain central to preserving the rule of law.",
-        "url": "https://cms.hoover.org/plus/research/limits-presidential-power"
+        "summary": "Introduction Congress has historically sought to help small, “socially and economically disadvantaged” business owners overcome barriers to participating in federal contracting and compete in the national economy through the Small Business Administration’s (SBA's) 8(a) Business Development Program, (commonly known as the “8(a) program”). Congress has also established annual goals for small business participation in...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13334/IF13334.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4411-6.html",
@@ -504,15 +522,6 @@
         "url": "https://www.heritage.org/europe/commentary/france-learning-the-hard-way-what-happens-when-the-socialist-bill-comes-due"
     },
     {
-        "id": "https://www.heritage.org/europe/commentary/trump-wont-betray-britain-over-the-falklands",
-        "source": "Heritage Foundation",
-        "title": "Trump Won’t Betray Britain Over the Falklands",
-        "publicationDate": "2026-10-21",
-        "category": "Defense",
-        "summary": "In his second term, Donald Trump has aggressively pursued an America First foreign policy. And rightly so. The U.S. president represents the American people, and every policy he advances should be in his nation’s interest. But backing British sovereignty over the Falkland Islands fits firmly within this vision, and his administration should stand shoulder to shoulder with the UK on an issue of huge importance to...",
-        "url": "https://www.heritage.org/europe/commentary/trump-wont-betray-britain-over-the-falklands"
-    },
-    {
         "id": "https://www.hudson.org/events/special-address-ukrainian-president-volodymyr-zelenskyy",
         "source": "Hudson Institute",
         "title": "A Special Address by Ukrainian President Volodymyr Zelenskyy",
@@ -520,15 +529,6 @@
         "category": "Foreign Policy",
         "summary": "A Special Address by Ukrainian President Volodymyr Zelenskyy nhuergo@hudson.org Wed, 10/21/2026 - 15:57 23 October 2026 Past Event A Special Address by Ukrainian President Volodymyr Zelenskyy FRIDAY 12:00 p.m. - 1:00 p.m. Please note this event is by invitation only. The event will air at 12:00 p.m. For inquiries contact nhuergo@hudson.org . A Special Address by Ukrainian President Volodymyr Zelenskyy Past Event...",
         "url": "https://www.hudson.org/events/special-address-ukrainian-president-volodymyr-zelenskyy"
-    },
-    {
-        "id": "R49354",
-        "source": "Congressional Research Service",
-        "title": "The 21st Century ROAD to Housing Act (P.L. 119-101)",
-        "publicationDate": "2026-10-20",
-        "category": "Economy",
-        "summary": "The 21st Century ROAD to Housing Act (P.L. 119-101) was enacted at a time of increasing concerns about the affordability of both rental housing and homeownership and the extent to which insufficient housing supply may be contributing to affordability pressures. Both the 118th and 119th Congresses held numerous hearings to explore these concerns. P.L. 119-101 represents a compromise between two bills that were...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49354/R49354.6.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4027-1.html",
