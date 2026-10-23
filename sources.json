@@ -9,6 +9,24 @@
         "url": "https://www.cfr.org/articles/pete-hegseths-campaign-to-remake-the-u-s-military"
     },
     {
+        "id": "https://thehill.com/regulation/court-battles/6167264-doj-blocks-california-mail-in-ballots/",
+        "source": "The Hill",
+        "title": "DOJ asks appeals court to intervene for California mail-in ballot lawsuit",
+        "publicationDate": "2026-10-23",
+        "category": "Court Battles",
+        "summary": "The Department of Justice (DOJ) on Thursday asked an appeals court to intervene in its lawsuit against California to temporarily block the state from counting more than 20,000 mail-in ballots cast by what the Trump administration claims are from non-U.S. citizens. The request, made to the Ninth U.S. Circuit Court of Appeals, came before a...",
+        "url": "https://thehill.com/regulation/court-battles/6167264-doj-blocks-california-mail-in-ballots/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6167274-trump-invokes-defense-production-act/",
+        "source": "The Hill",
+        "title": "Trump announces he'll use Defense Production Act to increase domestic gas production",
+        "publicationDate": "2026-10-23",
+        "category": "Defense",
+        "summary": "President Trump invoked the Defense Production Act on Thursday, announcing that the government would be spending $150 million toward boosting domestic gas and diesel production as the White House looks to ease consumer pain at the gas pump. The announcement was made in a presidential memorandum earlier on Thursday, but the president detailed the exact...",
+        "url": "https://thehill.com/homenews/administration/6167274-trump-invokes-defense-production-act/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/",
         "source": "The Hill",
         "title": "Treasury proposes curbs on high-tech investments in China, Russia, North Korea",
@@ -34,15 +52,6 @@
         "category": "Administration",
         "summary": "Agriculture Secretary Brooke reiterated Thursday the Trump administration’s commitment to major restructuring at the U.S. Forest Service despite legal hurdles. “We are full-bore ahead in the reorganization,” Rollins said during a media call, according to The Associated Press. “We believe in it more today than we ever have — taking the USDA to our constituents,...",
         "url": "https://thehill.com/homenews/administration/6167143-trump-forest-service-restructuring-agriculture-secretary/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6167033-todd-blanche-doj-election-certification-block/",
-        "source": "The Hill",
-        "title": "Blanche: DOJ could block election certification in 'doomsday scenario'",
-        "publicationDate": "2026-10-23",
-        "category": "Administration",
-        "summary": "Attorney General Todd Blanche left the door open on whether the Department of Justice (DOJ) would intervene in states' midterm elections verification processes, telling reporters Thursday there are hypothetical \"scenarios\" in which it could block the certification of votes. \"Yes, of course there's scenarios that we can all come up with hypothetically, you know, some...",
-        "url": "https://thehill.com/homenews/administration/6167033-todd-blanche-doj-election-certification-block/"
     },
     {
         "id": "https://www.nytimes.com/2026/10/22/us/politics/trump-california-mail-ballot-lawsuit.html",
@@ -81,22 +90,85 @@
         "url": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
         "publicationDate": "2026-10-23",
-        "category": "Other",
-        "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+        "category": "Healthcare",
+        "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/5ebcd319-2e36-4a38-8086-8d9d00ff1e99?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Bids roll in for Jio’s ‘jumbo’ IPO",
+        "id": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
         "publicationDate": "2026-10-23",
         "category": "Other",
-        "summary": "Plus, the RBI’s costly game of whack-a-mole",
-        "url": "https://www.ft.com/content/5ebcd319-2e36-4a38-8086-8d9d00ff1e99?syn-25a6b1a6=1"
+        "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+        "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+        "publicationDate": "2026-10-23",
+        "category": "Defense",
+        "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+        "publicationDate": "2026-10-23",
+        "category": "Foreign Policy",
+        "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/785e1f2d-2b24-4863-a70d-3629cf568fbd?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Selling the devolution dream",
+        "publicationDate": "2026-10-23",
+        "category": "Economy",
+        "summary": "The Budget will give a first glimpse of Andy Burnham’s bid to rewire the state, but the prime minister well knows the mechanics need a good story too",
+        "url": "https://www.ft.com/content/785e1f2d-2b24-4863-a70d-3629cf568fbd?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/deb209b5-a5ed-4d24-a470-636ecc1e3668?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Volvo Cars shares plunge 30% after it swings to loss",
+        "publicationDate": "2026-10-23",
+        "category": "Other",
+        "summary": "Swedish carmaker to cut another 2,500 jobs and warns of potential ‘additional actions’",
+        "url": "https://www.ft.com/content/deb209b5-a5ed-4d24-a470-636ecc1e3668?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "‘Relentless’ cost of living pressures behind collapse in UK consumer confidence",
+        "publicationDate": "2026-10-23",
+        "category": "Economy",
+        "summary": "Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020",
+        "url": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Oil hits $114 for first time since May as global stocks knocked by AI fears",
+        "publicationDate": "2026-10-23",
+        "category": "Other",
+        "summary": "Markets face twin threats of surging crude prices and concern over durability of AI boom",
+        "url": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Winter arrives in markets",
+        "publicationDate": "2026-10-23",
+        "category": "Other",
+        "summary": "Bonds and stocks tell the same chilly story",
+        "url": "https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1"
     },
     {
         "id": "IF13092",
@@ -198,6 +270,15 @@
         "url": "https://www.hudson.org/foreign-policy/there-effective-america-first-position-israel-michael-doran"
     },
     {
+        "id": "https://cms.hoover.org/plus/research/trumps-supreme-court-wins-and-losses-0",
+        "source": "Hoover Institution",
+        "title": "Trump's Supreme Court Wins and Losses",
+        "publicationDate": "2026-10-22",
+        "category": "Other",
+        "summary": "Michael McConnell examines the Court’s rulings on birthright citizenship, tariffs, and Federal Reserve independence, alongside decisions that expanded presidential authority over regulatory agencies and immigration policy. Far from consistently favoring the administration, he argues, the Court has followed longstanding constitutional principles, often ruling against the president despite mounting political pressure.",
+        "url": "https://cms.hoover.org/plus/research/trumps-supreme-court-wins-and-losses-0"
+    },
+    {
         "id": "https://cms.hoover.org/privacy",
         "source": "Hoover Institution",
         "title": "Privacy",
@@ -225,22 +306,13 @@
         "url": "https://cms.hoover.org/research/congressional-fundraising-dynamics-and-their-implications-problem-solving"
     },
     {
-        "id": "https://cms.hoover.org/research/business-and-unions-american-government-local-side-story",
+        "id": "https://cms.hoover.org/plus/research/limits-presidential-power",
         "source": "Hoover Institution",
-        "title": "Business and Unions in American Government: The Local Side of the Story",
+        "title": "The Limits of Presidential Power",
         "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "It is widely understood that business is powerful in American politics, and a prominent view among political scientists is that business influence pushes policy to the right, in favor of smaller government. As vast as the literature on business power is, however, it has so far neglected an important part of American government: its tens of thousands of local governments.",
-        "url": "https://cms.hoover.org/research/business-and-unions-american-government-local-side-story"
-    },
-    {
-        "id": "https://cms.hoover.org/research/potential-existential-threat-large-language-models-online-survey-research",
-        "source": "Hoover Institution",
-        "title": "The Potential Existential Threat Of Large Language Models To Online Survey Research",
-        "publicationDate": "2026-10-22",
-        "category": "Technology",
-        "summary": "The advancement of large language models poses a severe, potentially existential threat to online survey research, a fundamental tool for data collection across the sciences. This work demonstrates that the foundational assumption of survey research—that a coherent response is a human response—is no longer tenable.",
-        "url": "https://cms.hoover.org/research/potential-existential-threat-large-language-models-online-survey-research"
+        "category": "Defense",
+        "summary": "American institutions face growing tests of their ability to restrain executive power, from immigration enforcement to military operations abroad. Constitutional checks, judicial oversight, and the limits of presidential authority remain central to preserving the rule of law.",
+        "url": "https://cms.hoover.org/plus/research/limits-presidential-power"
     },
     {
         "id": "https://www.npr.org/2026/10/22/nx-s1-6012340/trumps-attacks-on-the-press-have-become-a-war",
@@ -270,15 +342,6 @@
         "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla"
     },
     {
-        "id": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-        "source": "NPR Politics",
-        "title": "Trump merchandise stores are closing: 'He has peaked'",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have softened.",
-        "url": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms"
-    },
-    {
         "id": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
         "source": "NPR Politics",
         "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
@@ -286,6 +349,15 @@
         "category": "Other",
         "summary": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determine if it works.",
         "url": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
+        "source": "NPR Politics",
+        "title": "Trump merchandise stores are closing: 'He has peaked'",
+        "publicationDate": "2026-10-22",
+        "category": "Other",
+        "summary": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have softened.",
+        "url": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/rfk-jr-adviser-calley-means-resigns-amid-growing-maha-discontent-over-lack-of-progress",
@@ -333,15 +405,6 @@
         "url": "https://www.pbs.org/newshour/politics/watch-trump-defends-ramaswamys-attack-ad-against-acton-amid-bipartisan-criticism"
     },
     {
-        "id": "https://thehill.com/policy/international/6166951-canada-diplomats-barred-american-midterm-candidates/",
-        "source": "The Hill",
-        "title": "Canadian diplomats barred interacting with US midterm candidates: Reports",
-        "publicationDate": "2026-10-22",
-        "category": "Foreign Policy",
-        "summary": "Canada has allegedly barred its diplomats from interacting with U.S. midterm candidates to avoid any allegations of election interference from the Trump administration, according to multiple reports. Written guidance issued earlier this week reportedly ordered Canadian officials based in the U.S. not to meet with candidates — or even be in the same room with...",
-        "url": "https://thehill.com/policy/international/6166951-canada-diplomats-barred-american-midterm-candidates/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/10/22/us/politics/ohio-governor-ad-ramaswamy-acton.html",
         "source": "New York Times Politics",
         "title": "The Ad Dividing the Republican Party",
@@ -351,76 +414,13 @@
         "url": "https://www.nytimes.com/2026/10/22/us/politics/ohio-governor-ad-ramaswamy-acton.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
-        "publicationDate": "2026-10-22",
-        "category": "Healthcare",
-        "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-        "publicationDate": "2026-10-22",
-        "category": "Defense",
-        "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+        "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
         "publicationDate": "2026-10-22",
         "category": "Healthcare",
         "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
         "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
-        "publicationDate": "2026-10-22",
-        "category": "Other",
-        "summary": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
-        "url": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "‘Relentless’ cost of living pressures behind collapse in UK consumer confidence",
-        "publicationDate": "2026-10-22",
-        "category": "Economy",
-        "summary": "Index measuring how people view their finances and economic prospects suffers largest monthly drop since onset of Covid in 2020",
-        "url": "https://www.ft.com/content/74bb3555-6f29-4ff9-bcaf-6cd20a9a3b1b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5587abab-d5c8-480d-923d-b7b68afcb3f0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "FirstFT: Meta rekindles AI spending fears",
-        "publicationDate": "2026-10-22",
-        "category": "Foreign Policy",
-        "summary": "Also in today’s newsletter: China steps up ‘grey zone’ tactics against Taiwan and India mounts costly defence of rupee",
-        "url": "https://www.ft.com/content/5587abab-d5c8-480d-923d-b7b68afcb3f0?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/925486f3-1dd4-462a-ba1b-794efd2d6429?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK urges public and business to better prepare for emergencies",
-        "publicationDate": "2026-10-22",
-        "category": "Technology",
-        "summary": "Ministers urge households to stock up on essential items amid growing risk of natural disasters, cyber attacks or state-sponsored terrorism",
-        "url": "https://www.ft.com/content/925486f3-1dd4-462a-ba1b-794efd2d6429?syn-25a6b1a6=1"
     },
     {
         "id": "R49359",
