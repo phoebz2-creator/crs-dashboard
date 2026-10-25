@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://thehill.com/homenews/campaign/6170496-fishback-denied-luna-rally/",
+        "source": "The Hill",
+        "title": "James Fishback allegedly blocked from entering Florida Republicans' rally",
+        "publicationDate": "2026-10-25",
+        "category": "Campaign",
+        "summary": "Former gubernatorial candidate James Fishback (R) said he was stopped from entering a Get Out the Vote rally in Clearwater, Fla. hosted by Rep. Anna Paulina Luna (R-Fla.) on Saturday. Fishback said him and wife were told that he was “not welcome here” when trying to enter the venue, local news station CBS 12 reported....",
+        "url": "https://thehill.com/homenews/campaign/6170496-fishback-denied-luna-rally/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/",
+        "source": "The Hill",
+        "title": "ACLU, Common Cause file motion against DOJ over Alaska election certification block",
+        "publicationDate": "2026-10-25",
+        "category": "Court Battles",
+        "summary": "Nonprofit watchdog group Common Cause, represented by attorneys from American Civil Liberties Union (ACLU), has filed a motion to intervene in the Justice Department’s lawsuit over Alaska’s Senate election. The Department of Justice filed a lawsuit Thursday claiming that the presence of a candidate with the same name as incumbent Sen. Dan Sullivan (R) could...",
+        "url": "https://thehill.com/regulation/court-battles/6170458-common-cause-aclu-intervene-alaska-election/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/",
+        "source": "The Hill",
+        "title": "Musk says he was behind Starlink's slowdown in Ukraine",
+        "publicationDate": "2026-10-25",
+        "category": "Defense",
+        "summary": "Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” Musk said in a post on social platform X. The slowdown happened...",
+        "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
+    },
+    {
         "id": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/",
         "source": "The Hill",
         "title": "Obama on Trump White House: ‘Like Saddam Hussein opened a Cheesecake Factory’",
@@ -7,6 +34,15 @@
         "category": "Campaign",
         "summary": "Former President Barack Obama poked fun at President Trump's various Washington, D.C.-area renovation projects during a campaign stop in Cleveland, Ohio, where he was stumping for Democratic gubernatorial candidate Amy Acton and Senate candidate Sherrod Brown. In his speech, Obama zeroed in on the changes President Trump has made to the White House during his...",
         "url": "https://thehill.com/homenews/campaign/6170405-obama-mocks-trump-white-house/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+        "source": "New York Times Politics",
+        "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+        "publicationDate": "2026-10-25",
+        "category": "Defense",
+        "summary": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
+        "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
@@ -18,13 +54,49 @@
         "url": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-        "source": "New York Times Politics",
-        "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+        "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
         "publicationDate": "2026-10-25",
-        "category": "Foreign Policy",
-        "summary": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-        "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html"
+        "category": "Other",
+        "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Billionaire benevolence is booming, but it comes with strings",
+        "publicationDate": "2026-10-25",
+        "category": "Other",
+        "summary": "Generating goodwill is helpful in building data centres and developing bots with minimum governmental intervention",
+        "url": "https://www.ft.com/content/f0f294c1-66b0-4612-9716-647344a0e4c6?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Why 17 is not the magic number in industrial policy",
+        "publicationDate": "2026-10-25",
+        "category": "Other",
+        "summary": "A lack of focus threatens to hobble Japanese premier Sanae Takaichi’s growth strategy",
+        "url": "https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
+        "publicationDate": "2026-10-25",
+        "category": "Other",
+        "summary": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
+        "url": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "SoftBank-backed drone maker wants every farmer to ‘have their own robot’",
+        "publicationDate": "2026-10-25",
+        "category": "Other",
+        "summary": "Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures",
+        "url": "https://www.ft.com/content/9fe60016-1520-4bfd-bcfc-f30caa0b1600?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/eyeball-to-eyeball-cuban-missile-crisis-day-nine",
@@ -117,33 +189,6 @@
         "url": "https://thehill.com/homenews/campaign/6170381-obama-criticizes-hegseth-testosterone/"
     },
     {
-        "id": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/",
-        "source": "The Hill",
-        "title": "Kushner’s attorneys send notice to Vanity Fair on alleged “defamatory” excerpt",
-        "publicationDate": "2026-10-24",
-        "category": "Media",
-        "summary": "Attorneys representing President Trump’s son-in-law Jared Kushner have sent a letter to Vanity Fair and Condé Nast over allegations published in an article on Thursday calling them “false” and “defamatory.” “We formally put Vanity Fair and Condé Nast on notice regarding the false and defamatory allegations published about our client, Jared Kushner,” wrote Chad Mizelle,...",
-        "url": "https://thehill.com/media/6170355-kushner-attorneys-warn-vanity-fair/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/",
-        "source": "The Hill",
-        "title": "Blanche: DOJ lawsuit not trying to 'stop the certification of Alaska's election'",
-        "publicationDate": "2026-10-24",
-        "category": "Campaign",
-        "summary": "Attorney General Todd Blanche said Saturday that the Justice Department is not trying to stop the certification of Alaska’s election, referring to a lawsuit filed this week which claimed to “protect the integrity” of the election. The lawsuit, filed Thursday in the U.S. District Court for the district of Alaska, claims that the inclusion of a candidate...",
-        "url": "https://thehill.com/homenews/campaign/6170303-blanche-denies-alaska-election/"
-    },
-    {
-        "id": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/",
-        "source": "The Hill",
-        "title": "Obama's quippy Ohio campaign stop: 5 times the former president went after Republicans",
-        "publicationDate": "2026-10-24",
-        "category": "Defense",
-        "summary": "President Obama poked fun at several Trump administration figures and scandals while stumping for Democratic candidates Amy Acton and Sherrod Brown during a campaign stop in Cleveland, Ohio on Saturday. The former president ribbed his successor's administration on everything from Defense Secretary Pete Hegseth's focus on soldiers' appearance and testosterone to Trump's many Washington, D.C.-area...",
-        "url": "https://thehill.com/homenews/6170280-obama-jokes-trump-ohio-midterm-rally/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html",
         "source": "New York Times Politics",
         "title": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot",
@@ -169,15 +214,6 @@
         "category": "Canada",
         "summary": "The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”",
         "url": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-        "publicationDate": "2026-10-24",
-        "category": "Other",
-        "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
@@ -214,42 +250,6 @@
         "category": "Other",
         "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
         "url": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-        "source": "Financial Times World",
-        "title": "Ukraine military says Starlink service restrictions have been lifted",
-        "publicationDate": "2026-10-24",
-        "category": "Defense",
-        "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
-        "url": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8"
-    },
-    {
-        "id": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-        "publicationDate": "2026-10-24",
-        "category": "Other",
-        "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
-        "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Kim reaffirms ties with China amid worries over Russian friendship",
-        "publicationDate": "2026-10-24",
-        "category": "Foreign Policy",
-        "summary": "Beijing is concerned that Pyongyang and Moscow are forging a stronger relationship, say analysts",
-        "url": "https://www.ft.com/content/fd106d25-3abf-4729-be26-683d1d115d2e?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
-        "publicationDate": "2026-10-24",
-        "category": "Defense",
-        "summary": "Plans against US citizens have reached ‘advanced stages’ as tensions rise in region, according to document",
-        "url": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1"
     },
     {
         "id": "IF13336",
