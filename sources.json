@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://thehill.com/blogs/in-the-know/6171497-nicki-minaj-support-trump-michigan-rally-press-secretary/",
+        "source": "The Hill",
+        "title": "Nicki Minaj tells Trump she’ll support him if he runs again",
+        "publicationDate": "2026-10-26",
+        "category": "In The Know",
+        "summary": "Nicki Minaj joined President Trump at a campaign rally Sunday and said that she would support him if he chose to run again. “So, President Trump, it is an honor to stand with you every single time, and I will continue to support you forever and ever. If you run again, I will support you...",
+        "url": "https://thehill.com/blogs/in-the-know/6171497-nicki-minaj-support-trump-michigan-rally-press-secretary/"
+    },
+    {
         "id": "https://thehill.com/homenews/administration/6171484-donald-trump-considering-moving-white-house-press-corps/",
         "source": "The Hill",
         "title": "Trump considering moving White House press corps",
@@ -27,6 +36,15 @@
         "url": "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html"
     },
     {
+        "id": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
+        "source": "New York Times Politics",
+        "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+        "publicationDate": "2026-10-26",
+        "category": "Midterm Elections (2026)",
+        "summary": "At rallies this weekend, Mr. Obama and Mr. Trump delivered two starkly contrasting pitches, differing in style and substance.",
+        "url": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html"
+    },
+    {
         "id": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
         "source": "New York Times Politics",
         "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
@@ -38,11 +56,29 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+        "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
         "publicationDate": "2026-10-26",
         "category": "Other",
         "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
         "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "publicationDate": "2026-10-26",
+        "category": "Other",
+        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Australian murderer loses bid to eat Vegemite in prison",
+        "publicationDate": "2026-10-26",
+        "category": "Other",
+        "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
@@ -54,13 +90,40 @@
         "url": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "After stunning victory, Lula will face a deep hangover",
+        "title": "Oil price falls back as traders remain focused on Middle East conflict",
         "publicationDate": "2026-10-26",
-        "category": "Economy",
-        "summary": "Veteran leader will be challenged by battles with congress and high debt levels after rightward shift of centre of political gravity",
-        "url": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1"
+        "category": "Foreign Policy",
+        "summary": "International benchmark eases after soaring to $117 late last week",
+        "url": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1baa5eb0-d6e3-4989-beb0-1b29879ff606?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Singapore to store Saudi oil in underground caverns",
+        "publicationDate": "2026-10-26",
+        "category": "Other",
+        "summary": "Agreement with Saudi Aramco aims to secure energy supplies for south-east Asia amid Middle East war disruption",
+        "url": "https://www.ft.com/content/1baa5eb0-d6e3-4989-beb0-1b29879ff606?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "How Lula turned his election fortunes around in three weeks",
+        "publicationDate": "2026-10-26",
+        "category": "Other",
+        "summary": "With an energetic online push and social giveaways, Brazil’s president reignited his campaign between the first and second rounds",
+        "url": "https://www.ft.com/content/629894c7-e753-4e77-9794-c363c64dce9a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/5476d1af-0208-485e-9564-58d82dfdaa4c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Vučić’s defeat opens door for Serbia to reheat frigid EU ties",
+        "publicationDate": "2026-10-26",
+        "category": "Other",
+        "summary": "Also in this newsletter: Meloni’s electoral overhaul faces legal challenge",
+        "url": "https://www.ft.com/content/5476d1af-0208-485e-9564-58d82dfdaa4c?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/adlai-stevenson-dresses-down-the-soviet-ambassador-to-the-un-cuban-missile-crisis-day-ten",
@@ -70,6 +133,15 @@
         "category": "Article",
         "summary": "The U.S. Ambassador to the United Nation delivers a victory in the courtroom of world opinion as the dangers of the Cuban Missile Crisis grow.",
         "url": "https://www.cfr.org/articles/adlai-stevenson-dresses-down-the-soviet-ambassador-to-the-un-cuban-missile-crisis-day-ten"
+    },
+    {
+        "id": "https://cms.hoover.org/research/chinas-anxieties-latin-america",
+        "source": "Hoover Institution",
+        "title": "China’s Anxieties In Latin America",
+        "publicationDate": "2026-10-25",
+        "category": "Foreign Policy",
+        "summary": "Despite China's growing economic influence in Latin America, Beijing faces challenges it cannot easily control, from the activities of Chinese nationals abroad to costly missteps by its companies.",
+        "url": "https://cms.hoover.org/research/chinas-anxieties-latin-america"
     },
     {
         "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-40",
@@ -106,15 +178,6 @@
         "category": "Foreign Policy",
         "summary": "Robert A. Manning and Nick Hawkins argue that China has become a peer competitor to the United States in space. Beijing combines state-backed manufacturing, commercial launch firms, an expanding Tiangong station, lunar-base plans, resilient satellite networks, and reusable rockets. China already matches or surpasses U.S. capabilities in navigation, remote sensing, imaging, and anti-satellite systems, although...",
         "url": "https://cms.hoover.org/research/china-peer-competitor-dangerous-space-race"
-    },
-    {
-        "id": "https://cms.hoover.org/research/research-cover-how-chinese-intelligence-uses-think-tanks-and-consultancies",
-        "source": "Hoover Institution",
-        "title": "Research as Cover: How Chinese Intelligence Uses Think Tanks and Consultancies",
-        "publicationDate": "2026-10-25",
-        "category": "Defense",
-        "summary": "Martin Purbrick explains how PRC intelligence services use research organizations and consultancies as operational cover. Officers may invent firms or identities, work through genuine universities and think tanks, or commission “trial reports” that screen recruits while eliciting useful information. Western cases show targets being cultivated through professional platforms, travel, consulting assignments, and...",
-        "url": "https://cms.hoover.org/research/research-cover-how-chinese-intelligence-uses-think-tanks-and-consultancies"
     },
     {
         "id": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
@@ -225,24 +288,6 @@
         "url": "https://thehill.com/homenews/administration/6171296-donald-trump-abdul-el-sayed-pass-through-metal-detector-to-enter-senate/"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/",
-        "source": "The Hill",
-        "title": "Tillis accuses California of being 'guilty' of ballot harvesting: 'They have a system there that is ripe for abuse'",
-        "publicationDate": "2026-10-25",
-        "category": "Senate",
-        "summary": "Sen. Thom Tillis (R-N.C.) on Sunday accused the state of California of being \"guilty\" of ballot harvesting, claiming that the Golden State has \"a system there that is ripe for abuse.\" \"Face the Nation\" host Margaret Brennan asked about the Department of Justice's (DOJ) legal battle with the state over potential noncitizens on their voter...",
-        "url": "https://thehill.com/homenews/senate/6170781-thom-tillis-accuses-california-of-ballot-harvesting/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
-        "source": "New York Times Politics",
-        "title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
-        "publicationDate": "2026-10-25",
-        "category": "Midterm Elections (2026)",
-        "summary": "At rallies this weekend, Mr. Obama and Mr. Trump delivered two starkly contrasting pitches, differing in style and substance.",
-        "url": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html"
-    },
-    {
         "id": "https://www.nytimes.com/2026/10/25/us/politics/peltola-automobile-collision-campaign-events-postponed.html",
         "source": "New York Times Politics",
         "title": "Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says",
@@ -270,24 +315,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "publicationDate": "2026-10-25",
-        "category": "Other",
-        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "publicationDate": "2026-10-25",
-        "category": "Defense",
-        "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-        "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
@@ -295,33 +322,6 @@
         "category": "Healthcare",
         "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
         "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/8b6b5ec9-a5d6-4c2b-bf83-4317e4018ed8?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Burnham promises Budget cash to end rough sleeping",
-        "publicationDate": "2026-10-25",
-        "category": "Economy",
-        "summary": "Chancellor John Healey prepares to unveil a fiscal statement aimed at reassuring markets while finding cash for Labour’s social objectives",
-        "url": "https://www.ft.com/content/8b6b5ec9-a5d6-4c2b-bf83-4317e4018ed8?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Brazil’s Supreme Court extends voting as transport complaints mar election",
-        "publicationDate": "2026-10-25",
-        "category": "Other",
-        "summary": "Lack of buses and ferries adds to tense contest as rightwing challenger seeks to oust leftist president and bring country closer to Trump",
-        "url": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Venezuelan opposition leader Machado returns from exile",
-        "publicationDate": "2026-10-25",
-        "category": "Other",
-        "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
-        "url": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/eyeball-to-eyeball-cuban-missile-crisis-day-nine",
