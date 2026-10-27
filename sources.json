@@ -1,12 +1,75 @@
 [
     {
-        "id": "https://thehill.com/homenews/state-watch/6171272-live-updates-trump-midterm-elections-iran/",
-        "source": "The Hill",
-        "title": "Live updates: Trump brings midterm campaign swing to Mississippi",
+        "id": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi",
+        "source": "NPR Politics",
+        "title": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
         "publicationDate": "2026-10-27",
-        "category": "State Watch",
-        "summary": "With eight days to go before the midterms, President Trump is in one of the most reliably red states — Mississippi — to campaign for Republican Sen. Cindy Hyde-Smith, as Democrats see a sliver of optimism in the state. The Democratic-aligned Senate Majority PAC recently announced it will spend $1.2 million on a television ad...",
-        "url": "https://thehill.com/homenews/state-watch/6171272-live-updates-trump-midterm-elections-iran/"
+        "category": "Other",
+        "summary": "President Trump campaigned Monday in Mississippi, as he continued a closing midterm rally blitz that has highlighted Republicans' challenges ahead of an election that could drastically shift power in Washington.",
+        "url": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6173980-trump-announces-nursing-home-initiative/",
+        "source": "The Hill",
+        "title": "Trump announces $250M-plus initiative to recruit, retain nursing home nurses",
+        "publicationDate": "2026-10-27",
+        "category": "Healthcare",
+        "summary": "President Trump announced Monday an initiative worth hundreds of millions of dollars to recruit and retain nursing home nurses. “The Trump Administration is proud to announce a 250 MILLION DOLLAR PLUS initiative to RECRUIT and RETAIN Nurses for Nursing Homes!” Trump said in a Truth Social post Monday evening. “This Federal and State Initiative will...",
+        "url": "https://thehill.com/policy/healthcare/6173980-trump-announces-nursing-home-initiative/"
+    },
+    {
+        "id": "https://thehill.com/regulation/court-battles/6173951-judge-blocks-east-potomac-tree-cutting/",
+        "source": "The Hill",
+        "title": "Judge extends tree-cutting block at East Potomac Park",
+        "publicationDate": "2026-10-27",
+        "category": "Court Battles",
+        "summary": "A federal judge on Monday extended a tree-cutting block at East Potomac Park, where President Trump has claimed there will be a new golf course in the future, U.S. District Judge Ana Reyes granted a preliminary injunction for a preservationist group and golfers restricting the Trump administration from cutting trees at the park, stating in...",
+        "url": "https://thehill.com/regulation/court-battles/6173951-judge-blocks-east-potomac-tree-cutting/"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6173911-raskin-warns-oil-companies-diesel/",
+        "source": "The Hill",
+        "title": "Raskin says oil companies will face consequences for importing Russian diesel",
+        "publicationDate": "2026-10-27",
+        "category": "Foreign Policy",
+        "summary": "Rep. Jamie Raskin (D-Md.), the ranking member on the House Judiciary Committee, said that oil companies will face repercussions if they import Russian diesel, comments that come shortly after President Trump announced a diesel deal with Moscow. In a Monday letter addressed to energy companies, Raskin said oil companies are going to “be held accountable”...",
+        "url": "https://thehill.com/homenews/house/6173911-raskin-warns-oil-companies-diesel/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6173838-trump-obama-cheesecake-factory-response/",
+        "source": "The Hill",
+        "title": "Trump fires back at Obama's Cheesecake Factory jab",
+        "publicationDate": "2026-10-27",
+        "category": "Campaign",
+        "summary": "President Trump fired back at former President Obama during a Monday night rally in Corinth, Miss., after the former commander in chief likened Trump’s White House renovations to a Cheesecake Factory while on the campaign trail over the weekend. “‘Donald Trump spends a lot of his time fixing up the White House,’” Trump said, mocking...",
+        "url": "https://thehill.com/homenews/campaign/6173838-trump-obama-cheesecake-factory-response/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6173839-vance-announces-meatpacking-grants/",
+        "source": "The Hill",
+        "title": "Vance announces $57M grant boost for meatpacking facilities",
+        "publicationDate": "2026-10-27",
+        "category": "Administration",
+        "summary": "Vice President Vance announced Monday that the Agriculture Department is investing millions of dollars in new grants toward meatpacking facilities. He made the announcement while campaigning for Sen. Roger Marshall (R) in Kansas. The vice president said the grants would go toward 10 meatpacking facilities in the state, adding that it “could not have happened...",
+        "url": "https://thehill.com/homenews/administration/6173839-vance-announces-meatpacking-grants/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/26/us/politics/obamas-cheesecake-factory-jab-rankles-trump-on-mississippi-campaign-stop.html",
+        "source": "New York Times Politics",
+        "title": "Obama’s ‘Cheesecake Factory’ Jab Rankles Trump on Mississippi Campaign Stop",
+        "publicationDate": "2026-10-27",
+        "category": "United States Politics and Government",
+        "summary": "Former President Barack Obama had cast his successor as out of touch while jabbing at his extravagant sense of style. Mr. Trump responded at length.",
+        "url": "https://www.nytimes.com/2026/10/26/us/politics/obamas-cheesecake-factory-jab-rankles-trump-on-mississippi-campaign-stop.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
+        "source": "New York Times Politics",
+        "title": "Judge Temporarily Blocks Further Alterations at D.C.’s East Potomac Park",
+        "publicationDate": "2026-10-27",
+        "category": "United States Politics and Government",
+        "summary": "A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the president has sought to overhaul a golf course.",
+        "url": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html"
     },
     {
         "id": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
@@ -25,6 +88,96 @@
         "category": "Midterm Elections (2026)",
         "summary": "By a 2-1 vote, a federal appeals court panel denied the Trump administration’s request that it immediately order the state to set aside 20,000 mail-in ballots.",
         "url": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
+        "source": "New York Times Politics",
+        "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
+        "publicationDate": "2026-10-27",
+        "category": "Classified Information and State Secrets",
+        "summary": "Lawyers for James B. Comey said the case centered on an issue that had already been investigated and had not led to charges, of a purported leak of national security information to The Times in October 2016.",
+        "url": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ex-FBI chief James Comey faces federal charges for third time",
+        "publicationDate": "2026-10-27",
+        "category": "Other",
+        "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+        "publicationDate": "2026-10-27",
+        "category": "Healthcare",
+        "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Meghan to co-host Junior MasterChef Australia",
+        "publicationDate": "2026-10-27",
+        "category": "Other",
+        "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+        "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Jay-Z to perform at Super Bowl half-time show",
+        "publicationDate": "2026-10-27",
+        "category": "Other",
+        "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: What Healey plans for his first UK Budget",
+        "publicationDate": "2026-10-27",
+        "category": "Economy",
+        "summary": "Also in today’s newsletter: Israel elections and French finances",
+        "url": "https://www.ft.com/content/d79ea4f9-dc54-4b9c-b739-6e6fc99feebc?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/69a623e0-8605-4b1d-b147-770649efb53a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Anthropic’s constitutional order",
+        "publicationDate": "2026-10-27",
+        "category": "Other",
+        "summary": "Plus, Lula’s victory",
+        "url": "https://www.ft.com/content/69a623e0-8605-4b1d-b147-770649efb53a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/e69d8ce2-2a47-4cdd-a03d-8e87de6b1d76",
+        "source": "Financial Times World",
+        "title": "Bank of Japan to remain on quarterly tightening path",
+        "publicationDate": "2026-10-27",
+        "category": "Other",
+        "summary": "Read the BoJ’s October forecast from the FT’s Monetary Policy Radar team",
+        "url": "https://www.ft.com/content/e69d8ce2-2a47-4cdd-a03d-8e87de6b1d76"
+    },
+    {
+        "id": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Indian IT services groups turn corner as AI revenue grows",
+        "publicationDate": "2026-10-27",
+        "category": "Technology",
+        "summary": "Work to help companies integrate the new technology makes up more than 10% of sector’s sales",
+        "url": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Global equity markets rise as AI trade regains steam",
+        "publicationDate": "2026-10-27",
+        "category": "Other",
+        "summary": "Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing",
+        "url": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1"
     },
     {
         "id": "R49492",
@@ -144,6 +297,15 @@
         "url": "https://www.hudson.org/politics-government/generation-conflagration-protests-france-india-walter-russell-mead-bill-drexel"
     },
     {
+        "id": "https://cms.hoover.org/research/roger-louis-distinguished-ut-historian-british-empire-dies-90",
+        "source": "Hoover Institution",
+        "title": "Roger Louis, distinguished UT historian of the British Empire, dies at 90",
+        "publicationDate": "2026-10-26",
+        "category": "Other",
+        "summary": "“Roger was a friend to everyone who loved history, ideas and books,” said David Leal, UT professor of government. “He had a talent for finding interesting people and drawing out their best. He created a unique scholarly family that spanned the globe.”",
+        "url": "https://cms.hoover.org/research/roger-louis-distinguished-ut-historian-british-empire-dies-90"
+    },
+    {
         "id": "https://cms.hoover.org/research/californias-wealth-tax-and-french-economist",
         "source": "Hoover Institution",
         "title": "California’s Wealth Tax And The French Economist",
@@ -180,13 +342,13 @@
         "url": "https://cms.hoover.org/research/book-review-breakneck-chinas-quest-engineer-future-dan-wang-0"
     },
     {
-        "id": "https://cms.hoover.org/research/economists-are-feuding-about-impact-prop-40s-billionaire-tax",
-        "source": "Hoover Institution",
-        "title": "Economists Are Feuding About The Impact Of Prop. 40’s Billionaire Tax",
+        "id": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+        "source": "NPR Politics",
+        "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
         "publicationDate": "2026-10-26",
-        "category": "Economy",
-        "summary": "Hoover Institution fellows Joshua Rauh and Benjamin Jaros estimate Prop. 40 would raise $30 billion but drive out enough billionaires to leave the state $39 billion poorer.",
-        "url": "https://cms.hoover.org/research/economists-are-feuding-about-impact-prop-40s-billionaire-tax"
+        "category": "Other",
+        "summary": "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey's lawyers immediately dismissed the effort as invalid and outside the time limit.",
+        "url": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again"
     },
     {
         "id": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
@@ -214,24 +376,6 @@
         "category": "Other",
         "summary": "NPR's Leila Fadel speaks with political consultant Mike Madrid about how Republicans' gerrymandering efforts have backfired.",
         "url": "https://www.npr.org/2026/10/26/nx-s1-6016194/political-consultant-on-the-impact-of-republicans-gerrymandering-efforts"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
-        "source": "NPR Politics",
-        "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "President Trump intensified his anti-Muslim rhetoric against Michigan Senate candidate Abdul El-Sayed on Sunday, portraying him as a threat to national security and questioning his loyalty to the United States.",
-        "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map",
-        "source": "NPR Politics",
-        "title": "Republicans are spending millions and still may not win districts drawn to favor them",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "Republicans redrew congressional district lines to try to tilt the midterms in their favor. But now they are facing expensive and competitive races they had hoped to outmaneuver.",
-        "url": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map"
     },
     {
         "id": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
@@ -279,69 +423,6 @@
         "url": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time"
     },
     {
-        "id": "https://thehill.com/homenews/house/6173782-gop-house-leadership-election-schedule/",
-        "source": "The Hill",
-        "title": "House GOP to hold leadership elections a week after Election Day",
-        "publicationDate": "2026-10-26",
-        "category": "House",
-        "summary": "House Republicans are slated to hold their leadership elections on Nov. 10, according to two GOP staffers, who spoke on the condition of anonymity. Politico, which first reported the news, noted that Republicans will hold a two-hour candidate forum that morning before voting on the leader, whip, conference chair and other positions. Members also have...",
-        "url": "https://thehill.com/homenews/house/6173782-gop-house-leadership-election-schedule/"
-    },
-    {
-        "id": "https://thehill.com/homenews/administration/6173747-appeals-court-denies-emergency-election-stay/",
-        "source": "The Hill",
-        "title": "Appeals court rules against DOJ in California ballot fight",
-        "publicationDate": "2026-10-26",
-        "category": "Administration",
-        "summary": "A federal appeals court panel Monday refused to order California to set aside 20,000 mail ballots that the Trump administration says are likely from noncitizens. In a 2-1 vote, the panel found it has no jurisdiction and the administration needs to wait for the trial judge to rule. He’s set to hold a hearing Tuesday, but...",
-        "url": "https://thehill.com/homenews/administration/6173747-appeals-court-denies-emergency-election-stay/"
-    },
-    {
-        "id": "https://thehill.com/homenews/analysis/6173711-el-sayed-trump-islamophobic-attacks-michigan/",
-        "source": "The Hill",
-        "title": "The Memo: El-Sayed allies argue Trump’s anti-Muslim attacks will backfire",
-        "publicationDate": "2026-10-26",
-        "category": "Analysis",
-        "summary": "President Trump is intensifying his anti-Muslim attacks on Abdul El-Sayed in the final stretch of campaigning before Election Day. At a Sunday rally in Michigan, Trump unleashed a volley of Islamophobic comments against El-Sayed, the Democratic nominee who is seeking to become the first Muslim senator in history. Trump said El-Sayed is “on the side...",
-        "url": "https://thehill.com/homenews/analysis/6173711-el-sayed-trump-islamophobic-attacks-michigan/"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/6173667-comey-slams-doj-charges/",
-        "source": "The Hill",
-        "title": "Comey reacts to new charges: 'Funny' if it weren't 'appalling abuse' of DOJ",
-        "publicationDate": "2026-10-26",
-        "category": "Court Battles",
-        "summary": "Former FBI Director James Comey on Monday slammed his new charges from the Trump administration. “Well, they’re back, again. It would almost be funny if it weren’t such an appalling abuse of the Department of Justice, one that we cannot become numb to. Nothing’s changed with me,” Comey said Monday in a video posted to...",
-        "url": "https://thehill.com/regulation/court-battles/6173667-comey-slams-doj-charges/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html",
-        "source": "New York Times Politics",
-        "title": "Justice Dept. Brings More Charges Against Comey, Accusing Him of Leaks",
-        "publicationDate": "2026-10-26",
-        "category": "Classified Information and State Secrets",
-        "summary": "Lawyers for James B. Comey said the case centered on an issue that had already been investigated and had not led to charges, of a purported leak of national security information to The Times in October 2016.",
-        "url": "https://www.nytimes.com/2026/10/26/us/politics/james-comey-charges-doj.html"
-    },
-    {
-        "id": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
-        "source": "New York Times Politics",
-        "title": "How Scuffles at Trump Rallies Echo His Past Events",
-        "publicationDate": "2026-10-26",
-        "category": "United States Politics and Government",
-        "summary": "Examining President Trump’s praise of a rallygoer who punched a protester last week, David E. Sanger, a White House and national security correspondent for The New York Times, studied the atmosphere at Mr. Trump’s recent events. What he found was a faint echo of the moments that made Mr. Trump’s 2016 rallies so shocking.",
-        "url": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
-        "source": "New York Times Politics",
-        "title": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
-        "publicationDate": "2026-10-26",
-        "category": "Midterm Elections (2026)",
-        "summary": "Mr. Paxton, the Republican candidate for Senate in Texas, has taken about 350 trips outside of the state since he was sworn in as attorney general.",
-        "url": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Lula wins fourth term in dramatic Brazil election comeback",
@@ -349,87 +430,6 @@
         "category": "Other",
         "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
         "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-        "publicationDate": "2026-10-26",
-        "category": "Defense",
-        "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-        "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
-        "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/0139bf89-1906-460b-a976-663a36010889?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "England captain Harry Kane wins Ballon d’Or",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "Bayern Munich forward recognised as world’s best-performing footballer — the first British player to win the award in 25 years",
-        "url": "https://www.ft.com/content/0139bf89-1906-460b-a976-663a36010889?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/63b0768d-0cdc-4ce1-b3e2-1e15df44dabc?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Healey poised to increase adult minimum wage in UK Budget",
-        "publicationDate": "2026-10-26",
-        "category": "Economy",
-        "summary": "Chancellor will hold back from bigger increases in the rate for younger workers despite Labour manifesto pledge",
-        "url": "https://www.ft.com/content/63b0768d-0cdc-4ce1-b3e2-1e15df44dabc?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US charges ex-FBI chief James Comey for third time",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "Former official is charged with disclosing national defence information in latest case brought by the Trump administration",
-        "url": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft deal",
-        "url": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/9e9fac4d-117d-46d7-929e-86a7d7c93d35?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Healey focuses Budget on ‘everyday fixes’ as energy costs bite",
-        "publicationDate": "2026-10-26",
-        "category": "Economy",
-        "summary": "Chancellor set to offer limited giveaways to ease cost of living and help for first-time homeowners",
-        "url": "https://www.ft.com/content/9e9fac4d-117d-46d7-929e-86a7d7c93d35?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/adlai-stevenson-dresses-down-the-soviet-ambassador-to-the-un-cuban-missile-crisis-day-ten",
