@@ -1,5 +1,41 @@
 [
     {
+        "id": "LSB11496",
+        "source": "Congressional Research Service",
+        "title": "Delay in Changes to Hemp Definition: Cannabinoids Not Capable of Being Naturally Produced by the Cannabis Plant",
+        "publicationDate": "2026-10-28",
+        "category": "Defense",
+        "summary": "Under federal law, cannabis and its derivatives are classified as either marijuana or hemp. Marijuana is subject to regulation under the federal Controlled Substances Act (CSA), while hemp is not a controlled substance. The CSA also separately regulates tetrahydrocannabinols (THC), other than “[THC] in hemp.” While hemp and THC in hemp are not controlled substances, they may be regulated by other provisions of...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11496/LSB11496.1.pdf"
+    },
+    {
+        "id": "IF12114",
+        "source": "Congressional Research Service",
+        "title": "Farm Bill Primer: PLC and ARC Farm Support Programs",
+        "publicationDate": "2026-10-28",
+        "category": "Economy",
+        "summary": "The Price Loss Coverage (PLC) and Agriculture Risk Coverage (ARC) programs provide income support for eligible agricultural producers that is triggered when market prices (PLC) or crop revenues (ARC) fall below certain thresholds. Congress originally authorized these programs in the Agricultural Act of 2014 (2014 farm bill, P.L. 113-79) to replace certain commodity support programs authorized in prior farm bills....",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12114/IF12114.2.pdf"
+    },
+    {
+        "id": "IF10293",
+        "source": "Congressional Research Service",
+        "title": "Foreign Relations Reauthorization: Background and Issues",
+        "publicationDate": "2026-10-28",
+        "category": "Defense",
+        "summary": "Introduction The Constitution empowers Congress to provide funding, authorize programs, and conduct oversight with respect to foreign policy implementation. In exercising these powers, Congress has enacted several laws requiring foreign affairs appropriations to be authorized prior to expenditure, asserting the role of the foreign affairs authorizing committees in budgetary decisionmaking. These include Section...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10293/IF10293.16.pdf"
+    },
+    {
+        "id": "R48078",
+        "source": "Congressional Research Service",
+        "title": "Credible Fear and Defensive Asylum Processes: Frequently Asked Questions",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "Non-U.S. nationals (aliens under federal statute and regulation) subject to removal from the United States may seek asylum and other forms of humanitarian protection during standard and expedited removal processes. Asylum may be granted to persons in the United States, regardless of their immigration status, who are unable or unwilling to return to their countries because of persecution or a well-founded fear of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48078/R48078.5.pdf"
+    },
+    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5006-1.html",
         "source": "RAND Corporation",
         "title": "Anticipating Allies’ Responses to U.S. Retrenchment from Europe",
@@ -27,6 +63,42 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA5007-1.html"
     },
     {
+        "id": "https://www.cfr.org/articles/whats-behind-the-protests-and-riots-in-france-and-what-comes-next",
+        "source": "Council on Foreign Relations",
+        "title": "What’s Behind the Protests and Riots in France, and What Comes Next",
+        "publicationDate": "2026-10-28",
+        "category": "Article",
+        "summary": "Massive protests have swept across France since mid-September as students have rallied against the country’s education system and rising living costs. But the chaos could be a boon for France’s more extreme parties before next year’s elections.",
+        "url": "https://www.cfr.org/articles/whats-behind-the-protests-and-riots-in-france-and-what-comes-next"
+    },
+    {
+        "id": "https://www.cfr.org/articles/who-will-be-the-next-un-secretary-general",
+        "source": "Council on Foreign Relations",
+        "title": "Who Will Be the Next UN Secretary-General?",
+        "publicationDate": "2026-10-28",
+        "category": "Article",
+        "summary": "Seven candidates are vying to succeed António Guterres as the United Nations’ tenth leader since 1946. Who are they, how are they selected, and what challenges will they face in the role?",
+        "url": "https://www.cfr.org/articles/who-will-be-the-next-un-secretary-general"
+    },
+    {
+        "id": "https://www.cfr.org/reports/bypassing-the-pharma-chokepoint",
+        "source": "Council on Foreign Relations",
+        "title": "Bypassing the Pharma Chokepoint",
+        "publicationDate": "2026-10-28",
+        "category": "Foreign Policy",
+        "summary": "Introduction Over the last twenty years, China has emerged as the United States and Europe’s [PDF] most important foreign source of upstream inputs of critical medicines—namely, key starting materials (KSMs) and active pharmaceutical ingredients (APIs). As U.S. and EU regulators and media more heavily scrutinized API and KSM production, a process that often involves chemical […]",
+        "url": "https://www.cfr.org/reports/bypassing-the-pharma-chokepoint"
+    },
+    {
+        "id": "https://www.cfr.org/articles/president-john-f-kennedy-and-soviet-premier-nikita-khrushchev-reach-a-deal-cuban-missile-crisis-day-thirteen",
+        "source": "Council on Foreign Relations",
+        "title": "President John F. Kennedy and Soviet Premier Nikita Khrushchev Make a Deal—Cuban Missile Crisis, Day Thirteen",
+        "publicationDate": "2026-10-28",
+        "category": "Article",
+        "summary": "The United States and the Soviet Union pulled back from the nuclear brink, chastened by their brush with nuclear Armageddon.",
+        "url": "https://www.cfr.org/articles/president-john-f-kennedy-and-soviet-premier-nikita-khrushchev-reach-a-deal-cuban-missile-crisis-day-thirteen"
+    },
+    {
         "id": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
         "source": "Council on Foreign Relations",
         "title": "Serbia Election Marks the End of an Era",
@@ -34,6 +106,15 @@
         "category": "Article",
         "summary": "The country’s student-led opposition movement secured a historic victory in parliamentary elections. But the new government will have its work cut out, says CFR Senior Fellow Charles Kupchan.",
         "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era"
+    },
+    {
+        "id": "https://www.hudson.org/national-security-defense/ukraine-military-situation-report-october-28-can-kasapoglu",
+        "source": "Hudson Institute",
+        "title": "Ukraine Military Situation Report | October 28",
+        "publicationDate": "2026-10-28",
+        "category": "Defense",
+        "summary": "Ukraine Military Situation Report | October 28 bbert@hudson.org Wed, 10/28/2026 - 11:45 SVG Commentary Oct 28, 2026 Hudson Institute Ukraine Military Situation Report | October 28 Can Kasapoğlu Senior Fellow (Nonresident) Can Kasapoğlu Commentary Caption Ukrainian soldiers inspect forward infantry positions near the border with Russia on August 28, 2026, in Oblast Region, Ukraine. (Getty Images) Toggle Table of...",
+        "url": "https://www.hudson.org/national-security-defense/ukraine-military-situation-report-october-28-can-kasapoglu"
     },
     {
         "id": "https://www.cer.eu/php-mailing-issue",
@@ -90,94 +171,139 @@
         "url": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6177318-peggy-flanagan-leads-minnesota-senate-poll/",
-        "source": "The Hill",
-        "title": "Democrat Flanagan leads in Minnesota Senate race by double digits: Poll",
+        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-voters-in-ohio-after-divisive-ramaswamy-campaign-ad",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Trump rallies voters in Ohio after divisive Ramaswamy campaign ad",
         "publicationDate": "2026-10-28",
-        "category": "Campaign",
-        "summary": "Democrat Peggy Flanagan is leading in the Minnesota Senate race against her GOP competitor Michele Tafoya, according to a new poll. In The New York Times/Siena University poll, 54 percent of respondents said they were more likely to cast their ballot for Flanagan if Election Day was that day, while 40 percent said the same...",
-        "url": "https://thehill.com/homenews/campaign/6177318-peggy-flanagan-leads-minnesota-senate-poll/"
+        "category": "2026 Midterms",
+        "summary": "President Donald Trump is finishing the midterms with a cross-country blitz of campaign rallies that allow him to bask in applause when he's otherwise profoundly unpopular.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-voters-in-ohio-after-divisive-ramaswamy-campaign-ad"
     },
     {
-        "id": "https://thehill.com/opinion/international/6175287-around-the-world-voters-are-embracing-democracy/",
-        "source": "The Hill",
-        "title": "Around the world, voters are embracing democracy",
+        "id": "https://www.pbs.org/newshour/nation/dolores-huerta-labor-and-civil-rights-icon-dies-at-96",
+        "source": "PBS NewsHour Politics",
+        "title": "Dolores Huerta, labor and civil rights icon, dies at 96",
         "publicationDate": "2026-10-28",
-        "category": "Foreign Policy",
-        "summary": "With rising gas and cost-of-living prices, war in Iran, corruption in the White House, AI's threat to the job market and energy-guzzling data centers warming the planet, Americans may well be on the cusp of demanding radical change.",
-        "url": "https://thehill.com/opinion/international/6175287-around-the-world-voters-are-embracing-democracy/"
+        "category": "Activists",
+        "summary": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation's fruit and vegetable fields and coined the phrase \"Sí, se puede!\" that became a widespread rallying cry.",
+        "url": "https://www.pbs.org/newshour/nation/dolores-huerta-labor-and-civil-rights-icon-dies-at-96"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6177199-darline-graham-annie-andrews-south-carolina-senate-race-survey/",
-        "source": "The Hill",
-        "title": "South Carolina Senate race deadlocked: Survey",
+        "id": "https://www.pbs.org/newshour/world/watch-defeated-brazilian-candidate-flavio-bolsonaro-arrives-in-u-s-amid-investigation",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Defeated Brazilian candidate Flávio Bolsonaro arrives in U.S. amid investigation",
         "publicationDate": "2026-10-28",
-        "category": "Campaign",
-        "summary": "Sen. Darline Graham (R-S.C.) and Democratic Senate hopeful Annie Andrews are deadlocked in the Palmetto State race with less than a week before Election Day, according to a new survey. The New York Times/Siena University poll, released Wednesday, shows both candidates with 48 percent support among likely voters in South Carolina — which has not...",
-        "url": "https://thehill.com/homenews/campaign/6177199-darline-graham-annie-andrews-south-carolina-senate-race-survey/"
+        "category": "Economy",
+        "summary": "The stunning move came after 48 hours in which Bolsonaro refused to concede to Brazilian President Luiz Inácio Lula da Silva and then threatened to attempt to annul the election result. He is under investigation by Brazil's Supreme Court for alleged corruption, money laundering and tax evasion in two cases.",
+        "url": "https://www.pbs.org/newshour/world/watch-defeated-brazilian-candidate-flavio-bolsonaro-arrives-in-u-s-amid-investigation"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6177160-trump-approves-flavio-bolsonaro-us/",
+        "id": "https://thehill.com/blogs/in-the-know/6177777-brooke-hogan-hulk-hogan-death-home-sale-response/",
         "source": "The Hill",
-        "title": "Trump says he approves of Bolsonaro coming to US",
+        "title": "Brooke Hogan blasts sale of Hulk Hogan’s home, calls it ‘deeply unsettling’",
+        "publicationDate": "2026-10-28",
+        "category": "In The Know",
+        "summary": "Someone bought the late wrestler’s Clearwater, Florida, mansion for $5.9 million.",
+        "url": "https://thehill.com/blogs/in-the-know/6177777-brooke-hogan-hulk-hogan-death-home-sale-response/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6179059-himes-paper-ballots-prevent-hacking/",
+        "source": "The Hill",
+        "title": "House Democrat: Paper ballots protect against Musk's potential election hacking",
         "publicationDate": "2026-10-28",
         "category": "Defense",
-        "summary": "President Trump on Tuesday said he approves of former Brazilian presidential candidate Flávio Bolsonaro entering the U.S. after his runoff election loss to incumbent President Luiz Inácio Lula da Silva earlier this week. \"Well, I would approve,\" Trump told reporters outside Air Force One at Joint Base Andrews. \"I think they're fine people. The election was...",
-        "url": "https://thehill.com/homenews/administration/6177160-trump-approves-flavio-bolsonaro-us/"
+        "summary": "Rep. Jim Himes (D-Conn.), the ranking member on the House Intelligence Committee, said Wednesday that the use of paper ballots prevents hacking from tech mogul Elon Musk, who is supporting Republicans this election cycle. “Forty-nine of the 50 states have paper records of the ballots, right?” Himes said on MS NOW’s “Morning Joe.” “Except for...",
+        "url": "https://thehill.com/policy/technology/6179059-himes-paper-ballots-prevent-hacking/"
     },
     {
-        "id": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
+        "id": "https://thehill.com/homenews/campaign/6175607-what-to-know-voter-registration-midterms/",
         "source": "The Hill",
-        "title": "Live updates: Trump, Obama campaign in midterm sprint; Murkowski backs Dem in Alaska governor's race",
+        "title": "What to do if poll workers say you aren't registered to vote",
         "publicationDate": "2026-10-28",
-        "category": "State Watch",
-        "summary": "Former President Obama is stopping in Atlanta on Wednesday — less than a week out from Election Day — to give a boost to Democrat Keisha Lance Bottoms, who's running for Georgia governor, and incumbent Sen. Jon Ossoff (D). Obama's visit to the Peach State comes just a few days after his quippy speech at...",
-        "url": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/"
+        "category": "Campaign",
+        "summary": "You may be able to update your registration or cast a provisional ballot.",
+        "url": "https://thehill.com/homenews/campaign/6175607-what-to-know-voter-registration-midterms/"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
-        "source": "New York Times Politics",
-        "title": "U.S. Restricts Trade With Chinese Genomics Company",
+        "id": "https://thehill.com/business/6177123-glp-1-weightloss-drugs-beer-industry-hit-report/",
+        "source": "The Hill",
+        "title": "GLP-1s could cause beer sales to take a hit, report says",
         "publicationDate": "2026-10-28",
-        "category": "Forced Labor",
-        "summary": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups.",
-        "url": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html"
+        "category": "Business",
+        "summary": "Options Heineken advised its customers to pursue are half-pints, low- and no-alcohol options, according to the publication.",
+        "url": "https://thehill.com/business/6177123-glp-1-weightloss-drugs-beer-industry-hit-report/"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/28/podcasts/the-daily/collins-sununu-republican-midterms.html",
+        "id": "https://thehill.com/homenews/administration/6178743-congress-reelection-poll-record-low/",
+        "source": "The Hill",
+        "title": "Support for reelecting congressional incumbents at record lows: Gallup",
+        "publicationDate": "2026-10-28",
+        "category": "Administration",
+        "summary": "A record low percentage of U.S. voters support the reelection of their own representative or of most sitting members of Congress, according to a poll released Wednesday, less than a week before the midterm elections. In the latest Gallup poll, 43 percent of voters said they think their own representative deserves reelection. In polls going...",
+        "url": "https://thehill.com/homenews/administration/6178743-congress-reelection-poll-record-low/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/28/us/politics/linda-mcmahon-education-department-furniture-trump.html",
         "source": "New York Times Politics",
-        "title": "Is Running From Trump Enough to Save Republicans on Tuesday?",
+        "title": "Linda McMahon Spends $43,000 on Furniture as She Looks to Close Education Department",
         "publicationDate": "2026-10-28",
         "category": "United States Politics and Government",
-        "summary": "A look at candidates from President Trump’s party who are running on a platform of criticizing him.",
-        "url": "https://www.nytimes.com/2026/10/28/podcasts/the-daily/collins-sununu-republican-midterms.html"
+        "summary": "The education secretary says her old furniture “cannot be configurationally or aesthetically integrated” into new office space.",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/linda-mcmahon-education-department-furniture-trump.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html",
+        "id": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
         "source": "New York Times Politics",
-        "title": "What Our New Senate Polls Tell Us About the State of the Midterms",
+        "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
         "publicationDate": "2026-10-28",
-        "category": "Polls and Public Opinion",
-        "summary": "South Carolina seems like a serious race; Minnesota may not be; and Florida still appears out of reach for Democrats.",
-        "url": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html"
+        "category": "Cheesecake Factory Inc",
+        "summary": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques.",
+        "url": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html",
+        "id": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
         "source": "New York Times Politics",
-        "title": "Byron Donalds Holds Slim Lead in Florida’s Race for Governor",
+        "title": "Gina Hinojosa’s Texas Governor Campaign Tests Limits of New Rules for Digital Political Ads",
         "publicationDate": "2026-10-28",
-        "category": "United States Politics and Government",
-        "summary": "New polls in Florida, South Carolina and Minnesota illuminate the head winds that Republicans are facing.",
-        "url": "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html"
+        "category": "Social Media",
+        "summary": "Some of the social media posts paid for by Gina Hinojosa’s campaign for Texas governor don’t include a disclosure, despite a state regulation that likely requires it.",
+        "url": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html",
+        "id": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
         "source": "New York Times Politics",
-        "title": "Can You Trust the Midterm Polls? Three Times Journalists Talk It Out.",
+        "title": "Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan",
         "publicationDate": "2026-10-28",
-        "category": "New York Times/Siena College Poll",
-        "summary": "Members of the team behind the Times/Siena Poll on what the data show, how they’ve improved their methodology and what it means to be “right.”",
-        "url": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html"
+        "category": "Alaska",
+        "summary": "Operatives aligned with Mary Peltola, the Democratic nominee for Senate, spent months recruiting candidates to peel votes from Senator Dan Sullivan, the Republican.",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/28/us/politics/2028-democrats.html",
+        "source": "New York Times Politics",
+        "title": "Democrats Eyeing 2028 Presidential Campaigns Begin Courting Donors and Operatives",
+        "publicationDate": "2026-10-28",
+        "category": "Presidential Election of 2028",
+        "summary": "As soon as the midterms are over, presidential contenders are going to need to raise millions, quickly.",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/2028-democrats.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "How could Israel break election deadlock? Here are four scenarios",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
@@ -207,67 +333,58 @@
         "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
-        "publicationDate": "2026-10-28",
-        "category": "Other",
-        "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
-        "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/0d5d33b5-a988-4692-b2e6-677d87f9bbb0?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/722c0e11-805a-4a0c-aeee-04545dae72cf?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Budget in brief: what you need to know",
+        "title": "Let’s keep Isas simple",
         "publicationDate": "2026-10-28",
         "category": "Economy",
-        "summary": "A quick guide to John Healey’s main policy announcements and official economic forecasts",
-        "url": "https://www.ft.com/content/0d5d33b5-a988-4692-b2e6-677d87f9bbb0?syn-25a6b1a6=1"
+        "summary": "The chancellor has made welcome changes to tax-free saving and investing but could go further still",
+        "url": "https://www.ft.com/content/722c0e11-805a-4a0c-aeee-04545dae72cf?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/de6a8b48-1afe-4ece-9d21-27160b2d97a4?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
-        "publicationDate": "2026-10-28",
-        "category": "Other",
-        "summary": "Approach marks latest episode in investment firm’s longstanding involvement with the burger and shake company",
-        "url": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/80acb561-34e2-4b71-b4b3-b564f3ec54ce?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Healey hits banks and savers with tax rises in Budget ‘for working people’",
+        "title": "‘Is that it?’: Opposition parties attack Healey for lack of ambition",
         "publicationDate": "2026-10-28",
         "category": "Economy",
-        "summary": "Follow live: Chancellor sets out help for households and businesses while hitting lenders and taxing income from savings and property",
-        "url": "https://www.ft.com/content/80acb561-34e2-4b71-b4b3-b564f3ec54ce?syn-25a6b1a6=1"
+        "summary": "Tories, Greens and Lib Dems dismiss chancellor’s first Budget as ‘nothing-burger’",
+        "url": "https://www.ft.com/content/de6a8b48-1afe-4ece-9d21-27160b2d97a4?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945",
+        "id": "https://www.ft.com/content/089b0e61-32bc-4f43-90a4-ceeb693c2dea?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "We read Liz Truss’s book so you don’t have to",
+        "title": "Britain’s Budget buys time but ducks the hard choices",
+        "publicationDate": "2026-10-28",
+        "category": "Economy",
+        "summary": "Healey’s low-key package sidesteps long-term fiscal and growth challenges",
+        "url": "https://www.ft.com/content/089b0e61-32bc-4f43-90a4-ceeb693c2dea?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/6300de66-e767-4ce6-bf20-8ffac86df09f?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Property tax rise will push more landlords to sell, Healey warned",
+        "publicationDate": "2026-10-28",
+        "category": "Economy",
+        "summary": "Measure will yield £575mn for Treasury in 2028-29, but estate agents say it will add to pressures in private rental sector",
+        "url": "https://www.ft.com/content/6300de66-e767-4ce6-bf20-8ffac86df09f?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3d34364f-ef72-43b3-b3f8-3aa0305cca05?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US judge Alvin Hellerstein who oversaw Archegos and Maduro cases dies at 92",
         "publicationDate": "2026-10-28",
         "category": "Other",
-        "summary": "Alternative histories aren’t always written by the victors",
-        "url": "https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945"
+        "summary": "New York native presided over some of the most high-profile cases in recent American history",
+        "url": "https://www.ft.com/content/3d34364f-ef72-43b3-b3f8-3aa0305cca05?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Bolsonaro boards private jet from Argentina after fleeing Brazil",
-        "publicationDate": "2026-10-28",
-        "category": "Other",
-        "summary": "Losing presidential candidate and son of jailed ex-president Jair Bolsonaro flew to Ecuador on Tuesday night, said Argentine authorities",
-        "url": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1"
-    },
-    {
-        "id": "LSB11340",
+        "id": "IF11780",
         "source": "Congressional Research Service",
-        "title": "Environmental Justice and Title VI of the Civil Rights Act of 1964",
+        "title": "United Nations Issues: Overview of the United Nations System",
         "publicationDate": "2026-10-27",
-        "category": "Defense",
-        "summary": "During the Biden Administration, both the Environmental Protection Agency (EPA) and the Department of Justice (DOJ) sought to advance “environmental justice” goals using Title VI of the Civil Rights Act of 1964 (Title VI), which prohibits recipients of federal funds from discriminating on the basis of race, color, or national origin. While environmental justice is not defined in federal statute or regulation, the...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11340/LSB11340.2.pdf"
+        "category": "Economy",
+        "summary": "The United Nations (UN) system comprises interconnected entities including the United Nations, specialized agencies, peacekeeping operations, funds and programs, and other entities. Congress has generally supported the UN system and often uses UN mechanisms to further U.S. foreign policy objectives. At the same time, some Members have been critical of the organization, arguing that UN actions or decisions do not...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11780/IF11780.12.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4495-1.html",
@@ -288,40 +405,22 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4405-7.html"
     },
     {
-        "id": "https://www.cfr.org/articles/ten-poll-numbers-that-explain-the-2026-midterm-elections",
-        "source": "Council on Foreign Relations",
-        "title": "Ten Poll Numbers That Explain the 2026 Midterm Elections",
-        "publicationDate": "2026-10-27",
-        "category": "Article",
-        "summary": "Recent polling shows why Democrats think that Election Day could put them back in charge of Congress.",
-        "url": "https://www.cfr.org/articles/ten-poll-numbers-that-explain-the-2026-midterm-elections"
-    },
-    {
-        "id": "https://www.cfr.org/articles/latin-american-politics-are-shifting-to-the-right-whats-driving-this-trend",
-        "source": "Council on Foreign Relations",
-        "title": "Understanding Latin America’s Rightward Political Shift",
+        "id": "https://www.heritage.org/markets-and-finance/commentary/how-thaw-the-frozen-housing-market",
+        "source": "Heritage Foundation",
+        "title": "How to Thaw the Frozen Housing Market",
         "publicationDate": "2026-10-27",
         "category": "Economy",
-        "summary": "Latin America has experienced a rightward political shift in recent years, driven largely by voters’ growing concerns over crime, security, and the economy. Experts say the reelection of left-wing President Luiz Inácio Lula da Silva in Brazil bucks this trend, but doesn’t halt it.",
-        "url": "https://www.cfr.org/articles/latin-american-politics-are-shifting-to-the-right-whats-driving-this-trend"
+        "summary": "Today’s housing market is painful for just about everyone involved, from builders to buyers to sellers. Government failures over the last seven years froze the industry and made homeownership less affordable, but the problem could be solved if Congress would act. To understand the solution, though, we first must know how we got here. Beginning in 2020, Congress increased annual spending by trillions of dollars, and...",
+        "url": "https://www.heritage.org/markets-and-finance/commentary/how-thaw-the-frozen-housing-market"
     },
     {
-        "id": "https://www.cfr.org/articles/black-saturday-threatens-a-calamity-as-president-john-f-kennedy-makes-two-offers-cuban-missile-crisis-day-twelve",
-        "source": "Council on Foreign Relations",
-        "title": "“Black Saturday” Threatens a Calamity as President John F. Kennedy Makes Two Offers—Cuban Missile Crisis, Day Twelve",
+        "id": "https://www.heritage.org/defense/commentary/china-dominates-global-shipbuilding-and-the-united-states-ranks-14th-tonnage-the",
+        "source": "Heritage Foundation",
+        "title": "China Dominates Global Shipbuilding and the United States Ranks 14th by Tonnage. The Case for an Allied Counterweight.",
         "publicationDate": "2026-10-27",
-        "category": "Foreign Policy",
-        "summary": "Sometimes luck and personal courage matter as much as skillful diplomacy in preventing catastrophes.",
-        "url": "https://www.cfr.org/articles/black-saturday-threatens-a-calamity-as-president-john-f-kennedy-makes-two-offers-cuban-missile-crisis-day-twelve"
-    },
-    {
-        "id": "https://www.cfr.org/articles/how-do-americans-view-foreign-policy-ahead-of-the-midterms",
-        "source": "Council on Foreign Relations",
-        "title": "How Americans View Foreign Policy Ahead of the Midterms",
-        "publicationDate": "2026-10-27",
-        "category": "Foreign Policy",
-        "summary": "A Dispatch From Kenosha and Milwaukee Counties, Wisconsin",
-        "url": "https://www.cfr.org/articles/how-do-americans-view-foreign-policy-ahead-of-the-midterms"
+        "category": "Defense",
+        "summary": "On October 13, the Navy celebrated its 251st year , a birthday that predates our Republic by almost a year. President Trump used this historic moment to announce the opening of a new Baltimore shipyard and recommit to a national maritime revival he launched early in his second term. While the President’s commitment is vital, reviving America’s shipping and shipbuilding will take generations. Today America ranks...",
+        "url": "https://www.heritage.org/defense/commentary/china-dominates-global-shipbuilding-and-the-united-states-ranks-14th-tonnage-the"
     },
     {
         "id": "https://www.heritage.org/health-care-reform/commentary/why-maha-must-keep-conservative-roots",
@@ -376,15 +475,6 @@
         "category": "Defense",
         "summary": "China’s Coercion of Pratas and Other Taiwanese Outlying Islands, Kim Jong Un Alive and Visiting China, Major Joint US-Japan Military Exercises for a China Contingency bbert@hudson.org Tue, 10/27/2026 - 12:36 SVG Podcast Oct 27, 2026 Hudson Institute China’s Coercion of Pratas and Other Taiwanese Outlying Islands, Kim Jong Un Alive and Visiting China, Major Joint US-Japan Military Exercises for a China Contingency...",
         "url": "https://www.hudson.org/foreign-policy/chinas-coercion-pratas-other-taiwanese-outlying-islands-kim-jong-un-alive-visiting-miles-yu"
-    },
-    {
-        "id": "https://www.hudson.org/politics-government/brilliance-us-elections-miles-yu",
-        "source": "Hudson Institute",
-        "title": "The Brilliance of US Elections",
-        "publicationDate": "2026-10-27",
-        "category": "Economy",
-        "summary": "The Brilliance of US Elections bbert@hudson.org Tue, 10/27/2026 - 12:17 SVG Commentary Oct 26, 2026 Washington Times The Brilliance of US Elections When government cannot be voted out, malfeasance can become catastrophic Miles Yu Senior Fellow and Director, China Center Miles Yu Commentary Caption Voters fill out their ballots at a polling station in the Hillsboro Old Stone School on November 4, 2025, in Hillsboro,...",
-        "url": "https://www.hudson.org/politics-government/brilliance-us-elections-miles-yu"
     },
     {
         "id": "https://cms.hoover.org/research/prop-41-special-tax-audits-and-spending-limit-lock",
@@ -450,78 +540,6 @@
         "url": "https://www.pbs.org/newshour/show/poll-gauges-voter-enthusiasm-for-both-parties-a-week-before-election"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/grand-jury-refuses-to-indict-former-white-house-aide-cassidy-hutchinson-ap-sources-say",
-        "source": "PBS NewsHour Politics",
-        "title": "Grand jury refuses to indict former White House aide Cassidy Hutchinson, AP sources say",
-        "publicationDate": "2026-10-27",
-        "category": "Capitol insurrection",
-        "summary": "It's the latest setback in the Justice Department's efforts to charge Trump's perceived adversaries.",
-        "url": "https://www.pbs.org/newshour/politics/grand-jury-refuses-to-indict-former-white-house-aide-cassidy-hutchinson-ap-sources-say"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/inside-georgias-push-to-rebuild-trust-in-elections-after-trumps-false-claims",
-        "source": "PBS NewsHour Politics",
-        "title": "Inside Georgia's push to rebuild trust in elections after Trump's false claims",
-        "publicationDate": "2026-10-27",
-        "category": "election security",
-        "summary": "The Trump administration has stepped up efforts to challenge the integrity of elections and assert greater control over how they are conducted. Georgia has been at the center of that debate ever since Trump's false claims about the state's role in the 2020 election. In partnership with the Pulitzer Center, Liz Landers looks at how Georgia is working to restore confidence in the voting process.",
-        "url": "https://www.pbs.org/newshour/show/inside-georgias-push-to-rebuild-trust-in-elections-after-trumps-false-claims"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/why-trumps-coalition-of-evangelical-voters-could-be-fraying",
-        "source": "PBS NewsHour Politics",
-        "title": "Why Trump's coalition of evangelical voters could be fraying",
-        "publicationDate": "2026-10-27",
-        "category": "Donald Trump news",
-        "summary": "White evangelical Christians have been among President Trump's most loyal supporters for more than a decade, and our new PBS News/NPR/Marist poll shows that most still approve of him. But signs of slippage are emerging ahead of the midterms. Stephanie Sy reports on the overlap of politics and faith.",
-        "url": "https://www.pbs.org/newshour/show/why-trumps-coalition-of-evangelical-voters-could-be-fraying"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-        "publicationDate": "2026-10-27",
-        "category": "Foreign Policy",
-        "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-        "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "IF13337",
-        "source": "Congressional Research Service",
-        "title": "Proposed Rule Affecting Noncitizen Eligibility for Refundable Tax Credits",
-        "publicationDate": "2026-10-26",
-        "category": "Economy",
-        "summary": "On August 17, 2026, the U.S. Department of the Treasury proposed a new rule that would make some noncitizens ineligible for the portion of certain refundable tax credits that exceed the taxpayer’s income tax liability. It would do so by applying the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA; P.L. 104-193)—which makes certain noncitizens ineligible for federal public benefits—to...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13337/IF13337.3.pdf"
-    },
-    {
-        "id": "IN12749",
-        "source": "Congressional Research Service",
-        "title": "Confirmation of U.S. Circuit and District Court Nominations During Lame Duck Sessions of Congress (1946-2024)",
-        "publicationDate": "2026-10-26",
-        "category": "Foreign Policy",
-        "summary": "This Insight provides information and analysis related to U.S. circuit and district court nominations confirmed during lame duck sessions held by the Senate during the postwar period (i.e., since 1946). For the purpose of this Insight, a lame duck session is defined as any portion of a Congress’s regular session that occurs after the general election in November but before the end of its constitutional term on...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12749/IN12749.2.pdf"
-    },
-    {
-        "id": "R46413",
-        "source": "Congressional Research Service",
-        "title": "Election Day: Frequently Asked Questions",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "Election Day is the day legally established to select public officials in the United States. General elections for federal offices—President, Vice President, and U.S. Congress—are held on the Tuesday after the first Monday in November in even-numbered years. Citizens vote for President and Vice President every four years, Representatives every two years, and Senators every six years. This excludes special elections...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46413/R46413.11.pdf"
-    },
-    {
-        "id": "R49493",
-        "source": "Congressional Research Service",
-        "title": "Crime by the Numbers: Hate Crime, 2015-2024",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "The Federal Bureau of Investigation (FBI) started its hate crime statistics program pursuant to the Hate Crime Statistics Act of 1990 (HCSA; P.L. 101-275). The HCSA directs the U.S. Department of Justice (DOJ) to acquire and report data on crimes that “manifest evidence of prejudice based on race, gender and gender identity, religion, disability, sexual orientation, or ethnicity, including where appropriate the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49493/R49493.2.pdf"
-    },
-    {
         "id": "https://www.heritage.org/crime-and-justice/report/the-supreme-court-must-rein-the-district-columbia-court-appeals",
         "source": "Heritage Foundation",
         "title": "The Supreme Court Must Rein in the District of Columbia Court of Appeals",
@@ -529,24 +547,6 @@
         "category": "Defense",
         "summary": "Introduction The Supreme Court of the United States serves as the ultimate guardian of constitutional rights and the uniformity of federal law. Yet its oversight of criminal cases originating from D.C.’s highest court, the District of Columbia Court of Appeals (DCCA), is alarmingly rare. Since 1970 when the District of Columbia Court of Appeals was created, the United States Supreme Court has granted certiorari in...",
         "url": "https://www.heritage.org/crime-and-justice/report/the-supreme-court-must-rein-the-district-columbia-court-appeals"
-    },
-    {
-        "id": "https://www.heritage.org/antisemitism/report/the-american-jewish-experience-testament-the-founders-vision",
-        "source": "Heritage Foundation",
-        "title": "The American Jewish Experience: A Testament to the Founders’ Vision",
-        "publicationDate": "2026-10-22",
-        "category": "Defense",
-        "summary": "Introduction The American Jewish experience is one of the clearest historical tests of the Founders’ design. As the United States marks 250 years of independence amid renewed antisemitism, civic fragmentation, and historical amnesia, the point is not academic. It goes to the heart of what belonging, responsibility, and the promise of the republic truly mean. America did not abolish prejudice, and it did not always...",
-        "url": "https://www.heritage.org/antisemitism/report/the-american-jewish-experience-testament-the-founders-vision"
-    },
-    {
-        "id": "https://www.heritage.org/defense/commentary/why-the-us-air-force-needs-more-c-17-globemasters",
-        "source": "Heritage Foundation",
-        "title": "Why the U.S. Air Force Needs More C-17 Globemasters",
-        "publicationDate": "2026-10-22",
-        "category": "Defense",
-        "summary": "For decades, the United States has contended with smaller adversaries without the ability to disrupt U.S. aerial logistics. It will not have that luxury in a great-power conflict with China. In a potential conflict with China, the United States would need to rapidly mass men and equipment throughout the Western Pacific, covering vast distances in a far more challenging geographic environment than the Middle Eastern...",
-        "url": "https://www.heritage.org/defense/commentary/why-the-us-air-force-needs-more-c-17-globemasters"
     },
     {
         "id": "https://www.cer.eu/sign-cer-mailing-list",
