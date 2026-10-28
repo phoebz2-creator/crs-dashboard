@@ -1,147 +1,273 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA5006-1.html",
+        "source": "RAND Corporation",
+        "title": "Anticipating Allies’ Responses to U.S. Retrenchment from Europe",
+        "publicationDate": "2026-10-28",
+        "category": "Defense",
+        "summary": "The authors of this report examine how four key NATO allies are likely to respond to U.S. retrenchment from Europe and how the United States can maintain a partnership with Europe while reducing the U.S. military role there.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5006-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4445-2.html",
+        "source": "RAND Corporation",
+        "title": "Evaluation of Texas’s Student Success Acceleration Program 2.0",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "RAND’s evaluation of 33 Texas student success programs found positive student experiences and promising early academic associations, with lessons for strengthening implementation and sustainability.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4445-2.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA5007-1.html",
+        "source": "RAND Corporation",
+        "title": "The Los Angeles Unified School District Community Schools Initiative",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "RAND researchers evaluate the implementation and impact of a Los Angeles program in which community schools partner with community-based organizations to promote student achievement and whole-child well-being.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA5007-1.html"
+    },
+    {
         "id": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era",
         "source": "Council on Foreign Relations",
         "title": "Serbia Election Marks the End of an Era",
         "publicationDate": "2026-10-28",
         "category": "Article",
-        "summary": "The country’s student-led opposition movement secured a historic victory in parliamentary elections. But the new government will have its work cut out, says CFR senior fellow Charles Kupchan.",
+        "summary": "The country’s student-led opposition movement secured a historic victory in parliamentary elections. But the new government will have its work cut out, says CFR Senior Fellow Charles Kupchan.",
         "url": "https://www.cfr.org/articles/serbia-election-marks-the-end-of-an-era"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6176856-trump-talarico-texas-senate-rallies/",
+        "id": "https://www.cer.eu/php-mailing-issue",
+        "source": "Centre for European Reform",
+        "title": "PHP mailing issue",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://www.cer.eu/php-mailing-issue"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+        "source": "NPR Politics",
+        "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+        "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
+        "source": "NPR Politics",
+        "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
+        "publicationDate": "2026-10-28",
+        "category": "Healthcare",
+        "summary": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home.",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+        "source": "NPR Politics",
+        "title": "Why many student voters have a right to choose where to register to vote",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students' rights.",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
+        "source": "NPR Politics",
+        "title": "Here's how Democrats in Congress are preparing for election fraud claims",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud.",
+        "url": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+        "source": "NPR Politics",
+        "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6177318-peggy-flanagan-leads-minnesota-senate-poll/",
         "source": "The Hill",
-        "title": "Trump and Talarico hold dueling Texas rallies",
+        "title": "Democrat Flanagan leads in Minnesota Senate race by double digits: Poll",
         "publicationDate": "2026-10-28",
         "category": "Campaign",
-        "summary": "President Trump and Texas Senate candidate James Talarico (D) shared their competing visions Tuesday as the two held dueling rallies in the Lone Star State one week before the midterm elections. Trump did two rallies in Texas — the first in Corpus Christi and another in Lubbock. It’s his fourth trip to Texas to support...",
-        "url": "https://thehill.com/homenews/campaign/6176856-trump-talarico-texas-senate-rallies/"
+        "summary": "Democrat Peggy Flanagan is leading in the Minnesota Senate race against her GOP competitor Michele Tafoya, according to a new poll. In The New York Times/Siena University poll, 54 percent of respondents said they were more likely to cast their ballot for Flanagan if Election Day was that day, while 40 percent said the same...",
+        "url": "https://thehill.com/homenews/campaign/6177318-peggy-flanagan-leads-minnesota-senate-poll/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6176842-trump-jokes-ted-cruz-scotus/",
+        "id": "https://thehill.com/opinion/international/6175287-around-the-world-voters-are-embracing-democracy/",
         "source": "The Hill",
-        "title": "Trump reups calls to put Cruz on Supreme Court in vacancy scenario",
+        "title": "Around the world, voters are embracing democracy",
         "publicationDate": "2026-10-28",
-        "category": "Administration",
-        "summary": "President Trump joked Tuesday that Sen. Ted Cruz (R-Texas) would be his pick for the next Supreme Court vacancy, saying the senator could get unanimously confirmed because lawmakers in both parties would jump at the chance to get rid of him in Congress. During a midterm rally in Lubbock, Texas, the president praised Cruz as...",
-        "url": "https://thehill.com/homenews/administration/6176842-trump-jokes-ted-cruz-scotus/"
+        "category": "Foreign Policy",
+        "summary": "With rising gas and cost-of-living prices, war in Iran, corruption in the White House, AI's threat to the job market and energy-guzzling data centers warming the planet, Americans may well be on the cusp of demanding radical change.",
+        "url": "https://thehill.com/opinion/international/6175287-around-the-world-voters-are-embracing-democracy/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
+        "id": "https://thehill.com/homenews/campaign/6177199-darline-graham-annie-andrews-south-carolina-senate-race-survey/",
         "source": "The Hill",
-        "title": "Federal grand jury declines to indict Cassidy Hutchinson",
-        "publicationDate": "2026-10-28",
-        "category": "Administration",
-        "summary": "A federal grand jury in Washington, D.C., on Tuesday rejected the Justice Department’s attempt to indict former White House aide Cassidy Hutchinson over her testimony to lawmakers about President Trump’s actions during the Jan. 6, 2021, attack on the Capitol. Justice Department attorney Neville Hedley told U.S. Magistrate Judge Zia Faruqui that the grand jury...",
-        "url": "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6176771-murkowski-endorses-democrat-kreiss-tomkins/",
-        "source": "The Hill",
-        "title": "Murkowski backs Alaska Democrat for governor",
+        "title": "South Carolina Senate race deadlocked: Survey",
         "publicationDate": "2026-10-28",
         "category": "Campaign",
-        "summary": "Sen. Lisa Murkowski (R-Alaska) endorsed Democrat Jonathan Kreiss-Tomkins in Alaska’s governor’s race Tuesday, crossing party lines to back the former state lawmaker over three Republican candidates. In a statement released by Kreiss-Tomkins’ campaign, Murkowski praised the Democrat for his commitment to bipartisanship, arguing that Alaska needs a governor willing to work with lawmakers from both...",
-        "url": "https://thehill.com/homenews/campaign/6176771-murkowski-endorses-democrat-kreiss-tomkins/"
+        "summary": "Sen. Darline Graham (R-S.C.) and Democratic Senate hopeful Annie Andrews are deadlocked in the Palmetto State race with less than a week before Election Day, according to a new survey. The New York Times/Siena University poll, released Wednesday, shows both candidates with 48 percent support among likely voters in South Carolina — which has not...",
+        "url": "https://thehill.com/homenews/campaign/6177199-darline-graham-annie-andrews-south-carolina-senate-race-survey/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6176705-johnson-promises-peaceful-transfer-power/",
+        "id": "https://thehill.com/homenews/administration/6177160-trump-approves-flavio-bolsonaro-us/",
         "source": "The Hill",
-        "title": "Johnson says there will be 'peaceful transfer of power' on Jan 3",
+        "title": "Trump says he approves of Bolsonaro coming to US",
         "publicationDate": "2026-10-28",
-        "category": "House",
-        "summary": "House Speaker Mike Johnson (R-La.) said Tuesday that there will be a “peaceful transfer of power” when new House members are set to join the lower chamber next year. “Of course, we'll have a peaceful transfer of power, but it will not be transferring because we are going to keep the majority, and I'm going...",
-        "url": "https://thehill.com/homenews/house/6176705-johnson-promises-peaceful-transfer-power/"
+        "category": "Defense",
+        "summary": "President Trump on Tuesday said he approves of former Brazilian presidential candidate Flávio Bolsonaro entering the U.S. after his runoff election loss to incumbent President Luiz Inácio Lula da Silva earlier this week. \"Well, I would approve,\" Trump told reporters outside Air Force One at Joint Base Andrews. \"I think they're fine people. The election was...",
+        "url": "https://thehill.com/homenews/administration/6177160-trump-approves-flavio-bolsonaro-us/"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/27/us/elections/paxton-talarico-texas-senate-rally-lubbock.html",
+        "id": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/",
+        "source": "The Hill",
+        "title": "Live updates: Trump, Obama campaign in midterm sprint; Murkowski backs Dem in Alaska governor's race",
+        "publicationDate": "2026-10-28",
+        "category": "State Watch",
+        "summary": "Former President Obama is stopping in Atlanta on Wednesday — less than a week out from Election Day — to give a boost to Democrat Keisha Lance Bottoms, who's running for Georgia governor, and incumbent Sen. Jon Ossoff (D). Obama's visit to the Peach State comes just a few days after his quippy speech at...",
+        "url": "https://thehill.com/homenews/state-watch/6176665-live-updates-trump-obama-midterm-elections-fed-interest-rate/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
         "source": "New York Times Politics",
-        "title": "Texas Senate Rivals Converge on Lubbock, With Trump in the Mix",
+        "title": "U.S. Restricts Trade With Chinese Genomics Company",
+        "publicationDate": "2026-10-28",
+        "category": "Forced Labor",
+        "summary": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups.",
+        "url": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/28/podcasts/the-daily/collins-sununu-republican-midterms.html",
+        "source": "New York Times Politics",
+        "title": "Is Running From Trump Enough to Save Republicans on Tuesday?",
         "publicationDate": "2026-10-28",
         "category": "United States Politics and Government",
-        "summary": "It was a showdown of sorts in western Texas as James Talarico and Ken Paxton appeared at dueling rallies on either side of a prairie-dog-filled city park.",
-        "url": "https://www.nytimes.com/2026/10/27/us/elections/paxton-talarico-texas-senate-rally-lubbock.html"
+        "summary": "A look at candidates from President Trump’s party who are running on a platform of criticizing him.",
+        "url": "https://www.nytimes.com/2026/10/28/podcasts/the-daily/collins-sununu-republican-midterms.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/27/business/media/candace-owens-macron-defamation-case.html",
+        "id": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html",
         "source": "New York Times Politics",
-        "title": "Judge Limits Candace Owens’s Liability in Macron Defamation Case",
+        "title": "What Our New Senate Polls Tell Us About the State of the Midterms",
         "publicationDate": "2026-10-28",
-        "category": "Decisions and Verdicts",
-        "summary": "The French president, Emmanuel Macron, and his wife, Brigitte, sued Candace Owens in 2025 over claims she made about Ms. Macron’s gender. A judge said the court had jurisdiction over her companies but not her.",
-        "url": "https://www.nytimes.com/2026/10/27/business/media/candace-owens-macron-defamation-case.html"
+        "category": "Polls and Public Opinion",
+        "summary": "South Carolina seems like a serious race; Minnesota may not be; and Florida still appears out of reach for Democrats.",
+        "url": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html",
+        "id": "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html",
         "source": "New York Times Politics",
-        "title": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers",
+        "title": "Byron Donalds Holds Slim Lead in Florida’s Race for Governor",
         "publicationDate": "2026-10-28",
-        "category": "Defense",
-        "summary": "The estimate through Oct. 16 shows that bombs, missiles and other munitions accounted for more than 60 percent of expenses.",
-        "url": "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html"
+        "category": "United States Politics and Government",
+        "summary": "New polls in Florida, South Carolina and Minnesota illuminate the head winds that Republicans are facing.",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html",
+        "id": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html",
         "source": "New York Times Politics",
-        "title": "Judge Questions Trump Administration’s Need to Target Noncitizen Voters",
+        "title": "Can You Trust the Midterm Polls? Three Times Journalists Talk It Out.",
         "publicationDate": "2026-10-28",
-        "category": "Federal-State Relations (US)",
-        "summary": "In the legal tangle between the Justice Department and California, a federal judge on Tuesday deferred a ruling but said the government already had a remedy it could use after the election.",
-        "url": "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html"
+        "category": "New York Times/Siena College Poll",
+        "summary": "Members of the team behind the Times/Siena Poll on what the data show, how they’ve improved their methodology and what it means to be “right.”",
+        "url": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/10/27/us/politics/us-military-cartels-caribbean.html",
-        "source": "New York Times Politics",
-        "title": "U.S. Defends Military Campaign Against Cartels as Leaders Gather in Caribbean",
-        "publicationDate": "2026-10-28",
-        "category": "Defense",
-        "summary": "A regional coalition convened as part of a U.S. military effort to disrupt and combat drug traffickers that officials have compared to the campaign against the Islamic State and Al Qaeda.",
-        "url": "https://www.nytimes.com/2026/10/27/us/politics/us-military-cartels-caribbean.html"
-    },
-    {
-        "id": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "No clear winner in Israeli election, exit polls suggest",
+        "id": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
         "publicationDate": "2026-10-28",
         "category": "Other",
-        "summary": "Benjamin Netanyahu urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority",
-        "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1"
+        "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+        "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/efbe2a33-8a12-4d71-9599-26c86b9d8a0f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "EU spars over ‘associate member’ label for Canada on eve of Carney summit",
+        "id": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
         "publicationDate": "2026-10-28",
         "category": "Other",
-        "summary": "Also in this newsletter: Industry bosses warn plan to limit gas-fired power prices will distort Europe’s electricity market",
-        "url": "https://www.ft.com/content/efbe2a33-8a12-4d71-9599-26c86b9d8a0f?syn-25a6b1a6=1"
+        "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/fadbee3f-16cd-4892-a41f-7d6682b77e4d?syn-25a6b1a6=1",
+        "id": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
+        "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/0d5d33b5-a988-4692-b2e6-677d87f9bbb0?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "FirstFT: Israel’s election deadlock",
+        "title": "Budget in brief: what you need to know",
         "publicationDate": "2026-10-28",
         "category": "Economy",
-        "summary": "Also in today’s newsletter: UK Budget day and Russia-US energy deals",
-        "url": "https://www.ft.com/content/fadbee3f-16cd-4892-a41f-7d6682b77e4d?syn-25a6b1a6=1"
+        "summary": "A quick guide to John Healey’s main policy announcements and official economic forecasts",
+        "url": "https://www.ft.com/content/0d5d33b5-a988-4692-b2e6-677d87f9bbb0?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/e464d3da-dad9-4fa3-b99f-1b89fdd1e2a4",
+        "id": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "BoE to kick off short and precautionary tightening cycle in November",
+        "title": "Peltz’s Trian makes $3.8bn take-private offer for fast-food chain Wendy’s",
         "publicationDate": "2026-10-28",
         "category": "Other",
-        "summary": "Read the BoE’s October forecast from the FT’s Monetary Policy Radar team",
-        "url": "https://www.ft.com/content/e464d3da-dad9-4fa3-b99f-1b89fdd1e2a4"
+        "summary": "Approach marks latest episode in investment firm’s longstanding involvement with the burger and shake company",
+        "url": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15",
+        "id": "https://www.ft.com/content/80acb561-34e2-4b71-b4b3-b564f3ec54ce?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Israel’s election: What happens next?",
+        "title": "Healey hits banks and savers with tax rises in Budget ‘for working people’",
+        "publicationDate": "2026-10-28",
+        "category": "Economy",
+        "summary": "Follow live: Chancellor sets out help for households and businesses while hitting lenders and taxing income from savings and property",
+        "url": "https://www.ft.com/content/80acb561-34e2-4b71-b4b3-b564f3ec54ce?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945",
+        "source": "Financial Times World",
+        "title": "We read Liz Truss’s book so you don’t have to",
         "publicationDate": "2026-10-28",
         "category": "Other",
-        "summary": "Exit polls suggest neither Prime Minister Benjamin Netanyahu nor his rivals have a simple path to form a government",
-        "url": "https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15"
+        "summary": "Alternative histories aren’t always written by the victors",
+        "url": "https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945"
+    },
+    {
+        "id": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Bolsonaro boards private jet from Argentina after fleeing Brazil",
+        "publicationDate": "2026-10-28",
+        "category": "Other",
+        "summary": "Losing presidential candidate and son of jailed ex-president Jair Bolsonaro flew to Ecuador on Tuesday night, said Argentine authorities",
+        "url": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1"
+    },
+    {
+        "id": "LSB11340",
+        "source": "Congressional Research Service",
+        "title": "Environmental Justice and Title VI of the Civil Rights Act of 1964",
+        "publicationDate": "2026-10-27",
+        "category": "Defense",
+        "summary": "During the Biden Administration, both the Environmental Protection Agency (EPA) and the Department of Justice (DOJ) sought to advance “environmental justice” goals using Title VI of the Civil Rights Act of 1964 (Title VI), which prohibits recipients of federal funds from discriminating on the basis of race, color, or national origin. While environmental justice is not defined in federal statute or regulation, the...",
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11340/LSB11340.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4495-1.html",
@@ -225,6 +351,15 @@
         "url": "https://www.hudson.org/national-security-defense/irans-maritime-threat-conflict-yemen-can-kasapoglu"
     },
     {
+        "id": "https://www.hudson.org/national-security-defense/australia-japan-formalizing-informal-alliance-james-przystup",
+        "source": "Hudson Institute",
+        "title": "Australia and Japan: Formalizing an Informal Alliance",
+        "publicationDate": "2026-10-27",
+        "category": "Defense",
+        "summary": "Australia and Japan: Formalizing an Informal Alliance bbert@hudson.org Tue, 10/27/2026 - 13:49 SVG Reports Oct 28, 2026 Hudson Institute Australia and Japan: Formalizing an Informal Alliance James J. Przystup Senior Fellow, Japan Chair James J. Przystup Reports Caption Japan’s Defence Minister Shinjiro Koizumi and Australia’s Defence Minister Richard Marles review honor guards during a welcome ceremony at the...",
+        "url": "https://www.hudson.org/national-security-defense/australia-japan-formalizing-informal-alliance-james-przystup"
+    },
+    {
         "id": "https://www.hudson.org/national-security-defense/iran-threatens-americans-abroad-first-lady-brokers-peace-agreement-rebeccah-heinrichs",
         "source": "Hudson Institute",
         "title": "Iran Threatens Americans Abroad and First Lady Brokers Peace Agreement",
@@ -250,15 +385,6 @@
         "category": "Economy",
         "summary": "The Brilliance of US Elections bbert@hudson.org Tue, 10/27/2026 - 12:17 SVG Commentary Oct 26, 2026 Washington Times The Brilliance of US Elections When government cannot be voted out, malfeasance can become catastrophic Miles Yu Senior Fellow and Director, China Center Miles Yu Commentary Caption Voters fill out their ballots at a polling station in the Hillsboro Old Stone School on November 4, 2025, in Hillsboro,...",
         "url": "https://www.hudson.org/politics-government/brilliance-us-elections-miles-yu"
-    },
-    {
-        "id": "https://www.hudson.org/politics-government/common-ground-lula-trump-walter-russell-mead",
-        "source": "Hudson Institute",
-        "title": "The Common Ground for Lula and Trump",
-        "publicationDate": "2026-10-27",
-        "category": "Foreign Policy",
-        "summary": "The Common Ground for Lula and Trump bbert@hudson.org Tue, 10/27/2026 - 12:09 SVG Commentary Oct 26, 2026 Wall Street Journal The Common Ground for Lula and Trump They can agree on producing more fuel and protecting Venezuela from chaos. Walter Russell Mead Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship Walter Russell Mead Commentary Caption Presidential candidate and incumbent president...",
-        "url": "https://www.hudson.org/politics-government/common-ground-lula-trump-walter-russell-mead"
     },
     {
         "id": "https://cms.hoover.org/research/prop-41-special-tax-audits-and-spending-limit-lock",
@@ -306,51 +432,6 @@
         "url": "https://cms.hoover.org/research/putins-strategy-working"
     },
     {
-        "id": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-        "source": "NPR Politics",
-        "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-        "publicationDate": "2026-10-27",
-        "category": "Other",
-        "summary": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
-        "url": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
-        "source": "NPR Politics",
-        "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-        "publicationDate": "2026-10-27",
-        "category": "Other",
-        "summary": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
-        "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
-        "source": "NPR Politics",
-        "title": "Polymarket has investigated 'dozens' of election-related cases",
-        "publicationDate": "2026-10-27",
-        "category": "Other",
-        "summary": "The prediction market has hired a former FBI official to make sure political insiders don't use the platform for profit from confidential election information.",
-        "url": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
-        "source": "NPR Politics",
-        "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
-        "publicationDate": "2026-10-27",
-        "category": "Other",
-        "summary": "Democrats hold significant advantages going into Election Day, according to a new NPR/PBS News/Marist poll. But lagging enthusiasm among key groups is just one indicator that gains may not come easy.",
-        "url": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
-        "source": "NPR Politics",
-        "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
-        "publicationDate": "2026-10-27",
-        "category": "Other",
-        "summary": "Mississippi has the largest proportional Black population in the country. It's one reason the U.S. Senate race has seen millions in last-minute spending and high-profile campaign visits.",
-        "url": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/democrats-put-economy-and-affordability-at-center-of-final-campaign-push",
         "source": "PBS NewsHour Politics",
         "title": "Democrats put economy and affordability at center of final campaign push",
@@ -396,15 +477,6 @@
         "url": "https://www.pbs.org/newshour/show/why-trumps-coalition-of-evangelical-voters-could-be-fraying"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Norway and Finland leaders hold rare call with Putin",
-        "publicationDate": "2026-10-27",
-        "category": "Foreign Policy",
-        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -414,40 +486,40 @@
         "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-        "publicationDate": "2026-10-27",
-        "category": "Foreign Policy",
-        "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
-        "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-        "publicationDate": "2026-10-27",
-        "category": "Other",
-        "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-        "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Dutch zookeeper dies after being mauled by leopard",
-        "publicationDate": "2026-10-27",
-        "category": "Other",
-        "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-        "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4570-1.html",
-        "source": "RAND Corporation",
-        "title": "China's Local Government Debt",
+        "id": "IF13337",
+        "source": "Congressional Research Service",
+        "title": "Proposed Rule Affecting Noncitizen Eligibility for Refundable Tax Credits",
         "publicationDate": "2026-10-26",
         "category": "Economy",
-        "summary": "The authors of this report examine China’s local government debt and efforts to address it, including off-balance-sheet borrowing, and assess implications for China’s fiscal stability and economic adjustment and competition with the United States.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4570-1.html"
+        "summary": "On August 17, 2026, the U.S. Department of the Treasury proposed a new rule that would make some noncitizens ineligible for the portion of certain refundable tax credits that exceed the taxpayer’s income tax liability. It would do so by applying the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA; P.L. 104-193)—which makes certain noncitizens ineligible for federal public benefits—to...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13337/IF13337.3.pdf"
+    },
+    {
+        "id": "IN12749",
+        "source": "Congressional Research Service",
+        "title": "Confirmation of U.S. Circuit and District Court Nominations During Lame Duck Sessions of Congress (1946-2024)",
+        "publicationDate": "2026-10-26",
+        "category": "Foreign Policy",
+        "summary": "This Insight provides information and analysis related to U.S. circuit and district court nominations confirmed during lame duck sessions held by the Senate during the postwar period (i.e., since 1946). For the purpose of this Insight, a lame duck session is defined as any portion of a Congress’s regular session that occurs after the general election in November but before the end of its constitutional term on...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12749/IN12749.2.pdf"
+    },
+    {
+        "id": "R46413",
+        "source": "Congressional Research Service",
+        "title": "Election Day: Frequently Asked Questions",
+        "publicationDate": "2026-10-26",
+        "category": "Other",
+        "summary": "Election Day is the day legally established to select public officials in the United States. General elections for federal offices—President, Vice President, and U.S. Congress—are held on the Tuesday after the first Monday in November in even-numbered years. Citizens vote for President and Vice President every four years, Representatives every two years, and Senators every six years. This excludes special elections...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46413/R46413.11.pdf"
+    },
+    {
+        "id": "R49493",
+        "source": "Congressional Research Service",
+        "title": "Crime by the Numbers: Hate Crime, 2015-2024",
+        "publicationDate": "2026-10-26",
+        "category": "Other",
+        "summary": "The Federal Bureau of Investigation (FBI) started its hate crime statistics program pursuant to the Hate Crime Statistics Act of 1990 (HCSA; P.L. 101-275). The HCSA directs the U.S. Department of Justice (DOJ) to acquire and report data on crimes that “manifest evidence of prejudice based on race, gender and gender identity, religion, disability, sexual orientation, or ethnicity, including where appropriate the...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49493/R49493.2.pdf"
     },
     {
         "id": "https://www.heritage.org/crime-and-justice/report/the-supreme-court-must-rein-the-district-columbia-court-appeals",
@@ -457,15 +529,6 @@
         "category": "Defense",
         "summary": "Introduction The Supreme Court of the United States serves as the ultimate guardian of constitutional rights and the uniformity of federal law. Yet its oversight of criminal cases originating from D.C.’s highest court, the District of Columbia Court of Appeals (DCCA), is alarmingly rare. Since 1970 when the District of Columbia Court of Appeals was created, the United States Supreme Court has granted certiorari in...",
         "url": "https://www.heritage.org/crime-and-justice/report/the-supreme-court-must-rein-the-district-columbia-court-appeals"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA3964-1.html",
-        "source": "RAND Corporation",
-        "title": "Towards a new framework for nuclear deterrence in Europe",
-        "publicationDate": "2026-10-22",
-        "category": "Foreign Policy",
-        "summary": "This study explores European NATO Allies’ views of Russian nuclear policy and the role of the UK and France in NATO’s nuclear posture, and it sets out six conceptual questions to guide discussions of a future nuclear deterrence framework in Europe.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA3964-1.html"
     },
     {
         "id": "https://www.heritage.org/antisemitism/report/the-american-jewish-experience-testament-the-founders-vision",
@@ -484,15 +547,6 @@
         "category": "Defense",
         "summary": "For decades, the United States has contended with smaller adversaries without the ability to disrupt U.S. aerial logistics. It will not have that luxury in a great-power conflict with China. In a potential conflict with China, the United States would need to rapidly mass men and equipment throughout the Western Pacific, covering vast distances in a far more challenging geographic environment than the Middle Eastern...",
         "url": "https://www.heritage.org/defense/commentary/why-the-us-air-force-needs-more-c-17-globemasters"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4411-6.html",
-        "source": "RAND Corporation",
-        "title": "American Mathematics Educator Survey",
-        "publicationDate": "2026-10-21",
-        "category": "Other",
-        "summary": "This technical report presents information about the sample, survey instruments, and data for the 2026 American Mathematics Educator Study surveys that were administered to principals and teachers in spring 2026 via the American Educator Panels.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4411-6.html"
     },
     {
         "id": "https://www.cer.eu/sign-cer-mailing-list",
@@ -529,14 +583,5 @@
         "category": "Foreign Policy",
         "summary": "Ian Bond deputy director of the CER spoke alongside the Lithuanian Vice Foreign Minister Lina Rukštelienė in a discussion with Yaroslav Trofimov on Ukraine's future as a pillar of European security (from 4:35:40 mins). Ian Bond 10 September 2026",
         "url": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security"
-    },
-    {
-        "id": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe",
-        "source": "Centre for European Reform",
-        "title": "VRT Max: Radio 1: Europese kwaliteit boven Chinese prijzen: Europese Commissie presenteert nieuwe regels rond openbare aanbestedingen",
-        "publicationDate": "2026-09-10",
-        "category": "Foreign Policy",
-        "summary": "De Europese Commissie heeft nieuwe regels voorgesteld rond openbare aanbestedingen. De focus ligt daarbij meer op Europese productie en de mogelijkheid om China uit de markt te weren. Sander Tordoir, hoofdeconoom van de Europese denktank Centre for European Reform: \"In feite trekt Europa hiermee het speelveld gelijk.\" Sander Tordoir View multimedia 09 September 2026",
-        "url": "https://www.cer.eu/media/vrt-max-radio-1-europese-kwaliteit-boven-chinese-prijzen-europese-commissie-presenteert-nieuwe"
     }
 ]
