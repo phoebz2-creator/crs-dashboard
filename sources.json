@@ -1,5 +1,50 @@
 [
     {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4215-1.html",
+        "source": "RAND Corporation",
+        "title": "Enhancing Leadership Selection",
+        "publicationDate": "2026-10-29",
+        "category": "Other",
+        "summary": "This report supports a comprehensive leadership assessment program for squadron command by identifying key competencies and derailing behaviors and by reviewing assessment methods that could improve the selection of effective squadron commanders.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4215-1.html"
+    },
+    {
+        "id": "https://www.rand.org/pubs/research_reports/RRA4803-1.html",
+        "source": "RAND Corporation",
+        "title": "An Updated Look at Excess Spending and Affordability in California's Health Care System",
+        "publicationDate": "2026-10-29",
+        "category": "Healthcare",
+        "summary": "Although health care coverage has improved, affordability remains a pressing concern. In this report, the authors analyze health care spending trends in California to estimate the share of spending that could be considered excessive or unnecessary.",
+        "url": "https://www.rand.org/pubs/research_reports/RRA4803-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/the-quiet-power-of-international-orders",
+        "source": "Council on Foreign Relations",
+        "title": "The Quiet Power of International Orders",
+        "publicationDate": "2026-10-29",
+        "category": "Foreign Policy",
+        "summary": "What 2 percent milk reveals about our system of rules and norms.",
+        "url": "https://www.cfr.org/articles/the-quiet-power-of-international-orders"
+    },
+    {
+        "id": "https://www.cfr.org/articles/what-do-americans-want-from-our-foreign-policy",
+        "source": "Council on Foreign Relations",
+        "title": "What Do Americans Actually Want From Our Foreign Policy",
+        "publicationDate": "2026-10-29",
+        "category": "Foreign Policy",
+        "summary": "Description not available from the source feed.",
+        "url": "https://www.cfr.org/articles/what-do-americans-want-from-our-foreign-policy"
+    },
+    {
+        "id": "https://www.cfr.org/articles/soviet-tactical-nuclear-weapons-in-cuba-cuban-missile-crisis-a-coda",
+        "source": "Council on Foreign Relations",
+        "title": "Soviet Tactical Nuclear Weapons in Cuba—Cuban Missile Crisis, a Coda",
+        "publicationDate": "2026-10-29",
+        "category": "Article",
+        "summary": "An admission thirty years after the fact revealed that President John F. Kennedy came closer to nuclear war in October 1962 than he and his advisors imagined because they failed to ask what they did not know.",
+        "url": "https://www.cfr.org/articles/soviet-tactical-nuclear-weapons-in-cuba-cuban-missile-crisis-a-coda"
+    },
+    {
         "id": "https://www.cfr.org/articles/israel-the-excellent-election-that-settled-nothing",
         "source": "Council on Foreign Relations",
         "title": "Israel: The Excellent Election That Settled Nothing",
@@ -18,13 +63,22 @@
         "url": "https://cms.hoover.org/research/recalibrating-selective-engagement-us-africa-relations"
     },
     {
-        "id": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
+        "id": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race",
         "source": "NPR Politics",
-        "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+        "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
         "publicationDate": "2026-10-29",
-        "category": "Economy",
-        "summary": "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
-        "url": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes"
+        "category": "Other",
+        "summary": "Alaska's U.S. Senate race is embroiled in an emotional fight over fish. Many in the state rely upon salmon to feed their families but those fish and others are increasingly hard to find.",
+        "url": "https://www.npr.org/2026/10/29/nx-s1-6018248/fishing-is-a-key-issue-in-alaskas-tight-u-s-senate-race"
+    },
+    {
+        "id": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+        "source": "NPR Politics",
+        "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+        "publicationDate": "2026-10-29",
+        "category": "Other",
+        "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
+        "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit"
     },
     {
         "id": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
@@ -36,6 +90,15 @@
         "url": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage"
     },
     {
+        "id": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
+        "source": "NPR Politics",
+        "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+        "publicationDate": "2026-10-29",
+        "category": "Economy",
+        "summary": "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
+        "url": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes"
+    },
+    {
         "id": "https://www.npr.org/2026/10/29/nx-s1-6012410/support-for-trump-among-white-evangelicals-has-plummeted-polls-reveal",
         "source": "NPR Politics",
         "title": "Support for Trump among white evangelicals has plummeted, polls reveal",
@@ -45,184 +108,211 @@
         "url": "https://www.npr.org/2026/10/29/nx-s1-6012410/support-for-trump-among-white-evangelicals-has-plummeted-polls-reveal"
     },
     {
-        "id": "https://thehill.com/homenews/senate/6179707-senate-democrats-south-carolina-mississippi-florida/",
-        "source": "The Hill",
-        "title": "Democrats see battleground map expand to South Carolina, Florida, Mississippi",
-        "publicationDate": "2026-10-29",
-        "category": "Senate",
-        "summary": "Democrats are giddy about the possibility of a bigger blue wave than expected in the battle for the Senate as polls show that South Carolina, Florida and Mississippi — three seats that were long seen as safe Republican holds — are now competitive races. Democrats view the Republican candidates running in those states as mediocre political...",
-        "url": "https://thehill.com/homenews/senate/6179707-senate-democrats-south-carolina-mississippi-florida/"
-    },
-    {
-        "id": "https://thehill.com/homenews/house/6176024-house-democrats-presidential-powers-agenda/",
-        "source": "The Hill",
-        "title": "Democrats eye ways to rein in the power of future presidents",
-        "publicationDate": "2026-10-29",
-        "category": "House",
-        "summary": "Confident in their odds of flipping the House, Democrats are eyeing ways to curb the powers of the presidency. The effort is not likely to result in any significant reforms while President Trump remains in office and controls the veto pen. But Democrats, who have long accused Trump of abusing his executive authority, want to...",
-        "url": "https://thehill.com/homenews/house/6176024-house-democrats-presidential-powers-agenda/"
-    },
-    {
-        "id": "https://thehill.com/homenews/house/6179692-mike-johnson-house-gop-leadership/",
-        "source": "The Hill",
-        "title": "Johnson signals he’ll remain atop GOP, scrambling leadership landscape",
-        "publicationDate": "2026-10-29",
-        "category": "House",
-        "summary": "Speaker Mike Johnson’s (R-La.) recent hints that he intends to remain GOP leader even if Republicans lose the House have rattled the party’s leadership outlook and raised fresh new questions about the GOP’s future heading into the next Congress. Most House Speakers in recent decades have stepped out of Congress after losing the gavel. And...",
-        "url": "https://thehill.com/homenews/house/6179692-mike-johnson-house-gop-leadership/"
-    },
-    {
-        "id": "https://thehill.com/homenews/education/6175411-midterm-results-student-loan-plans-relief/",
-        "source": "The Hill",
-        "title": "Midterm results could bring brewing student loan battle to a head",
-        "publicationDate": "2026-10-29",
-        "category": "Economy",
-        "summary": "Student loan advocates see next week’s midterms as an opportunity for further oversight and potential reversals of policies from the Trump administration that have delayed or denied debt relief and increased monthly payments. Democrats have the potential Tuesday to retake the House and Senate, possibly creating a friendlier environment for student loan borrowers after...",
-        "url": "https://thehill.com/homenews/education/6175411-midterm-results-student-loan-plans-relief/"
-    },
-    {
-        "id": "https://thehill.com/homenews/analysis/6179825-midterm-elections-trump-senate-house/",
-        "source": "The Hill",
-        "title": "The Memo: Trump faces massive midterm rebuke — if the polls are right",
-        "publicationDate": "2026-10-29",
-        "category": "Analysis",
-        "summary": "President Trump looks to be facing a major rebuke from voters as the clock ticks down to the midterm elections. Yet, even as Democratic hopes rise, there are also nagging fears within the opposition party about its chances of taking the Senate, in particular. The overall dynamics are plainly bad for Trump and his party....",
-        "url": "https://thehill.com/homenews/analysis/6179825-midterm-elections-trump-senate-house/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/29/podcasts/the-daily/democrats-alaska-senate-midterms-dan-sullivan.html",
-        "source": "New York Times Politics",
-        "title": "A Plan for Two Dans: How Democrats Manipulated Alaska’s Ballot",
-        "publicationDate": "2026-10-29",
-        "category": "Alaska",
-        "summary": "An investigation by The New York Times looked at how two people named Dan Sullivan ended up on the ballot for the Senate.",
-        "url": "https://www.nytimes.com/2026/10/29/podcasts/the-daily/democrats-alaska-senate-midterms-dan-sullivan.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html",
-        "source": "New York Times Politics",
-        "title": "Four Scenarios for How the Midterms Could Go",
-        "publicationDate": "2026-10-29",
-        "category": "Midterm Elections (2026)",
-        "summary": "Expectations are cresting for Democrats, and some kind of wave seems likely, but so much will depend on a few close Senate races.",
-        "url": "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/29/us/politics/portland-thorns-women-soccer-transgender.html",
-        "source": "New York Times Politics",
-        "title": "A Clash Over Trans Women in Sports Erupts at a Pro Soccer Game",
-        "publicationDate": "2026-10-29",
-        "category": "Soccer",
-        "summary": "For protesters seeking a ban on transgender athletes in women’s sports, it made sense to protest near fans of the Portland Thorns, who are known for progressive politics.",
-        "url": "https://www.nytimes.com/2026/10/29/us/politics/portland-thorns-women-soccer-transgender.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html",
-        "source": "New York Times Politics",
-        "title": "Candidate Websites Are Filled With A.I.-Written Text, Analysis Shows",
-        "publicationDate": "2026-10-29",
-        "category": "Technology",
-        "summary": "The use of A.I. chatbots to write candidate biographies and policy positions is another way the technology is entangled with elections.",
-        "url": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
-        "source": "New York Times Politics",
-        "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+        "id": "https://www.pbs.org/newshour/politics/cnn-msnow-and-politico-ask-court-to-make-trump-access-order-permanent",
+        "source": "PBS NewsHour Politics",
+        "title": "CNN, MSNOW and Politico ask court to make Trump access order permanent",
         "publicationDate": "2026-10-29",
         "category": "Defense",
-        "summary": "A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.",
-        "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
+        "summary": "Three news outlets have beefed up their legal complaint against the White House over access, saying it is continuing to defy a judge's orders by refusing to let them return to covering President Donald Trump in the Oval Office and on Air Force One — thus violating their free speech rights by continuing to keep them out of the rotating press \"pool.\"",
+        "url": "https://www.pbs.org/newshour/politics/cnn-msnow-and-politico-ask-court-to-make-trump-access-order-permanent"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-south-carolina-for-sen-darline-graham",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH LIVE: Trump rallies in South Carolina for Sen. Darline Graham",
+        "publicationDate": "2026-10-29",
+        "category": "2026 Midterms",
+        "summary": "Holding South Carolina is essential if Republicans have any hope of keeping their Senate majority.",
+        "url": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-south-carolina-for-sen-darline-graham"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/alaskas-governor-orders-a-probe-into-peltolas-senate-campaign-over-spoiler-candidate-controversy",
+        "source": "PBS NewsHour Politics",
+        "title": "Alaska's governor orders a probe into Peltola's Senate campaign over spoiler candidate controversy",
+        "publicationDate": "2026-10-29",
+        "category": "2026 Midterms",
+        "summary": "Republican Alaska Gov. Mike Dunleavy has ordered an investigation into the Democratic candidate running for the U.S. Senate in the state after revelations that her campaign appeared to be involved in recruiting another candidate with the same name as Republican incumbent Dan Sullivan.",
+        "url": "https://www.pbs.org/newshour/politics/alaskas-governor-orders-a-probe-into-peltolas-senate-campaign-over-spoiler-candidate-controversy"
+    },
+    {
+        "id": "https://thehill.com/opinion/healthcare/6180216-lower-biologic-drug-prices/",
+        "source": "The Hill",
+        "title": "Make some medications more affordable by cutting one piece of red tape",
+        "publicationDate": "2026-10-29",
+        "category": "Healthcare",
+        "summary": "Congress is being urged to pass the Biosimilar Red Tape Elimination Act to reduce medication costs by removing the costly interchangeability standard for biologics.",
+        "url": "https://thehill.com/opinion/healthcare/6180216-lower-biologic-drug-prices/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6181651-trump-blasts-democrats-hegseth-impeachment/",
+        "source": "The Hill",
+        "title": "Trump blasts Democrats over Hegseth impeachment chatter",
+        "publicationDate": "2026-10-29",
+        "category": "Defense",
+        "summary": "President Trump blasted Democrats Thursday over their ongoing calls to impeach Defense Secretary Pete Hegseth, whom they see as one of their primary targets, if the party takes control of the House. \"I think it's terrible. All they do is they talk about impeaching everybody,” the president told reporters when asked if he is worried...",
+        "url": "https://thehill.com/homenews/administration/6181651-trump-blasts-democrats-hegseth-impeachment/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6181622-newsom-trump-california-election-observers-battleground-districts/",
+        "source": "The Hill",
+        "title": "Newsom warns Trump as California deploys election lawyers to battleground districts",
+        "publicationDate": "2026-10-29",
+        "category": "State Watch",
+        "summary": "California Gov. Gavin Newsom (D) is warning President Trump against trying to meddle in his state's elections amid growing concerns from Democrats over federal interference in next week's midterms. “A warning to Donald Trump: I’m deploying election lawyers to key battleground districts in California to protect every vote,” Newsom wrote on social platform X. “And...",
+        "url": "https://thehill.com/homenews/state-watch/6181622-newsom-trump-california-election-observers-battleground-districts/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6181657-vance-peltola-alaska-senate-prosecution/",
+        "source": "The Hill",
+        "title": "Vance undecided on whether Peltola should be prosecuted",
+        "publicationDate": "2026-10-29",
+        "category": "Administration",
+        "summary": "Fort Worth, Texas — Vice President Vance did not say on Thursday whether he agreed with President Trump’s calls to prosecute Democrat Mary Peltola over her Senate campaign’s reported efforts to recruit a spoiler candidate in Alaska. “Well, I think we should certainly look into whether she committed election fraud,” Vance told The Hill while...",
+        "url": "https://thehill.com/homenews/administration/6181657-vance-peltola-alaska-senate-prosecution/"
+    },
+    {
+        "id": "https://thehill.com/opinion/campaign/6179939-texas-governor-race-house-redistricting/",
+        "source": "The Hill",
+        "title": "The race for Texas governor will decide control of the House",
+        "publicationDate": "2026-10-29",
+        "category": "Opinions - Campaign",
+        "summary": "The upcoming Texas gubernatorial election between incumbent Greg Abbott and challenger Gina Hinojosa will determine if a new congressional map favoring Republicans or one protecting Latino representation becomes law.",
+        "url": "https://thehill.com/opinion/campaign/6179939-texas-governor-race-house-redistricting/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html",
+        "source": "New York Times Politics",
+        "title": "State Dept. to Shift Millions in Contraception Funding to Cover Energy Costs",
+        "publicationDate": "2026-10-29",
+        "category": "Foreign Policy",
+        "summary": "In a memo, the department told lawmakers it was redirecting up to $125 million in foreign aid, including nearly $49 million that Congress appropriated for family planning programs in low-income countries.",
+        "url": "https://www.nytimes.com/2026/10/29/us/politics/foreign-aid-divert-energy-contraceptives.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/29/us/politics/the-docket-trump-judges.html",
+        "source": "New York Times Politics",
+        "title": "Trump Wants to Kick ‘Rogue Activist Judges’ Off Cases. Can He?",
+        "publicationDate": "2026-10-29",
+        "category": "United States Politics and Government",
+        "summary": "A Supreme Court decision and ethics opinions give judges room to speak their minds.",
+        "url": "https://www.nytimes.com/2026/10/29/us/politics/the-docket-trump-judges.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html",
+        "source": "New York Times Politics",
+        "title": "Third-Party Spoilers, Long Fueled by Both Parties, Could Matter This Year",
+        "publicationDate": "2026-10-29",
+        "category": "Third-Party Politics (US)",
+        "summary": "The other Dan Sullivan in Alaska has drawn the most attention, but both parties are quietly trying to use little-known candidates in other battlegrounds to siphon votes, too.",
+        "url": "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/29/arts/design/national-constitution-center-hiram-chodosh.html",
+        "source": "New York Times Politics",
+        "title": "National Constitution Center Names New Leader",
+        "publicationDate": "2026-10-29",
+        "category": "Museums",
+        "summary": "Hiram E. Chodosh, a former president of Claremont McKenna, will take the reins of the center charged by Congress to promote the Constitution and its principles.",
+        "url": "https://www.nytimes.com/2026/10/29/arts/design/national-constitution-center-hiram-chodosh.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/29/insider/questions-and-answers-about-midterm-election-coverage.html",
+        "source": "New York Times Politics",
+        "title": "Answers to Your Questions About New York Times Midterm Election Coverage",
+        "publicationDate": "2026-10-29",
+        "category": "Midterm Elections (2026)",
+        "summary": "Readers had questions about our polls, our political reporters, our race calls and more. New York Times journalists answered.",
+        "url": "https://www.nytimes.com/2026/10/29/insider/questions-and-answers-about-midterm-election-coverage.html"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+        "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
         "publicationDate": "2026-10-29",
         "category": "Other",
-        "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+        "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
         "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+        "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
         "publicationDate": "2026-10-29",
-        "category": "Other",
-        "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
+        "category": "Foreign Policy",
+        "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
         "publicationDate": "2026-10-29",
         "category": "Other",
-        "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss"
+        "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/66bc5487-04aa-4699-a010-c446c536cf48?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "The ECB needs a smooth transmission and a smooth transition",
+        "id": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
         "publicationDate": "2026-10-29",
         "category": "Other",
-        "summary": "Central bank at a critical juncture as it prepares leadership changes at time of strains in bond markets",
-        "url": "https://www.ft.com/content/66bc5487-04aa-4699-a010-c446c536cf48?syn-25a6b1a6=1"
+        "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+        "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Christine Lagarde to step down as ECB president in February",
+        "id": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
         "publicationDate": "2026-10-29",
         "category": "Other",
-        "summary": "Her eight-year term at the helm of the powerful monetary authority was set to end in October 2027",
-        "url": "https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1"
+        "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+        "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/f66a684c-4073-4cf8-b5b8-8851c72e8bc0?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "FirstFT: End of the road for Weil",
+        "title": "Netanyahu’s party claims election ‘stolen’ by ‘foreign entities’",
+        "publicationDate": "2026-10-29",
+        "category": "Foreign Policy",
+        "summary": "Security service probes allegations of interference after high turnout by Palestinian citizens of Israel prevented outright victory for premier",
+        "url": "https://www.ft.com/content/f66a684c-4073-4cf8-b5b8-8851c72e8bc0?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/9f5a08ce-1997-4e6c-bf05-b2f61c63edd4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Councils warn of limbo as ministers set out new delay to shake-up in England",
         "publicationDate": "2026-10-29",
         "category": "Other",
-        "summary": "Also in today’s newsletter: Google shares tumble, and Federal Reserve holds rates",
-        "url": "https://www.ft.com/content/a9aec380-e9e5-4e7e-8281-906bb1aaa76e?syn-25a6b1a6=1"
+        "summary": "A long-running attempt to scrap more than 100 local authorities will not be complete until 2029",
+        "url": "https://www.ft.com/content/9f5a08ce-1997-4e6c-bf05-b2f61c63edd4?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/e48bfc16-c7ab-4185-bb61-44491830a5cb?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Any stock dips after the midterms are likely to be opportunities",
+        "title": "Eli Lilly profits surge on demand for weight-loss drugs",
         "publicationDate": "2026-10-29",
-        "category": "Economy",
-        "summary": "The US economy’s resilience is expected to continue driving US earnings and shares higher even if there is gridlock",
-        "url": "https://www.ft.com/content/e48bfc16-c7ab-4185-bb61-44491830a5cb?syn-25a6b1a6=1"
+        "category": "Healthcare",
+        "summary": "US company’s shares hit new record as it raises revenue outlook for second time in three months",
+        "url": "https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/7526e915-2590-4b42-85df-20bb89040db8?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Trump calls for Alaska Democratic candidate to be banned from Senate race",
+        "title": "Alphabet shares tumble in $500bn rout",
         "publicationDate": "2026-10-29",
         "category": "Other",
-        "summary": "Report alleges that Mary Peltola’s campaign recruited other contenders to mislead Republican opponent’s supporters",
-        "url": "https://www.ft.com/content/7526e915-2590-4b42-85df-20bb89040db8?syn-25a6b1a6=1"
+        "summary": "Google owner admits ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations",
+        "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1"
     },
     {
-        "id": "R49494",
-        "source": "Congressional Research Service",
-        "title": "The Federal Fleet of Oceanographic Research Vessels: Issues for Congress",
-        "publicationDate": "2026-10-28",
-        "category": "Defense",
-        "summary": "The federal fleet of oceanographic research vessels serves as a primary tool for advancing knowledge of the ocean system. The federal oceanographic fleet is primarily composed of oceanographic research vessels that are owned and operated or leased by federal departments and agencies. Federally funded projects have included the mapping of the seafloor, which aids in the delineation of the outer limits of U.S....",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49494/R49494.3.pdf"
-    },
-    {
-        "id": "IF12114",
-        "source": "Congressional Research Service",
-        "title": "Farm Bill Primer: PLC and ARC Farm Support Programs",
-        "publicationDate": "2026-10-28",
-        "category": "Economy",
-        "summary": "The Price Loss Coverage (PLC) and Agriculture Risk Coverage (ARC) programs provide income support for eligible agricultural producers that is triggered when market prices (PLC) or crop revenues (ARC) fall below certain thresholds. Congress originally authorized these programs in the Agricultural Act of 2014 (2014 farm bill, P.L. 113-79) to replace certain commodity support programs authorized in prior farm bills....",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12114/IF12114.2.pdf"
+        "id": "https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "NYSE owner’s tokenised stock plan hits hurdle as big companies object",
+        "publicationDate": "2026-10-29",
+        "category": "Other",
+        "summary": "Alphabet, Oracle and Microsoft among 38 groups of a proposed 62 saying they do not want their stocks included",
+        "url": "https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b?syn-25a6b1a6=1"
     },
     {
         "id": "LSB11496",
@@ -234,13 +324,13 @@
         "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11496/LSB11496.1.pdf"
     },
     {
-        "id": "IF10293",
+        "id": "R48078",
         "source": "Congressional Research Service",
-        "title": "Foreign Relations Reauthorization: Background and Issues",
+        "title": "Credible Fear and Defensive Asylum Processes: Frequently Asked Questions",
         "publicationDate": "2026-10-28",
-        "category": "Defense",
-        "summary": "Introduction The Constitution empowers Congress to provide funding, authorize programs, and conduct oversight with respect to foreign policy implementation. In exercising these powers, Congress has enacted several laws requiring foreign affairs appropriations to be authorized prior to expenditure, asserting the role of the foreign affairs authorizing committees in budgetary decisionmaking. These include Section...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10293/IF10293.17.pdf"
+        "category": "Other",
+        "summary": "Non-U.S. nationals (aliens under federal statute and regulation) subject to removal from the United States may seek asylum and other forms of humanitarian protection during standard and expedited removal processes. Asylum may be granted to persons in the United States, regardless of their immigration status, who are unable or unwilling to return to their countries because of persecution or a well-founded fear of...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48078/R48078.5.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5006-1.html",
@@ -279,33 +369,6 @@
         "url": "https://www.cfr.org/podcasts/presidents-inbox/foreign-policy-and-the-2026-midterms"
     },
     {
-        "id": "https://www.cfr.org/reports/europes-defense-dilemma",
-        "source": "Council on Foreign Relations",
-        "title": "Europe’s Defense Dilemma",
-        "publicationDate": "2026-10-28",
-        "category": "Defense",
-        "summary": "Fix and Fiott argue that Europe has three options to prepare for a future of limited or conditional U.S. support: It can hope for a more European NATO, develop an EU-based defense union, or create a more flexible European defense coalition of the willing to deter against Russia and absorb future shocks to the transatlantic relationship.",
-        "url": "https://www.cfr.org/reports/europes-defense-dilemma"
-    },
-    {
-        "id": "https://www.cfr.org/articles/canada-shows-the-limits-of-trumps-hardball-trade-tactics",
-        "source": "Council on Foreign Relations",
-        "title": "Canada Shows the Limits of Trump’s Hardball Trade Tactics",
-        "publicationDate": "2026-10-28",
-        "category": "Article",
-        "summary": "Trump’s trade war with Canada assumed economic size would translate into bargaining power. Ottawa’s refusal to back down, and the strain the tariffs are putting on U.S. border states ahead of the midterms, are opening cracks in the administration’s approach.",
-        "url": "https://www.cfr.org/articles/canada-shows-the-limits-of-trumps-hardball-trade-tactics"
-    },
-    {
-        "id": "https://www.cfr.org/articles/whats-behind-the-protests-and-riots-in-france-and-what-comes-next",
-        "source": "Council on Foreign Relations",
-        "title": "What’s Behind the Protests and Riots in France, and What Comes Next",
-        "publicationDate": "2026-10-28",
-        "category": "Article",
-        "summary": "Massive protests have swept across France since mid-September as students have rallied against the country’s education system and rising living costs. But the chaos could be a boon for France’s more extreme parties before next year’s elections.",
-        "url": "https://www.cfr.org/articles/whats-behind-the-protests-and-riots-in-france-and-what-comes-next"
-    },
-    {
         "id": "https://www.heritage.org/global-politics/report/world-independent-nations",
         "source": "Heritage Foundation",
         "title": "A World of Independent Nations",
@@ -315,6 +378,24 @@
         "url": "https://www.heritage.org/global-politics/report/world-independent-nations"
     },
     {
+        "id": "https://www.heritage.org/technology/commentary/blocking-data-centers-home-could-put-americans-data-risk-abroad",
+        "source": "Heritage Foundation",
+        "title": "Blocking Data Centers at Home Could Put Americans’ Data at Risk Abroad",
+        "publicationDate": "2026-10-28",
+        "category": "Defense",
+        "summary": "If artificial intelligence (AI) companies are boxed out of every jurisdiction in the United States, they may need to locate their infrastructure offshore instead. That may resolve not-in-my-backyard concerns and prevent utility rates from increasing—at least from data centers—but it presents other disadvantages that AI’s opponents are likely overlooking. The most obvious is the economic loss caused by pushing out a...",
+        "url": "https://www.heritage.org/technology/commentary/blocking-data-centers-home-could-put-americans-data-risk-abroad"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/containing-iran-supporting-venezuelas-transition-restoring-rule-law-serbia-mary-kissel",
+        "source": "Hudson Institute",
+        "title": "Containing Iran, Supporting Venezuela’s Transition, and Restoring Rule of Law in Serbia",
+        "publicationDate": "2026-10-28",
+        "category": "Defense",
+        "summary": "Containing Iran, Supporting Venezuela’s Transition, and Restoring Rule of Law in Serbia bbert@hudson.org Wed, 10/28/2026 - 15:55 SVG Podcast Oct 27, 2026 John Batchelor Show Containing Iran, Supporting Venezuela’s Transition, and Restoring Rule of Law in Serbia Mary Kissel Senior Fellow (Nonresident) Mary Kissel Podcast Caption US Secretary of State Marco Rubio looks on as Venezuelan opposition leader Dinorah...",
+        "url": "https://www.hudson.org/foreign-policy/containing-iran-supporting-venezuelas-transition-restoring-rule-law-serbia-mary-kissel"
+    },
+    {
         "id": "https://www.hudson.org/national-security-defense/time-has-come-ramp-iran-campaign-rebeccah-heinrichs",
         "source": "Hudson Institute",
         "title": "The Time Has Come to Ramp up Iran Campaign",
@@ -322,6 +403,15 @@
         "category": "Defense",
         "summary": "The Time Has Come to Ramp up Iran Campaign bbert@hudson.org Wed, 10/28/2026 - 15:49 SVG In the Media Oct 27, 2026 Fox News The Time Has Come to Ramp up Iran Campaign Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to...",
         "url": "https://www.hudson.org/national-security-defense/time-has-come-ramp-iran-campaign-rebeccah-heinrichs"
+    },
+    {
+        "id": "https://www.hudson.org/intellectual-property/contributory-copyright-infringement-post-cox-world-david-nimmer",
+        "source": "Hudson Institute",
+        "title": "Contributory Copyright Infringement in a Post-Cox World",
+        "publicationDate": "2026-10-28",
+        "category": "Defense",
+        "summary": "Contributory Copyright Infringement in a Post-Cox World bbert@hudson.org Wed, 10/28/2026 - 15:34 SVG Reports Oct 29, 2026 Hudson Institute Contributory Copyright Infringement in a Post-Cox World David Nimmer David Nimmer Reports Caption A Cox sign is seen on the Cox Communications Springfield Warehouse on May 16, 2025, in Springfield, Virginia. (Getty Images) Toggle Table of Contents Contents Contents Share to...",
+        "url": "https://www.hudson.org/intellectual-property/contributory-copyright-infringement-post-cox-world-david-nimmer"
     },
     {
         "id": "https://www.hudson.org/national-security-defense/ukraine-military-situation-report-october-28-can-kasapoglu",
@@ -378,24 +468,6 @@
         "url": "https://www.cer.eu/php-mailing-issue"
     },
     {
-        "id": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
-        "source": "NPR Politics",
-        "title": "Hackers expose the identities of more than 40,000 DHS employees",
-        "publicationDate": "2026-10-28",
-        "category": "Other",
-        "summary": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
-        "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice"
-    },
-    {
-        "id": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
-        "source": "NPR Politics",
-        "title": "Judge denies the Justice Department's bid to stop processing California ballots",
-        "publicationDate": "2026-10-28",
-        "category": "Other",
-        "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet. The federal government immediately filed notice that it will appeal.",
-        "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied"
-    },
-    {
         "id": "https://www.pbs.org/newshour/politics/trump-calls-for-prosecution-of-alaska-senate-candidate-peltola-over-sullivan-name-controversy",
         "source": "PBS NewsHour Politics",
         "title": "Trump calls for prosecution of Alaska Senate candidate Peltola over Sullivan name controversy",
@@ -414,67 +486,13 @@
         "url": "https://www.pbs.org/newshour/show/new-polls-suggest-surprising-democratic-gains-in-red-state-senate-races"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/where-key-senate-races-stand-in-the-final-days-of-campaigning",
-        "source": "PBS NewsHour Politics",
-        "title": "Where key Senate races stand in the final days of campaigning",
-        "publicationDate": "2026-10-28",
-        "category": "senate",
-        "summary": "The race for the Senate has moved from off-the-radar a year ago to a dramatic, hard-to-predict finish where Democrats stand a chance of retaking the chamber. The contest will come down to just over a dozen races across the country. Lisa Desjardins takes a look at the map and what might happen.",
-        "url": "https://www.pbs.org/newshour/show/where-key-senate-races-stand-in-the-final-days-of-campaigning"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-assess-midterm-landscape-in-final-week",
-        "source": "PBS NewsHour Politics",
-        "title": "Democratic and GOP strategists assess midterm landscape in final week",
-        "publicationDate": "2026-10-28",
-        "category": "Democrats",
-        "summary": "To discuss how the midterm races are shaping up in the final days, Amna Nawaz sat down with Democratic strategist Mo Elleithee and Republican strategist Doug Heye.",
-        "url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-assess-midterm-landscape-in-final-week"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/how-the-associated-press-tracks-and-calls-races-on-election-night",
-        "source": "PBS NewsHour Politics",
-        "title": "How the Associated Press tracks and calls races on Election Night",
-        "publicationDate": "2026-10-28",
-        "category": "Associated Press",
-        "summary": "Nearly 40 million votes have already been cast for races that will determine not only who controls Congress, but also governors, mayors and city councils. For many years, PBS News has relied on the Associated Press to keep track of results, and we will again next Tuesday. Deema Zein takes a closer look at how the AP counts the vote.",
-        "url": "https://www.pbs.org/newshour/show/how-the-associated-press-tracks-and-calls-races-on-election-night"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-        "publicationDate": "2026-10-28",
-        "category": "Other",
-        "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-        "publicationDate": "2026-10-28",
-        "category": "Other",
-        "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
-        "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4495-1.html",
-        "source": "RAND Corporation",
-        "title": "Towards an Australian Circular Economy for Solar Photovoltaic Technologies",
+        "id": "IF11780",
+        "source": "Congressional Research Service",
+        "title": "United Nations Issues: Overview of the United Nations System",
         "publicationDate": "2026-10-27",
         "category": "Economy",
-        "summary": "By 2035, more than 1 million tonnes of solar panels will be decommissioned, presenting Australia with an urgent reuse and recycling challenge. This report maps pathways to a circular photovoltaic economy through policy, technology and market reform.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4495-1.html"
-    },
-    {
-        "id": "https://www.rand.org/pubs/research_reports/RRA4405-7.html",
-        "source": "RAND Corporation",
-        "title": "Improving HUD-VASH Utilization Under Changing Income Eligibility Requirements",
-        "publicationDate": "2026-10-27",
-        "category": "Other",
-        "summary": "The authors examine how income-related policy changes are affecting utilization of the Housing and Urban Development–VA Supportive Housing program to determine whether supply and demand for the program are aligned and, if not, where gaps emerge.",
-        "url": "https://www.rand.org/pubs/research_reports/RRA4405-7.html"
+        "summary": "The United Nations (UN) system comprises interconnected entities including the United Nations, specialized agencies, peacekeeping operations, funds and programs, and other entities. Congress has generally supported the UN system and often uses UN mechanisms to further U.S. foreign policy objectives. At the same time, some Members have been critical of the organization, arguing that UN actions or decisions do not...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11780/IF11780.12.pdf"
     },
     {
         "id": "https://www.heritage.org/markets-and-finance/commentary/how-thaw-the-frozen-housing-market",
@@ -504,15 +522,6 @@
         "url": "https://www.heritage.org/health-care-reform/commentary/why-maha-must-keep-conservative-roots"
     },
     {
-        "id": "https://www.heritage.org/government-regulation/commentary/manhattans-lost-its-screen-presence",
-        "source": "Heritage Foundation",
-        "title": "Manhattan’s Lost Its Screen Presence",
-        "publicationDate": "2026-10-27",
-        "category": "Economy",
-        "summary": "The other weekend, I pulled up Woody Allen’s Manhattan (1979) on YouTube because I’ve been starved for the highbrow and the funny, a rare marriage that movies used to achieve with some regularity, but now hardly ever bother to attempt. Let’s disregard the plot, here, and the characters, for there is a great deal about both that resists easy or simple discussion in the present American climate, and focus instead on...",
-        "url": "https://www.heritage.org/government-regulation/commentary/manhattans-lost-its-screen-presence"
-    },
-    {
         "id": "https://www.hudson.org/national-security-defense/irans-maritime-threat-conflict-yemen-can-kasapoglu",
         "source": "Hudson Institute",
         "title": "Iran’s Maritime Threat and the Conflict in Yemen",
@@ -520,33 +529,6 @@
         "category": "Defense",
         "summary": "Iran’s Maritime Threat and the Conflict in Yemen bbert@hudson.org Tue, 10/27/2026 - 16:11 SVG Reports Oct 28, 2026 Hudson Institute Iran’s Maritime Threat and the Conflict in Yemen Can Kasapoğlu Senior Fellow (Nonresident) Can Kasapoğlu Reports Caption A fighter loyal to Yemen’s internationally recognized government fires a turret from the back of a pickup truck around Mount al-Midan in Yemen’s western Taiz...",
         "url": "https://www.hudson.org/national-security-defense/irans-maritime-threat-conflict-yemen-can-kasapoglu"
-    },
-    {
-        "id": "https://www.hudson.org/national-security-defense/australia-japan-formalizing-informal-alliance-james-przystup",
-        "source": "Hudson Institute",
-        "title": "Australia and Japan: Formalizing an Informal Alliance",
-        "publicationDate": "2026-10-27",
-        "category": "Defense",
-        "summary": "Australia and Japan: Formalizing an Informal Alliance bbert@hudson.org Tue, 10/27/2026 - 13:49 SVG Reports Oct 28, 2026 Hudson Institute Australia and Japan: Formalizing an Informal Alliance James J. Przystup Senior Fellow, Japan Chair James J. Przystup Reports Caption Japan’s Defence Minister Shinjiro Koizumi and Australia’s Defence Minister Richard Marles review honor guards during a welcome ceremony at the...",
-        "url": "https://www.hudson.org/national-security-defense/australia-japan-formalizing-informal-alliance-james-przystup"
-    },
-    {
-        "id": "https://www.hudson.org/national-security-defense/iran-threatens-americans-abroad-first-lady-brokers-peace-agreement-rebeccah-heinrichs",
-        "source": "Hudson Institute",
-        "title": "Iran Threatens Americans Abroad and First Lady Brokers Peace Agreement",
-        "publicationDate": "2026-10-27",
-        "category": "Defense",
-        "summary": "Iran Threatens Americans Abroad and First Lady Brokers Peace Agreement bbert@hudson.org Tue, 10/27/2026 - 12:40 SVG In the Media Oct 24, 2026 Fox News Iran Threatens Americans Abroad and First Lady Brokers Peace Agreement Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox News) Toggle Table of Contents Contents Contents Share...",
-        "url": "https://www.hudson.org/national-security-defense/iran-threatens-americans-abroad-first-lady-brokers-peace-agreement-rebeccah-heinrichs"
-    },
-    {
-        "id": "R45635",
-        "source": "Congressional Research Service",
-        "title": "Categories of Federal Civil Service Employment: An Overview of Appointment, Pay, and Adverse Action Entitlements",
-        "publicationDate": "2026-10-26",
-        "category": "Other",
-        "summary": "According to the Office of Personnel Management (OPM), the executive branch of the federal government consists of an estimated two million civilian employees. Federal law categorizes these employees into three types of service—the competitive service, the excepted service, and the Senior Executive Service (SES)—that may be distinguished by different selection, compensation, and other standards. 5 U.S.C. §§...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45635/R45635.6.pdf"
     },
     {
         "id": "https://www.cer.eu/sign-cer-mailing-list",
@@ -583,5 +565,23 @@
         "category": "Foreign Policy",
         "summary": "Ian Bond deputy director of the CER spoke alongside the Lithuanian Vice Foreign Minister Lina Rukštelienė in a discussion with Yaroslav Trofimov on Ukraine's future as a pillar of European security (from 4:35:40 mins). Ian Bond 10 September 2026",
         "url": "https://www.cer.eu/media/lato-r%C4%ABga-conference-2026-ukraines-future-pillar-european-security"
+    },
+    {
+        "id": "IF12614",
+        "source": "Congressional Research Service",
+        "title": "U.S.-Latin America Trade and Investment",
+        "publicationDate": "2024-03-15",
+        "category": "Economy",
+        "summary": "The 118th Congress is engaged in a range of legislative and oversight activities related to trade policy toward the Latin America and Caribbean (LAC) region, which is among the United States’ most important regional trading partners. Historically, some Members of Congress have approached initiatives to strengthen economic relations with LAC partners as complementary to broader U.S. policy goals in the region, such...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12614/IF12614.4.pdf"
+    },
+    {
+        "id": "IF10447",
+        "source": "Congressional Research Service",
+        "title": "U.S.-Brazil Trade Relations",
+        "publicationDate": "2020-10-23",
+        "category": "Economy",
+        "summary": "Overview The United States and Brazil have enjoyed a strong economic relationship for many years. In 2019, Brazil ranked second among the United States’ Latin American trading partners in goods and 19th among all U.S. trading partners. In March 2020, President Donald Trump and President Jair Bolsonaro announced plans to deepen the bilateral trade relationship and potentially move toward free trade agreement (FTA)...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10447/IF10447.9.pdf"
     }
 ]
