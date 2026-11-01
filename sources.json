@@ -1,5 +1,32 @@
 [
     {
+        "id": "https://thehill.com/homenews/campaign/6186552-clyburn-rally-el-sayed-stevens/",
+        "source": "The Hill",
+        "title": "Advisor to Clyburn says El-Sayed can't disinvite Stevens from unity event",
+        "publicationDate": "2026-11-01",
+        "category": "Campaign",
+        "summary": "An advisor to Rep. Jim Clyburn (D-S.C.) said Michigan Senate candidate Abdul El-Sayed (D) cannot disinvite his former primary opponent Rep. Haley Stevens (D-Mich.) from a scheduled event on Sunday in Detroit, Mich. “This is not Abdul’s event,” Antjuan Seawright, an advisor to Clyburn, told The New York Times Saturday afternoon. “The invitation still stands.” El-Sayed was...",
+        "url": "https://thehill.com/homenews/campaign/6186552-clyburn-rally-el-sayed-stevens/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html",
+        "source": "New York Times Politics",
+        "title": "Trump Calls Former Lawyer’s $50 Million Deal ‘Obnoxious and Outrageous’",
+        "publicationDate": "2026-11-01",
+        "category": "United States Politics and Government",
+        "summary": "At a Halloween event in Florida, President Trump told reporters that Alina Habba Mildon’s lucrative work for someone seeking a pardon was “not acceptable.”",
+        "url": "https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+        "publicationDate": "2026-11-01",
+        "category": "Other",
+        "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
         "source": "NPR Politics",
         "title": "Virginia and D.C. sue to block construction of Trump arch",
@@ -126,15 +153,6 @@
         "url": "https://thehill.com/homenews/sunday-talk-shows/6186417-sunday-shows-preview-candidates-make-last-minute-pitches-ahead-of-tuesdays-midterms-economy-weighs-heavily-on-voters-minds/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6186389-peltola-repeats-denial-of-ballot-stacking-reports-stays-silent-on-federal-probe/",
-        "source": "The Hill",
-        "title": "Peltola repeats denial of ballot-stacking reports, stays silent on federal probe",
-        "publicationDate": "2026-10-31",
-        "category": "Campaign",
-        "summary": "Alaska’s Democratic Senate candidate Mary Peltola denied once again any involvement in the alleged ballot-stacking scheme that it was recently reported her campaign engaged in during a rally on Friday, but did not mention the ongoing investigations into the scheme “I am so deeply offended by these accusations about having any involvement with anyone else's...",
-        "url": "https://thehill.com/homenews/campaign/6186389-peltola-repeats-denial-of-ballot-stacking-reports-stays-silent-on-federal-probe/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/10/31/us/politics/trump-arch-virginia-dc.html",
         "source": "New York Times Politics",
         "title": "Trump’s Arch Faces New Legal Challenge From Virginia and D.C.",
@@ -169,15 +187,6 @@
         "category": "Polls and Public Opinion",
         "summary": "Voters see Dan Osborn, the independent seeking to unseat Senator Pete Ricketts, as more like a Democrat than an independent, a Times/Siena poll found.",
         "url": "https://www.nytimes.com/2026/10/31/us/politics/nebraska-senate-poll.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html",
-        "source": "New York Times Politics",
-        "title": "Trump and GOP Close Midterms With Ugly Personal Attacks",
-        "publicationDate": "2026-10-31",
-        "category": "Economy",
-        "summary": "Facing backlash over inflation and anger with the president, Republicans have turned to an onslaught of baseless claims about Democratic candidates.",
-        "url": "https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
@@ -216,13 +225,22 @@
         "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+        "id": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Michigan feud threatens Democratic unity in key Senate race",
         "publicationDate": "2026-10-31",
         "category": "Other",
-        "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-        "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+        "summary": "Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel",
+        "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Tusk vows to press on with overhaul of Poland’s judiciary",
+        "publicationDate": "2026-10-31",
+        "category": "Other",
+        "summary": "Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup",
+        "url": "https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1",
@@ -250,24 +268,6 @@
         "category": "Defense",
         "summary": "Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign",
         "url": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
-        "publicationDate": "2026-10-31",
-        "category": "Other",
-        "summary": "Former White House chief strategist predicts ‘monster’ legislative battles before new Congress is sworn in",
-        "url": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/14a8ce6c-ef84-478a-993f-47db30a41d1d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Budget frees London to go on £10bn borrowing spree, says Sadiq Khan",
-        "publicationDate": "2026-10-31",
-        "category": "Economy",
-        "summary": "UK capital’s mayor hails chancellor’s financial plan that will boost key infrastructure projects",
-        "url": "https://www.ft.com/content/14a8ce6c-ef84-478a-993f-47db30a41d1d?syn-25a6b1a6=1"
     },
     {
         "id": "96-548",
