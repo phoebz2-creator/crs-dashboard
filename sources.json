@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+        "publicationDate": "2026-11-02",
+        "category": "Other",
+        "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-41",
         "source": "Hoover Institution",
         "title": "2026 Issue 41",
@@ -45,6 +54,15 @@
         "url": "https://cms.hoover.org/research/chinas-economy-has-huge-weakness"
     },
     {
+        "id": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+        "source": "NPR Politics",
+        "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+        "publicationDate": "2026-11-01",
+        "category": "Other",
+        "summary": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
+        "url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast"
+    },
+    {
         "id": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
         "source": "NPR Politics",
         "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
@@ -81,13 +99,22 @@
         "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan"
     },
     {
-        "id": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
-        "source": "NPR Politics",
-        "title": "The midterms will test the nation's political direction and confidence",
+        "id": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims",
+        "source": "PBS NewsHour Politics",
+        "title": "Justice Department urges sanctions for database analysis critical of its noncitizen voting claims",
         "publicationDate": "2026-11-01",
-        "category": "Other",
-        "summary": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
-        "url": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence"
+        "category": "2026 Midterms",
+        "summary": "Attorneys for an immigrant rights group on Saturday filed court papers revealing that their analysis found more than 40% of the people on the list do not appear in the state's voter file.",
+        "url": "https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
+        "source": "PBS NewsHour Politics",
+        "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+        "publicationDate": "2026-11-01",
+        "category": "Healthcare",
+        "summary": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday.",
+        "url": "https://www.pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-as-part-of-final-push-before-election-day",
@@ -101,7 +128,7 @@
     {
         "id": "https://www.pbs.org/newshour/world/canadian-prime-minister-carney-reports-progress-in-trade-talks-with-trump-days-before-u-s-midterms",
         "source": "PBS NewsHour Politics",
-        "title": "Canadian Prime Minister Carney reports progress in trade talks with Trump days before U.S. midterms",
+        "title": "Canada's Carney reports progress in trade talks with U.S. and Trump talks up 'concept' of a deal",
         "publicationDate": "2026-11-01",
         "category": "canada",
         "summary": "Carney said the conversation built on recent discussions about the outlines of a deal that would create jobs, lower costs for families and protect Canada's languages, culture and sovereignty.",
@@ -110,65 +137,56 @@
     {
         "id": "https://www.pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
         "source": "PBS NewsHour Politics",
-        "title": "Democrat Haley Stevens endorses GOP's Mike Rogers in Michigan Senate race 2 days before election",
+        "title": "El-Sayed's primary opponent stuns Democrats by endorsing Republican opponent in Michigan Senate race",
         "publicationDate": "2026-11-01",
         "category": "2026 Midterms",
         "summary": "The remarkable show of support for the President Donald Trump-backed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary.",
         "url": "https://www.pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy",
-        "source": "PBS NewsHour Politics",
-        "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses",
+        "id": "https://thehill.com/homenews/house/6187467-khanna-opposes-iran-war-funding/",
+        "source": "The Hill",
+        "title": "Khanna says he'd stop funding further US military actions in Iran",
         "publicationDate": "2026-11-01",
-        "category": "2026 Midterms",
-        "summary": "Tuesday's ranked-choice election includes two candidates who have done little campaigning, one of whom shares the incumbent's name. It was that candidate's presence on the ballot that prompted Trump to push for the lawsuit out of fear he would siphon votes from the incumbent.",
-        "url": "https://www.pbs.org/newshour/politics/sullivan-claims-peltola-is-still-lying-about-campaigns-involvement-in-alaska-ballot-controversy"
+        "category": "Defense",
+        "summary": "Rep. Ro Khanna (D-Calif.) said he would stop further funding for U.S. military action in Iran amid growing voter dissatisfaction with the ongoing war effort. “I would stop the funding. The House and the Senate should stop the funding for any further actions in the Iran War. That's what we did to stop the Vietnam...",
+        "url": "https://thehill.com/homenews/house/6187467-khanna-opposes-iran-war-funding/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6187168-rnc-acknowledges-voter-turnout-issues/",
+        "id": "https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party/",
         "source": "The Hill",
-        "title": "RNC chair says Republicans have voter turnout problem",
+        "title": "Trump says he would ‘love to have’ Haley Stevens join Republican Party",
         "publicationDate": "2026-11-01",
-        "category": "Campaign",
-        "summary": "Republican National Committee (RNC) chair Joe Gruters acknowledged that Republicans are facing issues with voter turnout amid heightened pressure for the GOP to maintain control of Congress. “Is there a turnout problem for Republicans?” NewsNation’s Chris Stirewalt asked Gruters on \"The Hill Sunday.\" “Yes, but Democrats tend to turn out early. We tend to vote...",
-        "url": "https://thehill.com/homenews/campaign/6187168-rnc-acknowledges-voter-turnout-issues/"
+        "category": "Defense",
+        "summary": "President Trump on Sunday said he would \"love to have\" Rep. Haley Stevens join the Republican Party after she endorsed Michigan Senate candidate Mike Rogers (R) over the nominee, her former Senate Democratic primary opponent Abdul El-Sayed (D). Reporters spoke with the president outside Air Force One, flanked by House Speaker Mike Johnson (R-La.), Interior...",
+        "url": "https://thehill.com/homenews/administration/6187354-trump-haley-stevens-join-republican-party/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6187095-rnc-rogers-receives-stevens-support/",
+        "id": "https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights/",
         "source": "The Hill",
-        "title": "RNC says 'Michigan should take notice' of Stevens endorsing Rogers",
+        "title": "Preschool case puts LGBTQ and religious rights at odds in Supreme Court",
         "publicationDate": "2026-11-01",
-        "category": "Campaign",
-        "summary": "The Republican National Committee (RNC) on Sunday said Michigan \"should take notice\" of Rep. Haley Stevens's (D-Mich.) endorsement of her former opponent in the Michigan Senate race Republican Mike Rogers. \"When Congresswoman Haley Stevens, who ran against Abdul El-Sayed and knows him better than anyone, stands with Mike Rogers, Michigan should take notice,\" RNC spokesperson...",
-        "url": "https://thehill.com/homenews/campaign/6187095-rnc-rogers-receives-stevens-support/"
+        "category": "Court Battles",
+        "summary": "The intersection of religious and LGBTQ rights lands — again — on the Supreme Court’s docket Tuesday. The justices are set to decide whether Colorado can require preschools that receive public dollars to admit the children of same-sex couples. “It seems like there's short shrift being given to religious liberty in the state of Colorado,”...",
+        "url": "https://thehill.com/regulation/court-battles/6185430-supreme-court-colorado-religious-liberty-lgbtq-rights/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6187175-trump-praises-stevens-gop-endorsement/",
+        "id": "https://thehill.com/newsletters/this-week-on-the-hill/6185603-midterm-election-house-senate-control/",
         "source": "The Hill",
-        "title": "Trump commends Stevens' 'bravery' for endorsing Rogers",
+        "title": "This Week on the Hill: Election Day is finally here",
         "publicationDate": "2026-11-01",
-        "category": "Campaign",
-        "summary": "President Trump on Sunday commended Rep. Haley Stevens (D-Mich.) for her endorsement of GOP Senate candidate former Rep. Mike Rogers (Mich.). “Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help...",
-        "url": "https://thehill.com/homenews/campaign/6187175-trump-praises-stevens-gop-endorsement/"
+        "category": "This Week on The Hill",
+        "summary": "Washington is bracing for a consequential week that could potentially reshape the power balance on Capitol Hill next year. Decision Desk HQ (DDHQ), The Hill’s nonpartisan election forecasting partner, predicts Democrats will \"likely\" win back the House in Tuesday’s midterm elections. Its Senate majority projections also lean in the party's favor. Still, Republicans are doing...",
+        "url": "https://thehill.com/newsletters/this-week-on-the-hill/6185603-midterm-election-house-senate-control/"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6187117-schumer-rips-stevens-rogers-endorsement/",
+        "id": "https://thehill.com/homenews/house/6187358-don-bacon-gop-maga-debate/",
         "source": "The Hill",
-        "title": "Schumer calls Stevens's Rogers endorsement 'a despicable betrayal'",
+        "title": "Bacon thinks there will be 'debate' about MAGA future if GOP does poorly in midterms",
         "publicationDate": "2026-11-01",
-        "category": "Campaign",
-        "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) ripped Rep. Haley Stevens (D-Mich.) over her eleventh hour endorsement of Republican Mike Rogers in the competitive Michigan Senate contest. \"This is a despicable betrayal from Rep. Stevens,\" Schumer wrote Sunday on the social platform X, reiterating his support for Democrat Abdul El-Sayed in the race. Schumer's remarks are...",
-        "url": "https://thehill.com/homenews/campaign/6187117-schumer-rips-stevens-rogers-endorsement/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6187152-dnc-defends-michigan-alaska-candidates/",
-        "source": "The Hill",
-        "title": "DNC chair defends El-Sayed, Peltola as Democrats brace for post-election legal fights",
-        "publicationDate": "2026-11-01",
-        "category": "Campaign",
-        "summary": "Democratic National Committee (DNC) Chair Ken Martin defended Democratic Senate candidates Abdul El-Sayed and former Rep. Mary Peltola (D-Alaska) against recent GOP attacks amid growing concern the party will have to brace for post-election legal fights. “What Dr. El-Sayed has said is true. I mean, what most Michiganders care about is not all of this...",
-        "url": "https://thehill.com/homenews/campaign/6187152-dnc-defends-michigan-alaska-candidates/"
+        "category": "House",
+        "summary": "Rep. Don Bacon (R-Neb.) on Sunday said he thinks the Republican Party will “debate” the future of the MAGA movement should the GOP fare poorly in Tuesday’s elections. When asked by Jake Tapper on CNN’s \"State of the Union\" if an unsatisfactory midterm performance might signal the “beginning of the end for the MAGA movement,”...",
+        "url": "https://thehill.com/homenews/house/6187358-don-bacon-gop-maga-debate/"
     },
     {
         "id": "https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html",
@@ -216,12 +234,21 @@
         "url": "https://www.nytimes.com/2026/11/01/us/politics/beverly-hills-school-board.html"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "publicationDate": "2026-11-01",
+        "category": "Defense",
+        "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+        "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end",
+        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
         "publicationDate": "2026-11-01",
         "category": "Foreign Policy",
-        "summary": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+        "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
         "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -243,31 +270,31 @@
         "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Shops looted as German cost-of-living protests turn violent",
-        "publicationDate": "2026-11-01",
-        "category": "Other",
-        "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-        "publicationDate": "2026-11-01",
-        "category": "Other",
-        "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
-        "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Bulgarians projected to re-elect pro-Russian president",
+        "title": "What’s the risk of political violence? | Martin Wolf on the US midterms",
         "publicationDate": "2026-11-01",
-        "category": "Foreign Policy",
-        "summary": "Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls",
-        "url": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "Can American democracy emerge from the midterms stronger rather than more divided?",
+        "url": "https://www.ft.com/video/32bfcd99-db49-4f9c-9eeb-20978b496972?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: Gulf braced for renewed war between US and Iran",
+        "publicationDate": "2026-11-01",
+        "category": "Economy",
+        "summary": "Also in today’s newsletter: Binance users pull $3.6bn from crypto exchange and a junk debt rout sparks ‘bloodbath’ for credit investors",
+        "url": "https://www.ft.com/content/703dd322-e880-4bbf-80f8-8b0efda1831c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump makes final pitch to restive voters in midterms campaign",
+        "publicationDate": "2026-11-01",
+        "category": "Other",
+        "summary": "Republican Party is defending its control of Congress against signs of a backlash to the president",
+        "url": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
@@ -279,40 +306,13 @@
         "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Trump faces the voters",
-        "publicationDate": "2026-11-01",
-        "category": "Other",
-        "summary": "US midterm elections, Bank of England interest rate decision, John Ternus hosts first earnings call as Apple chief",
-        "url": "https://www.ft.com/content/ce8496a4-d728-49a1-afbe-f1c9eefe53a9?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+        "title": "Bulgarians projected to re-elect pro-Russian president",
         "publicationDate": "2026-11-01",
         "category": "Foreign Policy",
-        "summary": "Diplomats warn that renewed conflict would be even more damaging than previous rounds of fighting",
-        "url": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/bf03380a-3193-4342-b300-bcbfd8f51187",
-        "source": "Financial Times World",
-        "title": "*SOLD OUT* The FT Alphaville Pub Quiz returns to New York City on 17 November",
-        "publicationDate": "2026-11-01",
-        "category": "Other",
-        "summary": "Fun times this way ↓↓↓",
-        "url": "https://www.ft.com/content/bf03380a-3193-4342-b300-bcbfd8f51187"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible",
-        "source": "PBS NewsHour Politics",
-        "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
-        "publicationDate": "2026-10-31",
-        "category": "2026 Midterms",
-        "summary": "The Department of Justice on Friday added a request that the judge separate all ballots showing votes for the second Dan Sullivan until it can be determined whether voters were fooled into wasting their votes for a spoiler candidate.",
-        "url": "https://www.pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible"
+        "summary": "Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls",
+        "url": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1"
     },
     {
         "id": "96-548",
