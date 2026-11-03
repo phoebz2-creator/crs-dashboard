@@ -1,12 +1,93 @@
 [
     {
-        "id": "https://thehill.com/newsletters/technology/6190749-california-democrats-divided-on-billionaire-tax/",
-        "source": "The Hill",
-        "title": "California Democrats divided on billionaire tax",
+        "id": "https://www.cfr.org/articles/u-s-midterms-ai-chatbots-could-lend-influence-campaigns-new-credibility",
+        "source": "Council on Foreign Relations",
+        "title": "AI Chatbots Could Lend Influence Campaigns New Credibility",
         "publicationDate": "2026-11-03",
-        "category": "Economy",
-        "summary": "{beacon} Technology Technology The Big Story Billionaire tax divides California Democrats, draws myriad questions California voters this midterm cycle will decide whether the state will impose a wealth tax on billionaire residents, as wealthy Californians organize against the measure and experts say its potential broader impact on the state’s economy is nuanced. © Jae...",
-        "url": "https://thehill.com/newsletters/technology/6190749-california-democrats-divided-on-billionaire-tax/"
+        "category": "Foreign Policy",
+        "summary": "Google’s and Microsoft’s AI tools repeated falsehoods from a Russia-linked fake video that accused Texas Senate nominee James Talarico of misconduct. The episode shows how chatbots can lend influence operations credibility that no social media post could match.",
+        "url": "https://www.cfr.org/articles/u-s-midterms-ai-chatbots-could-lend-influence-campaigns-new-credibility"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6191007-haley-stevens-endorses-mike-rogers/",
+        "source": "The Hill",
+        "title": "Stevens shares rationale for endorsing Rogers over El-Sayed",
+        "publicationDate": "2026-11-03",
+        "category": "Campaign",
+        "summary": "Rep. Haley Stevens (D-Mich.) shared her rationale for her recent decision to endorse former Rep. Mike Rogers (R-Mich.) over Democrat Abdul El-Sayed in the state’s contested Senate race, citing campaign ads, among other reasons. \"Once I concluded that Abdul El-Sayed is not fit to serve in the United States Senate, I had to confront who...",
+        "url": "https://thehill.com/homenews/campaign/6191007-haley-stevens-endorses-mike-rogers/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/6190973-witkoff-announces-abu-dhabi-peace-negotiations/",
+        "source": "The Hill",
+        "title": "US to mediate Ukraine-Russia talks in Abu Dhabi next week, Witkoff says",
+        "publicationDate": "2026-11-03",
+        "category": "Foreign Policy",
+        "summary": "Special Envoy Steve Witkoff announced the U.S. would be mediating upcoming Ukraine and Russia peace talks in Abu Dhabi next week. “The United States will mediate working-level negotiations between Ukraine and Russia on November 10–11 in Abu Dhabi, advancing President Trump’s mission to end the war,” Witkoff wrote on the social platform X. “Discussions will...",
+        "url": "https://thehill.com/policy/international/6190973-witkoff-announces-abu-dhabi-peace-negotiations/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6190917-james-talarico-donald-trump-maga/",
+        "source": "The Hill",
+        "title": "Talarico says he wants to work with Trump on bipartisan MAGA agenda",
+        "publicationDate": "2026-11-03",
+        "category": "Campaign",
+        "summary": "Democratic Texas Senate candidate James Talarico said he would want to work with President Trump on a bipartisan “Make America Great Again” agenda. “I would love, as the next U.S. senator from Texas, to work with Donald Trump to actually fulfill some of the promises of his political project,” Talarico stated during an interview with...",
+        "url": "https://thehill.com/homenews/campaign/6190917-james-talarico-donald-trump-maga/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/",
+        "source": "The Hill",
+        "title": "US military strikes Iran’s Qeshm Island day before midterms",
+        "publicationDate": "2026-11-03",
+        "category": "Defense",
+        "summary": "The U.S. military struck radar detectors and missile launchers on Iran’s Qeshm Island on Monday, a day before the U.S. midterm elections as mediators continue to push the two sides to reach a peace deal. The Monday attack is a continuation of strikes against Iran and was defensive in nature, a U.S. official told NewsNation,...",
+        "url": "https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/"
+    },
+    {
+        "id": "https://thehill.com/policy/technology/6190741-democrats-accuse-x-polymarket-bias/",
+        "source": "The Hill",
+        "title": "Democrats accuse Musk's X of favoring Polymarket",
+        "publicationDate": "2026-11-03",
+        "category": "Technology",
+        "summary": "A group of Senate Democrats accused Elon Musk’s social media platform X of giving the prediction market Polymarket “preferential treatment” on its timeline. In a letter to X leadership Friday, Democratic Sens. Catherine Cortez Masto (Nev.), Jacky Rosen (Nev.), Adam Schiff (Calif.) and Richard Blumenthal (Conn.) sent screenshots appearing to show that X does not...",
+        "url": "https://thehill.com/policy/technology/6190741-democrats-accuse-x-polymarket-bias/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
+        "source": "New York Times Politics",
+        "title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+        "publicationDate": "2026-11-03",
+        "category": "Defense",
+        "summary": "The action was limited, the officials said, with no immediate plans to escalate. The strikes come on the eve of the midterm elections.",
+        "url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/02/us/politics/trump-elections-ballots-states-dhs.html",
+        "source": "New York Times Politics",
+        "title": "Judge Declines to Halt D.H.S. Demands for States to Screen Ballots",
+        "publicationDate": "2026-11-03",
+        "category": "Federal-State Relations (US)",
+        "summary": "Judge James E. Boasberg ruled that states had largely succeeded in rebuffing the Trump administration’s efforts to disqualify voters, and that Democratic plaintiffs hadn’t suffered direct impacts.",
+        "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-elections-ballots-states-dhs.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html",
+        "source": "New York Times Politics",
+        "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
+        "publicationDate": "2026-11-03",
+        "category": "Midterm Elections (2026)",
+        "summary": "A shattered alliance in Michigan between Dr. Abdul El-Sayed and his former primary rival, Representative Haley Stevens, underscored broader tensions in the party.",
+        "url": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/02/us/politics/democrats-election-day-midterms.html",
+        "source": "New York Times Politics",
+        "title": "Democrats Head Into Election Day Feeling Hopeful About the Midterms",
+        "publicationDate": "2026-11-03",
+        "category": "Politics and Government",
+        "summary": "Chuck Schumer thinks his party has expanded the map.",
+        "url": "https://www.nytimes.com/2026/11/02/us/politics/democrats-election-day-midterms.html"
     },
     {
         "id": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html",
@@ -16,6 +97,33 @@
         "category": "internal-open-access-from-nl",
         "summary": "On the eve of the election, the president held forth in great detail on columns, drain pipes and granite at the newly refilled Reflecting Pool.",
         "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "US strikes Iran ahead of midterm elections",
+        "publicationDate": "2026-11-03",
+        "category": "Foreign Policy",
+        "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+        "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "publicationDate": "2026-11-03",
+        "category": "Other",
+        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+        "publicationDate": "2026-11-03",
+        "category": "Foreign Policy",
+        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
@@ -36,31 +144,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/d629be83-a1d5-4a08-aa69-93910ce50aa7?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "‘Quiet quitting’ is real and may be hitting British productivity, analysis claims",
-        "publicationDate": "2026-11-03",
-        "category": "Other",
-        "summary": "Employees have become more disengaged in the last ten years and less willing to put in extra effort",
-        "url": "https://www.ft.com/content/d629be83-a1d5-4a08-aa69-93910ce50aa7?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Chinese and Russian AI cyber attacks will be routine by 2028, says GCHQ",
+        "title": "US strikes Iran’s Qeshm Island on eve of election",
         "publicationDate": "2026-11-03",
         "category": "Foreign Policy",
-        "summary": "Head of National Cyber Security Centre set to warn security defences, particularly for critical infrastructure, are inadequate",
-        "url": "https://www.ft.com/content/131d9506-04b1-49b8-ba79-b0d783219c40?syn-25a6b1a6=1"
+        "summary": "Oil price steady as Washington says attacks were defensive measure against Tehran’s potential use of surface-to-air missiles",
+        "url": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
     },
     {
-        "id": "IN12752",
+        "id": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Australia raises rates to highest level since 2008 financial crisis",
+        "publicationDate": "2026-11-03",
+        "category": "Economy",
+        "summary": "Central bank’s fifth increase this year comes as inflation remains above target",
+        "url": "https://www.ft.com/content/60283bdf-e45d-4723-a68e-5a857a5b949e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Live US midterm elections results — in charts and maps",
+        "publicationDate": "2026-11-03",
+        "category": "Other",
+        "summary": "The latest updates on the races that will shape the balance of power in Washington",
+        "url": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/fec5981d-0c31-4f21-9a37-a1dd1526f530?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "China halts listings in bid to bolster struggling markets",
+        "publicationDate": "2026-11-03",
+        "category": "Foreign Policy",
+        "summary": "CSI 300 index posted worst month in more than a decade in October",
+        "url": "https://www.ft.com/content/fec5981d-0c31-4f21-9a37-a1dd1526f530?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1a81ea73-6dc8-4d94-8cbf-f88891872bb0?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Argentina pitches the EU on food, energy and minerals ‘solutions’",
+        "publicationDate": "2026-11-03",
+        "category": "Other",
+        "summary": "Also in this newsletter: The risks of Chinese wind turbines",
+        "url": "https://www.ft.com/content/1a81ea73-6dc8-4d94-8cbf-f88891872bb0?syn-25a6b1a6=1"
+    },
+    {
+        "id": "IF12218",
         "source": "Congressional Research Service",
-        "title": "Congressional Considerations for Financial Institution Transaction Holds",
+        "title": "Farm Bill Primer: Farm Safety Net Programs",
         "publicationDate": "2026-11-02",
         "category": "Economy",
-        "summary": "Reported losses associated with financial fraud and scams have been increasing, garnering attention from law enforcement, private industry, policymakers, and the general public. According to the Federal Trade Commission (FTC), total losses from fraud were an estimated $262 billion in 2025. Such scams are often initiated through technology, including through social media or telecommunications, but finalized through...",
-        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12752/IN12752.1.pdf"
+        "summary": "The federal “farm safety net” refers to a collection of programs administered by the U.S. Department of Agriculture (USDA) that provide risk protection and income support to farmers in the United States in response to natural disasters, adverse growing conditions, and/or low market prices. Farm safety net programs include the Federal Crop Insurance Program (FCIP), farm-bill-authorized commodity support and disaster...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12218/IF12218.2.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/how-rebeca-grynspan-would-lead-the-united-nations-three-interview-takeaways",
@@ -153,6 +288,24 @@
         "url": "https://www.hudson.org/events/peace-through-strength-how-reagans-military-buildup-won-cold-war"
     },
     {
+        "id": "https://cms.hoover.org/research/government-waste-fraud-and-abuse",
+        "source": "Hoover Institution",
+        "title": "Government Waste, Fraud, And Abuse",
+        "publicationDate": "2026-11-02",
+        "category": "Other",
+        "summary": "Waste, fraud, and abuse of public funds are among the oldest and most persistent issues in American history.",
+        "url": "https://cms.hoover.org/research/government-waste-fraud-and-abuse"
+    },
+    {
+        "id": "https://cms.hoover.org/research/does-coercive-bombing-work",
+        "source": "Hoover Institution",
+        "title": "Does Coercive Bombing Work?",
+        "publicationDate": "2026-11-02",
+        "category": "Defense",
+        "summary": "Air power is a relatively new feature of warfare. Conversely, military coercion, actions to force an adversary to change its behavior short of full-scale war, is as old as history itself. Coercion is a tool of statecraft that offers the benefits of winning a war without incurring the costs. The rise of air power has arguably increased the attractiveness of coercive statecraft, especially for wealthy democratic...",
+        "url": "https://cms.hoover.org/research/does-coercive-bombing-work"
+    },
+    {
         "id": "https://cms.hoover.org/research/us-china-relations-apec-summit-outcomes-strategic-realities",
         "source": "Hoover Institution",
         "title": "US-China Relations: From APEC Summit Outcomes To Strategic Realities",
@@ -178,24 +331,6 @@
         "category": "Other",
         "summary": "Hoover Institution fellows weighed in: Russell Berman called the turnout “far beyond what we see in the US.” Larry Diamond noted that the election posed challenges for Netanyahu’s coalition, which he said held 61 seats before the vote but won only 53. “Avoiding another round of elections will require creativity, compromise, and focus on the national interest,” Peter Berkowitz wrote.",
         "url": "https://cms.hoover.org/research/messy-and-complicated-scholars-expect-long-standoff-deadlocked-israel-election-0"
-    },
-    {
-        "id": "https://cms.hoover.org/research/united-states-trails-china-math-and-science",
-        "source": "Hoover Institution",
-        "title": "The United States Trails China In Math And Science",
-        "publicationDate": "2026-11-02",
-        "category": "Foreign Policy",
-        "summary": "Hoover Institution fellows Eric Hanushek and Ludger Woessmann have found that the cognitive skills of a country’s population are strongly associated with individual earnings and economic growth. In a separate report, the authors concluded that “a highly skilled workforce can raise economic growth by about two-thirds of a percentage point every year.”",
-        "url": "https://cms.hoover.org/research/united-states-trails-china-math-and-science"
-    },
-    {
-        "id": "https://cms.hoover.org/research/results-ballot-measures-related-state-constitutional-rights-2026",
-        "source": "Hoover Institution",
-        "title": "Results For Ballot Measures Related To State Constitutional Rights, 2026",
-        "publicationDate": "2026-11-02",
-        "category": "Other",
-        "summary": "Hoover Institution fellow Clint Bolick said, \"I call this the freedom ratchet: the U.S. Constitution provides the floor beneath individual rights, while state constitutions can provide greater but not lesser protection.\"",
-        "url": "https://cms.hoover.org/research/results-ballot-measures-related-state-constitutional-rights-2026"
     },
     {
         "id": "https://www.npr.org/2026/11/02/nx-s1-6019547/coal-no-longer-king-in-navajo-nation-presidential-election",
@@ -247,7 +382,7 @@
         "source": "PBS NewsHour Politics",
         "title": "Where the battle for Congress stands heading into Election Day",
         "publicationDate": "2026-11-02",
-        "category": "Other",
+        "category": "Democrats",
         "summary": "Candidates spent the day making their final pitches to voters following a weekend of last-minute rallies and a high-profile Democratic defection in Michigan. President Trump delivered his closing message in Washington at the Lincoln Memorial Reflecting Pool after days of campaigning in mostly red states. Lisa Desjardins reports.",
         "url": "https://www.pbs.org/newshour/show/where-the-battle-for-congress-stands-heading-into-election-day"
     },
@@ -256,180 +391,72 @@
         "source": "PBS NewsHour Politics",
         "title": "Surprise endorsement in Michigan Senate race a 'huge distraction,' says Rep. Dingell",
         "publicationDate": "2026-11-02",
-        "category": "Other",
+        "category": "Abdul El-Sayed",
         "summary": "Michigan Rep. Haley Stevens' decision to back Republican Mike Rogers in the U.S. Senate race has sent shockwaves through the Democratic Party. To discuss the shifting dynamics in the Senate race, Amna Nawaz spoke with Michigan Democratic Congresswoman Debbie Dingell.",
         "url": "https://www.pbs.org/newshour/show/surprise-endorsement-in-michigan-senate-race-a-huge-distraction-says-rep-dingell"
     },
     {
-        "id": "https://www.pbs.org/newshour/nation/why-health-insurance-premiums-are-rising-according-to-experts",
+        "id": "https://www.pbs.org/newshour/show/muslim-communities-confront-surge-of-hostility-during-midterms",
         "source": "PBS NewsHour Politics",
-        "title": "Why health insurance premiums are rising, according to experts",
+        "title": "Muslim communities confront surge of hostility during midterms",
         "publicationDate": "2026-11-02",
-        "category": "Healthcare",
-        "summary": "Annual premiums for employer-provided healthcare coverage are expected to rise sharply next year, with workers shouldering more of the costs.",
-        "url": "https://www.pbs.org/newshour/nation/why-health-insurance-premiums-are-rising-according-to-experts"
+        "category": "islamophobia",
+        "summary": "In the run-up to the midterm elections, experts have documented a surge of Islamophobia in political ads and speeches. Special correspondent Fred de Sam Lazaro reports on some of the targets of that rhetoric and the impact it's making. It's part of our series, Race Matters.",
+        "url": "https://www.pbs.org/newshour/show/muslim-communities-confront-surge-of-hostility-during-midterms"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/in-an-alaska-fishing-community-the-dan-sullivan-episode-takes-an-ominous-turn",
+        "id": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-early-signals-to-watch-on-election-night",
         "source": "PBS NewsHour Politics",
-        "title": "In an Alaska fishing community, the Dan Sullivan episode takes an ominous turn",
+        "title": "Tamara Keith and Amy Walter on the early signals to watch on Election Night",
         "publicationDate": "2026-11-02",
-        "category": "2026 Midterms",
-        "summary": "In Petersburg, Alaska, nobody has seen Dan J. Sullivan for weeks. Sullivan's rustic home stood dark a day after FBI agents paid a visit to friends who donated to his campaign to unseat the Republican senator with the same first and last name.",
-        "url": "https://www.pbs.org/newshour/politics/in-an-alaska-fishing-community-the-dan-sullivan-episode-takes-an-ominous-turn"
+        "category": "Politics Monday",
+        "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump's focus on the Reflecting Pool on the day before the election, the last-minute spectacle in the Michigan Senate race and the early signals to watch on Election Night.",
+        "url": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-the-early-signals-to-watch-on-election-night"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/voters-on-the-left-and-right-fear-the-america-theyve-known-is-slipping-away",
+        "id": "https://www.pbs.org/newshour/show/inside-the-aps-process-for-calling-election-races",
         "source": "PBS NewsHour Politics",
-        "title": "Voters on the left and right fear the America they've known is slipping away",
+        "title": "Inside the AP's process for calling election races",
         "publicationDate": "2026-11-02",
-        "category": "polarization",
-        "summary": "Whether they're from the left or the right, they're worried that the America they've known is slipping away. They see the political class stirring up anger and hate and turning neighbors against each other.",
-        "url": "https://www.pbs.org/newshour/politics/voters-on-the-left-and-right-fear-the-america-theyve-known-is-slipping-away"
+        "category": "Associated Press",
+        "summary": "Millions of votes have been cast in this midterm election. Traditional battlegrounds have expanded in the fight to control Congress. It all comes down to one question: who won? This year, PBS News is again relying on the Associated Press to call winners in critical races. For a closer look at how the AP makes those race calls, Deema Zein spoke with David Scott of the Associated Press.",
+        "url": "https://www.pbs.org/newshour/show/inside-the-aps-process-for-calling-election-races"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6190693-el-sayed-sh-lettuce-act/",
-        "source": "The Hill",
-        "title": "El-Sayed wants to pass 'Sh-- Lettuce Elimination Act'",
-        "publicationDate": "2026-11-02",
-        "category": "Campaign",
-        "summary": "Michigan Senate candidate Abdul El-Sayed (D) told reporters that if he was elected to the upper chamber, he wanted to pass an act related to 2026’s cyclospora outbreak: The Sh-- Lettuce Elimination Act. “For a long time here in Michigan, right, over the summer, there were a lot of people who ate lettuce and then...",
-        "url": "https://thehill.com/homenews/campaign/6190693-el-sayed-sh-lettuce-act/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6190665-cook-political-report-michigan-senate/",
-        "source": "The Hill",
-        "title": "Michigan Senate race shifts to 'lean Democrat' in final Cook Political Report rating",
-        "publicationDate": "2026-11-02",
-        "category": "Campaign",
-        "summary": "The nonpartisan political handicapper Cook Political Report has shifted its rating of the 2026 Michigan Senate race to lean Democratic. In a post Monday on the social platform X, the Cook Political Report said it was “issuing its final Senate ratings of the 2026 midterm cycle” and that “the Michigan Senate race moves from Toss...",
-        "url": "https://thehill.com/homenews/campaign/6190665-cook-political-report-michigan-senate/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6190569-duckworth-condemns-trump-flyover/",
-        "source": "The Hill",
-        "title": "Duckworth condemns Trump's low Halloween flyover, demands answers",
-        "publicationDate": "2026-11-02",
-        "category": "Defense",
-        "summary": "Sen. Tammy Duckworth (D-Ill.) condemned President Trump’s recent low flyover on Halloween in a Monday letter to Federal Aviation Administration (FAA) Administrator Bryan Bedford, Defense Secretary Pete Hegseth and Office of Management and Budget (OMB) Director Russell Vought. The flyover occurred last Thursday during the White House’s Halloween party with Air Force One making two...",
-        "url": "https://thehill.com/homenews/senate/6190569-duckworth-condemns-trump-flyover/"
-    },
-    {
-        "id": "https://thehill.com/homenews/analysis/6190573-michigan-senate-race-el-sayed-rogers-stevens/",
-        "source": "The Hill",
-        "title": "The Memo: Michigan Senate chaos may preview Democratic clashes ahead",
-        "publicationDate": "2026-11-02",
-        "category": "Analysis",
-        "summary": "Chaos in Michigan is raising the stakes even higher in one of the most closely watched Senate battles in the nation. The political world was agog on Sunday when Rep. Haley Stevens (D-Mich.) endorsed the GOP’s Senate candidate, former Rep. Mike Rogers (R-Mich.), over her party colleague Abdul El-Sayed. Democrats immediately and fiercely denounced Stevens,...",
-        "url": "https://thehill.com/homenews/analysis/6190573-michigan-senate-race-el-sayed-rogers-stevens/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/02/insider/trump-speeches-analysis.html",
-        "source": "New York Times Politics",
-        "title": "How The New York Times Reviewed 7 Million Words Uttered by Trump",
-        "publicationDate": "2026-11-02",
-        "category": "Trump",
-        "summary": "Two Times journalists, blending A.I. analysis and traditional reporting, evaluated public speeches to spot trends.",
-        "url": "https://www.nytimes.com/2026/11/02/insider/trump-speeches-analysis.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/02/us/politics/grand-jury-justice-dept-voter-fraud.html",
-        "source": "New York Times Politics",
-        "title": "Grand Jury Rejects Trump Administration’s Effort to Charge Individual With Voter Fraud",
-        "publicationDate": "2026-11-02",
-        "category": "United States Politics and Government",
-        "summary": "The rejection demonstrates the department’s harried push to prove President Trump’s unsubstantiated claims of rampant voter fraud.",
-        "url": "https://www.nytimes.com/2026/11/02/us/politics/grand-jury-justice-dept-voter-fraud.html"
-    },
-    {
-        "id": "https://www.nytimes.com/video/us/politics/100000011250897/how-money-is-shaping-the-midterms.html",
-        "source": "New York Times Politics",
-        "title": "How Money Is Shaping the Midterms",
-        "publicationDate": "2026-11-02",
-        "category": "Midterm Elections (2026)",
-        "summary": "The 2026 midterm election is the most expensive national midterm election in U.S. history, with more than $11 billion in ad spending. Our national political correspondent Shane Goldmacher breaks down where all that money is going.",
-        "url": "https://www.nytimes.com/video/us/politics/100000011250897/how-money-is-shaping-the-midterms.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/02/us/politics/election-integrity-polling-sites.html",
-        "source": "New York Times Politics",
-        "title": "What Voters Should Know About Election Security for the 2026 Midterms",
-        "publicationDate": "2026-11-02",
-        "category": "United States Politics and Government",
-        "summary": "Despite worries about federal intervention, local and state officials say they are well prepared to run a secure election.",
-        "url": "https://www.nytimes.com/2026/11/02/us/politics/election-integrity-polling-sites.html"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-        "publicationDate": "2026-11-02",
-        "category": "Foreign Policy",
-        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Shop freezers in seven European countries hit by cyber-attack",
-        "publicationDate": "2026-11-02",
-        "category": "Technology",
-        "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-        "publicationDate": "2026-11-02",
-        "category": "Foreign Policy",
-        "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
-        "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/b3619ebb-01cc-4458-bc77-b04e5b16b658?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US Supreme Court rejects Trump request to intervene in California vote count",
-        "publicationDate": "2026-11-02",
-        "category": "Other",
-        "summary": "Justices issue latest blow to president’s attempts to use the power of federal government to influence elections",
-        "url": "https://www.ft.com/content/b3619ebb-01cc-4458-bc77-b04e5b16b658?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/542e044e-23c6-42a6-a8a6-640ea04205ff?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "My tax rises made Britain’s economy stronger, says Reeves",
-        "publicationDate": "2026-11-02",
-        "category": "Economy",
-        "summary": "Former chancellor argues that national insurance increase pushed a break with ‘low-wage, low-investment cycle’",
-        "url": "https://www.ft.com/content/542e044e-23c6-42a6-a8a6-640ea04205ff?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
-        "publicationDate": "2026-11-02",
-        "category": "Defense",
-        "summary": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
-        "url": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1"
-    },
-    {
-        "id": "R44263",
+        "id": "R49496",
         "source": "Congressional Research Service",
-        "title": "Veterans Day Speech Resources: Fact Sheet",
+        "title": "U.S. Aluminum Manufacturing: Industry Trends and Policy Options",
         "publicationDate": "2026-10-30",
-        "category": "Other",
-        "summary": "This fact sheet is designed to assist congressional offices with work related to Veterans Day. It contains a brief history, CRS reports, selected speeches and recognitions, presidential proclamations and remarks, and statistics. It also contains links to additional web resources from authoritative sources.",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R44263/R44263.17.pdf"
+        "category": "Defense",
+        "summary": "Aluminum—a lightweight, ductile, malleable, and corrosion-resistant metal—is used in a variety of consumer, industrial, and technological goods, including aircraft, food packaging, building materials, motor vehicles, and several types of military equipment. The wide array of products and infrastructures containing aluminum make the metal essential to the economy and national security of the United States. Aluminum...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49496/R49496.2.pdf"
     },
     {
-        "id": "https://www.cfr.org/articles/the-demise-of-democracy-isnt-here-yet",
-        "source": "Council on Foreign Relations",
-        "title": "The Demise of Democracy Isn’t Here Yet",
+        "id": "R49498",
+        "source": "Congressional Research Service",
+        "title": "Bipartisan American Affordability and Jobs Act (BAAJA) of 2026: Analysis of National Historic Preservation Act Provisions",
         "publicationDate": "2026-10-30",
-        "category": "Article",
-        "summary": "CFR President Michael Froman analyzes the high level of participation and youth involvement in recent global elections.",
-        "url": "https://www.cfr.org/articles/the-demise-of-democracy-isnt-here-yet"
+        "category": "Other",
+        "summary": "The Bipartisan American Affordability and Jobs Act of 2026 (BAAJA; S. 5653) was introduced on September 30, 2026. The bill, as introduced, contains seven titles within two divisions, which aim to reform certain federal environmental review and permitting processes to expedite a wide range of project types, with an emphasis on energy-related projects. Some Members have shown sustained interest over several...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49498/R49498.5.pdf"
+    },
+    {
+        "id": "R49497",
+        "source": "Congressional Research Service",
+        "title": "FY2026 District of Columbia Budget and Appropriations",
+        "publicationDate": "2026-10-30",
+        "category": "Economy",
+        "summary": "The District of Columbia (DC) government’s local operating budget and much of its local legislation is subject to congressional approval, pursuant to the plenary legislative authority of Congress over the federal capital granted by the U.S. Constitution. In addition to congressional authority over the DC budget process, annual federal appropriations legislation has typically included a series of federal payments...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49497/R49497.2.pdf"
+    },
+    {
+        "id": "R46406",
+        "source": "Congressional Research Service",
+        "title": "Voter Registration: Recent Developments and Issues for Congress",
+        "publicationDate": "2026-10-30",
+        "category": "Foreign Policy",
+        "summary": "Voter registration policies are typically determined by state and local governments, subject to certain federal requirements. Historically, much of the federal policy discussion surrounding voter registration has focused on providing access to registration opportunities. Some federal statutes that primarily address preserving voting access for certain constituencies also include provisions that address voter...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46406/R46406.10.pdf"
     },
     {
         "id": "https://www.cer.eu/friends-cer-notes-brussels-october-2026",
@@ -439,15 +466,6 @@
         "category": "Other",
         "summary": "Description not available from the source feed.",
         "url": "https://www.cer.eu/friends-cer-notes-brussels-october-2026"
-    },
-    {
-        "id": "R46236",
-        "source": "Congressional Research Service",
-        "title": "Brazil: Background and U.S. Relations",
-        "publicationDate": "2026-10-29",
-        "category": "Economy",
-        "summary": "Brazil has the potential to play an influential role in international affairs as the 5th-largest territory, 7th-most populous country, and 11th-largest economy in the world. Given Brazil’s potential strategic importance, Members of Congress sometimes have explored ways to bolster U.S.-Brazil cooperation and Brazil periodically has been a focal point of U.S. policy in Latin America. The United States and Brazil...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46236/R46236.13.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4215-1.html",
@@ -565,23 +583,5 @@
         "category": "Economy",
         "summary": "On this week’s Unpacking Europe podcast, James Green , a research fellow at the Centre for European Reform spoke with Claudia-Dominique Geiser, a senior expert in EU Economic Policy at the Bertelsmann Stiftung and Marlene Schörner, a policy fellow, in EU Financial Markets at the Jacques Delors Centre to discuss how to scale up innovation in Europe to strengthen economic competitiveness and support strategic...",
         "url": "https://www.cer.eu/media/unpacking-europe-scaling-innovation-europe"
-    },
-    {
-        "id": "R46943",
-        "source": "Congressional Research Service",
-        "title": "Voter Registration Records and List Maintenance for Federal Elections",
-        "publicationDate": "2026-05-19",
-        "category": "Foreign Policy",
-        "summary": "Each state except North Dakota requires voter registration as a prerequisite for voting in federal elections. The accuracy of voter registration records is often considered important for election administration, as these records are typically used to create poll books (lists of eligible voters) or otherwise assess the eligibility of individuals to cast a ballot in an election. This information can help election...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R46943/R46943.11.pdf"
-    },
-    {
-        "id": "R43973",
-        "source": "Congressional Research Service",
-        "title": "Memorial Day Speech Resources: Fact Sheet",
-        "publicationDate": "2026-05-12",
-        "category": "Defense",
-        "summary": "Memorial Day is a day of reflection and remembrance of those who died while serving in the U.S. military. Many Americans observe Memorial Day by visiting cemeteries or memorials and placing flags or wreaths. They may also participate in Memorial Day parades or hold family gatherings, such as a barbecue. Memorial Day also unofficially marks the beginning of summer. This guide is designed to assist congressional...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43973/R43973.21.pdf"
     }
 ]
