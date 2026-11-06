@@ -1,12 +1,57 @@
 [
     {
-        "id": "https://thehill.com/homenews/campaign/6202901-midterm-congressional-gop-redistricting-analysis/",
-        "source": "The Hill",
-        "title": "Failed GOP redistricting in South Carolina, Indiana would have backfired: DDHQ",
+        "id": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
+        "source": "NPR Politics",
+        "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
         "publicationDate": "2026-11-06",
-        "category": "Campaign",
-        "summary": "Republicans across the country redrew congressional maps for their benefit ahead of the 2026 midterms, but it failed to yield them gains in most places. An analysis shared Thursday shows it could have been worse. South Carolina and Indiana Republicans both rejected efforts to implement GOP-friendly maps that could eliminate all Democratic seats, which Democrats...",
-        "url": "https://thehill.com/homenews/campaign/6202901-midterm-congressional-gop-redistricting-analysis/"
+        "category": "Other",
+        "summary": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days.",
+        "url": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/",
+        "source": "The Hill",
+        "title": "Hegseth not in consideration for Tennessee Senate: Report",
+        "publicationDate": "2026-11-06",
+        "category": "Defense",
+        "summary": "Defense Secretary Pete Hegseth is reportedly not in consideration to replace Tennessee Gov.-elect Marsha Blackburn’s (R) open Senate seat. An Associated Press report, citing a person familiar with the matter who discussed the private conversations on condition of anonymity, stated that Hegseth is not being considered for the seat. Instead, Blackburn was focused on her...",
+        "url": "https://thehill.com/policy/defense/6203115-hegseth-tennessee-senate-seat-blackburn/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6202351-ncpc-approves-trump-arch/",
+        "source": "The Hill",
+        "title": "NCPC approves plan to build Trump's triumphal arch",
+        "publicationDate": "2026-11-06",
+        "category": "Administration",
+        "summary": "The National Capital Planning Commission (NCPC) on Thursday voted to approve plans to build a triumphal arch championed by President Trump between the Lincoln Memorial and Arlington National Cemetery. The motion to approve the project passed by an 8-4 vote after listening to over 100 public remarks largely against the project after a nearly 9-hour...",
+        "url": "https://thehill.com/homenews/administration/6202351-ncpc-approves-trump-arch/"
+    },
+    {
+        "id": "https://thehill.com/homenews/state-watch/6203045-texas-hinojosa-data-centers/",
+        "source": "The Hill",
+        "title": "Hinojosa vows to protect Texas citizens from data centers",
+        "publicationDate": "2026-11-06",
+        "category": "State Watch",
+        "summary": "Texas Gov.-elect Gina Hinojosa (D) vowed to protect Texans from data center projects after she is sworn into office in January. “Well, we have always been a pro-business state in Texas, but what changes now with me as governor is it has to be a partnership that benefits Texans,” Hinojosa said during an appearance on...",
+        "url": "https://thehill.com/homenews/state-watch/6203045-texas-hinojosa-data-centers/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6190015-washington-voters-approve-transgender-athlete-ballot-measure/",
+        "source": "The Hill",
+        "title": "Washington voters approve transgender athlete ban",
+        "publicationDate": "2026-11-06",
+        "category": "Healthcare",
+        "summary": "Washington voters are projected to reverse the state’s long-standing policy that has allowed transgender girls to compete on girls’ and women’s school sports teams, according to Decision Desk HQ. The ballot measure will require students to submit documentation from a healthcare provider verifying their sex before playing on a girls’ team. It’s a major loss...",
+        "url": "https://thehill.com/homenews/campaign/6190015-washington-voters-approve-transgender-athlete-ballot-measure/"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/",
+        "source": "The Hill",
+        "title": "2 House Democrats float idea of Blanche impeachment",
+        "publicationDate": "2026-11-06",
+        "category": "House",
+        "summary": "Two House Democrats are already floating the impeachment of Attorney General Todd Blanche after the GOP’s sweeping midterm election defeats, suggesting Democrats could win enough Republican support in the Senate to remove him from office. Reps. Hank Johnson (D-Ga.) and Deborah Ross (D-N.C.) voiced their support for impeaching Blanche on Thursday, just two days after...",
+        "url": "https://thehill.com/homenews/house/6203031-house-democrats-push-blanche-impeachment/"
     },
     {
         "id": "https://www.nytimes.com/2026/11/05/us/politics/rubio-elections-venezuela.html",
@@ -36,13 +81,13 @@
         "url": "https://www.nytimes.com/2026/11/05/us/politics/democrats-blue-wave-elections-districts.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
         "publicationDate": "2026-11-06",
         "category": "Other",
-        "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+        "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
@@ -54,13 +99,67 @@
         "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/aa2f03e3-e73e-48c2-b183-610fa00051e1?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Merge police into 10 larger forces, says Met chief",
+        "id": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
         "publicationDate": "2026-11-06",
         "category": "Other",
-        "summary": "Sir Mark Rowley wants the existing 43 forces in England and Wales to be consolidated into bigger and more effective units",
-        "url": "https://www.ft.com/content/aa2f03e3-e73e-48c2-b183-610fa00051e1?syn-25a6b1a6=1"
+        "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Macau jails pro-democracy campaigner in city's first national security case",
+        "publicationDate": "2026-11-06",
+        "category": "Other",
+        "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/5397eabe-5c04-4851-a216-9a269f69682c?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Putin orders seizure of Japan Tobacco’s Russian business",
+        "publicationDate": "2026-11-06",
+        "category": "Foreign Policy",
+        "summary": "Expropriation of market’s largest cigarette company set to further strain ties between Moscow and Tokyo",
+        "url": "https://www.ft.com/content/5397eabe-5c04-4851-a216-9a269f69682c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "The sell-off gets deep",
+        "publicationDate": "2026-11-06",
+        "category": "Other",
+        "summary": "But not broad, yet",
+        "url": "https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/44d83edf-de3b-4a4c-81d0-0a9029e7f46e?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "IEA chief predicts climate action comeback ahead of COP31 summit",
+        "publicationDate": "2026-11-06",
+        "category": "Other",
+        "summary": "Also in this newsletter: Nato launches online marketplace to speed up anti-drone purchases",
+        "url": "https://www.ft.com/content/44d83edf-de3b-4a4c-81d0-0a9029e7f46e?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0",
+        "source": "Financial Times World",
+        "title": "Ark Invest wants to bring some ‘disruptive innovation’ to interval funds",
+        "publicationDate": "2026-11-06",
+        "category": "Other",
+        "summary": "Tokenised, exchange-traded interval funds with venture capital exposure and hedge fund-level fees. What could go wrong?",
+        "url": "https://www.ft.com/content/dce2b9da-a4c6-4016-af78-7c41ac41a6b0"
+    },
+    {
+        "id": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "FirstFT: Global stocks tumble as Democratic sweep sparks AI rout",
+        "publicationDate": "2026-11-06",
+        "category": "Other",
+        "summary": "Also in today’s newsletter: US tech barons and Jaguar Land Rover recall",
+        "url": "https://www.ft.com/content/7d123a1c-d627-44c4-adf5-48b75d3313b0?syn-25a6b1a6=1"
     },
     {
         "id": "IF13343",
@@ -234,13 +333,13 @@
         "url": "https://www.npr.org/2026/11/05/nx-s1-6030848/what-the-blue-wave-looked-like-in-north-carolina"
     },
     {
-        "id": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row",
-        "source": "NPR Politics",
-        "title": "Newsom announces he will commute sentences of inmates on California's death row",
+        "id": "https://www.pbs.org/newshour/politics/jd-habibi-arabs-celebrate-el-sayeds-use-of-a-term-of-affection-in-his-victory-speech",
+        "source": "PBS NewsHour Politics",
+        "title": "'JD, habibi.' Arabs celebrate El-Sayed's use of a term of affection in his victory speech",
         "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "California Gov. Gavin Newsom announced that he's commuting the sentences of all inmates on the state's Death Row. The governor says at 548 people, it's the largest death row in the Western Hemisphere.",
-        "url": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row"
+        "category": "2026 Midterms",
+        "summary": "\"Habibi\" literally translates to \"my beloved\" and is peppered through Arab pop songs. In everyday speech, it often means \"buddy,\" \"pal,\" or \"bro.\" El-Sayed's supporters have sported shirts reading \"Habibi for Abdul.\"",
+        "url": "https://www.pbs.org/newshour/politics/jd-habibi-arabs-celebrate-el-sayeds-use-of-a-term-of-affection-in-his-victory-speech"
     },
     {
         "id": "https://www.pbs.org/newshour/world/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-u-s",
@@ -274,54 +373,9 @@
         "source": "PBS NewsHour Politics",
         "title": "Rep. Garcia says voters gave Democrats a mandate to pursue accountability",
         "publicationDate": "2026-11-05",
-        "category": "Other",
+        "category": "Democrats",
         "summary": "With Democrats set to take control of the House, they are making plans to use their majority not only to advance legislation but also to ramp up congressional oversight. California Rep. Robert Garcia is expected to become the new chairman of the House Oversight Committee. He says Democrats have plans to move quickly with a series of investigations. Garcia joined Liz Landers to discuss more.",
         "url": "https://www.pbs.org/newshour/show/rep-garcia-says-voters-gave-democrats-a-mandate-to-pursue-accountability"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/hegseth-allows-national-guard-to-boost-dc-patrols-with-military-vehicles-boats-and-patrol-cars",
-        "source": "PBS NewsHour Politics",
-        "title": "Hegseth allows National Guard to boost DC patrols with military vehicles, boats and patrol cars",
-        "publicationDate": "2026-11-05",
-        "category": "Defense",
-        "summary": "Defense Secretary Pete Hegseth has signed off on the National Guard ramping up its presence in the nation's capital in military vehicles and boats as troops deepen their integration with local law enforcement.",
-        "url": "https://www.pbs.org/newshour/politics/hegseth-allows-national-guard-to-boost-dc-patrols-with-military-vehicles-boats-and-patrol-cars"
-    },
-    {
-        "id": "https://thehill.com/newsletters/business-economy/6202879-wyden-reveals-senate-finance-democrats-agenda-for-120th-congress/",
-        "source": "The Hill",
-        "title": "Wyden reveals Senate Finance Democrats' agenda for 120th Congress",
-        "publicationDate": "2026-11-05",
-        "category": "Economy",
-        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Wyden reveals Senate Finance Democrats' agenda for 120th Congress After Democrats clinched the Senate majority for next Congress, Sen. Ron Wyden (D-Ore.) outlined the agenda for party members on the Senate Finance Committee. © Natasha Kaiser...",
-        "url": "https://thehill.com/newsletters/business-economy/6202879-wyden-reveals-senate-finance-democrats-agenda-for-120th-congress/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/",
-        "source": "The Hill",
-        "title": "Trump seeks national monument status for iconic White House rooms",
-        "publicationDate": "2026-11-05",
-        "category": "Energy & Environment Newsletter",
-        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump makes Oval Office a national monument President Trump signed a proclamation Thursday seeking to designate two iconic White House spaces, the Oval Office and Cabinet Room, as national monuments. © Alex Brandon, Associated Press Trump said Congress would have to ratify the proclamation,...",
-        "url": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/",
-        "source": "The Hill",
-        "title": "Hegseth in ‘trouble’ as Trump faces music on Iran war, midterms",
-        "publicationDate": "2026-11-05",
-        "category": "Defense",
-        "summary": "Defense Secretary Pete Hegseth’s future leading the Pentagon looks increasingly uncertain as his critics within the administration blame him for helping push President Trump into a war that contributed to massive midterm losses on Tuesday. Two sources familiar with the discussion said the president is asking allies about Hegseth’s standing. One of those sources said...",
-        "url": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/technology/6202843-chamber-of-progresss-to-do-list-for-democrats/",
-        "source": "The Hill",
-        "title": "Chamber of Progress's 'to-do list' for Democrats",
-        "publicationDate": "2026-11-05",
-        "category": "Technology",
-        "summary": "{beacon} Technology Technology The Big Story Chamber of Progress's 'to-do list' for Dems The center-left technology policy group Chamber of Progress is laying out its policy priorities for Democrats, as the party prepares to take back control of the House and Senate next year. © Illustration / Samantha Wong; and Adobe Stock In a memo...",
-        "url": "https://thehill.com/newsletters/technology/6202843-chamber-of-progresss-to-do-list-for-democrats/"
     },
     {
         "id": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
@@ -342,24 +396,6 @@
         "url": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-        "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "California governor commutes sentences for state's 548 death row inmates",
@@ -367,42 +403,6 @@
         "category": "Other",
         "summary": "California has historically had the largest population of people on death row in the US.",
         "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
-        "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Job adverts will have to publish salaries, ministers say",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "Move, intended to reduce pay inequalities, could end vague references to ‘competitive salary’",
-        "url": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Nearly 600,000 join latest protests in France",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "Demonstrations over cost of living on Thursday appeared to attract the biggest turnout since the movement began in September",
-        "url": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Why pollsters underestimated the size of the Democrats’ US midterm ‘blue wave’",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "Unpredictable electorates can lead to overcorrecting after presidential elections",
-        "url": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1"
     },
     {
         "id": "RS21534",
