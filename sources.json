@@ -1,21 +1,84 @@
 [
     {
-        "id": "R45190",
-        "source": "Congressional Research Service",
-        "title": "From Slip Law to United States Code: A Guide to Federal Statutes for Congressional Offices",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "This report provides an overview of federal statutes in their various forms, as well as basic guidance for Members and congressional staff interested in researching statutes. When a bill becomes a law, the newly enacted statute may amend or repeal earlier statutes or it may create a new or “freestanding” law. Either way, these new statutes are first printed individually as “slip laws” and numbered by order of...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R45190/R45190.10.pdf"
+        "id": "https://thehill.com/homenews/campaign/6202901-midterm-congressional-gop-redistricting-analysis/",
+        "source": "The Hill",
+        "title": "Failed GOP redistricting in South Carolina, Indiana would have backfired: DDHQ",
+        "publicationDate": "2026-11-06",
+        "category": "Campaign",
+        "summary": "Republicans across the country redrew congressional maps for their benefit ahead of the 2026 midterms, but it failed to yield them gains in most places. An analysis shared Thursday shows it could have been worse. South Carolina and Indiana Republicans both rejected efforts to implement GOP-friendly maps that could eliminate all Democratic seats, which Democrats...",
+        "url": "https://thehill.com/homenews/campaign/6202901-midterm-congressional-gop-redistricting-analysis/"
     },
     {
-        "id": "R49507",
+        "id": "https://www.nytimes.com/2026/11/05/us/politics/rubio-elections-venezuela.html",
+        "source": "New York Times Politics",
+        "title": "Rubio Says Elections in Venezuela Would ‘Ideally’ Be Held Next Year",
+        "publicationDate": "2026-11-06",
+        "category": "Foreign Policy",
+        "summary": "Secretary of State Marco Rubio laid out a series of steps the United States wants to see before Venezuela holds free elections.",
+        "url": "https://www.nytimes.com/2026/11/05/us/politics/rubio-elections-venezuela.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html",
+        "source": "New York Times Politics",
+        "title": "Trump Moves to Make Oval Office a National Monument",
+        "publicationDate": "2026-11-06",
+        "category": "United States Politics and Government",
+        "summary": "The president’s announcement reinforced his post-midterm elections preoccupation on White House renovation projects.",
+        "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/05/us/politics/democrats-blue-wave-elections-districts.html",
+        "source": "New York Times Politics",
+        "title": "These 5 Midterm Races Tell the Story of the Democrats’ Blue Wave",
+        "publicationDate": "2026-11-06",
+        "category": "Politics and Government",
+        "summary": "The districts are very different, but they all explain how the Democrats won so big.",
+        "url": "https://www.nytimes.com/2026/11/05/us/politics/democrats-blue-wave-elections-districts.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "publicationDate": "2026-11-06",
+        "category": "Other",
+        "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+        "publicationDate": "2026-11-06",
+        "category": "Other",
+        "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+        "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/aa2f03e3-e73e-48c2-b183-610fa00051e1?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Merge police into 10 larger forces, says Met chief",
+        "publicationDate": "2026-11-06",
+        "category": "Other",
+        "summary": "Sir Mark Rowley wants the existing 43 forces in England and Wales to be consolidated into bigger and more effective units",
+        "url": "https://www.ft.com/content/aa2f03e3-e73e-48c2-b183-610fa00051e1?syn-25a6b1a6=1"
+    },
+    {
+        "id": "IF13343",
         "source": "Congressional Research Service",
-        "title": "Federal Statistical Research Data Centers: An Overview",
+        "title": "The Hatch Act: Special Considerations for High-Level Administration Officials",
         "publicationDate": "2026-11-05",
-        "category": "Technology",
-        "summary": "Federal Statistical Research Data Centers (FSRDCs) provide spaces for qualified researchers to access restricted-use datasets from various federal agencies. An FSRDC location will effectively appear to be a computer lab, though with restricted access and limitations. Internet access and external devices, such as cellphones or USB flash drives, are not permitted. To conduct projects in an FSRDC, researchers must...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49507/R49507.1.pdf"
+        "category": "Foreign Policy",
+        "summary": "The Hatch Act is a federal law that regulates the partisan political activities of most executive-branch employees, excluding the President and Vice President. As amended in 1993, the Hatch Act exempts some high-level administration officials from some of its prohibitions, allowing them to engage in certain political activities while on duty. This exemption applies to certain officials appointed by the President...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13343/IF13343.1.pdf"
+    },
+    {
+        "id": "R49508",
+        "source": "Congressional Research Service",
+        "title": "The Higher Blends Infrastructure Incentive Program (HBIIP): An Overview",
+        "publicationDate": "2026-11-05",
+        "category": "Economy",
+        "summary": "Biofuels—fuels made from biomass—have been used in the United States as a transportation fuel for decades. Ethanol produced from corn starch and biodiesel produced from soybean oil are two examples of biofuels used in vehicles. In most cases, these biofuels when used as transportation fuel in vehicles are blended with their petroleum fuel counterpart at a low level. In general, low-blend fuel (LB fuel) includes...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49508/R49508.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA3839-1.html",
@@ -25,6 +88,24 @@
         "category": "Other",
         "summary": "The purpose of this RAND Europe project was to investigate how changes to UKRI’s Full Economic Costing (FEC) rate could affect different aspects of UKRI’s R&I ecosystem.",
         "url": "https://www.rand.org/pubs/research_reports/RRA3839-1.html"
+    },
+    {
+        "id": "https://www.cfr.org/articles/they-wont-say-it-out-loud-but-asian-leaders-are-happy-about-the-midterms",
+        "source": "Council on Foreign Relations",
+        "title": "They Won’t Say It Out Loud, but Asian Leaders Are Happy About the Midterms",
+        "publicationDate": "2026-11-05",
+        "category": "Foreign Policy",
+        "summary": "U.S. allies hope that Democratic control of Congress will lead to a shift in U.S. foreign policy, particularly over the Iran war. But they can’t take that for granted.",
+        "url": "https://www.cfr.org/articles/they-wont-say-it-out-loud-but-asian-leaders-are-happy-about-the-midterms"
+    },
+    {
+        "id": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit",
+        "source": "Council on Foreign Relations",
+        "title": "COP31 in Turkey: What to Expect",
+        "publicationDate": "2026-11-05",
+        "category": "Article",
+        "summary": "The 2026 UN climate summit faces mounting pressure to accelerate climate action and deliver on implementation, as projections indicate that the world will overshoot the 1.5°C (2.7°F) global warming threshold, raising questions about the legacy of the Paris Agreement.",
+        "url": "https://www.cfr.org/articles/cop31-in-turkey-what-to-expect-at-the-2026-un-climate-summit"
     },
     {
         "id": "https://www.cfr.org/articles/as-washington-embraces-morocco-regional-rivals-wake-up",
@@ -45,202 +126,229 @@
         "url": "https://www.heritage.org/taxes/commentary/californias-potential-billionaire-tax-has-already-cost-the-state"
     },
     {
+        "id": "https://www.hudson.org/politics-government/2026-midterms-reality-more-complex-bluenami-tsiporah-fried-luke-coffey",
+        "source": "Hudson Institute",
+        "title": "The 2026 Midterms: A Reality More Complex than a “Bluenami”",
+        "publicationDate": "2026-11-05",
+        "category": "Economy",
+        "summary": "The 2026 Midterms: A Reality More Complex than a “Bluenami” bbert@hudson.org Thu, 11/05/2026 - 12:19 SVG Commentary Nov 5, 2026 Atlantico The 2026 Midterms: A Reality More Complex than a “Bluenami” Tsiporah Fried Visiting Senior Fellow Luke Coffey Senior Fellow, Center on Europe and Eurasia Tsiporah Fried & Luke Coffey Commentary Caption A voter enters a polling station at Valley Bible Chalet on November 3, 2026 in...",
+        "url": "https://www.hudson.org/politics-government/2026-midterms-reality-more-complex-bluenami-tsiporah-fried-luke-coffey"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/us-midterms-analyzing-democratic-victory-paul-sracic",
+        "source": "Hudson Institute",
+        "title": "The US Midterms: Analyzing the Democratic Victory",
+        "publicationDate": "2026-11-05",
+        "category": "Foreign Policy",
+        "summary": "The US Midterms: Analyzing the Democratic Victory bbert@hudson.org Thu, 11/05/2026 - 11:48 SVG In the Media Nov 4, 2026 NHK World-Japan The US Midterms: Analyzing the Democratic Victory Paul Sracic Senior Fellow (Nonresident) Paul Sracic In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to...",
+        "url": "https://www.hudson.org/foreign-policy/us-midterms-analyzing-democratic-victory-paul-sracic"
+    },
+    {
         "id": "https://www.hudson.org/events/us-navy-fleet-twenty-first-century-deterrence-combat",
         "source": "Hudson Institute",
         "title": "A US Navy Fleet for Twenty-First-Century Deterrence and Combat",
         "publicationDate": "2026-11-05",
         "category": "Defense",
-        "summary": "A US Navy Fleet for Twenty-First-Century Deterrence and Combat nhuergo@hudson.org Thu, 11/05/2026 - 09:53 11 November 2026 Virtual Event A US Navy Fleet for Twenty-First-Century Deterrence and Combat WEDNESDAY 2:00 p.m. - 3:00 p.m. Inquiries: nhuergo@hudson.org A US Navy Fleet for Twenty-First-Century Deterrence and Combat Virtual Event Hudson Institute November 11, 2026 Share: Share to Twitter Twitter Share to...",
+        "summary": "A US Navy Fleet for Twenty-First-Century Deterrence and Combat nhuergo@hudson.org Thu, 11/05/2026 - 09:53 11 November 2026 Virtual Event A US Navy Fleet for Twenty-First-Century Deterrence and Combat WEDNESDAY 2:00 p.m. - 3:00 p.m. *The recording of this event will be published on Thursday, November 12, 2026. Inquiries: nhuergo@hudson.org A US Navy Fleet for Twenty-First-Century Deterrence and Combat Virtual Event...",
         "url": "https://www.hudson.org/events/us-navy-fleet-twenty-first-century-deterrence-combat"
     },
     {
-        "id": "https://cms.hoover.org/node/395722",
+        "id": "https://cms.hoover.org/research/dawn-post-trump-era",
         "source": "Hoover Institution",
-        "title": "Senator Phil Gramm and Donald J. Boudreaux at Hoover",
+        "title": "The Dawn Of The Post-Trump Era",
         "publicationDate": "2026-11-05",
         "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/node/395722"
+        "summary": "Donald Trump remains in the White House, but the midterms have made him a lame duck.",
+        "url": "https://cms.hoover.org/research/dawn-post-trump-era"
     },
     {
-        "id": "https://cms.hoover.org/news/gramm-and-boudreaux-challenge-seven-myths-american-capitalism-hoover",
+        "id": "https://cms.hoover.org/research/condoleezza-rice-indo-pacific-security-dialogue",
         "source": "Hoover Institution",
-        "title": "Gramm and Boudreaux Challenge Seven Myths of American Capitalism at Hoover",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "In The Triumph of Economic Freedom: Debunking the Seven Great Myths of American Capitalism, Donald J. Boudreaux of the Mercatus Center and former US senator Phil Gramm argue that capitalism’s history is widely misunderstood and that economic freedom—not government management—is the main driver of prosperity.",
-        "url": "https://cms.hoover.org/news/gramm-and-boudreaux-challenge-seven-myths-american-capitalism-hoover"
-    },
-    {
-        "id": "https://cms.hoover.org/research/europes-israeli-paradox-strategic-autonomy-and-military-dependence",
-        "source": "Hoover Institution",
-        "title": "Europe's Israeli Paradox: Strategic Autonomy and Military Dependence",
+        "title": "Condoleezza Rice: Indo-Pacific Security Dialogue",
         "publicationDate": "2026-11-05",
         "category": "Defense",
-        "summary": "Europe's security predicament is increasingly paradoxical. Facing an expanding Russian threat and growing uncertainty about American commitments, European governments have pledged to achieve greater strategic autonomy. Yet their efforts to strengthen their defenses have produced a new dependency, this time on Israel. Even as European capitals have become increasingly critical of Israeli policies and imposed...",
-        "url": "https://cms.hoover.org/research/europes-israeli-paradox-strategic-autonomy-and-military-dependence"
+        "summary": "At the historic Sunnylands estate in Rancho Mirage, California, former U.S. Secretary of State Condoleezza Rice (now the director of the Hoover Institution), former U.S. Secretaries of Defense General Jim Mattis (USMC, ret.) and Leon Panetta, and Sunnylands President Ambassador David Lane (ret.) welcomed over a dozen senior military and diplomatic representatives from Australia, India, Japan, the United Kingdom,...",
+        "url": "https://cms.hoover.org/research/condoleezza-rice-indo-pacific-security-dialogue"
     },
     {
-        "id": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
-        "source": "NPR Politics",
-        "title": "Head of Justice Department office on Civil Rights resigns",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
-        "url": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns"
-    },
-    {
-        "id": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
-        "source": "NPR Politics",
-        "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
-        "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison"
-    },
-    {
-        "id": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-        "source": "NPR Politics",
-        "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.",
-        "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction"
-    },
-    {
-        "id": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
-        "source": "NPR Politics",
-        "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
+        "id": "https://cms.hoover.org/research/what-trump-must-do-after-midterm-losses-victor-davis-hanson",
+        "source": "Hoover Institution",
+        "title": "What Trump Must Do After The Midterm Losses | Victor Davis Hanson",
         "publicationDate": "2026-11-05",
         "category": "Foreign Policy",
-        "summary": "Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver.",
-        "url": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities"
+        "summary": "Hoover Institution fellow Victor Davis Hanson says Republicans face a new political reality following their midterm losses, but President Trump still has two years to secure his legacy. Hanson notes that with Democrats taking control of Congress, Trump's path forward could depend on executive orders, judicial appointments, a resolution to the conflict with Iran and peace in Ukraine.",
+        "url": "https://cms.hoover.org/research/what-trump-must-do-after-midterm-losses-victor-davis-hanson"
     },
     {
-        "id": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
-        "source": "NPR Politics",
-        "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+        "id": "https://cms.hoover.org/research/miles-yu-ccps-fifth-plenum-kylian-mbappe-punished-laughing-meme-himself-and-2026-elections",
+        "source": "Hoover Institution",
+        "title": "Miles Yu: The CCP’s Fifth Plenum, Kylian Mbappé Punished For Laughing At A Meme Of Himself, And 2026 Elections In America, Serbia, Hungary, And Elsewhere",
         "publicationDate": "2026-11-05",
         "category": "Other",
-        "summary": "A federal panel will meet to consider the arch for final approval on Thursday, and the government said it may begin construction later that same day. Critics hope a judge will intervene last-minute.",
-        "url": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction"
+        "summary": "Hoover Institution fellow Miles Yu assesses the decisions made by and the personnel changes at the Chinese Communist Party's Central Committee during its Fifth Plenum last week.",
+        "url": "https://cms.hoover.org/research/miles-yu-ccps-fifth-plenum-kylian-mbappe-punished-laughing-meme-himself-and-2026-elections"
     },
     {
-        "id": "https://www.pbs.org/newshour/world/trump-administration-held-talks-with-iran-on-deporting-iranians-during-the-war-court-documents-show",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump administration held talks with Iran on deporting Iranians during the war, court documents show",
+        "id": "https://cms.hoover.org/research/victor-davis-hanson-what-democratic-midterm-sweep-means-trump-maga-and-2028",
+        "source": "Hoover Institution",
+        "title": "Victor Davis Hanson: What The Democratic Midterm Sweep Means For Trump, MAGA, And 2028",
+        "publicationDate": "2026-11-05",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Victor Davis Hanson discusses the Blue Wave in the recent elections and what is means for President Trump, Maga, and 2028.",
+        "url": "https://cms.hoover.org/research/victor-davis-hanson-what-democratic-midterm-sweep-means-trump-maga-and-2028"
+    },
+    {
+        "id": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+        "source": "NPR Politics",
+        "title": "These are the races in the House and Senate that haven't been called yet",
+        "publicationDate": "2026-11-05",
+        "category": "Other",
+        "summary": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here's where things stand in the races that are waiting to be called by the AP.",
+        "url": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races"
+    },
+    {
+        "id": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+        "source": "NPR Politics",
+        "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
         "publicationDate": "2026-11-05",
         "category": "Foreign Policy",
-        "summary": "The documents show that the administration maintained contacts with Iranian officials during the war over the removals, specifically for submitting travel documents and figuring out \"possible avenues for removal.\"",
-        "url": "https://www.pbs.org/newshour/world/trump-administration-held-talks-with-iran-on-deporting-iranians-during-the-war-court-documents-show"
+        "summary": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/alaskans-are-waiting-for-more-votes-in-senate-and-governors-races-both-could-go-to-ranked-tabulations",
+        "id": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+        "source": "NPR Politics",
+        "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+        "publicationDate": "2026-11-05",
+        "category": "Other",
+        "summary": "All of these seats were in districts redrawn in 2023 to favor Republican candidates.",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts"
+    },
+    {
+        "id": "https://www.npr.org/2026/11/05/nx-s1-6030848/what-the-blue-wave-looked-like-in-north-carolina",
+        "source": "NPR Politics",
+        "title": "What the blue wave looked like in North Carolina",
+        "publicationDate": "2026-11-05",
+        "category": "Other",
+        "summary": "Democrats have flipped five Republican-held congressional seats in North Carolina. The surprising results were just one part of the blue wave in a swing state that President Trump won three times.",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6030848/what-the-blue-wave-looked-like-in-north-carolina"
+    },
+    {
+        "id": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row",
+        "source": "NPR Politics",
+        "title": "Newsom announces he will commute sentences of inmates on California's death row",
+        "publicationDate": "2026-11-05",
+        "category": "Other",
+        "summary": "California Gov. Gavin Newsom announced that he's commuting the sentences of all inmates on the state's Death Row. The governor says at 548 people, it's the largest death row in the Western Hemisphere.",
+        "url": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/world/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-u-s",
         "source": "PBS NewsHour Politics",
-        "title": "Alaskans are waiting for more votes in Senate and governor's races. Both could go to ranked tabulations",
-        "publicationDate": "2026-11-05",
-        "category": "2026 Midterms",
-        "summary": "Alaskans settled in Wednesday to await more results from key races on the general election ballot, including a bitterly fought U.S. Senate campaign and an open seat for governor.",
-        "url": "https://www.pbs.org/newshour/politics/alaskans-are-waiting-for-more-votes-in-senate-and-governors-races-both-could-go-to-ranked-tabulations"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/the-election-brought-a-wave-of-historic-firsts-here-are-some-groundbreaking-winners",
-        "source": "PBS NewsHour Politics",
-        "title": "The election brought a wave of historic firsts. Here are some groundbreaking winners",
-        "publicationDate": "2026-11-05",
-        "category": "2026 Midterms",
-        "summary": "While some of these candidates have avoided focusing on the inherent historic value of their race, gender, religion or sexual orientation, some voters' rights advocates are celebrating how the electorate has expanded.",
-        "url": "https://www.pbs.org/newshour/politics/the-election-brought-a-wave-of-historic-firsts-here-are-some-groundbreaking-winners"
-    },
-    {
-        "id": "https://thehill.com/homenews/house/6201925-greg-steube-house-gop-conference-chair-run-2027/",
-        "source": "The Hill",
-        "title": "Greg Steube to run for House GOP conference chair",
-        "publicationDate": "2026-11-05",
-        "category": "House",
-        "summary": "Rep. Greg Steube (R-Fla.) is running for House GOP conference chair, setting up a three-way contest between him, Rep. Erin Houchin (R-Ind.) and current head Rep. Lisa McClain (R-Mich). A source familiar with the matter confirmed to The Hill that Steube is entering the race. The GOP conference chair will play a pivotal role in...",
-        "url": "https://thehill.com/homenews/house/6201925-greg-steube-house-gop-conference-chair-run-2027/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/",
-        "source": "The Hill",
-        "title": "Sanders calls for Democrats to pass 'Medicare for All'",
-        "publicationDate": "2026-11-05",
-        "category": "Healthcare",
-        "summary": "Sen. Bernie Sanders (I-Vt.) on Thursday called for Democrats to pass \"Medicare for All\" when they take control of the Senate in January. “Healthcare must be considered as a human right, not a privilege. That means passing Medicare for All legislation now supported by 66 percent of the American people,” Sanders said in a video. Sanders...",
-        "url": "https://thehill.com/homenews/senate/6201914-sanders-calls-medicare-all/"
-    },
-    {
-        "id": "https://thehill.com/video-clips/6201860-watch-live-gina-hinojosa-texas-governors-race-presser-midterms/",
-        "source": "The Hill",
-        "title": "Watch live: Hinojosa speaks after midterm win against Abbott",
-        "publicationDate": "2026-11-05",
-        "category": "Video",
-        "summary": "Texas Gov.-elect Gina Hinojosa (D) will hold her first news conference on Thursday afternoon, days after defeating incumbent Gov. Greg Abbott (R) in Tuesday’s midterm elections. The win ends more than three decades of GOP control of the governor’s mansion. Hinojosa, who will become the state's first Latina governor, is expected to outline her priorities...",
-        "url": "https://thehill.com/video-clips/6201860-watch-live-gina-hinojosa-texas-governors-race-presser-midterms/"
-    },
-    {
-        "id": "https://thehill.com/homenews/education/6201779-doj-penn-state-undocumented-students/",
-        "source": "The Hill",
-        "title": "DOJ sues Penn State over in-state tuition for undocumented students",
-        "publicationDate": "2026-11-05",
-        "category": "Education",
-        "summary": "The Justice Department filed a lawsuit Thursday against Pennsylvania State University for allegedly allowing in-state tuition for undocumented students, saying the move discriminates against U.S. citizens. “Congress made a deliberate policy choice that states and their public institutions may not grant tuition benefits to illegal aliens unless those same benefits are made to all U.S....",
-        "url": "https://thehill.com/homenews/education/6201779-doj-penn-state-undocumented-students/"
-    },
-    {
-        "id": "https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/",
-        "source": "The Hill",
-        "title": "Cruz on midterms: 'It was an a‑‑ kicking'",
-        "publicationDate": "2026-11-05",
-        "category": "Campaign",
-        "summary": "Texas Sen. Ted Cruz (R) reflected on the results of the midterm elections in his home state and nationwide, calling the Democrats’ win a “blue tsunami.” “2026 was not simply a blue wave. It was a blue tsunami. It was an a‑‑ kicking,” Cruz said in his podcast, Verdict with Ted Cruz. The Democrats won...",
-        "url": "https://thehill.com/homenews/campaign/6201759-democrats-flip-texas-statewide-races/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
-        "source": "New York Times Politics",
-        "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
-        "publicationDate": "2026-11-05",
-        "category": "United States Politics and Government",
-        "summary": "The move came after conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections, people familiar with the matter said.",
-        "url": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
-        "source": "New York Times Politics",
-        "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
-        "publicationDate": "2026-11-05",
-        "category": "United States Politics and Government",
-        "summary": "The justices took just hours to reject Trump’s bid to meddle in the election.",
-        "url": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html",
-        "source": "New York Times Politics",
-        "title": "U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections",
+        "title": "Tankers carrying Russian diesel change course, raising doubts about shipments to U.S.",
         "publicationDate": "2026-11-05",
         "category": "Foreign Policy",
-        "summary": "Russia was linked to influence campaigns targeting Democrats that gained little traction, but the Kremlin may be more focused on France’s elections in the spring.",
-        "url": "https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html"
+        "summary": "President Donald Trump's plan to allow imports of Russian diesel appeared to falter this week after state and federal officials warned that handling any shipments could bring legal consequences and two tankers initially bound for the United States changed course.",
+        "url": "https://www.pbs.org/newshour/world/tankers-carrying-russian-diesel-change-course-raising-doubts-about-shipments-to-u-s"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-        "source": "New York Times Politics",
-        "title": "Justice Dept. Steps Up Criminal Investigation of Supreme Court Abortion Leak",
+        "id": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
+        "source": "PBS NewsHour Politics",
+        "title": "A look at the midterm races that remain undecided",
         "publicationDate": "2026-11-05",
-        "category": "United States Politics and Government",
-        "summary": "Investigators, using subpoenas and other law enforcement powers, are accelerating an inquiry that takes the Trump administration into the inner workings of the court.",
-        "url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html"
+        "category": "alaska",
+        "summary": "As Democrats prepare to take control of Congress and Republicans grapple with stunning losses, every remaining race matters. Some races are still too close to call, including Senate battles in both Alaska and Mississippi. Congressional correspondent Lisa Desjardins reports.",
+        "url": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
-        "source": "New York Times Politics",
-        "title": "How Democrats Won Across the South",
+        "id": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss",
+        "source": "PBS NewsHour Politics",
+        "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
         "publicationDate": "2026-11-05",
-        "category": "Midterm Elections (2026)",
-        "summary": "They won Senate races in North Carolina, South Carolina and Georgia, with a Mississippi race still too close to call. Their wins lifted down-ballot candidates too.",
-        "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html"
+        "category": "Economy",
+        "summary": "As Trump ponders his next move, the stakes couldn't be higher for Iran, the Middle East and the global economy writ large.",
+        "url": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/rep-garcia-says-voters-gave-democrats-a-mandate-to-pursue-accountability",
+        "source": "PBS NewsHour Politics",
+        "title": "Rep. Garcia says voters gave Democrats a mandate to pursue accountability",
+        "publicationDate": "2026-11-05",
+        "category": "Other",
+        "summary": "With Democrats set to take control of the House, they are making plans to use their majority not only to advance legislation but also to ramp up congressional oversight. California Rep. Robert Garcia is expected to become the new chairman of the House Oversight Committee. He says Democrats have plans to move quickly with a series of investigations. Garcia joined Liz Landers to discuss more.",
+        "url": "https://www.pbs.org/newshour/show/rep-garcia-says-voters-gave-democrats-a-mandate-to-pursue-accountability"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/hegseth-allows-national-guard-to-boost-dc-patrols-with-military-vehicles-boats-and-patrol-cars",
+        "source": "PBS NewsHour Politics",
+        "title": "Hegseth allows National Guard to boost DC patrols with military vehicles, boats and patrol cars",
+        "publicationDate": "2026-11-05",
+        "category": "Defense",
+        "summary": "Defense Secretary Pete Hegseth has signed off on the National Guard ramping up its presence in the nation's capital in military vehicles and boats as troops deepen their integration with local law enforcement.",
+        "url": "https://www.pbs.org/newshour/politics/hegseth-allows-national-guard-to-boost-dc-patrols-with-military-vehicles-boats-and-patrol-cars"
+    },
+    {
+        "id": "https://thehill.com/newsletters/business-economy/6202879-wyden-reveals-senate-finance-democrats-agenda-for-120th-congress/",
+        "source": "The Hill",
+        "title": "Wyden reveals Senate Finance Democrats' agenda for 120th Congress",
+        "publicationDate": "2026-11-05",
+        "category": "Economy",
+        "summary": "Welcome to The Hill's Business & Economy newsletter {beacon} Business & Economy Business & Economy The Big Story Wyden reveals Senate Finance Democrats' agenda for 120th Congress After Democrats clinched the Senate majority for next Congress, Sen. Ron Wyden (D-Ore.) outlined the agenda for party members on the Senate Finance Committee. © Natasha Kaiser...",
+        "url": "https://thehill.com/newsletters/business-economy/6202879-wyden-reveals-senate-finance-democrats-agenda-for-120th-congress/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/",
+        "source": "The Hill",
+        "title": "Trump seeks national monument status for iconic White House rooms",
+        "publicationDate": "2026-11-05",
+        "category": "Energy & Environment Newsletter",
+        "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump makes Oval Office a national monument President Trump signed a proclamation Thursday seeking to designate two iconic White House spaces, the Oval Office and Cabinet Room, as national monuments. © Alex Brandon, Associated Press Trump said Congress would have to ratify the proclamation,...",
+        "url": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/"
+    },
+    {
+        "id": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/",
+        "source": "The Hill",
+        "title": "Hegseth in ‘trouble’ as Trump faces music on Iran war, midterms",
+        "publicationDate": "2026-11-05",
+        "category": "Defense",
+        "summary": "Defense Secretary Pete Hegseth’s future leading the Pentagon looks increasingly uncertain as his critics within the administration blame him for helping push President Trump into a war that contributed to massive midterm losses on Tuesday. Two sources familiar with the discussion said the president is asking allies about Hegseth’s standing. One of those sources said...",
+        "url": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/"
+    },
+    {
+        "id": "https://thehill.com/newsletters/technology/6202843-chamber-of-progresss-to-do-list-for-democrats/",
+        "source": "The Hill",
+        "title": "Chamber of Progress's 'to-do list' for Democrats",
+        "publicationDate": "2026-11-05",
+        "category": "Technology",
+        "summary": "{beacon} Technology Technology The Big Story Chamber of Progress's 'to-do list' for Dems The center-left technology policy group Chamber of Progress is laying out its policy priorities for Democrats, as the party prepares to take back control of the House and Senate next year. © Illustration / Samantha Wong; and Adobe Stock In a memo...",
+        "url": "https://thehill.com/newsletters/technology/6202843-chamber-of-progresss-to-do-list-for-democrats/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
+        "source": "New York Times Politics",
+        "title": "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
+        "publicationDate": "2026-11-05",
+        "category": "Foreign Policy",
+        "summary": "President Trump said the deal “might involve all of Europe.” He indicated he had met with a Kremlin envoy whom Melania Trump hosted at the White House on Thursday.",
+        "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
+        "source": "New York Times Politics",
+        "title": "Hegseth Lashes Out at Critics Calling for His Firing",
+        "publicationDate": "2026-11-05",
+        "category": "Defense",
+        "summary": "In a new video, the defense secretary vowed to “finish what we have started.” Some Republicans say the Iran war was a big factor in their party’s midterm losses.",
+        "url": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+        "publicationDate": "2026-11-05",
+        "category": "Other",
+        "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+        "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
@@ -252,85 +360,58 @@
         "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "French protests see numbers surge as unions join strikes over high cost of living",
+        "title": "California governor commutes sentences for state's 548 death row inmates",
         "publicationDate": "2026-11-05",
         "category": "Other",
-        "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+        "summary": "California has historically had the largest population of people on death row in the US.",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Manhunt in western Turkey after eight killed in series of shootings",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "Eight people have been killed and one seriously injured in a series of shootings in western Turkey.",
-        "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-        "publicationDate": "2026-11-05",
-        "category": "Foreign Policy",
-        "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-        "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/153ecf4a-bcf9-485e-ae7d-1f88af3e9361?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Russell Brand found guilty of rape and sexual assault",
+        "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
         "publicationDate": "2026-11-05",
         "category": "Other",
-        "summary": "Verdict on four counts marks dramatic downfall for comedian-turned-online polemicist",
-        "url": "https://www.ft.com/content/153ecf4a-bcf9-485e-ae7d-1f88af3e9361?syn-25a6b1a6=1"
+        "summary": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
+        "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/ed74a1e3-1d80-41dd-9404-2dee3015c162?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Bank rate rise ‘puts tracker mortgage trend at risk’",
+        "title": "Job adverts will have to publish salaries, ministers say",
         "publicationDate": "2026-11-05",
         "category": "Other",
-        "summary": "Most fixed-rate borrowers are cushioned from the impact of this week’s decision but those coming off a five-year deal face a payment shock",
-        "url": "https://www.ft.com/content/ed74a1e3-1d80-41dd-9404-2dee3015c162?syn-25a6b1a6=1"
+        "summary": "Move, intended to reduce pay inequalities, could end vague references to ‘competitive salary’",
+        "url": "https://www.ft.com/content/6a1b17dd-3da2-410b-b64e-fbf111e40336?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "More than 600,000 join latest protests in France",
+        "title": "Nearly 600,000 join latest protests in France",
         "publicationDate": "2026-11-05",
         "category": "Other",
         "summary": "Demonstrations over cost of living on Thursday appeared to attract the biggest turnout since the movement began in September",
         "url": "https://www.ft.com/content/5ddd52f0-adb8-41d6-9a06-a680daa2e427?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/ec6394d5-b4fb-4bf4-b231-300da1cd9bfb?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "The UK-EU reset is a deal worth doing",
+        "title": "Why pollsters underestimated the size of the Democrats’ US midterm ‘blue wave’",
         "publicationDate": "2026-11-05",
         "category": "Other",
-        "summary": "But Britain’s hard-pressed universities should not be left worse off",
-        "url": "https://www.ft.com/content/ec6394d5-b4fb-4bf4-b231-300da1cd9bfb?syn-25a6b1a6=1"
+        "summary": "Unpredictable electorates can lead to overcorrecting after presidential elections",
+        "url": "https://www.ft.com/content/c8314951-713a-4370-ac7b-89b35e771f7e?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "European stocks overtake Wall Street following Democratic sweep",
-        "publicationDate": "2026-11-05",
-        "category": "Other",
-        "summary": "Stoxx Europe 600 index ahead of S&P 500 for this year as US stocks tumble",
-        "url": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1"
+        "id": "RS21534",
+        "source": "Congressional Research Service",
+        "title": "Oman: Politics, Security, and U.S. Policy",
+        "publicationDate": "2026-11-04",
+        "category": "Defense",
+        "summary": "Since the British withdrawal from the Persian Gulf in the early 1970s, successive U.S. presidential Administrations have considered Oman important to the promotion of regional stability and peace in the Middle East. Over the past two decades, Oman has played the role of discreet mediator, having served as an intermediary in seeking to resolve conflict in Yemen and nuclear negotiations with Iran. Oman’s strategic...",
+        "url": "https://www.congress.gov/crs_external_products/RS/PDF/RS21534/RS21534.127.pdf"
     },
     {
         "id": "RL30802",
@@ -339,16 +420,16 @@
         "publicationDate": "2026-11-04",
         "category": "Defense",
         "summary": "Congress has historically shown interest in various reserve component (RC) personnel issues, such as pay and benefits, training and readiness, and career management. The term reserve component refers collectively to the seven individual RCs of the Armed Forces: the Army National Guard of the United States, the Army Reserve, the Navy Reserve, the Marine Corps Reserve, the Air National Guard of the United States, the...",
-        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL30802/RL30802.26.pdf"
+        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL30802/RL30802.27.pdf"
     },
     {
-        "id": "R49503",
+        "id": "R42505",
         "source": "Congressional Research Service",
-        "title": "Appropriations for Rural Development Programs: Proposals for FY2027",
+        "title": "Supplemental Nutrition Assistance Program (SNAP): A Primer on Eligibility and Benefits",
         "publicationDate": "2026-11-04",
         "category": "Economy",
-        "summary": "The U.S. Department of Agriculture’s (USDA’s) Rural Development (RD) mission area supports projects that invest in rural communities in the United States. RD programs are administered through three USDA agencies: the Rural Business-Cooperative Service (RBCS), Rural Utilities Service (RUS), and Rural Housing Service (RHS). RBCS administers a variety of programs that provide grants, loans, loan guarantees, and...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49503/R49503.2.pdf"
+        "summary": "The Supplemental Nutrition Assistance Program (SNAP), formerly called the Food Stamp Program, is designed primarily to increase the food purchasing power of eligible low-income households to help them afford a nutritionally adequate low-cost diet. This report describes the rules related to eligibility for SNAP benefits as well as the rules for benefits and their redemption. SNAP is administered by the U.S....",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42505/R42505.38.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/the-rising-threat-of-great-power-war-and-the-lessons-of-1914",
@@ -367,24 +448,6 @@
         "category": "Economy",
         "summary": "This week on The Spillover, host Rebecca Patterson and guest Diane Swonk, chief economist at KPMG, discuss the economic fallout from the midterm elections and whether policymakers can address the cost-of-living pressures that voters have signaled as their top priority. One day after the elections, Patterson thinks markets are experiencing “relief” from uncertainty. She suggests […]",
         "url": "https://www.cfr.org/podcasts/spillover/after-the-blue-wave-what-do-voters-want-from-the-economy"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/presidents-inbox/is-2026-the-new-1914",
-        "source": "Council on Foreign Relations",
-        "title": "Is 2026 the New 1914?",
-        "publicationDate": "2026-11-04",
-        "category": "Foreign Policy",
-        "summary": "We Discuss: Mentioned on the Episode: Norman Angell, The Great Illusion, Simpkin, Marshall, Hamilton, Kent & Co. Odd Arne Westad, The Coming Storm: Power, Conflict, and Warnings from History, Allen Lane Odd Arne Westad, “Trump, Xi, and the Specter of 1914,” Foreign Affairs",
-        "url": "https://www.cfr.org/podcasts/presidents-inbox/is-2026-the-new-1914"
-    },
-    {
-        "id": "https://www.cfr.org/articles/who-will-be-the-next-un-secretary-general",
-        "source": "Council on Foreign Relations",
-        "title": "Who Will Be the Next UN Secretary-General?",
-        "publicationDate": "2026-11-04",
-        "category": "Article",
-        "summary": "Eight candidates are vying to succeed António Guterres as the United Nations’ tenth leader since 1946. Who are they, how are they selected, and what challenges will they face in the role?",
-        "url": "https://www.cfr.org/articles/who-will-be-the-next-un-secretary-general"
     },
     {
         "id": "https://www.heritage.org/taxes/commentary/new-yorks-property-tax-hike-chases-wealthy-wallets-away",
@@ -430,69 +493,6 @@
         "category": "Defense",
         "summary": "Russia Takes Aim at Civilian Targets, and Trump Weighs Options in Iran bbert@hudson.org Wed, 11/04/2026 - 14:29 SVG In the Media Nov 3, 2026 Fox Business Russia Takes Aim at Civilian Targets, and Trump Weighs Options in Iran Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs In the Media Caption (Screenshot via Fox Business) Toggle Table of Contents Contents Contents...",
         "url": "https://www.hudson.org/foreign-policy/russia-takes-aim-civilian-targets-trump-weighs-options-iran-rebeccah-heinrichs"
-    },
-    {
-        "id": "https://www.hudson.org/foreign-policy/why-america-cant-quit-middle-east",
-        "source": "Hudson Institute",
-        "title": "Why America Can’t Quit the Middle East",
-        "publicationDate": "2026-11-04",
-        "category": "Foreign Policy",
-        "summary": "Why America Can’t Quit the Middle East bbert@hudson.org Wed, 11/04/2026 - 14:23 SVG Podcast Nov 3, 2026 Hudson Institute Why America Can’t Quit the Middle East Walter Russell Mead Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship Bill Drexel Senior Fellow Walter Russell Mead & Bill Drexel Podcast Caption (What Really Matters Logo) Toggle Table of Contents Contents Contents Share to Twitter...",
-        "url": "https://www.hudson.org/foreign-policy/why-america-cant-quit-middle-east"
-    },
-    {
-        "id": "https://www.hudson.org/intellectual-property/real-evergreening-problem-drug-patent-policy-i-maks-inaccurate-unreliable-adam-mossoff",
-        "source": "Hudson Institute",
-        "title": "The Real Evergreening Problem in Drug Patent Policy: I-MAK’s Inaccurate and Unreliable Drug Patent Claims",
-        "publicationDate": "2026-11-04",
-        "category": "Economy",
-        "summary": "The Real Evergreening Problem in Drug Patent Policy: I-MAK’s Inaccurate and Unreliable Drug Patent Claims bbert@hudson.org Wed, 11/04/2026 - 14:13 SVG Reports Nov 4, 2026 Hudson Institute The Real Evergreening Problem in Drug Patent Policy: I-MAK’s Inaccurate and Unreliable Drug Patent Claims Adam Mossoff Chair, Forum for Intellectual Property and Senior Fellow Adam Mossoff Reports Caption (Getty Images) Toggle...",
-        "url": "https://www.hudson.org/intellectual-property/real-evergreening-problem-drug-patent-policy-i-maks-inaccurate-unreliable-adam-mossoff"
-    },
-    {
-        "id": "https://cms.hoover.org/events/money-and-power-historical-lessons-stablecoins-and-us-dollar-dominance",
-        "source": "Hoover Institution",
-        "title": "Money and Power: Historical Lessons for Stablecoins and U.S Dollar Dominance",
-        "publicationDate": "2026-11-04",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/events/money-and-power-historical-lessons-stablecoins-and-us-dollar-dominance"
-    },
-    {
-        "id": "https://cms.hoover.org/events/intellectual-odyssey-james-burnham",
-        "source": "Hoover Institution",
-        "title": "The Intellectual Odyssey of James Burnham",
-        "publicationDate": "2026-11-04",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/events/intellectual-odyssey-james-burnham"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress",
-        "source": "PBS NewsHour Politics",
-        "title": "Midterm voters rebuke Trump, handing Democrats both chambers of Congress",
-        "publicationDate": "2026-11-04",
-        "category": "Abdul El-Sayed",
-        "summary": "Voters delivered a sweeping rebuke of President Trump and his party in the midterms, handing Democrats major victories and dramatically reshaping the balance of power in Washington. Trump now enters a lame duck phase of his second term, promising both to use his veto power, and also to work across the aisle as he faces the largest Democratic majorities in decades. Liz Landers reports.",
-        "url": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/news-wrap-officials-in-iran-welcome-midterm-results-as-vote-against-war",
-        "source": "PBS NewsHour Politics",
-        "title": "News Wrap: Officials in Iran welcome midterm results as vote against war",
-        "publicationDate": "2026-11-04",
-        "category": "Defense",
-        "summary": "In our news wrap Wednesday, top officials in Iran welcomed the results of the U.S. midterm elections, Israeli President Isaac Herzog says he's accepted the results of last week's election and will consult with party leaders on forming a new government and Ukraine's air force says Russia launched more than 300 drones overnight.",
-        "url": "https://www.pbs.org/newshour/show/news-wrap-officials-in-iran-welcome-midterm-results-as-vote-against-war"
-    },
-    {
-        "id": "R48244",
-        "source": "Congressional Research Service",
-        "title": "Safe Driver Apprenticeship Pilot Program: In Brief",
-        "publicationDate": "2026-11-03",
-        "category": "Other",
-        "summary": "The Department of Transportation’s (DOT’s) Federal Motor Carrier Safety Administration (FMCSA) develops and issues standards for states’ testing and licensing of commercial motor vehicle (CMV) drivers. FMCSA has the authority to establish pilot programs to test changes to commercial driver licensing requirements. FMCSA established the Safe Driver Apprenticeship Pilot Program (SDAP) on January 14, 2022, to meet...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48244/R48244.4.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5209-1.html",
