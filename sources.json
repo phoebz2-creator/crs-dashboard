@@ -1,21 +1,12 @@
 [
     {
-        "id": "R47044",
+        "id": "IF11201",
         "source": "Congressional Research Service",
-        "title": "USDA Rural Housing Programs: An Overview",
+        "title": "Nuclear Waste Storage Sites in the United States",
         "publicationDate": "2026-11-12",
-        "category": "Economy",
-        "summary": "While residents of rural areas are potentially eligible to participate in the full range of housing programs administered by the federal government, the U.S. Department of Agriculture’s (USDA’s) Rural Housing Service (RHS) administers several housing programs targeted specifically to residents of rural communities. These programs are authorized under Title V of the Housing Act of 1949, as amended, and are usually...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R47044/R47044.4.pdf"
-    },
-    {
-        "id": "IF13346",
-        "source": "Congressional Research Service",
-        "title": "AI Investment and the U.S. Economy",
-        "publicationDate": "2026-11-12",
-        "category": "Defense",
-        "summary": "Artificial intelligence (AI) has progressed rapidly in recent years, driven by rapid advances in large language models (LLMs). AI has led to a surge in business borrowing and investment in data centers, semiconductors, and other physical capital spending and has fueled a surge in related stock prices. As a result, investment in AI has been a significant source of economic growth in recent quarters. While a recent...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13346/IF13346.1.pdf"
+        "category": "Other",
+        "summary": "Congressional interest in nuclear waste is generally focused on managing commercial spent nuclear fuel (SNF), the waste produced from commercial nuclear power plants, and other high-level nuclear wastes (HLW), largely from Cold War–era nuclear weapons materials production. No country, including the United States, has a permanent geologic repository for disposal of commercial SNF and other HLW. Currently, commercial...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF11201/IF11201.6.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5126-1.html",
@@ -63,31 +54,94 @@
         "url": "https://www.rand.org/pubs/research_reports/RRA4687-1.html"
     },
     {
-        "id": "https://www.cfr.org/articles/three-questions-about-chinas-hidden-foreign-exchange-assets",
+        "id": "https://www.cfr.org/articles/new-zealands-inconclusive-election-is-the-last-thing-the-country-needs",
         "source": "Council on Foreign Relations",
-        "title": "Three Questions About China’s Hidden Foreign Exchange Assets",
+        "title": "New Zealand’s Inconclusive Election Is the Last Thing the Country Needs",
+        "publicationDate": "2026-11-12",
+        "category": "Article",
+        "summary": "New Zealand’s politics appear unstable after national elections failed to produce a clear winner. At a time when the country faces severe economic challenges, policy paralysis is a recipe for disaster.",
+        "url": "https://www.cfr.org/articles/new-zealands-inconclusive-election-is-the-last-thing-the-country-needs"
+    },
+    {
+        "id": "https://www.cfr.org/articles/hegseths-unmaking-of-the-u-s-military",
+        "source": "Council on Foreign Relations",
+        "title": "Hegseth’s Unmaking of the U.S. Military",
+        "publicationDate": "2026-11-12",
+        "category": "Defense",
+        "summary": "Firing admirals and generals, blocking promotions, and gutting DEI programs will hurt recruitment and retention while politicizing the armed services.",
+        "url": "https://www.cfr.org/articles/hegseths-unmaking-of-the-u-s-military"
+    },
+    {
+        "id": "https://www.cfr.org/articles/what-the-abu-dhabi-talks-did-and-didnt-achieve",
+        "source": "Council on Foreign Relations",
+        "title": "What the Abu Dhabi Talks Did—and Didn’t—Achieve",
         "publicationDate": "2026-11-12",
         "category": "Foreign Policy",
-        "summary": "A trillion-dollar gap in foreign exchange purchases raises questions about where China’s foreign currency assets are held.",
-        "url": "https://www.cfr.org/articles/three-questions-about-chinas-hidden-foreign-exchange-assets"
+        "summary": "Trilateral talks on the war in Ukraine ended without a breakthrough. CFR experts weigh in on the results and where negotiations might go next.",
+        "url": "https://www.cfr.org/articles/what-the-abu-dhabi-talks-did-and-didnt-achieve"
     },
     {
-        "id": "https://www.hudson.org/experts/michael-w-miller",
-        "source": "Hudson Institute",
-        "title": "Michael W. Miller",
+        "id": "https://www.cfr.org/podcasts/spillover/the-looming-defense-budget-battle-and-the-scramble-to-rebuild-the-u-s-military",
+        "source": "Council on Foreign Relations",
+        "title": "The Looming Defense Budget Battle and the Scramble to Rebuild the U.S. Military",
         "publicationDate": "2026-11-12",
         "category": "Defense",
-        "summary": "Michael W. Miller bbert@hudson.org Thu, 11/12/2026 - 12:16 Michael W. Miller Senior Fellow Foreign Policy At A Glance: Michael W. Miller is a senior fellow at Hudson Institute, focusing on international development, global health, and global health security policy. Follow: Contact: mmiller@hudson.org Biography Michael W. Miller is a senior fellow at Hudson Institute. His work focuses on international development,...",
-        "url": "https://www.hudson.org/experts/michael-w-miller"
+        "summary": "This week on The Spillover, host Rebecca Patterson and guest Doug Beck, senior fellow at Yale and former director of the Pentagon’s Defense Innovation Unit, discuss what the midterm results mean for national security as the Iran war continues and the Trump administration seeks a record $1.5 trillion in defense spending. The recent midterm results […]",
+        "url": "https://www.cfr.org/podcasts/spillover/the-looming-defense-budget-battle-and-the-scramble-to-rebuild-the-u-s-military"
     },
     {
-        "id": "https://www.hudson.org/experts/adam-oneal",
-        "source": "Hudson Institute",
-        "title": "Adam O’Neal",
+        "id": "https://www.cfr.org/articles/nvidia-chinese-espionage-and-the-ai-race-four-foreign-policy-issues-to-watch",
+        "source": "Council on Foreign Relations",
+        "title": "Huang Resigns From Nvidia. Here Are the Stakes for U.S. Foreign Policy.",
         "publicationDate": "2026-11-12",
-        "category": "Defense",
-        "summary": "Adam O’Neal bbert@hudson.org Thu, 11/12/2026 - 12:03 Adam O’Neal Senior Fellow (Nonresident) Technology Economics At A Glance: Adam O’Neal is a nonresident senior fellow at Hudson Institute, focusing on artificial intelligence, technology policy, and US economic competitiveness. Contact: aoneal@hudson.org Biography Adam O’Neal is a nonresident senior fellow focused on artificial intelligence, technology policy, and...",
-        "url": "https://www.hudson.org/experts/adam-oneal"
+        "category": "Foreign Policy",
+        "summary": "Jensen Huang’s ouster from Nvidia raises questions about critical policy issues, including AI chip export enforcement, spying on U.S. companies, the U.S. relationship with China, and the stability of the AI boom.",
+        "url": "https://www.cfr.org/articles/nvidia-chinese-espionage-and-the-ai-race-four-foreign-policy-issues-to-watch"
+    },
+    {
+        "id": "https://www.hudson.org/administrator-national-nuclear-security-administration-brandon-williams-spoke-about-administrations",
+        "source": "Hudson Institute",
+        "title": "Administrator of the National Nuclear Security Administration Brandon Williams spoke about the administration’s priorities in strengthening the US nuclear enterprise.",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "Administrator of the National Nuclear Security Administration Brandon Williams spoke about the administration’s priorities in strengthening the US nuclear enterprise. bbert@hudson.org Thu, 11/12/2026 - 14:06 Jun 18, 2026 Administrator of the National Nuclear Security Administration Brandon Williams spoke about the administration’s priorities in strengthening the US nuclear enterprise. Administrator of the National...",
+        "url": "https://www.hudson.org/administrator-national-nuclear-security-administration-brandon-williams-spoke-about-administrations"
+    },
+    {
+        "id": "https://www.hudson.org/hudson-institute-hosted-ambassador-brent-christensen-discussion-us-bangladesh-relationship",
+        "source": "Hudson Institute",
+        "title": "Hudson Institute hosted Ambassador Brent Christensen for a discussion on the US-Bangladesh relationship.",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "Hudson Institute hosted Ambassador Brent Christensen for a discussion on the US-Bangladesh relationship. bbert@hudson.org Thu, 11/12/2026 - 14:02 Oct 5, 2026 Hudson Institute hosted Ambassador Brent Christensen for a discussion on the US-Bangladesh relationship. Hudson Institute hosted Ambassador Brent Christensen for a discussion on the US-Bangladesh relationship. Toggle Table of Contents Contents Contents Share...",
+        "url": "https://www.hudson.org/hudson-institute-hosted-ambassador-brent-christensen-discussion-us-bangladesh-relationship"
+    },
+    {
+        "id": "https://www.hudson.org/representative-nathaniel-moran-tx-r-joined-jason-hsu-discuss-hr-7509-deterring-adversarial-access",
+        "source": "Hudson Institute",
+        "title": "Representative Nathaniel Moran (TX-R) joined Jason Hsu to discuss H.R. 7509, the Deterring Adversarial Access to Americans’ Data Act, and Congress’s role in facilitating public-private understanding in an era of great power competition.",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "Representative Nathaniel Moran (TX-R) joined Jason Hsu to discuss H.R. 7509, the Deterring Adversarial Access to Americans’ Data Act, and Congress’s role in facilitating public-private understanding in an era of great power competition. bbert@hudson.org Thu, 11/12/2026 - 13:59 Jul 2, 2026 Representative Nathaniel Moran (TX-R) joined Jason Hsu to discuss H.R. 7509, the Deterring Adversarial Access to Americans’ Data...",
+        "url": "https://www.hudson.org/representative-nathaniel-moran-tx-r-joined-jason-hsu-discuss-hr-7509-deterring-adversarial-access"
+    },
+    {
+        "id": "https://www.hudson.org/william-barr-spoke-hudson-institute-political-studies-summer-fellows",
+        "source": "Hudson Institute",
+        "title": "William Barr spoke to Hudson Institute Political Studies summer fellows.",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "William Barr spoke to Hudson Institute Political Studies summer fellows. bbert@hudson.org Thu, 11/12/2026 - 13:57 Jul 30, 2026 William Barr spoke to Hudson Institute Political Studies summer fellows. William Barr spoke to Hudson Institute Political Studies summer fellows. Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail...",
+        "url": "https://www.hudson.org/william-barr-spoke-hudson-institute-political-studies-summer-fellows"
+    },
+    {
+        "id": "https://www.hudson.org/ukrainian-president-volodymyr-zelenskyy-delivered-keynote-address-followed-question-answer-session",
+        "source": "Hudson Institute",
+        "title": "Ukrainian President Volodymyr Zelenskyy delivered a keynote address followed by a question-and-answer session with Hudson Institute President and CEO John Walters.",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "Ukrainian President Volodymyr Zelenskyy delivered a keynote address followed by a question-and-answer session with Hudson Institute President and CEO John Walters. bbert@hudson.org Thu, 11/12/2026 - 13:53 Oct 23, 2026 Ukrainian President Volodymyr Zelenskyy delivered a keynote address followed by a question-and-answer session with Hudson Institute President and CEO John Walters. Ukrainian President Volodymyr...",
+        "url": "https://www.hudson.org/ukrainian-president-volodymyr-zelenskyy-delivered-keynote-address-followed-question-answer-session"
     },
     {
         "id": "https://cms.hoover.org/research/judgment-calls-finding-way-wise-decisions",
@@ -126,6 +180,15 @@
         "url": "https://cms.hoover.org/research/what-do-we-do-now"
     },
     {
+        "id": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+        "source": "NPR Politics",
+        "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
+        "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms"
+    },
+    {
         "id": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
         "source": "NPR Politics",
         "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
@@ -137,7 +200,7 @@
     {
         "id": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
         "source": "NPR Politics",
-        "title": "DC shooting leaves 1 person killed, 4 injured. Gunman dead",
+        "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
         "publicationDate": "2026-11-12",
         "category": "Other",
         "summary": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
@@ -153,184 +216,211 @@
         "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
     },
     {
-        "id": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+        "id": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
         "source": "NPR Politics",
-        "title": "At least 23 states considered laws governing ICE and schools this year",
+        "title": "Senators don't always share bill text online before votes. They should, advocates say",
         "publicationDate": "2026-11-12",
         "category": "Other",
-        "summary": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
-        "url": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration"
+        "summary": "The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.",
+        "url": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review"
     },
     {
-        "id": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
-        "source": "NPR Politics",
-        "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
-        "publicationDate": "2026-11-12",
-        "category": "Other",
-        "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
-        "url": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/economy/nvidia-ceo-jensen-huang-resigns-after-his-affair-raises-national-security-concerns",
+        "id": "https://www.pbs.org/newshour/politics/sen-blumenthal-says-federal-prosecutor-attempting-to-investigate-him-for-conducting-an-inquiry",
         "source": "PBS NewsHour Politics",
-        "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+        "title": "Sen. Blumenthal says federal prosecutor attempting to investigate him for conducting an inquiry",
         "publicationDate": "2026-11-12",
-        "category": "Defense",
-        "summary": "Huang faced growing calls to resign after his affair with an alleged Chinese spy. Late Wednesday, media reports said Huang had another extramarital affair with an Nvidia employee who reports to him.",
-        "url": "https://www.pbs.org/newshour/economy/nvidia-ceo-jensen-huang-resigns-after-his-affair-raises-national-security-concerns"
+        "category": "Hakeem Jeffries",
+        "summary": "Democratic Sen. Richard Blumenthal of Connecticut, who is set to chair the Permanent Subcommittee on Investigations when the Democratic majority takes control of the Senate next year, said the implied investigation is baseless.",
+        "url": "https://www.pbs.org/newshour/politics/sen-blumenthal-says-federal-prosecutor-attempting-to-investigate-him-for-conducting-an-inquiry"
     },
     {
-        "id": "https://thehill.com/homenews/campaign/6216648-kellyanne-conway-gop-ad-spending/",
+        "id": "https://www.pbs.org/newshour/politics/watch-more-questions-than-answers-about-nvidias-huang-jeffries-says-in-news-conference",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: 'More questions than answers' about Nvidia's Huang, Jeffries says in news conference",
+        "publicationDate": "2026-11-12",
+        "category": "congress",
+        "summary": "House Democratic Leader Hakeem Jeffries is demanding a classified briefing for all members of Congress about the Nvidia situation.",
+        "url": "https://www.pbs.org/newshour/politics/watch-more-questions-than-answers-about-nvidias-huang-jeffries-says-in-news-conference"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/watch-trump-administration-officials-announce-ptsd-research-funding-for-psychedelic-drug-ibogaine",
+        "source": "PBS NewsHour Politics",
+        "title": "WATCH: Trump administration officials announce PTSD research funding for psychedelic drug ibogaine",
+        "publicationDate": "2026-11-12",
+        "category": "Healthcare",
+        "summary": "Federal officials on Thursday announced new funding to explore the medical potential of ibogaine, a controversial psychedelic drug championed by veterans, conservative lawmakers and podcasters aligned with President Donald Trump.",
+        "url": "https://www.pbs.org/newshour/politics/watch-trump-administration-officials-announce-ptsd-research-funding-for-psychedelic-drug-ibogaine"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/democrats-gather-in-denver-for-post-midterms-introspection-turned-celebration",
+        "source": "PBS NewsHour Politics",
+        "title": "Democrats gather in Denver for post-midterms introspection-turned-celebration",
+        "publicationDate": "2026-11-12",
+        "category": "2026 Midterms",
+        "summary": "The two-day What's Next conference, hosted by a new group called Majority Democrats, was put on politicos' calendars months ago as another stepping stone as the party charted its way out of its post-2024 political wilderness.",
+        "url": "https://www.pbs.org/newshour/politics/democrats-gather-in-denver-for-post-midterms-introspection-turned-celebration"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/alaska-judge-rules-a-request-by-peltola-campaign-for-ballot-data-in-senate-race-is-not-reasonable",
+        "source": "PBS NewsHour Politics",
+        "title": "Alaska judge rules a request by Peltola campaign for ballot data in Senate race is 'not reasonable'",
+        "publicationDate": "2026-11-12",
+        "category": "2026 Midterms",
+        "summary": "An Alaska judge ruled Wednesday that a request by Democratic U.S. Senate candidate Mary Peltola's campaign for a list of absentee voters whose ballots have been rejected is \"not reasonable,\" particularly given the time crunch election officials face as they continue counting ballots from last week's election.",
+        "url": "https://www.pbs.org/newshour/politics/alaska-judge-rules-a-request-by-peltola-campaign-for-ballot-data-in-senate-race-is-not-reasonable"
+    },
+    {
+        "id": "https://thehill.com/homenews/analysis/6217604-nvidias-jensen-huang-resigned/",
         "source": "The Hill",
-        "title": "Kellyanne Conway knocks GOP ad spending: 'We lit billions of dollars on fire'",
+        "title": "Five takeaways from Nvidia’s Jensen Huang scandal",
         "publicationDate": "2026-11-12",
-        "category": "Campaign",
-        "summary": "Longtime conservative pollster Kellyanne Conway knocked Republican ad spending in the 2026 midterms, which the Republicans lost, calling it lighting “billions of dollars on fire.” “And you know, in this town, candidates often lose, but consultants always win. They skim 15, 20 percent off the top, quote, ‘legally.’ But you're not reaching people where they...",
-        "url": "https://thehill.com/homenews/campaign/6216648-kellyanne-conway-gop-ad-spending/"
+        "category": "Analysis",
+        "summary": "Corporate America is in the midst of its most dramatic scandal in years. Jensen Huang, the CEO and co-founder of Nvidia, resigned Thursday after admitting one extramarital affair, with a woman suspected of being a Chinese agent, and amid new reporting of a second affair, this time with an Nvidia colleague. The vast company is...",
+        "url": "https://thehill.com/homenews/analysis/6217604-nvidias-jensen-huang-resigned/"
     },
     {
-        "id": "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/",
+        "id": "https://thehill.com/policy/technology/6217564-trump-jr-kalshi-advisory-end/",
         "source": "The Hill",
-        "title": "House Republican says Huang has agreed to appear before lawmakers",
-        "publicationDate": "2026-11-12",
-        "category": "Foreign Policy",
-        "summary": "Jensen Huang, the tech executive at the center of an alleged Chinese corporate espionage scandal, has agreed to appear before Congress in a closed-door briefing focused on threats to U.S. national security, a top Republican told The Hill on Thursday. Rep. Brian Mast (R-Fla.), the chair of the House Foreign Affairs Committee, said lawmakers are...",
-        "url": "https://thehill.com/homenews/house/6216614-jensen-huang-congress-testimony/"
-    },
-    {
-        "id": "https://thehill.com/regulation/court-battles/6216580-scharf-slaughter-v-trump-win-supreme-court/",
-        "source": "The Hill",
-        "title": "White House counsel says Supreme Court delivered 'generational win' on presidential firing power",
-        "publicationDate": "2026-11-12",
-        "category": "Court Battles",
-        "summary": "White House counsel Will Scharf praised the Supreme Court's June decision strengthening presidential firing power as a \"generational win,\" saying Thursday it righted what he viewed as a \"historic constitutional wrong.\" \"A president who can't control who's exercising the executive power that is vested in him, that's a cabined presidency,\" Scharf said during the Federalist...",
-        "url": "https://thehill.com/regulation/court-battles/6216580-scharf-slaughter-v-trump-win-supreme-court/"
-    },
-    {
-        "id": "https://thehill.com/newsletters/1230-report/6216397-jensen-huang-nvidia-pete-hegseth-starshield-blumenthal-ballroom/",
-        "source": "The Hill",
-        "title": "Huang surrenders CEO spot amid affairs scandal",
-        "publicationDate": "2026-11-12",
-        "category": "12:30 Report",
-        "summary": "Presented by American Meat Producers Association 🏛️ Plus: Blumenthal ballroom bustle {beacon} It’s Thursday. Yes, only Thursday. What a week. In today's issue: Jensen Huang steps down A second Starshield slowdown Warren to take on Wall Street Ballroom drama Programming note: We’re Claire Leibowitz and Abigail Walker filling in for Cate today. Please send your...",
-        "url": "https://thehill.com/newsletters/1230-report/6216397-jensen-huang-nvidia-pete-hegseth-starshield-blumenthal-ballroom/"
-    },
-    {
-        "id": "https://thehill.com/opinion/finance/6213762-scrapping-social-security-cap/",
-        "source": "The Hill",
-        "title": "Democrats' mandate: Make billionaires pay their fair share into Social Security",
-        "publicationDate": "2026-11-12",
-        "category": "Economy",
-        "summary": "Following their success in the 2026 midterms, Democrats are being urged to pass the Social Security Expansion Act to eliminate funding shortfalls and require the wealthy to pay their fair share.",
-        "url": "https://thehill.com/opinion/finance/6213762-scrapping-social-security-cap/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
-        "source": "New York Times Politics",
-        "title": "Will the Supreme Court Thwart Congressional Investigations?",
-        "publicationDate": "2026-11-12",
-        "category": "Defense",
-        "summary": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
-        "url": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html",
-        "source": "New York Times Politics",
-        "title": "Democrats Put Targets on Notice as Trump Oversight Takes Shape",
+        "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket ties",
         "publicationDate": "2026-11-12",
         "category": "Technology",
-        "summary": "Letters sent by two key House committees tell companies and officials not to destroy documents.",
-        "url": "https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html"
+        "summary": "Kalshi has ended Donald Trump Jr.’s advisory role with the company after his firm, 1789 Capital, increased its investment in Polymarket earlier this year. “We have mutually agreed to end Don’s advisory role after his firm’s significant investment in a competitor this past summer,” Kalshi spokesperson Dani Lever said in a statement. “We are grateful...",
+        "url": "https://thehill.com/policy/technology/6217564-trump-jr-kalshi-advisory-end/"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/12/us/politics/concession-calls-elections-midterms.html",
-        "source": "New York Times Politics",
-        "title": "The Concession Call to an Election Winner Is No Longer a Given",
+        "id": "https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto/",
+        "source": "The Hill",
+        "title": "FBI: North Korean hackers have stolen $400 million in crypto over last 18 months",
         "publicationDate": "2026-11-12",
-        "category": "United States Politics and Government",
-        "summary": "In a hyperpartisan era when norms and traditions cannot be counted on, some politicians are left waiting by the phone.",
-        "url": "https://www.nytimes.com/2026/11/12/us/politics/concession-calls-elections-midterms.html"
+        "category": "Technology",
+        "summary": "The FBI said Thursday that North Korean hackers have stolen more than $400 million in cryptocurrency over the past 18 ​months using a social engineering scheme called “FaceStealer.” The scheme uses imposter versions of video conference platforms and secretly recorded web camera videos along with computer intrusions to target people working in the cryptocurrency industry,...",
+        "url": "https://thehill.com/policy/technology/6217605-north-korean-hackers-stole-crypto/"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-        "source": "New York Times Politics",
-        "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+        "id": "https://thehill.com/policy/technology/6217470-democrats-investigate-trump-nvidia-chips-china/",
+        "source": "The Hill",
+        "title": "Top trade committee Democrats launch probe into Trump administration approving Nvidia's chip sales to China",
         "publicationDate": "2026-11-12",
-        "category": "Foreign Policy",
-        "summary": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
-        "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
+        "category": "Economy",
+        "summary": "The top Democrats on the House and Senate's trade committees are requesting the Commerce Department preserve its records on the President Trump's decision late last year allow Nvidia to sell its H200 chips to China. The investigation, announced Thursday by Senate Finance Committee ranking member Ron Wyden (D-Ore.) and House Ways and Means Committee ranking...",
+        "url": "https://thehill.com/policy/technology/6217470-democrats-investigate-trump-nvidia-chips-china/"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+        "id": "https://thehill.com/homenews/house/6217576-gop-lawmaker-says-party-is-focusing-on-political-power-rather-than-people/",
+        "source": "The Hill",
+        "title": "GOP lawmaker says party is focusing on 'political power' rather than people",
+        "publicationDate": "2026-11-12",
+        "category": "House",
+        "summary": "Texas Rep. Chip Roy (R) issued a scathing rebuke of the Republican Party on Thursday, after his party lost control of both chambers of Congress in the midterm elections. Roy, who will depart his role on Jan. 3 after launching an unsuccessful bid for Texas attorney general, spoke for nearly half an hour on the...",
+        "url": "https://thehill.com/homenews/house/6217576-gop-lawmaker-says-party-is-focusing-on-political-power-rather-than-people/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html",
         "source": "New York Times Politics",
-        "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
+        "title": "Republican Setbacks Swell in the South With Stinging Loss in Mississippi",
+        "publicationDate": "2026-11-12",
+        "category": "Midterm Elections (2026)",
+        "summary": "The Democrat Scott Colom’s stunning Senate upset punctuated a dismal midterm showing for the G.O.P. in a region they had dominated for years.",
+        "url": "https://www.nytimes.com/2026/11/12/us/politics/republican-defeats-south-mississippi-midterms.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
+        "source": "New York Times Politics",
+        "title": "Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.",
+        "publicationDate": "2026-11-12",
+        "category": "Chihuahua (Mexico)",
+        "summary": "The prosecutor, who faces arrest in Mexico after allowing C.I.A. officers into Chihuahua state, is under the protection of the U.S. government, according to U.S. and Mexican officials.",
+        "url": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-donald-trump-jr.html",
+        "source": "New York Times Politics",
+        "title": "Kalshi Severs Its Relationship With Donald Trump Jr.",
         "publicationDate": "2026-11-12",
         "category": "Prediction Markets",
-        "summary": "After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected.",
-        "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html"
+        "summary": "The country’s largest prediction market says it ended its contract with the president’s eldest son after his investment firm took a larger stake in its prime competitor.",
+        "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-donald-trump-jr.html"
     },
     {
-        "id": "https://www.washingtonpost.com/elections/2026/11/12/alaska-judge-rules-against-peltola-request-senate-race-ballot-data/",
-        "source": "Washington Post Politics",
-        "title": "Alaska judge rules against Peltola request for Senate race ballot data",
+        "id": "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html",
+        "source": "New York Times Politics",
+        "title": "Black Turnout Rose in Georgia, Powered by Younger Voters",
         "publicationDate": "2026-11-12",
-        "category": "Other",
-        "summary": "Democratic candidate Mary Peltola’s campaign had sought a list of absentee voters whose ballots were rejected in Alaska’s tight Senate race.",
-        "url": "https://www.washingtonpost.com/elections/2026/11/12/alaska-judge-rules-against-peltola-request-senate-race-ballot-data/"
+        "category": "Midterm Elections (2026)",
+        "summary": "Black voters under 30 outpaced young white voters for the first time since 2012, contributing to a statewide sweep by Democrats.",
+        "url": "https://www.nytimes.com/2026/11/12/us/black-turnout-georgia.html"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/",
-        "source": "Washington Post Politics",
-        "title": "Trump says no deal needed with Iran, closes down Vance negotiations",
-        "publicationDate": "2026-11-12",
-        "category": "Foreign Policy",
-        "summary": "The president suggested Thursday that he was dialing back diplomatic efforts to end the conflict with Iran and ending a dealmaking effort by the vice president.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/11/12/why-pollsters-think-surveys-undershot-democrats-midterm-strength/",
-        "source": "Washington Post Politics",
-        "title": "Why pollsters think surveys undershot Democrats’ midterm strength",
-        "publicationDate": "2026-11-12",
-        "category": "Other",
-        "summary": "Plus: Faith in democracy and Trump’s power in the GOP.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/12/why-pollsters-think-surveys-undershot-democrats-midterm-strength/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/world/2026/11/12/trump-reverts-an-old-theme-warns-immigrant-caravans/",
-        "source": "Washington Post Politics",
-        "title": "Trump reverts to an old theme, warns of immigrant caravans",
-        "publicationDate": "2026-11-12",
-        "category": "Other",
-        "summary": "President Donald Trump blended two of his frequent topics, immigration and tariffs.",
-        "url": "https://www.washingtonpost.com/world/2026/11/12/trump-reverts-an-old-theme-warns-immigrant-caravans/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/11/12/new-house-intelligence-committee-chair-plans-aggressive-oversight-cia/",
-        "source": "Washington Post Politics",
-        "title": "New House Intelligence Committee chair plans ‘aggressive’ oversight of CIA",
+        "id": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
+        "source": "New York Times Politics",
+        "title": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns",
         "publicationDate": "2026-11-12",
         "category": "Defense",
-        "summary": "Rep. Jim Himes (D-Connecticut) said that the agency has expanded covert action and needed more supervision as such.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/12/new-house-intelligence-committee-chair-plans-aggressive-oversight-cia/"
+        "summary": "Defense Secretary Pete Hegseth’s highly cultivated brand took a hit during an encounter with an Army sentinel at Arlington Cemetery.",
+        "url": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/12/rep-elect-bobby-pulido-wins-latin-grammy/",
+        "source": "Washington Post Politics",
+        "title": "Rep.-elect Bobby Pulido wins Latin Grammy",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "It was the third Latin Grammy for Bobby Pulido, who defeated Republican Rep. Monica De La Cruz last week.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/12/rep-elect-bobby-pulido-wins-latin-grammy/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/12/democrats-probe-whether-trump-donors-promised-quid-pro-quo/",
+        "source": "Washington Post Politics",
+        "title": "Democrats probe whether Trump donors promised ‘quid pro quo’",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "Lawmakers are asking his fundraiser Meredith O’Rourke to explain the terms of donors’ gifts to Trump’s ballroom and other pet projects.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/12/democrats-probe-whether-trump-donors-promised-quid-pro-quo/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/12/putting-democrats-midterm-wins-into-perspective/",
+        "source": "Washington Post Politics",
+        "title": "Putting Democrats’ midterm wins into perspective",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "Scott Colom’s win in Mississippi is just one of several that have been hard for Democrats to process.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/12/putting-democrats-midterm-wins-into-perspective/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/12/say-cheese-new-congress-members-pose-class-photo/",
+        "source": "Washington Post Politics",
+        "title": "Say cheese! New Congress members pose for class photo.",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "New House members, who will be sworn in on Jan. 3, stepped off their buses bright and early this morning to climb the House steps and pose for their class photo.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/12/say-cheese-new-congress-members-pose-class-photo/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/national-security/2026/11/12/hegseth-awards-spec-thomas-iglesias-who-scolded-him-tomb-unknowns/",
+        "source": "Washington Post Politics",
+        "title": "Hegseth awards medal to soldier who admonished him, his team at Tomb of the Unknowns",
+        "publicationDate": "2026-11-12",
+        "category": "Defense",
+        "summary": "Video elicited furious backlash from critics incredulous that a defense secretary would behave disrespectfully at one of the nation’s most sacred memorials.",
+        "url": "https://www.washingtonpost.com/national-security/2026/11/12/hegseth-awards-spec-thomas-iglesias-who-scolded-him-tomb-unknowns/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
         "publicationDate": "2026-11-12",
-        "category": "Defense",
-        "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+        "category": "Foreign Policy",
+        "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
         "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
         "publicationDate": "2026-11-12",
         "category": "Foreign Policy",
-        "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-        "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+        "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+        "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
@@ -353,11 +443,47 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+        "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
         "publicationDate": "2026-11-12",
         "category": "Other",
-        "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
+        "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
         "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/ef151433-c522-44e8-b735-38548341b5a0?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Cravath employee charged with trading on firm’s corporate deals",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "Word-processing specialist allegedly used confidential client information to profit from takeover announcements",
+        "url": "https://www.ft.com/content/ef151433-c522-44e8-b735-38548341b5a0?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/291248d4-b8f0-4b88-b847-d2ae4262d351?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Burnham targets deal with EU that will deliver ‘real benefits’ for UK",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "British premier insists that ‘no one is talking’ about rejoining the bloc as summit nears",
+        "url": "https://www.ft.com/content/291248d4-b8f0-4b88-b847-d2ae4262d351?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Mercedes-Benz to halt ‘all future investments’ in Germany",
+        "publicationDate": "2026-11-12",
+        "category": "Other",
+        "summary": "Carmaker has also warned that plant closures are an option in escalating stand-off with unions over bid to reduce labour costs",
+        "url": "https://www.ft.com/content/f4a1fd87-9abc-4965-963a-a5349dbfdab7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump signals end to vice-president’s Iran peace deal push",
+        "publicationDate": "2026-11-12",
+        "category": "Foreign Policy",
+        "summary": "President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns",
+        "url": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
@@ -367,78 +493,6 @@
         "category": "Foreign Policy",
         "summary": "‘Europe needs to pay attention’, warns Zelenskyy after Abu Dhabi talks",
         "url": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Quantum Systems drones grounded by German military after cyber attack",
-        "publicationDate": "2026-11-12",
-        "category": "Defense",
-        "summary": "Start-up with €7bn valuation and operations in Ukraine is latest European arms group to be targeted",
-        "url": "https://www.ft.com/content/783504cd-aa28-453a-a223-7a34eee86ce8?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/33b29893-8283-4a7d-acfc-bb758e3587e2?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Can Britain afford to lead European defence?",
-        "publicationDate": "2026-11-12",
-        "category": "Other",
-        "summary": "A special show recorded on board HMS Prince of Wales",
-        "url": "https://www.ft.com/content/33b29893-8283-4a7d-acfc-bb758e3587e2?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/21462c5b-0770-49ee-a248-9c01f03ddffe",
-        "source": "Financial Times World",
-        "title": "We need to get older people back into work too",
-        "publicationDate": "2026-11-12",
-        "category": "Other",
-        "summary": "The Milburn review shows the government is taking the Neet crisis seriously. Underemployed over-fifties deserve the same attention",
-        "url": "https://www.ft.com/content/21462c5b-0770-49ee-a248-9c01f03ddffe"
-    },
-    {
-        "id": "https://www.ft.com/content/fa23a8ad-29bf-4971-aa44-6b25b247c193?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Singapore barred Alice Huang for giving police ‘inaccurate information’",
-        "publicationDate": "2026-11-12",
-        "category": "Foreign Policy",
-        "summary": "Chinese woman accused of affair with Nvidia’s former chief executive and spying for China was investigated by city-state over chip shipments by her company",
-        "url": "https://www.ft.com/content/fa23a8ad-29bf-4971-aa44-6b25b247c193?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.cfr.org/podcasts/presidents-inbox/a-general-and-an-admiral-discuss-the-pentagon-purge",
-        "source": "Council on Foreign Relations",
-        "title": "A General and an Admiral Discuss the Pentagon Purge",
-        "publicationDate": "2026-11-11",
-        "category": "Podcast",
-        "summary": "We Discuss:",
-        "url": "https://www.cfr.org/podcasts/presidents-inbox/a-general-and-an-admiral-discuss-the-pentagon-purge"
-    },
-    {
-        "id": "https://www.cfr.org/articles/china-in-south-asia-october-2026",
-        "source": "Council on Foreign Relations",
-        "title": "China in South Asia: October 2026",
-        "publicationDate": "2026-11-11",
-        "category": "Defense",
-        "summary": "China’s engagements across South Asia this October were defined less by new diplomatic initiatives and more by the implementation and testing of relationships already in motion. India stood apart as the summit between U.S. President Donald Trump and Chinese President Xi Jinping, as well as the aftermath of the BRICS summit, prompted renewed debate in New Delhi over its relationships with both Washington and...",
-        "url": "https://www.cfr.org/articles/china-in-south-asia-october-2026"
-    },
-    {
-        "id": "https://www.cfr.org/articles/thanking-americas-veterans-7",
-        "source": "Council on Foreign Relations",
-        "title": "Thanking America’s Veterans",
-        "publicationDate": "2026-11-11",
-        "category": "Article",
-        "summary": "Veterans Day recognizes those who have served in the U.S. armed forces.",
-        "url": "https://www.cfr.org/articles/thanking-americas-veterans-7"
-    },
-    {
-        "id": "https://www.cfr.org/articles/how-the-next-congress-can-repair-the-militarys-personnel-crisis",
-        "source": "Council on Foreign Relations",
-        "title": "How the Next Congress Can Repair the Military’s Personnel Crisis",
-        "publicationDate": "2026-11-11",
-        "category": "Defense",
-        "summary": "A change in Pentagon leadership won’t undo the purge of senior officers since early 2025, but the incoming Congress can begin repairing the damage by protecting promotions, guaranteeing women’s access to combat roles, and restoring oversight.",
-        "url": "https://www.cfr.org/articles/how-the-next-congress-can-repair-the-militarys-personnel-crisis"
     },
     {
         "id": "https://www.heritage.org/conservatism/report/lessons-the-founding-fathers-and-the-old-american-tradition-muslim-immigration",
@@ -459,85 +513,49 @@
         "url": "https://www.heritage.org/conservatism/report/the-patient-islamification-the-west-the-muslim-brotherhood-both-sides-the-0"
     },
     {
-        "id": "https://www.hudson.org/politics-government/earthquake-white-house-donald-trump-changes-his-chief-staff-shifts-political-tsiporah-fried",
-        "source": "Hudson Institute",
-        "title": "Earthquake at the White House: Donald Trump Changes His Chief of Staff and Shifts the Political Balance of the MAGA Right",
-        "publicationDate": "2026-11-11",
-        "category": "Foreign Policy",
-        "summary": "Earthquake at the White House: Donald Trump Changes His Chief of Staff and Shifts the Political Balance of the MAGA Right bbert@hudson.org Wed, 11/11/2026 - 14:15 SVG Commentary Nov 9, 2026 Atlantico Earthquake at the White House: Donald Trump Changes His Chief of Staff and Shifts the Political Balance of the MAGA Right Tsiporah Fried Visiting Senior Fellow Tsiporah Fried Commentary Caption White House Deputy Chief...",
-        "url": "https://www.hudson.org/politics-government/earthquake-white-house-donald-trump-changes-his-chief-staff-shifts-political-tsiporah-fried"
-    },
-    {
-        "id": "https://www.hudson.org/experts/ashlynn-parker",
-        "source": "Hudson Institute",
-        "title": "Ashlynn Parker",
-        "publicationDate": "2026-11-11",
-        "category": "Foreign Policy",
-        "summary": "Ashlynn Parker nmackey@hudson.org Wed, 11/11/2026 - 13:33 Ashlynn Parker Research Associate At A Glance: Ashlynn Parker is a research associate at Hudson Institute. Contact: aparker@hudson.org Biography Ashlynn Parker is a research associate at Hudson Institute. She holds a BA in international relations from the College of William & Mary and is a 2026 alumna of Hudson Institute Political Studies. Events Search...",
-        "url": "https://www.hudson.org/experts/ashlynn-parker"
-    },
-    {
-        "id": "https://www.hudson.org/technology/tools-leverage-preserving-us-allied-leadership-semiconductor-equipment-jason-hsu",
-        "source": "Hudson Institute",
-        "title": "Tools of Leverage: Preserving US and Allied Leadership in Semiconductor Equipment",
-        "publicationDate": "2026-11-11",
-        "category": "Defense",
-        "summary": "Tools of Leverage: Preserving US and Allied Leadership in Semiconductor Equipment bbert@hudson.org Wed, 11/11/2026 - 12:36 SVG Reports Nov 11, 2026 Hudson Institute Tools of Leverage: Preserving US and Allied Leadership in Semiconductor Equipment Jason Hsu Senior Fellow Heberto Limas Chris Gorin Jason Hsu, Heberto Limas & Chris Gorin Reports Caption Employees work in the clean room of a semiconductor company in...",
-        "url": "https://www.hudson.org/technology/tools-leverage-preserving-us-allied-leadership-semiconductor-equipment-jason-hsu"
-    },
-    {
-        "id": "https://cms.hoover.org/profiles/crystal-shackleford",
+        "id": "https://cms.hoover.org/news/hoover-research-workshop-renewing-indigenous-economies",
         "source": "Hoover Institution",
-        "title": "Crystal Shackleford",
+        "title": "Hoover Research Workshop on Renewing Indigenous Economies",
         "publicationDate": "2026-11-11",
         "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://cms.hoover.org/profiles/crystal-shackleford"
+        "summary": "Twenty-five scholars discussed recent research on the origins and current impact of policies in Indian Country on October 8–9, 2026, at the Hoover Institution.",
+        "url": "https://cms.hoover.org/news/hoover-research-workshop-renewing-indigenous-economies"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/news-wrap-democrat-scott-colom-defeats-mississippi-sen-cindy-hyde-smith",
-        "source": "PBS NewsHour Politics",
-        "title": "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
-        "publicationDate": "2026-11-11",
-        "category": "Defense",
-        "summary": "In our news wrap Wednesday, Democrat Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in Mississippi, a group that included Defense Secretary Pete Hegseth was admonished by an Army sentinel at the Tomb of the Unknown Soldier and peace talks between Ukraine, Russia and the U.S. ended with an agreement to exchange prisoners, but no breakthrough on ending the war.",
-        "url": "https://www.pbs.org/newshour/show/news-wrap-democrat-scott-colom-defeats-mississippi-sen-cindy-hyde-smith"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
-        "source": "PBS NewsHour Politics",
-        "title": "White House threatens Democrats over plans to investigate Trump officials",
-        "publicationDate": "2026-11-11",
-        "category": "Department of Justice",
-        "summary": "With Democrats set to take control of Congress, the White House is threatening them over investigations into the Trump administration. The top White House lawyer warned that aggressive oversight of the administration \"may cross the line into blatant criminality.\" It comes amid a wave of resignations within the Justice Department. Amna Nawaz discussed more with Devlin Barrett of The New York Times.",
-        "url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/sen-coons-on-huang-affair-iran-war-and-why-trump-should-fire-hegseth",
-        "source": "PBS NewsHour Politics",
-        "title": "Sen. Coons on Huang affair, Iran war and why Trump should fire Hegseth",
-        "publicationDate": "2026-11-11",
-        "category": "Foreign Policy",
-        "summary": "As Democrats prepare to take control of Congress, Delaware Sen. Chris Coons is poised to become chairman of the Senate Foreign Relations Committee, succeeding retiring Democrat Jeanne Shaheen. A staunch supporter of Ukraine and a critic of President Trump's war with Iran, Coons would take the helm at a consequential moment for American foreign policy. Coons joined Geoff Bennett to discuss more.",
-        "url": "https://www.pbs.org/newshour/show/sen-coons-on-huang-affair-iran-war-and-why-trump-should-fire-hegseth"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
-        "source": "PBS NewsHour Politics",
-        "title": "Scott Colom wins Senate election in Mississippi",
-        "publicationDate": "2026-11-11",
-        "category": "2026 midterm elections",
-        "summary": "Democratic nominee Scott Colom has defeated Republican Sen. Cindy Hyde-Smith in Mississippi's closely contested U.S. Senate race after a prolonged ballot counting process, giving the state its first Black U.S. senator since post-Civil War Reconstruction.",
-        "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi"
-    },
-    {
-        "id": "R49514",
+        "id": "R43743",
         "source": "Congressional Research Service",
-        "title": "Connecting Constituents with Federal Assistance for Local Emergency Communications Projects",
+        "title": "Monuments and Memorials Authorized and Completed Under the Commemorative Works Act in the District of Columbia",
         "publicationDate": "2026-11-10",
-        "category": "Technology",
-        "summary": "This report is intended to provide Members of Congress and their staff with information and resources regarding federal funding for programs that may support local emergency communications projects. The report provides a brief overview of selected grant and loan programs organized by agency. Agencies covered include the U.S. Department of Homeland Security’s (DHS’s) Federal Emergency Management Agency (FEMA), the...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49514/R49514.1.pdf"
+        "category": "Other",
+        "summary": "Since the enactment of the Commemorative Works Act (CWA) in 1986, Congress has authorized 48 commemorative works to be placed in the District of Columbia or its environs. Twenty-five of these works have been completed and dedicated. This report contains a catalog of the authorized works that have been completed and dedicated since 1986. For each completed memorial, the report provides a brief summary of its...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43743/R43743.31.pdf"
+    },
+    {
+        "id": "R43744",
+        "source": "Congressional Research Service",
+        "title": "Monuments and Memorials Authorized Under the Commemorative Works Act in the District of Columbia: Current Development of In-Progress and Lapsed Works",
+        "publicationDate": "2026-11-10",
+        "category": "Other",
+        "summary": "Under the Commemorative Works Act (CWA) of 1986, Congress may authorize commemorative works to be placed in the District of Columbia or its environs. Once a commemorative work has been authorized, Congress continues to be responsible for statutorily designating a memorial site location. This report provides a status update on 13 in-progress memorials, 8 memorials with lapsed authorizations, and 1 with a repealed...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R43744/R43744.47.pdf"
+    },
+    {
+        "id": "R49515",
+        "source": "Congressional Research Service",
+        "title": "Foreign Ownership of U.S. Agricultural Land and AFIDA: Overview and Issues",
+        "publicationDate": "2026-11-10",
+        "category": "Defense",
+        "summary": "The U.S. Department of Agriculture (USDA) reports that from 2017 to 2024, foreign holdings of U.S. agricultural land increased an average of more than 2.4 million acres annually. Some Members of Congress have expressed concerns relating to national security about investments in U.S. agricultural land by foreign adversaries, according to 15 C.F.R. §791.4 (e.g., the People’s Republic of China), particularly...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49515/R49515.2.pdf"
+    },
+    {
+        "id": "IN12550",
+        "source": "Congressional Research Service",
+        "title": "Healthy Start: Overview and Policy Considerations",
+        "publicationDate": "2026-11-10",
+        "category": "Economy",
+        "summary": "The Healthy Start program (42 U.S.C. §254c-8) aims to improve health outcomes before, during, and after pregnancy. The program funds projects in geographic areas with high infant mortality rates (IMRs) and other adverse perinatal outcomes (see Figure 1 for recent trends in the national IMR compared with Healthy Start sites). Healthy Start emphasizes flexibility in meeting family- and community-specific needs and...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12550/IN12550.5.pdf"
     },
     {
         "id": "https://www.heritage.org/conservatism/report/liberty-and-justice-without-illusions-or-appeasement-islam-and-the-american",
@@ -610,23 +628,5 @@
         "category": "Economy",
         "summary": "On this week’s Unpacking Europe podcast, James Green , a research fellow at the Centre for European Reform spoke with Claudia-Dominique Geiser, a senior expert in EU Economic Policy at the Bertelsmann Stiftung and Marlene Schörner, a policy fellow, in EU Financial Markets at the Jacques Delors Centre to discuss how to scale up innovation in Europe to strengthen economic competitiveness and support strategic...",
         "url": "https://www.cer.eu/media/unpacking-europe-scaling-innovation-europe"
-    },
-    {
-        "id": "R48973",
-        "source": "Congressional Research Service",
-        "title": "Vegetation Management for Wildfire Mitigation Along Electric Power Line Rights-of-Way on Federal Lands",
-        "publicationDate": "2026-06-08",
-        "category": "Other",
-        "summary": "Congress has shown interest in protecting lives and property from catastrophic wildfires and in protecting electric grid reliability. Electric power line rights-of-way (hereinafter, power line ROWs) often cross multiple land jurisdictions, which may include one or more parcels of federal land. Power line owners and operators (hereinafter, operators) are responsible for clearing vegetation (e.g., trees), both to...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48973/R48973.3.pdf"
-    },
-    {
-        "id": "IF12634",
-        "source": "Congressional Research Service",
-        "title": "The Deliberative Process Privilege in Congress",
-        "publicationDate": "2024-04-16",
-        "category": "Other",
-        "summary": "The executive branch sometimes invokes the deliberative process privilege (DPP) in response to requests for information from Congress and the public, both in litigation and, with respect to the former, in the course of congressional investigations. The DPP is recognized primarily as a common-law privilege, although some courts have concluded that in certain circumstances it may contain “constitutional...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12634/IF12634.2.pdf"
     }
 ]
