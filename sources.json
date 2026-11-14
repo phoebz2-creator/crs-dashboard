@@ -1,39 +1,102 @@
 [
     {
-        "id": "https://thehill.com/video-clips/6220247-watch-duffy-mullin-hold-press-briefing-on-faa-nationwide-ground-stop/",
-        "source": "The Hill",
-        "title": "Watch: Duffy, Mullin hold press briefing on FAA nationwide ground stop",
+        "id": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+        "source": "NPR Politics",
+        "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
         "publicationDate": "2026-11-14",
-        "category": "Video",
-        "summary": "Homeland Security Secretary Markwayne Mullin and Transportation Secretary Sean Duffy will hold a press briefing at the White House on Friday night to provide an update on the Federal Aviation Administration's (FAA) nationwide ground stop. “The @FAANews [FAA] issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route...",
-        "url": "https://thehill.com/video-clips/6220247-watch-duffy-mullin-hold-press-briefing-on-faa-nationwide-ground-stop/"
+        "category": "Other",
+        "summary": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he'll be the youngest governor in the state's history.",
+        "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
     },
     {
-        "id": "https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems/",
+        "id": "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/",
         "source": "The Hill",
-        "title": "Hegseth directs Pentagon CFO to transform military pay systems",
+        "title": "Democrat flips Alaska governor's office",
+        "publicationDate": "2026-11-14",
+        "category": "Campaign",
+        "summary": "Jonathan Kreiss-Tomkins is projected to win the Alaska governor’s office, becoming the first Democrat to win the office in more than 20 years, according to Decision Desk HQ (DDHQ). Kreiss-Tomkins, a former state lawmaker, defeated Republican Bernadette Wilson and two others in the Last Frontier’s four-way, ranked-choice general election. DDHQ projected the race for Kreiss-Tomkins,...",
+        "url": "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/"
+    },
+    {
+        "id": "https://thehill.com/policy/transportation/6220416-faa-smart-ai-ground-stop-denial/",
+        "source": "The Hill",
+        "title": "AI company behind FAA's SMART tool denies link to ground stop, Duffy confirms",
         "publicationDate": "2026-11-14",
         "category": "Defense",
-        "summary": "Welcome to The Hill's Defense & NatSec newsletter {beacon} Defense &National Security Defense &National Security The Big Story Hegseth directs Pentagon CFO to transform military pay systems Defense Secretary Pete Hegseth directed the Pentagon's comptroller to begin a \"comprehensive transformation\" of the military pay systems, arguing the current process has resulted in a growing...",
-        "url": "https://thehill.com/newsletters/defense-national-security/6220214-hegseth-directs-pentagon-cfo-to-transform-military-pay-systems/"
+        "summary": "Air Space Intelligence (ASI), the company behind a recently deployed Federal Aviation Administration (FAA) AI tool, denied any link to the nationwide ground stop issued Friday afternoon. “The current ground stop is not based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC,” the company...",
+        "url": "https://thehill.com/policy/transportation/6220416-faa-smart-ai-ground-stop-denial/"
     },
     {
-        "id": "https://thehill.com/policy/sports-gaming/6220145-faa-ground-stop-impacts-college-football/",
+        "id": "https://thehill.com/policy/transportation/6220399-duffy-billions-air-traffic-ground-stop/",
         "source": "The Hill",
-        "title": "Multiple college football teams in flight limbo due to FAA ground stop",
+        "title": "Duffy, Mullin call for $50B air travel 'overhaul' in fiery ground stop briefing",
         "publicationDate": "2026-11-14",
-        "category": "Sports & Gaming",
-        "summary": "The nationwide ground stop issued by the Federal Aviation Administration Friday afternoon has impacted travel plans for college football teams scheduled to fly to their destinations. Among teams impacted are four schools in the NCAA's Big 12 Conference, Baylor University, Kansas State University, University of Utah and Arizona State University; three in the Big Ten...",
-        "url": "https://thehill.com/policy/sports-gaming/6220145-faa-ground-stop-impacts-college-football/"
+        "category": "Transportation",
+        "summary": "Trump administration officials reupped their calls for a multi-billion-dollar investment into updating the U.S.'s \"incredibly old\" air traffic control systems, calling out Congress for \"[kicking] the can down the road\" on improvements they argued could have prevented Friday night's nationwide ground stop. “What we have is an incredibly old air traffic control system,” Transportation Secretary...",
+        "url": "https://thehill.com/policy/transportation/6220399-duffy-billions-air-traffic-ground-stop/"
     },
     {
-        "id": "https://thehill.com/newsletters/healthcare/6220185-u-s-poised-to-lose-measles-elimination-status/",
+        "id": "https://thehill.com/policy/transportation/6220313-faa-lifts-nationwide-ground-stop/",
         "source": "The Hill",
-        "title": "US poised to lose measles elimination status",
+        "title": "Airspace reopened after nationwide ground stop",
         "publicationDate": "2026-11-14",
-        "category": "Healthcare",
-        "summary": "Presented by CareQuest {beacon} Healthcare Healthcare The Big Story U.S. poised to lose measles elimination status The United States is on the brink of losing its measles elimination status after more than 25 years. Losing measles elimination status would be mostly symbolic, but it marks a step back for public health. © Annie Rice, Associated...",
-        "url": "https://thehill.com/newsletters/healthcare/6220185-u-s-poised-to-lose-measles-elimination-status/"
+        "category": "Transportation",
+        "summary": "The nationwide ground stop issued by the Federal Aviation Administration Friday afternoon has been lifted, Transportation Secretary Sean Duffy confirmed. \"At 8:15 tonight Eastern Time, we've opened up the airspace,\" Duffy said to reporters in the White House briefing room during a press conference that began at around 8:30 p.m. EST. Duffy added that, although...",
+        "url": "https://thehill.com/policy/transportation/6220313-faa-lifts-nationwide-ground-stop/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/",
+        "source": "The Hill",
+        "title": "Trump, Putin and Xi to meet in first trilateral meeting between leaders",
+        "publicationDate": "2026-11-14",
+        "category": "Foreign Policy",
+        "summary": "President Trump plans to meet with Russian President Vladimir Putin and Chinese President Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in China next week, marking the first-ever trilateral meeting between the three leaders. Trump will be in Asia for The Association of Southeast Asian Nations summit in the Philippines and...",
+        "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-democrats-denver.html",
+        "source": "New York Times Politics",
+        "title": "Even High-Flying Democrats Found Themselves Grounded in the Mile High City",
+        "publicationDate": "2026-11-14",
+        "category": "United States Politics and Government",
+        "summary": "After a nationwide ground stop, several governors and the former secretary of transportation were among those stranded in a Denver hotel bar.",
+        "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-flights-democrats-denver.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/13/us/politics/house-democrats-poindexter-investigation.html",
+        "source": "New York Times Politics",
+        "title": "House Democrats Open Inquiry After Incoming Lawmaker Accused of Sexual Harassment",
+        "publicationDate": "2026-11-14",
+        "category": "Midterm Elections (2026)",
+        "summary": "The House Democratic campaign arm is looking into an allegation against Representative-elect Brian Poindexter of Ohio. His campaign says he “gave what he thought was an innocuous compliment to a volunteer.”",
+        "url": "https://www.nytimes.com/2026/11/13/us/politics/house-democrats-poindexter-investigation.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
+        "source": "New York Times Politics",
+        "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
+        "publicationDate": "2026-11-14",
+        "category": "Foreign Policy",
+        "summary": "The president plans to also discuss the war against Iran, but is not expected to bring up Russia’s war in Ukraine or the scandal that has engulfed Jensen Huang.",
+        "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
+        "source": "New York Times Politics",
+        "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+        "publicationDate": "2026-11-14",
+        "category": "Defense",
+        "summary": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.",
+        "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/14/democrat-jonathan-kreiss-tomkins-wins-alaska-governors-race/",
+        "source": "Washington Post Politics",
+        "title": "Democrat Jonathan Kreiss-Tomkins wins Alaska governor’s race",
+        "publicationDate": "2026-11-14",
+        "category": "Other",
+        "summary": "Kreiss-Tomkins, 37, defeated three Republicans, including President Donald Trump’s preferred candidate.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/14/democrat-jonathan-kreiss-tomkins-wins-alaska-governors-race/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/11/13/few-colleagues-immediately-embrace-van-hollen-majority-leader-bid/",
@@ -63,6 +126,33 @@
         "url": "https://www.washingtonpost.com/politics/2026/11/13/trump-meet-with-putin-xi-jinping/"
     },
     {
+        "id": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "What we know about the longest ground stop since 9/11",
+        "publicationDate": "2026-11-14",
+        "category": "Technology",
+        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "publicationDate": "2026-11-14",
+        "category": "Foreign Policy",
+        "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Microsoft says services fully restored after day-long global outage",
+        "publicationDate": "2026-11-14",
+        "category": "Other",
+        "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Setback for SpaceX Starship rocket's double-catch test",
@@ -72,13 +162,49 @@
         "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/5f2242d2-4fb3-4d9c-aa23-ed0c1253f7ab?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "US aviation regulator grounds flights across the country",
+        "title": "Milburn review to call for tens of thousands of further education places",
         "publicationDate": "2026-11-14",
         "category": "Other",
-        "summary": "Airports ordered by Federal Aviation Administration to halt take-offs because of ‘telecommunications outage’",
-        "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1"
+        "summary": "Plan to be targeted at under-25-year-olds who are not in education, employment or training and could cost more than £1bn a year",
+        "url": "https://www.ft.com/content/5f2242d2-4fb3-4d9c-aa23-ed0c1253f7ab?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "BoE chief economist says further rate rises needed to combat inflation",
+        "publicationDate": "2026-11-14",
+        "category": "Economy",
+        "summary": "Huw Pill calls last week’s quarter-point increase to 4% a ‘significant step’ but that there was ‘further to go’ with borrowing costs",
+        "url": "https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3ba2bcd1-b80c-48a2-91c7-35f25366f8aa?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Italy rebuffs German bid to enter joint fighter jet project",
+        "publicationDate": "2026-11-14",
+        "category": "Other",
+        "summary": "Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme",
+        "url": "https://www.ft.com/content/3ba2bcd1-b80c-48a2-91c7-35f25366f8aa?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/1ce0667f-1ff9-4d82-bf85-5d112f77310a?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "A Vinted ban would sell young entrepreneurs short",
+        "publicationDate": "2026-11-14",
+        "category": "Other",
+        "summary": "Selling online is a great opportunity for teens to learn, earn and spend their money",
+        "url": "https://www.ft.com/content/1ce0667f-1ff9-4d82-bf85-5d112f77310a?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/d309eebb-21b7-4b8e-bebd-83de96b0a184",
+        "source": "Financial Times World",
+        "title": "Does your child have a side hustle?",
+        "publicationDate": "2026-11-14",
+        "category": "Other",
+        "summary": "Enterprising young people are coming up with smart moneymaking ideas. FT Money wants to hear about them",
+        "url": "https://www.ft.com/content/d309eebb-21b7-4b8e-bebd-83de96b0a184"
     },
     {
         "id": "LSB11499",
@@ -270,15 +396,6 @@
         "url": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13"
     },
     {
-        "id": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-        "source": "NPR Politics",
-        "title": "The Trump administration's voter roll crusade could continue",
-        "publicationDate": "2026-11-13",
-        "category": "Other",
-        "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
-        "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/does-van-hollen-have-enough-support-to-beat-schumer-in-senate-leadership-race",
         "source": "PBS NewsHour Politics",
         "title": "Does Van Hollen have enough support to beat Schumer in Senate leadership race?",
@@ -324,15 +441,6 @@
         "url": "https://www.pbs.org/newshour/politics/u-s-wrongly-withheld-new-york-highway-funds-over-immigrant-licenses-appeals-court-rules"
     },
     {
-        "id": "https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/",
-        "source": "The Hill",
-        "title": "House Democrat calls FAA stop 'quite disturbing'",
-        "publicationDate": "2026-11-13",
-        "category": "Transportation",
-        "summary": "Rep. Robert Garcia (D-Calif.) called the nationwide ground stop issued by the Federal Aviation Administration (FAA) on Friday “quite disturbing.” “This is quite disturbing and pretty extraordinary of a action taken,” Garcia said during an appearance on MS NOW. “Whatever it is, I think deserves as much transparency as possible.” “The impact is going to...",
-        "url": "https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/"
-    },
-    {
         "id": "https://www.nytimes.com/2026/11/13/us/politics/trump-congress-section-702-surveillance.html",
         "source": "New York Times Politics",
         "title": "Trump Officials Press Congress to Renew Spying Law in Lame-Duck Session",
@@ -340,42 +448,6 @@
         "category": "United States Politics and Government",
         "summary": "The request to extend a high-profile warrantless surveillance law would add a thorny issue during waning Republican control.",
         "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-congress-section-702-surveillance.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
-        "source": "New York Times Politics",
-        "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
-        "publicationDate": "2026-11-13",
-        "category": "Healthcare",
-        "summary": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
-        "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/13/us/politics/joe-biden-new-memoir-takeaways.html",
-        "source": "New York Times Politics",
-        "title": "5 Takeaways from Joe Biden’s Memoir: The Debate, Dropping Out and Advice From Romney",
-        "publicationDate": "2026-11-13",
-        "category": "Books and Literature",
-        "summary": "The 46th president defends his decision to run for re-election, which many in his party now regard as a mistake, and revisits the disastrous debate that forced him to end his campaign.",
-        "url": "https://www.nytimes.com/2026/11/13/us/politics/joe-biden-new-memoir-takeaways.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/13/us/politics/democrats-senate-leader.html",
-        "source": "New York Times Politics",
-        "title": "Democrats Vie for Support in Race for Top Senate Job",
-        "publicationDate": "2026-11-13",
-        "category": "United States Politics and Government",
-        "summary": "Senator Chris Van Hollen of Maryland said he wouldn’t run for president to focus on his leadership challenge to Senator Chuck Schumer, who remained confident he would prevail.",
-        "url": "https://www.nytimes.com/2026/11/13/us/politics/democrats-senate-leader.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
-        "source": "New York Times Politics",
-        "title": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
-        "publicationDate": "2026-11-13",
-        "category": "Midterm Elections (2026)",
-        "summary": "To win a Senate seat in a highly polarized, deeply Republican state, Scott Colom needed a perfect storm. He got it.",
-        "url": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html"
     },
     {
         "id": "https://www.washingtonpost.com/national-security/2026/11/13/fbi-arrests-son-former-cia-director-john-brennan-child-pornography-charges/",
@@ -387,15 +459,6 @@
         "url": "https://www.washingtonpost.com/national-security/2026/11/13/fbi-arrests-son-former-cia-director-john-brennan-child-pornography-charges/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/11/13/brian-monahan-out-attending-physician-congress-amid-pentagon-probe/",
-        "source": "Washington Post Politics",
-        "title": "Brian Monahan out as attending physician to Congress amid Pentagon probe",
-        "publicationDate": "2026-11-13",
-        "category": "Defense",
-        "summary": "An inspector general report this week also found that there had been insufficient oversight of Navy personnel assigned to his office.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/13/brian-monahan-out-attending-physician-congress-amid-pentagon-probe/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
@@ -403,69 +466,6 @@
         "category": "Healthcare",
         "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
         "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-        "publicationDate": "2026-11-13",
-        "category": "Other",
-        "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "publicationDate": "2026-11-13",
-        "category": "Other",
-        "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-        "publicationDate": "2026-11-13",
-        "category": "Other",
-        "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-        "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/ed6db87e-829a-41b4-a687-554847d6f904?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Colorado Democrat beats Maga firebrand Lauren Boebert in House race",
-        "publicationDate": "2026-11-13",
-        "category": "Other",
-        "summary": "Former ally of Donald Trump loses to centrist retired admiral Eileen Laubacher",
-        "url": "https://www.ft.com/content/ed6db87e-829a-41b4-a687-554847d6f904?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "SpaceX aborts attempt to catch Starship booster rocket",
-        "publicationDate": "2026-11-13",
-        "category": "Other",
-        "summary": "Elon Musk suffers setback in efforts to develop a completely reusable megarocket system",
-        "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-        "publicationDate": "2026-11-13",
-        "category": "Other",
-        "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
-        "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/a088c380-216e-4fc3-8b76-483504fd18c2?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Reform UK pays for Nigel Farage’s security despite £5mn gift",
-        "publicationDate": "2026-11-13",
-        "category": "Other",
-        "summary": "Party leader had claimed that undeclared donation from crypto billionaire was needed to ensure his protection",
-        "url": "https://www.ft.com/content/a088c380-216e-4fc3-8b76-483504fd18c2?syn-25a6b1a6=1"
     },
     {
         "id": "IF13346",
