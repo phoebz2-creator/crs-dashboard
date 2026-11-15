@@ -9,13 +9,13 @@
         "url": "https://cms.hoover.org/publications/chinas-global-sharp-power-weekly-alert/2026-issue-43"
     },
     {
-        "id": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-thin-line-with-trump",
+        "id": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-fine-line-with-trump",
         "source": "NPR Politics",
-        "title": "In calling for an end to the Iran War, Vance walks a thin line with Trump",
+        "title": "In calling for an end to the Iran War, Vance walks a fine line with Trump",
         "publicationDate": "2026-11-15",
         "category": "Foreign Policy",
         "summary": "A rift is opening up between President Trump and Vice President Vance when it comes to the Iran War. NPR's Ayesha Rascoe talks to Susan Glasser, staff writer at the New Yorker.",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-thin-line-with-trump"
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-fine-line-with-trump"
     },
     {
         "id": "https://www.npr.org/2026/11/15/nx-s1-6040041/politics-chat-duffy-calls-for-more-funding-democrats-plans-for-accountability",
@@ -45,67 +45,112 @@
         "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families"
     },
     {
-        "id": "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/",
-        "source": "The Hill",
-        "title": "Van Hollen says 'bunch of nonsense' that he can't win Senate majority leader",
+        "id": "https://www.pbs.org/newshour/politics/trump-blasts-judges-2-week-halt-to-his-washington-golf-project-and-says-administration-will-appeal",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
         "publicationDate": "2026-11-15",
-        "category": "Healthcare",
-        "summary": "Sen. Chris Van Hollen (D-Md.) calls it a “bunch of nonsense” that he can’t win Senate Majority Leader over Sen. Chuck Schumer (D-N.Y.) in response to a report from The Hill that alleged Senate insiders close to Schumer believed the Maryland Senator was using the leadership contest to win concessions on Medicare-for-All and terminating the...",
-        "url": "https://thehill.com/the-120/6221313-senate-majority-leader-race-van-hollen/"
+        "category": "Donald Trump news",
+        "summary": "\"It is in a terrible state of disrepair, as anybody can see by just looking at the pictures that are now circulating all over the Country, and in the Court,\" said Trump, who spent much of the weekend posting photos on his social media site of the golf course. \"They don't call it Trash Island for no reason!\"",
+        "url": "https://www.pbs.org/newshour/politics/trump-blasts-judges-2-week-halt-to-his-washington-golf-project-and-says-administration-will-appeal"
     },
     {
-        "id": "https://thehill.com/opinion/technology/6219046-trump-space-freedom-proclamation/",
+        "id": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
+        "source": "PBS NewsHour Politics",
+        "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
+        "publicationDate": "2026-11-15",
+        "category": "Donald Trump news",
+        "summary": "Officials are analyzing two routers installed in recent weeks at Federal Aviation Administration facilities in Arkansas and Texas, according to Transportation Secretary Sean Duffy, who during appearances on five television news shows stepped up his push for Congress to provide billions more to upgrade a system he said had been neglected for decades.",
+        "url": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/judge-temporarily-blocks-trump-from-moving-ahead-on-d-c-public-golf-course-redevelopment",
+        "source": "PBS NewsHour Politics",
+        "title": "Judge temporarily blocks Trump from moving ahead on D.C. public golf course redevelopment",
+        "publicationDate": "2026-11-15",
+        "category": "Donald Trump news",
+        "summary": "U.S. District Judge Ana Reyes issued the temporary restraining order before the East Potomac Golf Links was due to close Sunday for 15 months.",
+        "url": "https://www.pbs.org/newshour/politics/judge-temporarily-blocks-trump-from-moving-ahead-on-d-c-public-golf-course-redevelopment"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6221530-scott-colom-democrats-invest-mississippi/",
         "source": "The Hill",
-        "title": "Trump moves to build his space legacy with NASA’s help",
+        "title": "Colom urges Democrats to invest more in Mississippi after surprise Senate win",
+        "publicationDate": "2026-11-15",
+        "category": "Campaign",
+        "summary": "Sen.-elect Scott Colom (D-Miss.) on Sunday called on Democrats to channel more financial and political investment into Mississippi following his surprise Senate win last week. \"We didn’t have a bunch of resources. There wasn’t a bunch of campaign money spent to win Mississippi, compared to other states,\" Colom said on NBC News's \"Meet the Press.\"...",
+        "url": "https://thehill.com/homenews/campaign/6221530-scott-colom-democrats-invest-mississippi/"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6221508-stanton-congress-power-purse/",
+        "source": "The Hill",
+        "title": "Stanton says Democrats should use power of purse to change US foreign policy",
+        "publicationDate": "2026-11-15",
+        "category": "Foreign Policy",
+        "summary": "Rep. Greg Stanton (D-Ariz.) said the Democratic party should use the power of the purse to change current U.S. foreign policy regarding Russia. Host of \"The Hill Sunday\" Chris Stirewalt asked Stanton if it would be a good use of the power of the purse to force a government shutdown in order to get President...",
+        "url": "https://thehill.com/homenews/house/6221508-stanton-congress-power-purse/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6221486-crawford-defends-lutnick-nvidia-chips/",
+        "source": "The Hill",
+        "title": "Crawford says it's 'premature' to place blame on Lutnick for Nvidia chip sales",
+        "publicationDate": "2026-11-15",
+        "category": "Defense",
+        "summary": "House Intelligence Committee Chair Rick Crawford (R-Ark.) said Sunday that it is too early to blame Commerce Secretary Howard Lutnick for delays in cracking down on companies suspected of illegally funneling Nvidia chips to China after Treasury Secretary Scott Bessent publicly expressed his frustration with the department. “Again, a little premature for us to be...",
+        "url": "https://thehill.com/homenews/administration/6221486-crawford-defends-lutnick-nvidia-chips/"
+    },
+    {
+        "id": "https://thehill.com/opinion/technology/6220328-trump-ai-policy-shift/",
+        "source": "The Hill",
+        "title": "Could Trump turn against the AI barons?",
         "publicationDate": "2026-11-15",
         "category": "Technology",
-        "summary": "President Trump is about to do JFK one better.",
-        "url": "https://thehill.com/opinion/technology/6219046-trump-space-freedom-proclamation/"
+        "summary": "Following recent election losses, Donald Trump signaled potential shifts in AI policy, including increased regulation of tech leaders and cooperation with Democrats on safety measures.",
+        "url": "https://thehill.com/opinion/technology/6220328-trump-ai-policy-shift/"
     },
     {
         "id": "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/",
         "source": "The Hill",
-        "title": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Alaska Senate race still uncalled",
+        "title": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Van Hollen discusses Senate majority elections",
         "publicationDate": "2026-11-15",
         "category": "Administration",
-        "summary": "Treasury Secretary Sean Duffy is set to appear on several Sunday news talk shows after a rare Federal Aviation Administration (FAA) nationwide ground stop disrupted flights across the country Friday. It was only the second of such stoppage to happen in the U.S. since the Sept. 11, 2001, terror attacks. The secretary has asserted the...",
+        "summary": "Treasury Secretary Sean Duffy on Sunday pinned Friday's nationwide ground stop on Congress's lack of funding. He appeared on CNN’s “State of the Union,” Fox News’s “Fox News Sunday,” NBC News's \"Meet the Press,\" and CBS News's \"Face the Nation\" to discuss the cause of the ground stop, which is still not known, and the...",
         "url": "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/"
     },
     {
-        "id": "https://thehill.com/policy/international/6221276-zelensky-nato-donbas-deal/",
-        "source": "The Hill",
-        "title": "US floated idea swapping Ukrainian territory for NATO membership: Zelensky",
+        "id": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
+        "source": "New York Times Politics",
+        "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
         "publicationDate": "2026-11-15",
         "category": "Foreign Policy",
-        "summary": "Ukrainian President Volodymyr Zelensky said U.S. negotiators floated the possibility of Ukraine surrendering in the eastern Donbas region and conceding it to Russia in exchange for NATO membership. “The Americans raised a question: ‘What if Ukraine joins NATO? Would Ukraine withdraw from Donbas?’ This was the first time this had been raised,” Zelensky told reporters...",
-        "url": "https://thehill.com/policy/international/6221276-zelensky-nato-donbas-deal/"
+        "summary": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development.",
+        "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html"
     },
     {
-        "id": "https://thehill.com/policy/transportation/6221273-faa-grounding-flights-delays-incidents/",
-        "source": "The Hill",
-        "title": "Security breaches, tarmac collision exacerbate FAA ground stop aftermath",
+        "id": "https://www.nytimes.com/2026/11/15/us/politics/democrats-denver-gathering-takeaways.html",
+        "source": "New York Times Politics",
+        "title": "8 Takeaways From a Big Democratic Gathering in Denver: Democrats in Array",
         "publicationDate": "2026-11-15",
-        "category": "Foreign Policy",
-        "summary": "Security breaches in Denver and Dallas and a tarmac collision in Miami are exacerbating the aftermath of the Federal Aviation Administration’s (FAA) grounding of all flights Friday. The collision at Miami International Airport (MIA) occurred at 9:15 p.m. EST on Saturday when arriving and departing aircrafts made contact with each other at the intersection of...",
-        "url": "https://thehill.com/policy/transportation/6221273-faa-grounding-flights-delays-incidents/"
+        "category": "United States Politics and Government",
+        "summary": "More than a half-dozen potential Democratic presidential candidates made early pitches for themselves and their visions at what amounted to a party-wide post-election victory party.",
+        "url": "https://www.nytimes.com/2026/11/15/us/politics/democrats-denver-gathering-takeaways.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html",
+        "id": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+        "source": "New York Times Politics",
+        "title": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
+        "publicationDate": "2026-11-15",
+        "category": "Schumer",
+        "summary": "Senator Chris Van Hollen of Maryland said on Sunday that he has a “wide-open” path to unseat Chuck Schumer, the long-serving Senate Democratic leader.",
+        "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
         "source": "New York Times Politics",
         "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
         "publicationDate": "2026-11-15",
         "category": "United States Politics and Government",
         "summary": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
-        "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html",
-        "source": "New York Times Politics",
-        "title": "After Midterms Triumph, Democrats Look Quickly and Eagerly Ahead to 2028",
-        "publicationDate": "2026-11-15",
-        "category": "Presidential Election of 2028",
-        "summary": "Politicians, donors and campaign strategists are already imagining a large and contentious field of presidential contenders.",
-        "url": "https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html"
+        "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html"
     },
     {
         "id": "https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html",
@@ -113,17 +158,35 @@
         "title": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline",
         "publicationDate": "2026-11-15",
         "category": "United States Politics and Government",
-        "summary": "Former and current workers have found a sympathetic ear among Democrats set to take over the House and Senate. But any reversal of President Trump’s cuts are unlikely to happen immediately.",
+        "summary": "Former and current workers have found a sympathetic ear among Democrats set to take over the House and Senate. But any reversal of President Trump’s cuts is unlikely to happen immediately.",
         "url": "https://www.nytimes.com/2026/11/15/us/politics/federal-employees-democratic-congress-lifeline.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
-        "source": "New York Times Politics",
-        "title": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
+        "id": "https://www.washingtonpost.com/politics/2026/11/15/gop-glare-lutnick-grows-amid-nvidia-scandal/",
+        "source": "Washington Post Politics",
+        "title": "GOP glare on Lutnick grows amid Nvidia scandal",
         "publicationDate": "2026-11-15",
-        "category": "United States Politics and Government",
-        "summary": "Judge Ana C. Reyes, who has been overseeing combative litigation, said the Trump administration would not be responsible for operating the course while the case proceeded.",
-        "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html"
+        "category": "Other",
+        "summary": "Former Nvidia CEO Jensen Huang has agreed to testify before Congress in a closed-door meeting.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/15/gop-glare-lutnick-grows-amid-nvidia-scandal/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/15/chris-van-hollen-says-he-has-support-his-bid-replace-chuck-schumer/",
+        "source": "Washington Post Politics",
+        "title": "Chris Van Hollen says he has support in his bid to replace Chuck Schumer",
+        "publicationDate": "2026-11-15",
+        "category": "Other",
+        "summary": "Schumer has said he has the votes to win the race. Van Hollen said on “Fox News Sunday” that he has about 15 votes.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/15/chris-van-hollen-says-he-has-support-his-bid-replace-chuck-schumer/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/15/trump-blames-biden-faa-problems-first-comments-nationwide-ground-stop/",
+        "source": "Washington Post Politics",
+        "title": "Trump blames Biden for FAA problems in first comments on nationwide ground stop",
+        "publicationDate": "2026-11-15",
+        "category": "Other",
+        "summary": "For more than a day and a half, Trump had been publicly mum on the travel chaos.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/15/trump-blames-biden-faa-problems-first-comments-nationwide-ground-stop/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/11/15/democrats-point-unspent-funds-sean-duffy-seeks-air-traffic-control-upgrades/",
@@ -144,22 +207,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/11/15/fresh-off-victory-democrats-gather-with-warning-dont-mess-this-up/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/11/15/with-miller-charge-hope-fades-immigration-compromise-with-democrats/",
-        "source": "Washington Post Politics",
-        "title": "How immigration policy plays out after Democrats sweep elections",
+        "id": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
         "publicationDate": "2026-11-15",
-        "category": "Other",
-        "summary": "Trump and his DHS secretary say they are open to working with Democrats on immigration policy. Stephen Miller as White House chief of staff might change that.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/15/with-miller-charge-hope-fades-immigration-compromise-with-democrats/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/11/15/pentagon-prepares-its-own-prosecution-lt-gen-brett-sylvia/",
-        "source": "Washington Post Politics",
-        "title": "Pentagon prepares its own prosecution of general accused of leaking",
-        "publicationDate": "2026-11-15",
-        "category": "Defense",
-        "summary": "Lt. Gen. Brett Sylvia now faces legal jeopardy on two fronts after allegations by Defense Secretary Pete Hegseth’s team were previously referred to the Justice Department.",
-        "url": "https://www.washingtonpost.com/national-security/2026/11/15/pentagon-prepares-its-own-prosecution-lt-gen-brett-sylvia/"
+        "category": "Foreign Policy",
+        "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
@@ -189,31 +243,13 @@
         "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-        "publicationDate": "2026-11-15",
-        "category": "Foreign Policy",
-        "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+        "title": "Pope Leo rides in helicopter cockpit during Peru trip",
         "publicationDate": "2026-11-15",
         "category": "Other",
-        "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.ft.com/content/51ce4dd5-d726-41fd-b46c-a378dce14b69?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK businesses facing big rise in electricity bills by end of decade",
-        "publicationDate": "2026-11-15",
-        "category": "Other",
-        "summary": "Estimated increase of about 13% is largely driven by the cost of investment in electricity networks",
-        "url": "https://www.ft.com/content/51ce4dd5-d726-41fd-b46c-a378dce14b69?syn-25a6b1a6=1"
+        "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+        "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/7fa20d99-0085-445d-95c9-b2cfe80cd8e1?syn-25a6b1a6=1",
@@ -225,31 +261,40 @@
         "url": "https://www.ft.com/content/7fa20d99-0085-445d-95c9-b2cfe80cd8e1?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/f05cfe6d-758e-4b14-b150-acc9f3fc9321?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Republicans blame everyone but Trump for midterm drubbing",
+        "title": "Viktor Orbán’s party reels from $20mn hidden cash discovery",
         "publicationDate": "2026-11-15",
         "category": "Other",
-        "summary": "The party faithful avoid mentioning their leader as they lick their wounds at Heritage Foundation postmortem",
-        "url": "https://www.ft.com/content/d21caa78-65c1-4570-bec8-2ef71b5d65e7?syn-25a6b1a6=1"
+        "summary": "Hungarian police said money was recovered in forests, barns and warehouses as part of investigation into former prime minister’s ally",
+        "url": "https://www.ft.com/content/f05cfe6d-758e-4b14-b150-acc9f3fc9321?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/386813f4-2bf6-4fbe-9ab7-5f0c57f8e593",
+        "id": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Europe needs to talk to Russia",
+        "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
         "publicationDate": "2026-11-15",
         "category": "Foreign Policy",
-        "summary": "The cold war teaches us that deterrence requires more than just stronger armed forces",
-        "url": "https://www.ft.com/content/386813f4-2bf6-4fbe-9ab7-5f0c57f8e593"
+        "summary": "Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war",
+        "url": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/2e7028ba-987c-4874-9426-fe38a8753c67?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Saudi-backed Yemeni forces retreat from Red Sea in win for Houthis",
+        "title": "Anthropic IPO to further fuel the AI news cycle",
+        "publicationDate": "2026-11-15",
+        "category": "Other",
+        "summary": "New York listing date arrives, Trump, Xi and Putin in Shenzhen, a UK-EU entente cordiale",
+        "url": "https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "US and allies sign accord to protect AI supply chains from China",
         "publicationDate": "2026-11-15",
         "category": "Foreign Policy",
-        "summary": "Yemen announces withdrawal from areas around Bab al-Mandeb Strait in order to protect de facto capital Aden from Iran-linked militants",
-        "url": "https://www.ft.com/content/2e7028ba-987c-4874-9426-fe38a8753c67?syn-25a6b1a6=1"
+        "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+        "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1"
     },
     {
         "id": "https://cms.hoover.org/research/chinas-top-spy-agency-recruited-woman-who-targeted-jensen-huang",
@@ -290,7 +335,7 @@
     {
         "id": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
         "source": "NPR Politics",
-        "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+        "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
         "publicationDate": "2026-11-14",
         "category": "Other",
         "summary": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
@@ -313,51 +358,6 @@
         "category": "Other",
         "summary": "The ballot measure, decided as part of the Nov. 3 election, marked the second time in two years that voters have rejected attempts to overturn the system and revert to partisan primaries and to general elections in which just one candidate can be selected.",
         "url": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/democrats-try-out-a-strange-new-emotion-at-post-midterms-whats-next-conference-hope",
-        "source": "PBS NewsHour Politics",
-        "title": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope",
-        "publicationDate": "2026-11-14",
-        "category": "2026 Midterms",
-        "summary": "Democrats spent two days chewing over their future at the What's Next conference and trying to deal with the fact that it looks, for a moment at least, quite bright.",
-        "url": "https://www.pbs.org/newshour/politics/democrats-try-out-a-strange-new-emotion-at-post-midterms-whats-next-conference-hope"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working",
-        "source": "PBS NewsHour Politics",
-        "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
-        "publicationDate": "2026-11-14",
-        "category": "Healthcare",
-        "summary": "The administration clarified that while states still have the option to take action at the beginning of the year, they won't have to kick anyone off or deny coverage for failure to meet the requirement until July 1.",
-        "url": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-rubio-delivers-keynote-address-at-federalist-society-national-lawyers-convention",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Rubio delivers keynote address at Federalist Society National Lawyers Convention",
-        "publicationDate": "2026-11-14",
-        "category": "Economy",
-        "summary": "Rubio gave a sweeping speech to fellow conservatives on Friday evening acknowledging that Americans are struggling in the current economy, while also railing against what he called the \"weaponization\" of international law to constrain the U.S. from acting in its own interests.",
-        "url": "https://www.pbs.org/newshour/politics/watch-rubio-delivers-keynote-address-at-federalist-society-national-lawyers-convention"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html",
-        "source": "New York Times Politics",
-        "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
-        "publicationDate": "2026-11-14",
-        "category": "United States Politics and Government",
-        "summary": "The F.A.A. called a rare halt on flights nationwide, but the president stayed away from cameras and issued social media posts on the entertainment industry and California’s Democratic governor.",
-        "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/11/14/majority-americans-disapprove-trumps-construction-projects-poll-finds/",
-        "source": "Washington Post Politics",
-        "title": "Majority of Americans disapprove of Trump’s construction projects, poll finds",
-        "publicationDate": "2026-11-14",
-        "category": "Other",
-        "summary": "The president’s efforts to remake Washington also face significant Republican opposition.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/14/majority-americans-disapprove-trumps-construction-projects-poll-finds/"
     },
     {
         "id": "LSB11499",
