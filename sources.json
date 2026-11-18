@@ -1,39 +1,138 @@
 [
     {
-        "id": "IF12508",
-        "source": "Congressional Research Service",
-        "title": "Commercial Human Spaceflight Safety Regulations",
-        "publicationDate": "2026-11-17",
-        "category": "Economy",
-        "summary": "The Department of Transportation (DOT), acting through the Federal Aviation Administration (FAA), has regulatory authority over commercial space launch and reentry by nonfederal U.S. entities operating domestically or internationally and by foreign entities operating in the United States, including for spacecraft with human occupants. The FAA’s authority allows it to regulate the safety of human occupants, but a...",
-        "url": "https://www.congress.gov/crs_external_products/IF/HTML/IF12508.html"
+        "id": "https://thehill.com/homenews/senate/6226889-kelly-criticizes-cao-navy-food/",
+        "source": "The Hill",
+        "title": "Kelly knocks Hun Cao's analogy about food shortages on Navy ships",
+        "publicationDate": "2026-11-18",
+        "category": "Defense",
+        "summary": "Sen. Mark Kelly (D-Ariz.) knocked acting Navy Secretary Hung Cao’s confirmation hearing analogy on Navy vessel food shortages, implying the comparison undermined the reports of poor conditions aboard ships docked in the Middle East. During the hearing, Cao compared reports that certain sailors aboard the USS George Washington and the Boxer Amphibious Ready Group were...",
+        "url": "https://thehill.com/homenews/senate/6226889-kelly-criticizes-cao-navy-food/"
     },
     {
-        "id": "IF12968",
+        "id": "https://thehill.com/homenews/senate/6226826-mark-warner-ai-cybersecurity-system-outages/",
+        "source": "The Hill",
+        "title": "Senate Intel Vice Chair Warner says AI contributing to network outages",
+        "publicationDate": "2026-11-18",
+        "category": "Defense",
+        "summary": "Senate Intelligence Committee ranking member Mark Warner (D-Va.) alleged Tuesday that AI contributed to several high-profile system outages this week, arguing industries are under pressure to quickly identify and fix security issues the technology can easily exploit. “What appears to be happening instead is a consequence of how quickly artificial intelligence is changing the cybersecurity...",
+        "url": "https://thehill.com/homenews/senate/6226826-mark-warner-ai-cybersecurity-system-outages/"
+    },
+    {
+        "id": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/",
+        "source": "The Hill",
+        "title": "White House pulls nomination of Heidi Overton to lead FDA",
+        "publicationDate": "2026-11-18",
+        "category": "Healthcare",
+        "summary": "The White House withdrew the nomination of Heidi Overton to lead the Food and Drug Administration (FDA) amid opposition from Senate Republicans, it confirmed to The Hill. Overton was set to face a key vote Wednesday in the Senate health committee, where Republicans hold only a one-vote majority — meaning losing one member would be...",
+        "url": "https://thehill.com/policy/healthcare/6226487-white-house-withdraws-fda-nomination/"
+    },
+    {
+        "id": "https://thehill.com/policy/national-security/6226816-dni-dismisses-outage-cyberattack-theory/",
+        "source": "The Hill",
+        "title": "Director of National Intelligence offers explanation for tech outages",
+        "publicationDate": "2026-11-18",
+        "category": "Defense",
+        "summary": "Director of National Intelligence Jay Clayton pushed back Tuesday on public speculation surrounding recent tech outages, attributing many to system upgrades as opposed to cyberattacks. “Let me tell you what this is not, as far as we can tell ... this is not a cyberattack, and this is not a coordinated effort by a nation...",
+        "url": "https://thehill.com/policy/national-security/6226816-dni-dismisses-outage-cyberattack-theory/"
+    },
+    {
+        "id": "https://thehill.com/homenews/6226829-judge-vacates-esa-review-underlying-offshore-mining/",
+        "source": "The Hill",
+        "title": "Judge vacates ESA review underlying offshore mining",
+        "publicationDate": "2026-11-18",
+        "category": "News",
+        "summary": "Presented by EQT {beacon} Energy & Environment Energy & Environment The Big Story Judge vacates ESA review underlying offshore mining A court ruling this week is throwing a wrench into the Trump administration’s bid to open up mining off the coast of American Samoa. © Fili Sagapolutele, Associated Press file Judge Jill Otake, a Trump...",
+        "url": "https://thehill.com/homenews/6226829-judge-vacates-esa-review-underlying-offshore-mining/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+        "source": "New York Times Politics",
+        "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+        "publicationDate": "2026-11-18",
+        "category": "Healthcare",
+        "summary": "The Senate health committee was scheduled to vote on her nomination Wednesday morning, but it became increasingly clear that she did not have enough support.",
+        "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+        "source": "New York Times Politics",
+        "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+        "publicationDate": "2026-11-18",
+        "category": "United States Politics and Government",
+        "summary": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
+        "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html"
+    },
+    {
+        "id": "https://www.washingtonpost.com/health/2026/11/17/white-house-pulls-fda-nominee-amid-bipartisan-pushback/",
+        "source": "Washington Post Politics",
+        "title": "White House pulls FDA nominee amid bipartisan pushback",
+        "publicationDate": "2026-11-18",
+        "category": "Healthcare",
+        "summary": "Heidi Overton has been questioned by some in the GOP, many Democrats and prominent Make America Healthy Again supporters.",
+        "url": "https://www.washingtonpost.com/health/2026/11/17/white-house-pulls-fda-nominee-amid-bipartisan-pushback/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/17/senate-majority-leader-fight-intensifies-schumer-van-hollen-dig/",
+        "source": "Washington Post Politics",
+        "title": "Senate majority leader fight intensifies as Schumer, Van Hollen dig in",
+        "publicationDate": "2026-11-18",
+        "category": "Other",
+        "summary": "Both Democrats are back in Washington and seeking to make their case to colleagues before a scheduled vote Dec. 1 by secret ballot.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/17/senate-majority-leader-fight-intensifies-schumer-van-hollen-dig/"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "publicationDate": "2026-11-18",
+        "category": "Other",
+        "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+        "publicationDate": "2026-11-18",
+        "category": "Other",
+        "summary": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
+        "url": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/52c034e5-ec65-4aa1-b693-77705c57ec23?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Climate adviser urges UK government to ‘stand firm’ on electric vehicle targets",
+        "publicationDate": "2026-11-18",
+        "category": "Other",
+        "summary": "Climate Change Committee chair warns that watering down the ZEV mandate would put Britain’s green targets at risk and drive up costs for motorists",
+        "url": "https://www.ft.com/content/52c034e5-ec65-4aa1-b693-77705c57ec23?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f5e91cd6-ee54-49ad-83d4-4dec29cb13a7?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "AI might be a reason why the yen is back on intervention watch",
+        "publicationDate": "2026-11-18",
+        "category": "Other",
+        "summary": "Surge in buying of Japanese stocks creates a demand for currency hedging",
+        "url": "https://www.ft.com/content/f5e91cd6-ee54-49ad-83d4-4dec29cb13a7?syn-25a6b1a6=1"
+    },
+    {
+        "id": "IF13354",
         "source": "Congressional Research Service",
-        "title": "Competition and Antitrust Concerns Related to Generative AI",
+        "title": "The White House Office of Science and Technology Policy: Overview and Considerations for Congress",
         "publicationDate": "2026-11-17",
         "category": "Defense",
-        "summary": "Artificial intelligence (AI) technologies used to generate synthetic content, such as text, images, audio, video, and computer code, are broadly referred to as generative AI (GenAI). One type of GenAI is a large language model (LLM), which can generate responses to prompts in natural language format once it has been trained on a massive amount of text (e.g., text from millions of web pages) and defined by billions...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12968/IF12968.2.pdf"
+        "summary": "Congress has a long-standing interest in federal science and technology (S&T) policy, including the coordination of multiagency research and development (R&D) initiatives and the alignment of executive branch priorities with congressional direction. Congress established the Office of Science and Technology Policy (OSTP) within the Executive Office of the President through the National Science and Technology Policy,...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13354/IF13354.1.pdf"
     },
     {
-        "id": "IF13353",
+        "id": "IF13282",
         "source": "Congressional Research Service",
-        "title": "Certain National Firearms Act Requirements Will Not Be Administratively Enforced Following Court Ruling That These Provisions Exceed Congress’s Constitutional Powers",
+        "title": "Freight Rail Automation: Driverless Trains, Automated Inspections, and Other Technologies",
         "publicationDate": "2026-11-17",
-        "category": "Economy",
-        "summary": "The National Firearms Act (NFA) established registration and tax requirements for specified items defined as “firearms” by the statute. Covered weapons include, among others, short-barreled shotguns and rifles, machineguns, silencers, destructive devices, and “any other weapon” that is “capable of being concealed on the person from which a shot can be discharged through the energy of an explosive.” The NFA sets tax...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13353/IF13353.1.pdf"
-    },
-    {
-        "id": "R48854",
-        "source": "Congressional Research Service",
-        "title": "Poverty in the United States in 2025",
-        "publicationDate": "2026-11-17",
-        "category": "Economy",
-        "summary": "The federal government publishes poverty statistics using two measures: the official poverty measure and the Supplemental Poverty Measure (SPM). These two measures tell different stories about who is poor in the United States because they measure different things. Both measures compare the income of a family or unrelated individual with a measure of need for that same family or individual. If the income (measured...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R48854/R48854.4.pdf"
+        "category": "Technology",
+        "summary": "Technological advances and cost-cutting pressures in railroading have contributed to smaller train crews and fewer maintenance-of-way employees. A single train commonly has a crew of two aboard. Freight carriers, vehicle manufacturers, and technology companies have explored the potential to improve labor efficiency through the use of driverless locomotives or freight cars that do not require a locomotive to move....",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13282/IF13282.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA5023-1.html",
@@ -47,7 +146,7 @@
     {
         "id": "https://www.cfr.org/articles/battleground-state",
         "source": "Council on Foreign Relations",
-        "title": "Battleground State",
+        "title": "Why Lagos Is a Battleground in Nigeria’s Presidential Election",
         "publicationDate": "2026-11-17",
         "category": "Article",
         "summary": "For reasons that transcend the current electoral cycle, the competition for Lagos in the January election promises to be intense.",
@@ -81,48 +180,156 @@
         "url": "https://www.cfr.org/articles/china-and-nuclear-arms-control-why-a-trump-xi-breakthrough-at-apec-is-unlikely"
     },
     {
-        "id": "https://cms.hoover.org/research/american-presidency-250-year-perspective",
-        "source": "Hoover Institution",
-        "title": "The American Presidency: A 250 Year Perspective",
+        "id": "https://www.aei.org/economics/congressional-budget-office-projects-substantial-savings-from-fighting-healthcare-fraud-and-abuse/",
+        "source": "American Enterprise Institute",
+        "title": "Congressional Budget Office Projects Substantial Savings from Fighting Healthcare Fraud and Abuse",
         "publicationDate": "2026-11-17",
-        "category": "Other",
-        "summary": "Niall Ferguson and David M. Kennedy examined today’s presidency through the long lens of American history.",
-        "url": "https://cms.hoover.org/research/american-presidency-250-year-perspective"
+        "category": "Economy",
+        "summary": "The battle against healthcare waste has been ongoing for decades. Medicare and Medicaid are highly vulnerable because of their size and their original fee-for-service designs. The post Congressional Budget Office Projects Substantial Savings from Fighting Healthcare Fraud and Abuse appeared first on American Enterprise Institute - AEI .",
+        "url": "https://www.aei.org/economics/congressional-budget-office-projects-substantial-savings-from-fighting-healthcare-fraud-and-abuse/"
     },
     {
-        "id": "https://cms.hoover.org/hoovers-philip-zelikow-robert-zoellick-file-amicus-brief-against-canada-tariffs",
-        "source": "Hoover Institution",
-        "title": "Hoover’s Philip Zelikow, Robert Zoellick File Amicus Brief Against Canada Tariffs",
+        "id": "https://www.aei.org/economics/a-10-percent-annual-percentage-rate-cap-will-send-credit-cards-back-to-the-future/",
+        "source": "American Enterprise Institute",
+        "title": "A 10 Percent Annual Percentage Rate Cap Will Send Credit Cards “Back to the Future”",
         "publicationDate": "2026-11-17",
-        "category": "Other",
-        "summary": "Hoover Senior Fellow Philip Zelikow and former trade negotiator and World Bank President Robert Zoellick have filed amicus brief in a new lawsuit against the Trump administration, contending a significant portion of the US tariffs on Canada are not legally justified.",
-        "url": "https://cms.hoover.org/hoovers-philip-zelikow-robert-zoellick-file-amicus-brief-against-canada-tariffs"
+        "category": "Economics",
+        "summary": "While the idea of a national APR cap will undoubtedly appeal to many consumers with credit card balances, the unadvertised consequences of the APR cap will end up being wildly unpopular with the many voters negatively impacted by the legislation. The post A 10 Percent Annual Percentage Rate Cap Will Send Credit Cards “Back to the Future” appeared first on American Enterprise Institute - AEI .",
+        "url": "https://www.aei.org/economics/a-10-percent-annual-percentage-rate-cap-will-send-credit-cards-back-to-the-future/"
     },
     {
-        "id": "https://cms.hoover.org/research/devil-and-free-speech",
-        "source": "Hoover Institution",
-        "title": "The Devil And Free Speech",
+        "id": "https://www.aei.org/economics/kevin-warshs-steady-hand-at-the-fed/",
+        "source": "American Enterprise Institute",
+        "title": "Kevin Warsh’s Steady Hand at the Fed",
         "publicationDate": "2026-11-17",
-        "category": "Other",
-        "summary": "An examination of an Iowa case to explain when the government can control speech on public property—and when it must give rival viewpoints equal access.",
-        "url": "https://cms.hoover.org/research/devil-and-free-speech"
+        "category": "Economy",
+        "summary": "When the Federal Reserve’s interest rate policy committee meets on December 8–9, it will do so against the backdrop of still troublingly high inflation and a robust labor market. However, it will also do so... The post Kevin Warsh’s Steady Hand at the Fed appeared first on American Enterprise Institute - AEI .",
+        "url": "https://www.aei.org/economics/kevin-warshs-steady-hand-at-the-fed/"
     },
     {
-        "id": "https://cms.hoover.org/research/venture-capital-arsenal-assessing-pentagon-spending-americas-emerging-defense-companies",
-        "source": "Hoover Institution",
-        "title": "From Venture Capital to the Arsenal: Assessing Pentagon Spending on America’s Emerging Defense Companies",
+        "id": "https://www.aei.org/domestic-policy/what-my-son-learned-one-stop-beyond-citi-field/",
+        "source": "American Enterprise Institute",
+        "title": "What My Son Learned One Stop Beyond Citi Field",
+        "publicationDate": "2026-11-17",
+        "category": "Domestic Policy",
+        "summary": "It was a thrilling afternoon, and although my son and I regularly explore New York together, we visited Flushing because of a terrific school assignment. The post What My Son Learned One Stop Beyond Citi Field appeared first on American Enterprise Institute - AEI .",
+        "url": "https://www.aei.org/domestic-policy/what-my-son-learned-one-stop-beyond-citi-field/"
+    },
+    {
+        "id": "https://www.aei.org/domestic-policy/education/its-time-to-restart-student-loan-collections/",
+        "source": "American Enterprise Institute",
+        "title": "It’s Time to Restart Student Loan Collections",
+        "publicationDate": "2026-11-17",
+        "category": "Domestic Policy",
+        "summary": "The next few months before the 2028 election season begins in earnest will offer a narrow window to restart collections. The post It’s Time to Restart Student Loan Collections appeared first on American Enterprise Institute - AEI .",
+        "url": "https://www.aei.org/domestic-policy/education/its-time-to-restart-student-loan-collections/"
+    },
+    {
+        "id": "https://www.heritage.org/defense/commentary/the-us-navy-needs-new-battlecruiser-will-it-get-one",
+        "source": "Heritage Foundation",
+        "title": "The U.S. Navy Needs a New Battlecruiser. Will It Get One?",
         "publicationDate": "2026-11-17",
         "category": "Defense",
-        "summary": "Can America's venture-backed defense sector scale? Tracking Department of War contract obligations to roughly eight hundred startups between 2015 and 2026, the authors go beyond three often studied industry leaders—SpaceX, Anduril, and Palantir—to ask: Can the hundreds of smaller firms cross from research dollars into procurement programs?",
-        "url": "https://cms.hoover.org/research/venture-capital-arsenal-assessing-pentagon-spending-americas-emerging-defense-companies"
+        "summary": "Last December, President Donald Trump introduced his vision for the United States Navy: a 30-year shipbuilding plan called the “ Golden Fleet .” Flanking him during his unveiling of this plan were renderings of a core component of that future Navy: USS Defiant , the lead ship of a new, modern class of battleship. But delivering it faces significant hurdles. The first is realistically addressing the Navy’s shaky...",
+        "url": "https://www.heritage.org/defense/commentary/the-us-navy-needs-new-battlecruiser-will-it-get-one"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/trump-xi-putin-summit-raises-questions-about-global-power-ken-moriyasu",
+        "source": "Hudson Institute",
+        "title": "Trump, Xi, and Putin Summit Raises Questions about Global Power",
+        "publicationDate": "2026-11-17",
+        "category": "Defense",
+        "summary": "Trump, Xi, and Putin Summit Raises Questions about Global Power bbert@hudson.org Tue, 11/17/2026 - 15:40 SVG In the Media Nov 17, 2026 ABC News Trump, Xi, and Putin Summit Raises Questions about Global Power Ken Moriyasu Senior Fellow Ken Moriyasu In the Media Caption (Screenshot via ABC News) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn...",
+        "url": "https://www.hudson.org/foreign-policy/trump-xi-putin-summit-raises-questions-about-global-power-ken-moriyasu"
+    },
+    {
+        "id": "https://www.hudson.org/technology/trump-admin-led-bessent-tightening-chinas-ability-get-most-advanced-chips-long-overdue-thomas-duesterberg",
+        "source": "Hudson Institute",
+        "title": "Trump Administration’s Tightening of China’s Ability to Get Most Advanced Chips Is Long Overdue",
+        "publicationDate": "2026-11-17",
+        "category": "Defense",
+        "summary": "Trump Administration’s Tightening of China’s Ability to Get Most Advanced Chips Is Long Overdue bbert@hudson.org Tue, 11/17/2026 - 11:09 SVG In the Media Nov 17, 2026 NTD Trump Administration’s Tightening of China’s Ability to Get Most Advanced Chips Is Long Overdue Thomas J. Duesterberg Senior Fellow Thomas J. Duesterberg In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents...",
+        "url": "https://www.hudson.org/technology/trump-admin-led-bessent-tightening-chinas-ability-get-most-advanced-chips-long-overdue-thomas-duesterberg"
+    },
+    {
+        "id": "https://www.hudson.org/foreign-policy/downfall-jensen-huang-its-implications-us-china-chip-war-trump-meet-xi-putin-apec-miles-yu",
+        "source": "Hudson Institute",
+        "title": "The Downfall of Jensen Huang and Its Implications on the US-China Chip War, Trump to Meet Xi and Putin, and the New Congress’s Outlook on US China Policy",
+        "publicationDate": "2026-11-17",
+        "category": "Defense",
+        "summary": "The Downfall of Jensen Huang and Its Implications on the US-China Chip War, Trump to Meet Xi and Putin, and the New Congress’s Outlook on US China Policy bbert@hudson.org Tue, 11/17/2026 - 10:39 SVG Podcast Nov 17, 2026 Hudson Institute The Downfall of Jensen Huang and Its Implications on the US-China Chip War, Trump to Meet Xi and Putin, and the New Congress’s Outlook on US China Policy Miles Yu Senior Fellow and...",
+        "url": "https://www.hudson.org/foreign-policy/downfall-jensen-huang-its-implications-us-china-chip-war-trump-meet-xi-putin-apec-miles-yu"
+    },
+    {
+        "id": "https://www.hudson.org/technology/nvidia-shows-limits-corporate-boards-mary-kissel",
+        "source": "Hudson Institute",
+        "title": "Nvidia Shows the Limits of Corporate Boards",
+        "publicationDate": "2026-11-17",
+        "category": "Defense",
+        "summary": "Nvidia Shows the Limits of Corporate Boards bbert@hudson.org Tue, 11/17/2026 - 10:34 SVG Commentary Nov 15, 2026 Wall Street Journal Nvidia Shows the Limits of Corporate Boards Few directors have any experience with political risk, especially involving hostile regimes like China. Mary Kissel Senior Fellow (Nonresident) Mary Kissel Commentary Caption An Nvidia sign is displayed at the company's headquarters on...",
+        "url": "https://www.hudson.org/technology/nvidia-shows-limits-corporate-boards-mary-kissel"
+    },
+    {
+        "id": "https://www.hudson.org/national-security-defense/why-ukraine-war-working-putin-walter-russell-mead",
+        "source": "Hudson Institute",
+        "title": "Why the Ukraine War Is Working for Putin",
+        "publicationDate": "2026-11-17",
+        "category": "Defense",
+        "summary": "Why the Ukraine War Is Working for Putin bbert@hudson.org Tue, 11/17/2026 - 10:14 SVG Commentary Nov 16, 2026 Wall Street Journal Why the Ukraine War Is Working for Putin The conflict has solidified his hold over Russia while dividing Europe. Walter Russell Mead Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship Walter Russell Mead Commentary Caption Russian President Vladimir Putin attends the...",
+        "url": "https://www.hudson.org/national-security-defense/why-ukraine-war-working-putin-walter-russell-mead"
+    },
+    {
+        "id": "https://cms.hoover.org/research-teams/state-and-local-governance-initiative/about",
+        "source": "Hoover Institution",
+        "title": "State and Local Governance Initiative About",
+        "publicationDate": "2026-11-17",
+        "category": "Other",
+        "summary": "Description not available from the source feed.",
+        "url": "https://cms.hoover.org/research-teams/state-and-local-governance-initiative/about"
+    },
+    {
+        "id": "https://cms.hoover.org/research/join-ayaan-hirsi-ali-special-post-election-conversation-paid-subscribers-only",
+        "source": "Hoover Institution",
+        "title": "Join Ayaan Hirsi Ali For Special Post-Election Conversation [Paid Subscribers Only]",
+        "publicationDate": "2026-11-17",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Ayaan Hirsi Ali will host a live conversation on Thursday, November 19, at 12 PM ET on the midterm election results and the growing influence of radical Islam and democratic socialism.",
+        "url": "https://cms.hoover.org/research/join-ayaan-hirsi-ali-special-post-election-conversation-paid-subscribers-only"
+    },
+    {
+        "id": "https://cms.hoover.org/research/golden-state-housing-shortages",
+        "source": "Hoover Institution",
+        "title": "A Golden State Of Housing Shortages",
+        "publicationDate": "2026-11-17",
+        "category": "Other",
+        "summary": "California wants more homes and less carbon. Its most powerful environmental statute often delivers the opposite of both.",
+        "url": "https://cms.hoover.org/research/golden-state-housing-shortages"
+    },
+    {
+        "id": "https://cms.hoover.org/research/appeasement-does-not-work-putin",
+        "source": "Hoover Institution",
+        "title": "Appeasement Does Not Work WIth Putin",
+        "publicationDate": "2026-11-17",
+        "category": "Foreign Policy",
+        "summary": "President Trump and President Xi must understand this before they meet with the Russian leader this week.",
+        "url": "https://cms.hoover.org/research/appeasement-does-not-work-putin"
+    },
+    {
+        "id": "https://cms.hoover.org/research/phone-bans-improve-learning-study-finds-so-far-only-slightly",
+        "source": "Hoover Institution",
+        "title": "Phone Bans Improve Learning, Study Finds — But So Far, Only Slightly",
+        "publicationDate": "2026-11-17",
+        "category": "Other",
+        "summary": "Hoover Institution fellow Thomas Dee helped conduct a national study of phone bans that found negligible academic impacts, while detecting a rise in post-ban disciplinary incidents that faded over time. Dee said that this latest study similarly demonstrated disappointing academic results, adding that the present evidence base pointed to a “clear imperative” for more data.",
+        "url": "https://cms.hoover.org/research/phone-bans-improve-learning-study-finds-so-far-only-slightly"
     },
     {
         "id": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
         "source": "NPR Politics",
-        "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
+        "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
         "publicationDate": "2026-11-17",
         "category": "Other",
-        "summary": "The former Nvidia CEO's comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly amid a swirl of national security scandals.",
+        "summary": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
         "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
     },
     {
@@ -162,166 +369,103 @@
         "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/trump-administration-details-its-50-billion-request-for-aviation-system-improvements",
+        "id": "https://www.pbs.org/newshour/show/whats-in-trumps-50-billion-air-traffic-control-overhaul-plan",
         "source": "PBS NewsHour Politics",
-        "title": "Trump administration details its $50 billion request for aviation system improvements",
+        "title": "What's in Trump's $50 billion air traffic control overhaul plan",
         "publicationDate": "2026-11-17",
-        "category": "air-traffic control",
-        "summary": "The Trump administration has formally updated its request to lawmakers for $50.1 billion to modernize the nation's air traffic control system and to make other improvements at airports.",
-        "url": "https://www.pbs.org/newshour/politics/trump-administration-details-its-50-billion-request-for-aviation-system-improvements"
+        "category": "air travel",
+        "summary": "The Trump administration is seeking $50 billion to modernize the nation's air traffic control system following last week's massive nationwide ground stop. But the proposal could face resistance in Congress, where lawmakers are raising questions about the cost and how the money would be spent. Congressional correspondent Lisa Desjardins breaks down the price tag and the political hurdles ahead.",
+        "url": "https://www.pbs.org/newshour/show/whats-in-trumps-50-billion-air-traffic-control-overhaul-plan"
     },
     {
-        "id": "https://www.pbs.org/newshour/nation/debunking-social-media-posts-that-claim-a-90-day-blackout-will-start-nov-17",
+        "id": "https://www.pbs.org/newshour/show/biden-releases-memoir-recounting-his-presidency-and-decision-to-drop-out-in-2024",
         "source": "PBS NewsHour Politics",
-        "title": "Debunking social media posts that claim a 90-day blackout will start Nov. 17",
+        "title": "Biden releases memoir recounting his presidency and decision to drop out in 2024",
         "publicationDate": "2026-11-17",
-        "category": "AI",
-        "summary": "Americans don't need to stockpile for widespread disruptions to power, water and food supplies, DHS Secretary Markwayne Mullin said.",
-        "url": "https://www.pbs.org/newshour/nation/debunking-social-media-posts-that-claim-a-90-day-blackout-will-start-nov-17"
+        "category": "arts",
+        "summary": "Almost two years after leaving office, former President Joe Biden has penned a memoir about his time in the White House. \"Promise Me, America,\" is out, but Biden isn't out doing the typical run of media interviews. Amna Nawaz discussed more with his former counselor, Steve Ricchetti.",
+        "url": "https://www.pbs.org/newshour/show/biden-releases-memoir-recounting-his-presidency-and-decision-to-drop-out-in-2024"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/watch-live-senate-armed-services-committee-confirmation-hearing-for-hung-cao-as-navy-secretary",
+        "id": "https://www.pbs.org/newshour/world/china-and-canada-expand-tariff-relief-while-relations-with-the-u-s-are-strained",
         "source": "PBS NewsHour Politics",
-        "title": "WATCH: Navy nominee Hung Cao acknowledges Iran war is 'a strain' in confirmation hearing",
-        "publicationDate": "2026-11-17",
-        "category": "Defense",
-        "summary": "President Donald Trump's pick to lead the U.S. Navy acknowledged the strain of the Iran war as senators from both political parties pressed him at his confirmation hearing Tuesday about the impact of long ship deployments on sailors, drawdowns to stockpiles of advanced weapons and resources being shifted away from countering China.",
-        "url": "https://www.pbs.org/newshour/politics/watch-live-senate-armed-services-committee-confirmation-hearing-for-hung-cao-as-navy-secretary"
-    },
-    {
-        "id": "https://thehill.com/policy/technology/6225771-users-report-apple-issues-tech-outages-us/",
-        "source": "The Hill",
-        "title": "Is Apple down? Users report problems with iOS",
-        "publicationDate": "2026-11-17",
-        "category": "Technology",
-        "summary": "Apple's Support System Status page shows issues or outages with the App store, Apple Music, AppleCare and iCloud.",
-        "url": "https://thehill.com/policy/technology/6225771-users-report-apple-issues-tech-outages-us/"
-    },
-    {
-        "id": "https://thehill.com/homenews/education/6225859-trump-colleges-countries-of-concern/",
-        "source": "The Hill",
-        "title": "Trump administration flags $900M in college research funds from 'countries of concern'",
+        "title": "China and Canada expand tariff relief while relations with the U.S. are strained",
         "publicationDate": "2026-11-17",
         "category": "Foreign Policy",
-        "summary": "The Trump administration on Tuesday sent a letter to universities flagging $900 million in foreign gifts and contracts that it says came from \"countries of concern.\" The Education Department and Department of State sent the letter to an unspecified number of college and university presidents and governing boards after the federal government found $9 billion in foreign...",
-        "url": "https://thehill.com/homenews/education/6225859-trump-colleges-countries-of-concern/"
+        "summary": "Chinese President Xi Jinping and Canadian Prime Minister Mark Carney both praised the strategic partnership they agreed to pursue this year and pointed to improving economic ties.",
+        "url": "https://www.pbs.org/newshour/world/china-and-canada-expand-tariff-relief-while-relations-with-the-u-s-are-strained"
     },
     {
-        "id": "https://thehill.com/policy/technology/6225804-watch-jim-mcgovern-data-center-pause/",
-        "source": "The Hill",
-        "title": "Watch live: McGovern speaks as Dems push for data center construction pause",
+        "id": "https://www.pbs.org/newshour/world/trump-arrives-in-philippines-to-kick-off-asia-trip-with-economic-deals-and-talks-with-allies",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies",
         "publicationDate": "2026-11-17",
-        "category": "Defense",
-        "summary": "Rep. Jim McGovern (D-Mass.) is set to give remarks Tuesday afternoon on calls to pause data center construction amid growing concerns about energy costs and the rapid expansion of artificial intelligence. The event comes as lawmakers face mounting pressure to address AI infrastructure's impact on local communities and the nation's power grid. The debate has...",
-        "url": "https://thehill.com/policy/technology/6225804-watch-jim-mcgovern-data-center-pause/"
+        "category": "Asean summit",
+        "summary": "President Donald Trump arrived in the Philippines on Tuesday, where he met with regional partners, sought to formalize a trade deal and get a break from a series of setbacks at home, ranging from a major disruption to the U.S. aviation industry to a scandal that has shaken the global AI industry.",
+        "url": "https://www.pbs.org/newshour/world/trump-arrives-in-philippines-to-kick-off-asia-trip-with-economic-deals-and-talks-with-allies"
     },
     {
-        "id": "https://thehill.com/homenews/house/6225752-jeffries-calls-trump-briefings/",
-        "source": "The Hill",
-        "title": "Jeffries demands high-level briefing on rash of recent outages: ‘Troubling'",
+        "id": "https://www.pbs.org/newshour/politics/van-hollens-bid-to-replace-schumer-puts-pressure-on-democrats-to-take-sides",
+        "source": "PBS NewsHour Politics",
+        "title": "Van Hollen's bid to replace Schumer puts pressure on Democrats to take sides",
         "publicationDate": "2026-11-17",
-        "category": "Technology",
-        "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) is calling on the Trump administration to brief Congress on the rash of high-profile outages that have hobbled both public and private sector technology systems in recent days. Jeffries said he’s been in talks with at least one top administration official — Transportation Secretary Sean Duffy — but came...",
-        "url": "https://thehill.com/homenews/house/6225752-jeffries-calls-trump-briefings/"
+        "category": "chris van hollen",
+        "summary": "The Dec. 1 contest has put Senate Democrats on edge and has forced what could become an ugly public fight immediately after major victories in the midterm elections.",
+        "url": "https://www.pbs.org/newshour/politics/van-hollens-bid-to-replace-schumer-puts-pressure-on-democrats-to-take-sides"
     },
     {
-        "id": "https://thehill.com/policy/energy-environment/6225607-congress-pushes-baaja-permit-reform/",
-        "source": "The Hill",
-        "title": "‘The time to get it done is now’: Lawmakers stress urgency on permitting reform bill",
-        "publicationDate": "2026-11-17",
-        "category": "Energy & Environment",
-        "summary": "Lawmakers on both sides of the aisle are banding together to stress the need for Congress to act now and pass a major bipartisan permitting reform bill, before the makeup of the legislative branch changes next year. At The Hill’s Bipartisan Blueprint event Tuesday, members of Congress tied the bill — the Bipartisan American Affordability...",
-        "url": "https://thehill.com/policy/energy-environment/6225607-congress-pushes-baaja-permit-reform/"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html",
+        "id": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
         "source": "New York Times Politics",
-        "title": "Ukraine Talks Run Up Against Deep Enmity Between Russia and Europe",
+        "title": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
         "publicationDate": "2026-11-17",
-        "category": "Foreign Policy",
-        "summary": "President Trump’s envoys are trying to overcome Russian hostility and European suspicion to craft a postwar security agreement in Europe that could end the war in Ukraine.",
-        "url": "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html"
+        "category": "Airlines and Airplanes",
+        "summary": "“We still gotta live our lives,” said the homeland security secretary, who is required to use government planes for personal travel. His department said he paid.",
+        "url": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html",
+        "id": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
         "source": "New York Times Politics",
-        "title": "I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups",
+        "title": "Hakeem Jeffries Embraces Medicare Expansion on Eve of Speaker Vote",
+        "publicationDate": "2026-11-17",
+        "category": "Healthcare",
+        "summary": "The top House Democrat endorsed lowering the eligibility age, covering all children and adding vision, hearing and dental services, proposals seen as precursors to Medicare for All.",
+        "url": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html",
+        "source": "New York Times Politics",
+        "title": "For Democrats, a Leadership Fight Is Marring an Electoral Triumph",
         "publicationDate": "2026-11-17",
         "category": "United States Politics and Government",
-        "summary": "An internal I.R.S. memo viewed by The New York Times reveals how the agency is carrying out President Trump’s orders to investigate “domestic terrorism.”",
-        "url": "https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html"
+        "summary": "The contest between Senators Chuck Schumer and Chris Van Hollen to be majority leader is sowing party divisions and putting them on public display.",
+        "url": "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html",
-        "source": "New York Times Politics",
-        "title": "Classified N.S.A. Network Goes Down, Causing Work Disruptions",
-        "publicationDate": "2026-11-17",
-        "category": "Technology",
-        "summary": "There are currently no signs that the outage is the result of a cyberattack or other nefarious activity, according to people familiar with the matter.",
-        "url": "https://www.nytimes.com/2026/11/17/us/politics/nsa-down-network-outage-nsanet.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
-        "source": "New York Times Politics",
-        "title": "Measles Is Officially Back in the United States. What Now?",
-        "publicationDate": "2026-11-17",
-        "category": "Quarantines",
-        "summary": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.",
-        "url": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html",
-        "source": "New York Times Politics",
-        "title": "Democrats Promised Lower Prices. What Can They Actually Do?",
-        "publicationDate": "2026-11-17",
-        "category": "Midterm Elections (2026)",
-        "summary": "Three reporters talk about what options the party really has to try to bring down the cost of living.",
-        "url": "https://www.nytimes.com/2026/11/17/podcasts/the-daily/democrats-promised-lower-prices-what-can-they-actually-do.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/",
+        "id": "https://www.washingtonpost.com/politics/2026/11/17/jeffries-seeks-shore-up-support-ahead-vote-democratic-speaker-nominee/",
         "source": "Washington Post Politics",
-        "title": "Tracking who Trump is appointing to fill key administration roles",
+        "title": "Jeffries seeks to shore up support ahead of vote for Democratic speaker nominee",
         "publicationDate": "2026-11-17",
         "category": "Other",
-        "summary": "Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.",
-        "url": "https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/"
+        "summary": "The New York Democrat is on track in January to become the first Black American to hold the post.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/17/jeffries-seeks-shore-up-support-ahead-vote-democratic-speaker-nominee/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/11/17/gop-rep-james-comer-launches-campaign-kentucky-governor/",
+        "id": "https://www.washingtonpost.com/politics/2026/11/17/trade-rifts-ai-rivalry-shadow-trump-xi-summit/",
         "source": "Washington Post Politics",
-        "title": "GOP Rep. James Comer launches campaign for Kentucky governor",
+        "title": "Trump to project friendship with Xi as trade and tech rivalry deepens",
         "publicationDate": "2026-11-17",
-        "category": "Other",
-        "summary": "Comer announced his campaign weeks before Democrats are set to retake the majority in the House.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/17/gop-rep-james-comer-launches-campaign-kentucky-governor/"
+        "category": "Foreign Policy",
+        "summary": "Tensions between the two largest economic powers have heightened in the weeks leading up to the economic summit in China that starts Wednesday.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/17/trade-rifts-ai-rivalry-shadow-trump-xi-summit/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/11/17/trump-berates-nbc-yamiche-alcindor-says-she-wouldnt-notice-broken-windows/",
+        "id": "https://www.washingtonpost.com/national-security/2026/11/17/this-texas-prosecutor-says-hell-investigate-democrats-investigating-trump/",
         "source": "Washington Post Politics",
-        "title": "Trump berates NBC reporter, says she wouldn’t notice ‘broken windows’",
+        "title": "This Texas prosecutor says he’ll investigate Democrats investigating Trump",
         "publicationDate": "2026-11-17",
         "category": "Other",
-        "summary": "Trump also called Yamiche Alcindor “pathetic,” while touting his construction projects.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/17/trump-berates-nbc-yamiche-alcindor-says-she-wouldnt-notice-broken-windows/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/11/17/after-years-attacks-lgbtq-voters-are-ready-some-wins/",
-        "source": "Washington Post Politics",
-        "title": "After years of attacks, LGBTQ voters are ready for some wins",
-        "publicationDate": "2026-11-17",
-        "category": "Other",
-        "summary": "With Democrats slated to take total control of Congress next year, political operatives and organizations are ready to make demands.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/17/after-years-attacks-lgbtq-voters-are-ready-some-wins/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/11/17/trump-continues-press-white-house-renovations-despite-midterm-loss/",
-        "source": "Washington Post Politics",
-        "title": "Trump pushes more White House renovations in wake of GOP midterm loss",
-        "publicationDate": "2026-11-17",
-        "category": "Other",
-        "summary": "The president has claimed he is paying for the White House makeover, but the Park Service is set to foot much of the bill.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/17/trump-continues-press-white-house-renovations-despite-midterm-loss/"
+        "summary": "Aaron Reitz, the U.S. attorney in South Texas, has raised eyebrows with his recent letters to lawmakers in Washington. Are they signs of serious probes or just posturing?",
+        "url": "https://www.washingtonpost.com/national-security/2026/11/17/this-texas-prosecutor-says-hell-investigate-democrats-investigating-trump/"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
@@ -342,76 +486,67 @@
         "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+        "title": "Thomas Markle charged over child sex abuse material in Philippines",
         "publicationDate": "2026-11-17",
         "category": "Other",
-        "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+        "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
         "publicationDate": "2026-11-17",
         "category": "Foreign Policy",
-        "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-        "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "US loses measles elimination status after 26 years amid record case numbers",
-        "publicationDate": "2026-11-17",
-        "category": "Other",
-        "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-        "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+        "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "UK government backs call for separate youth welfare system",
+        "title": "Burnham pledges sweeping overhaul of welfare for young Britons",
         "publicationDate": "2026-11-17",
         "category": "Other",
-        "summary": "Author of official review into youth employment says ministers should consider extending proposals to over-24s",
+        "summary": "Prime minister also hints at changes affecting older benefit claimants after author of review makes case for extending the reforms to over-24s",
         "url": "https://www.ft.com/content/05aee3d8-9231-425a-b6d7-1849fcb99cad?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Marine Le Pen floats lowering France’s retirement age to as low as 60",
+        "title": "Israeli opposition succeeds in electing a new parliamentary Speaker",
         "publicationDate": "2026-11-17",
         "category": "Other",
-        "summary": "Far-right presidential frontrunner faces criticism over the feasibility and cost of her pension plans",
-        "url": "https://www.ft.com/content/c7ef0eb8-c9c5-46ef-b65d-c0ceaf111717?syn-25a6b1a6=1"
+        "summary": "Appointment of Matan Kahana is a setback for Benjamin Netanyahu’s far-right coalition",
+        "url": "https://www.ft.com/content/71ee2ad4-cc7d-4618-9df8-e58aa3c79b81?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Up to one-fifth of UK ‘global talent’ visa holders earn too little to pay income tax",
-        "publicationDate": "2026-11-17",
+        "id": "R49517",
+        "source": "Congressional Research Service",
+        "title": "Credit Card Debt: Analysis of Trends, Causes, and Policy Options",
+        "publicationDate": "2026-11-16",
         "category": "Economy",
-        "summary": "Government advisers express concern at their findings about migration route aimed at international high-flyers",
-        "url": "https://www.ft.com/content/9df61a66-6b1c-4bda-93fc-91ad2f3baef1?syn-25a6b1a6=1"
+        "summary": "Congress has recently paid particular attention to the costs associated with credit cards, one of the most popular payment options for consumers. Credit card costs are often borne out in credit card debt, with interest paid on revolving balances and potential additional fees, namely late fees. Credit card debt may be a rational response to smoothing consumption or behavioral biases in favor of present consumption...",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49517/R49517.4.pdf"
     },
     {
-        "id": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK imposes sanctions on companies building West Bank settlements",
-        "publicationDate": "2026-11-17",
-        "category": "Other",
-        "summary": "Eight Israeli property development and architectural firms blacklisted",
-        "url": "https://www.ft.com/content/e4c46beb-b0bc-4d4b-afab-5682eddc8ed0?syn-25a6b1a6=1"
+        "id": "IF10782",
+        "source": "Congressional Research Service",
+        "title": "Arctic National Wildlife Refuge (ANWR) Oil and Gas Program: Establishment and Provisions for Leasing and Development",
+        "publicationDate": "2026-11-16",
+        "category": "Economy",
+        "summary": "Section 20001 of the Tax Cuts and Jobs Act (P.L. 115-97), enacted in December 2017, established an oil and gas program in the Arctic National Wildlife Refuge (ANWR or the Refuge). This CRS product discusses the requirements in P.L. 115-97 and a subsequent law, P.L. 119-21, for the program’s implementation. Other CRS products contain more detailed analyses of ANWR’s energy prospects and biological resources, the...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10782/IF10782.13.pdf"
     },
     {
-        "id": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "US tech stocks slide ahead of Nvidia results",
-        "publicationDate": "2026-11-17",
-        "category": "Other",
-        "summary": "Nasdaq 100 down 1.1% after volatile run of trading",
-        "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1"
+        "id": "IF12899",
+        "source": "Congressional Research Service",
+        "title": "Data Centers and Cloud Computing: Information Technology Infrastructure for Artificial Intelligence",
+        "publicationDate": "2026-11-16",
+        "category": "Defense",
+        "summary": "Artificial intelligence (AI) systems, including their development, deployment, and operation, rely on an information technology (IT) infrastructure with components of hardware, software, networks, data, and hosting facilities (these components are collectively known as AI compute). Data centers, physical facilities that house and run large computer systems, are the primary means to store much of this AI compute....",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12899/IF12899.3.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4767-4.html",
@@ -450,6 +585,24 @@
         "url": "https://www.cfr.org/articles/for-critical-minerals-money-isnt-the-problem-commitment-is"
     },
     {
+        "id": "https://www.heritage.org/markets-and-finance/commentary/blue-wave-blue-economy-not-black-and-blue",
+        "source": "Heritage Foundation",
+        "title": "Blue Wave, Blue Economy—But Not Black and Blue",
+        "publicationDate": "2026-11-16",
+        "category": "Economy",
+        "summary": "Wall Street delivered its verdict on the blue-wave midterms 48 hours later in the form of a red wave—red ink, that is. After a brief relief rally the day after the election, the Dow shed more than 1,800 points, the tech-heavy Nasdaq fell more than 5% and into correction territory, and roughly $2.5 trillion in market value vanished in a single session. Nvidia alone dropped more than 8%. Market participants watched...",
+        "url": "https://www.heritage.org/markets-and-finance/commentary/blue-wave-blue-economy-not-black-and-blue"
+    },
+    {
+        "id": "https://www.heritage.org/american-history/commentary/good-statue-hard-find",
+        "source": "Heritage Foundation",
+        "title": "A Good Statue Is Hard To Find",
+        "publicationDate": "2026-11-16",
+        "category": "Other",
+        "summary": "Not long ago, I drifted through a handful of old European cities. What stayed with me was neither the cathedrals nor the cafés with their thimbles of ferocious coffee. It was the company the bronze kept: The squares belonged to poets and playwrights, astronomers and philosophers, figures in stone cloaks gazing over bustling pigeons as if weighing one more line. Here and there, a statesman sulked on his plinth, and...",
+        "url": "https://www.heritage.org/american-history/commentary/good-statue-hard-find"
+    },
+    {
         "id": "https://www.heritage.org/markets-and-finance/commentary/escape-illinois-swipe-fee-law-open-branch-illinois",
         "source": "Heritage Foundation",
         "title": "To Escape Illinois’ Swipe-Fee Law, Open a Branch in Illinois",
@@ -468,78 +621,6 @@
         "url": "https://www.heritage.org/crime-and-justice/report/california-supreme-court-invents-constitutional-right-affordable-bail"
     },
     {
-        "id": "https://www.hudson.org/events/americas-opportunity-middle-east-conversation-senator-tim-sheehy",
-        "source": "Hudson Institute",
-        "title": "America’s Opportunity in the Middle East: A Conversation with Senator Tim Sheehy",
-        "publicationDate": "2026-11-16",
-        "category": "Defense",
-        "summary": "America’s Opportunity in the Middle East: A Conversation with Senator Tim Sheehy nhuergo@hudson.org Mon, 11/16/2026 - 14:26 15 December 2026 In-Person Event America’s Opportunity in the Middle East: A Conversation with Senator Tim Sheehy Register for Event TUESDAY 10:30 a.m. - 11:30 a.m. Event will also air live on this page. Inquiries: nhuergo@hudson.org . Register for Event America’s Opportunity in the Middle...",
-        "url": "https://www.hudson.org/events/americas-opportunity-middle-east-conversation-senator-tim-sheehy"
-    },
-    {
-        "id": "https://www.hudson.org/national-security-defense/gas-gas-gas-timothy-walton",
-        "source": "Hudson Institute",
-        "title": "Gas, Gas, Gas",
-        "publicationDate": "2026-11-16",
-        "category": "Defense",
-        "summary": "Gas, Gas, Gas bbert@hudson.org Mon, 11/16/2026 - 14:12 SVG Podcast Nov 6, 2026 Defense and Aerospace Report Gas, Gas, Gas Timothy A. Walton Senior Fellow, Center for Defense Concepts and Technology Timothy A. Walton Podcast Caption A US Air Force F-35A Lightning II refuels from a KC-135 Stratotanker in the US Central Command area of responsibility on June 19, 2026. (US Air Force) Toggle Table of Contents Contents...",
-        "url": "https://www.hudson.org/national-security-defense/gas-gas-gas-timothy-walton"
-    },
-    {
-        "id": "https://www.hudson.org/national-security-defense/ndaa-european-security-china-military-ambitions-patrick-cronin",
-        "source": "Hudson Institute",
-        "title": "NDAA, European Security, and China’s Military Ambitions",
-        "publicationDate": "2026-11-16",
-        "category": "Defense",
-        "summary": "NDAA, European Security, and China’s Military Ambitions bbert@hudson.org Mon, 11/16/2026 - 13:24 SVG Podcast Nov 13, 2026 Defense and Aerospace Report NDAA, European Security, and China’s Military Ambitions Patrick M. Cronin Asia-Pacific Security Chair Patrick M. Cronin Podcast Caption Ukrainian President Volodymyr Zelenskyy, Jared Kushner, and US Special Envoy Steve Witkoff address members of the media after their...",
-        "url": "https://www.hudson.org/national-security-defense/ndaa-european-security-china-military-ambitions-patrick-cronin"
-    },
-    {
-        "id": "https://www.hudson.org/national-security-defense/breaking-nato-four-risks-lfis-platform-would-pose-france-tsiporah-fried",
-        "source": "Hudson Institute",
-        "title": "Breaking with NATO: Four Risks LFI’s Platform Would Pose to France",
-        "publicationDate": "2026-11-16",
-        "category": "Defense",
-        "summary": "Breaking with NATO: Four Risks LFI’s Platform Would Pose to France bbert@hudson.org Mon, 11/16/2026 - 13:02 SVG Commentary Nov 12, 2026 Atlantico Breaking with NATO: Four Risks LFI’s Platform Would Pose to France Tsiporah Fried Visiting Senior Fellow Olivier Passot Tsiporah Fried & Olivier Passot Commentary Caption Jean-Luc Melenchon, La France Insoumise (LFI) candidate in France’s 2027 presidential election,...",
-        "url": "https://www.hudson.org/national-security-defense/breaking-nato-four-risks-lfis-platform-would-pose-france-tsiporah-fried"
-    },
-    {
-        "id": "https://www.hudson.org/trump-pulls-vance-iran-negotiations-walter-russell-mead",
-        "source": "Hudson Institute",
-        "title": "Trump Pulls Vance from Iran Negotiations",
-        "publicationDate": "2026-11-16",
-        "category": "Defense",
-        "summary": "Trump Pulls Vance from Iran Negotiations bbert@hudson.org Mon, 11/16/2026 - 12:20 SVG In the Media Nov 14, 2026 Fox News Trump Pulls Vance from Iran Negotiations Walter Russell Mead Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship Walter Russell Mead In the Media Caption (Screenshot via Fox News) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook...",
-        "url": "https://www.hudson.org/trump-pulls-vance-iran-negotiations-walter-russell-mead"
-    },
-    {
-        "id": "https://cms.hoover.org/research/ai-medicine-russ-altman-new-age-discovery",
-        "source": "Hoover Institution",
-        "title": "AI In Medicine: Russ Altman On A New Age Of Discovery",
-        "publicationDate": "2026-11-16",
-        "category": "Defense",
-        "summary": "How artificial intelligence is helping physicians in practice and in promise.",
-        "url": "https://cms.hoover.org/research/ai-medicine-russ-altman-new-age-discovery"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump appeals to state and federal courts to erase hush money criminal conviction",
-        "publicationDate": "2026-11-16",
-        "category": "Donald Trump news",
-        "summary": "A federal appeals court is weighing whether it can — or should — intervene in President Donald Trump's hush money case now that a New York State appellate court has heard arguments in his quest to erase the historic conviction.",
-        "url": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump administration seeks to deflect responsibility for nationwide ground stop",
-        "publicationDate": "2026-11-16",
-        "category": "air-traffic control",
-        "summary": "Three days after air travel was halted in the longest nationwide ground stop since 9/11, the focus has turned to how the air traffic control network can be fixed. The Trump administration is calling for tens of billions of dollars to pay for improvements, but Democrats are questioning that price tag, saying billions have already been approved for an FAA overhaul. Liz Landers reports.",
-        "url": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5487-1.html",
         "source": "RAND Corporation",
         "title": "The Effectiveness of Russian Nuclear Signaling in the Ukraine War",
@@ -547,33 +628,6 @@
         "category": "Foreign Policy",
         "summary": "The author evaluates the effectiveness of Russia’s nuclear signaling during the war in Ukraine and its implications for broader nuclear dynamics.",
         "url": "https://www.rand.org/pubs/research_reports/RRA5487-1.html"
-    },
-    {
-        "id": "https://www.heritage.org/markets-and-finance/commentary/the-fed-got-it-right-now-congress-must-do-the-same",
-        "source": "Heritage Foundation",
-        "title": "The Fed Got It Right; Now Congress Must Do the Same",
-        "publicationDate": "2026-11-13",
-        "category": "Economy",
-        "summary": "Every day, the federal government spends nearly $3 billion on interest on its debt. That’s almost $120 million per hour—and it only covers the cost of past borrowing. When the Federal Reserve held interest rates steady on Oct. 28, many in Washington and across the country were hoping for a cut, but the Federal Open Market Committee kept its target range for the federal funds rate at 3.75% to 4.00%. The Fed’s...",
-        "url": "https://www.heritage.org/markets-and-finance/commentary/the-fed-got-it-right-now-congress-must-do-the-same"
-    },
-    {
-        "id": "https://www.heritage.org/conservatism/report/lessons-the-founding-fathers-and-the-old-american-tradition-muslim-immigration",
-        "source": "Heritage Foundation",
-        "title": "Lessons from the Founding Fathers and the Old American Tradition on Muslim Immigration",
-        "publicationDate": "2026-11-11",
-        "category": "Defense",
-        "summary": "Western civilization is facing a crisis driven by mass immigration from the Muslim world. Across the Atlantic, the demographic consequences of Muslim immigration have begun to unravel the social fabric of Europe. America is following a similar course as its foreign-born population reaches historic levels. Coinciding with this trend, immigration from the Muslim world has increased dramatically in recent decades....",
-        "url": "https://www.heritage.org/conservatism/report/lessons-the-founding-fathers-and-the-old-american-tradition-muslim-immigration"
-    },
-    {
-        "id": "https://www.heritage.org/conservatism/report/the-patient-islamification-the-west-the-muslim-brotherhood-both-sides-the-0",
-        "source": "Heritage Foundation",
-        "title": "The Patient Islamification of the West: The Muslim Brotherhood on Both Sides of the Atlantic",
-        "publicationDate": "2026-11-11",
-        "category": "Other",
-        "summary": "Description not available from the source feed.",
-        "url": "https://www.heritage.org/conservatism/report/the-patient-islamification-the-west-the-muslim-brotherhood-both-sides-the-0"
     },
     {
         "id": "https://www.cer.eu/friends-cer-notes-brussels-october-2026",
@@ -621,12 +675,48 @@
         "url": "https://www.cer.eu/media/unpacking-europe-scaling-innovation-europe"
     },
     {
-        "id": "IF12589",
-        "source": "Congressional Research Service",
-        "title": "Research Security Policies: An Overview",
-        "publicationDate": "2024-12-04",
-        "category": "Defense",
-        "summary": "The international scientific community generally views the free and open exchange of information as vital to the process of scientific inquiry, including the vetting of ideas and the verification of research results. The U.S. research ecosystem broadly operates on these principles. U.S. officials and others have raised concerns about various efforts of foreign governments—most notably the People’s Republic of...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF12589/IF12589.3.pdf"
+        "id": "https://www.bruegel.org/node/12486",
+        "source": "Bruegel",
+        "title": "Session 5b: The path to Ukraine’s membership of the EU: conversation with Ambassador-designate Kachka",
+        "publicationDate": "2026-08-19",
+        "category": "Foreign Policy",
+        "summary": "Session 5b: The path to Ukraine’s membership of the EU: conversation with Ambassador-designate Kachka Anastasiia Zaitseva Wed, 08/19/2026 - 11:43 Anastasiia Zaitseva Wed, 08/19/2026 - 11:43",
+        "url": "https://www.bruegel.org/node/12486"
+    },
+    {
+        "id": "https://www.bruegel.org/node/12451",
+        "source": "Bruegel",
+        "title": "Session 2a: Can the EU's better regulation agenda deliver competitiveness?",
+        "publicationDate": "2026-07-23",
+        "category": "Other",
+        "summary": "Session 2a: Can the EU's better regulation agenda deliver competitiveness? Chiara Montanaro Thu, 07/23/2026 - 11:23 Chiara Montanaro Thu, 07/23/2026 - 11:23",
+        "url": "https://www.bruegel.org/node/12451"
+    },
+    {
+        "id": "https://www.bruegel.org/node/12382",
+        "source": "Bruegel",
+        "title": "Lunch",
+        "publicationDate": "2026-07-03",
+        "category": "Other",
+        "summary": "Lunch Anastasiia Zaitseva Fri, 07/03/2026 - 11:24 Anastasiia Zaitseva Fri, 07/03/2026 - 11:24",
+        "url": "https://www.bruegel.org/node/12382"
+    },
+    {
+        "id": "https://www.bruegel.org/node/12381",
+        "source": "Bruegel",
+        "title": "Session 1b: Global monetary issues",
+        "publicationDate": "2026-07-03",
+        "category": "Other",
+        "summary": "Session 1b: Global monetary issues Anastasiia Zaitseva Fri, 07/03/2026 - 11:23 Anastasiia Zaitseva Fri, 07/03/2026 - 11:23",
+        "url": "https://www.bruegel.org/node/12381"
+    },
+    {
+        "id": "https://www.bruegel.org/node/12380",
+        "source": "Bruegel",
+        "title": "Session 2b: What would make the European Economy secure in 2030?",
+        "publicationDate": "2026-07-03",
+        "category": "Economy",
+        "summary": "Session 2b: What would make the European Economy secure in 2030? Anastasiia Zaitseva Fri, 07/03/2026 - 11:22 Anastasiia Zaitseva Fri, 07/03/2026 - 11:22",
+        "url": "https://www.bruegel.org/node/12380"
     }
 ]
