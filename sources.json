@@ -1,5 +1,14 @@
 [
     {
+        "id": "https://www.cfr.org/articles/when-general-william-westmoreland-said-the-end-begins-to-come-into-view-in-vietnam",
+        "source": "Council on Foreign Relations",
+        "title": "When General William Westmoreland Said the “End Begins to Come Into View” in Vietnam",
+        "publicationDate": "2026-11-21",
+        "category": "Defense",
+        "summary": "Shielding the public from unpleasant truths about U.S. military operations abroad can backfire on a president.",
+        "url": "https://www.cfr.org/articles/when-general-william-westmoreland-said-the-end-begins-to-come-into-view-in-vietnam"
+    },
+    {
         "id": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
         "source": "NPR Politics",
         "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
@@ -36,57 +45,102 @@
         "url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6235105-california-bar-investigates-zacharia/",
+        "id": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump orders federal contractors to check with White House before responding to Congress",
+        "publicationDate": "2026-11-21",
+        "category": "congress",
+        "summary": "The order is the Republican administration's latest effort to resist what are expected to be wide-ranging and aggressive oversight efforts from Democrats when they take over Congress in January.",
+        "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
+        "publicationDate": "2026-11-21",
+        "category": "Donald Trump news",
+        "summary": "It was the latest episode in the public audition that the president and former reality television star has appeared to delight in arranging for his potential successors as he nears his last two years in office.",
+        "url": "https://www.pbs.org/newshour/politics/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
+        "source": "PBS NewsHour Politics",
+        "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
+        "publicationDate": "2026-11-21",
+        "category": "Foreign Policy",
+        "summary": "\"The proper chip restrictions are in place,\" Bessent said in an interview with CNBC after returning from a trip to Asia with President Donald Trump. \"And the remote access has been curtailed.\"",
+        "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6235390-trump-praises-jeffries-speaker/",
         "source": "The Hill",
-        "title": "California State Bar places Katie Zacharia under investigation",
+        "title": "Trump praises Jeffries's Speakership nod despite Stephen Miller jabs",
         "publicationDate": "2026-11-21",
         "category": "Administration",
-        "summary": "The California State Bar Association is investigating former White House Press Secretary Katie Zacharia, a newly-released letter shows, after a watchdog group filed a complaint accusing her of violating the law. Zacharia served a brief five-day stint as press secretary, but during that period, reporting emerged that she had never passed the bar exam despite...",
-        "url": "https://thehill.com/homenews/administration/6235105-california-bar-investigates-zacharia/"
+        "summary": "President Trump offered up rare praise for House Speaker-designate Hakeem Jeffries (D) on Saturday morning, after the newly-nominated Democratic leader slammed his chief of staff Stephen Miller as a “stone-cold racist.” In an interview with Fox News’s Kayleigh McEnany on “Saturday in America,” Trump defended his top aide as a “good person.” “I think Hakeem...",
+        "url": "https://thehill.com/homenews/administration/6235390-trump-praises-jeffries-speaker/"
     },
     {
-        "id": "https://thehill.com/policy/technology/6235094-fbi-investigates-ncic-breach/",
+        "id": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
         "source": "The Hill",
-        "title": "FBI looking into possible breach of its crime database: Report",
+        "title": "Trump on reported FBI hack: 'I always like to put things in a positive spin'",
+        "publicationDate": "2026-11-21",
+        "category": "Administration",
+        "summary": "President Trump said Saturday the potential breach of the FBI's nationwide criminal information database is “not good,” but it may provide an opportunity to “learn things that we would have never learned otherwise.” “I always like to put things on a positive spin,” Trump said during a phone interview with Fox News’s “Saturday in America\"...",
+        "url": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/"
+    },
+    {
+        "id": "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/",
+        "source": "The Hill",
+        "title": "Cruz says he is already working with Talarico on bringing Space Academy to Texas",
+        "publicationDate": "2026-11-21",
+        "category": "Senate",
+        "summary": "Sen. Ted Cruz (R-Texas) said he had a productive conversation with Sen.-elect James Talarico (D-Texas), his soon-to-be Texas partner, and that they will both push to bring President Trump’s proposed Space Academy to Texas. “I did actually spend a probably half hour on the phone with him yesterday talking about the space academy,” Cruz told...",
+        "url": "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/"
+    },
+    {
+        "id": "https://thehill.com/opinion/criminal-justice/6232027-washington-fraud-enforcement-shift/",
+        "source": "The Hill",
+        "title": "The fight against fraud gets a makeover — we have seen this look before",
+        "publicationDate": "2026-11-21",
+        "category": "Opinions - Criminal Justice",
+        "summary": "As political power shifts in Washington, the debate continues between Democratic 'pay and chase' models and Republican 'friction' strategies regarding how the government will address systemic fraud and improper payments.",
+        "url": "https://thehill.com/opinion/criminal-justice/6232027-washington-fraud-enforcement-shift/"
+    },
+    {
+        "id": "https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/",
+        "source": "The Hill",
+        "title": "Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance",
+        "publicationDate": "2026-11-21",
+        "category": "House",
+        "summary": "House Democratic leader Rep. Hakeem Jeffries (D-N.Y.) expressed openness to work with Republicans in a new interview but said he had yet to speak extensively with any GOP leaders as he prepares to become Speaker of the House. Sitting down for a wide-ranging interview with The New York Times, Jeffries touched on his party’s priorities,...",
+        "url": "https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
+        "source": "New York Times Politics",
+        "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
+        "publicationDate": "2026-11-21",
+        "category": "United States Politics and Government",
+        "summary": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions.",
+        "url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+        "source": "New York Times Politics",
+        "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
         "publicationDate": "2026-11-21",
         "category": "Technology",
-        "summary": "The Federal Bureau of Investigation (FBI) is looking into a potential breach of its nationwide criminal information database, a second breach in recent months coming on the heels of nationwide technology outages. The agency’s National Crime Information Center, which is used to connect federal, state and local authorities for nationwide information, was breached by apparent...",
-        "url": "https://thehill.com/policy/technology/6235094-fbi-investigates-ncic-breach/"
-    },
-    {
-        "id": "https://thehill.com/opinion/energy-environment/6233586-trump-nuclear-campus-job-claims/",
-        "source": "The Hill",
-        "title": "Trump dangled a nuclear jobs boom — Now comes the fine print",
-        "publicationDate": "2026-11-21",
-        "category": "Opinions - Energy and Environment",
-        "summary": "Nearly 10 months later, the vision has collided with reality.",
-        "url": "https://thehill.com/opinion/energy-environment/6233586-trump-nuclear-campus-job-claims/"
-    },
-    {
-        "id": "https://thehill.com/policy/defense/6235072-esper-iran-war-timeline/",
-        "source": "The Hill",
-        "title": "Former defense secretary suggests Iran war may last until 2029: 'It's just gonna take a long time'",
-        "publicationDate": "2026-11-21",
-        "category": "Defense",
-        "summary": "Former Defense Secretary Mark Esper said on Friday the ongoing war in Iran would go into 2027 but questioned whether it could go into as far as 2029, noting it “takes time.” “Well, it's definitely gonna go into 2027 … the question is, does it roll into 2028 and even 2029? Right, and it all...",
-        "url": "https://thehill.com/policy/defense/6235072-esper-iran-war-timeline/"
-    },
-    {
-        "id": "https://thehill.com/policy/healthcare/6231776-democrats-expand-medicare-coverage/",
-        "source": "The Hill",
-        "title": "Democrats want 'Medicare for More.' Then comes the hard part",
-        "publicationDate": "2026-11-21",
-        "category": "Healthcare",
-        "summary": "Democrats are coalescing around a plan to expand Medicare coverage to more Americans when they take control of Congress in January, a consensus policy that could bridge a divide between the party's liberal and moderate wings. Both sides agree that they want to pursue \"Medicare for More\" quickly next year. But as Democrats eye ways...",
-        "url": "https://thehill.com/policy/healthcare/6231776-democrats-expand-medicare-coverage/"
+        "summary": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+        "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
     },
     {
         "id": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
         "source": "New York Times Politics",
-        "title": "Hakeem Jeffries Thinks He’s the Man for This Moment",
+        "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
         "publicationDate": "2026-11-21",
         "category": "United States Politics and Government",
-        "summary": "The Democratic nominee for House speaker on investigating Trump, whether Chuck Schumer should be majority leader and if he’ll ever sit down with Stephen Miller.",
+        "summary": "The Democratic nominee for House speaker will have a challenging job. We asked him how he plans to lead.",
         "url": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html"
     },
     {
@@ -108,22 +162,31 @@
         "url": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/21/us/politics/international-student-enrollment-plunged.html",
-        "source": "New York Times Politics",
-        "title": "International Student Enrollment Plunged. Schools Are Bracing for More Losses.",
+        "id": "https://www.washingtonpost.com/politics/2026/11/21/was-trumps-news-conference-with-vance-rubio-an-audition-2028/",
+        "source": "Washington Post Politics",
+        "title": "Was Trump’s news conference with Vance and Rubio an audition for 2028?",
         "publicationDate": "2026-11-21",
-        "category": "Foreign Policy",
-        "summary": "A blitz of new Trump administration policies are set to upend the lives of international students again, making it harder for them to live and work in the United States.",
-        "url": "https://www.nytimes.com/2026/11/21/us/politics/international-student-enrollment-plunged.html"
+        "category": "Other",
+        "summary": "Vice President JD Vance and Secretary of State Marco Rubio are widely considered to be potential Republican presidential candidates.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/21/was-trumps-news-conference-with-vance-rubio-an-audition-2028/"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/21/us/politics/federal-court-halts-pregnant-workers-protection-law.html",
-        "source": "New York Times Politics",
-        "title": "Federal Court Halts Pregnant Workers’ Protection Law",
+        "id": "https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/",
+        "source": "Washington Post Politics",
+        "title": "In secret memo, Hegseth restricts U.S.-Canada defense relationship",
         "publicationDate": "2026-11-21",
-        "category": "Law and Legislation",
-        "summary": "The Fifth Circuit Court of Appeals said the law was unconstitutional because it was passed with proxy voting during the Covid pandemic. It is expected to be appealed to the Supreme Court.",
-        "url": "https://www.nytimes.com/2026/11/21/us/politics/federal-court-halts-pregnant-workers-protection-law.html"
+        "category": "Defense",
+        "summary": "The classified directive is another provocation in the Trump administration’s feud with Ottawa. One U.S. official said it’s sure to be seen as a “slap in the face.”",
+        "url": "https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/21/trump-white-house-orders-contractors-limit-information-shared-with-congress/",
+        "source": "Washington Post Politics",
+        "title": "White House seeks to limit information contractors should share with Congress",
+        "publicationDate": "2026-11-21",
+        "category": "Other",
+        "summary": "The White House is pushing back against congressional oversight as it prepares for expected investigations from a Congress led by Democrats in January.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/21/trump-white-house-orders-contractors-limit-information-shared-with-congress/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/11/21/van-hollen-once-an-insider-has-started-democrats-first-big-fight/",
@@ -144,33 +207,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/11/21/new-map-fight-black-political-power/"
     },
     {
-        "id": "https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/",
-        "source": "Washington Post Politics",
-        "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
-        "publicationDate": "2026-11-21",
-        "category": "Defense",
-        "summary": "Senate Republicans won’t advance two political nominees for key policy jobs. The administration’s nominees to lead the Army and Navy also have encountered resistance, as has its ask for hundreds of billions of dollars in defense funding.",
-        "url": "https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/11/21/presidential-hopefuls-start-hint-when-they-might-announce-their-bids/",
-        "source": "Washington Post Politics",
-        "title": "Presidential hopefuls start to hint when they might announce their bids",
-        "publicationDate": "2026-11-21",
-        "category": "Foreign Policy",
-        "summary": "Presidential hopefuls tease announcements, governors show off their foreign policy chops, and more.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/21/presidential-hopefuls-start-hint-when-they-might-announce-their-bids/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/health/2026/11/21/rfk-jr-vows-curb-measles-crisis-he-initially-underestimated/",
-        "source": "Washington Post Politics",
-        "title": "RFK Jr. vows to curb a measles crisis he initially underestimated",
-        "publicationDate": "2026-11-21",
-        "category": "Healthcare",
-        "summary": "Federal officials must create a plan to regain measles elimination status. It won’t be easy, public health experts say.",
-        "url": "https://www.washingtonpost.com/health/2026/11/21/rfk-jr-vows-curb-measles-crisis-he-initially-underestimated/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -178,6 +214,15 @@
         "category": "Foreign Policy",
         "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
         "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Russia-bound ship attacked in Gulf of Finland",
+        "publicationDate": "2026-11-21",
+        "category": "Foreign Policy",
+        "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+        "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
@@ -198,6 +243,42 @@
         "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
     },
     {
+        "id": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "EU raises prospect of ‘no deal’ at COP31",
+        "publicationDate": "2026-11-21",
+        "category": "Other",
+        "summary": "Escalation in tactics comes as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement",
+        "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+        "publicationDate": "2026-11-21",
+        "category": "Healthcare",
+        "summary": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US",
+        "url": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+        "publicationDate": "2026-11-21",
+        "category": "Other",
+        "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
+        "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Alice Huang’s links to the chip underworld",
+        "publicationDate": "2026-11-21",
+        "category": "Foreign Policy",
+        "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+        "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1"
+    },
+    {
         "id": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
         "source": "Financial Times World",
         "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
@@ -205,42 +286,6 @@
         "category": "Defense",
         "summary": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
         "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Traders start to move US copper to China as Trump tariff fears ease",
-        "publicationDate": "2026-11-21",
-        "category": "Foreign Policy",
-        "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
-        "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/c893d0fa-ba27-4a3c-bfb6-4df3ccb7e6cc?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Strong sales point to happy holiday season for US retailers",
-        "publicationDate": "2026-11-21",
-        "category": "Other",
-        "summary": "Store chains rake in billions in extra revenue in defiance of gloomy consumer sentiment surveys",
-        "url": "https://www.ft.com/content/c893d0fa-ba27-4a3c-bfb6-4df3ccb7e6cc?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/2e9c54a8-e2c5-4334-8141-9791267ae3c3?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Costa revives EU digital tax proposal in bid to reach agreement on budget",
-        "publicationDate": "2026-11-21",
-        "category": "Economy",
-        "summary": "Latest seven-year plan for the bloc scales back spending but would still be an increase of about a quarter on current levels",
-        "url": "https://www.ft.com/content/2e9c54a8-e2c5-4334-8141-9791267ae3c3?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/c5bcb64e-35b8-40b8-842e-e4b5c9b3150d?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Going public, but only a little",
-        "publicationDate": "2026-11-21",
-        "category": "Other",
-        "summary": "Big IPOs, small floats",
-        "url": "https://www.ft.com/content/c5bcb64e-35b8-40b8-842e-e4b5c9b3150d?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/with-genocide-ruling-justice-finally-descends-upon-myanmar-and-the-rohingya",
@@ -277,15 +322,6 @@
         "category": "Article",
         "summary": "CFR President Michael Froman reflects on a recent CFR fact-finding mission in Ethiopia and Kenya.",
         "url": "https://www.cfr.org/articles/turning-crisis-into-opportunity-lessons-from-east-africa"
-    },
-    {
-        "id": "https://www.cfr.org/articles/emerging-market-stablecoin-growth-is-creating-risks-to-global-financial-stability",
-        "source": "Council on Foreign Relations",
-        "title": "Emerging Market Stablecoin Growth Is Creating Risks to Global Financial Stability",
-        "publicationDate": "2026-11-20",
-        "category": "Article",
-        "summary": "The soaring use of U.S. dollar stablecoins with weak asset backing is a potential source of global financial instability. The IMF should act to address the problem.",
-        "url": "https://www.cfr.org/articles/emerging-market-stablecoin-growth-is-creating-risks-to-global-financial-stability"
     },
     {
         "id": "https://www.heritage.org/progressivism/commentary/its-the-culture-stupid",
@@ -387,33 +423,6 @@
         "url": "https://www.pbs.org/newshour/show/josh-shapiro-on-foreign-policy-democratic-wins-and-his-2028-ambitions"
     },
     {
-        "id": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-summit-with-putin-and-xi",
-        "source": "PBS NewsHour Politics",
-        "title": "Brooks and Capehart on Trump's summit with Putin and Xi",
-        "publicationDate": "2026-11-20",
-        "category": "Brooks and Capehart",
-        "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Amna Nawaz to discuss the week in politics, including President Trump's trilateral summit with Xi and Putin, the ongoing debate surrounding data centers, and Elon Musk's attempt to distance himself from MAGA.",
-        "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-summit-with-putin-and-xi"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
-        "source": "PBS NewsHour Politics",
-        "title": "Second federal judge blocks construction of Trump's memorial arch",
-        "publicationDate": "2026-11-20",
-        "category": "Donald Trump news",
-        "summary": "A second federal judge has blocked President Donald Trump's administration from building a 250-foot memorial arch in the nation's capital, issuing an order on Friday that keeps the construction work on hold indefinitely, according to plaintiffs' lawyers who sued to challenge the project.",
-        "url": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/watch-trump-on-data-centers-take-advantage-dont-shut-them-off",
-        "source": "PBS NewsHour Politics",
-        "title": "WATCH: Trump on data centers: 'Take advantage, don't shut them off'",
-        "publicationDate": "2026-11-20",
-        "category": "Foreign Policy",
-        "summary": "The president said he doesn't want to allow the centers to be built outside the U.S. \"because China will take all of them.\" He added that companies that try to build elsewhere will face \"tremendous penalties.\"",
-        "url": "https://www.pbs.org/newshour/politics/watch-trump-on-data-centers-take-advantage-dont-shut-them-off"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -421,15 +430,6 @@
         "category": "Other",
         "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "French police officers sentenced for beating of music producer Michel Zecler",
-        "publicationDate": "2026-11-20",
-        "category": "Other",
-        "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "IF11361",
