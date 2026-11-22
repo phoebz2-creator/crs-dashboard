@@ -1,5 +1,23 @@
 [
     {
+        "id": "https://www.nytimes.com/2026/11/21/us/politics/judge-trump-homeless-aid-addiction-treatment.html",
+        "source": "New York Times Politics",
+        "title": "Judge Blocks Trump Administration’s Effort to Transform Homelessness Policy",
+        "publicationDate": "2026-11-22",
+        "category": "Decisions and Verdicts",
+        "summary": "The decision by a federal judge in Rhode Island was a blow to an effort to shift aid away from housing subsidies in favor of treatment for mental illness and addiction.",
+        "url": "https://www.nytimes.com/2026/11/21/us/politics/judge-trump-homeless-aid-addiction-treatment.html"
+    },
+    {
+        "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "publicationDate": "2026-11-22",
+        "category": "Other",
+        "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
         "id": "https://www.cfr.org/articles/when-general-william-westmoreland-said-the-end-begins-to-come-into-view-in-vietnam",
         "source": "Council on Foreign Relations",
         "title": "When General William Westmoreland Said the “End Begins to Come Into View” in Vietnam",
@@ -7,6 +25,15 @@
         "category": "Defense",
         "summary": "Shielding the public from unpleasant truths about U.S. military operations abroad can backfire on a president.",
         "url": "https://www.cfr.org/articles/when-general-william-westmoreland-said-the-end-begins-to-come-into-view-in-vietnam"
+    },
+    {
+        "id": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+        "source": "NPR Politics",
+        "title": "Trump orders federal contractors to check with White House before responding to Congress",
+        "publicationDate": "2026-11-21",
+        "category": "Other",
+        "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+        "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
     },
     {
         "id": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
@@ -45,6 +72,33 @@
         "url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact"
     },
     {
+        "id": "https://www.pbs.org/newshour/politics/for-families-of-the-fallen-trumps-proposed-arch-casts-a-shadow-over-arlington-national-cemetery",
+        "source": "PBS NewsHour Politics",
+        "title": "For families of the fallen, Trump's proposed arch casts a shadow over Arlington National Cemetery",
+        "publicationDate": "2026-11-21",
+        "category": "arlington national cemetary",
+        "summary": "Trump's proposed 250-foot-tall arch could cast a long shadow on Arlington National Cemetery, with the potential to literally shade gravesites, disrupt solemn visits with the noise of construction and alter the carefully designed historic landscape of the nation's capital.",
+        "url": "https://www.pbs.org/newshour/politics/for-families-of-the-fallen-trumps-proposed-arch-casts-a-shadow-over-arlington-national-cemetery"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+        "source": "PBS NewsHour Politics",
+        "title": "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+        "publicationDate": "2026-11-21",
+        "category": "Economy",
+        "summary": "The standard proposal would substantially reduce what credit card companies can charge customers. The median credit card interest rate is roughly 22.2%, according to an August survey by the New York Federal Reserve.",
+        "url": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+        "source": "PBS NewsHour Politics",
+        "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
+        "publicationDate": "2026-11-21",
+        "category": "criminal justice",
+        "summary": "The National Crime Information Center, known as the NCIC, is a computerized database of criminal justice information that is available to local, state and federal law enforcement agencies and includes records on fugitives, missing persons, criminal history data, stolen property and other topics.",
+        "url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database"
+    },
+    {
         "id": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
         "source": "PBS NewsHour Politics",
         "title": "Trump orders federal contractors to check with White House before responding to Congress",
@@ -63,58 +117,58 @@
         "url": "https://www.pbs.org/newshour/politics/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
-        "source": "PBS NewsHour Politics",
-        "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
+        "id": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/",
+        "source": "The Hill",
+        "title": "Rounds: Pentagon restricted socialization between US, Canada defense officials",
         "publicationDate": "2026-11-21",
-        "category": "Foreign Policy",
-        "summary": "\"The proper chip restrictions are in place,\" Bessent said in an interview with CNBC after returning from a trip to Asia with President Donald Trump. \"And the remote access has been curtailed.\"",
-        "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china"
+        "category": "Defense",
+        "summary": "The Department of Defense (DOD) recently issued a memo instructing its staff to limit social and informal interactions between U.S. and Canadian military personnel, Sen. Mike Rounds (R-S.D.) said Saturday. During a press conference at the annual Halifax International Security Forum in Halifax, Nova Scotia, the South Dakota Republican said this order was drafted “several...",
+        "url": "https://thehill.com/policy/defense/6235519-dod-limits-us-canada-socializing/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6235390-trump-praises-jeffries-speaker/",
+        "id": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/",
         "source": "The Hill",
-        "title": "Trump praises Jeffries's Speakership nod despite Stephen Miller jabs",
+        "title": "Sunday shows preview: Trump's security agenda, House leadership elections take center stage",
+        "publicationDate": "2026-11-21",
+        "category": "Sunday Talk Shows",
+        "summary": "House Democrats nominated Minority Leader Hakeem Jeffries (D-N.Y.) this week for the Speakership, teeing up what would mark his historic appointment as the first Black lawmaker to lead the legislative chamber. Jeffries's nomination was one of many significant firsts in the lower chamber. House Democrats also elected Rep. Katherine Clark (D-Mass.) as the first woman for...",
+        "url": "https://thehill.com/homenews/sunday-talk-shows/6235459-house-leadership-trump-national-security/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/",
+        "source": "The Hill",
+        "title": "Hubbard leads Foxx by 330 votes after recount",
+        "publicationDate": "2026-11-21",
+        "category": "Campaign",
+        "summary": "Democrat Chuck Hubbard remains in the lead over incumbent Rep. Virginia Foxx (R-N.C.) after a nearly finalized recount changed only one vote. Hubbard leads by 330 votes in the race for North Carolina’s 5th Congressional District. Decision Desk HQ, The Hill’s nonpartisan election results partner, has not projected a winner in the race. Foxx had...",
+        "url": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/"
+    },
+    {
+        "id": "https://thehill.com/homenews/campaign/6234314-trump-maga-split-midterms/",
+        "source": "The Hill",
+        "title": "Trump's grip on GOP tested as MAGA allies head for exit",
+        "publicationDate": "2026-11-21",
+        "category": "Campaign",
+        "summary": "President Trump's grip on the Republican Party is being seriously tested after the midterm thumping, as stalwarts of his \"Make America Great Again\" (MAGA) movement flee the ship. Elon Musk's statement that he is \"not MAGA,\" a 180-degree turn from where he stood after Trump's inauguration, is the most notable example. But Musk is not...",
+        "url": "https://thehill.com/homenews/campaign/6234314-trump-maga-split-midterms/"
+    },
+    {
+        "id": "https://thehill.com/homenews/administration/6235423-trump-defends-zacharia-departure/",
+        "source": "The Hill",
+        "title": "Trump praises Zacharia amid California state bar investigation",
         "publicationDate": "2026-11-21",
         "category": "Administration",
-        "summary": "President Trump offered up rare praise for House Speaker-designate Hakeem Jeffries (D) on Saturday morning, after the newly-nominated Democratic leader slammed his chief of staff Stephen Miller as a “stone-cold racist.” In an interview with Fox News’s Kayleigh McEnany on “Saturday in America,” Trump defended his top aide as a “good person.” “I think Hakeem...",
-        "url": "https://thehill.com/homenews/administration/6235390-trump-praises-jeffries-speaker/"
+        "summary": "President Trump heaped praise on former White House Press Secretary Katie Zacharia in a phone interview Saturday, defending her quick exit from the role earlier this fall. “I saw the way she was being treated and I said, ‘Katie, you don’t need this,’” Trump told Fox News’ Kayleigh McEnany, a former Trump press secretary. “She...",
+        "url": "https://thehill.com/homenews/administration/6235423-trump-defends-zacharia-departure/"
     },
     {
-        "id": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/",
-        "source": "The Hill",
-        "title": "Trump on reported FBI hack: 'I always like to put things in a positive spin'",
+        "id": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
+        "source": "New York Times Politics",
+        "title": "The Penny Is Dead. Now It’s Official.",
         "publicationDate": "2026-11-21",
-        "category": "Administration",
-        "summary": "President Trump said Saturday the potential breach of the FBI's nationwide criminal information database is “not good,” but it may provide an opportunity to “learn things that we would have never learned otherwise.” “I always like to put things on a positive spin,” Trump said during a phone interview with Fox News’s “Saturday in America\"...",
-        "url": "https://thehill.com/homenews/administration/6235305-trump-fbi-database-breach-comments/"
-    },
-    {
-        "id": "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/",
-        "source": "The Hill",
-        "title": "Cruz says he is already working with Talarico on bringing Space Academy to Texas",
-        "publicationDate": "2026-11-21",
-        "category": "Senate",
-        "summary": "Sen. Ted Cruz (R-Texas) said he had a productive conversation with Sen.-elect James Talarico (D-Texas), his soon-to-be Texas partner, and that they will both push to bring President Trump’s proposed Space Academy to Texas. “I did actually spend a probably half hour on the phone with him yesterday talking about the space academy,” Cruz told...",
-        "url": "https://thehill.com/homenews/senate/6235304-cruz-talarico-texas-space-academy/"
-    },
-    {
-        "id": "https://thehill.com/opinion/criminal-justice/6232027-washington-fraud-enforcement-shift/",
-        "source": "The Hill",
-        "title": "The fight against fraud gets a makeover — we have seen this look before",
-        "publicationDate": "2026-11-21",
-        "category": "Opinions - Criminal Justice",
-        "summary": "As political power shifts in Washington, the debate continues between Democratic 'pay and chase' models and Republican 'friction' strategies regarding how the government will address systemic fraud and improper payments.",
-        "url": "https://thehill.com/opinion/criminal-justice/6232027-washington-fraud-enforcement-shift/"
-    },
-    {
-        "id": "https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/",
-        "source": "The Hill",
-        "title": "Jeffries says Jordan contacted him after Speaker vote, but not Trump or Vance",
-        "publicationDate": "2026-11-21",
-        "category": "House",
-        "summary": "House Democratic leader Rep. Hakeem Jeffries (D-N.Y.) expressed openness to work with Republicans in a new interview but said he had yet to speak extensively with any GOP leaders as he prepares to become Speaker of the House. Sitting down for a wide-ranging interview with The New York Times, Jeffries touched on his party’s priorities,...",
-        "url": "https://thehill.com/homenews/house/6235280-jeffries-openness-working-gop/"
+        "category": "Coins",
+        "summary": "President Trump signed a law on Friday formally putting the penny out of mint, a year after it stopped being struck.",
+        "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html"
     },
     {
         "id": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
@@ -144,22 +198,13 @@
         "url": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html",
-        "source": "New York Times Politics",
-        "title": "Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post",
+        "id": "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/",
+        "source": "Washington Post Politics",
+        "title": "Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’",
         "publicationDate": "2026-11-21",
-        "category": "United States Politics and Government",
-        "summary": "Republicans have targeted the Delaware Democrat, the first openly transgender member of Congress, since she came to Washington. Her party just elevated her to a key job.",
-        "url": "https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html",
-        "source": "New York Times Politics",
-        "title": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
-        "publicationDate": "2026-11-21",
-        "category": "Transit Systems",
-        "summary": "The changes could make it harder for dozens of projects across the country to get funding they have pursued for years.",
-        "url": "https://www.nytimes.com/2026/11/21/upshot/trump-transit-grants.html"
+        "category": "Other",
+        "summary": "In response, outgoing Sen. John Cornyn (R-Texas) criticized the president’s nomination and said he had put forward his own candidate.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/"
     },
     {
         "id": "https://www.washingtonpost.com/politics/2026/11/21/was-trumps-news-conference-with-vance-rubio-an-audition-2028/",
@@ -198,15 +243,6 @@
         "url": "https://www.washingtonpost.com/politics/2026/11/21/van-hollen-once-an-insider-has-started-democrats-first-big-fight/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/11/21/new-map-fight-black-political-power/",
-        "source": "Washington Post Politics",
-        "title": "The district Alabama remade — and the congressman who held on",
-        "publicationDate": "2026-11-21",
-        "category": "Other",
-        "summary": "After the Supreme Court gutted the Voting Rights Act, Rep. Shomari Figures of Alabama and his community carried the mantle of a new civil rights movement.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/21/new-map-fight-black-political-power/"
-    },
-    {
         "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
         "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -234,21 +270,21 @@
         "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
         "publicationDate": "2026-11-21",
-        "category": "Other",
-        "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+        "category": "Healthcare",
+        "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+        "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "EU raises prospect of ‘no deal’ at COP31",
+        "title": "COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’",
         "publicationDate": "2026-11-21",
         "category": "Other",
-        "summary": "Escalation in tactics comes as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement",
+        "summary": "Talks run into second day of overtime as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement",
         "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1"
     },
     {
@@ -259,6 +295,15 @@
         "category": "Healthcare",
         "summary": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US",
         "url": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/91d25e77-efa2-4ced-a9e1-92f53fa18e4d?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Dream of gas-powered vehicles falters in China’s hydrogen capital",
+        "publicationDate": "2026-11-21",
+        "category": "Foreign Policy",
+        "summary": "High costs and dwindling subsidies leave rows of hydrogen-powered buggies sitting idle in the southern city of Foshan",
+        "url": "https://www.ft.com/content/91d25e77-efa2-4ced-a9e1-92f53fa18e4d?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
@@ -277,15 +322,6 @@
         "category": "Foreign Policy",
         "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
         "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
-        "publicationDate": "2026-11-21",
-        "category": "Defense",
-        "summary": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
-        "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.cfr.org/articles/with-genocide-ruling-justice-finally-descends-upon-myanmar-and-the-rohingya",
@@ -394,42 +430,6 @@
         "category": "Defense",
         "summary": "Hoover Institution fellow Mike Kuiken warns that China could exploit American chips and AI to strengthen its military.",
         "url": "https://cms.hoover.org/research/mike-kuiken-china-watchdog-leaders-warn-us-technology-could-inadvertently-fuel-beijings"
-    },
-    {
-        "id": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-        "source": "NPR Politics",
-        "title": "The latest from Trump's press conference",
-        "publicationDate": "2026-11-20",
-        "category": "Foreign Policy",
-        "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-        "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
-        "source": "PBS NewsHour Politics",
-        "title": "What Trump addressed during his lengthy White House news conference",
-        "publicationDate": "2026-11-20",
-        "category": "Foreign Policy",
-        "summary": "In a lengthy press conference, President Trump touted his recent trip to Asia and defended his relationship with Chinese President Xi Jinping and Russian President Vladimir Putin. White House correspondent Liz Landers was in the briefing room as the president took questions from reporters.",
-        "url": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/show/josh-shapiro-on-foreign-policy-democratic-wins-and-his-2028-ambitions",
-        "source": "PBS NewsHour Politics",
-        "title": "Josh Shapiro on foreign policy, Democratic wins and his 2028 ambitions",
-        "publicationDate": "2026-11-20",
-        "category": "Foreign Policy",
-        "summary": "Pennsylvania Gov. Josh Shapiro is fresh off a reelection campaign that gave him another four years in office and Democrats majorities in the state House. Now Shapiro is turning his attention to foreign policy, laying out his prescriptions to solve pressing global crises. Amna Nawaz sat down with the governor to discuss his vision for how the United States should engage on the world stage.",
-        "url": "https://www.pbs.org/newshour/show/josh-shapiro-on-foreign-policy-democratic-wins-and-his-2028-ambitions"
-    },
-    {
-        "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "publicationDate": "2026-11-20",
-        "category": "Other",
-        "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "IF11361",
