@@ -1,5 +1,41 @@
 [
     {
+        "id": "https://thehill.com/homenews/state-watch/6245795-nyc-mayor-achilles-surgery-success/",
+        "source": "The Hill",
+        "title": "Mamdani recovering after 'successful' Achilles surgery",
+        "publicationDate": "2026-11-28",
+        "category": "State Watch",
+        "summary": "New York City Mayor Zohran Mamdani is recovering at Gracie Mansion—the mayor's official residence—following a “successful” surgery on his injured Achilles, which was caused by a recreational soccer game earlier this month. “Today, Mayor Zohran Kwame Mamdani underwent a surgical procedure to repair his Achilles tendon,” Joe Calvello, Mamdani’s press secretary, said in a statement. ...",
+        "url": "https://thehill.com/homenews/state-watch/6245795-nyc-mayor-achilles-surgery-success/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
+        "source": "New York Times Politics",
+        "title": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them",
+        "publicationDate": "2026-11-28",
+        "category": "United States Politics and Government",
+        "summary": "Decisions on voting rights, immigration and corruption generated a backlash that helped spur turnout that drove the Democratic sweep of Congress.",
+        "url": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html"
+    },
+    {
+        "id": "IN11532",
+        "source": "Congressional Research Service",
+        "title": "TRICARE Cost-Sharing Changes in 2027",
+        "publicationDate": "2026-11-27",
+        "category": "Defense",
+        "summary": "The Department of Defense (DOD), which is “using a secondary Department of War designation,” under Executive Order (EO) 14347 dated September 5, 2025, administers a statutory health entitlement (under Title 10, Chapter 55, of the U.S. Code) through the Military Health System (MHS). The MHS offers health care benefits and services through its TRICARE program to approximately 9.5 million beneficiaries, including...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN11532/IN11532.9.pdf"
+    },
+    {
+        "id": "IN12759",
+        "source": "Congressional Research Service",
+        "title": "The Bipartisan American Affordability and Jobs Act of 2026: Changes to When National Environmental Policy Act Reviews Are Required",
+        "publicationDate": "2026-11-27",
+        "category": "Defense",
+        "summary": "The Bipartisan American Affordability and Jobs Act of 2026 (BAAJA; H.R. 2347 as amended by S.Amdt. 6883) would address certain federal environmental review and permitting processes, including by making changes to the National Environmental Policy Act of 1969, as amended (NEPA; 42 U.S.C. §§4321 et seq.). Among other changes, BAAJA would modify NEPA’s requirements for determining which federal actions are subject to...",
+        "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12759/IN12759.1.pdf"
+    },
+    {
         "id": "IF11235",
         "source": "Congressional Research Service",
         "title": "Defense Primer: Senior Reserve Officers’ Training Corps",
@@ -63,6 +99,24 @@
         "url": "https://ecfr.eu/special/mapping_palestinian_politics/nafiz-sobaih/"
     },
     {
+        "id": "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas",
+        "source": "NPR Politics",
+        "title": "With Abbott out, what does the future look like for data centers in Texas?",
+        "publicationDate": "2026-11-27",
+        "category": "Other",
+        "summary": "Texas has been one of the most welcoming states for data centers, but that might change with a new governor coming in.",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas"
+    },
+    {
+        "id": "https://www.npr.org/2026/11/27/nx-s1-6045833/postmortem-of-ai-ads",
+        "source": "NPR Politics",
+        "title": "Postmortem of AI ads",
+        "publicationDate": "2026-11-27",
+        "category": "Other",
+        "summary": "The data AI companies have been accumulating in this cycle will help serve future ads to hyper-specific audiences.",
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6045833/postmortem-of-ai-ads"
+    },
+    {
         "id": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
         "source": "NPR Politics",
         "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
@@ -70,6 +124,24 @@
         "category": "Other",
         "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
         "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership",
+        "source": "PBS NewsHour Politics",
+        "title": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+        "publicationDate": "2026-11-27",
+        "category": "Foreign Policy",
+        "summary": "David Brooks of The Atlantic and Jonathan Capehart of MS NOW join Nick Schifrin to discuss the week in politics, including President Trump's relationship with Russia's Vladimir Putin, Jensen Huang's return to Nvidia and sweeping new tariffs on China, Europe and others.",
+        "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership"
+    },
+    {
+        "id": "https://www.pbs.org/newshour/show/rachel-maddow-discusses-how-the-justice-department-has-strayed-from-its-mission",
+        "source": "PBS NewsHour Politics",
+        "title": "Rachel Maddow discusses how the Justice Department has strayed from its mission",
+        "publicationDate": "2026-11-27",
+        "category": "Department of Justice",
+        "summary": "Journalist and MS NOW anchor Rachel Maddow's fifth book, \"Department of Fate,\" explores the history of the Department of Justice. Maddow argues the DOJ is \"America's most consequential institution,\" but says it has now strayed dramatically from its mission. Amna Nawaz spoke with Maddow about all of this and more in a recent episode of our PBS News podcast, \"Settle in.\"",
+        "url": "https://www.pbs.org/newshour/show/rachel-maddow-discusses-how-the-justice-department-has-strayed-from-its-mission"
     },
     {
         "id": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump",
@@ -81,49 +153,49 @@
         "url": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump"
     },
     {
-        "id": "https://thehill.com/homenews/media/6245312-portnoy-says-vance-done-as-2028-presidential-contender/",
+        "id": "https://thehill.com/homenews/state-watch/6245776-leon-medical-center-food-poisoning/",
         "source": "The Hill",
-        "title": "Portnoy says Vance 'done' as 2028 presidential contender",
-        "publicationDate": "2026-11-27",
-        "category": "Media",
-        "summary": "Barstool Sports founder Dave Portnoy, who has used his large social media following to promote President Trump, said Vice President Vance has no chance of winning the White House in 2028. During an interview on “The Scott Jennings Show” on Tuesday, Portnoy told the conservative commentator that he favored Florida Gov. Ron DeSantis (R) as...",
-        "url": "https://thehill.com/homenews/media/6245312-portnoy-says-vance-done-as-2028-presidential-contender/"
-    },
-    {
-        "id": "https://thehill.com/homenews/analysis/6243525-questions-democrats-thanksgiving-midterms-majority/",
-        "source": "The Hill",
-        "title": "5 big questions for Democrats this Thanksgiving",
-        "publicationDate": "2026-11-27",
-        "category": "Analysis",
-        "summary": "Democrats are entering the last month of the year on a high. The midterm election results surpassed all but the most optimistic expectations for the party. Even six months ago, the idea of the Democrats racking up a net gain of nine seats in the Senate would have seemed implausible. Their final House majority will...",
-        "url": "https://thehill.com/homenews/analysis/6243525-questions-democrats-thanksgiving-midterms-majority/"
-    },
-    {
-        "id": "https://thehill.com/opinion/healthcare/6242717-us-loses-measles-elimination-status/",
-        "source": "The Hill",
-        "title": "America deserves answers and accountability for the measles outbreak",
+        "title": "15 hospitalized in potential Thanksgiving food poisoning at Florida medical center",
         "publicationDate": "2026-11-27",
         "category": "Healthcare",
-        "summary": "We need to understand how we ended up in this growing American tragedy, for which losing vaccine elimination status is a harbinger of worse to come.",
-        "url": "https://thehill.com/opinion/healthcare/6242717-us-loses-measles-elimination-status/"
+        "summary": "Fifteen people were hospitalized due to possible food poisoning from Leon Medical Center headquarters' Thanksgiving event, according to Miami-Dade Fire Rescue officials. Miami-Dade Fire Rescue told a local NBC affiliate that crews responded to reports of potential food poisoning before the call was shifted to a Level 1 mass casualty incident. The agency continued that...",
+        "url": "https://thehill.com/homenews/state-watch/6245776-leon-medical-center-food-poisoning/"
     },
     {
-        "id": "https://thehill.com/business/6245247-trump-demands-gdp-investigation-inflation/",
+        "id": "https://thehill.com/policy/technology/6245761-sarah-wynn-williams-meta-gag-order/",
         "source": "The Hill",
-        "title": "Trump demands GDP data probe as chances of rate hike rise: What to know",
+        "title": "Meta whistleblower says gag order reminiscent of '1984'",
         "publicationDate": "2026-11-27",
-        "category": "Economy",
-        "summary": "President Trump on Thursday pressed for an investigation into gross domestic product (GDP) figures released by the Commerce Department prior to the midterms. \"It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the people in the Government Agency that does...",
-        "url": "https://thehill.com/business/6245247-trump-demands-gdp-investigation-inflation/"
+        "category": "Technology",
+        "summary": "Sarah Wynn-Williams, a former Facebook employee whose book warned about the company’s power, said a gag order preventing her from speaking about the tech giant was akin to the reality in George Orwell’s “1984” novel. “Control what people are allowed to remember or what they are allowed to know, and you control what they are...",
+        "url": "https://thehill.com/policy/technology/6245761-sarah-wynn-williams-meta-gag-order/"
     },
     {
-        "id": "https://thehill.com/opinion/judiciary/supreme-court/6242874-voting-rights-act-rucho-callais/",
+        "id": "https://thehill.com/blogs/in-the-know/6245743-rockstar-employees-reject-union/",
         "source": "The Hill",
-        "title": "Democrats, forget the Voting Rights Act: Fix Rucho",
+        "title": "Employees at GTA 6 developer Rockstar Games reject union",
         "publicationDate": "2026-11-27",
-        "category": "Opinions - Supreme Court",
-        "summary": "Rucho, not Callais, is why Black political representation is disappearing in some states.",
-        "url": "https://thehill.com/opinion/judiciary/supreme-court/6242874-voting-rights-act-rucho-callais/"
+        "category": "In The Know",
+        "summary": "Employees at Rockstar Games, the developer behind “Grand Theft Auto VI,” overwhelmingly voted against recognizing a union this week. In a Thursday vote, 75.3 percent of employees, or 1,163 team members, voted against recognizing the Rockstar Game Workers Union with the Independent Workers of Great Britain (IWGB), while 24.7 percent, or 381 members, voted in...",
+        "url": "https://thehill.com/blogs/in-the-know/6245743-rockstar-employees-reject-union/"
+    },
+    {
+        "id": "https://thehill.com/policy/international/6245694-russian-sabotage-ukraine-war-zelensky-trump-putin-friend/",
+        "source": "The Hill",
+        "title": "Russian sabotage spikes in Europe, including 'risk of mass-casualty incident': Analysis",
+        "publicationDate": "2026-11-27",
+        "category": "Foreign Policy",
+        "summary": "Incidents of sabotage blamed on Russia in Europe were up 16 percent year-over-year in September, according to a new report, which warns about the potential for a future “mass-casualty” event by Moscow. The report from the International Institute for Strategic Studies (IISS) said the Kremlin's “unconventional war” on Europe has included attacks on critical infrastructure...",
+        "url": "https://thehill.com/policy/international/6245694-russian-sabotage-ukraine-war-zelensky-trump-putin-friend/"
+    },
+    {
+        "id": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
+        "source": "New York Times Politics",
+        "title": "Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction",
+        "publicationDate": "2026-11-27",
+        "category": "United States Politics and Government",
+        "summary": "President Trump will lose control over the National Capital Planning Commission after Democrats take control of Congress in January. It could give final approval to some of his prized projects.",
+        "url": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html"
     },
     {
         "id": "https://www.nytimes.com/2026/11/27/us/politics/trump-congressional-investigations-contractors.html",
@@ -144,6 +216,42 @@
         "url": "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html"
     },
     {
+        "id": "https://www.washingtonpost.com/politics/2026/11/27/gop-governors-invite-texans-move-their-states-flee-blue-wave/",
+        "source": "Washington Post Politics",
+        "title": "GOP governors invite Texans to move to their states to flee blue wave",
+        "publicationDate": "2026-11-27",
+        "category": "Other",
+        "summary": "Alabama, Louisiana and Oklahoma leaders seized on Democrats’ sweep of every statewide office in Texas with relocation pitches.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/27/gop-governors-invite-texans-move-their-states-flee-blue-wave/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/27/sen-deb-fischers-husband-died-by-suicide-her-office-says/",
+        "source": "Washington Post Politics",
+        "title": "Sen. Deb Fischer’s husband died by suicide, her office says",
+        "publicationDate": "2026-11-27",
+        "category": "Other",
+        "summary": "The office of the senator from Nebraska initially said that Bruce Fischer had “passed away peacefully.”",
+        "url": "https://www.washingtonpost.com/politics/2026/11/27/sen-deb-fischers-husband-died-by-suicide-her-office-says/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/27/white-house-speed-trump-projects-with-special-meeting-ahead-new-congress/",
+        "source": "Washington Post Politics",
+        "title": "Trump officials to speed president’s projects with special meeting before new Congress",
+        "publicationDate": "2026-11-27",
+        "category": "Other",
+        "summary": "The National Capital Planning Commission will hold a meeting Dec. 31 intended to advance a golf course overhaul and the president’s other redevelopment priorities.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/27/white-house-speed-trump-projects-with-special-meeting-ahead-new-congress/"
+    },
+    {
+        "id": "https://www.washingtonpost.com/politics/2026/11/25/illinois-will-not-opt-federal-school-voucher-program/",
+        "source": "Washington Post Politics",
+        "title": "Illinois will not opt in to federal school voucher program",
+        "publicationDate": "2026-11-27",
+        "category": "Other",
+        "summary": "Gov. JB Pritzker joins other Democrats who oppose the effort.",
+        "url": "https://www.washingtonpost.com/politics/2026/11/25/illinois-will-not-opt-federal-school-voucher-program/"
+    },
+    {
         "id": "https://www.washingtonpost.com/politics/2026/11/27/trumps-thanksgiving-message-attacks-adversaries-migrants-economic-data/",
         "source": "Washington Post Politics",
         "title": "Trump’s Thanksgiving message attacks adversaries, migrants and economic data",
@@ -153,22 +261,13 @@
         "url": "https://www.washingtonpost.com/politics/2026/11/27/trumps-thanksgiving-message-attacks-adversaries-migrants-economic-data/"
     },
     {
-        "id": "https://www.washingtonpost.com/politics/2026/11/27/trump-visit-site-new-semiconductor-factory-arizona/",
-        "source": "Washington Post Politics",
-        "title": "Trump to visit site for new semiconductor factory in Arizona",
+        "id": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "title": "Spanish PM and rivals rally supporters in final pitch for votes",
         "publicationDate": "2026-11-27",
-        "category": "Technology",
-        "summary": "Trump has sought to promote the semiconductor industry in the U.S.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/27/trump-visit-site-new-semiconductor-factory-arizona/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/national-security/2026/11/27/democrats-vow-restrain-trumps-foreign-policy-foresee-limits/",
-        "source": "Washington Post Politics",
-        "title": "Democrats vow to restrain Trump’s foreign policy, but foresee limits",
-        "publicationDate": "2026-11-27",
-        "category": "Foreign Policy",
-        "summary": "U.S. allies and partners want the incoming Congress to be more assertive, but some remain skeptical Trump can be reined in.",
-        "url": "https://www.washingtonpost.com/national-security/2026/11/27/democrats-vow-restrain-trumps-foreign-policy-foresee-limits/"
+        "category": "Other",
+        "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
     },
     {
         "id": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
@@ -182,7 +281,7 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
         "publicationDate": "2026-11-27",
         "category": "Foreign Policy",
         "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
@@ -191,56 +290,38 @@
     {
         "id": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+        "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
         "publicationDate": "2026-11-27",
         "category": "Other",
         "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
         "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+        "id": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+        "title": "Brazil pushes back on Macron calling its meat 'doped'",
         "publicationDate": "2026-11-27",
         "category": "Other",
-        "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
-        "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
+        "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
     },
     {
-        "id": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+        "id": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "OpenAI countersues Apple for stealing trade secrets",
         "publicationDate": "2026-11-27",
         "category": "Other",
-        "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss"
+        "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+        "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Mélenchon takes aim at Germany in Berlin campaign stop",
+        "title": "S&P cuts France outlook to negative",
         "publicationDate": "2026-11-27",
         "category": "Other",
-        "summary": "Far-left presidential candidate has increased his attacks on France’s neighbour and closest ally",
-        "url": "https://www.ft.com/content/6689598a-47f2-41b3-92d7-e5c234914c5b?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1",
-        "source": "Financial Times World",
-        "title": "UK Department for Work and Pensions hit by cyber incident",
-        "publicationDate": "2026-11-27",
-        "category": "Technology",
-        "summary": "Agency says it has taken most of its online services down as it investigates possible attack",
-        "url": "https://www.ft.com/content/59a87442-51ad-47b7-ba11-e36876456fd4?syn-25a6b1a6=1"
-    },
-    {
-        "id": "https://www.ft.com/content/9c54e827-3786-4bad-ae06-f9a3f31fcab5",
-        "source": "Financial Times World",
-        "title": "AI caramba",
-        "publicationDate": "2026-11-27",
-        "category": "Economy",
-        "summary": "We may need to start thinking about the impact a bear market in US tech stocks would have on the real economy",
-        "url": "https://www.ft.com/content/9c54e827-3786-4bad-ae06-f9a3f31fcab5"
+        "summary": "Rating agency says political instability will make it harder for the country to tackle its public deficit",
+        "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
@@ -252,13 +333,22 @@
         "url": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1"
     },
     {
-        "id": "https://www.ft.com/content/53a48a14-eadf-4fe3-bd33-9facd4c90266?syn-25a6b1a6=1",
+        "id": "https://www.ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1",
         "source": "Financial Times World",
-        "title": "Russia set to criminalise sharing information about Ukrainian strikes",
+        "title": "Canada upholds law barring public sector workers from wearing religious symbols",
         "publicationDate": "2026-11-27",
-        "category": "Foreign Policy",
-        "summary": "Moscow looks to extend wartime crackdown to pro-war bloggers and regular citizens posting about Kyiv’s drones hitting oil refineries",
-        "url": "https://www.ft.com/content/53a48a14-eadf-4fe3-bd33-9facd4c90266?syn-25a6b1a6=1"
+        "category": "Other",
+        "summary": "National Council of Canadian Muslims says ruling is a ‘significant setback’ for rights",
+        "url": "https://www.ft.com/content/240e1fe6-6c82-4d18-b73d-b0b52e7edae4?syn-25a6b1a6=1"
+    },
+    {
+        "id": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+        "source": "Financial Times World",
+        "title": "Trump’s Nvidia intervention has a cost for US stocks",
+        "publicationDate": "2026-11-27",
+        "category": "Other",
+        "summary": "Political meddling has already rubbed some of the gloss off the dollar and US Treasuries. Now it is hitting equities",
+        "url": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1"
     },
     {
         "id": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
@@ -279,24 +369,6 @@
         "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
     },
     {
-        "id": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners",
-        "source": "NPR Politics",
-        "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
-        "publicationDate": "2026-11-26",
-        "category": "Other",
-        "summary": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
-        "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
-    },
-    {
-        "id": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs",
-        "source": "NPR Politics",
-        "title": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
-        "publicationDate": "2026-11-26",
-        "category": "Other",
-        "summary": "NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs.",
-        "url": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs"
-    },
-    {
         "id": "https://www.pbs.org/newshour/show/despite-political-divide-americans-often-speak-in-one-voice",
         "source": "PBS NewsHour Politics",
         "title": "Despite political divide, Americans often 'speak in one voice'",
@@ -315,24 +387,6 @@
         "url": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies"
     },
     {
-        "id": "https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda",
-        "source": "PBS NewsHour Politics",
-        "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
-        "publicationDate": "2026-11-26",
-        "category": "Economy",
-        "summary": "A federal judge on Wednesday sided against Democrats on the federal government's taxpayer-funded ads that promoted partisan messages and President Donald Trump ahead of the midterm elections, declining to extend a temporary ban.",
-        "url": "https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda"
-    },
-    {
-        "id": "https://www.pbs.org/newshour/politics/trump-heads-to-arizona-next-week-for-a-high-stakes-expansion-of-tsmcs-computer-chip-factories",
-        "source": "PBS NewsHour Politics",
-        "title": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories",
-        "publicationDate": "2026-11-26",
-        "category": "Defense",
-        "summary": "President Donald Trump, who has staked his economic policy on growth in the artificial intelligence sector, will travel to Arizona on Dec. 4 to speak at the groundbreaking for a new Taiwan Semiconductor Manufacturing Co. computer chip foundry, according to both the White House and the Taiwan-based company.",
-        "url": "https://www.pbs.org/newshour/politics/trump-heads-to-arizona-next-week-for-a-high-stakes-expansion-of-tsmcs-computer-chip-factories"
-    },
-    {
         "id": "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html",
         "source": "New York Times Politics",
         "title": "Thanksgiving Is Back on the Menu for Francesca Hong, the Failed Wisconsin Governor Candidate",
@@ -342,40 +396,13 @@
         "url": "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html"
     },
     {
-        "id": "https://www.nytimes.com/2026/11/26/us/politics/strobe-talbott-dead.html",
-        "source": "New York Times Politics",
-        "title": "Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has Died",
-        "publicationDate": "2026-11-26",
-        "category": "Foreign Policy",
-        "summary": "He was a reporter and foreign affairs columnist at Time and then served as deputy secretary of state and president of the Brookings Institution. He was 80.",
-        "url": "https://www.nytimes.com/2026/11/26/us/politics/strobe-talbott-dead.html"
-    },
-    {
-        "id": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
-        "source": "New York Times Politics",
-        "title": "Trump Administration’s Cuts to SNAP Threaten Free School Meals",
-        "publicationDate": "2026-11-26",
-        "category": "United States Politics and Government",
-        "summary": "The Trump administration’s cuts and proposed regulatory changes to the Supplemental Nutrition Assistance Program would have consequences for school lunch and breakfast.",
-        "url": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html"
-    },
-    {
-        "id": "https://www.washingtonpost.com/obituaries/2026/11/26/strobe-talbott-who-helped-shape-clinton-era-foreign-policy-dies-80/",
-        "source": "Washington Post Politics",
-        "title": "Strobe Talbott, who helped shape Clinton-era foreign policy, dies at 80",
-        "publicationDate": "2026-11-26",
-        "category": "Foreign Policy",
-        "summary": "The journalist and diplomat’s knowledge of Russia and U.S.-Soviet relations was the foundation of a long, influential career.",
-        "url": "https://www.washingtonpost.com/obituaries/2026/11/26/strobe-talbott-who-helped-shape-clinton-era-foreign-policy-dies-80/"
-    },
-    {
-        "id": "https://www.washingtonpost.com/politics/2026/11/26/where-national-redistricting-wars-are-probably-headed/",
-        "source": "Washington Post Politics",
-        "title": "Why the wave election may not end the frenzy to redraw political maps",
-        "publicationDate": "2026-11-26",
-        "category": "Other",
-        "summary": "Republicans tried to save their House majority by redrawing districts, but they’ll have a tougher time getting it back with a new round of redistricting.",
-        "url": "https://www.washingtonpost.com/politics/2026/11/26/where-national-redistricting-wars-are-probably-headed/"
+        "id": "IF10483",
+        "source": "Congressional Research Service",
+        "title": "Defense Primer: Military Retirement",
+        "publicationDate": "2026-11-25",
+        "category": "Defense",
+        "summary": "The military retirement system is a government-funded system that provides a defined benefit to all retirees and matching government contributions to the Thrift Savings Plan (TSP) for eligible servicemembers. It has historically been viewed as a significant retention incentive for military personnel. The system includes monthly compensation for qualified active and reserve retirees, disability benefits for those...",
+        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10483/IF10483.21.pdf"
     },
     {
         "id": "https://www.cfr.org/articles/americans-trust-each-other-less-and-its-making-them-sick",
@@ -477,22 +504,13 @@
         "url": "https://cms.hoover.org/research/will-stock-market-crash-raghuram-rajan-warns"
     },
     {
-        "id": "R42631",
-        "source": "Congressional Research Service",
-        "title": "Retirement Benefits for Federal Law Enforcement Personnel",
-        "publicationDate": "2026-11-24",
-        "category": "Other",
-        "summary": "Certain federal employees who perform specific duties, as defined in statute, are classified as law enforcement officers (LEOs) for the purpose of federal retirement benefits. LEOs and a few legislatively designated groups, including federal firefighters and air traffic controllers, are eligible for enhanced retirement benefits under the Civil Service Retirement System (CSRS) for individuals hired before 1984 or...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R42631/R42631.19.pdf"
-    },
-    {
         "id": "LSB11504",
         "source": "Congressional Research Service",
         "title": "District Court Upholds Civil Service Protections Over Arguments for Executive Power in Comey v. DOJ",
         "publicationDate": "2026-11-24",
         "category": "Defense",
         "summary": "Through the Civil Service Reform Act of 1978 (CSRA), Congress established procedural and for-cause removal protections for federal employees, including Assistant United States Attorneys (AUSAs). In October 2026, the U.S. District Court for the Southern District of New York issued a decision in Comey v. DOJ considering whether an AUSA could be removed from office as an exercise of executive power, even if the...",
-        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11504/LSB11504.1.pdf"
+        "url": "https://www.congress.gov/crs_external_products/LSB/PDF/LSB11504/LSB11504.2.pdf"
     },
     {
         "id": "https://www.rand.org/pubs/research_reports/RRA4474-1.html",
@@ -576,15 +594,6 @@
         "url": "https://www.hudson.org/national-security-defense/how-ukraine-pulled-epic-drone-strike-putins-ps150m-warship-1300-miles-luke-coffey"
     },
     {
-        "id": "R49523",
-        "source": "Congressional Research Service",
-        "title": "U.S. Army Aviation: Background and Issues for Congress",
-        "publicationDate": "2026-11-23",
-        "category": "Defense",
-        "summary": "All services of the U.S. military have their own distinctive aviation branches. The mission of Army Aviation, according to the Army, is to “find, fix, and destroy any enemy through fire and maneuver and to provide combat support and combat service support in coordinated operations as an integral member of the combined arms team.” Army Aviation units are part of the Active Component (AC) and the Reserve Component...",
-        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49523/R49523.3.pdf"
-    },
-    {
         "id": "https://www.rand.org/pubs/research_reports/RRA5061-1.html",
         "source": "RAND Corporation",
         "title": "What Makes Catastrophic Incidents Different?",
@@ -664,14 +673,5 @@
         "category": "Other",
         "summary": "\"I think what's driving this is desire to get economic growth, because he [Andy Burnham] understands that what Starmer was doing with the nitty gritty piecemeal negotiations on things like youth mobility and merging the emissions trading schemes and so on, we're not going to deliver anything very dramatic in terms of economic growth. ...And he understands that if you want to have a better economic growth,...",
         "url": "https://www.cer.eu/media/times-radio-uk-rejoining-eu"
-    },
-    {
-        "id": "IF10253",
-        "source": "Congressional Research Service",
-        "title": "Thailand: Background and U.S. Relations",
-        "publicationDate": "2026-01-28",
-        "category": "Defense",
-        "summary": "Thailand, a predominantly Buddhist, upper middle-income country of 71 million, is a long-time treaty ally and economic partner of the United States. U.S. government agencies operate numerous regional offices from the Embassy in Bangkok, one of the largest U.S. diplomatic missions in the world. Cooperation has included security initiatives, intelligence and law enforcement efforts, and regional health and education...",
-        "url": "https://www.congress.gov/crs_external_products/IF/PDF/IF10253/IF10253.23.pdf"
     }
 ]
